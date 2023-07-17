@@ -10,9 +10,9 @@ const lessonNeedUpdate = []
 //Dạng Cần Update | Để trống thì update toàn bộ dạng
 const dangNeedUpdate = []
 //Tên khóa học
-const khoaHocName = "4SKILLS_S_L"
+const khoaHocName = "4SKILLS_S_L" // hoặc 4SKILLS_PRE_S_L
 //Tên sheetName trong excel
-const _4SkillsSheetName = "4Skills.S"
+const _4SkillsSheetName = "4Skills.S" //4skills.PreS hoặc 4Skills.S
 
 const {
   COMMON,

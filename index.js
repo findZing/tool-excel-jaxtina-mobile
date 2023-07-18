@@ -4,15 +4,15 @@ const { v4: uuidv4, v4 } = require("uuid");
 
 // const pathLesson = "D:/Project/React Native Project/Jax Mobile/jaxtina-mobile/app/screens/Courses/assets/data/4SKILL_S/lessons/"
 //Đường dẫn nơi lưu trữ file
-const pathLesson = "D:/Project/React Native Project/Jax Mobile/Tool Json 1/CourseS/"
+const pathLesson = "./Course/"
 //Lesson Cần Update | Để trống thì update toàn bộ lesson
-const lessonNeedUpdate = []
+const lessonNeedUpdate = [3]
 //Dạng Cần Update | Để trống thì update toàn bộ dạng
-const dangNeedUpdate = []
+const dangNeedUpdate = ["GrammarVideo"]
 //Tên khóa học
-const khoaHocName = "4SKILLS_S_L" // hoặc 4SKILLS_PRE_S_L
+const khoaHocName = "4SKILLS_PRE_S_L" // hoặc 4SKILLS_PRE_S_L
 //Tên sheetName trong excel
-const _4SkillsSheetName = "4Skills.S" //4skills.PreS hoặc 4Skills.S
+const _4SkillsSheetName = "4skills.PreS" //4skills.PreS hoặc 4Skills.S
 
 const {
   COMMON,
@@ -21,7 +21,7 @@ const {
   CAC_KY_NANG,
 } = require("./constants");
 
-var fileData = xlsx.readFileSync(COMMON.DATA_FILE.S);
+var fileData = xlsx.readFileSync(COMMON.DATA_FILE.PRES);
 var sheets = fileData.SheetNames;
 var danhSachCauHoi = [];
 var folderNames = [];
@@ -1044,7 +1044,6 @@ for (lesson of _4Skills) {
             dangNeedUpdate.includes("GrammarVideo")
           )
         )) {
-          // console.log(item, folderName)
           let data = {
             dangCauHoi: "DangVideoPractise",
             elementType: "VIDEO1",
@@ -1063,7 +1062,7 @@ for (lesson of _4Skills) {
           let name = ""
           for (let j = 0; j < videoPractice.length; j++) {
             const item = videoPractice[j]
-
+            console.log(item)
             if (item["Lesson"] && item["Lesson"] == "Lesson " + lesson.Lesson + " GRAMMAR") {
               itemSave = "Lesson " + lesson.Lesson + " GRAMMAR"
             }

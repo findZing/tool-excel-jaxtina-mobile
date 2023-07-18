@@ -2,7 +2,7 @@ module.exports = {
     COMMON: {
         DATA_FILE: {
             PRES: "./Khoa_hoc_PreS.xlsx",
-            S: ".Khoa_hoc_S_template.xlsx",
+            S: "./Khoa_hoc_S.xlsx",
             TC: "../template_data/Khoa_hoc_TC_template.xlsx",
             MTC: "../template_data/Khoa_hoc_MTC_template.xlsx",
         },
@@ -95,6 +95,8 @@ module.exports = {
         S_4SKILLS: "4Skills.S",
         TU_VUNG: "Từ vựng",
         SCRIPT_VOCABURALY: "Vocab dưới Video",
-        VIDEO_PRACTICE: "Bài tập trong Video",
+        VIDEO_PRACTICE: "PracticeVideo",
+        GRAMMAR_VIDEO: "Grammar dưới Video",
+        VIDEO_PRACTICE_TIME: "Practice Video Time"
     },
 }

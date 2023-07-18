@@ -1,0 +1,240 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "Grammar",
+  "videoUrl": "4SKILLS_PRE_S_L_L1/grammar.mp4",
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:04:58",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P5",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "____ is a bird.",
+            "_id": "173e37e0-3381-4abd-a2b8-6155d8025b90",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "It",
+                "_id": "78ea959e-e2ef-4d60-badf-42690d1c4297"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "He",
+                "_id": {
+                  "$oid": "2d2d1ac4-bb7d-4eb5-8161-6d69fd9a32ec"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "She",
+                "_id": {
+                  "$oid": "46984df6-e53d-438b-bc39-589c38f7cc72"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "His name is John. ____ is from America.",
+            "_id": "d5146e1d-1158-497b-8e61-6c8e9628faf0",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "He",
+                "_id": "355979f0-6066-4c92-8de6-58394f577810"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "They",
+                "_id": {
+                  "$oid": "7e1c82bd-40e1-497d-920f-31e7fdff6c45"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "It",
+                "_id": {
+                  "$oid": "d5c0081c-8076-44f9-bf34-a5d559f4ddea"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "These are my friends. ____ are Chinese.",
+            "_id": "5bb20be5-c2fa-4176-82ea-eb080717d714",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "She",
+                "_id": "8e1a478d-ef15-48f8-80d0-367c8a6b7ac7"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "They",
+                "_id": {
+                  "$oid": "d064f5dc-a848-4841-a703-c947bcc7f413"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "He",
+                "_id": {
+                  "$oid": "b49c20b5-0706-45d2-a363-ecfba9c9f3ea"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:04:58",
+      "timeEnd": "0:08:23",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P7",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "I _____ <b><span style=\"color:blue\">(be)</span></b> Emily.",
+            "_id": {
+              "$oid": "d1a7022e-1f96-4687-9da5-8f40d382a2f3"
+            },
+            "yNghia": "am"
+          },
+          {
+            "cauHoi": "He ______ <b><span style=\"color:blue\">(be)</span></b> Tom.",
+            "_id": {
+              "$oid": "cb035f04-79af-4462-b176-4369e45447d4"
+            },
+            "yNghia": "is"
+          },
+          {
+            "cauHoi": "They ______ <b><span style=\"color:blue\">(be)</span></b> from Vietnam.",
+            "_id": {
+              "$oid": "3c962dd8-a283-4e4e-bc77-4e26e1202de9"
+            },
+            "yNghia": "are"
+          },
+          {
+            "cauHoi": "It ______ <b><span style=\"color:blue\">(be)</span></b> a dog.",
+            "_id": {
+              "$oid": "70b5e39b-5f62-4354-81f7-48d50bd2d5e6"
+            },
+            "yNghia": "is"
+          },
+          {
+            "cauHoi": "We ______ <b><span style=\"color:blue\">(be)</span></b> students.",
+            "_id": {
+              "$oid": "310fc414-4219-406b-83bf-1ad1390b5dc6"
+            },
+            "yNghia": "are"
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:08:23",
+      "timeEnd": "0:11:22",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P5",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "They’re from Japan. Their first language _______ Chinese.",
+            "_id": "d5dbd038-a990-47b2-b7cf-b9f60b5b32c1",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "isn’t",
+                "_id": "fb9f12e2-1b80-4203-b38d-df706a2854ba"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "is",
+                "_id": {
+                  "$oid": "c3515575-e705-48ea-8705-e8790a9bcae5"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "aren’t",
+                "_id": {
+                  "$oid": "f36d08be-d2af-4c11-b619-f92f2ee4b7ec"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "He isn’t from the UK. He ______ from France. His first language is French.",
+            "_id": "c0e951bc-1592-44b6-97df-38ab3067a1fc",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "is",
+                "_id": "6f8bf310-0457-401e-80d1-7a1af2ee98d0"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "are",
+                "_id": {
+                  "$oid": "2f639613-9ee0-4891-9ae7-9abcf0abf9f8"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "am",
+                "_id": {
+                  "$oid": "509da21b-7312-4446-b4b9-b397d06a75fb"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "My first language is Spanish but I _______ from Spain. I’m from Mexico.",
+            "_id": "d387df2e-7959-4e61-b734-abf428682543",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "is not",
+                "_id": "4f989f91-5d98-4847-bdeb-89ea9cc0928e"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "am not",
+                "_id": {
+                  "$oid": "803ffb80-aa38-4774-96a8-e2d0d2babd57"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "are not",
+                "_id": {
+                  "$oid": "fb3acdca-cc1d-40df-ba7e-6eb17be09782"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "noiDungVideo": [
+    {
+      "timeEnd": "0:04:58",
+      "noiDung": "Đại từ nhân xưng được dùng để xưng hô trong giao tiếp, đại diện cho một người, vật, nhóm người hoặc vật cụ thể và thường đứng ở vị trí chủ ngữ trong câu.<br />\n- Ngôi thứ nhất số ít: <b>I</b> <i>(tôi/tớ/mình/em)</i><br />\n- Ngôi thứ nhất số nhiều: <b>We</b> <i>(chúng tôi / chúng ta / chúng mình / chúng em)</i><br />\n- Ngôi thứ hai số nhiều: <b>You</b> <i>(bạn / các bạn)</i><br />\n- Ngôi thứ ba số ít: <b>He </b><i>(anh ấy / ông ấy)</i>, <b>She</b> <i>(cô ấy / bà ấy),</i><b><i> </i></b><b>It</b> <i>(nó)</i><br />\n<i>- </i>Ngôi thứ ba số nhiều: <b>They</b> <i>(họ / chúng)</i><br />"
+    },
+    {
+      "timeEnd": "0:08:23",
+      "noiDung": "<b><span style=\"color:red\"><i>Be </i>statements – Affirmative form<br />\n<i>(Cách sử dụng của động từ to be – Dạng khẳng định)</i></span></b><br />\nĐộng từ to be thường được dịch là \"thì, là, ở\".\n<table align=\"center\">\n        <tbody>\n                <tr>\n                        <td><b>Subject Pronouns</b><br />\n                        <b><i>(Chủ ngữ)</i></b></td>\n                        <td><b><i>To be</i></b><b> Affirmative<i> </i></b><br />\n                        <b><i> (Khẳng định)</i></b></td>\n                </tr>\n                <tr>\n                        <td>I</td>\n                        <td>am / ‘m</td>\n                </tr>\n                <tr>\n                        <td>You</td>\n                        <td>are / ‘re</td>\n                </tr>\n                <tr>\n                        <td>He / She / It</td>\n                        <td>is / ‘s</td>\n                </tr>\n                <tr>\n                        <td>We / They</td>\n                        <td>are / ‘re</td>\n                </tr>\n        </tbody>\n</table>\n"
+    },
+    {
+      "timeEnd": "0:11:22",
+      "noiDung": "<b><span style=\"color:red\"><i>Be</i> statements – Negative form<br />\n<i>(Cách sử dụng của động từ to be – Dạng phủ định)</i></span></b><br />\nĐộng từ <i>to be</i> thường được dịch là \"thì, là, ở\".\n<table align=\"center\">\n        <tbody>\n                <tr>\n                        <td><b>Subject Pronouns</b><br />\n                        <b><i>(Chủ ngữ)</i></b></td>\n                        <td><b><i>To be</i></b><b> Affirmative<i> </i></b><br />\n                        <b><i> (Khẳng định)</i></b></td>\n                        <td><b><i>To be</i></b><b> Negative<i> </i></b><br />\n                        <b><i>(Phủ định)</i></b></td>\n                </tr>\n                <tr>\n                        <td>I</td>\n                        <td>am / ‘m</td>\n                        <td>am not / ‘m not</td>\n                </tr>\n                <tr>\n                        <td>You</td>\n                        <td>are / ‘re</td>\n                        <td>are not / aren't</td>\n                </tr>\n                <tr>\n                        <td>He / She / It</td>\n                        <td>is / ‘s</td>\n                        <td>is not / isn't</td>\n                </tr>\n                <tr>\n                        <td>We / They</td>\n                        <td>are / ‘re</td>\n                        <td>are not / aren't</td>\n                </tr>\n        </tbody>\n</table>"
+    }
+  ]
+}

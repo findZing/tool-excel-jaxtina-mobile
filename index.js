@@ -8,7 +8,7 @@ const pathLesson = "./Course/"
 //Lesson Cần Update | Để trống thì update toàn bộ lesson
 const lessonNeedUpdate = []
 //Dạng Cần Update | Để trống thì update toàn bộ dạng
-const dangNeedUpdate = ["GrammarVideo", "VocabularyVideo"]
+const dangNeedUpdate = ["VocabularyVideo"]
 //Tên khóa học
 const khoaHocName = "4SKILLS_PRE_S_L" // hoặc 4SKILLS_PRE_S_L
 //Tên sheetName trong excel
@@ -20,12 +20,34 @@ const {
   MAP_SHEET_NAMES,
   CAC_KY_NANG,
 } = require("./constants");
+const { changeSubEnglish } = require("./utils");
 
 var fileData = xlsx.readFileSync(COMMON.DATA_FILE.PRES);
 var sheets = fileData.SheetNames;
 var danhSachCauHoi = [];
 var folderNames = [];
 
+var tuMoiData = xlsx.readFileSync(COMMON.DATA_FILE.TUMOI)
+var tuMoiSheetName = tuMoiData.SheetNames;
+console.log(tuMoiSheetName)
+var tuMoiJson = xlsx.utils.sheet_to_json(tuMoiData.Sheets['Từ vựng'])
+var tuMoiList = []
+for(tu of tuMoiJson) {
+ if(tu["Từ mới"])
+ {
+  tuMoiList.push(tu["Từ mới"].trim())
+ }
+}
+
+for (let i = 0; i < tuMoiList.length; i++) {
+  for (let j = i; j < tuMoiList.length; j++) {
+    if (tuMoiList[i].length < tuMoiList[j].length) {
+      const item = tuMoiList[i]
+      tuMoiList[i] = tuMoiList[j]
+      tuMoiList[j] = item
+    }
+  }
+}
 // console.log(sheets)
 
 function getJson(file, sheet) {
@@ -857,10 +879,13 @@ for (lesson of _4Skills) {
           };
           let newWordsVideo = filterByLesson(tuVungVideo, lesson.Lesson);
           let newWords = [];
+          let newWordList = []
+
           for (let j = 0; j < newWordsVideo.length; j++) {
             const newWord = newWordsVideo[j]
             let word = newWord["Từ mới"];
             if (word) {
+              newWordList.push(word)
               newWords.push({
                 word: word.trim(),
                 loaiTu: newWord["Loại từ"],
@@ -899,6 +924,17 @@ for (lesson of _4Skills) {
             }
           }
 
+          // let newOrderedWordList = [...newWordList]
+          // for (let i = 0; i < newOrderedWordList.length; i++) {
+          //   for (let j = i; j < newOrderedWordList.length; j++) {
+          //     if (newOrderedWordList[i].length < newOrderedWordList[j].length) {
+          //       const item = newOrderedWordList[i]
+          //       newOrderedWordList[i] = newOrderedWordList[j]
+          //       newOrderedWordList[j] = item
+          //     }
+          //   }
+          // }
+
           let scriptVideos = filterByLesson(vocalbularyScript, lesson.Lesson);
           let scriptVideo = [];
           for (script of scriptVideos) {
@@ -907,6 +943,7 @@ for (lesson of _4Skills) {
               start: script["Thời gian bắt đầu"],
               end: script["Thời gian kết thúc"],
               english: script["Tiếng Anh"].trim(),
+              subScriptEnglish: changeSubEnglish(script["Tiếng Anh"].trim(), tuMoiList),
               vietnamese: script["Tiếng Việt"],
             });
           }
@@ -1009,10 +1046,10 @@ for (lesson of _4Skills) {
                   }
                   else {
                     DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi.push({
-                      cauHoi: item["Nội dung"].replaceAll("<span style=\"color:blue\"> <b>"," <b><span style=\"color:blue\">")
-                      .replaceAll("<span style=\"color:blue\"><b>"," <b><span style=\"color:blue\">")
-                      .replaceAll("</b></span>","</span></b>")
-                      .replaceAll("</b> </span>","</span></b>")
+                      cauHoi: item["Nội dung"].replaceAll("<span style=\"color:blue\"> <b>", " <b><span style=\"color:blue\">")
+                        .replaceAll("<span style=\"color:blue\"><b>", " <b><span style=\"color:blue\">")
+                        .replaceAll("</b></span>", "</span></b>")
+                        .replaceAll("</b> </span>", "</span></b>")
                       ,
                       _id: {
                         $oid: v4()
@@ -1151,10 +1188,10 @@ for (lesson of _4Skills) {
                   }
                   else {
                     DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi.push({
-                      cauHoi: item["Nội dung"].replaceAll("<span style=\"color:blue\"> <b>","<b> <span style=\"color:blue\">")
-                      .replaceAll("<span style=\"color:blue\"><b>","<b> <span style=\"color:blue\">")
-                      .replaceAll("</b></span>","</span></b>")
-                      .replaceAll("</b> </span>","</span> </b>")
+                      cauHoi: item["Nội dung"].replaceAll("<span style=\"color:blue\"> <b>", "<b> <span style=\"color:blue\">")
+                        .replaceAll("<span style=\"color:blue\"><b>", "<b> <span style=\"color:blue\">")
+                        .replaceAll("</b></span>", "</span></b>")
+                        .replaceAll("</b> </span>", "</span> </b>")
                       ,
                       _id: {
                         $oid: v4()
@@ -1212,6 +1249,6 @@ for (lesson of _4Skills) {
     catch (error) {
       console.log("Error to create new folder ", error, folderName, indexError);
     }
-  } 
+  }
 }
 // fs.writeFileSync(__dirname + '/P4.json', JSON.stringify(cacBaiHoc, null, 2));

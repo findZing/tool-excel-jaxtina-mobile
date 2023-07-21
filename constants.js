@@ -5,6 +5,7 @@ module.exports = {
             S: "./Khoa_hoc_S.xlsx",
             TC: "../template_data/Khoa_hoc_TC_template.xlsx",
             MTC: "../template_data/Khoa_hoc_MTC_template.xlsx",
+            TUMOI: './Từ mới.xlsx'
         },
         DANG_KHOA_HOC: {
             "4SKILLS": {
@@ -93,8 +94,8 @@ module.exports = {
         CAC_DANG_BAI_HOC: "Các dạng bài học",
         PRES_4SKILLS: "4skills.PreS",
         S_4SKILLS: "4Skills.S",
-        TU_VUNG: "Từ vựng",
-        SCRIPT_VOCABURALY: "Vocab dưới Video",
+        TU_VUNG: "Kho Từ vựng",
+        SCRIPT_VOCABURALY: "Script Vocabulary",
         VIDEO_PRACTICE: "PracticeVideo",
         GRAMMAR_VIDEO: "Grammar dưới Video",
         VIDEO_PRACTICE_TIME: "Practice Video Time"

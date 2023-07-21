@@ -6,9 +6,9 @@ const { v4: uuidv4, v4 } = require("uuid");
 //Đường dẫn nơi lưu trữ file
 const pathLesson = "./Course/"
 //Lesson Cần Update | Để trống thì update toàn bộ lesson
-const lessonNeedUpdate = [3]
+const lessonNeedUpdate = []
 //Dạng Cần Update | Để trống thì update toàn bộ dạng
-const dangNeedUpdate = ["GrammarVideo"]
+const dangNeedUpdate = ["GrammarVideo", "VocabularyVideo"]
 //Tên khóa học
 const khoaHocName = "4SKILLS_PRE_S_L" // hoặc 4SKILLS_PRE_S_L
 //Tên sheetName trong excel
@@ -1009,7 +1009,11 @@ for (lesson of _4Skills) {
                   }
                   else {
                     DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi.push({
-                      cauHoi: item["Nội dung"],
+                      cauHoi: item["Nội dung"].replaceAll("<span style=\"color:blue\"> <b>"," <b><span style=\"color:blue\">")
+                      .replaceAll("<span style=\"color:blue\"><b>"," <b><span style=\"color:blue\">")
+                      .replaceAll("</b></span>","</span></b>")
+                      .replaceAll("</b> </span>","</span></b>")
+                      ,
                       _id: {
                         $oid: v4()
                       },
@@ -1147,7 +1151,11 @@ for (lesson of _4Skills) {
                   }
                   else {
                     DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi.push({
-                      cauHoi: item["Nội dung"],
+                      cauHoi: item["Nội dung"].replaceAll("<span style=\"color:blue\"> <b>","<b> <span style=\"color:blue\">")
+                      .replaceAll("<span style=\"color:blue\"><b>","<b> <span style=\"color:blue\">")
+                      .replaceAll("</b></span>","</span></b>")
+                      .replaceAll("</b> </span>","</span> </b>")
+                      ,
                       _id: {
                         $oid: v4()
                       },

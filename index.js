@@ -2,17 +2,17 @@ const xlsx = require("xlsx");
 const fs = require("fs");
 const { v4: uuidv4, v4 } = require("uuid");
 
-// const pathLesson = "D:/Project/React Native Project/Jax Mobile/jaxtina-mobile/app/screens/Courses/assets/data/4SKILL_S/lessons/"
+// const pathLesson = "/Users/manhnguyenhuu/Desktop/Jaxtina/jaxtina-mobile/app/screens/Courses/assets/data/4SKILL_S/lessons/"
 //Đường dẫn nơi lưu trữ file
-const pathLesson = "./Course/"
+const pathLesson = "./CourseS/"
 //Lesson Cần Update | Để trống thì update toàn bộ lesson
-const lessonNeedUpdate = []
+const lessonNeedUpdate = [4]
 //Dạng Cần Update | Để trống thì update toàn bộ dạng
-const dangNeedUpdate = ["VocabularyVideo"]
+const dangNeedUpdate = ["GrammarVideo"]
 //Tên khóa học
-const khoaHocName = "4SKILLS_PRE_S_L" // hoặc 4SKILLS_PRE_S_L
+const khoaHocName = "4SKILLS_S_L" // hoặc 4SKILLS_PRE_S_L
 //Tên sheetName trong excel
-const _4SkillsSheetName = "4skills.PreS" //4skills.PreS hoặc 4Skills.S
+const _4SkillsSheetName = "4Skills.S" //4skills.PreS hoặc 4Skills.S
 
 const {
   COMMON,
@@ -22,7 +22,7 @@ const {
 } = require("./constants");
 const { changeSubEnglish } = require("./utils");
 
-var fileData = xlsx.readFileSync(COMMON.DATA_FILE.PRES);
+var fileData = xlsx.readFileSync(COMMON.DATA_FILE.S);
 var sheets = fileData.SheetNames;
 var danhSachCauHoi = [];
 var folderNames = [];
@@ -973,7 +973,7 @@ for (lesson of _4Skills) {
 
                 cauHoiIndexNumber = -1
                 const time = item["Câu hỏi"].slice(-17)
-                name = item["Câu hỏi"].slice(8, -19).split(":")[1].replaceAll("-", "").trim().split(" ")[1]
+                name = item["Câu hỏi"].split(":")[1].split("-")[0].trim().split(" ")[1]
                 name = name.includes(".") ? name.split(".")[0] : name
                 practiceIndex = (+item["Câu hỏi"].trim().split(" ")[1].replaceAll(":", "")) - 1
                 // console.log(item["Câu hỏi"].trim().split(" ")[1].replaceAll(":", ""))
@@ -1103,7 +1103,7 @@ for (lesson of _4Skills) {
           let name = ""
           for (let j = 0; j < videoPractice.length; j++) {
             const item = videoPractice[j]
-            console.log(item)
+            // console.log(item)
             if (item["Lesson"] && item["Lesson"] == "Lesson " + lesson.Lesson + " GRAMMAR") {
               itemSave = "Lesson " + lesson.Lesson + " GRAMMAR"
             }
@@ -1116,7 +1116,9 @@ for (lesson of _4Skills) {
 
                 cauHoiIndexNumber = -1
                 const time = item["Câu hỏi"].slice(-17)
-                name = item["Câu hỏi"].slice(8, -19).split(":")[1].replaceAll("-", "").trim().split(" ")[1]
+                console.log("Time: ", time)
+                name = item["Câu hỏi"].split(":")[1].split("-")[0].trim().split(" ")[1]
+                // console.log("Time: ", name, item["Câu hỏi"].split(":")[1].split("-")[0].trim().split(" ")[1])
                 name = name.includes(".") ? name.split(".")[0] : name
                 practiceIndex = (+item["Câu hỏi"].trim().split(" ")[1].replaceAll(":", "")) - 1
                 // console.log(item["Câu hỏi"].trim().split(" ")[1].replaceAll(":", ""))

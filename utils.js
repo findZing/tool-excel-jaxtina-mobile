@@ -12,12 +12,14 @@ const changeSubEnglish = (subEnglish, newWords) => {
     const regex = /[a-z|A-Z|_]/
     let wordchanged = ""
     let newSubEnglish = subEnglish.trim()
-  
+    let matchedNewWords = []
+
     for (let i = 0; i < newWords.length; i++) {
       const index = checkCumTuTrongCau(newWords[i], newSubEnglish)
       if (index > -1 && !wordchanged.includes(newWords[i].toLowerCase())) {
         // console.log(index, newWords[i], subEnglish)
         wordchanged += newWords[i]
+        matchedNewWords.push(newWords[i])
         let dauCumTu = 0
         let dauCau = 0
         let lengthCau = 0
@@ -55,7 +57,10 @@ const changeSubEnglish = (subEnglish, newWords) => {
       }
     }
     // console.log(newSubEnglish, subEnglish)
-    return newSubEnglish
+    return {
+      newSubEnglish,
+      matchedNewWords
+    }
   }
 
   module.exports = {

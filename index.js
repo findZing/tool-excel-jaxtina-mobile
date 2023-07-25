@@ -2,17 +2,17 @@ const xlsx = require("xlsx");
 const fs = require("fs");
 const { v4: uuidv4, v4 } = require("uuid");
 
-// const pathLesson = "/Users/manhnguyenhuu/Desktop/Jaxtina/jaxtina-mobile/app/screens/Courses/assets/data/4SKILL_S/lessons/"
+// const pathLesson = "/Users/manhnguyenhuu/Desktop/Jaxtina/jaxtina-mobile/app/screens/Courses/assets/data/4SKILLS_PRE_S/lessons/"
 //Đường dẫn nơi lưu trữ file
-const pathLesson = "./CourseS/"
+const pathLesson = "./Course/"
 //Lesson Cần Update | Để trống thì update toàn bộ lesson
-const lessonNeedUpdate = [4]
+const lessonNeedUpdate = []
 //Dạng Cần Update | Để trống thì update toàn bộ dạng
-const dangNeedUpdate = ["GrammarVideo"]
+const dangNeedUpdate = ["P8"]
 //Tên khóa học
-const khoaHocName = "4SKILLS_S_L" // hoặc 4SKILLS_PRE_S_L
+const khoaHocName = "4SKILLS_PRE_S" // hoặc 4SKILLS_PRE_S hoặc hoặc 4SKILLS_S
 //Tên sheetName trong excel
-const _4SkillsSheetName = "4Skills.S" //4skills.PreS hoặc 4Skills.S
+const _4SkillsSheetName = "4skills.PreS" //4skills.PreS hoặc 4Skills.S
 
 const {
   COMMON,
@@ -22,7 +22,7 @@ const {
 } = require("./constants");
 const { changeSubEnglish } = require("./utils");
 
-var fileData = xlsx.readFileSync(COMMON.DATA_FILE.S);
+var fileData = xlsx.readFileSync(COMMON.DATA_FILE.PRES);
 var sheets = fileData.SheetNames;
 var danhSachCauHoi = [];
 var folderNames = [];
@@ -339,7 +339,17 @@ for (lesson of _4Skills) {
                 },
                 cauHoiNho: [],
                 cauHoi: doc["Nội dung"],
-                yNghia: doc["Giải thích"],
+                yNghia: doc["Giải thích"]
+                      .replaceAll("<i> ", " <i>")
+                      .replaceAll("<b> ", " <b>")
+                      .replaceAll("<span> ", " <span>")
+                      .replaceAll("<span style=\\\"color:red\\\"> ", " <span style=\\\"color:red\\\">")
+                      .replaceAll("<span style=\\\"color:blue\\\"> ", " <span style=\\\"color:blue\\\">")
+                      .replaceAll("<span style=\"color:red\"> ", " <span style=\"color:red\">")
+                      .replaceAll(" </i>", "</i> ")
+                      .replaceAll(" </b>", "</b> ")
+                      .replaceAll(" </span>", "</span> ")
+                ,
                 danhSachDapAn: DanhSachDapAn,
               });
               normalQuestionIndex = DanhSachCauHoi.length - 1;
@@ -727,6 +737,7 @@ for (lesson of _4Skills) {
             for (dapAn of dapAns) {
               const phienAm = dapAn["Ý nghĩa"].split("<br />")[0];
               const yNghia = dapAn["Ý nghĩa"].split("<br />")[1];
+              console.log(dapAn.Normal.split(":"))
               DanhSachDapAn.push({
                 _id: {
                   $oid: v4(),
@@ -735,12 +746,12 @@ for (lesson of _4Skills) {
                 phienAm,
                 yNghia,
                 normal: {
-                  start: dapAn.Normal.split(":")[0] + ":" + dapAn.Normal.split(":")[1] + ":" + dapAn.Normal.split(":")[2] + "." + dapAn.Normal.split(":")[3],
-                  end: dapAn.__EMPTY.split(":")[0] + ":" + dapAn.__EMPTY.split(":")[1] + ":" + dapAn.__EMPTY.split(":")[2] + "." + dapAn.__EMPTY.split(":")[3],
+                  start: dapAn.Normal.split(":")[0] + ":" + dapAn.Normal.split(":")[1] + ":" + dapAn.Normal.split(":")[2],// + "." + dapAn.Normal.split(":")[3],
+                  end: dapAn.__EMPTY.split(":")[0] + ":" + dapAn.__EMPTY.split(":")[1] + ":" + dapAn.__EMPTY.split(":")[2],// + "." + dapAn.__EMPTY.split(":")[3],
                 },
                 slow: {
-                  start: dapAn.Slow.split(":")[0] + ":" + dapAn.Slow.split(":")[1] + ":" + dapAn.Slow.split(":")[2] + "." + dapAn.Slow.split(":")[3],
-                  end: dapAn.__EMPTY_1.split(":")[0] + ":" + dapAn.__EMPTY_1.split(":")[1] + ":" + dapAn.__EMPTY_1.split(":")[2] + "." + dapAn.__EMPTY_1.split(":")[3],
+                  start: dapAn.Slow.split(":")[0] + ":" + dapAn.Slow.split(":")[1] + ":" + dapAn.Slow.split(":")[2],// + "." + dapAn.Slow.split(":")[3],
+                  end: dapAn.__EMPTY_1.split(":")[0] + ":" + dapAn.__EMPTY_1.split(":")[1] + ":" + dapAn.__EMPTY_1.split(":")[2],// + "." + dapAn.__EMPTY_1.split(":")[3],
                 },
               });
             }
@@ -908,11 +919,13 @@ for (lesson of _4Skills) {
           let scriptVideo = [];
           for (script of scriptVideos) {
             // console.log(script)
+            const underlineScript = changeSubEnglish(script["Tiếng Anh"].trim(), tuMoiList)
             scriptVideo.push({
               start: script["Thời gian bắt đầu"],
               end: script["Thời gian kết thúc"],
               english: script["Tiếng Anh"].trim(),
-              subScriptEnglish: changeSubEnglish(script["Tiếng Anh"].trim(), tuMoiList),
+              subScriptEnglish: underlineScript.newSubEnglish,
+              matchedNewWords: underlineScript.matchedNewWords,
               vietnamese: script["Tiếng Việt"],
             });
           }
@@ -1205,6 +1218,14 @@ for (lesson of _4Skills) {
                   noiDungVideo.push({
                     timeEnd: item[key],
                     noiDung: grammar[0]['Phần ' + practiceIndex]
+                    .replaceAll("<i> ", " <i>")
+                    .replaceAll("<b> ", " <b>")
+                    .replaceAll("<span> ", " <span>")
+                    .replaceAll("<span style=\\\"color:red\\\"> ", " <span style=\\\"color:red\\\">")
+                    .replaceAll("<span style=\\\"color:blue\\\"> ", " <span style=\\\"color:blue\\\">")
+                    .replaceAll(" </i>", "</i> ")
+                    .replaceAll(" </b>", "</b> ")
+                    .replaceAll(" </span>", "</span> ")
                   })
                 }
               })

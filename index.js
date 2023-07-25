@@ -4,15 +4,15 @@ const { v4: uuidv4, v4 } = require("uuid");
 
 // const pathLesson = "/Users/manhnguyenhuu/Desktop/Jaxtina/jaxtina-mobile/app/screens/Courses/assets/data/4SKILLS_PRE_S/lessons/"
 //Đường dẫn nơi lưu trữ file
-const pathLesson = "./Course/"
+const pathLesson = "./Course/";
 //Lesson Cần Update | Để trống thì update toàn bộ lesson
-const lessonNeedUpdate = []
+const lessonNeedUpdate = [];
 //Dạng Cần Update | Để trống thì update toàn bộ dạng
-const dangNeedUpdate = ["P8"]
+const dangNeedUpdate = ["P8"];
 //Tên khóa học
-const khoaHocName = "4SKILLS_PRE_S" // hoặc 4SKILLS_PRE_S hoặc hoặc 4SKILLS_S
+const khoaHocName = "4SKILLS_PRE_S"; // hoặc 4SKILLS_PRE_S hoặc hoặc 4SKILLS_S
 //Tên sheetName trong excel
-const _4SkillsSheetName = "4skills.PreS" //4skills.PreS hoặc 4Skills.S
+const _4SkillsSheetName = "4skills.PreS"; //4skills.PreS hoặc 4Skills.S
 
 const {
   COMMON,
@@ -27,24 +27,23 @@ var sheets = fileData.SheetNames;
 var danhSachCauHoi = [];
 var folderNames = [];
 
-var tuMoiData = xlsx.readFileSync(COMMON.DATA_FILE.TUMOI)
+var tuMoiData = xlsx.readFileSync(COMMON.DATA_FILE.TUMOI);
 var tuMoiSheetName = tuMoiData.SheetNames;
-console.log(tuMoiSheetName)
-var tuMoiJson = xlsx.utils.sheet_to_json(tuMoiData.Sheets['Từ vựng'])
-var tuMoiList = []
-for(tu of tuMoiJson) {
- if(tu["Từ mới"])
- {
-  tuMoiList.push(tu["Từ mới"].trim())
- }
+console.log(tuMoiSheetName);
+var tuMoiJson = xlsx.utils.sheet_to_json(tuMoiData.Sheets["Từ vựng"]);
+var tuMoiList = [];
+for (tu of tuMoiJson) {
+  if (tu["Từ mới"]) {
+    tuMoiList.push(tu["Từ mới"].trim());
+  }
 }
 
 for (let i = 0; i < tuMoiList.length; i++) {
   for (let j = i; j < tuMoiList.length; j++) {
     if (tuMoiList[i].length < tuMoiList[j].length) {
-      const item = tuMoiList[i]
-      tuMoiList[i] = tuMoiList[j]
-      tuMoiList[j] = item
+      const item = tuMoiList[i];
+      tuMoiList[i] = tuMoiList[j];
+      tuMoiList[j] = item;
     }
   }
 }
@@ -63,22 +62,46 @@ function filterByCauHoi(data, cauHoi) {
 }
 
 function filterByBaiHoc(data, baiHoc) {
-
   return data.filter((e) => {
     // if (baiHoc.Lesson == 12 && e["Thuộc bài"] && e["Thuộc bài"].includes("MINI TEST "+ (baiHoc.Lesson/4 - baiHoc.Lesson % 4)) && baiHoc["Tên"].includes("MINI TEST")) {
     //   console.log("Lesson Index: ", e["Thuộc bài"] && e["Thuộc bài"].includes("MID-TERM TEST") && baiHoc["Tên"].includes("MID-TERM"))
     // }
     //   console.log(baiHoc.Lesson/4 - baiHoc.Lesson % 4)
-    if (e["Thuộc bài"] && e["Thuộc bài"].includes("MINI TEST " + (baiHoc.Lesson / 4 - baiHoc.Lesson % 4)) && baiHoc["Tên"].includes("MINI TEST")) {
+    if (
+      e["Thuộc bài"] &&
+      e["Thuộc bài"].includes(
+        "MINI TEST " + (baiHoc.Lesson / 4 - (baiHoc.Lesson % 4))
+      ) &&
+      baiHoc["Tên"].includes("MINI TEST")
+    ) {
       // console.log(baiHoc["Tên"], baiHoc.Lesson)
-      return true
+      return true;
     }
 
-    if (e["Thuộc bài"] && e["Thuộc bài"].includes("MID-TERM TEST") && baiHoc["Tên"].includes("MID-TERM")) {
+    if (
+      e["Thuộc bài"] &&
+      e["Thuộc bài"].includes("MID-TERM TEST") &&
+      baiHoc["Tên"].includes("MID-TERM")
+    ) {
       // console.log(baiHoc["Tên"], baiHoc.Lesson)
-      return true
+      return true;
     }
-    return e["Thuộc bài"]?.trim().toLowerCase().replaceAll(" ", "").replaceAll("&", "").replaceAll("-", "").replaceAll("\n", "") == baiHoc["Tên"]?.trim().toLowerCase().replaceAll(" ", "").replaceAll("&", "").replaceAll("-", "").replaceAll("\n", "");
+    return (
+      e["Thuộc bài"]
+        ?.trim()
+        .toLowerCase()
+        .replaceAll(" ", "")
+        .replaceAll("&", "")
+        .replaceAll("-", "")
+        .replaceAll("\n", "") ==
+      baiHoc["Tên"]
+        ?.trim()
+        .toLowerCase()
+        .replaceAll(" ", "")
+        .replaceAll("&", "")
+        .replaceAll("-", "")
+        .replaceAll("\n", "")
+    );
   });
 }
 
@@ -163,10 +186,9 @@ var baiHoc = getJson(fileData, MAP_SHEET_NAMES.DANH_SACH_CAC_BAI),
   _4Skills = getJson(fileData, _4SkillsSheetName),
   tuVungVideo = getJson(fileData, MAP_SHEET_NAMES.TU_VUNG),
   vocalbularyScript = getJson(fileData, MAP_SHEET_NAMES.SCRIPT_VOCABURALY),
-  videoPractice = getJson(fileData, MAP_SHEET_NAMES.VIDEO_PRACTICE)
-grammarVideo = getJson(fileData, MAP_SHEET_NAMES.GRAMMAR_VIDEO),
-  practiceVideoTime = getJson(fileData, MAP_SHEET_NAMES.VIDEO_PRACTICE_TIME)
-  ;
+  videoPractice = getJson(fileData, MAP_SHEET_NAMES.VIDEO_PRACTICE);
+(grammarVideo = getJson(fileData, MAP_SHEET_NAMES.GRAMMAR_VIDEO)),
+  (practiceVideoTime = getJson(fileData, MAP_SHEET_NAMES.VIDEO_PRACTICE_TIME));
 
 for (lesson of _4Skills) {
   // console.log("Các dạng bài học: ", cacDangBaiHoc, lesson["Dạng bài APP (4skills)"],
@@ -177,13 +199,14 @@ for (lesson of _4Skills) {
     lesson["Tên"]
   );
   // console.log(cacDangCuaLesson, lesson.Lesson, lesson["Tên"])
-  const folderName = pathLesson + lesson.Lesson
+  const folderName = pathLesson + lesson.Lesson;
   //__dirname + "/" + "CourseS" + "/" + lesson.Lesson;
   // console.log(folderName)
   let indexError = 0;
-  if (lessonNeedUpdate.length === 0 || (
-    lessonNeedUpdate.length > 0 && lessonNeedUpdate.includes(lesson.Lesson)
-  )) {
+  if (
+    lessonNeedUpdate.length === 0 ||
+    (lessonNeedUpdate.length > 0 && lessonNeedUpdate.includes(lesson.Lesson))
+  ) {
     try {
       if (!fs.existsSync(folderName)) {
         fs.mkdirSync(folderName);
@@ -192,12 +215,12 @@ for (lesson of _4Skills) {
 
       Object.values(cacDangCuaLesson).map((item, index) => {
         //   // P4
-        indexError = index
-        if (item && item.includes("P4") && (
-          dangNeedUpdate.length === 0 || (
-            dangNeedUpdate.includes("P4")
-          )
-        )) {
+        indexError = index;
+        if (
+          item &&
+          item.includes("P4") &&
+          (dangNeedUpdate.length === 0 || dangNeedUpdate.includes("P4"))
+        ) {
           // console.log(item, folderName)
           let data = {
             dangCauHoi: "P4",
@@ -248,11 +271,11 @@ for (lesson of _4Skills) {
           data.danhSachCauHoi = DanhSachCauHoi;
           writeFileJson(data, folderName, index + 1);
         }
-        if (item && item.includes("P5") && (
-          dangNeedUpdate.length === 0 || (
-            dangNeedUpdate.includes("P5")
-          )
-        )) {
+        if (
+          item &&
+          item.includes("P5") &&
+          (dangNeedUpdate.length === 0 || dangNeedUpdate.includes("P5"))
+        ) {
           // console.log(item, folderName)
           let data = {
             dangCauHoi: "P5",
@@ -303,18 +326,18 @@ for (lesson of _4Skills) {
           data.danhSachCauHoi = DanhSachCauHoi;
           writeFileJson(data, folderName, index + 1);
         }
-        if (item && item.includes("P3") && (
-          dangNeedUpdate.length === 0 || (
-            dangNeedUpdate.includes("P3")
-          )
-        )) {
+        if (
+          item &&
+          item.includes("P3") &&
+          (dangNeedUpdate.length === 0 || dangNeedUpdate.includes("P3"))
+        ) {
           // console.log(item, folderName)
           let data = {
             dangCauHoi: "P3",
             elementType: "READING",
           };
           let docs = filterByBaiHoc(docData, lesson);
-          if (lesson.Lesson == 2) console.log(lesson["Tên"])
+          if (lesson.Lesson == 2) console.log(lesson["Tên"]);
           // console.log(lesson.Lesson)
           let DanhSachCauHoi = [];
           let DanhSachDapAn = [];
@@ -340,16 +363,24 @@ for (lesson of _4Skills) {
                 cauHoiNho: [],
                 cauHoi: doc["Nội dung"],
                 yNghia: doc["Giải thích"]
-                      .replaceAll("<i> ", " <i>")
-                      .replaceAll("<b> ", " <b>")
-                      .replaceAll("<span> ", " <span>")
-                      .replaceAll("<span style=\\\"color:red\\\"> ", " <span style=\\\"color:red\\\">")
-                      .replaceAll("<span style=\\\"color:blue\\\"> ", " <span style=\\\"color:blue\\\">")
-                      .replaceAll("<span style=\"color:red\"> ", " <span style=\"color:red\">")
-                      .replaceAll(" </i>", "</i> ")
-                      .replaceAll(" </b>", "</b> ")
-                      .replaceAll(" </span>", "</span> ")
-                ,
+                  .replaceAll("<i> ", " <i>")
+                  .replaceAll("<b> ", " <b>")
+                  .replaceAll("<span> ", " <span>")
+                  .replaceAll(
+                    '<span style=\\"color:red\\"> ',
+                    ' <span style=\\"color:red\\">'
+                  )
+                  .replaceAll(
+                    '<span style=\\"color:blue\\"> ',
+                    ' <span style=\\"color:blue\\">'
+                  )
+                  .replaceAll(
+                    '<span style="color:red"> ',
+                    ' <span style="color:red">'
+                  )
+                  .replaceAll(" </i>", "</i> ")
+                  .replaceAll(" </b>", "</b> ")
+                  .replaceAll(" </span>", "</span> "),
                 danhSachDapAn: DanhSachDapAn,
               });
               normalQuestionIndex = DanhSachCauHoi.length - 1;
@@ -369,11 +400,11 @@ for (lesson of _4Skills) {
           data.danhSachCauHoi = DanhSachCauHoi;
           writeFileJson(data, folderName, index + 1);
         }
-        if (item && item.includes("P9.1") && (
-          dangNeedUpdate.length === 0 || (
-            dangNeedUpdate.includes("P9.1")
-          )
-        )) {
+        if (
+          item &&
+          item.includes("P9.1") &&
+          (dangNeedUpdate.length === 0 || dangNeedUpdate.includes("P9.1"))
+        ) {
           // console.log(item, folderName)
           let data = {
             dangCauHoi: "P9Cham1",
@@ -394,8 +425,8 @@ for (lesson of _4Skills) {
               // if(doc["Câu hỏi"].trim() == e["Thuộc câu hỏi "].trim()) console.log(true)
 
               return e["Thuộc câu hỏi "] == doc["Câu hỏi"];
-            });//
-            let NomarlQuestionHasUrlOrNot = false
+            }); //
+            let NomarlQuestionHasUrlOrNot = false;
 
             for (dapAn of dapAns) {
               // console.log(dapAn["Nội dung"], dapAn["Đáp án đúng ?"])
@@ -407,10 +438,10 @@ for (lesson of _4Skills) {
                 isCorrect: dapAn["Đáp án đúng ?"] == "Đúng" ? true : false,
               });
             }
-            console.log(isNormalQuestionOrNot(doc), DanhSachDapAn)
+            console.log(isNormalQuestionOrNot(doc), DanhSachDapAn);
             if (isNormalQuestionOrNot(doc)) {
               // console.log(doc.STT, lesson.Lesson)
-              if (doc['Audio Link']) {
+              if (doc["Audio Link"]) {
                 DanhSachCauHoi.push({
                   _id: {
                     $oid: v4(),
@@ -419,13 +450,17 @@ for (lesson of _4Skills) {
                   cauHoi: doc["Nội dung"],
                   yNghia: doc["Giải thích"],
                   danhSachDapAn: [],
-                  audioUrl: khoaHocName + "_L" + lesson.Lesson + "/sounds/normal/" + doc["Audio Link"]
+                  audioUrl:
+                    khoaHocName +
+                    "_L" +
+                    lesson.Lesson +
+                    "/sounds/normal/" +
+                    doc["Audio Link"],
                 });
                 normalQuestionIndex = DanhSachCauHoi.length - 1;
-                NomarlQuestionHasUrlOrNot = true
-              }
-              else {
-                NomarlQuestionHasUrlOrNot = false
+                NomarlQuestionHasUrlOrNot = true;
+              } else {
+                NomarlQuestionHasUrlOrNot = false;
               }
             }
             if (!isNormalQuestionOrNot(doc)) {
@@ -444,11 +479,11 @@ for (lesson of _4Skills) {
           writeFileJson(data, folderName, index + 1);
         }
 
-        if (item && item.includes("P2") && (
-          dangNeedUpdate.length === 0 || (
-            dangNeedUpdate.includes("P2")
-          )
-        )) {
+        if (
+          item &&
+          item.includes("P2") &&
+          (dangNeedUpdate.length === 0 || dangNeedUpdate.includes("P2"))
+        ) {
           // console.log(item, folderName)
           let data = {
             dangCauHoi: "P2",
@@ -478,7 +513,15 @@ for (lesson of _4Skills) {
                   $oid: v4(),
                 },
                 cauHoiNho: [],
-                cauHoi: khoaHocName + "_L" + lesson.Lesson + "/sounds/normal/S_" + lesson.Lesson + "_LISTENING_Listening " + (i + 1) + ".mp3",//doc["Nội dung"],
+                cauHoi:
+                  khoaHocName +
+                  "_L" +
+                  lesson.Lesson +
+                  "/sounds/normal/S_" +
+                  lesson.Lesson +
+                  "_LISTENING_Listening " +
+                  (i + 1) +
+                  ".mp3", //doc["Nội dung"],
                 yNghia: doc["Giải thích"],
                 danhSachDapAn: DanhSachDapAn,
               });
@@ -499,11 +542,11 @@ for (lesson of _4Skills) {
           data.danhSachCauHoi = DanhSachCauHoi;
           writeFileJson(data, folderName, index + 1);
         }
-        if (item && item.includes("P1") && (
-          dangNeedUpdate.length === 0 || (
-            dangNeedUpdate.includes("P1")
-          )
-        )) {
+        if (
+          item &&
+          item.includes("P1") &&
+          (dangNeedUpdate.length === 0 || dangNeedUpdate.includes("P1"))
+        ) {
           // console.log(item, folderName)
           // if (lesson.Lesson == 4) console.log(lesson)
           let data = {
@@ -518,7 +561,7 @@ for (lesson of _4Skills) {
           for (let i = 0; i < docs.length; i++) {
             const doc = docs[i];
             DanhSachDapAn = [];
-            let NomarlQuestionHasUrlOrNot = false
+            let NomarlQuestionHasUrlOrNot = false;
 
             const dapAns = filterByCauHoi(ngheDapAnData, doc);
             for (dapAn of dapAns) {
@@ -531,7 +574,7 @@ for (lesson of _4Skills) {
               });
             }
             if (isNormalQuestionOrNot(doc)) {
-              if (doc['Audio Link']) {
+              if (doc["Audio Link"]) {
                 DanhSachCauHoi.push({
                   _id: {
                     $oid: v4(),
@@ -540,14 +583,23 @@ for (lesson of _4Skills) {
                   cauHoi: doc["Nội dung"],
                   yNghia: doc["Giải thích"],
                   danhSachDapAn: DanhSachDapAn,
-                  soundCauhoi: khoaHocName + "_L" + lesson.Lesson + "/sounds/normal/" + doc["Audio Link"],
-                  soundSlow: khoaHocName + "_L" + lesson.Lesson + "/sounds/slow/" + doc["Audio Link"]
+                  soundCauhoi:
+                    khoaHocName +
+                    "_L" +
+                    lesson.Lesson +
+                    "/sounds/normal/" +
+                    doc["Audio Link"],
+                  soundSlow:
+                    khoaHocName +
+                    "_L" +
+                    lesson.Lesson +
+                    "/sounds/slow/" +
+                    doc["Audio Link"],
                 });
                 normalQuestionIndex = DanhSachCauHoi.length - 1;
-                NomarlQuestionHasUrlOrNot = true
-              }
-              else {
-                NomarlQuestionHasUrlOrNot = false
+                NomarlQuestionHasUrlOrNot = true;
+              } else {
+                NomarlQuestionHasUrlOrNot = false;
               }
             }
             if (!isNormalQuestionOrNot(doc) && NomarlQuestionHasUrlOrNot) {
@@ -565,11 +617,11 @@ for (lesson of _4Skills) {
           data.danhSachCauHoi = DanhSachCauHoi;
           writeFileJson(data, folderName, index + 1);
         }
-        if (item && item.includes("P7") && (
-          dangNeedUpdate.length === 0 || (
-            dangNeedUpdate.includes("P7")
-          )
-        )) {
+        if (
+          item &&
+          item.includes("P7") &&
+          (dangNeedUpdate.length === 0 || dangNeedUpdate.includes("P7"))
+        ) {
           // console.log(item, folderName)
           let data = {
             dangCauHoi: "P7",
@@ -602,6 +654,8 @@ for (lesson of _4Skills) {
                 cauHoi: doc["Nội dung"],
                 yNghia: doc["Giải thích"],
                 danhSachDapAn: DanhSachDapAn,
+                lyThuyetDu: doc["Nội dung ngữ pháp đầy đủ"],
+                lyThuyetGon: doc["Nội dung ngữ pháp tóm tắt"],
               });
               normalQuestionIndex = DanhSachCauHoi.length - 1;
             }
@@ -621,11 +675,11 @@ for (lesson of _4Skills) {
           writeFileJson(data, folderName, index + 1);
         }
 
-        if (item && item.includes("P0.1") && (
-          dangNeedUpdate.length === 0 || (
-            dangNeedUpdate.includes("P0.1")
-          )
-        )) {
+        if (
+          item &&
+          item.includes("P0.1") &&
+          (dangNeedUpdate.length === 0 || dangNeedUpdate.includes("P0.1"))
+        ) {
           // console.log(item, folderName)
           let data = {
             dangCauHoi: "P0_1",
@@ -653,11 +707,11 @@ for (lesson of _4Skills) {
           data.danhSachCauHoi = DanhSachCauHoi;
           writeFileJson(data, folderName, index + 1);
         }
-        if (item && item.includes("P6") && (
-          dangNeedUpdate.length === 0 || (
-            dangNeedUpdate.includes("P6")
-          )
-        )) {
+        if (
+          item &&
+          item.includes("P6") &&
+          (dangNeedUpdate.length === 0 || dangNeedUpdate.includes("P6"))
+        ) {
           // console.log(item, folderName)
           let data = {
             dangCauHoi: "P6",
@@ -708,21 +762,23 @@ for (lesson of _4Skills) {
           data.danhSachCauHoi = DanhSachCauHoi;
           writeFileJson(data, folderName, index + 1);
         }
-        if (item && item.includes("P8") && (
-          dangNeedUpdate.length === 0 || (
-            dangNeedUpdate.includes("P8")
-          )
-        )) {
+        if (
+          item &&
+          item.includes("P8") &&
+          (dangNeedUpdate.length === 0 || dangNeedUpdate.includes("P8"))
+        ) {
           // console.log(item, folderName)
           let data = {
             dangCauHoi: "P8",
             elementType: "SPEAKING",
             urlAudio:
-              khoaHocName + "_L" +
+              khoaHocName +
+              "_L" +
               lesson.Lesson +
               "/sounds/normal/Normal_Speaking.mp3",
             urlAudioSlow:
-              khoaHocName + "_L" +
+              khoaHocName +
+              "_L" +
               lesson.Lesson +
               "/sounds/normal/Slow_Speaking.mp3",
           };
@@ -737,7 +793,7 @@ for (lesson of _4Skills) {
             for (dapAn of dapAns) {
               const phienAm = dapAn["Ý nghĩa"].split("<br />")[0];
               const yNghia = dapAn["Ý nghĩa"].split("<br />")[1];
-              console.log(dapAn.Normal.split(":"))
+              console.log(dapAn.Normal.split(":"));
               DanhSachDapAn.push({
                 _id: {
                   $oid: v4(),
@@ -746,12 +802,32 @@ for (lesson of _4Skills) {
                 phienAm,
                 yNghia,
                 normal: {
-                  start: dapAn.Normal.split(":")[0] + ":" + dapAn.Normal.split(":")[1] + ":" + dapAn.Normal.split(":")[2],// + "." + dapAn.Normal.split(":")[3],
-                  end: dapAn.__EMPTY.split(":")[0] + ":" + dapAn.__EMPTY.split(":")[1] + ":" + dapAn.__EMPTY.split(":")[2],// + "." + dapAn.__EMPTY.split(":")[3],
+                  start:
+                    dapAn.Normal.split(":")[0] +
+                    ":" +
+                    dapAn.Normal.split(":")[1] +
+                    ":" +
+                    dapAn.Normal.split(":")[2], // + "." + dapAn.Normal.split(":")[3],
+                  end:
+                    dapAn.__EMPTY.split(":")[0] +
+                    ":" +
+                    dapAn.__EMPTY.split(":")[1] +
+                    ":" +
+                    dapAn.__EMPTY.split(":")[2], // + "." + dapAn.__EMPTY.split(":")[3],
                 },
                 slow: {
-                  start: dapAn.Slow.split(":")[0] + ":" + dapAn.Slow.split(":")[1] + ":" + dapAn.Slow.split(":")[2],// + "." + dapAn.Slow.split(":")[3],
-                  end: dapAn.__EMPTY_1.split(":")[0] + ":" + dapAn.__EMPTY_1.split(":")[1] + ":" + dapAn.__EMPTY_1.split(":")[2],// + "." + dapAn.__EMPTY_1.split(":")[3],
+                  start:
+                    dapAn.Slow.split(":")[0] +
+                    ":" +
+                    dapAn.Slow.split(":")[1] +
+                    ":" +
+                    dapAn.Slow.split(":")[2], // + "." + dapAn.Slow.split(":")[3],
+                  end:
+                    dapAn.__EMPTY_1.split(":")[0] +
+                    ":" +
+                    dapAn.__EMPTY_1.split(":")[1] +
+                    ":" +
+                    dapAn.__EMPTY_1.split(":")[2], // + "." + dapAn.__EMPTY_1.split(":")[3],
                 },
               });
             }
@@ -783,9 +859,18 @@ for (lesson of _4Skills) {
             let tuMoi = doc["TỪ MỚI"];
             if (tuMoi[tuMoi.length - 1] === ".")
               tuMoi = tuMoi.slice(0, tuMoi.length - 1);
-            const amThanh = "4SKILLS_PRE_S_L" + lesson.Lesson + "/sounds/normal/" + doc["normal audio url"]
-            const amThanhCham = "4SKILLS_PRE_S_L" + lesson.Lesson + "/sounds/slow/" + doc["normal audio url"]
-            const hinhAnh = "4SKILLS_PRE_S_L" + lesson.Lesson + "/" + doc["Image"]
+            const amThanh =
+              "4SKILLS_PRE_S_L" +
+              lesson.Lesson +
+              "/sounds/normal/" +
+              doc["normal audio url"];
+            const amThanhCham =
+              "4SKILLS_PRE_S_L" +
+              lesson.Lesson +
+              "/sounds/slow/" +
+              doc["normal audio url"];
+            const hinhAnh =
+              "4SKILLS_PRE_S_L" + lesson.Lesson + "/" + doc["Image"];
             const phienAm = doc["CÁCH PHÁT ÂM"];
             const loaiTu = doc["LOẠI TỪ"];
             const yNghia = doc["NGHĨA CỦA TỪ"];
@@ -802,7 +887,8 @@ for (lesson of _4Skills) {
               yNghia,
               hinhAnh,
               phienAm,
-              loaiTu, tuKemTheo,
+              loaiTu,
+              tuKemTheo,
               loaiBaiHoc: "IPA",
               dangCauHoi: "IPA_1",
             });
@@ -812,11 +898,16 @@ for (lesson of _4Skills) {
           writeFileJson(data, folderName, index + 1);
         }
 
-        if (item && item.includes("P0") && !item.includes("P0.1") && !item.includes("P0.2") && (
-          dangNeedUpdate.length === 0 || (
-            dangNeedUpdate.includes("P0") && !dangNeedUpdate.includes("P0.1") && !dangNeedUpdate.includes("P0.2")
-          )
-        )) {
+        if (
+          item &&
+          item.includes("P0") &&
+          !item.includes("P0.1") &&
+          !item.includes("P0.2") &&
+          (dangNeedUpdate.length === 0 ||
+            (dangNeedUpdate.includes("P0") &&
+              !dangNeedUpdate.includes("P0.1") &&
+              !dangNeedUpdate.includes("P0.2")))
+        ) {
           // console.log(item)
           let data = {
             dangCauHoi: "P0",
@@ -845,11 +936,12 @@ for (lesson of _4Skills) {
           data.danhSachCauHoi = DanhSachCauHoi;
           writeFileJson(data, folderName, index + 1);
         }
-        if (item && item.includes("VocabularyVideo") && (
-          dangNeedUpdate.length === 0 || (
-            dangNeedUpdate.includes("VocabularyVideo")
-          )
-        )) {
+        if (
+          item &&
+          item.includes("VocabularyVideo") &&
+          (dangNeedUpdate.length === 0 ||
+            dangNeedUpdate.includes("VocabularyVideo"))
+        ) {
           // console.log(item, folderName)
           let data = {
             dangCauHoi: "DangVideoPractise",
@@ -859,13 +951,13 @@ for (lesson of _4Skills) {
           };
           let newWordsVideo = filterByLesson(tuVungVideo, lesson.Lesson);
           let newWords = [];
-          let newWordList = []
+          let newWordList = [];
 
           for (let j = 0; j < newWordsVideo.length; j++) {
-            const newWord = newWordsVideo[j]
+            const newWord = newWordsVideo[j];
             let word = newWord["Từ mới"];
             if (word) {
-              newWordList.push(word)
+              newWordList.push(word);
               newWords.push({
                 word: word.trim(),
                 loaiTu: newWord["Loại từ"],
@@ -919,7 +1011,10 @@ for (lesson of _4Skills) {
           let scriptVideo = [];
           for (script of scriptVideos) {
             // console.log(script)
-            const underlineScript = changeSubEnglish(script["Tiếng Anh"].trim(), tuMoiList)
+            const underlineScript = changeSubEnglish(
+              script["Tiếng Anh"].trim(),
+              tuMoiList
+            );
             scriptVideo.push({
               start: script["Thời gian bắt đầu"],
               end: script["Thời gian kết thúc"],
@@ -930,34 +1025,44 @@ for (lesson of _4Skills) {
             });
           }
 
-          const DanhSachCauHoi = []
-          const practiceCauHoi = []
-          const practiceDapAn = []
+          const DanhSachCauHoi = [];
+          const practiceCauHoi = [];
+          const practiceDapAn = [];
 
-          let itemSave = ""
-          let practiceIndex = 0
-          let cauHoiIndex = ""
-          let cauHoiIndexNumber = -1
-          let name = ""
-          const regex = /[\W\d+\.wav]/g
+          let itemSave = "";
+          let practiceIndex = 0;
+          let cauHoiIndex = "";
+          let cauHoiIndexNumber = -1;
+          let name = "";
+          const regex = /[\W\d+\.wav]/g;
           for (let j = 0; j < videoPractice.length; j++) {
-            const item = videoPractice[j]
+            const item = videoPractice[j];
 
-            if (item["Lesson"] && item["Lesson"] == "Lesson " + lesson.Lesson + " VOCAB") {
-              itemSave = "Lesson " + lesson.Lesson + " VOCAB"
-            }
-            else if (item["Lesson"] && item["Lesson"] !== "Lesson " + lesson.Lesson + " VOCAB") {
-              itemSave = ""
+            if (
+              item["Lesson"] &&
+              item["Lesson"] == "Lesson " + lesson.Lesson + " VOCAB"
+            ) {
+              itemSave = "Lesson " + lesson.Lesson + " VOCAB";
+            } else if (
+              item["Lesson"] &&
+              item["Lesson"] !== "Lesson " + lesson.Lesson + " VOCAB"
+            ) {
+              itemSave = "";
             }
             if (itemSave === "Lesson " + lesson.Lesson + " VOCAB") {
               if (item["Câu hỏi"] && item["Câu hỏi"].includes("Practice")) {
                 // console.log(item["Câu hỏi"].slice(8, -19).split(":")[1].replaceAll("-", "").trim().split(" ")[1])
 
-                cauHoiIndexNumber = -1
-                const time = item["Câu hỏi"].slice(-17)
-                name = item["Câu hỏi"].split(":")[1].split("-")[0].trim().split(" ")[1]
-                name = name.includes(".") ? name.split(".")[0] : name
-                practiceIndex = (+item["Câu hỏi"].trim().split(" ")[1].replaceAll(":", "")) - 1
+                cauHoiIndexNumber = -1;
+                const time = item["Câu hỏi"].slice(-17);
+                name = item["Câu hỏi"]
+                  .split(":")[1]
+                  .split("-")[0]
+                  .trim()
+                  .split(" ")[1];
+                name = name.includes(".") ? name.split(".")[0] : name;
+                practiceIndex =
+                  +item["Câu hỏi"].trim().split(" ")[1].replaceAll(":", "") - 1;
                 // console.log(item["Câu hỏi"].trim().split(" ")[1].replaceAll(":", ""))
                 // cons
 
@@ -968,105 +1073,136 @@ for (lesson of _4Skills) {
                   practice: {
                     done: false,
                     dangCauHoi: name,
-                    danhSachCauHoi: []
-                  }
-                })
-
+                    danhSachCauHoi: [],
+                  },
+                });
               }
 
               if (item["Câu hỏi"] && item["Câu hỏi"].includes("Câu hỏi")) {
                 //       // console.log(item["Câu hỏi"].split(" ")[2].trim(), practiceIndex, DanhSachCauHoi[practiceIndex])
                 if (cauHoiIndex !== item["Câu hỏi"].split(" ")[2].trim()) {
-                  cauHoiIndex = item["Câu hỏi"].split(" ")[2].trim()
+                  cauHoiIndex = item["Câu hỏi"].split(" ")[2].trim();
                   DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi.push({
                     cauHoiNho: [],
                     danhSachDapAn: [
                       {
                         _id: v4(),
                         dapAn: item["Đáp án"],
-                      }
-                    ]
-                  })
-                }
-                else if (cauHoiIndex !== "" && cauHoiIndex === item["Câu hỏi"].split(" ")[2].trim()) {
+                      },
+                    ],
+                  });
+                } else if (
+                  cauHoiIndex !== "" &&
+                  cauHoiIndex === item["Câu hỏi"].split(" ")[2].trim()
+                ) {
                   // console.log(cauHoiIndex)
-                  DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[(+cauHoiIndex) - 1].danhSachDapAn.push({
+                  DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[
+                    +cauHoiIndex - 1
+                  ].danhSachDapAn.push({
                     _id: v4(),
-                    dapAn: item["Đáp án"]
-                  })
+                    dapAn: item["Đáp án"],
+                  });
                 }
               }
 
-              if (!item["Câu hỏi"] && (item["Nội dung"] || item["Đáp án"] || item["Sai/Đúng"])) {
+              if (
+                !item["Câu hỏi"] &&
+                (item["Nội dung"] || item["Đáp án"] || item["Sai/Đúng"])
+              ) {
                 if (item["Nội dung"]) {
-                  cauHoiIndexNumber += 1
+                  cauHoiIndexNumber += 1;
                   if (item["Sai/Đúng"]) {
                     if (name == "P1") {
-                      console.log(item["audio"]?.search(regex), lesson.Lesson)
-                      DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi.push({
+                      console.log(item["audio"]?.search(regex), lesson.Lesson);
+                      DanhSachCauHoi[
+                        practiceIndex
+                      ].practice.danhSachCauHoi.push({
                         cauHoi: item["Nội dung"],
                         _id: v4(),
-                        soundCauhoi: khoaHocName + "_L" + lesson.Lesson + "/sounds/video-practice/" + item["audio"],
-                        danhSachDapAn: item["Đáp án"] ? [{
-                          isCorrect: item["Sai/Đúng"] == "Đúng" ? true : false,
-                          dapAn: item["Đáp án"],
-                          _id: v4()
-                        }] : []
-                      })
-                    }
-                    else {
-                      DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi.push({
+                        soundCauhoi:
+                          khoaHocName +
+                          "_L" +
+                          lesson.Lesson +
+                          "/sounds/video-practice/" +
+                          item["audio"],
+                        danhSachDapAn: item["Đáp án"]
+                          ? [
+                              {
+                                isCorrect:
+                                  item["Sai/Đúng"] == "Đúng" ? true : false,
+                                dapAn: item["Đáp án"],
+                                _id: v4(),
+                              },
+                            ]
+                          : [],
+                      });
+                    } else {
+                      DanhSachCauHoi[
+                        practiceIndex
+                      ].practice.danhSachCauHoi.push({
                         cauHoi: item["Nội dung"],
                         _id: v4(),
-                        danhSachDapAn: item["Đáp án"] ? [{
-                          isCorrect: item["Sai/Đúng"] == "Đúng" ? true : false,
-                          dapAn: item["Đáp án"],
-                          _id: v4()
-                        }] : []
-                      })
+                        danhSachDapAn: item["Đáp án"]
+                          ? [
+                              {
+                                isCorrect:
+                                  item["Sai/Đúng"] == "Đúng" ? true : false,
+                                dapAn: item["Đáp án"],
+                                _id: v4(),
+                              },
+                            ]
+                          : [],
+                      });
                     }
-                  }
-                  else {
+                  } else {
                     DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi.push({
-                      cauHoi: item["Nội dung"].replaceAll("<span style=\"color:blue\"> <b>", " <b><span style=\"color:blue\">")
-                        .replaceAll("<span style=\"color:blue\"><b>", " <b><span style=\"color:blue\">")
+                      cauHoi: item["Nội dung"]
+                        .replaceAll(
+                          '<span style="color:blue"> <b>',
+                          ' <b><span style="color:blue">'
+                        )
+                        .replaceAll(
+                          '<span style="color:blue"><b>',
+                          ' <b><span style="color:blue">'
+                        )
                         .replaceAll("</b></span>", "</span></b>")
-                        .replaceAll("</b> </span>", "</span></b>")
-                      ,
+                        .replaceAll("</b> </span>", "</span></b>"),
                       _id: {
-                        $oid: v4()
+                        $oid: v4(),
                       },
-                      yNghia: item["Đáp án"]
-                    })
+                      yNghia: item["Đáp án"],
+                    });
                   }
-                }
-                else if (cauHoiIndexNumber > -1) {
+                } else if (cauHoiIndexNumber > -1) {
                   // if(item["Sai/Đúng"] == "Đúng" && name == "P1")
                   // {
                   //   console.log(DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[cauHoiIndexNumber].cauHoi)
                   //   DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[cauHoiIndexNumber].soundCauhoi += DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[cauHoiIndexNumber].cauHoi.replaceAll(" ", "").replaceAll(".", "").replaceAll("____", item["Đáp án"]).replaceAll("___", item["Đáp án"]).replaceAll("_", item["Đáp án"]) +".mp3"
                   // }
-                  DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[cauHoiIndexNumber].danhSachDapAn.push({
+                  DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[
+                    cauHoiIndexNumber
+                  ].danhSachDapAn.push({
                     isCorrect: item["Sai/Đúng"] == "Đúng" ? true : false,
                     dapAn: item["Đáp án"],
                     _id: {
-                      $oid: v4()
-                    }
-                  })
+                      $oid: v4(),
+                    },
+                  });
                 }
               }
             }
           }
           data.newWords = newWords;
           data.scriptVideo = scriptVideo;
-          data.danhSachCauHoi = DanhSachCauHoi
+          data.danhSachCauHoi = DanhSachCauHoi;
           writeFileJson(data, folderName, index + 1);
         }
-        if (item && item.includes("GrammarVideo") && (
-          dangNeedUpdate.length === 0 || (
-            dangNeedUpdate.includes("GrammarVideo")
-          )
-        )) {
+        if (
+          item &&
+          item.includes("GrammarVideo") &&
+          (dangNeedUpdate.length === 0 ||
+            dangNeedUpdate.includes("GrammarVideo"))
+        ) {
           let data = {
             dangCauHoi: "DangVideoPractise",
             elementType: "VIDEO1",
@@ -1074,35 +1210,45 @@ for (lesson of _4Skills) {
             videoUrl: khoaHocName + "_L" + lesson.Lesson + "/grammar.mp4",
           };
 
-          const DanhSachCauHoi = []
-          const practiceCauHoi = []
-          const practiceDapAn = []
+          const DanhSachCauHoi = [];
+          const practiceCauHoi = [];
+          const practiceDapAn = [];
 
-          let itemSave = ""
-          let practiceIndex = 0
-          let cauHoiIndex = ""
-          let cauHoiIndexNumber = -1
-          let name = ""
+          let itemSave = "";
+          let practiceIndex = 0;
+          let cauHoiIndex = "";
+          let cauHoiIndexNumber = -1;
+          let name = "";
           for (let j = 0; j < videoPractice.length; j++) {
-            const item = videoPractice[j]
+            const item = videoPractice[j];
             // console.log(item)
-            if (item["Lesson"] && item["Lesson"] == "Lesson " + lesson.Lesson + " GRAMMAR") {
-              itemSave = "Lesson " + lesson.Lesson + " GRAMMAR"
-            }
-            else if (item["Lesson"] && item["Lesson"] !== "Lesson " + lesson.Lesson + " GRAMMAR") {
-              itemSave = ""
+            if (
+              item["Lesson"] &&
+              item["Lesson"] == "Lesson " + lesson.Lesson + " GRAMMAR"
+            ) {
+              itemSave = "Lesson " + lesson.Lesson + " GRAMMAR";
+            } else if (
+              item["Lesson"] &&
+              item["Lesson"] !== "Lesson " + lesson.Lesson + " GRAMMAR"
+            ) {
+              itemSave = "";
             }
             if (itemSave === "Lesson " + lesson.Lesson + " GRAMMAR") {
               if (item["Câu hỏi"] && item["Câu hỏi"].includes("Practice")) {
                 // console.log(item["Câu hỏi"].slice(8, -19).split(":")[1].replaceAll("-", "").trim().split(" ")[1])
 
-                cauHoiIndexNumber = -1
-                const time = item["Câu hỏi"].slice(-17)
-                console.log("Time: ", time)
-                name = item["Câu hỏi"].split(":")[1].split("-")[0].trim().split(" ")[1]
+                cauHoiIndexNumber = -1;
+                const time = item["Câu hỏi"].slice(-17);
+                console.log("Time: ", time);
+                name = item["Câu hỏi"]
+                  .split(":")[1]
+                  .split("-")[0]
+                  .trim()
+                  .split(" ")[1];
                 // console.log("Time: ", name, item["Câu hỏi"].split(":")[1].split("-")[0].trim().split(" ")[1])
-                name = name.includes(".") ? name.split(".")[0] : name
-                practiceIndex = (+item["Câu hỏi"].trim().split(" ")[1].replaceAll(":", "")) - 1
+                name = name.includes(".") ? name.split(".")[0] : name;
+                practiceIndex =
+                  +item["Câu hỏi"].trim().split(" ")[1].replaceAll(":", "") - 1;
                 // console.log(item["Câu hỏi"].trim().split(" ")[1].replaceAll(":", ""))
                 // cons
 
@@ -1113,132 +1259,171 @@ for (lesson of _4Skills) {
                   practice: {
                     done: false,
                     dangCauHoi: name,
-                    danhSachCauHoi: []
-                  }
-                })
-
+                    danhSachCauHoi: [],
+                  },
+                });
               }
 
               if (item["Câu hỏi"] && item["Câu hỏi"].includes("Câu hỏi")) {
                 // console.log(item["Câu hỏi"].split(" ")[2].trim(), practiceIndex, DanhSachCauHoi[practiceIndex])
                 if (cauHoiIndex !== item["Câu hỏi"].split(" ")[2].trim()) {
-                  cauHoiIndex = item["Câu hỏi"].split(" ")[2].trim()
+                  cauHoiIndex = item["Câu hỏi"].split(" ")[2].trim();
                   DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi.push({
                     cauHoiNho: [],
                     danhSachDapAn: [
                       {
                         _id: v4(),
                         dapAn: item["Đáp án"],
-                      }
-                    ]
-                  })
-                }
-                else if (cauHoiIndex !== "" && cauHoiIndex === item["Câu hỏi"].split(" ")[2].trim()) {
+                      },
+                    ],
+                  });
+                } else if (
+                  cauHoiIndex !== "" &&
+                  cauHoiIndex === item["Câu hỏi"].split(" ")[2].trim()
+                ) {
                   // console.log(cauHoiIndex)
-                  DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[(+cauHoiIndex) - 1].danhSachDapAn.push({
+                  DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[
+                    +cauHoiIndex - 1
+                  ].danhSachDapAn.push({
                     _id: v4(),
-                    dapAn: item["Đáp án"]
-                  })
+                    dapAn: item["Đáp án"],
+                  });
                 }
               }
 
-              if (!item["Câu hỏi"] && (item["Nội dung"] || item["Đáp án"] || item["Sai/Đúng"])) {
+              if (
+                !item["Câu hỏi"] &&
+                (item["Nội dung"] || item["Đáp án"] || item["Sai/Đúng"])
+              ) {
                 if (item["Nội dung"]) {
-                  cauHoiIndexNumber += 1
+                  cauHoiIndexNumber += 1;
                   if (item["Sai/Đúng"]) {
                     if (name == "P1") {
-                      DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi.push({
+                      DanhSachCauHoi[
+                        practiceIndex
+                      ].practice.danhSachCauHoi.push({
                         cauHoi: item["Nội dung"],
                         _id: v4(),
-                        soundCauhoi: khoaHocName + "_L" + lesson.Lesson + "/sounds/video-practice/" + item["audio"],
-                        danhSachDapAn: item["Đáp án"] ? [{
-                          isCorrect: item["Sai/Đúng"] == "Đúng" ? true : false,
-                          dapAn: item["Đáp án"],
-                          _id: v4()
-                        }] : []
-                      })
-                    }
-                    else {
-                      DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi.push({
+                        soundCauhoi:
+                          khoaHocName +
+                          "_L" +
+                          lesson.Lesson +
+                          "/sounds/video-practice/" +
+                          item["audio"],
+                        danhSachDapAn: item["Đáp án"]
+                          ? [
+                              {
+                                isCorrect:
+                                  item["Sai/Đúng"] == "Đúng" ? true : false,
+                                dapAn: item["Đáp án"],
+                                _id: v4(),
+                              },
+                            ]
+                          : [],
+                      });
+                    } else {
+                      DanhSachCauHoi[
+                        practiceIndex
+                      ].practice.danhSachCauHoi.push({
                         cauHoi: item["Nội dung"],
                         _id: v4(),
-                        danhSachDapAn: item["Đáp án"] ? [{
-                          isCorrect: item["Sai/Đúng"] == "Đúng" ? true : false,
-                          dapAn: item["Đáp án"],
-                          _id: v4()
-                        }] : []
-                      })
+                        danhSachDapAn: item["Đáp án"]
+                          ? [
+                              {
+                                isCorrect:
+                                  item["Sai/Đúng"] == "Đúng" ? true : false,
+                                dapAn: item["Đáp án"],
+                                _id: v4(),
+                              },
+                            ]
+                          : [],
+                      });
                     }
-                  }
-                  else {
+                  } else {
                     DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi.push({
-                      cauHoi: item["Nội dung"].replaceAll("<span style=\"color:blue\"> <b>", "<b> <span style=\"color:blue\">")
-                        .replaceAll("<span style=\"color:blue\"><b>", "<b> <span style=\"color:blue\">")
+                      cauHoi: item["Nội dung"]
+                        .replaceAll(
+                          '<span style="color:blue"> <b>',
+                          '<b> <span style="color:blue">'
+                        )
+                        .replaceAll(
+                          '<span style="color:blue"><b>',
+                          '<b> <span style="color:blue">'
+                        )
                         .replaceAll("</b></span>", "</span></b>")
-                        .replaceAll("</b> </span>", "</span> </b>")
-                      ,
+                        .replaceAll("</b> </span>", "</span> </b>"),
                       _id: {
-                        $oid: v4()
+                        $oid: v4(),
                       },
-                      yNghia: item["Đáp án"]
-                    })
+                      yNghia: item["Đáp án"],
+                    });
                   }
-                }
-                else if (cauHoiIndexNumber > -1) {
+                } else if (cauHoiIndexNumber > -1) {
                   // if(item["Sai/Đúng"] == "Đúng" && name == "P1")
                   // {
                   //   console.log(DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[cauHoiIndexNumber].cauHoi)
                   //   DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[cauHoiIndexNumber].soundCauhoi += DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[cauHoiIndexNumber].cauHoi.replaceAll(" ", "").replaceAll(".", "").replaceAll("____", item["Đáp án"]).replaceAll("___", item["Đáp án"]).replaceAll("_", item["Đáp án"]) +".mp3"
                   // }
-                  DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[cauHoiIndexNumber].danhSachDapAn.push({
+                  DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[
+                    cauHoiIndexNumber
+                  ].danhSachDapAn.push({
                     isCorrect: item["Sai/Đúng"] == "Đúng" ? true : false,
                     dapAn: item["Đáp án"],
                     _id: {
-                      $oid: v4()
-                    }
-                  })
+                      $oid: v4(),
+                    },
+                  });
                 }
               }
             }
           }
 
           // console.log(practiceVideoTime)
-          const noiDungVideo = []
+          const noiDungVideo = [];
           practiceVideoTime.map((item, index) => {
-            if (item['Dạng Video'] === 'Grammar' && +practiceVideoTime[index - 1].Lesson.trim().slice(0, 2) === lesson.Lesson) {
-              const keys = Object.keys(item)
+            if (
+              item["Dạng Video"] === "Grammar" &&
+              +practiceVideoTime[index - 1].Lesson.trim().slice(0, 2) ===
+                lesson.Lesson
+            ) {
+              const keys = Object.keys(item);
               keys.map((key, index) => {
-                if (key.includes('Practice') && item[key] !== 'N/A') {
+                if (key.includes("Practice") && item[key] !== "N/A") {
                   // console.log(key.split(' ')[1], lesson.Lesson)
-                  const practiceIndex = +key.split(' ')[1]
+                  const practiceIndex = +key.split(" ")[1];
                   const grammar = grammarVideo.filter((e) => {
-                    return e['Lesson '] == lesson.Lesson
-                  })
+                    return e["Lesson "] == lesson.Lesson;
+                  });
                   // console.log(grammarVideo)
                   noiDungVideo.push({
                     timeEnd: item[key],
-                    noiDung: grammar[0]['Phần ' + practiceIndex]
-                    .replaceAll("<i> ", " <i>")
-                    .replaceAll("<b> ", " <b>")
-                    .replaceAll("<span> ", " <span>")
-                    .replaceAll("<span style=\\\"color:red\\\"> ", " <span style=\\\"color:red\\\">")
-                    .replaceAll("<span style=\\\"color:blue\\\"> ", " <span style=\\\"color:blue\\\">")
-                    .replaceAll(" </i>", "</i> ")
-                    .replaceAll(" </b>", "</b> ")
-                    .replaceAll(" </span>", "</span> ")
-                  })
+                    noiDung: grammar[0]["Phần " + practiceIndex]
+                      .replaceAll("<i> ", " <i>")
+                      .replaceAll("<b> ", " <b>")
+                      .replaceAll("<span> ", " <span>")
+                      .replaceAll(
+                        '<span style=\\"color:red\\"> ',
+                        ' <span style=\\"color:red\\">'
+                      )
+                      .replaceAll(
+                        '<span style=\\"color:blue\\"> ',
+                        ' <span style=\\"color:blue\\">'
+                      )
+                      .replaceAll(" </i>", "</i> ")
+                      .replaceAll(" </b>", "</b> ")
+                      .replaceAll(" </span>", "</span> "),
+                  });
                 }
-              })
+              });
             }
-          })
+          });
 
-          data.danhSachCauHoi = DanhSachCauHoi
-          data.noiDungVideo = noiDungVideo
+          data.danhSachCauHoi = DanhSachCauHoi;
+          data.noiDungVideo = noiDungVideo;
           writeFileJson(data, folderName, index + 1);
         }
       });
-    }
-    catch (error) {
+    } catch (error) {
       console.log("Error to create new folder ", error, folderName, indexError);
     }
   }

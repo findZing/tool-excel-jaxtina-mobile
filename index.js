@@ -758,11 +758,7 @@ for (lesson of _4Skills) {
           writeFileJson(data, folderName, index + 1);
         }
 
-        if (item && item.includes("P0.2") && (
-          dangNeedUpdate.length === 0 || (
-            dangNeedUpdate.includes("P0.2")
-          )
-        )) {
+        if (item && item.includes("P0.2")) {
           // console.log(item, folderName)
           let data = {
             dangCauHoi: "P0_2",
@@ -776,36 +772,9 @@ for (lesson of _4Skills) {
             let tuMoi = doc["TỪ MỚI"];
             if (tuMoi[tuMoi.length - 1] === ".")
               tuMoi = tuMoi.slice(0, tuMoi.length - 1);
-            const amThanh =
-              khoaHocName + "_L" +
-              lesson.Lesson +
-              "/sounds/normal/S_" +
-              lesson.Lesson +
-              "_PRONUNCIATION_" +
-              doc.STT +
-              "." +
-              tuMoi.toLowerCase().trim().replaceAll(" ", ".") +
-              ".mp3";
-            const amThanhCham =
-              khoaHocName + "_L" +
-              lesson.Lesson +
-              "/sounds/slow/S_" +
-              lesson.Lesson +
-              "_PRONUNCIATION_" +
-              doc.STT +
-              "." +
-              tuMoi.trim() +
-              ".mp3";
-            const hinhAnh =
-              "4SKILLS_S_L" +
-              lesson.Lesson +
-              "/S_" +
-              lesson.Lesson +
-              "_PRONUNCIATION_" +
-              doc.STT +
-              "." +
-              tuMoi.toLowerCase().trim().replaceAll(" ", ".") +
-              ".png";
+            const amThanh = "4SKILLS_PRE_S_L" + lesson.Lesson + "/sounds/normal/" + doc["normal audio url"]
+            const amThanhCham = "4SKILLS_PRE_S_L" + lesson.Lesson + "/sounds/slow/" + doc["normal audio url"]
+            const hinhAnh = "4SKILLS_PRE_S_L" + lesson.Lesson + "/" + doc["Image"]
             const phienAm = doc["CÁCH PHÁT ÂM"];
             const loaiTu = doc["LOẠI TỪ"];
             const yNghia = doc["NGHĨA CỦA TỪ"];

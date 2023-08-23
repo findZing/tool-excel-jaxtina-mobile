@@ -8,7 +8,7 @@ const pathLesson = "./Course/";
 //Lesson Cần Update | Để trống thì update toàn bộ lesson
 const lessonNeedUpdate = [];
 //Dạng Cần Update | Để trống thì update toàn bộ dạng
-const dangNeedUpdate = ["P8"];
+const dangNeedUpdate = [];
 //Tên khóa học
 const khoaHocName = "4SKILLS_PRE_S"; // hoặc 4SKILLS_PRE_S hoặc hoặc 4SKILLS_S
 //Tên sheetName trong excel
@@ -450,12 +450,8 @@ for (lesson of _4Skills) {
                   cauHoi: doc["Nội dung"],
                   yNghia: doc["Giải thích"],
                   danhSachDapAn: [],
-                  audioUrl:
-                    khoaHocName +
-                    "_L" +
-                    lesson.Lesson +
-                    "/sounds/normal/" +
-                    doc["Audio Link"],
+                  cauHoi: khoaHocName + "_L" + lesson.Lesson + "/sounds/normal/" + doc["Audio Link"],
+
                 });
                 normalQuestionIndex = DanhSachCauHoi.length - 1;
                 NomarlQuestionHasUrlOrNot = true;

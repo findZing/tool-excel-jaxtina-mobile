@@ -2,13 +2,13 @@ const xlsx = require("xlsx");
 const fs = require("fs");
 const { v4: uuidv4, v4 } = require("uuid");
 
-// const pathLesson = "/Users/manhnguyenhuu/Desktop/Jaxtina/jaxtina-mobile/app/screens/Courses/assets/data/4SKILLS_PRE_S/lessons/"
+const pathLesson = "/Users/manhnguyenhuu/Desktop/Jaxtina/jax2/app/screens/Courses/assets/data/4SKILLS_PRE_S/lessons/"
 //Đường dẫn nơi lưu trữ file
-const pathLesson = "./Course/";
+// const pathLesson = "./Course/";
 //Lesson Cần Update | Để trống thì update toàn bộ lesson
 const lessonNeedUpdate = [];
 //Dạng Cần Update | Để trống thì update toàn bộ dạng
-const dangNeedUpdate = ["P8"];
+const dangNeedUpdate = ["VocabularyVideo","GrammarVideo"];
 //Tên khóa học
 const khoaHocName = "4SKILLS_PRE_S"; // hoặc 4SKILLS_PRE_S hoặc hoặc 4SKILLS_S
 //Tên sheetName trong excel
@@ -363,16 +363,17 @@ for (lesson of _4Skills) {
                 cauHoiNho: [],
                 cauHoi: doc["Nội dung"],
                 yNghia: doc["Giải thích"]
+                  .replaceAll("\\", "")
                   .replaceAll("<i> ", " <i>")
                   .replaceAll("<b> ", " <b>")
                   .replaceAll("<span> ", " <span>")
                   .replaceAll(
-                    '<span style=\\"color:red\\"> ',
-                    ' <span style=\\"color:red\\">'
+                    '<span style="color:red"> ',
+                    ' <span style="color:red">'
                   )
                   .replaceAll(
-                    '<span style=\\"color:blue\\"> ',
-                    ' <span style=\\"color:blue\\">'
+                    '<span style="color:blue"> ',
+                    ' <span style="color:blue">'
                   )
                   .replaceAll(
                     '<span style="color:red"> ',
@@ -780,7 +781,7 @@ for (lesson of _4Skills) {
               khoaHocName +
               "_L" +
               lesson.Lesson +
-              "/sounds/normal/Slow_Speaking.mp3",
+              "/sounds/slow/Slow_Speaking.mp3",
           };
           let docs = filterByBaiHoc(noiData, lesson);
           let DanhSachCauHoi = [];
@@ -807,13 +808,19 @@ for (lesson of _4Skills) {
                     ":" +
                     dapAn.Normal.split(":")[1] +
                     ":" +
-                    dapAn.Normal.split(":")[2], // + "." + dapAn.Normal.split(":")[3],
+                    dapAn.Normal.split(":")[2] +
+                    (dapAn.Normal.split(":")[3]
+                      ? "." + dapAn.Normal.split(":")[3]
+                      : ""),
                   end:
                     dapAn.__EMPTY.split(":")[0] +
                     ":" +
                     dapAn.__EMPTY.split(":")[1] +
                     ":" +
-                    dapAn.__EMPTY.split(":")[2], // + "." + dapAn.__EMPTY.split(":")[3],
+                    dapAn.__EMPTY.split(":")[2] +
+                    (dapAn.__EMPTY.split(":")[3]
+                      ? "." + dapAn.__EMPTY.split(":")[3]
+                      : ""),
                 },
                 slow: {
                   start:
@@ -821,13 +828,19 @@ for (lesson of _4Skills) {
                     ":" +
                     dapAn.Slow.split(":")[1] +
                     ":" +
-                    dapAn.Slow.split(":")[2], // + "." + dapAn.Slow.split(":")[3],
+                    dapAn.Slow.split(":")[2] +
+                    (dapAn.Slow.split(":")[3]
+                      ? "." + dapAn.Slow.split(":")[3]
+                      : ""),
                   end:
                     dapAn.__EMPTY_1.split(":")[0] +
                     ":" +
                     dapAn.__EMPTY_1.split(":")[1] +
                     ":" +
-                    dapAn.__EMPTY_1.split(":")[2], // + "." + dapAn.__EMPTY_1.split(":")[3],
+                    dapAn.__EMPTY_1.split(":")[2] +
+                    (dapAn.__EMPTY_1.split(":")[3]
+                      ? "." + dapAn.__EMPTY_1.split(":")[3]
+                      : ""),
                 },
               });
             }
@@ -845,7 +858,11 @@ for (lesson of _4Skills) {
           writeFileJson(data, folderName, index + 1);
         }
 
-        if (item && item.includes("P0.2")) {
+        if (
+          item &&
+          item.includes("P0.2") &&
+          (dangNeedUpdate.length === 0 || dangNeedUpdate.includes("P0.2"))
+        ) {
           // console.log(item, folderName)
           let data = {
             dangCauHoi: "P0_2",
@@ -860,17 +877,19 @@ for (lesson of _4Skills) {
             if (tuMoi[tuMoi.length - 1] === ".")
               tuMoi = tuMoi.slice(0, tuMoi.length - 1);
             const amThanh =
-              "4SKILLS_PRE_S_L" +
+              khoaHocName +
+              "_L" +
               lesson.Lesson +
               "/sounds/normal/" +
               doc["normal audio url"];
             const amThanhCham =
-              "4SKILLS_PRE_S_L" +
+              khoaHocName +
+              "_L" +
               lesson.Lesson +
               "/sounds/slow/" +
               doc["normal audio url"];
             const hinhAnh =
-              "4SKILLS_PRE_S_L" + lesson.Lesson + "/" + doc["Image"];
+              khoaHocName + "_L" + lesson.Lesson + "/" + doc["Image"];
             const phienAm = doc["CÁCH PHÁT ÂM"];
             const loaiTu = doc["LOẠI TỪ"];
             const yNghia = doc["NGHĨA CỦA TỪ"];
@@ -1035,163 +1054,175 @@ for (lesson of _4Skills) {
           let cauHoiIndexNumber = -1;
           let name = "";
           const regex = /[\W\d+\.wav]/g;
-          for (let j = 0; j < videoPractice.length; j++) {
-            const item = videoPractice[j];
 
+          practiceVideoTime.map((videoTime, index) => {
+            // console.log("Video Practice: ", practiceVideoTime[index]);
             if (
-              item["Lesson"] &&
-              item["Lesson"] == "Lesson " + lesson.Lesson + " VOCAB"
+              videoTime["Dạng Video"] === "Vocabulary" &&
+              +practiceVideoTime[index].Lesson.trim().slice(0, 2) ===
+                lesson.Lesson
             ) {
-              itemSave = "Lesson " + lesson.Lesson + " VOCAB";
-            } else if (
-              item["Lesson"] &&
-              item["Lesson"] !== "Lesson " + lesson.Lesson + " VOCAB"
-            ) {
-              itemSave = "";
-            }
-            if (itemSave === "Lesson " + lesson.Lesson + " VOCAB") {
-              if (item["Câu hỏi"] && item["Câu hỏi"].includes("Practice")) {
-                // console.log(item["Câu hỏi"].slice(8, -19).split(":")[1].replaceAll("-", "").trim().split(" ")[1])
-
-                cauHoiIndexNumber = -1;
-                const time = item["Câu hỏi"].slice(-17);
-                name = item["Câu hỏi"]
-                  .split(":")[1]
-                  .split("-")[0]
-                  .trim()
-                  .split(" ")[1];
-                name = name.includes(".") ? name.split(".")[0] : name;
-                practiceIndex =
-                  +item["Câu hỏi"].trim().split(" ")[1].replaceAll(":", "") - 1;
-                // console.log(item["Câu hỏi"].trim().split(" ")[1].replaceAll(":", ""))
-                // cons
-
-                DanhSachCauHoi.push({
-                  timeStart: time.split("-")[0].trim(),
-                  timeEnd: time.split("-")[1].trim(),
-                  done: false,
-                  practice: {
-                    done: false,
-                    dangCauHoi: name,
-                    danhSachCauHoi: [],
-                  },
-                });
-              }
-
-              if (item["Câu hỏi"] && item["Câu hỏi"].includes("Câu hỏi")) {
-                //       // console.log(item["Câu hỏi"].split(" ")[2].trim(), practiceIndex, DanhSachCauHoi[practiceIndex])
-                if (cauHoiIndex !== item["Câu hỏi"].split(" ")[2].trim()) {
-                  cauHoiIndex = item["Câu hỏi"].split(" ")[2].trim();
-                  DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi.push({
-                    cauHoiNho: [],
-                    danhSachDapAn: [
-                      {
-                        _id: v4(),
-                        dapAn: item["Đáp án"],
-                      },
-                    ],
-                  });
-                } else if (
-                  cauHoiIndex !== "" &&
-                  cauHoiIndex === item["Câu hỏi"].split(" ")[2].trim()
-                ) {
-                  // console.log(cauHoiIndex)
-                  DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[
-                    +cauHoiIndex - 1
-                  ].danhSachDapAn.push({
-                    _id: v4(),
-                    dapAn: item["Đáp án"],
-                  });
-                }
-              }
-
+              for (let j = 0; j < videoPractice.length; j++) {
+              const item = videoPractice[j];
               if (
-                !item["Câu hỏi"] &&
-                (item["Nội dung"] || item["Đáp án"] || item["Sai/Đúng"])
+                item["Lesson"] &&
+                item["Lesson"] == "Lesson " + lesson.Lesson + " VOCAB"
               ) {
-                if (item["Nội dung"]) {
-                  cauHoiIndexNumber += 1;
-                  if (item["Sai/Đúng"]) {
-                    if (name == "P1") {
-                      console.log(item["audio"]?.search(regex), lesson.Lesson);
-                      DanhSachCauHoi[
-                        practiceIndex
-                      ].practice.danhSachCauHoi.push({
-                        cauHoi: item["Nội dung"],
-                        _id: v4(),
-                        soundCauhoi:
-                          khoaHocName +
-                          "_L" +
-                          lesson.Lesson +
-                          "/sounds/video-practice/" +
-                          item["audio"],
-                        danhSachDapAn: item["Đáp án"]
-                          ? [
-                              {
-                                isCorrect:
-                                  item["Sai/Đúng"] == "Đúng" ? true : false,
-                                dapAn: item["Đáp án"],
-                                _id: v4(),
-                              },
-                            ]
-                          : [],
-                      });
-                    } else {
-                      DanhSachCauHoi[
-                        practiceIndex
-                      ].practice.danhSachCauHoi.push({
-                        cauHoi: item["Nội dung"],
-                        _id: v4(),
-                        danhSachDapAn: item["Đáp án"]
-                          ? [
-                              {
-                                isCorrect:
-                                  item["Sai/Đúng"] == "Đúng" ? true : false,
-                                dapAn: item["Đáp án"],
-                                _id: v4(),
-                              },
-                            ]
-                          : [],
-                      });
-                    }
-                  } else {
-                    DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi.push({
-                      cauHoi: item["Nội dung"]
-                        .replaceAll(
-                          '<span style="color:blue"> <b>',
-                          ' <b><span style="color:blue">'
-                        )
-                        .replaceAll(
-                          '<span style="color:blue"><b>',
-                          ' <b><span style="color:blue">'
-                        )
-                        .replaceAll("</b></span>", "</span></b>")
-                        .replaceAll("</b> </span>", "</span></b>"),
-                      _id: {
-                        $oid: v4(),
-                      },
-                      yNghia: item["Đáp án"],
-                    });
-                  }
-                } else if (cauHoiIndexNumber > -1) {
-                  // if(item["Sai/Đúng"] == "Đúng" && name == "P1")
-                  // {
-                  //   console.log(DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[cauHoiIndexNumber].cauHoi)
-                  //   DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[cauHoiIndexNumber].soundCauhoi += DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[cauHoiIndexNumber].cauHoi.replaceAll(" ", "").replaceAll(".", "").replaceAll("____", item["Đáp án"]).replaceAll("___", item["Đáp án"]).replaceAll("_", item["Đáp án"]) +".mp3"
-                  // }
-                  DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[
-                    cauHoiIndexNumber
-                  ].danhSachDapAn.push({
-                    isCorrect: item["Sai/Đúng"] == "Đúng" ? true : false,
-                    dapAn: item["Đáp án"],
-                    _id: {
-                      $oid: v4(),
+                itemSave = "Lesson " + lesson.Lesson + " VOCAB";
+              } else if (
+                item["Lesson"] &&
+                item["Lesson"] !== "Lesson " + lesson.Lesson + " VOCAB"
+              ) {
+                itemSave = "";
+              }
+              if (itemSave === "Lesson " + lesson.Lesson + " VOCAB") {
+                if (item["Câu hỏi"] && item["Câu hỏi"].includes("Practice")) {
+                  // console.log(item["Câu hỏi"].slice(8, -19).split(":")[1].replaceAll("-", "").trim().split(" ")[1])
+  
+                  cauHoiIndexNumber = -1;
+                  const time = item["Câu hỏi"].slice(-17);
+                  name = item["Câu hỏi"]
+                    .split(":")[1]
+                    .split("-")[0]
+                    .trim()
+                    .split(" ")[1];
+                  name = name.includes(".") ? name.split(".")[0] : name;
+                  practiceIndex =
+                    +item["Câu hỏi"].trim().split(" ")[1].replaceAll(":", "") - 1;
+                  // console.log(item["Câu hỏi"].trim().split(" ")[1].replaceAll(":", ""))
+                  // cons
+                  console.log("Video Practice: ", practiceVideoTime[index]['Tổng số bài'], practiceIndex + 1);
+  
+                  DanhSachCauHoi.push({
+                    timeStart: practiceIndex + 1 === 1 ? "0:00:00" : practiceVideoTime[index][`Practice ${practiceIndex}`], //time.split("-")[0].trim(),
+                    timeEnd: practiceVideoTime[index][`Practice ${practiceIndex + 1}`],//time.split("-")[1].trim(),
+                    done: false,
+                    practice: {
+                      done: false,
+                      dangCauHoi: name,
+                      danhSachCauHoi: [],
                     },
                   });
                 }
+  
+                if (item["Câu hỏi"] && item["Câu hỏi"].includes("Câu hỏi")) {
+                  //       // console.log(item["Câu hỏi"].split(" ")[2].trim(), practiceIndex, DanhSachCauHoi[practiceIndex])
+                  if (cauHoiIndex !== item["Câu hỏi"].split(" ")[2].trim()) {
+                    cauHoiIndex = item["Câu hỏi"].split(" ")[2].trim();
+                    DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi.push({
+                      cauHoiNho: [],
+                      danhSachDapAn: [
+                        {
+                          _id: v4(),
+                          dapAn: item["Đáp án"],
+                        },
+                      ],
+                    });
+                  } else if (
+                    cauHoiIndex !== "" &&
+                    cauHoiIndex === item["Câu hỏi"].split(" ")[2].trim()
+                  ) {
+                    // console.log(cauHoiIndex)
+                    DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[
+                      +cauHoiIndex - 1
+                    ].danhSachDapAn.push({
+                      _id: v4(),
+                      dapAn: item["Đáp án"],
+                    });
+                  }
+                }
+  
+                if (
+                  !item["Câu hỏi"] &&
+                  (item["Nội dung"] || item["Đáp án"] || item["Sai/Đúng"])
+                ) {
+                  if (item["Nội dung"]) {
+                    cauHoiIndexNumber += 1;
+                    if (item["Sai/Đúng"]) {
+                      if (name == "P1") {
+                        console.log(item["audio"]?.search(regex), lesson.Lesson);
+                        DanhSachCauHoi[
+                          practiceIndex
+                        ].practice.danhSachCauHoi.push({
+                          cauHoi: item["Nội dung"],
+                          _id: v4(),
+                          soundCauhoi:
+                            khoaHocName +
+                            "_L" +
+                            lesson.Lesson +
+                            "/sounds/video-practice/" +
+                            item["audio"],
+                          danhSachDapAn: item["Đáp án"]
+                            ? [
+                                {
+                                  isCorrect:
+                                    item["Sai/Đúng"] == "Đúng" ? true : false,
+                                  dapAn: item["Đáp án"],
+                                  _id: v4(),
+                                },
+                              ]
+                            : [],
+                        });
+                      } else {
+                        DanhSachCauHoi[
+                          practiceIndex
+                        ].practice.danhSachCauHoi.push({
+                          cauHoi: item["Nội dung"],
+                          _id: v4(),
+                          danhSachDapAn: item["Đáp án"]
+                            ? [
+                                {
+                                  isCorrect:
+                                    item["Sai/Đúng"] == "Đúng" ? true : false,
+                                  dapAn: item["Đáp án"],
+                                  _id: v4(),
+                                },
+                              ]
+                            : [],
+                        });
+                      }
+                    } else {
+                      DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi.push({
+                        cauHoi: item["Nội dung"]
+                          .replaceAll(
+                            '<span style="color:blue"> <b>',
+                            ' <b><span style="color:blue">'
+                          )
+                          .replaceAll(
+                            '<span style="color:blue"><b>',
+                            ' <b><span style="color:blue">'
+                          )
+                          .replaceAll("</b></span>", "</span></b>")
+                          .replaceAll("</b> </span>", "</span></b>"),
+                        _id: {
+                          $oid: v4(),
+                        },
+                        yNghia: item["Đáp án"],
+                      });
+                    }
+                  } else if (cauHoiIndexNumber > -1) {
+                    // if(item["Sai/Đúng"] == "Đúng" && name == "P1")
+                    // {
+                    //   console.log(DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[cauHoiIndexNumber].cauHoi)
+                    //   DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[cauHoiIndexNumber].soundCauhoi += DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[cauHoiIndexNumber].cauHoi.replaceAll(" ", "").replaceAll(".", "").replaceAll("____", item["Đáp án"]).replaceAll("___", item["Đáp án"]).replaceAll("_", item["Đáp án"]) +".mp3"
+                    // }
+                    DanhSachCauHoi[practiceIndex].practice.danhSachCauHoi[
+                      cauHoiIndexNumber
+                    ].danhSachDapAn.push({
+                      isCorrect: item["Sai/Đúng"] == "Đúng" ? true : false,
+                      dapAn: item["Đáp án"],
+                      _id: {
+                        $oid: v4(),
+                      },
+                    });
+                  }
+                }
               }
             }
-          }
+            }
+          });
+
+          
           data.newWords = newWords;
           data.scriptVideo = scriptVideo;
           data.danhSachCauHoi = DanhSachCauHoi;
@@ -1397,7 +1428,7 @@ for (lesson of _4Skills) {
                   // console.log(grammarVideo)
                   noiDungVideo.push({
                     timeEnd: item[key],
-                    noiDung: grammar[0]["Phần " + practiceIndex]
+                    noiDung: grammar[0]["Phần " + practiceIndex] ? grammar[0]["Phần " + practiceIndex]
                       .replaceAll("<i> ", " <i>")
                       .replaceAll("<b> ", " <b>")
                       .replaceAll("<span> ", " <span>")
@@ -1411,7 +1442,7 @@ for (lesson of _4Skills) {
                       )
                       .replaceAll(" </i>", "</i> ")
                       .replaceAll(" </b>", "</b> ")
-                      .replaceAll(" </span>", "</span> "),
+                      .replaceAll(" </span>", "</span> ") : null
                   });
                 }
               });

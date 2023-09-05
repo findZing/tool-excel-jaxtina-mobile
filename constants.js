@@ -3,8 +3,8 @@ module.exports = {
         DATA_FILE: {
             PRES: "./Khoa_hoc_PreS.xlsx",
             S: "./Khoa_hoc_S.xlsx",
-            TC: "../template_data/Khoa_hoc_TC_template.xlsx",
-            MTC: "../template_data/Khoa_hoc_MTC_template.xlsx",
+            TC: "./Khoa_hoc_TC.xlsx",
+            MTC: "./Khoa_hoc_MTC.xlsx",
             TUMOI: './Từ mới.xlsx'
         },
         DANG_KHOA_HOC: {

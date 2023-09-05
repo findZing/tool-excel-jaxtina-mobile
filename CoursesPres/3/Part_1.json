@@ -1,0 +1,644 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "VOCABULARY",
+  "videoUrl": "4SKILLS_PRE_S_L3/vocabulary.mp4",
+  "newWords": [
+    {
+      "word": "parents",
+      "loaiTu": "n",
+      "phatAm": "/ˈpeərənt/",
+      "meaning": "bố mẹ",
+      "viDu": "I love my parents.\n(Tôi yêu bố mẹ của mình.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/77.parents.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/77.parents.png"
+    },
+    {
+      "word": "father",
+      "loaiTu": "n",
+      "phatAm": "/ˈfɑːðər/",
+      "meaning": "bố",
+      "viDu": "My father is a doctor.\n(Bố tôi là bác sĩ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/78.father.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/78.father.png"
+    },
+    {
+      "word": "mother",
+      "loaiTu": "n",
+      "phatAm": "/ˈmʌðər/",
+      "meaning": "mẹ",
+      "viDu": "My mother is a teacher. \n(Mẹ tôi là giáo viên.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/79.mother.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/79.mother.png"
+    },
+    {
+      "word": "brother",
+      "loaiTu": "n",
+      "phatAm": "/ˈbrʌðər/",
+      "meaning": "anh, em trai",
+      "viDu": "I have one brother. \n(Tôi có một anh trai.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/80.brother.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/80.brother.png"
+    },
+    {
+      "word": "sister",
+      "loaiTu": "n",
+      "phatAm": "/ˈsɪstər/",
+      "meaning": "chị, em gái",
+      "viDu": "I have one sister. \r\n(Tôi có một em gái.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/81.sister.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/81.sister.png"
+    },
+    {
+      "word": "son",
+      "loaiTu": "n",
+      "phatAm": "/sʌn/",
+      "meaning": "con trai",
+      "viDu": "My son is a pilot.\n(Con trai tôi là phi công.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/82.son.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/82.son.png"
+    },
+    {
+      "word": "daughter",
+      "loaiTu": "n",
+      "phatAm": "/ˈdɔːtər/",
+      "meaning": "con gái",
+      "viDu": "My daughter is a nurse.\n(Con gái tôi là y tá.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/83.daughter.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/83.daughter.png"
+    },
+    {
+      "word": "husband",
+      "loaiTu": "n",
+      "phatAm": "/ˈhʌzbənd/",
+      "meaning": "chồng",
+      "viDu": "He is my husband.\n(Anh ấy là chồng của tôi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/84.husband.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/84.husband.png"
+    },
+    {
+      "word": "wife",
+      "loaiTu": "n",
+      "phatAm": "/waɪf/",
+      "meaning": "vợ",
+      "viDu": "She is my wife.\n(Cô ấy là vợ của tôi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/85.wife.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/85.wife.png"
+    },
+    {
+      "word": "grandfather",
+      "loaiTu": "n",
+      "phatAm": "/ˈɡrænfɑːðər/",
+      "meaning": "ông",
+      "viDu": "My grandfather is 60 years old.\n(Ông tôi 60 tuổi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/86.grandfather.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/86.grandfather.png"
+    },
+    {
+      "word": "grandmother",
+      "loaiTu": "n",
+      "phatAm": "/ˈɡrænmʌðər/",
+      "meaning": "bà",
+      "viDu": "My grandmother is 57 years old.\n(Bà tôi 57 tuổi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/87.grandmother.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/87.grandmother.png"
+    },
+    {
+      "word": "grandparents",
+      "loaiTu": "n",
+      "phatAm": "/ˈɡrænpeərənts/",
+      "meaning": "ông bà",
+      "viDu": "I love my grandparents. \n(Tôi yêu ông bà của mình.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/88.grandparents.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/88.grandparents.png"
+    }
+  ],
+  "scriptVideo": [
+    {
+      "start": "0:00:54",
+      "end": "0:00:59",
+      "english": "grandparents",
+      "subScriptEnglish": " _grandparents_ ",
+      "matchedNewWords": [
+        "grandparents"
+      ],
+      "vietnamese": "Ông bà"
+    },
+    {
+      "start": "0:01:01",
+      "end": "0:01:05",
+      "english": "grandfather",
+      "subScriptEnglish": " _grandfather_ ",
+      "matchedNewWords": [
+        "grandfather"
+      ],
+      "vietnamese": "Ông"
+    },
+    {
+      "start": "0:01:06",
+      "end": "0:01:10",
+      "english": "grandmother",
+      "subScriptEnglish": " _grandmother_ ",
+      "matchedNewWords": [
+        "grandmother"
+      ],
+      "vietnamese": "Bà"
+    },
+    {
+      "start": "0:01:13",
+      "end": "0:01:20",
+      "english": "grandparents",
+      "subScriptEnglish": " _grandparents_ ",
+      "matchedNewWords": [
+        "grandparents"
+      ],
+      "vietnamese": "Ông bà"
+    },
+    {
+      "start": "0:01:20",
+      "end": "0:01:29",
+      "english": "grandfather",
+      "subScriptEnglish": " _grandfather_ ",
+      "matchedNewWords": [
+        "grandfather"
+      ],
+      "vietnamese": "Ông"
+    },
+    {
+      "start": "0:01:29",
+      "end": "0:01:38",
+      "english": "grandmother",
+      "subScriptEnglish": " _grandmother_ ",
+      "matchedNewWords": [
+        "grandmother"
+      ],
+      "vietnamese": "Bà"
+    },
+    {
+      "start": "0:01:42",
+      "end": "0:02:03",
+      "english": "I live with my grandparents. My grandfather is 60 years old and my grandmother is 57 years old.",
+      "subScriptEnglish": " _I__ live with my  _grandparents._  My __grandfather_  is 60 years __old_  and my __grandmother_  is 57 years __old_ .",
+      "matchedNewWords": [
+        "grandparents",
+        "grandmother",
+        "grandfather",
+        "old",
+        "I"
+      ],
+      "vietnamese": "Tôi sống với ông bà của mình. Ông tôi năm nay 60 tuổi, còn bà tôi 57 tuổi."
+    },
+    {
+      "start": "0:02:14",
+      "end": "0:02:19",
+      "english": "my grandfather",
+      "subScriptEnglish": "my  _grandfather_ ",
+      "matchedNewWords": [
+        "grandfather"
+      ],
+      "vietnamese": "ông của tôi"
+    },
+    {
+      "start": "0:02:19",
+      "end": "0:02:24",
+      "english": "my grandmother",
+      "subScriptEnglish": "my  _grandmother_ ",
+      "matchedNewWords": [
+        "grandmother"
+      ],
+      "vietnamese": "bà của tôi"
+    },
+    {
+      "start": "0:02:26",
+      "end": "0:02:31",
+      "english": "parents",
+      "subScriptEnglish": " _parents_ ",
+      "matchedNewWords": [
+        "parents"
+      ],
+      "vietnamese": "bố mẹ"
+    },
+    {
+      "start": "0:02:33",
+      "end": "0:02:37",
+      "english": "father",
+      "subScriptEnglish": " _father_ ",
+      "matchedNewWords": [
+        "father"
+      ],
+      "vietnamese": "bố"
+    },
+    {
+      "start": "0:02:38",
+      "end": "0:02:42",
+      "english": "mother",
+      "subScriptEnglish": " _mother_ ",
+      "matchedNewWords": [
+        "mother"
+      ],
+      "vietnamese": "mẹ"
+    },
+    {
+      "start": "0:02:44",
+      "end": "0:02:48",
+      "english": "parents",
+      "subScriptEnglish": " _parents_ ",
+      "matchedNewWords": [
+        "parents"
+      ],
+      "vietnamese": "bố mẹ"
+    },
+    {
+      "start": "0:02:48",
+      "end": "0:02:53",
+      "english": "father",
+      "subScriptEnglish": " _father_ ",
+      "matchedNewWords": [
+        "father"
+      ],
+      "vietnamese": "bố"
+    },
+    {
+      "start": "0:02:53",
+      "end": "0:02:59",
+      "english": "mother",
+      "subScriptEnglish": " _mother_ ",
+      "matchedNewWords": [
+        "mother"
+      ],
+      "vietnamese": "mẹ"
+    },
+    {
+      "start": "0:03:03",
+      "end": "0:03:16",
+      "english": "My father is a doctor, my mother is a teacher. I love my parents.",
+      "subScriptEnglish": "M _y_   _father__ is a  _doctor,_  m _y_  __mother_  is a __teacher_ .  _I_  love m _y_  parents.",
+      "matchedNewWords": [
+        "teacher",
+        "parents",
+        "doctor",
+        "father",
+        "mother",
+        "love"
+      ],
+      "vietnamese": "Bố tôi là bác sĩ, mẹ tôi là giáo viên. Tôi yêu bố mẹ của mình."
+    },
+    {
+      "start": "0:03:27",
+      "end": "0:03:30",
+      "english": "doctor",
+      "subScriptEnglish": " _doctor_ ",
+      "matchedNewWords": [
+        "doctor"
+      ],
+      "vietnamese": "bác sĩ"
+    },
+    {
+      "start": "0:03:31",
+      "end": "0:03:34",
+      "english": "teacher",
+      "subScriptEnglish": " _teacher_ ",
+      "matchedNewWords": [
+        "teacher"
+      ],
+      "vietnamese": "giáo viên"
+    },
+    {
+      "start": "0:03:37",
+      "end": "0:03:40",
+      "english": "husband",
+      "subScriptEnglish": " _husband_ ",
+      "matchedNewWords": [
+        "husband"
+      ],
+      "vietnamese": "chồng"
+    },
+    {
+      "start": "0:03:41",
+      "end": "0:03:44",
+      "english": "wife",
+      "subScriptEnglish": " _wife_ ",
+      "matchedNewWords": [
+        "wife"
+      ],
+      "vietnamese": "vợ"
+    },
+    {
+      "start": "0:03:47",
+      "end": "0:03:52",
+      "english": "husband",
+      "subScriptEnglish": " _husband_ ",
+      "matchedNewWords": [
+        "husband"
+      ],
+      "vietnamese": "chồng"
+    },
+    {
+      "start": "0:03:52",
+      "end": "0:03:58",
+      "english": "wife",
+      "subScriptEnglish": " _wife_ ",
+      "matchedNewWords": [
+        "wife"
+      ],
+      "vietnamese": "vợ"
+    },
+    {
+      "start": "0:04:03",
+      "end": "0:04:14",
+      "english": "Husbands and wives should show respect for each other.",
+      "subScriptEnglish": "Husbands and wives should show respect for each other.",
+      "matchedNewWords": [],
+      "vietnamese": "Vợ chồng nên thể hiện sự tôn trọng lẫn nhau."
+    },
+    {
+      "start": "0:04:34",
+      "end": "0:04:42",
+      "english": "show respect for someone",
+      "subScriptEnglish": "show respect for someone",
+      "matchedNewWords": [],
+      "vietnamese": "thể hiện sự tôn trọng với ai đó"
+    },
+    {
+      "start": "0:04:47",
+      "end": "0:04:49",
+      "english": "son",
+      "subScriptEnglish": " _son_ ",
+      "matchedNewWords": [
+        "son"
+      ],
+      "vietnamese": "con trai"
+    },
+    {
+      "start": "0:04:51",
+      "end": "0:04:53",
+      "english": "daughter",
+      "subScriptEnglish": " _daughter_ ",
+      "matchedNewWords": [
+        "daughter"
+      ],
+      "vietnamese": "con gái"
+    },
+    {
+      "start": "0:04:55",
+      "end": "0:05:00",
+      "english": "son",
+      "subScriptEnglish": " _son_ ",
+      "matchedNewWords": [
+        "son"
+      ],
+      "vietnamese": "con trai"
+    },
+    {
+      "start": "0:05:00",
+      "end": "0:05:05",
+      "english": "daughter",
+      "subScriptEnglish": " _daughter_ ",
+      "matchedNewWords": [
+        "daughter"
+      ],
+      "vietnamese": "con gái"
+    },
+    {
+      "start": "0:05:08",
+      "end": "0:05:20",
+      "english": "My son is a pilot and my daughter is a nurse.",
+      "subScriptEnglish": "My  _son__ is a  _pilot__ and my  _daughter__ is a  _nurse._ ",
+      "matchedNewWords": [
+        "daughter",
+        "pilot",
+        "nurse",
+        "son"
+      ],
+      "vietnamese": "Con trai tôi là phi công và con gái tôi là ý tá."
+    },
+    {
+      "start": "0:05:24",
+      "end": "0:05:28",
+      "english": "pilot",
+      "subScriptEnglish": " _pilot_ ",
+      "matchedNewWords": [
+        "pilot"
+      ],
+      "vietnamese": "phi công"
+    },
+    {
+      "start": "0:05:29",
+      "end": "0:05:32",
+      "english": "nurse",
+      "subScriptEnglish": " _nurse_ ",
+      "matchedNewWords": [
+        "nurse"
+      ],
+      "vietnamese": "y tá"
+    },
+    {
+      "start": "0:05:32",
+      "end": "0:05:39",
+      "english": "brother",
+      "subScriptEnglish": " _brother_ ",
+      "matchedNewWords": [
+        "brother"
+      ],
+      "vietnamese": "anh trai, em trai"
+    },
+    {
+      "start": "0:05:39",
+      "end": "0:05:45",
+      "english": "sister",
+      "subScriptEnglish": " _sister_ ",
+      "matchedNewWords": [
+        "sister"
+      ],
+      "vietnamese": "chị, em gái"
+    },
+    {
+      "start": "0:05:48",
+      "end": "0:05:53",
+      "english": "brother",
+      "subScriptEnglish": " _brother_ ",
+      "matchedNewWords": [
+        "brother"
+      ],
+      "vietnamese": "anh trai, em trai"
+    },
+    {
+      "start": "0:05:53",
+      "end": "0:05:59",
+      "english": "sister",
+      "subScriptEnglish": " _sister_ ",
+      "matchedNewWords": [
+        "sister"
+      ],
+      "vietnamese": "chị, em gái"
+    },
+    {
+      "start": "0:06:03",
+      "end": "0:06:12",
+      "english": "I have one brother and one sister.",
+      "subScriptEnglish": "I have  _one__  _brother__ and  _one__  _sister._ ",
+      "matchedNewWords": [
+        "brother",
+        "sister",
+        "one"
+      ],
+      "vietnamese": "Tôi có một anh trai và một em gái."
+    },
+    {
+      "start": "0:06:28",
+      "end": "0:06:31",
+      "english": "Family",
+      "subScriptEnglish": "Family",
+      "matchedNewWords": [],
+      "vietnamese": "Gia đình"
+    }
+  ],
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:00:33.772",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "37bdfdcd-f196-445e-928d-b1c792709c4b",
+                "dapAn": "She"
+              },
+              {
+                "_id": "8e47e5fa-59ec-44b1-9b2e-f77a91d162c2",
+                "dapAn": "speaks"
+              },
+              {
+                "_id": "631395f4-b0d8-4bb4-b235-54465143fd2f",
+                "dapAn": "German."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "0b5ade2d-0214-481d-8f2a-fe829c6076fd",
+                "dapAn": "My first"
+              },
+              {
+                "_id": "7840b7de-5616-43ad-a410-f7b24417dbf2",
+                "dapAn": "language"
+              },
+              {
+                "_id": "37f66eb8-5f41-4e89-9bb6-265b805556ff",
+                "dapAn": "is"
+              },
+              {
+                "_id": "55de3e1e-bbde-4806-8747-4debc36f509f",
+                "dapAn": "Vietnamese."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "0fcc74f1-5d34-4a3d-b09f-34ea8d4a53e0",
+                "dapAn": "He"
+              },
+              {
+                "_id": "4622cd26-eba4-4fa8-a236-9c2d8206b790",
+                "dapAn": "understands"
+              },
+              {
+                "_id": "7273cbb8-32a0-4220-96fb-93f72c9adb09",
+                "dapAn": "Japanese."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "9d203d5b-a9a0-4fdb-ba55-7ffaa6b05628",
+                "dapAn": "He is"
+              },
+              {
+                "_id": "e8fc3936-b796-46b9-9596-2d1be630fd26",
+                "dapAn": "from"
+              },
+              {
+                "_id": "98eb65eb-d798-42d8-b826-2b4a4630c59d",
+                "dapAn": "America."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "2d7d2609-c271-43e3-b9c2-f04a06104687",
+                "dapAn": "I can"
+              },
+              {
+                "_id": "907c241a-c400-4d09-bdf2-befb390c6c38",
+                "dapAn": "speak"
+              },
+              {
+                "_id": "085e3d30-3f70-41c8-8e72-a50276028532",
+                "dapAn": "English."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:00:33.772",
+      "timeEnd": "0:06:35.438",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Parents",
+            "_id": {
+              "$oid": "7b3f3ae1-419c-48ac-a3f8-8ab235c2ce67"
+            },
+            "yNghia": "Bố mẹ"
+          },
+          {
+            "cauHoi": "Grandparents",
+            "_id": {
+              "$oid": "3913bf7a-3784-4388-9908-7089ad28e733"
+            },
+            "yNghia": "Ông bà"
+          },
+          {
+            "cauHoi": "Mother",
+            "_id": {
+              "$oid": "b3f3544b-24a1-4a14-acc6-59f40ee9ac91"
+            },
+            "yNghia": "Mẹ"
+          },
+          {
+            "cauHoi": "Grandfather",
+            "_id": {
+              "$oid": "08d6361f-4268-4efb-b994-62be64df1f59"
+            },
+            "yNghia": "Ông"
+          },
+          {
+            "cauHoi": "Husband",
+            "_id": {
+              "$oid": "a3abfdeb-7cfa-461a-bada-6970da52aff5"
+            },
+            "yNghia": "Chồng"
+          }
+        ]
+      }
+    }
+  ]
+}

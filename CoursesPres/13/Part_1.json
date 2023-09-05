@@ -1,0 +1,671 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "VOCABULARY",
+  "videoUrl": "4SKILLS_PRE_S_L13/vocabulary.mp4",
+  "newWords": [
+    {
+      "word": "park",
+      "loaiTu": "n",
+      "phatAm": "/pɑːk/",
+      "meaning": "công viên",
+      "viDu": "I go to the park at weekends.\n(Tôi đến công viên vào cuối tuần.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/184.park.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/184.park.png"
+    },
+    {
+      "word": "ATM",
+      "loaiTu": "n",
+      "phatAm": "/ˌeɪ tiː ˈem/",
+      "meaning": "máy ATM",
+      "viDu": "I need to go to the ATM now.\n(Tôi cần đi đến máy ATM ngay bây giờ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/185.atm.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/185.atm.png"
+    },
+    {
+      "word": "hotel",
+      "loaiTu": "n",
+      "phatAm": "/həʊˈtel/",
+      "meaning": "khách sạn",
+      "viDu": "This hotel is old.\n(Khách sạn này cũ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/186.hotel.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/186.hotel.png"
+    },
+    {
+      "word": "museum",
+      "loaiTu": "n",
+      "phatAm": "/mjuˈziːəm/",
+      "meaning": "bảo tàng",
+      "viDu": "I love visiting museums.\n(Tôi thích tham quan bảo tàng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/187.museum.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/187.museum.png"
+    },
+    {
+      "word": "hospital",
+      "loaiTu": "n",
+      "phatAm": "/ˈhɒspɪtl/",
+      "meaning": "bệnh viện",
+      "viDu": "I hate going to the hospital.\n(Tôi ghét đến bệnh viện.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/188.hospital.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/188.hospital.png"
+    },
+    {
+      "word": "university",
+      "loaiTu": "n",
+      "phatAm": "/ˌjuːnɪˈvɜːsəti/",
+      "meaning": "đại học",
+      "viDu": "This is Hanoi university.\n(Đây là trường đại học Hà Nội.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/189.university.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/189.university.png"
+    },
+    {
+      "word": "bookstore",
+      "loaiTu": "n",
+      "phatAm": "/ˈbʊkstɔːr/",
+      "meaning": "hiệu sách",
+      "viDu": "I buy a book in the bookstore.\n(Tôi mua quyển sách ở hiệu sách.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/190.bookstore.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/190.bookstore.png"
+    },
+    {
+      "word": "restaurant",
+      "loaiTu": "n",
+      "phatAm": "/ˈrestrɒnt/",
+      "meaning": "nhà hàng",
+      "viDu": "Yum is my favorite restaurant.\n(Yum là nhà hàng yêu thích của tôi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/191.restaurant.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/191.restaurant.png"
+    },
+    {
+      "word": "bus station",
+      "loaiTu": "n.p",
+      "phatAm": "/ˈbʌs steɪʃn/",
+      "meaning": "bến xe buýt",
+      "viDu": "The bus stops at the bus station.\n(Xe buýt dừng ở bến xe buýt.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/192.bus.station.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/192.bus.station.png"
+    },
+    {
+      "word": "coffee shop",
+      "loaiTu": "n.p",
+      "phatAm": "/ˈkɒfi ʃɒp/",
+      "meaning": "quán cà phê",
+      "viDu": "We paint our coffee shop.\n(Chúng tôi sơn quán cà phê của mình.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/193.coffee.shop.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/193.coffee.shop.png"
+    },
+    {
+      "word": "buy a book",
+      "loaiTu": "v.p",
+      "phatAm": "/baɪ eɪ bʊk/",
+      "meaning": "mua quyển sách",
+      "viDu": "I buy a book in the bookstore.\n(Tôi mua quyển sách ở hiệu sách.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/194.buy.a.book.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/194.buy.a.book.png"
+    },
+    {
+      "word": "buy a drink",
+      "loaiTu": "v.p",
+      "phatAm": "/baɪ eɪ drɪŋk/",
+      "meaning": "mua đồ uống",
+      "viDu": "Can you buy me a drink?\n(Bạn có thể mua đồ uống giúp tôi không?)",
+      "urlSound": "COURSE_VOCABULARY/sounds/195.buy.a.drink.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/195.buy.a.drink.png"
+    },
+    {
+      "word": "eat dinner",
+      "loaiTu": "v.p",
+      "phatAm": "/iːt ˈdɪnər/",
+      "meaning": "ăn tối",
+      "viDu": "They eat dinner at home.\n(Họ ăn tối ở nhà.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/196.eat.dinner.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/196.eat.dinner.png"
+    },
+    {
+      "word": "get a bus",
+      "loaiTu": "v.p",
+      "phatAm": "/ɡet eɪ bʌs/",
+      "meaning": "đi xe buýt",
+      "viDu": "Do you want to get a bus?\n(Bạn có muốn đi xe buýt không?)",
+      "urlSound": "COURSE_VOCABULARY/sounds/197.get.a.bus.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/197.get.a.bus.png"
+    },
+    {
+      "word": "get a degree",
+      "loaiTu": "v.p",
+      "phatAm": "/ɡet eɪ dɪˈɡriː/",
+      "meaning": "nhận bằng/chứng chỉ",
+      "viDu": "I get a degree from Hanoi university.\n(Tôi nhận bằng từ trường đại học Hà Nội.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/198.get.a.degree.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/198.get.a.degree.png"
+    },
+    {
+      "word": "get help",
+      "loaiTu": "v.p",
+      "phatAm": "/ɡet help/",
+      "meaning": "nhận giúp đỡ",
+      "viDu": "I get help from John.\n(Tôi nhận được sự giúp đỡ từ John.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/199.get.help.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/199.get.help.png"
+    },
+    {
+      "word": "get money",
+      "loaiTu": "v.p",
+      "phatAm": "/ɡet ˈmʌni/",
+      "meaning": "nhận tiền",
+      "viDu": "I go to the bank to get money.\n(Tôi đi đến ngân hàng để nhận tiền.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/200.get.money.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/200.get.money.png"
+    },
+    {
+      "word": "go for a walk",
+      "loaiTu": "v.p",
+      "phatAm": "/ɡəʊ fər eɪ wɔːk/",
+      "meaning": "đi bộ",
+      "viDu": "I like going for a walk in the park.\n(Tôi thích đi bộ trong công viên.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/201.go.for.a.walk.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/201.go.for.a.walk.png"
+    },
+    {
+      "word": "learn about the past",
+      "loaiTu": "v.p",
+      "phatAm": "/lɜːn əˈbaʊt ðə pɑːst/",
+      "meaning": "tìm hiểu về quá khứ",
+      "viDu": "I like to learn about the past.\n(Tôi thích tìm hiểu về quá khứ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/202.learn.about.the.past.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/202.learn.about.the.past.png"
+    },
+    {
+      "word": "stay on vacation",
+      "loaiTu": "v.p",
+      "phatAm": "/steɪ ɒn veɪˈkeɪʃn/",
+      "meaning": "ở trong kì nghỉ",
+      "viDu": "I love to stay on vacation and relax.\n(Tôi thích ở trong kì nghỉ và thư giãn.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/203.stay.on.vacation.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/203.stay.on.vacation.png"
+    }
+  ],
+  "scriptVideo": [
+    {
+      "start": "0:00:16",
+      "end": "0:00:22",
+      "english": "Places and What to do there",
+      "subScriptEnglish": "Places and What to do there",
+      "matchedNewWords": [],
+      "vietnamese": "địa điểm và những hoạt động khi bạn đến địa điểm đó"
+    },
+    {
+      "start": "0:00:31",
+      "end": "0:00:45",
+      "english": "bus station",
+      "subScriptEnglish": " _bus_station_ ",
+      "matchedNewWords": [
+        "bus station"
+      ],
+      "vietnamese": "bến xe buýt"
+    },
+    {
+      "start": "0:00:57",
+      "end": "0:01:07",
+      "english": "get a bus",
+      "subScriptEnglish": " _get_a_bus_ ",
+      "matchedNewWords": [
+        "get a bus"
+      ],
+      "vietnamese": "đi xe buýt"
+    },
+    {
+      "start": "0:01:15",
+      "end": "0:01:28",
+      "english": "park",
+      "subScriptEnglish": " _park_ ",
+      "matchedNewWords": [
+        "park"
+      ],
+      "vietnamese": "công viên"
+    },
+    {
+      "start": "0:01:35",
+      "end": "0:01:52",
+      "english": "go for a walk",
+      "subScriptEnglish": " _go_for_a_walk_ ",
+      "matchedNewWords": [
+        "go for a walk"
+      ],
+      "vietnamese": "đi bộ"
+    },
+    {
+      "start": "0:02:03",
+      "end": "0:02:15",
+      "english": "bookstore",
+      "subScriptEnglish": " _bookstore_ ",
+      "matchedNewWords": [
+        "bookstore"
+      ],
+      "vietnamese": "hiệu sách"
+    },
+    {
+      "start": "0:02:19",
+      "end": "0:02:34",
+      "english": "buy a book",
+      "subScriptEnglish": " _buy_a_book_ ",
+      "matchedNewWords": [
+        "buy a book"
+      ],
+      "vietnamese": "mua sách"
+    },
+    {
+      "start": "0:02:47",
+      "end": "0:03:01",
+      "english": "ATM",
+      "subScriptEnglish": " _ATM_ ",
+      "matchedNewWords": [
+        "ATM"
+      ],
+      "vietnamese": "Máy ATM"
+    },
+    {
+      "start": "0:03:11",
+      "end": "0:03:30",
+      "english": "get money",
+      "subScriptEnglish": " _get_money_ ",
+      "matchedNewWords": [
+        "get money"
+      ],
+      "vietnamese": "nhận tiền"
+    },
+    {
+      "start": "0:03:42",
+      "end": "0:03:58",
+      "english": "hotel",
+      "subScriptEnglish": " _hotel_ ",
+      "matchedNewWords": [
+        "hotel"
+      ],
+      "vietnamese": "khách sạn"
+    },
+    {
+      "start": "0:04:07",
+      "end": "0:04:29",
+      "english": "stay on vacation",
+      "subScriptEnglish": " _stay_on_vacation_ ",
+      "matchedNewWords": [
+        "stay on vacation"
+      ],
+      "vietnamese": "ở trong kì nghỉ"
+    },
+    {
+      "start": "0:04:40",
+      "end": "0:04:56",
+      "english": "museum",
+      "subScriptEnglish": " _museum_ ",
+      "matchedNewWords": [
+        "museum"
+      ],
+      "vietnamese": "viện bảo tàng"
+    },
+    {
+      "start": "0:05:03",
+      "end": "0:05:21",
+      "english": "learn about the past",
+      "subScriptEnglish": " _learn_about_the_past_ ",
+      "matchedNewWords": [
+        "learn about the past"
+      ],
+      "vietnamese": "tìm hiểu về lịch sử"
+    },
+    {
+      "start": "0:05:28",
+      "end": "0:05:31",
+      "english": "restaurant",
+      "subScriptEnglish": " _restaurant_ ",
+      "matchedNewWords": [
+        "restaurant"
+      ],
+      "vietnamese": "nhà hàng"
+    },
+    {
+      "start": "0:05:31",
+      "end": "0:05:33",
+      "english": "eat dinner",
+      "subScriptEnglish": " _eat_dinner_ ",
+      "matchedNewWords": [
+        "eat dinner"
+      ],
+      "vietnamese": "ăn tối"
+    },
+    {
+      "start": "0:05:37",
+      "end": "0:05:45",
+      "english": "restaurant",
+      "subScriptEnglish": " _restaurant_ ",
+      "matchedNewWords": [
+        "restaurant"
+      ],
+      "vietnamese": "nhà hàng"
+    },
+    {
+      "start": "0:05:46",
+      "end": "0:05:55",
+      "english": "eat dinner",
+      "subScriptEnglish": " _eat_dinner_ ",
+      "matchedNewWords": [
+        "eat dinner"
+      ],
+      "vietnamese": "ăn tối"
+    },
+    {
+      "start": "0:06:04",
+      "end": "0:06:21",
+      "english": "university",
+      "subScriptEnglish": " _university_ ",
+      "matchedNewWords": [
+        "university"
+      ],
+      "vietnamese": "trường đại học"
+    },
+    {
+      "start": "0:06:34",
+      "end": "0:06:47",
+      "english": "get a degree",
+      "subScriptEnglish": " _get_a_degree_ ",
+      "matchedNewWords": [
+        "get a degree"
+      ],
+      "vietnamese": "nhận bằng hoặc chứng chỉ"
+    },
+    {
+      "start": "0:06:56",
+      "end": "0:06:58",
+      "english": "coffee shop",
+      "subScriptEnglish": " _coffee_shop_ ",
+      "matchedNewWords": [
+        "coffee shop"
+      ],
+      "vietnamese": "quán cà phê"
+    },
+    {
+      "start": "0:07:01",
+      "end": "0:07:03",
+      "english": "buy a drink",
+      "subScriptEnglish": " _buy_a_drink_ ",
+      "matchedNewWords": [
+        "buy a drink"
+      ],
+      "vietnamese": "mua đồ uống"
+    },
+    {
+      "start": "0:07:05",
+      "end": "0:07:13",
+      "english": "coffee shop",
+      "subScriptEnglish": " _coffee_shop_ ",
+      "matchedNewWords": [
+        "coffee shop"
+      ],
+      "vietnamese": "quán cà phê"
+    },
+    {
+      "start": "0:07:14",
+      "end": "0:07:22",
+      "english": "buy a drink",
+      "subScriptEnglish": " _buy_a_drink_ ",
+      "matchedNewWords": [
+        "buy a drink"
+      ],
+      "vietnamese": "mua đồ uống"
+    },
+    {
+      "start": "0:07:39",
+      "end": "0:07:49",
+      "english": "get help",
+      "subScriptEnglish": " _get_help_ ",
+      "matchedNewWords": [
+        "get help"
+      ],
+      "vietnamese": "nhận sự giúp đỡ"
+    },
+    {
+      "start": "0:07:54",
+      "end": "0:08:05",
+      "english": "hospital",
+      "subScriptEnglish": " _hospital_ ",
+      "matchedNewWords": [
+        "hospital"
+      ],
+      "vietnamese": "bệnh viện"
+    }
+  ],
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:08:22.480",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "3dfe74ff-5829-4df9-b63f-e965ff2253d8",
+                "dapAn": "h"
+              },
+              {
+                "_id": "6bef8a99-6f1b-479c-8f2b-21f29558dc2b",
+                "dapAn": "o"
+              },
+              {
+                "_id": "d9e477b3-ddea-4f06-9ea6-c74bd064ef09",
+                "dapAn": "s"
+              },
+              {
+                "_id": "a2087298-9b75-4688-a951-b58f08edcd63",
+                "dapAn": "p"
+              },
+              {
+                "_id": "0b13de7a-69bf-4bd7-bcdf-c4ad8682225a",
+                "dapAn": "i"
+              },
+              {
+                "_id": "b89630f8-3cab-4333-8680-624bf1439aef",
+                "dapAn": "t"
+              },
+              {
+                "_id": "231350b9-6e5d-4149-b2b9-7cf46ecbcd35",
+                "dapAn": "a"
+              },
+              {
+                "_id": "7e5a7827-ae70-4977-96fd-25e613e99709",
+                "dapAn": "l"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "e360d2a6-8f2f-46dd-86c1-0f3091b24070",
+                "dapAn": "h"
+              },
+              {
+                "_id": "639cd999-df9d-4bfb-bc62-3db13d0ea235",
+                "dapAn": "o"
+              },
+              {
+                "_id": "defd703d-4264-405b-9eba-869e80803cb9",
+                "dapAn": "t"
+              },
+              {
+                "_id": "830e22d9-4923-408c-96ea-c564a5e19e66",
+                "dapAn": "e"
+              },
+              {
+                "_id": "f7e4ab4f-2710-4eaf-9886-91cc16f48e81",
+                "dapAn": "l"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "dc98cd3b-f0ca-403e-83ce-f34c2b076260",
+                "dapAn": "b"
+              },
+              {
+                "_id": "016be9f1-d8bf-48e7-9bcd-74d8b7ec098d",
+                "dapAn": "o"
+              },
+              {
+                "_id": "684874d2-3416-42ff-8a3c-ecacf96901bf",
+                "dapAn": "o"
+              },
+              {
+                "_id": "ac596ba9-65e6-442b-8ee7-9c275bf413b7",
+                "dapAn": "k"
+              },
+              {
+                "_id": "a9c17aff-946b-4f9e-83bf-8df2a6894596",
+                "dapAn": "s"
+              },
+              {
+                "_id": "fb58059f-8319-46fe-844f-e28f45756272",
+                "dapAn": "t"
+              },
+              {
+                "_id": "fded0230-7ce6-4db4-99be-6988122c3c92",
+                "dapAn": "o"
+              },
+              {
+                "_id": "b68e680b-fd63-4cb5-8e11-dc1bbe392c6b",
+                "dapAn": "r"
+              },
+              {
+                "_id": "8afe60a6-ba0d-45f3-9b24-8d2610855d8b",
+                "dapAn": "e"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "f7c4596b-867f-4890-abb3-74eef5c937a5",
+                "dapAn": "p"
+              },
+              {
+                "_id": "516d8f6f-c652-468d-ac36-eda32caca113",
+                "dapAn": "a"
+              },
+              {
+                "_id": "7964d57e-1480-4253-85c1-eb0ce33fb025",
+                "dapAn": "r"
+              },
+              {
+                "_id": "1914c1ae-7275-4c33-b0ea-4714590bebfe",
+                "dapAn": "k"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "17dd728c-c065-464c-9836-a1ad00bec2a0",
+                "dapAn": "m"
+              },
+              {
+                "_id": "3879051a-8afa-4d37-b59d-96f17d8790ea",
+                "dapAn": "u"
+              },
+              {
+                "_id": "2bf1d85f-4257-4dd1-a113-6a4ad69bc360",
+                "dapAn": "s"
+              },
+              {
+                "_id": "d9564dce-f496-4f2f-8763-2a081233f80a",
+                "dapAn": "e"
+              },
+              {
+                "_id": "677b17d1-6cb1-46ba-8455-65f8e118d2e0",
+                "dapAn": "u"
+              },
+              {
+                "_id": "d81d77d2-73cf-4065-918d-392f2d38707d",
+                "dapAn": "m"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:08:22.480",
+      "timeEnd": "0:08:31.514",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Buy a book",
+            "_id": {
+              "$oid": "58c7f592-24e9-49fd-9aa4-44aa01d316d5"
+            },
+            "yNghia": "Mua quyển sách"
+          },
+          {
+            "cauHoi": "Buy a drink",
+            "_id": {
+              "$oid": "090ff23b-b95c-4fbb-a739-1decb30599e7"
+            },
+            "yNghia": "Mua đồ uống"
+          },
+          {
+            "cauHoi": "Eat dinner",
+            "_id": {
+              "$oid": "198e705c-5df9-4c46-965e-acf3a2909682"
+            },
+            "yNghia": "Ăn tối"
+          },
+          {
+            "cauHoi": "Get help",
+            "_id": {
+              "$oid": "93d397ef-d3d1-4aba-9c00-8b22629454fc"
+            },
+            "yNghia": "Nhận giúp đỡ"
+          },
+          {
+            "cauHoi": "Get money",
+            "_id": {
+              "$oid": "83697d4c-9401-4014-a008-e2bfce29733f"
+            },
+            "yNghia": "Nhận tiền"
+          },
+          {
+            "cauHoi": "Go for a walk",
+            "_id": {
+              "$oid": "41bbf155-5bec-48d8-96a1-a269de2fd83e"
+            },
+            "yNghia": "Đi bộ"
+          },
+          {
+            "cauHoi": "Learn about the past",
+            "_id": {
+              "$oid": "66d11ca2-6aa1-4700-bc97-6e6c64a240eb"
+            },
+            "yNghia": "Tìm hiểu về quá khứ"
+          },
+          {
+            "cauHoi": "Stay on vacation",
+            "_id": {
+              "$oid": "e6988434-7d01-436c-b9ff-17ff0ab38a65"
+            },
+            "yNghia": "Ở trong kì nghỉ"
+          }
+        ]
+      }
+    }
+  ]
+}

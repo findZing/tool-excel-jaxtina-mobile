@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "77151b37-898b-4ba7-ba92-3643b28ec654"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td> \n                        <td>Look, here's <b>(1)</b> ______ new poster for <b>(2)</b> ______ at the community centre.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \n                        <td><b>(3)</b> ______ that for this month?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td> \n                        <td>Yes, it is. That's on <b>(4)</b> ______.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td>\r\n                        <td>Look, here's <b>(1)</b> <span style=\"color:red\"><b>a</b></span>  new poster for <b>(2)</b> <span style=\"color:red\"><b>activities</b></span>  at the community centre.<br />\r\n                        <i>Nhìn này, đây là <span style=\"color:red\">một</span>  áp phích cho <span style=\"color:red\">các hoạt động</span>  ở trung tâm cộng đồng.</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td>\r\n                        <td><b>(3)</b> <span style=\"color:red\"><b>Is</b></span>  that for this month?<br />\r\n                        <i>Nó <span style=\"color:red\">là</span>  cho tháng này phải không?</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td>\r\n                        <br />\r\n                         </td>\r\n                        <td>Yes, it is. That's on <b>(4)</b><span style=\"color:red\"><b>Thursdays</b></span> .<br />\r\n                        <i>Đúng vậy.</i> <i>Nó là vào <span style=\"color:red\">các ngày thứ Năm</span> .</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "a",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a348067b-8cc3-4963-8c89-2a0cfc36ef3b"
+          }
+        },
+        {
+          "dapAn": "activities",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "839b5eb4-90db-4045-804c-344be7b4aa9d"
+          }
+        },
+        {
+          "dapAn": "Is",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0a79249f-757f-4b33-aa13-daf6e90c0bc0"
+          }
+        },
+        {
+          "dapAn": "Thursday",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0e44180f-b332-4daa-9c9e-4ddf6a482d43"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "bd5257a0-6496-4b9a-a905-234250a7f4e6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ricardo:</b></td> \n                        <td>Can you <b>(1)</b> ______?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Francesca:</b></td> \n                        <td>Yes, I can.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ricardo:</b></td> \n                        <td><b>(2)</b> ______ can you draw? <b>(3)</b> ______ you draw animals?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Francesca:</b></td> \n                        <td>Yes, I <b>(4)</b> ______ drawing animals.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Ricardo:</b></td>\r\n                        <td>Can you <b>(1)</b> <span style=\"color:red\"><b>draw</b></span> ?<br />\r\n                        <i>Bạn có thể <span style=\"color:red\">vẽ</span>  không?</i></td>\r\n                </tr>\r\n                <tr>\r\n                                <td style=\"vertical-align: top;\"><b>Francesca:</b></td>\r\n                        <td>Yes, I can.<br />\r\n                        <i>Có, tôi có thể.</i></td>\r\n                </tr>\r\n                <tr>\r\n                                <td style=\"vertical-align: top;\"><b>Ricardo:</b></td>\r\n                        <td><b>(2)</b> <span style=\"color:red\"><b>What</b></span>  can you draw?<br />\r\n                        <i>Bạn có thể vẽ <span style=\"color:red\">gì</span>  vậy?</i><br />\r\n                        <b> (3)</b> <span style=\"color:red\"><b>Can</b></span>  you draw animals?<br />\r\n                        <i>Bạn <span style=\"color:red\">có thể</span>  vẽ động vật được không?</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Francesca:</b></td>\r\n                        <td>Yes, I <b>(4)</b> <span style=\"color:red\"><b>love</b></span>  drawing animals.<br />\r\n                        <i>Có, mình <span style=\"color:red\">thích</span>  vẽ động vật.</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "draw",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d8892fca-8d78-4e24-a1cd-b1386fb981b9"
+          }
+        },
+        {
+          "dapAn": "What",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f41edf5b-9dfa-4184-bcf8-849e1f061e92"
+          }
+        },
+        {
+          "dapAn": "Can",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "560b45af-dfb7-4ee3-a7d8-0a13e5cbc810"
+          }
+        },
+        {
+          "dapAn": "love",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "920dbd28-6e53-4d6b-9fdb-c12726f2b493"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9518045d-58e1-458f-8899-f4644f618cf2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \n                        <td>I <b>(1)</b> ______ sing. How <b>(2)</b> ______ art? That's on Mondays.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td> \n                        <td>No, I can't. I <b>(3)</b> ______ judo on Mondays.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \n                        <td>Oh, <b>(4)</b> ______.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td>\n                        <td>I <b>(1)</b> <span style=\"color:red\"><b>can't</b></span>  sing. How <b>(2)</b> <b><span style=\"color:red\">about</span>  </b>art? That's on Mondays.<br />\n                        <i>Tớ <span style=\"color:red\">không thể </span> hát. Vậy còn mỹ thuật thì sao? Nó vào các ngày thứ Hai.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td>\n                        <td>No, I can't. I <b>(3)</b> <span style=\"color:red\"><b>do</b></span>  judo on Mondays.<br />\n                        <i>Không, tớ không thể. Tớ <span style=\"color:red\">tập</span>  judo vào các ngày thứ Hai.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td>\n                        <td>Oh, <b>(4)</b> <span style=\"color:red\"><b>okay</b></span> .<br />\n                        <i>Ồ, <span style=\"color:red\">được thôi.</span> </i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "can't",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "593d7b4f-714a-4569-9bdd-9315f2b45af1"
+          }
+        },
+        {
+          "dapAn": "about",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0d191fbe-94b3-4449-8368-e4854a991d9b"
+          }
+        },
+        {
+          "dapAn": "do ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "dcbaeb3e-1212-4905-bfbe-a6fd7f4486db"
+          }
+        },
+        {
+          "dapAn": "okay",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2f46d5d5-e269-4dfe-bbaa-331e667f7769"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "55711da6-df89-4d36-b4a4-9ddb764e5e0b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td><b>(1) </b>_____ you in any sports clubs?</td>\n                </tr>\n                <tr>\n                        <td><b>Ben:</b></td>\n                        <td>Yes, I <b>(2) </b>_____. I joined the Football Club.</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>That's great. Do you think I can <b>(3)</b> _____ the Karate Club?</td>\n                </tr>\n                <tr>\n                        <td><b>Ben:</b></td>\n                        <td>Of course you <b>(4)</b> _____. There's a club for every sport!</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td>\n                        <td><b>(1) <span style=\"color:red\">Are</span> </b> you in any sports clubs?<br />\n<i>Bạn có tham gia câu lạc bộ thể thao nào không?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td>\n                        <td>Yes, I <b>(2) <span style=\"color:red\">am</span> </b>. I joined the Football Club.<br />\n<i>Có. Mình đã tham gia Câu lạc bộ Bóng đá.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td>\n                        <td>That's great. Do you think I can <b>(3)</b> <b><span style=\"color:red\">join</span> </b> the Karate Club?<br />\n<i>Tuyệt đó. Bạn nghĩ mình có thể <span style=\"color:red\">tham gia</span>  Câu lạc bộ Karate được không?</i></td>\n                </tr>\n<tr>\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td>\n                        <td>Of course you <b>(4)</b> <b><span style=\"color:red\">can</span> </b>. There's a club for every sport!<br />\n\n<i>Đương nhiên bạn <span style=\"color:red\">có thể</span>  rồi. Có một câu lạc bộ cho mỗi môn thể thao mà!</i></td>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "Are",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "dc48aa2e-853f-4d34-863c-7751d48e9a01"
+          }
+        },
+        {
+          "dapAn": "am",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "b531e398-1750-410d-ae89-bc5e0f9f36af"
+          }
+        },
+        {
+          "dapAn": "join",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "1e3b6137-e983-4ee2-8d65-bffcf7ef3018"
+          }
+        },
+        {
+          "dapAn": "can",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "23bf8fda-6f78-4743-9f8f-e3e4d21ba5eb"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "689cdc56-d57d-42fc-9230-268b122290bf"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ricardo:</b></td> \n                        <td><b>(1)</b> ______ you like sports? Can you swim?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Francesca:</b></td> \n                        <td>No, I <b>(2)</b> ______. I can't swim, but I <b>(3)</b> ______ do karate. How about you?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ricardo:</b></td> \n                        <td>I can't do karate, but I can play <b>(4)</b> ______.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Ricardo:</b></td>\r\n                        <td><b>(1)</b> <span style=\"color:red\"><b>Do</b></span>  you like sports? Can you swim?<br />\r\n                        <i>Bạn có thích thể thao không? Bạn có thể bơi chứ?</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Francesca:</b></td>\r\n                        <td>No, I <b>(2)</b> <span style=\"color:red\"><b>can't</b></span> . I can't swim, but I <b>(3)</b> <span style=\"color:red\"><b>can</b></span>  do karate. How about you?<br />\r\n                        <i>Không, mình <span style=\"color:red\">không thể</span> . Mình không thể bơi, nhưng mình <span style=\"color:red\">có thể</span>  đánh võ karate. Còn bạn thì sao?</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Ricardo:</b></td>\r\n                        <td>I can't do karate, but I can play <b>(4)</b> <span style=\"color:red\"><b>soccer</b></span> .<br />\r\n                        <i>Mình không biết đánh võ karate, nhưng có thể chơi <span style=\"color:red\">bóng đá</span> .</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "Do ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "b8363666-acf0-464e-b921-a7ea1f376998"
+          }
+        },
+        {
+          "dapAn": "can't ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "04b652ac-c1c7-4011-bb2c-5bcc506c0434"
+          }
+        },
+        {
+          "dapAn": "can",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "41634c05-11b9-46a2-849f-fc37aa8497fd"
+          }
+        },
+        {
+          "dapAn": "soccer",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d71612b6-fdf8-47a6-bb9a-39790c47f464"
+          }
+        }
+      ]
+    }
+  ]
+}

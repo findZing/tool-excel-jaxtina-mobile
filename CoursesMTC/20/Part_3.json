@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "2ad96b13-9754-459e-9951-a04cf3408cb7"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Journalism",
+      "yNghia": "Nghề báo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8b273942-a172-432b-9a20-b885d6d8dd4d"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Breaking news",
+      "yNghia": "Tin tức nóng hổi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2929b6c0-19c0-4214-92de-2dc306de92a1"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Reporter",
+      "yNghia": "Phóng viên",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "987b135d-0d51-49e1-bad6-ea4deb122474"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Media",
+      "yNghia": "Truyền thông",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4c10df83-0c1c-43d0-9f39-f302cc414f86"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Sports journalist",
+      "yNghia": "Phóng viên thể thao",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8fe61b9f-cc48-440f-a4fe-1022c5e81bf7"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Newspaper editor",
+      "yNghia": "Biên tập viên báo chí",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4269b30d-bc09-40a2-933f-77e243c4059f"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Gather information",
+      "yNghia": "Thu thập thông tin",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e0a070d9-9fde-4760-a769-1aa6c95704e7"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Contest",
+      "yNghia": "Cuộc thi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d3275621-2c57-46e9-a1db-d451a6fa0cd2"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Contestant",
+      "yNghia": "Người dự thi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "031184b5-ba99-4780-9d12-2ecc7b88fde2"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Entertainer",
+      "yNghia": "Nghệ sĩ biểu diễn (để giải trí)",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7d6e45ed-a667-4677-a044-b928dd70a430"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Judge",
+      "yNghia": "Giám khảo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ab98fcf3-cd13-4976-aafc-83df29845851"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Music producer",
+      "yNghia": "Nhà sản xuất âm nhạc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e078a831-6d95-4e66-add3-db8924e15ebb"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Dream big",
+      "yNghia": "Có mục tiêu, hy vọng và hoài bão lớn lao",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "de6210eb-5800-4c5d-87e5-91370ad7e15c"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Be hungry for success",
+      "yNghia": "Khao khát thành công",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8f90edb5-4f5b-4e3d-9122-e2c3490c83f6"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Talent show",
+      "yNghia": "Chương trình tìm kiếm tài năng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2fe9e899-f26b-4a9c-b9ae-002049a5fc71"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Record store",
+      "yNghia": "Cửa hàng băng đĩa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "46a34b65-fbea-485d-9d22-9cbbcb741921"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Music industry",
+      "yNghia": "Ngành công nghiệp âm nhạc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "871615d9-e41b-46be-9998-4f35dfd1fac8"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Doctorate degree",
+      "yNghia": "Bằng tiến sĩ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "84c0e04c-3321-42f5-aad7-a19267c1890e"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Publish literary work",
+      "yNghia": "Xuất bản tác phẩm văn học",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "12166570-f141-4a60-966c-5491d913a077"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Secure a patent",
+      "yNghia": "Được cấp bằng sáng chế",
+      "danhSachDapAn": []
+    }
+  ]
+}

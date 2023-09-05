@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "9923ac8a-ffd6-49db-ad67-38e0f44382c4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How about other ___________ shows, such as The Voice or The X Factor?",
+      "yNghia": "How about other <span style=\"color:red\">audition-based </span>shows, such as The Voice or The X Factor? <br />\n<i>Còn các chương trình <span style=\"color:red\">dựa trên buổi thử giọng </span>khác, chẳng hạn như The Voice hoặc The X Factor thì sao?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a68f9465-bf24-4fe6-82b3-8a0331997dfa"
+          },
+          "dapAn": "reality",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3ef5d00c-2141-4bd1-92f7-918c372ac77c"
+          },
+          "dapAn": "audition-based",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "84ec40f3-b8a5-4248-8176-af920fefdc7c"
+          },
+          "dapAn": "fashion",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_1. How ... Factor.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_1. How ... Factor.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "640e4160-9f7f-4a85-91e6-e5d32d4097f1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They are also popular with ___________ across the planet.",
+      "yNghia": "They are also popular with <span style=\"color:red\">audiences </span>across the planet.<i> </i><br />\n<i>Chúng cũng được <span style=\"color:red\">khán giả </span>trên khắp thế giới yêu thích.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "88f4ab45-5bec-4515-85b9-dd517d25cf73"
+          },
+          "dapAn": "readers",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "23eb2a7e-91c0-4ec0-b0f6-c2d0aec837be"
+          },
+          "dapAn": "actors",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f340b362-6ce3-4d4e-b673-1bc0cb4035cb"
+          },
+          "dapAn": "audiences",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_2. They ... planet.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_2. They ... planet.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b3bb42fd-a355-496b-9f4a-bbdcdef9c372"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I wonder why so many people ________ those shows.",
+      "yNghia": "I wonder why so many people <span style=\"color:red\">love </span>those shows. <br />\n<i>Tôi tự hỏi tại sao rất nhiều người <span style=\"color:red\">yêu thích </span>những chương trình đó.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4edf4184-2b0e-4bc9-b8f7-153b2ffe8a9a"
+          },
+          "dapAn": "love",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ca4f210e-2080-463f-9bf6-f881cd937963"
+          },
+          "dapAn": "hate",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5ca6f39e-b609-492f-b61d-d3d636c876a4"
+          },
+          "dapAn": "watch",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_3. I ... shows.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_3. I ... shows.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "451b8be2-dc97-4b59-a2a0-c4fdb178a219"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "People love watching the contestants go from nothing to ____________ in a short time.",
+      "yNghia": "People love watching the contestants go from nothing to <span style=\"color:red\">huge success </span>in a short time.<i> </i><br />\n<i>Mọi người thích xem các thí sinh đi từ con số không đến <span style=\"color:red\">thành công vang dội </span>trong một thời gian ngắn.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e376ce7f-e1f6-4242-ad3b-d75fa81d4e38"
+          },
+          "dapAn": "huge success",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "10065b73-a16a-4e0c-8f97-3cc69af67aba"
+          },
+          "dapAn": "the rich",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "73514113-a361-440e-97a4-56a733949a1f"
+          },
+          "dapAn": "famous people",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_4. People ... time.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_4. People ... time.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9cfa7b86-4e12-4c38-aace-99a7c82b60fd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "In 1934, Original Amateur Hour, a radio show, began in the US and moved to TV in ________.",
+      "yNghia": "In 1934, Original Amateur Hour, a radio show, began in the US and moved to TV in <span style=\"color:red\">1948</span>.<i> </i><br />\n<i>Năm 1934, một chương trình phát thanh tên là Original Amateur Hour, bắt đầu ở Mỹ và chuyển sang ti vi vào năm <span style=\"color:red\">1948</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a07a9a12-179d-41f3-af92-8e106f683b87"
+          },
+          "dapAn": 1958,
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3fe29661-eb7a-4aea-8f1b-5ca3d258b002"
+          },
+          "dapAn": 1999,
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "40293854-e734-4b24-9f68-17f987d123c4"
+          },
+          "dapAn": 1948,
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_5. In ... 1948.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_5. In ... 1948.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "8ae0d888-2038-47fb-b3e6-e5c91be77231"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That show was ________________ talent shows today, wasn’t it?",
+      "yNghia": "That show was <span style=\"color:red\">similar to </span>talent shows today, wasn't it?<i> </i><br />\n<i>Chương trình đó </i><i><span style=\"color:red\">tương tự như </span></i><i>các chương trình tìm kiếm tài năng ngày nay, phải không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6707cd42-a7c1-4b65-9e22-a2a49fddf74f"
+          },
+          "dapAn": "the same as",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "dd8712ab-d8d1-43f0-9433-eb01a8e414dc"
+          },
+          "dapAn": "different to",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2f5253c1-e65a-4115-a0cb-6f470d573385"
+          },
+          "dapAn": "similar to",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_6. That ... it.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_6. That ... it.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "497e829d-1d2d-40a5-b810-5b3b73aa05dc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Right. TV professionals traveled the country looking for ___________ for the auditions.",
+      "yNghia": "Right. TV professionals traveled the country looking for <span style=\"color:red\">entertainers </span>for the auditions. <br />\n<i> Đúng vậy. Các chuyên gia truyền hình đã đi khắp đất nước để tìm kiếm những <span style=\"color:red\">nghệ sĩ giải trí </span>cho buổi thử giọng.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "af96e0e6-7b6c-421d-bdb4-d42905fba2a0"
+          },
+          "dapAn": "directors",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fa5de119-f745-46e0-968f-0df373b63d25"
+          },
+          "dapAn": "judges",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8c3086ab-f07d-4d7c-82e3-00154496e584"
+          },
+          "dapAn": "entertainers",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_7. Right ... auditions.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_7. Right ... auditions.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1bf7d6a5-60ea-4a79-be75-b386d1403ce1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They would audition for the __________ on TV, and if chosen, they would audition again.",
+      "yNghia": "They would audition for the <span style=\"color:red\">judges </span>on TV, and if chosen, they would audition again. <br />\n<i> Họ sẽ thử giọng cho <span style=\"color:red\">các giám khảo </span>trên ti vi, và nếu được chọn, họ sẽ thử giọng lại.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b028c3a3-e193-4984-b51f-24286b307efa"
+          },
+          "dapAn": "entertainers",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "dd05c42d-4c4e-4bc5-a3d4-9581deb8f156"
+          },
+          "dapAn": "judges",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9bd47864-0134-490c-b9a9-01ab3e73410f"
+          },
+          "dapAn": "audiences",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_8. They ... again.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_8. They ... again.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a5dd164c-7357-47df-bf64-7f6608060dfc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Correct. Then the audience would vote for their favourite act by ________ or by mail.",
+      "yNghia": "Correct. Then the audience would vote for their favourite act by <span style=\"color:red\">phone </span>or by mail. <br />\n<i> Chính xác. Sau đó, khán giả sẽ bình chọn cho tiết mục yêu thích của họ qua <span style=\"color:red\">điện thoại </span>hoặc qua thư.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2ee99248-e88c-47bc-b27e-778dae33dae0"
+          },
+          "dapAn": "laptop",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8903def2-01f6-4da9-9213-fade5b2f78d7"
+          },
+          "dapAn": "letter",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7075044e-0295-4a99-adc8-2d900228cee4"
+          },
+          "dapAn": "phone",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_9. Correct ... mail.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_9. Correct ... mail.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "990cef1c-4fc3-4b97-8958-80cf4fab3507"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you remember any _________ in that show?",
+      "yNghia": "Do you remember any <span style=\"color:red\">stars </span>in that show? <br />\n<i> Bạn có nhớ <span style=\"color:red\">ngôi sao </span>nào trong chương trình đó không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b5815586-b733-4e0e-94b7-5111c50a8c35"
+          },
+          "dapAn": "stars",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d2dab35a-1fe2-446a-bf87-b5cdf28384ea"
+          },
+          "dapAn": "actors",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f8c729ce-ce09-4eff-aa08-ea486d321e64"
+          },
+          "dapAn": "hosts",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_10. Do ... show.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_10. Do ... show.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "cbc44dc6-d74a-4725-9093-be1c91c40d37"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That’s why many well-known stars went for _____________.",
+      "yNghia": "That's why many well-known stars went for <span style=\"color:red\">an audition</span>.<br />\n<i> Đó là lý do tại sao nhiều ngôi sao nổi tiếng đã đến buổi <span style=\"color:red\">thử giọng</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "16761ef0-bd02-4b40-bd95-55a7439ad620"
+          },
+          "dapAn": "a rehearsal",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "104b3777-3b84-463d-904d-fb8cbc97f292"
+          },
+          "dapAn": "a training",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1feecd8d-72ca-4398-99e6-ff4e6c858fda"
+          },
+          "dapAn": "an audition",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_11. That_s ... audition.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_11. That_s ... audition.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f2c03b4c-c52c-428c-b271-ee2b2c98280e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Of course. It was started by Simon Cowell in ________ and has become a global success show.",
+      "yNghia": "Of course. It was started by Simon Cowell in <span style=\"color:red\">2004 </span>and has become a global success show.<br />\n<i>Tất nhiên rồi. Nó được tổ chức bởi Simon Cowell vào năm <span style=\"color:red\">2004 </span>và đã trở thành một chương trình thành công trên khắp thế giới.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f9349052-5b0b-4273-924f-4369cdcc667a"
+          },
+          "dapAn": 2004,
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e11f6525-fbdc-4bbc-935c-dbfb70a9a11e"
+          },
+          "dapAn": 2005,
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "98eb8f53-fd3d-4020-9992-bdba3c9e00f9"
+          },
+          "dapAn": 2006,
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_12. Of ... show.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_12. Of ... show.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "0c075324-4242-446e-b99c-dabc16ee463b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My sister said viewers watched the shows in 58 ___________.",
+      "yNghia": "My sister said viewers watched the shows in 58 <span style=\"color:red\">countries</span>. <br />\n<i>Em gái tôi nói rằng người xem ở 58 <span style=\"color:red\">quốc gia </span>đã xem các buổi biểu diễn.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b7f36455-c4ab-4394-8860-15c95f65cce4"
+          },
+          "dapAn": "channels",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "cee38a9e-1cba-48a4-aa5b-fbe3a9caabde"
+          },
+          "dapAn": "countries",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ab818e6a-7492-481a-9e64-37d342d0ed6f"
+          },
+          "dapAn": "languages",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_13. My ... countries.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_13. My ... countries.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ebefb880-4566-41e5-9745-ff0d9d3adb1d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It was a bit strange at the beginning of my performance because I was on __________ with these bright lights in my face, and I couldn't see anyone or anything.",
+      "yNghia": "It was a bit strange at the beginning of my performance because I was on <span style=\"color:red\">stage </span>with these bright lights in my face, and I couldn't see anyone or anything. <br />\n<i>Khi bắt đầu màn trình diễn của tôi, có một chút lạ lùng vì tôi đang ở trên <span style=\"color:red\">sân khấu </span>với những ánh đèn chói lóa chiếu thẳng vào mặt và tôi không thể nhìn thấy bất kỳ ai hay bất cứ thứ gì.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e0c074fc-0277-4932-ace4-fb58820bb72c"
+          },
+          "dapAn": "my chair",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7dabf0dd-3166-47c0-a3c7-13e7d07afe53"
+          },
+          "dapAn": "stage",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "85a386ec-e8f9-4be6-a728-9e16348c16e1"
+          },
+          "dapAn": "the floor",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_14. It ... anything.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_14. It ... anything.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f06ace69-fc66-4546-9654-d657d2d6a2f6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Back in 1934, a radio show called Original Amateur Hour began in the US. After some success, it moved to TV in ________.",
+      "yNghia": "Back in 1934, a radio show called Original Amateur Hour began in the US. After some success, it moved to TV in <span style=\"color:red\">1948</span>.<i><br />\nTrở lại năm 1934, một chương trình phát thanh có tên </i><i>Original Amateur Hour </i><i>bắt đầu ở Mỹ. Sau một số thành công, nó được chuyển sang phát sóng trên ti vi vào năm <span style=\"color:red\">1948</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6f5eab8d-8ea0-474e-b199-106a88ce3fc4"
+          },
+          "dapAn": 1948,
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3249d897-8320-4c88-99e2-028fa71f2581"
+          },
+          "dapAn": 1949,
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "dfbd021a-a8d7-4e8b-8d8a-eae474d256cb"
+          },
+          "dapAn": 1950,
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_15. Back ... 1948.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_15. Back ... 1948.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "718b4b15-df02-44b3-9917-f41472e8ed16"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The final competition was at Madison Square Garden and the winners received a trophy and ________.",
+      "yNghia": "The final competition was at Madison Square Garden and the winners received a trophy and <span style=\"color:red\">$1,500</span>.<i><br />\nTrận chung kết diễn ra tại Madison Square Garden và những người chiến thắng đã nhận được một chiếc cúp và <span style=\"color:red\">1.500 đô la</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "15e01da5-6bee-4aa2-860a-a7fe32177f5a"
+          },
+          "dapAn": 10500,
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "45ea9534-4d2d-4cd1-8b1d-2b294101aa6d"
+          },
+          "dapAn": 15000,
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1eece0e9-b2fe-4a6a-a221-47af0a5108a6"
+          },
+          "dapAn": 1500,
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_16. The ... $1,500.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_16. The ... $1,500.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e93efee9-6be0-4957-b871-fb7b133fae0e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Star Search was different because ________ competed in different categories, such as best male singer and best female singer.",
+      "yNghia": "Star Search was different because <span style=\"color:red\">entertainers </span>competed in different categories, such as best male singer and best female singer.<i> </i><br />\n<i>Star Search thì khác vì các <span style=\"color:red\">nghệ sĩ giải trí </span>thi đấu ở các hạng mục khác nhau, chẳng hạn như nam ca sĩ xuất sắc nhất và nữ ca sĩ xuất sắc nhất.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "65785f92-2ccb-47f5-aa68-a88159ef4ed9"
+          },
+          "dapAn": "competitors",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1fff84f7-57fb-4f8a-b2bc-c3715d4e37e1"
+          },
+          "dapAn": "entertainers",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "70528d2d-8930-40a4-859b-df4a97fea991"
+          },
+          "dapAn": "players",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_17. Star ... singer.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_17. Star ... singer.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "92c2e92c-9d45-46dc-8bb6-1e528be6105f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "American Idol started on TV in ________.",
+      "yNghia": "American Idol started on TV in <span style=\"color:red\">2002</span>. <br />\n<i>American Idol bắt đầu phát sóng trên ti vi vào năm <span style=\"color:red\">2002</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "54f1615f-52bd-409b-8a7d-d885c216caa4"
+          },
+          "dapAn": 2001,
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "06fa75f0-d1c1-4545-83b8-21cd5e9f4aa2"
+          },
+          "dapAn": 2002,
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0ddcd62c-81aa-4aa0-819c-c53a0f49a177"
+          },
+          "dapAn": 2003,
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_18. American ... 2002.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_18. American ... 2002.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "24fda568-cf3f-434b-a688-9683a3d337f7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Past winners of Got Talent include a performing police dog team, ___________, ventriloquists, wheelchair dancers, and even Rubik’s cube puzzle solvers.",
+      "yNghia": "Past winners of Got Talent include a performing police dog team, <span style=\"color:red\">acrobats</span>, ventriloquists, wheelchair dancers, and even Rubik's cube puzzle solvers.<i><br />\nNhững người chiến thắng trước đây của Got Talent bao gồm đội chó cảnh sát biểu diễn, <span style=\"color:red\">diễn viên xiếc</span>, nghệ sĩ nói tiếng bụng, vũ công ngồi trên xe lăn và thậm chí cả những người giải khối Rubik.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2d0978d4-f931-44a6-9b00-e5388af6ff01"
+          },
+          "dapAn": "singers",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2b200c96-73b0-42f0-893f-cc080811243b"
+          },
+          "dapAn": "teachers",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "df0f64da-f72f-45db-a190-dad543f08ec5"
+          },
+          "dapAn": "acrobats",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_19. Past ... solvers.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_19. Past ... solvers.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "7ec21342-4abe-4fb1-99ad-f3ea02f65328"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Frank Sinatra __________ on the radio show.",
+      "yNghia": "Frank Sinatra <span style=\"color:red\">performed </span>on the radio show. <br />\n<i>Frank Sinatra đã <span style=\"color:red\">biểu diễn </span>trên chương trình radio.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "babac754-2917-466b-827d-c186d57339c3"
+          },
+          "dapAn": "told",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "01974a5a-d0ad-4706-86b0-959af54b0c03"
+          },
+          "dapAn": "performed",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "23a9bc5a-2b99-42c1-b6a0-147faeb48d4e"
+          },
+          "dapAn": "sang",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L19/sounds/normal/MTC_19_LISTENING_20. Frank ... show.mp3",
+      "soundSlow": "4SKILLS_MTC_L19/sounds/slow/MTC_19_LISTENING_20. Frank ... show.mp3"
+    }
+  ]
+}

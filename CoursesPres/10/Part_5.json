@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "4d7b9c5b-9a84-41e4-bddb-808bf7c80da1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Oh Mary, you __________ tired.",
+      "yNghia": "Oh Mary, you <span style=\"color:red\">look </span>tired.  <br />\r\n<i>Ôi Mary, <span style=\"color:red\">trông </span>bạn có vẻ mệt mỏi.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a6c0626a-d094-4aa2-9d19-043b9d848a7d"
+          },
+          "dapAn": "look",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6e3fecf6-fdb3-4127-b069-16e6d45a565c"
+          },
+          "dapAn": "lay",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2b7a2107-5706-4716-a459-f54710947529"
+          },
+          "dapAn": "lean",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_1. Oh ... tired.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_1. Oh ... tired.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6223b0c5-cfa2-49f5-96b8-1128c14b08ef"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yeah, sometimes I __________ late at night.",
+      "yNghia": "Yeah, sometimes I <span style=\"color:red\">stay up </span>late at night. <br />\r\n<i>Vâng, thỉnh thoảng tôi <span style=\"color:red\">thức </span>khuya.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "85b25351-2b5b-48eb-ab90-65cfeb306e69"
+          },
+          "dapAn": "stay",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3f4a86f9-b422-4c7c-90d9-6f260b8c795b"
+          },
+          "dapAn": "stay up",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ab6cb379-da0c-4192-9342-2b16a4500903"
+          },
+          "dapAn": "study",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_2. Yeah ... night.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_2. Yeah ... night.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "966093cf-2c9d-4e79-bf75-a59c290af222"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "__________ you feeling alright?",
+      "yNghia": "<span style=\"color:red\">Are </span>you feeling alright? <br />\r\n<i>Bạn có cảm thấy ổn không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ac30477f-3478-4524-981e-5732d342e7e8"
+          },
+          "dapAn": "Am",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1f6560e8-c2da-40cd-88d7-727fa7235612"
+          },
+          "dapAn": "Are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bae97431-0be6-4ef7-9b25-8677edaf72ef"
+          },
+          "dapAn": "Aren't",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_3. Are ... alright.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_3. Are ... alright.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d8fb0e13-b3f6-4f9e-8933-cd5c4b2adce9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "All I need __________ some coffee later.",
+      "yNghia": "All I need <span style=\"color:red\">is </span>some coffee later. <br />\r\n<i>Tí nữa tôi uống chút cà phê là xong.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2161436a-9acf-4213-bdf3-62e0dee123c1"
+          },
+          "dapAn": "isn't",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ffc5281e-5a64-40b0-98de-b8438786d414"
+          },
+          "dapAn": "are",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "27626f75-888a-47fe-9104-fe23380d2127"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_4. All ... later.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_4. All ... later.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3d3ad21d-1173-4ead-b4cc-18067fcf0033"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you __________ early every day, Mary?",
+      "yNghia": "Do you <span style=\"color:red\">get up</span> early every day, Mary? <br />\r\n<i>Bạn có <span style=\"color:red\">dậy </span>sớm mọi ngày không, Mary?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "25c2d7a2-f354-4b3d-9ccc-9c9727a0362e"
+          },
+          "dapAn": "get up",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f4140a34-6e9e-4de6-b1ed-10033fbc3d7f"
+          },
+          "dapAn": "get",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6f36d84f-7718-44e1-a52a-7d94fb8394a5"
+          },
+          "dapAn": "go to school",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_5. Do ... Mary.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_5. Do ... Mary.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ab27e224-50be-42cd-a49c-5bd4bbb26388"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I only get up early on __________ and on Saturdays.",
+      "yNghia": "I only get up early on <span style=\"color:red\">weekdays </span>and on Saturdays. <br />\r\n<i>Tôi chỉ dậy sớm vào <span style=\"color:red\">các ngày trong tuần</span> và các thứ Bảy.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d389c5e3-92df-49eb-83bb-05734b3cf69c"
+          },
+          "dapAn": "weeks",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "21921cf2-f0db-477e-b296-0c8a4d9d8d10"
+          },
+          "dapAn": "weekdays",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "733c8020-b681-4512-808f-18b63ae5539b"
+          },
+          "dapAn": "days",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_6. I ... Saturdays.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_6. I ... Saturdays.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "8549a492-0c8a-4f3a-8e69-8fc31d2a19f3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How about on __________?",
+      "yNghia": "How about on <span style=\"color:red\">Sundays</span>? <br />\r\n<i>Vậy còn <span style=\"color:red\">các ngày Chủ nhật</span> thì sao?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "83948c49-e167-4325-80ef-a0081e7ef088"
+          },
+          "dapAn": "Fridays",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1dba0f85-8f2f-4259-9289-010948bd53e4"
+          },
+          "dapAn": "Saturdays",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bf893839-7ab9-412d-9338-ca3bc866c8a8"
+          },
+          "dapAn": "Sundays",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_7. How ... Sundays.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_7. How ... Sundays.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d45570ee-c3a1-4507-8138-67e86f7f9b12"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I __________ late on Sundays.",
+      "yNghia": "I <span style=\"color:red\">sleep </span>late on Sundays. <br />\r\n<i>Tôi <span style=\"color:red\">ngủ </span>muộn vào các ngày Chủ nhật.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8562c955-944d-4f1f-b557-c53314cc7b1c"
+          },
+          "dapAn": "slice",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9b3dd22d-8360-4041-b9da-626c7f02e9ac"
+          },
+          "dapAn": "sleep",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1225a985-66bb-4af1-a787-fcce623ceed1"
+          },
+          "dapAn": "study",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_8. I ... Sundays.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_8. I ... Sundays.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3b4e8db2-9155-49f0-8e0e-6fe4221af450"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you exercise during the __________?",
+      "yNghia": "Do you exercise during the <span style=\"color:red\">week</span>? <br />\r\n<i>Bạn có tập thể dục trong <span style=\"color:red\">tuần </span>không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "28634cc2-c99b-4cbf-ae72-74191adf1e75"
+          },
+          "dapAn": "week",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "772697ea-d061-4fff-bcbf-16daa048862a"
+          },
+          "dapAn": "day",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8fe7968c-097a-4776-b729-d55b3fc81b04"
+          },
+          "dapAn": "weekday",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_9. Do ... week.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_9. Do ... week.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1cb7d137-acde-46b6-9b38-e68ef18c452b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I __________ three times a week.",
+      "yNghia": "I <span style=\"color:red\">swim </span>three times a week. <br />\r\n<i>Tôi <span style=\"color:red\">bơi </span>ba lần một tuần.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3813fd18-0186-40ac-b5db-93c6e5e9c62d"
+          },
+          "dapAn": "swim",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bf100617-9a75-4ba4-a77b-60e1a77b8b0d"
+          },
+          "dapAn": "start",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9c02d02a-7571-4ead-884f-ff4f0b956adb"
+          },
+          "dapAn": "sing",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_10. I ... week.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_10. I ... week.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "05538554-6652-41fc-a8ce-e4c6e678065a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What about the __________?",
+      "yNghia": "What about the <span style=\"color:red\">weekend</span>? <br />\r\n<i>Vậy còn <span style=\"color:red\">cuối tuần</span> thì sao?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "577b57f1-aa13-4e88-890d-6bf13f40e0e2"
+          },
+          "dapAn": "week",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3e3dbfc6-25cf-4a14-8c67-ca16e4305f6e"
+          },
+          "dapAn": "day",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7cc299e4-7afa-4d61-b009-1fcd57205975"
+          },
+          "dapAn": "weekend",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_11. What ... weekend.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_11. What ... weekend.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "745191cc-5f3d-4a8f-8020-1734bf9f97a0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "__________ do you see your friends and family?",
+      "yNghia": "<span style=\"color:red\">When </span>do you see your friends and family? <br />\r\n<i>Bạn gặp bạn bè và gia đình vào<span style=\"color:red\"> lúc nào</span>?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "65a4085c-6a36-43af-864e-3519e5242c6c"
+          },
+          "dapAn": "Where",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "19790658-b048-4104-ba4d-78b126f05d0f"
+          },
+          "dapAn": "When",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b335b0a0-654d-4f0f-8aa7-675dbc525312"
+          },
+          "dapAn": "Who",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_12. When ... family.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_12. When ... family.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b017867e-23e9-4de3-8b2d-8456b1f0e1e9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I see friends on Fridays and __________.",
+      "yNghia": "I see friends on Fridays and <span style=\"color:red\">Saturdays</span>. <br />\r\n<i>Tôi gặp bạn bè vào các ngày thứ Sáu và <span style=\"color:red\">thứ Bảy</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4ca77b21-6812-4d4c-a4f9-b5ef7ff0a483"
+          },
+          "dapAn": "Sundays",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d9e2dec0-d7f5-4ad4-b6ed-4d8e495c396c"
+          },
+          "dapAn": "Saturdays",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d17f67b6-3fcd-4ca8-96c5-2722f6d9889c"
+          },
+          "dapAn": "Mondays",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_13. I ... Saturdays.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_13. I ... Saturdays.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "07791768-a2ad-44a6-a52e-53b8c29bb3e8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I visit my family on __________.",
+      "yNghia": "I visit my family on <span style=\"color:red\">Sundays</span>. <br />\r\n<i>Tôi thăm gia đình vào<span style=\"color:red\"> các ngày Chủ nhật.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a37a107c-0de4-4c79-8ab3-485e3c6d6b74"
+          },
+          "dapAn": "Sundays",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6243312f-40bb-45ac-8fce-b40530369ed5"
+          },
+          "dapAn": "Saturdays",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ffb85fac-413b-4c37-8874-a54a2bf9c7ef"
+          },
+          "dapAn": "Mondays",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_14. I ... Sundays.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_14. I ... Sundays.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e57f9df0-0a57-4289-8114-ffc72d671a2e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "When do you __________?",
+      "yNghia": "When do you <span style=\"color:red\">study</span>?  <br />\r\n<i>Bạn <span style=\"color:red\">học </span>vào lúc nào?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c7a20467-bb56-41bf-934a-9c8b6c235474"
+          },
+          "dapAn": "swim",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fbe548b3-6e6f-41a5-bfdb-9d9ef8cc1a3d"
+          },
+          "dapAn": "see",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "275a5795-ad0e-4cd3-9c20-d4c40ba0dadc"
+          },
+          "dapAn": "study",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_15. When ... study.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_15. When ... study.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6b413074-8dd5-4f1d-968c-31d80f937dc0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I study __________ day!",
+      "yNghia": "I study <span style=\"color:red\">every </span>day. <br />\r\n<i>Tôi học <span style=\"color:red\">mỗi </span>ngày.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "aca9e411-cab2-4529-a34a-e4c2a319422b"
+          },
+          "dapAn": "every",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9131eca3-664c-4c06-8176-7329c12fce63"
+          },
+          "dapAn": "all",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "95f895ed-b679-49b6-8d39-0e15781374e7"
+          },
+          "dapAn": "some",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_16. I ... day.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_16. I ... day.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ea45bd60-4095-4791-b4b0-729def3bafe6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You __________ really busy!",
+      "yNghia": "You<span style=\"color:red\">'re </span>really busy! <br />\n<i>Bạn quả thật rất bận rộn!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4a8ef344-d328-4d95-a9d3-01a93c484a35"
+          },
+          "dapAn": "am",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9e7ad9cb-1bab-4711-a2c8-77d7fee26cfc"
+          },
+          "dapAn": "re",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "411a2812-2e5a-41e9-b1e3-d10ec8dc1eb6"
+          },
+          "dapAn": "aren't",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_17. You ... busy.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_17. You ... busy.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "32671286-8dbc-47db-b267-cc7ffffc715a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I need to __________ from you!",
+      "yNghia": "I need to <span style=\"color:red\">learn </span>from you!  <br />\r\n<i>Tôi cần phải <span style=\"color:red\">học tập</span> bạn!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9f61b17d-03c3-4893-9efa-79380f8fc902"
+          },
+          "dapAn": "look",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8abaeb7e-f131-44da-a450-818c749cc01f"
+          },
+          "dapAn": "study",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8373d493-fe8d-4635-abdd-6e7213809a1f"
+          },
+          "dapAn": "learn",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_18. I ... you.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_18. I ... you.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "48d24a2a-3022-4afe-a8bb-1e79f11c8e22"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "__________ you sure?",
+      "yNghia": "<span style=\"color:red\">Are </span>you sure? <br />\n<i>Bạn có chắc không vậy?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1b1c7375-560a-4fcf-8877-080a0ab260bf"
+          },
+          "dapAn": "Are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c4623d56-f668-4944-81b8-b399013bf9b0"
+          },
+          "dapAn": "Is",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "642e7cad-cc1e-4b10-9ec6-e435f6163028"
+          },
+          "dapAn": "Aren't",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_19. Are ... sure.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_19. Are ... sure.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3ea3278c-abb9-41ce-aa51-4e0e1d2cfad0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I __________ to go now.",
+      "yNghia": "I <span style=\"color:red\">have </span>to go now. <br />\n<i>Tôi <span style=\"color:red\">phải </span>đi rồi.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1b59b594-136e-4cf9-94ae-78b770c85bdc"
+          },
+          "dapAn": "haven't",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c0100754-eb89-47fa-ac26-1422c8389871"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a0428a19-1b22-4409-8939-c1e94127a203"
+          },
+          "dapAn": "had",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/normal/PRES_10_LISTENING_20. I ... now.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L10/sounds/slow/PRES_10_LISTENING_20. I ... now.mp3"
+    }
+  ]
+}

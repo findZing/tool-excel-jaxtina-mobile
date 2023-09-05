@@ -1,0 +1,958 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "VOCABULARY",
+  "videoUrl": "4SKILLS_PRE_S_L7/vocabulary.mp4",
+  "newWords": [
+    {
+      "word": "in",
+      "loaiTu": "prep",
+      "phatAm": "/ɪn/",
+      "meaning": "ở trong",
+      "viDu": "My cat is in the box.\n(Chú mèo của tôi đang ở trong chiếc hộp.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/117.in.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/117.in.png"
+    },
+    {
+      "word": "on",
+      "loaiTu": "prep",
+      "phatAm": "/ɒn/",
+      "meaning": "ở trên",
+      "viDu": "My cat is on the table.\n(Chú mèo của tôi đang ở trên chiếc bàn.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/118.on.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/118.on.png"
+    },
+    {
+      "word": "under",
+      "loaiTu": "prep",
+      "phatAm": "/ˈʌndər/",
+      "meaning": "ở dưới",
+      "viDu": "My cat is under the table.\n(Chú mèo của tôi đang ở dưới chiếc bàn.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/119.under.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/119.under.png"
+    },
+    {
+      "word": "behind",
+      "loaiTu": "prep",
+      "phatAm": "/bɪˈhaɪnd/",
+      "meaning": "ở phía sau",
+      "viDu": "My cat is behind the table. \n(Chú mèo của tôi đang ở phía sau chiếc bàn.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/120.behind.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/120.behind.png"
+    },
+    {
+      "word": "between",
+      "loaiTu": "prep",
+      "phatAm": "/bɪˈtwiːn/",
+      "meaning": "ở giữa",
+      "viDu": "My cat is between two chairs.\n(Chú mèo của tôi đang ở giữa 2 chiếc ghế.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/121.between.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/121.between.png"
+    },
+    {
+      "word": "next to",
+      "loaiTu": "prep.p",
+      "phatAm": "/ˈnekst tuː/",
+      "meaning": "ở cạnh",
+      "viDu": "My cat is next to the fridge.\n(Chú mèo của bạn đang ở cạnh tủ lạnh.) ",
+      "urlSound": "COURSE_VOCABULARY/sounds/122.next.to.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/122.next.to.png"
+    },
+    {
+      "word": "in front of",
+      "loaiTu": "prep.p",
+      "phatAm": "/ɪn frʌnt ɒv/",
+      "meaning": "ở phía trước",
+      "viDu": "My cat is in front of the box. \n(Chú mèo của tôi ở phía trước chiếc hộp.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/123.in.front.of.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/123.in.front.of.png"
+    },
+    {
+      "word": "eleven",
+      "loaiTu": "number",
+      "phatAm": "/ɪˈlevn/",
+      "meaning": "(số đếm) 11",
+      "viDu": "I have eleven pencils.\n(Tôi có mười một cây bút chì.)\n",
+      "urlSound": "COURSE_VOCABULARY/sounds/124.eleven.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/124.eleven.png"
+    },
+    {
+      "word": "twelve",
+      "loaiTu": "number",
+      "phatAm": "/twelv/",
+      "meaning": "(số đếm) 12",
+      "viDu": "There are twelve colors in the box.\n(Có mười hai màu trong chiếc hộp này.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/125.twelve.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/125.twelve.png"
+    },
+    {
+      "word": "thirteen",
+      "loaiTu": "number",
+      "phatAm": "/ˌθɜːˈtiːn/",
+      "meaning": "(số đếm) 13",
+      "viDu": "My cousin is thirteen years old.\n(Em họ tôi mười ba tuổi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/126.thirteen.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/126.thirteen.png"
+    },
+    {
+      "word": "fourteen",
+      "loaiTu": "number",
+      "phatAm": "/ˌfɔːˈtiːn/",
+      "meaning": "(số đếm) 14",
+      "viDu": "I am fourteen years old.\n(Tôi mười bốn tuổi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/127.fourteen.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/127.fourteen.png"
+    },
+    {
+      "word": "fifteen",
+      "loaiTu": "number",
+      "phatAm": "/ˌfɪfˈtiːn/",
+      "meaning": "(số đếm) 15",
+      "viDu": "I want fifteen candies.\n(Tôi muốn mười lăm cái kẹo.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/128.fifteen.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/128.fifteen.png"
+    },
+    {
+      "word": "sixteen",
+      "loaiTu": "number",
+      "phatAm": "/ˌsɪksˈtiːn/",
+      "meaning": "(số đếm) 16",
+      "viDu": "I need sixteen bags.\n(Tôi cần mười sáu cái túi.)\n",
+      "urlSound": "COURSE_VOCABULARY/sounds/129.sixteen.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/129.sixteen.png"
+    },
+    {
+      "word": "eighteen",
+      "loaiTu": "number",
+      "phatAm": "/ˌeɪˈtiːn/",
+      "meaning": "(số đếm) 18",
+      "viDu": "My brother is eighteen years old.\n(Anh trai tôi mười tám tuổi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/130.eighteen.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/130.eighteen.png"
+    },
+    {
+      "word": "twenty",
+      "loaiTu": "number",
+      "phatAm": "/ˈtwenti/",
+      "meaning": "(số đếm) 20",
+      "viDu": "The book costs twenty dollars.\n(Cuốn sách này giá hai mươi đô la.)\n\n",
+      "urlSound": "COURSE_VOCABULARY/sounds/131.twenty.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/131.twenty.png"
+    },
+    {
+      "word": "twenty-five",
+      "loaiTu": "number",
+      "phatAm": "/ˈtwenti faɪv/",
+      "meaning": "(số đếm) 25",
+      "viDu": "My sister is twenty-five years old.\n(Chị gái tôi hai mươi lăm tuổi.)\n",
+      "urlSound": "COURSE_VOCABULARY/sounds/132.twenty-five.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/132.twenty-five.png"
+    },
+    {
+      "word": "thirty",
+      "loaiTu": "number",
+      "phatAm": "/ˈθɜːti/",
+      "meaning": "(số đếm) 30",
+      "viDu": "My mother is thirty years old.\n(Mẹ tôi ba mươi tuổi.)\n",
+      "urlSound": "COURSE_VOCABULARY/sounds/133.thirty.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/133.thirty.png"
+    },
+    {
+      "word": "forty",
+      "loaiTu": "number",
+      "phatAm": "/ˈfɔːti/",
+      "meaning": "(số đếm) 40",
+      "viDu": "My dad is forty years old.\n(Bố tôi bốn mươi tuổi.)\n",
+      "urlSound": "COURSE_VOCABULARY/sounds/134.forty.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/134.forty.png"
+    },
+    {
+      "word": "fifty",
+      "loaiTu": "number",
+      "phatAm": "/ˈfɪfti/",
+      "meaning": "(số đếm) 50",
+      "viDu": "My sister gives me 50 cookies.\n(Em gái tôi cho tôi 50 cái bánh quy.)\n",
+      "urlSound": "COURSE_VOCABULARY/sounds/135.fifty.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/135.fifty.png"
+    },
+    {
+      "word": "eighty",
+      "loaiTu": "number",
+      "phatAm": "/ˈeɪti/",
+      "meaning": "(số đếm) 80",
+      "viDu": "My grandma is eighty years old. \n(Bà tôi tám mươi tuổi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/136.eighty.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/136.eighty.png"
+    },
+    {
+      "word": "one hundred",
+      "loaiTu": "number",
+      "phatAm": "/wʌn ˈhʌndrəd/",
+      "meaning": "(số đếm) 100",
+      "viDu": "The maximum score is 100.\n(Điểm tối đa là 100.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/137.one.hundred.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/137.one.hundred.png"
+    },
+    {
+      "word": "one hundred and one",
+      "loaiTu": "number",
+      "phatAm": "/wʌn ˈhʌndrəd ænd wʌn/",
+      "meaning": "(số đếm) 101",
+      "viDu": "One hundred and one is odd.\n(Một trăm lẻ một là số lẻ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/138.one.hundred.and.one.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/138.one.hundred.and.one.png"
+    }
+  ],
+  "scriptVideo": [
+    {
+      "start": "0:00:31",
+      "end": "0:00:33",
+      "english": "Things",
+      "subScriptEnglish": "Things",
+      "matchedNewWords": [],
+      "vietnamese": "Vật dụng"
+    },
+    {
+      "start": "0:00:43",
+      "end": "0:00:49",
+      "english": "Prepositions of place",
+      "subScriptEnglish": "Prepositions of place",
+      "matchedNewWords": [],
+      "vietnamese": "Giới từ chỉ địa điểm"
+    },
+    {
+      "start": "0:01:08",
+      "end": "0:01:10",
+      "english": "Prepositions of place",
+      "subScriptEnglish": "Prepositions of place",
+      "matchedNewWords": [],
+      "vietnamese": "Giới từ chỉ địa điểm"
+    },
+    {
+      "start": "0:01:24",
+      "end": "0:01:30",
+      "english": "in",
+      "subScriptEnglish": " _in_ ",
+      "matchedNewWords": [
+        "in"
+      ],
+      "vietnamese": "ở trong"
+    },
+    {
+      "start": "0:01:36",
+      "end": "0:01:54",
+      "english": "My cat is in the box.",
+      "subScriptEnglish": "My cat is  _in__ the box.",
+      "matchedNewWords": [
+        "in"
+      ],
+      "vietnamese": "Chú mèo của tôi đang ở trong chiếc hộp."
+    },
+    {
+      "start": "0:02:01",
+      "end": "0:02:05",
+      "english": "on",
+      "subScriptEnglish": " _on_ ",
+      "matchedNewWords": [
+        "on"
+      ],
+      "vietnamese": "ở trên"
+    },
+    {
+      "start": "0:02:07",
+      "end": "0:02:14",
+      "english": "My cat is on the table.",
+      "subScriptEnglish": "My cat is  _on__ the  _table._ ",
+      "matchedNewWords": [
+        "table",
+        "on"
+      ],
+      "vietnamese": "Chú mèo của tôi đang ở trên chiếc bàn."
+    },
+    {
+      "start": "0:02:15",
+      "end": "0:02:19",
+      "english": "on",
+      "subScriptEnglish": " _on_ ",
+      "matchedNewWords": [
+        "on"
+      ],
+      "vietnamese": "ở trên"
+    },
+    {
+      "start": "0:02:19",
+      "end": "0:02:33",
+      "english": "My cat is on the table.",
+      "subScriptEnglish": "My cat is  _on__ the  _table._ ",
+      "matchedNewWords": [
+        "table",
+        "on"
+      ],
+      "vietnamese": "Chú mèo của tôi đang ở trên chiếc bàn."
+    },
+    {
+      "start": "0:02:43",
+      "end": "0:02:51",
+      "english": "under",
+      "subScriptEnglish": " _under_ ",
+      "matchedNewWords": [
+        "under"
+      ],
+      "vietnamese": "ở dưới"
+    },
+    {
+      "start": "0:03:00",
+      "end": "0:03:18",
+      "english": "My cat is under the table.",
+      "subScriptEnglish": "My cat is  _under__ the  _table._ ",
+      "matchedNewWords": [
+        "under",
+        "table"
+      ],
+      "vietnamese": "Chú mèo của tôi đang ở dưới chiếc bàn."
+    },
+    {
+      "start": "0:03:30",
+      "end": "0:03:35",
+      "english": "My cat is next to the Christmas tree.",
+      "subScriptEnglish": "My cat is  _next_to__ the Christmas tree.",
+      "matchedNewWords": [
+        "next to"
+      ],
+      "vietnamese": "Chú mèo của tôi đang ở bên cạnh cây thông Giáng sinh."
+    },
+    {
+      "start": "0:03:37",
+      "end": "0:03:48",
+      "english": "next to",
+      "subScriptEnglish": " _next_to_ ",
+      "matchedNewWords": [
+        "next to"
+      ],
+      "vietnamese": "ở cạnh"
+    },
+    {
+      "start": "0:03:48",
+      "end": "0:04:03",
+      "english": "My cat is next to the Christmas tree.",
+      "subScriptEnglish": "My cat is  _next_to__ the Christmas tree.",
+      "matchedNewWords": [
+        "next to"
+      ],
+      "vietnamese": "Chú mèo của tôi đang ở bên cạnh cây thông Giáng sinh."
+    },
+    {
+      "start": "0:04:13",
+      "end": "0:04:17",
+      "english": "behind",
+      "subScriptEnglish": " _behind_ ",
+      "matchedNewWords": [
+        "behind"
+      ],
+      "vietnamese": "ở phía sau"
+    },
+    {
+      "start": "0:04:18",
+      "end": "0:04:28",
+      "english": "My cat is behind the table.",
+      "subScriptEnglish": "My cat is  _behind__ the  _table._ ",
+      "matchedNewWords": [
+        "behind",
+        "table"
+      ],
+      "vietnamese": "Chú mèo của tôi đang ở phía sau chiếc bàn."
+    },
+    {
+      "start": "0:04:30",
+      "end": "0:04:36",
+      "english": "behind",
+      "subScriptEnglish": " _behind_ ",
+      "matchedNewWords": [
+        "behind"
+      ],
+      "vietnamese": "ở phía sau"
+    },
+    {
+      "start": "0:04:36",
+      "end": "0:04:50",
+      "english": "My cat is behind the table.",
+      "subScriptEnglish": "My cat is  _behind__ the  _table._ ",
+      "matchedNewWords": [
+        "behind",
+        "table"
+      ],
+      "vietnamese": "Chú mèo của tôi đang ở phía sau chiếc bàn."
+    },
+    {
+      "start": "0:05:00",
+      "end": "0:05:12",
+      "english": "in front of",
+      "subScriptEnglish": " _in_front_of_ ",
+      "matchedNewWords": [
+        "in front of"
+      ],
+      "vietnamese": "ở phía trước"
+    },
+    {
+      "start": "0:05:19",
+      "end": "0:05:41",
+      "english": "My cat is in front of the fireplace.",
+      "subScriptEnglish": "My cat is  _in_front_of__ the fireplace.",
+      "matchedNewWords": [
+        "in front of"
+      ],
+      "vietnamese": "Chú mèo của tôi đang ở phía trước lò sưởi."
+    },
+    {
+      "start": "0:05:56",
+      "end": "0:06:09",
+      "english": "between",
+      "subScriptEnglish": " _between_ ",
+      "matchedNewWords": [
+        "between"
+      ],
+      "vietnamese": "ở giữa"
+    },
+    {
+      "start": "0:06:17",
+      "end": "0:06:34",
+      "english": "My cat is between two chairs.",
+      "subScriptEnglish": "My cat is  _between__  _two__ chairs.",
+      "matchedNewWords": [
+        "between",
+        "two"
+      ],
+      "vietnamese": "Chú mèo của tôi đang ở giữa 2 chiếc ghế."
+    },
+    {
+      "start": "0:07:09",
+      "end": "0:07:17",
+      "english": "Eleven",
+      "subScriptEnglish": " _Eleven_ ",
+      "matchedNewWords": [
+        "eleven"
+      ],
+      "vietnamese": "Số 11"
+    },
+    {
+      "start": "0:07:24",
+      "end": "0:07:32",
+      "english": "Twelve",
+      "subScriptEnglish": " _Twelve_ ",
+      "matchedNewWords": [
+        "twelve"
+      ],
+      "vietnamese": "Số 12"
+    },
+    {
+      "start": "0:07:39",
+      "end": "0:07:49",
+      "english": "Thirteen",
+      "subScriptEnglish": " _Thirteen_ ",
+      "matchedNewWords": [
+        "thirteen"
+      ],
+      "vietnamese": "Số 13"
+    },
+    {
+      "start": "0:08:13",
+      "end": "0:08:17",
+      "english": "Fourteen",
+      "subScriptEnglish": " _Fourteen_ ",
+      "matchedNewWords": [
+        "fourteen"
+      ],
+      "vietnamese": "Số 14"
+    },
+    {
+      "start": "0:08:18",
+      "end": "0:08:21",
+      "english": "Nineteen",
+      "subScriptEnglish": "Nineteen",
+      "matchedNewWords": [],
+      "vietnamese": "Số 19"
+    },
+    {
+      "start": "0:08:24",
+      "end": "0:08:29",
+      "english": "Fourteen",
+      "subScriptEnglish": " _Fourteen_ ",
+      "matchedNewWords": [
+        "fourteen"
+      ],
+      "vietnamese": "Số 14"
+    },
+    {
+      "start": "0:08:29",
+      "end": "0:08:37",
+      "english": "Nineteen",
+      "subScriptEnglish": "Nineteen",
+      "matchedNewWords": [],
+      "vietnamese": "Số 19"
+    },
+    {
+      "start": "0:08:49",
+      "end": "0:09:00",
+      "english": "Fifteen",
+      "subScriptEnglish": " _Fifteen_ ",
+      "matchedNewWords": [
+        "fifteen"
+      ],
+      "vietnamese": "Số 15"
+    },
+    {
+      "start": "0:09:05",
+      "end": "0:09:14",
+      "english": "Twenty",
+      "subScriptEnglish": " _Twenty_ ",
+      "matchedNewWords": [
+        "twenty"
+      ],
+      "vietnamese": "Số 20"
+    },
+    {
+      "start": "0:09:33",
+      "end": "0:09:46",
+      "english": "Twenty-five",
+      "subScriptEnglish": " _Twenty-five_ ",
+      "matchedNewWords": [
+        "twenty-five"
+      ],
+      "vietnamese": "Số 25"
+    },
+    {
+      "start": "0:09:53",
+      "end": "0:10:04",
+      "english": "Twenty-eight",
+      "subScriptEnglish": " _Twenty-_  _eight_ ",
+      "matchedNewWords": [
+        "twenty",
+        "eight"
+      ],
+      "vietnamese": "Số 28"
+    },
+    {
+      "start": "0:10:27",
+      "end": "0:10:46",
+      "english": "Thirty",
+      "subScriptEnglish": " _Thirty_ ",
+      "matchedNewWords": [
+        "thirty"
+      ],
+      "vietnamese": "Số 30"
+    },
+    {
+      "start": "0:10:55",
+      "end": "0:10:56",
+      "english": "Forty",
+      "subScriptEnglish": " _Forty_ ",
+      "matchedNewWords": [
+        "forty"
+      ],
+      "vietnamese": "Số 40"
+    },
+    {
+      "start": "0:10:56",
+      "end": "0:10:58",
+      "english": "Fifty",
+      "subScriptEnglish": " _Fifty_ ",
+      "matchedNewWords": [
+        "fifty"
+      ],
+      "vietnamese": "Số 50"
+    },
+    {
+      "start": "0:10:58",
+      "end": "0:11:00",
+      "english": "Eighty",
+      "subScriptEnglish": " _Eighty_ ",
+      "matchedNewWords": [
+        "eighty"
+      ],
+      "vietnamese": "Số 80"
+    },
+    {
+      "start": "0:11:02",
+      "end": "0:11:07",
+      "english": "Forty",
+      "subScriptEnglish": " _Forty_ ",
+      "matchedNewWords": [
+        "forty"
+      ],
+      "vietnamese": "Số 40"
+    },
+    {
+      "start": "0:11:07",
+      "end": "0:11:12",
+      "english": "Fifty",
+      "subScriptEnglish": " _Fifty_ ",
+      "matchedNewWords": [
+        "fifty"
+      ],
+      "vietnamese": "Số 50"
+    },
+    {
+      "start": "0:11:12",
+      "end": "0:11:16",
+      "english": "Eighty",
+      "subScriptEnglish": " _Eighty_ ",
+      "matchedNewWords": [
+        "eighty"
+      ],
+      "vietnamese": "Số 80"
+    },
+    {
+      "start": "0:11:22",
+      "end": "0:11:25",
+      "english": "One hundred",
+      "subScriptEnglish": " _One_hundred_ ",
+      "matchedNewWords": [
+        "one hundred"
+      ],
+      "vietnamese": "Số 100"
+    },
+    {
+      "start": "0:11:39",
+      "end": "0:11:41",
+      "english": "One hundred and one",
+      "subScriptEnglish": " _One_hundred_and_one_ ",
+      "matchedNewWords": [
+        "one hundred and one"
+      ],
+      "vietnamese": "Số 101"
+    },
+    {
+      "start": "0:11:43",
+      "end": "0:11:47",
+      "english": "One hundred",
+      "subScriptEnglish": " _One_hundred_ ",
+      "matchedNewWords": [
+        "one hundred"
+      ],
+      "vietnamese": "Số 100"
+    },
+    {
+      "start": "0:11:47",
+      "end": "0:11:55",
+      "english": "One hundred and one",
+      "subScriptEnglish": " _One_hundred_and_one_ ",
+      "matchedNewWords": [
+        "one hundred and one"
+      ],
+      "vietnamese": "Số 101"
+    }
+  ],
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:00:32.950",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Laptop case",
+            "_id": {
+              "$oid": "0528f438-c8e2-456b-a4f4-07c0064647ee"
+            },
+            "yNghia": "Túi/cặp đựng máy tính xách tay"
+          },
+          {
+            "cauHoi": "Transit card",
+            "_id": {
+              "$oid": "734696ba-b1fb-46a3-890f-f2211d905763"
+            },
+            "yNghia": "Thẻ quá cảnh"
+          },
+          {
+            "cauHoi": "Umbrella",
+            "_id": {
+              "$oid": "86eeab97-b38e-4912-aafe-a9fe9d0ed07a"
+            },
+            "yNghia": "Cây dù"
+          },
+          {
+            "cauHoi": "Notebook",
+            "_id": {
+              "$oid": "1d2bcc9a-da59-4679-8c89-e13e7096a8b8"
+            },
+            "yNghia": "Sổ ghi chú"
+          },
+          {
+            "cauHoi": "Wallet",
+            "_id": {
+              "$oid": "8cc7c27e-ee85-4691-94ce-2d9159de4bf5"
+            },
+            "yNghia": "Ví tiền"
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:00:32.950",
+      "timeEnd": "00:06:46.989",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "ea38e184-2eb3-4a9e-ac87-90b498e84de5",
+                "dapAn": "The cat"
+              },
+              {
+                "_id": "8dcd19d9-8e16-4c89-b370-985e1edda155",
+                "dapAn": "is next to"
+              },
+              {
+                "_id": "10da8b2c-541f-4e40-826c-6a442ee120ca",
+                "dapAn": "the tree."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "521d7e8b-3554-450b-8c22-d87289d2e198",
+                "dapAn": "The dog"
+              },
+              {
+                "_id": "56b8176e-f5d9-4fbf-bfd3-4e1c1e524b97",
+                "dapAn": "is on"
+              },
+              {
+                "_id": "9334e675-81a2-4028-b037-417e8083e3ad",
+                "dapAn": "the chair."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "3a5ddce2-3944-42b0-92fb-9330ea198c37",
+                "dapAn": "The cat"
+              },
+              {
+                "_id": "d46cf6ea-b36d-4296-9415-ce875d2c128c",
+                "dapAn": "is behind"
+              },
+              {
+                "_id": "45e918e5-4be7-4b5c-9555-6f29cb746fd3",
+                "dapAn": "the plant."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "db2fb8f7-efe5-4274-a87b-2f4c7ed0f2f2",
+                "dapAn": "The dog"
+              },
+              {
+                "_id": "690dcf1b-6a0d-48dd-a598-dc1619bc9206",
+                "dapAn": "is between"
+              },
+              {
+                "_id": "5baefea6-8490-4e22-847c-068da768d781",
+                "dapAn": "the house"
+              },
+              {
+                "_id": "485a3265-f925-4a81-b86b-7e7ce069c9e8",
+                "dapAn": "and the"
+              },
+              {
+                "_id": "43260958-adaf-41f1-8fa9-3357a0d3d1a4",
+                "dapAn": "tree."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "2eb2534f-06f7-4adb-9266-83ca8b6dc506",
+                "dapAn": "The cat"
+              },
+              {
+                "_id": "f903df20-2acc-4cd5-9478-cc62c2d62a92",
+                "dapAn": "is under"
+              },
+              {
+                "_id": "44d67f53-ac57-4035-9196-89073b5d84fa",
+                "dapAn": "the table."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "00:06:46.989",
+      "timeEnd": "0:12:09.641",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P5",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "twenty-nine – _____________ = seventeen",
+            "_id": "46d1fb28-940e-46f3-a9f2-79d709a7c2cd",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "eleven",
+                "_id": "f98130f2-14a6-47ba-ab2d-8aecad8d74fa"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "twelve",
+                "_id": {
+                  "$oid": "4bfbb613-1745-49b7-a2ee-b244d960557b"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "thirteen",
+                "_id": {
+                  "$oid": "9e928c45-9812-47ed-a993-a87364824f2a"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "______________ + forty-three = seventy-eight",
+            "_id": "16f45cdd-26b4-46db-9587-a33fe8b54965",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "thirty-five",
+                "_id": "3cdea855-31cc-4ae8-bb6d-88b721249c93"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "thirty-six",
+                "_id": {
+                  "$oid": "3ee889a4-f1d3-43fa-b940-b5b5686084fe"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "thirty-seven",
+                "_id": {
+                  "$oid": "c5130621-6900-468b-8a8d-a9cad6aaeabd"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "sixty-one + ______________ = eighty",
+            "_id": "8fdcc53a-1f8f-4630-afe7-2e62485e86c8",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "eighteen",
+                "_id": "2362e2b8-1e40-420d-b675-de224e0c314f"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "nineteen",
+                "_id": {
+                  "$oid": "27ee3463-3b03-4f68-867d-d1493c09d5ee"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "twenty",
+                "_id": {
+                  "$oid": "ca434dc6-4ec4-4873-a4e2-d377dfb40535"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "_______________ – thirty-seven = seventeen",
+            "_id": "85490dee-5ece-46f3-a265-de09d64d8775",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "fifty-four",
+                "_id": "90eab86e-8d05-41e9-9153-444623138c40"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "fifty-five",
+                "_id": {
+                  "$oid": "46ae3866-2d53-42c7-801c-dce49562f9e1"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "fifty-six",
+                "_id": {
+                  "$oid": "5db02d5e-2b64-4064-b48c-67a7d6386c8d"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "three x twenty-three = __________________",
+            "_id": "91f2da8d-1305-4438-bb0a-ac3f2f553a0c",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "sixty-seven",
+                "_id": "f8a84980-9d9e-4265-9a27-dbd25211da22"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "sixty-eight",
+                "_id": {
+                  "$oid": "c82bcfa8-5023-4efa-8031-b42892386d11"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "sixty-nine",
+                "_id": {
+                  "$oid": "1d3a0858-db6c-467d-b3c0-ad85fc7aed13"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "forty x two = __________________",
+            "_id": "8affccd0-cf68-478c-9f8b-a2cfb48f1cea",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "seventy",
+                "_id": "4b10f5fa-29c2-4f8c-bd9d-905f0770ef2e"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "eighty",
+                "_id": {
+                  "$oid": "24f4c61b-6ab6-4a2b-9a58-3a1d3c4b0263"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "ninety",
+                "_id": {
+                  "$oid": "d81f0833-0562-46e6-a4c4-024f43577c2d"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

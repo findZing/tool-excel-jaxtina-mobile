@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P7",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "ac46ef44-d3e5-413c-8e34-5b7b514b2626"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Mary, congratulations on your new job! Have you <b><span style=\"color:blue\">(start)</span></b> _________ working yet?",
+      "yNghia": "Câu có từ chỉ thời gian<b> yet</b> nên được chia ở thì Hiện tại hoàn thành. Trợ động từ<b> Have</b> được đẩy lên đầu câu để tạo câu hỏi dạng <b>Yes/No</b> <b>question</b>, động từ <b>start</b> chuyển thành dạng quá khứ phân từ là <b>started</b>. Câu hoàn chỉnh là <b>Have you <span style=\"color:red\">started</span> working yet? </b><i>(Bạn </span><span style=\"color:red\">đã</span> <span style=\"color:red\">bắt đầu </span>làm việc chưa?).</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "62bd000a-6eda-4f47-b9a6-5b62d3beb202"
+          },
+          "dapAn": "started",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c600b6c6-b6be-4757-a362-18c9af752c80"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Have you already <b><span style=\"color:blue\">(get)</span></b> ______________ some qualifications?",
+      "yNghia": "Câu có từ chỉ thời gian<b> already</b> nên được chia ở thì Hiện tại hoàn thành. Trợ động từ <b>H</b><b>ave</b> được đẩy lên đầu câu để tạo câu hỏi dạng <b>Yes/No</b> <b>question</b>, động từ <b>get</b> chuyển thành dạng quá khứ phân từ là <b>got</b>. Câu hoàn chỉnh là <b>Have you already <span style=\"color:red\">got</span> some qualifications? </b><i>(Bạn </span><span style=\"color:red\">đã có </span>bằng cấp </span>gì chưa?).</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0b84bc00-5af7-44d2-8a3a-86432e3d52c9"
+          },
+          "dapAn": "got",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1f19dfba-741a-4f7a-9f87-be97d702ab94"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I have <b><span style=\"color:blue\">(have)</span></b> ______________ my college degree since last month.",
+      "yNghia": "Câu có cụm từ chỉ thời gian<b> since last month</b> nên được chia ở thì Hiện tại hoàn thành. Câu đã có trợ động từ đi kèm là<b> have </b>nên<b> </b>động từ chính <b>have</b> chuyển sang dạng quá khứ phân từ <b>had</b>. Câu hoàn chỉnh là <b>I have <span style=\"color:red\">had </span>my college degree since last month. </b><i>(Tôi <span style=\"color:red\">đã</span> <span style=\"color:red\">có </span>bằng đại học từ tháng trước.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4eba5376-c686-46e4-8ad3-d1840d543edf"
+          },
+          "dapAn": "had",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "45401245-27f6-4632-947e-ffc3ace76ea9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My manager <b><span style=\"color:blue\">(inform)</span></b> ______________ me that it might be 3 weeks.",
+      "yNghia": "Đây là câu chia ở thì Quá khứ đơn chỉ sự việc đã xảy ra và kết thúc, động từ <b>inform</b> được chuyển thành dạng quá khứ là <b>informed</b>. Câu hoàn chỉnh là <b>My manager </b><b><span style=\"color:red\">informed</span></b><b> </b><b>me that it might be 3 weeks. </b><i>(</i><i>Người quản lý của tôi </span></i><i><span style=\"color:red\">đã thông báo </span></i><i>với tôi rằng có thể là 3 tuần.</span>).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c205e69d-41e9-458c-9aaf-34bfe8c13d66"
+          },
+          "dapAn": "informed",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "40789b1d-13c4-43bd-83dc-8965d314536e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My training was only 1 week when I <b><span style=\"color:blue\">(begin)</span></b> _________ my job.",
+      "yNghia": "Đây là câu chia ở thì Quá khứ đơn chỉ sự việc đã xảy ra và kết thúc, động từ <b>begin</b> được chuyển thành dạng quá khứ là <b>began</b>. Câu hoàn chỉnh là <b>My training was only 1 week when I </b><b><span style=\"color:red\">began </span></b><b>my job.</b><i> (</span></i><i>Quá trình đào tạo của tôi chỉ diễn ra trong 1 tuần khi tôi </span></i><i><span style=\"color:red\">bắt đầu </span></i><i>công việc của mình.).</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ff7f8e42-ca28-4319-9d74-c842b23512fb"
+          },
+          "dapAn": "began",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "24434f13-2bfa-4ebc-b046-dd94155dde6d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "However, I <b><span style=\"color:blue\">(not have) </span></b>______________ an English certificate yet.",
+      "yNghia": "Câu có từ chỉ thời gian<b> yet</b> nên được chia ở thì Hiện tại hoàn thành.<b> I </b>là chủ ngữ ngôi thứ nhất số ít<b>, </b>nên trợ động từ đi kèm là<b> have</b>,<b> </b>dạng viết tắt là <b>have not </b>hoặc<b> haven'</b>t,<b> </b>động từ chính <b>have</b> chuyển sang quá khứ phân từ là<b> had</b>. Câu hoàn chỉnh là <b>However, I <span style=\"color:red\">haven't had / have not had </span>an English certificate yet<i>. </i></b><i>(Tuy nhiên, tôi </span><span style=\"color:red\">chưa có</span> chứng chỉ tiếng Anh.).</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "57bd4132-77c4-4e3b-807f-4cc597bfbfe3"
+          },
+          "dapAn": "haven't had / have not had",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "fae21ac3-d159-40ef-ba13-418b52c30425"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Have you <b><span style=\"color:blue\">(study) </span></b>______________<b> </b>for your test yet?",
+      "yNghia": "Câu có từ chỉ thời gian<b> yet</b> nên được chia ở thì Hiện tại hoàn thành. Trợ động từ <b>have</b> được đẩy lên đầu câu để tạo câu hỏi dạng <b>Yes/No</b> <b>question</b>, động từ <b>study</b> chuyển thành dạng quá khứ phân từ là <b>studied</b>. Câu hoàn chỉnh là <b>Have you <span style=\"color:red\">studied</span> your test yet?</b> <i>(Bạn <span style=\"color:red\">đã học ôn </span>cho kiểm tra của mình chưa?). </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1f6c27f7-d5b7-48f2-b9e6-86c56c4e85b4"
+          },
+          "dapAn": "studied",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "052a92d1-285a-4dd4-8237-79229d1a2504"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I have already <b><span style=\"color:blue\">(finish) </span></b>______________ studying.",
+      "yNghia": "Câu có từ chỉ thời gian<b> already</b> nên được chia ở thì Hiện tại hoàn thành, <b>I </b>là chủ ngữ ngôi thứ nhất số ít<b>, </b>nên trợ động từ đi kèm là<b> have, </b>động từ <b>finished</b> chuyển sang dạng quá khứ phân từ là <b>finished</b>. Câu hoàn chỉnh là <b>I have already <span style=\"color:red\">finished </span>studying. </b><i>(Tôi <span style=\"color:red\">đã</span> học <span style=\"color:red\">xong rồi</span>.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1309fa22-2d90-45fa-92de-6c8c986096b3"
+          },
+          "dapAn": "finished",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a3ab84bf-5d9a-4a1c-a07c-65c325e3a0da"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I <b><span style=\"color:blue\">(not read) </span></b>______________ the story for English class yet.",
+      "yNghia": "Câu có từ chỉ thời gian<b> yet</b> nên được chia ở thì Hiện tại hoàn thành, <b>I </b>là chủ ngữ ngôi thứ nhất số ít<b>, </b>nên trợ động từ đi kèm là<b> have, </b>thể phủ định là <b>have not </b>hoặc<b> haven't</b>,<b> </b>động từ <b>read</b> có dạng quá khứ phân từ là <b>read</b>. Câu hoàn chỉnh là <b>I <span style=\"color:red\">haven't read / have not read </span>the story for English class yet. </b><i>(Tôi <span style=\"color:red\">chưa đọc </span>truyện cho lớp Tiếng Anh.). </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9b635d39-9ee4-41e2-ac14-f9abb1410a7c"
+          },
+          "dapAn": "haven't read / have not read",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9b427898-b080-4b16-8e77-1c77793a11f9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Has my package <b><span style=\"color:blue\">(arrive)</span></b> __________ yet?",
+      "yNghia": "Câu có từ chỉ thời gian<b> yet</b> nên được chia ở thì Hiện tại hoàn thành. Trợ động từ <b>Has</b> được đẩy lên đầu câu để tạo câu hỏi dạng <b>Yes/No</b> <b>question</b>, động từ <b>arrive</b> chuyển thành dạng quá khứ phân từ là <b>arrived</b>. Câu hoàn chỉnh là <b>Has my package <span style=\"color:red\">arrived</span> yet?</b> <i>(Bưu kiện của tôi <span style=\"color:red\">đã tới </span>chưa?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e98b328c-0bcf-40ea-8b62-7eff0be948f0"
+          },
+          "dapAn": "arrived",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3f32c256-ee94-4bfe-97dd-2e129ba77593"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I don't know. Oh, here it is. It has just <b><span style=\"color:blue\">(arrive)</span></b> __________.",
+      "yNghia": "Câu có từ chỉ thời gian<b> just</b> nên được chia ở thì Hiện tại hoàn thành. Động từ chính <b>arrive</b> chuyển sang dạng quá khứ phân từ là <b>arrived</b>. Câu hoàn chỉnh là <b>I don't know. Oh, here it is. It has just <span style=\"color:red\">arrived</span>.</b> <i>(Tôi không biết. Ồ, đây rồi. Nó </i><i>vừa<span style=\"color:red\"> mới tới</span>.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ff823b97-40d4-4611-b55b-47ec0dbba289"
+          },
+          "dapAn": "arrived",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d68d92f9-1fa4-4f10-b779-82c029b9db94"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It's only six o'clock and I have already <b><span style=\"color:blue\">(finish)</span></b> __________ my homework.",
+      "yNghia": "Câu có từ chỉ thời gian<b> already</b> nên được chia ở thì Hiện tại hoàn thành. Động từ chính <b>finish </b>chuyển sang dạng quá khứ phân từ là <b>finished</b>. Câu hoàn chỉnh là <b>It's only six o'clock and I have already <span style=\"color:red\">finished </span>my homework. </b><i>(Bây giờ mới là 6 giờ và tôi <span style=\"color:red\">đã hoàn thành xong </span>bài tập về nhà của mình.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0e0e4e5e-b6ad-4610-996b-5e4d45688021"
+          },
+          "dapAn": "finished",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "52aa1282-4712-4a13-a37c-5cb1cd114236"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Really? I <b><span style=\"color:blue\">(not started)</span></b> __________ mine yet.",
+      "yNghia": "Câu có từ chỉ thời gian<b> yet</b> nên được chia ở thì Hiện tại hoàn thành. <b>I </b>là chủ ngữ ngôi thứ nhất số ít<b>, </b>nên trợ động từ đi kèm là<b> have, </b>thể phủ định là <b>have not </b>hoặc<b> haven't</b>, động từ <b>start </b>chuyển sang dạng quá khứ phân từ là<b> started</b>. Câu hoàn chỉnh là <b>Really? I <span style=\"color:red\">haven't started / have not started </span>mine yet. </b><i>(Thật á? Tôi <span style=\"color:red\">còn chưa bắt đầu</span> phần của mình.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "04457fc8-fc00-4e36-965d-f087caf76e88"
+          },
+          "dapAn": "haven't started / have not started",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "49f97d7a-7cd0-4218-add4-0f52322bdc30"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Carmen Vega's ice-cream shop <b><span style=\"color:blue\">(be)</span></b> __________ open for five years.<b> </b>",
+      "yNghia": "Câu có cụm từ chỉ thời gian<b> for five years</b> nên được chia ở thì Hiện tại hoàn thành. <b>Carmen Vega's ice-cream shop </b>là chủ ngữ số ít<b>, </b>nên trợ động từ đi kèm là<b> has, </b>động từ <b>be </b>chuyển sang dạng quá khứ phân từ là <b>been</b>. Câu hoàn chỉnh là <b>Carmen Vega's ice-cream shop <span style=\"color:red\">has been </span>open for five years. </b><i>(Tiệm kem của Carmen Vega <span style=\"color:red\">đã</span> mở được năm năm rồi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a2255339-d4a6-404d-b605-d0c5af1d5a2c"
+          },
+          "dapAn": "has been",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a91d3318-aa26-4f63-970d-e69ee0421efb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Carmen<b> <span style=\"color:blue\">(take) </span></b>__________<b> </b>a class to learn how to make ice-cream last week.",
+      "yNghia": "Câu có cụm từ chỉ thời gian<b> last year</b> nên được chia ở thì Quá khứ đơn chỉ sự việc đã xảy ra và kết thúc, động từ <b>take</b> được chuyển thành dạng quá khứ là <b>took</b>. Câu hoàn chỉnh là <b>Carmen <span style=\"color:red\">took </span>a class to learn how to make ice-cream.</b> <i>(Carmen <span style=\"color:red\">đã đi </span>học một khoá để học làm kem vào tuần trước.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1a45ffaf-2e73-4224-ab5c-1dec3b178161"
+          },
+          "dapAn": "took",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1b3d17d0-1405-47b6-a7f3-bf1233266c6a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Since then, she <b><span style=\"color:blue\">(invent)</span></b> __________ a lot of ice-cream flavors.",
+      "yNghia": "Câu có cụm từ chỉ thời gian<b> Since then</b> nên được chia ở thì Hiện tại hoàn thành. <b>she</b> là chủ ngữ ngôi thứ ba số ít<b>, </b>nên trợ động từ đi kèm là<b> has, </b>động từ <b>invent</b><i> </i>chuyển sang dạng quá khứ phân từ là <b>invented</b>. Câu hoàn chỉnh là <b>Since then, she <span style=\"color:red\">has invented</span> a lot of ice-cream flavors. </b><i>(Kể từ đó, cô ấy <span style=\"color:red\">đã tạo </span>ra rất nhiều vị kem.).</i><b> </b>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e2adf606-de36-4a3b-96f1-62610f5c77aa"
+          },
+          "dapAn": "has invented",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9f3024a4-8aab-4e73-924b-9861e00b3ed8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "When her shop <b><span style=\"color:blue\">(open)</span></b> __________, Carmen and one other person worked there.",
+      "yNghia": "Đây là câu chia ở thì Quá khứ đơn, động từ <b>open</b> được chuyển sang dạng quá khứ là <b>opened</b>. Câu hoàn chỉnh là <b>When her shop <span style=\"color:red\">opened</span>, Carmen and one other person worked there. </b><i>(Khi tiệm của cô ấy <span style=\"color:red\">mở</span>, có Carmen và một người khác đã làm việc ở đó.). </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "23660548-2292-4fc8-b900-c63c61dd5df7"
+          },
+          "dapAn": "opened",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "76457e0a-92db-4c90-a908-d2403957e4c4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Last year, she <b><span style=\"color:blue\">(hire)</span></b> _____________ 10 more people.",
+      "yNghia": "Câu có cụm từ chỉ thời gian<b> Last year</b> nên được chia ở thì Quá khứ đơn chỉ sự việc đã xảy ra và kết thúc, động từ <b>hire</b><i> </i>chuyển sang dạng quá khứ là <b>hired</b>. Câu hoàn chỉnh là<b> Last year, she <span style=\"color:red\">hired </span>10 more people. </b><i>(Năm ngoái, cô ấy <span style=\"color:red\">đã thuê </span>thêm 10 người nữa.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d153da9a-f08d-4c07-a711-5836c5fc5a86"
+          },
+          "dapAn": "hired",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "28f33d61-67b3-41ff-8b7e-c58a4b829048"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My hometown<b> <span style=\"color:blue\">(change) </span></b>_____________<b> </b>a lot since that day.",
+      "yNghia": "Câu có cụm từ chỉ thời gian<b> since that day</b> nên được chia ở thì Hiện tại hoàn thành. <b>My hometown</b> là chủ ngữ số ít<b>, </b>nên trợ động từ đi kèm là<b> has, </b>động từ <b>change</b> chuyển sang dạng quá khứ phân từ là <b>changed. </b>Câu hoàn chỉnh là: <b>My hometown <span style=\"color:red\">has changed</span> a lot since that day.</b> <i>(Quê của tôi <span style=\"color:red\">đã thay đổi </span>rất nhiều kể từ ngày đó.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "026846ee-d3d6-4366-9447-fd60162fe811"
+          },
+          "dapAn": "has changed",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9e9c5e4b-e027-42c2-89cd-ce5df3404d18"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How has it <b><span style=\"color:blue\">(change) </span></b>____________________<b> </b>for the past two years?",
+      "yNghia": "Câu có cụm từ chỉ thời gian<b> for the past two years</b> nên được chia ở thì Hiện tại hoàn thành. Động từ chính <b>change</b> chuyển sang dạng quá khứ phân từ là <b>changed</b>. Câu hoàn chỉnh là <b>How has it <span style=\"color:red\">changed </span>for the past two years?</b> <i>(Nó <span style=\"color:red\">đã thay đổi </span>ra sao trong hai năm vừa qua?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "48f5dfa9-22dd-4657-ac5d-34fc885cd5cd"
+          },
+          "dapAn": "changed",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

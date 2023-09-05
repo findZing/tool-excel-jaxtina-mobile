@@ -1,0 +1,1019 @@
+{
+  "dangCauHoi": "P6",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "bf1a6e04-4263-4e12-a638-2fb2c45bf5ad"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về ai đó có mối quan hệ tốt với ai đó, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ to be + getting along with + Tân ngữ. </b>Ta có: <b>I</b><i> (Tôi)</i> là chủ ngữ, <b>‘m</b> là động từ to be dạng viết tắt của <b>am</b>, <b>my roommates</b><i> (với bạn cùng phòng)</i> là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">I'm getting along with my roommates.</span></b> <i>(Tôi khá hòa thuận với bạn cùng phòng.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2f7e642a-9b43-4341-bd5a-448b0e96feca"
+          },
+          "dapAn": "I'm",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7d227c51-9666-4875-b8bc-f3b0a4af0d2f"
+          },
+          "dapAn": "getting",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "45cdc8c9-3014-4724-ac53-c9cd61857ca4"
+          },
+          "dapAn": "along",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2ae376eb-e610-4f95-9f1e-c3eed17ba681"
+          },
+          "dapAn": "with",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f3aec369-81ff-4ca7-bccc-41511ce7e409"
+          },
+          "dapAn": "my",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ec246ca8-eafd-433d-b20d-888cf254883e"
+          },
+          "dapAn": "roommates.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "dc36c697-b1e7-4e94-94f5-f34161a75117"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về ai đó tốt về làm việc gì, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ to be + fine about + Động từ (-ing) + Bổ ngữ. </b>Ta có: <b>They</b> <i>(Họ)</i> là chủ ngữ, are là động từ to be, <b>sharing</b> <i>(chia sẻ)</i> là động từ đuôi –ing, <b>chores</b><i> (việc nhà)</i> là bổ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">They are fine about sharing chores.</span></b> <i>(Họ biết chia sẻ việc nhà.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "94400d94-9b2f-4e4e-98e7-eeea315519a2"
+          },
+          "dapAn": "They",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "47ba4303-b915-47de-85ec-912907979c99"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9ed3b0c0-8c1f-4223-b687-eae681985ec7"
+          },
+          "dapAn": "fine",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "913109af-4c28-4533-bedc-2ced197de3c7"
+          },
+          "dapAn": "about",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4b82353e-2246-4878-8364-60b261755676"
+          },
+          "dapAn": "sharing",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3278ff6c-cf8a-4bc1-a9d1-abbcce75da26"
+          },
+          "dapAn": "chores.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d9ec7f8e-9c3d-4118-95d5-cc1ed02d88af"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi về dự định của ai đó, chúng ta sẽ dùng cấu trúc<b>: What + Động từ to be +</b> <b>Chủ ngữ + going to + Động từ (nguyên thể) + Bổ ngữ? </b>Ta có: <b>you </b><i>(bạn)</i> là chủ ngữ, <b>do </b><i>(làm)</i> là động từ nguyên thể, <b>about that</b><i> (về điều đó) </i>là bổ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">What are you going to do about that?<i> </i></span></b><i>(Bạn sẽ làm gì về điều đó?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "45f2207d-5ae0-4640-96b5-1d91e3f69222"
+          },
+          "dapAn": "What are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "abfae55a-6694-40b9-bb70-228c605bac73"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "baa307b5-04fb-44b1-8d5d-66d13b1360fb"
+          },
+          "dapAn": "going to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cb9bd652-a0b4-440c-86b6-be28a09dbb9c"
+          },
+          "dapAn": "do",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "13433b5f-d47e-417f-bd72-a7a51f5d6910"
+          },
+          "dapAn": "about",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "841852b9-e673-4ca9-8099-b206a2314733"
+          },
+          "dapAn": "that?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "aede78f0-0b41-4c34-9ec1-db5b2f4dc0a8"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về việc ai đó không thể làm gì, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ 1 + can't + Cụm động từ (nguyên thể). </b>Ta có: <b>I</b> <i>(Tôi) </i>là chủ ngữ, <b>look for another place to live</b> <i>(tìm kiếm)</i> là cụm động từ trong đó <b>look</b> <i>(tìm)</i> là động từ nguyên thể. Câu hoàn chỉnh là <b><span style=\"color:red\">I can't look for another place to live.</span></b> <i>(Tôi không thể tìm một nơi khác để sống.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "024c6921-c31c-4330-b806-9ef19acf0567"
+          },
+          "dapAn": "I can't",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e3d7d06e-c7bb-40fc-a9cf-6db10d700310"
+          },
+          "dapAn": "look for",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2d534f2e-e6a1-401a-932d-736814f38fb3"
+          },
+          "dapAn": "another",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7f28100e-3448-4760-b147-cd447247b048"
+          },
+          "dapAn": "place",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3d666067-fce6-419c-87c7-66f794f0b3a2"
+          },
+          "dapAn": "to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fdc6d402-0b74-4ed2-8ca3-eeb37d36a3ef"
+          },
+          "dapAn": "live.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9052f4be-a18f-43fd-a749-ca19ce4ca1b2"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đưa ra ý kiến cá nhân về một ý tưởng tồi, chúng ta sẽ dùng cấu trúc: <b>It's terrible + to + Động từ nguyên thể + Bổ ngữ. </b>Ta có: <b>live with </b><i>(sống với)</i> là cụm động từ trong đó từ <b>live</b> <i>(sống)</i> là động từ nguyên thể, <b>selfish roommates</b> <i>(những người bạn cùng phòng ích kỷ)</i> là bổ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">It's terrible to live with selfish roommates.</span></b> <i>(Thật tồi tệ khi sống với những người bạn cùng phòng ích kỷ.). </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3625086f-e715-42b7-bb66-3532179af4b4"
+          },
+          "dapAn": "It's",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c82e33d4-8571-4aa1-92fa-ea841d29e3ee"
+          },
+          "dapAn": "terrible",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "35c63807-abfe-472f-9022-a0b108b1200b"
+          },
+          "dapAn": "to live",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ab22438b-17ec-4734-af8c-1a011afeb831"
+          },
+          "dapAn": "with",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7b458b61-ee9e-4977-8f59-d45785e38708"
+          },
+          "dapAn": "selfish",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4b8642a7-ebfe-4651-9554-4729a8b2bfc0"
+          },
+          "dapAn": "roommates.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "cd4c6f8b-99de-4d90-8506-adb4f207b172"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ý kiến người khác, chúng ta sẽ dùng cấu trúc: <b>Từ để hỏi + do you think I should + Động từ nguyên thể? </b>Ta có: <b>Where </b><i>(Ở đâu)</i> là từ để hỏi, <b>move </b><i>(chuyển đến)</i> là động từ nguyên thể<b>. </b>Câu hoàn chỉnh là <b><span style=\"color:red\">Where do you think I should move?</span></b> <i>(Bạn nghĩ tôi nên chuyển đi đâu?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "52d26c84-1836-4dec-9d5e-38a88c848374"
+          },
+          "dapAn": "Where",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4912d67a-e1d3-4e54-acf9-9274301a6f4e"
+          },
+          "dapAn": "do you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9888278e-4381-4032-b47e-e1525c6eecfc"
+          },
+          "dapAn": "think",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e50a0396-5645-4325-8c39-fa48f8c8cd09"
+          },
+          "dapAn": "I",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3e778349-1de8-4bb8-9f63-99d536276a2f"
+          },
+          "dapAn": "should",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a87c1512-ea33-4d89-ada7-b2abc10201f3"
+          },
+          "dapAn": "move?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ef543f3d-d181-436c-9f04-4ec62e876099"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói có địa điểm / sự vật nào đó ở gần địa điểm nào đó, chúng ta sẽ dùng cấu trúc: <b>There's + a/ an + (cụm) Danh từ 1 + near + (cụm) Danh từ 2. </b>Ta có: <b>studio apartment</b> <i>(căn hộ nhỏ)</i> là danh từ 1, <b>my work</b><i> (nơi làm việc của tôi) </i>là danh từ 2. Câu hoàn chỉnh <b><span style=\"color:red\">là There's a studio apartment near my work.</span></b><i> (Có một căn hộ nhỏ gần nơi làm việc của tôi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2ef9c5d5-0af9-4dc2-ab54-6c278f9fea53"
+          },
+          "dapAn": "There's a",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "32016c42-ff1a-4da5-b206-2aaa0f706eca"
+          },
+          "dapAn": "studio",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d113a5f4-8da2-465f-8be8-bebe9ab515a7"
+          },
+          "dapAn": "apartment",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bac9db40-3ee7-4c79-8a59-07d2426cdd08"
+          },
+          "dapAn": "near",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "36beb534-55de-4691-8823-9d36abba68d4"
+          },
+          "dapAn": "my",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2e0ec172-193b-474a-ad23-474be8c3c88e"
+          },
+          "dapAn": "work.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "55ab5eba-225c-43bc-830a-4aa5168c4aaa"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đưa ra ý kiến cá nhân về việc gì, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + guess + Mệnh đề. </b>Ta có: <b>I</b> <i>(Tôi)</i> là chủ ngữ, <b>moving might not take very long</b><i> (việc di chuyển sẽ không mất nhiều thời gian) </i>là mệnh đề. Câu hoàn chỉnh là <b><span style=\"color:red\">I guess moving might not take very long. </span></b><i>(Tôi cho rằng việc di chuyển sẽ không mất nhiều thời gian.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ce1d6979-30fa-424c-b40f-f26565121176"
+          },
+          "dapAn": "I guess",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4de2263f-624a-403c-91d7-c0ccb6253eec"
+          },
+          "dapAn": "moving",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ed91218d-067d-4584-bf61-e0add663f395"
+          },
+          "dapAn": "might",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3658a08d-0119-4078-9072-a8b58e0d066c"
+          },
+          "dapAn": "not take",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "09752696-917c-4b9f-b3d1-a760550d0d75"
+          },
+          "dapAn": "very",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "057e498d-783d-405e-a34d-ab41cecca78a"
+          },
+          "dapAn": "long.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2a2500a2-39a4-4e36-9205-40cc0ee8dfde"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nhấn mạnh hành động của ai đó chắc chắn xảy ra, chúng ta sẽ dùng cấu trúc:<b> Chủ ngữ + definitely + Động từ + Tân ngữ + Bổ ngữ. </b>Ta có: <b>My roommates</b> <i>(Bạn cùng phòng của tôi)</i> là chủ ngữ, <b>use </b><i>(sử dụng) </i>là động từ, <b>the couch </b><i>(ghế sofa) </i>là tân ngữ, <b>more than I do</b><i>(nhiều hơn tôi) </i>là bổ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">My roommates definitely use the couch more than I do! </span></b><i>(Bạn cùng phòng của tôi chắc chắn sử dụng ghế sofa nhiều hơn tôi!).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "eaa251e6-60b0-4410-b277-f88cc29ba18f"
+          },
+          "dapAn": "My roommates",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5283610a-c18e-4a1b-b676-5f505ff2001c"
+          },
+          "dapAn": "definitely",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e49ee5c6-fb79-44a8-87a3-7437e6ef6bcb"
+          },
+          "dapAn": "use",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2b7978c7-a697-424b-931c-5a14caf6727d"
+          },
+          "dapAn": "the couch",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f16a2983-797c-475b-a110-164249969ddc"
+          },
+          "dapAn": "more than",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a6c2a979-57b7-47e1-9f11-3c93a413920c"
+          },
+          "dapAn": "I do!",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ae5cdc7f-bde9-4ba9-b3c9-d0e1ec7b9fb9"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói ai đó bắt đầu cảm thấy thế nào, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ to be + starting to feel + Tính từ. </b>Ta có: <b>I </b><i>(Tôi)</i> là chủ ngữ,<b> ‘m </b>là động từ to be dạng viết tắt của<b> am,</b> <b>better </b><i>(tốt hơn)</i> là tính từ. Câu hoàn chỉnh là <b><span style=\"color:red\">I'm starting to feel better already. </span></b><i>(Tôi bắt đầu cảm thấy tốt hơn rồi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "39527382-25fe-46cc-80bf-1b2b6ee25522"
+          },
+          "dapAn": "I'm",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3f0f0c62-a93f-44ea-97aa-1b76cb432fab"
+          },
+          "dapAn": "starting",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8a0bec45-a2dd-4d33-8ef6-bc23472d64fb"
+          },
+          "dapAn": "to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "aa86f704-c95f-41c8-aec3-116e30241ba1"
+          },
+          "dapAn": "feel",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0cb73771-d056-4d2c-87fe-7453074ac637"
+          },
+          "dapAn": "better",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "146d7574-0c74-4b63-9e32-24d9622cf12c"
+          },
+          "dapAn": "already.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "614e6ee3-ae3f-47b1-98cc-88c3c814614d"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói việc đang diễn ra trong quá khứ, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ to be + Động từ (-ing) bổ ngữ? </b>Ta có: <b>Jeff and Maria</b> là chủ ngữ, <b>were</b> là động từ to be, <b>sitting</b> <i>(đang ngồi)</i> là động từ đuôi ing, <b>on the couch</b><i> (trên ghế sofa) </i>là bổ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">Jeff and Maria were sitting on the couch.</span></b><i> (Jeff và Maria đang ngồi trên ghế sofa.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "254911f0-ed53-41f3-9f7a-2a268fb0c6fc"
+          },
+          "dapAn": "Jeff and",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "16163c50-15dc-4ff3-a165-3237e7ce5926"
+          },
+          "dapAn": "Maria",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cdf971b8-e00d-4c32-818b-ee5762e9063d"
+          },
+          "dapAn": "were",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d87b6d3c-0d5d-44d0-915c-5114358ec4d2"
+          },
+          "dapAn": "sitting",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cb38ff6b-c559-47f9-94eb-569e72a033b9"
+          },
+          "dapAn": "on the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "774cf4f3-087e-4dfc-b6ff-dd6f825a86cf"
+          },
+          "dapAn": "couch.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4e3f66e8-913f-4995-b556-3db10fa5b18b"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói việc đang diễn ra trong quá khứ, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ to be + Động từ (-ing) bổ ngữ? </b>Ta có: Glen là chủ ngữ, <b>was</b> là động từ to be,<b> hanging out with</b> <i>(đang đi chơi với)</i> là cụm động từ trong đó <b>hanging</b> là động từ đuôi ing, <b>a friend who had a cold</b><i> (một người bạn bị cảm lạnh) </i>là bổ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">Glen was hanging out with a friend who had a cold.</span></b><i> (Glen đang đi chơi với một người bạn bị cảm lạnh.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c358cef5-2bef-4ffb-919b-c20985cc2eaf"
+          },
+          "dapAn": "Glen was",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5e01c6e2-b939-458a-bdec-fa65eb72d083"
+          },
+          "dapAn": "hanging",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3711ce78-9977-44af-9112-345691f8432c"
+          },
+          "dapAn": "out with",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0914ae85-de23-4644-9fbf-4b2eb9d85087"
+          },
+          "dapAn": "a friend",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "50318cd6-c6d6-4212-830c-91bd7df4c5c7"
+          },
+          "dapAn": "who had",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1a9fd7ec-7db0-44b0-b283-192ebc9adb25"
+          },
+          "dapAn": "a cold.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8bd780c0-a78e-4d2a-86c2-ef2477e966e1"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đề nghị / đề xuất ai đó về điều gì, chúng ta sẽ dùng cấu trúc: <b>Why don't you + try + Động từ (-ing) + bổ ngữ?</b><i> </i>Ta có: <b>running </b><i>(chạy)</i> là động từ đuôi ing, <b>every other day</b><i> (hai ngày một lần) </i>là bổ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">Why don't you try running every other day?</span></b><i> (Tại sao bạn không thử chạy hai ngày một lần?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "22a6cc16-a9cc-400d-92c2-6e73da607ebd"
+          },
+          "dapAn": "Why don't",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0c3960f2-2dd4-4496-844f-69f3156d3c08"
+          },
+          "dapAn": "you try",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fb2baf41-295c-41d7-9865-0c203dd6ac2a"
+          },
+          "dapAn": "running",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "63e18525-752a-4d2e-a339-6039ad0bf525"
+          },
+          "dapAn": "every",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a7db05a0-ad7f-427d-893d-d8be03c1de41"
+          },
+          "dapAn": "other",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f7fea8d9-43c8-4c14-a9ea-db8952a308cd"
+          },
+          "dapAn": "day?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "626e6e53-e308-43ed-a01d-9fe07187ffdf"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về sự việc vừa diễn ra, chúng ta sẽ dùng cấu trúc thì hiện tại hoàn thành: <b>Chủ ngữ + have / has + Động từ (quá khứ phân từ) + bổ ngữ. </b>Ta có: <b>You</b> <i>(Bạn)</i> là chủ ngữ, <b>‘ve</b> là trợ động từ dạng viết tắt của<b> have</b>, <b>missed </b><i>(lỡ)</i> là động từ quá khứ phân từ, <b>the marathon registration</b><i> (</i>đăng ký chạy điền kinh<i>)</i> là bổ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">You've missed the marathon registration.</span></b><i> (Bạn đã bỏ lỡ đăng ký chạy điền kinh.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "07eeb561-2c6a-46c1-97b9-59cf30b71b50"
+          },
+          "dapAn": "You've",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "45279869-f118-4538-8740-f42657a7016e"
+          },
+          "dapAn": "missed",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e71a80d7-81f6-49d0-b397-3718d87cc62b"
+          },
+          "dapAn": "the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "56c5cee2-2f4f-494a-b460-c9bcf292247b"
+          },
+          "dapAn": "marathon",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bbc5c11e-790e-42d1-baa7-b6189d9fb2d6"
+          },
+          "dapAn": "registration.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4f5f3205-4095-4c05-99ba-a4e31522ad57"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để khuyên ai đó, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + should + Động từ nguyên thể + bổ ngữ. </b>Ta có: <b>You </b><i>(Bạn)</i> là chủ ngữ, <b>buy</b> <i>(mua)</i> là động từ nguyên thể, <b>one of the company raffle tickets<i> </i></b><i>(một trong những vé xổ số của công ty) </i>là bổ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">You should buy one of the company raffle tickets.</span></b> <i>(Bạn nên mua một trong những vé xổ số của công ty.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0acb86e6-bda6-48c9-8499-faf2e330b9be"
+          },
+          "dapAn": "You",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bdec7ccf-1646-40fd-a3ba-c3b55cb051bb"
+          },
+          "dapAn": "should buy",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9cf50b28-d3e4-45d0-bb92-4bdda3a5c69d"
+          },
+          "dapAn": "one of",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "525f4b47-e2c6-460d-bc29-0e0051eceeea"
+          },
+          "dapAn": "the company",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "eca05174-3eb2-42c8-8642-351c6a41d570"
+          },
+          "dapAn": "raffle",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "db3b7df4-36de-4946-9a61-6ea34a8cda53"
+          },
+          "dapAn": "tickets.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e9813923-0701-4525-b4e2-9703ff28e572"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về việc làm nào đó là một ý tưởng tồi, chúng ta sẽ dùng cấu trúc: <b>It's a bad idea to + Động từ nguyên thể + bổ ngữ. </b>Ta có: <b>play </b><i>(chơi)</i> là động từ nguyên thể, <b>tennis with a sprained ankle</b> <i>(tennis with a sprained ankle) </i>là bổ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">It's a bad idea to play tennis with a sprained ankle.</span></b><i> (Chơi quần vợt khi bị bong gân mắt cá chân là một ý kiến ​​tệ.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a65a582d-2cec-45ec-9beb-99e448e53507"
+          },
+          "dapAn": "It's a bad",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6fcd646e-c7f1-4afe-917b-a9974af5dba8"
+          },
+          "dapAn": "idea to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "799bfbf3-bebe-4da5-924e-f6724d24afbc"
+          },
+          "dapAn": "play tennis",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "33a20bf4-ceed-4bfd-9af8-fe979a5f305d"
+          },
+          "dapAn": "with a",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "817a4424-4bb2-4234-ae45-64eecd7c2bff"
+          },
+          "dapAn": "sprained",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cf9f2a63-e5db-4845-adb6-171e9b33f897"
+          },
+          "dapAn": "ankle.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b4783daf-89a0-423a-af73-7e6e5d50f21d"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về sự mong muốn làm việc gì, chúng ta sẽ dùng cấu trúc câu mệnh lệnh: <b>Chủ ngữ + Động từ to be + looking forward to + Động từ (-ing) + bổ ngữ. </b>Ta có: <b>I</b> <i>(Tôi)</i> là chủ ngữ, <b>‘m</b> là động từ to be dạng viết tắt của <b>am</b>, <b>getting back on</b> <i>(được trở lại với) </i>là cụm động từ trong đó <b>getting</b> là động từ đuôi ing, <b>my skateboard</b> <i>(ván trượt của mình)</i> là bổ ngữ<i>.</i> Câu hoàn chỉnh là <b><span style=\"color:red\">I'm looking forward to getting back on my skateboard.</span></b> <i>(Tôi rất mong được trở lại với ván trượt của mình.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "25d7e140-b060-4e0d-bf3a-050dab65134d"
+          },
+          "dapAn": "I'm looking",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "793a4f97-19da-48a6-93a1-876e0c90a8c0"
+          },
+          "dapAn": "forward to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2fe401bf-9369-4f01-99ea-e30b252c8a75"
+          },
+          "dapAn": "getting",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6dfebf23-af5f-40ff-b47a-d9733c1d9f23"
+          },
+          "dapAn": "back on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b037120b-6c7d-481c-99ff-dafcda3b1e00"
+          },
+          "dapAn": "my",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "572ddf05-770a-45af-a1c9-2ef4e73d5791"
+          },
+          "dapAn": "skateboard.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "286d2bd4-8453-4ee4-89b1-711e4afd4a8f"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về số lượng, chúng ta sẽ dùng cấu trúc: <b>There are + Từ chỉ số lượng + Danh từ số nhiều + bổ ngữ. </b>Ta có: <b>many </b><i>(nhiều)</i> là từ chỉ số lượng, <b>apps </b><i>(ứng dụng),</i> <b>that train your brain</b><i> (rèn luyện trí não của bạn) </i>là bổ ngữ. Câu hoàn chỉnh là <b>There are many apps that train your brain. </b><i>(Có rất nhiều ứng dụng rèn luyện trí não của bạn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5191532d-f84b-409c-bb12-06a43851c14d"
+          },
+          "dapAn": "There",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "91a1de86-813d-421c-b9a5-5891ef3f00a6"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9b7a3da3-8d62-4776-b521-b68c6f8a04c2"
+          },
+          "dapAn": "many apps",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a5d58017-2a8f-4817-9894-f7b47f4aa7be"
+          },
+          "dapAn": "that",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "75922d1c-5a91-424b-9108-fe2b14dcbea4"
+          },
+          "dapAn": "train",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ff446859-c414-4cca-835b-894d29c414e0"
+          },
+          "dapAn": "your brain.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b5245343-4a23-48b6-b9b4-c38e98bf6964"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về sự việc nào đó, chúng ta sẽ dùng cấu trúc câu mệnh lệnh: <b>Chủ ngữ + Động từ to be + bổ ngữ. </b>Ta có: <b>Language learning</b> <i>(Học ngôn ngữ) </i>là chủ ngữ, <b>is </b>là động từ to be, <b>an excellent activity to develop your brain</b><i> (một hoạt động tuyệt vời để phát triển trí não của bạn)</i> là bổ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">Language learning is an excellent activity to develop your brain.</span></b><i> (Học ngôn ngữ là một hoạt động tuyệt vời để phát triển trí não của bạn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c0d70645-5e46-44c6-8433-cfdf39b406c6"
+          },
+          "dapAn": "Language",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "605fbf75-aaf9-485f-b8a8-82f2709343f1"
+          },
+          "dapAn": "learning is an",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ab27a341-e948-424a-afdc-b485d0381a3a"
+          },
+          "dapAn": "excellent",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "623010dc-d382-46fe-b403-b9bbeff42572"
+          },
+          "dapAn": "activity",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e0098e95-d2e2-4e32-94b4-47efc02b3d6f"
+          },
+          "dapAn": "to develop",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "27821906-d62d-41da-98af-6e4d210159a0"
+          },
+          "dapAn": "your brain.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b49c82bc-202b-4063-98e7-faac7a0a4d0f"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về sự việc xảy ra trong hiện tại, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ + bổ ngữ. </b>Ta có: <b>Living in a flat</b> <i>(Sống trong một căn hộ) </i>là chủ ngữ, <b>has </b><i>(có)</i> là động từ, <b>some drawbacks</b><i> (một số bất lợi)</i> là bổ ngữ<i>. </i>Câu hoàn chỉnh là <b><span style=\"color:red\">Living in a flat has some drawbacks</span></b>.<i> (Sống trong một căn hộ có một số bất lợi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8bab8b40-91ee-4dd9-a920-fa85cf6242f0"
+          },
+          "dapAn": "Living",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "156ecf72-5b40-4611-98de-07f9714137da"
+          },
+          "dapAn": "in",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5a54fb79-23d8-4bc1-9772-b012614667a4"
+          },
+          "dapAn": "a flat",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "64f9c50e-335b-435e-b314-5121c0cc4b71"
+          },
+          "dapAn": "has",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "68b40c92-155d-4c74-a3c9-84c1116fbb40"
+          },
+          "dapAn": "some",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "03d8538a-397a-4141-bcf4-6a004581dd2a"
+          },
+          "dapAn": "drawbacks.",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

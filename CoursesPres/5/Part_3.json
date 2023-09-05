@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0_1",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "0e297656-cea2-444c-b80a-4ecc582813e4"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Backpack",
+      "yNghia": "Ba lô",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "27d235c7-af5c-4d5f-b3ec-56e5f1609102"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Bicycle",
+      "yNghia": "Xe đạp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2fb71b4c-5df2-4308-926a-3793e0805aef"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Camera",
+      "yNghia": "Máy ảnh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b182d58a-bbd5-4c3f-9028-8e7638edde32"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Chair",
+      "yNghia": "Ghế",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "97a88cf1-e245-4d21-8eaa-5d60bb589715"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "DVD",
+      "yNghia": "Đĩa DVD",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "013284d6-8737-49e1-91d0-1d326eb601d0"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Desk",
+      "yNghia": "Bàn làm việc, bàn học",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9aa58320-4e38-4ffd-9b1b-eccd4609536d"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "E-reader",
+      "yNghia": "Máy đọc sách",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "28a04d99-f62e-43f0-9eb9-c01ca616f1ae"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Key",
+      "yNghia": "Chìa khóa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "deb0f9bb-47b3-4af9-b706-75ca0688c940"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Beautiful",
+      "yNghia": "Đẹp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6dc6b533-2ee5-4539-ac67-88a3f092be11"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Big",
+      "yNghia": "To lớn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "40f094f4-91a2-46e9-8403-9b5e8ebcfc73"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Modern",
+      "yNghia": "Hiện đại",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c17b45d3-172d-461c-87ee-f6d46900970e"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Noisy",
+      "yNghia": "Ồn ào",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6c3446fd-f2f5-4cc5-8b8b-a407fbad6d4a"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Quiet",
+      "yNghia": "Yên tĩnh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "df103ca8-9621-4c5d-96a1-93594fd14774"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Small",
+      "yNghia": "Nhỏ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d69eedef-38f2-4256-8b85-654c8749c0ee"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Ugly",
+      "yNghia": "Xấu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "930eb717-e054-445c-85d8-bc8284587f3d"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Address",
+      "yNghia": "Địa chỉ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0f7fc3f3-fb12-4d02-a87b-cc56bfb1b40b"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Phone number",
+      "yNghia": "Số điện thoại",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c07c99ee-1873-41dc-83b0-f4029c555c62"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Email",
+      "yNghia": "Thư điện tử",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9d24b5c8-9c11-475d-bfa9-f421375222d8"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Look",
+      "yNghia": "Vẻ bề ngoài",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "dc58fe7e-185c-43bf-aa91-24a4a6a881dd"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Noise",
+      "yNghia": "Tiếng ồn",
+      "danhSachDapAn": []
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P7",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "d10e6940-1e27-404a-b448-d391b166e7c3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How can I ____ <span style=\"color:blue\"><b>(help)</b></span> you?",
+      "yNghia": "<b>can </b>là động từ khuyết thiếu, nên động từ đi kèm sẽ được giữ nguyên thể là <b>help</b>. Câu hoàn chỉnh là <b>How can I <span style=\"color:red\">help </span>you?</b> <i>(Tôi có thể <span style=\"color:red\">giúp </span>gì cho bạn?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "33390b21-4918-4053-ae7d-0c18eb065fb9"
+          },
+          "dapAn": "help",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1e9621d0-cd40-4d65-92ff-f5493226c310"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I want to book a ____ <span style=\"color:blue\"><b>(room)</b></span> for Friday night, please.",
+      "yNghia": "<b>a </b>là mạo từ đi với danh từ đếm được số ít, nên danh từ theo sau sẽ là <b>room</b>. Câu hoàn chỉnh là <b>I want to book a <span style=\"color:red\">room </span>for Friday night, please. </b><i>(Tôi muốn đặt một <span style=\"color:red\">phòng </span>cho đêm thứ Sáu, làm ơn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "368d4b22-de50-4f83-9294-1a056df870ab"
+          },
+          "dapAn": "room",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5267c9d9-242d-4757-9128-a8a9d49b2fc3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What kind of room do you ____ <span style=\"color:blue\"><b>(need)</b></span>?",
+      "yNghia": "Trong câu hỏi này, <b>do </b>là trợ động từ được đảo lên trước chủ ngữ <b>you</b>, động từ <b>need </b>được giữ nguyên. Câu hoàn chỉnh là <b>What kind of room do you <span style=\"color:red\">need</span>?</b> <i>(Bạn <span style=\"color:red\">cần</span> loại phòng nào ạ?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "32899a2d-a3df-4a19-8d50-ea2f1b0ac43d"
+          },
+          "dapAn": "need",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "238faae5-54be-4484-be94-72b4b368d15a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <span style=\"color:blue\"><b>(need) </b></span>a single room.",
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít, nên động từ theo sau sẽ được giữ nguyên là <b>need</b>. Câu hoàn chỉnh là <b>I <span style=\"color:red\">need </span>a single room.</b> <i>(Tôi <span style=\"color:red\">cần </span>một phòng đơn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e8073a99-8912-4693-a148-9c0feb4252aa"
+          },
+          "dapAn": "need",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b936f801-318b-4da4-97af-d9a710d7e090"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Let me see if there ____ <span style=\"color:blue\"><b>(be)</b></span> a room available.",
+      "yNghia": "<b>a room</b> là danh từ số ít nên động từ <i>to be</i> đi kèm sẽ là <b>is</b>. Câu hoàn chỉnh là <b>Let me see if there <span style=\"color:red\">is </span>a room available.</b><i><b> </b>(Để tôi kiểm tra xem có phòng trống nào không.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3a5efe13-167b-473f-bd94-218785960936"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "49958ede-d4d5-4777-a707-e4ea080ce416"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What ____ <b><span style=\"color:blue\">(be)</span></b> a double room?",
+      "yNghia": "<b>a double room</b> là chủ ngữ số ít, nên động từ <i>to be</i> đi kèm sẽ là <b>is</b>. Câu hoàn chỉnh là <b>What <span style=\"color:red\">is </span>a double room?</b> <i>(Phòng đôi <span style=\"color:red\">là </span>gì thế?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "42c41f2c-8c83-4b92-8a17-04857604dfcc"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7c4dabf4-1f3c-48e4-b940-849dce4eb2f4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What ____ <span style=\"color:blue\"><b>(be) </b></span>a double room?",
+      "yNghia": "<b>a </b>double room là chủ ngữ số ít, nên động từ <i>to be</i> đi kèm sẽ là <b>is</b>. Câu hoàn chỉnh là <b>What <span style=\"color:red\">is </span>a double room?</b> <i>(Phòng đôi <span style=\"color:red\">là </span>gì thế?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c727b5e6-d24c-41ef-bd04-681499539382"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "71c7e6b0-eeb3-49d7-80db-c8267cbd4477"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It's a room with one ____<span style=\"color:blue\"><b> (bed) </b></span>for two people.",
+      "yNghia": "<b>one </b>mang nghĩa là một, nên danh từ theo sau sẽ là <b>bed</b>. Câu hoàn chỉnh là <b>It's a room with one <span style=\"color:red\">bed </span>for two people.</b><i><b> </b>(Nó là một phòng với một <span style=\"color:red\">giường </span>dành cho hai người.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e10dc4a3-40aa-4dcc-9298-6d0672fe38ec"
+          },
+          "dapAn": "bed",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "43b8bf60-d81e-44c1-a8d0-d104c4f3fa21"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Does it ____ <span style=\"color:blue\"><b>(have) </b></span>windows?",
+      "yNghia": "Đây là dạng câu hỏi <b>Yes/No</b>, <b>Does </b>được đảo lên đầu câu, động từ <b>have </b>được giữ nguyên. Câu hoàn chỉnh là <b>Does it <span style=\"color:red\">have </span>windows?</b> <i>(Nó <span style=\"color:red\">có </span>cửa sổ không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "dd2749b3-a2b4-45c5-b044-a1c6cc7dc016"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1a17f8f4-62ea-4872-a8e2-b4ea6ae3780b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Your bed is next to two big ____ <b><span style=\"color:blue\">(window)</span></b>.",
+      "yNghia": "<b>Two </b>mang nghĩa là hai, nên danh từ theo sau sẽ là <b>windows</b>. Câu hoàn chỉnh là <b>Your bed is next to two big <span style=\"color:red\">windows</span></b>. <i>(Giường của bạn ở cạnh hai <span style=\"color:red\">cửa sổ </span>to.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "786d484b-360d-4551-82bd-a0040e8c3b17"
+          },
+          "dapAn": "windows",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1d1fd70d-730f-4f04-810a-d9404876b5cd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What else does the room ____ <b><span style=\"color:blue\">(have)</span></b> in it?",
+      "yNghia": "<b>The room</b> là chủ ngữ số ít, nên trợ động từ đi kèm là <b>does </b>và động từ được giữ nguyên là <b>have</b>. Câu hoàn chỉnh là <b>What else does the room <span style=\"color:red\">have </span>in it?</b><i> (Trong phòng còn <span style=\"color:red\">có </span>gì khác nữa không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "086371ae-efe2-45d9-af83-12d6b1fa2ca4"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "32253a60-c803-456f-abf1-8306ebb0f133"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There ____ <span style=\"color:blue\"><b>(be) </b></span>a small desk and a chair.",
+      "yNghia": "<b>A small desk</b> là chủ ngữ ngôi thứ ba số ít, nên động từ <i>to be</i> đi kèm sẽ là <b>is</b>. Câu hoàn chỉnh là <b>There <span style=\"color:red\">is </span>a small desk and a chair. </b><i>(Có một cái bàn nhỏ và một cái ghế.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "28360921-65fd-472c-a328-38283654f512"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b291b821-70f0-4de4-aa2a-4dc109758952"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____<span style=\"color:blue\"><b> (Be)</b></span> the room big?",
+      "yNghia": "<b>The room</b> là chủ ngữ số ít, nên động từ <i>to be</i> đi kèm sẽ là <b>is</b>. Câu hoàn chỉnh là<b> <span style=\"color:red\">Is </span>the room big?</b><i> (Căn phòng có lớn không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c70f1064-f416-426e-acdc-ddeb988ff18f"
+          },
+          "dapAn": "Is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "75d96e74-8f33-4b81-bb00-67cb03fafdfc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How much ____ <span style=\"color:blue\"><b>(be)</b></span> it?",
+      "yNghia": "<b>It </b>là chủ ngữ ngôi thứ ba số ít, nên động từ <i>to be</i> đi kèm sẽ là <b>is</b>. Câu hoàn chỉnh là <b>How much <span style=\"color:red\">is </span>it? </b><i>(Nó có giá bao nhiêu vậy?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "18296019-1fb2-4056-bb57-f017950870f4"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a14e5f99-f909-44d4-9d3c-469ecb46585d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It ____<span style=\"color:blue\"><b> (be)</b></span> $100.",
+      "yNghia": "<b>It </b>là chủ ngữ ngôi thứ ba số ít, nên động từ <i>to be </i>đi kèm sẽ là <b>is</b>. Câu hoàn chỉnh là <b>It <span style=\"color:red\">is </span>$100.</b><i><b> (</b>100 đô-la.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "67a261eb-7feb-4068-a509-2683cf4d343f"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3e71826a-1f98-4268-bbb3-4b13781412a9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Please ____<span style=\"color:blue\"><b> (pay)</b></span> at the hotel on Friday.",
+      "yNghia": "Động từ <b>pay </b>đứng đầu câu để tạo thành câu mệnh lệnh, <b>Please </b>được thêm vào trước động từ khi muốn yêu cầu một cách lịch sự. Câu hoàn chỉnh là <b>Please <span style=\"color:red\">pay </span>at the hotel on Friday.</b><i><b> </b>(Bạn vui lòng<span style=\"color:red\"> thanh toán</span> tại khách sạn vào thứ Sáu.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5950e56e-731e-46ef-8cc5-9a0db0e7256d"
+          },
+          "dapAn": "pay",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "938e22f4-e547-4ca7-8a14-14b2b4211feb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____ <span style=\"color:blue\"><b>(Thank)</b></span> you for your help.",
+      "yNghia": "Để cảm ơn ai đó về điều gì, ta dùng cụm <b>Thank you for + danh từ</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">Thank </span>you for your help.</b><i> (<span style=\"color:red\">Cảm ơn </span>sự giúp đỡ của bạn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "24f5190d-b105-4572-bd46-4f5bac263e98"
+          },
+          "dapAn": "Thank",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a561bfb8-6c4e-4f7c-888f-3ee3f1ccc1f3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The watch ____ <b><span style=\"color:blue\">(be) </span></b>between the book and the camera.",
+      "yNghia": "<b>The watch </b>là chủ ngữ số ít, nên động từ <i>to b</i>e đi kèm sẽ là <b>is</b>. Câu hoàn chỉnh là <b>The watch <span style=\"color:red\">is </span>between the book and the camera. </b><i>(Cái đồng hồ <span style=\"color:red\">ở </span>giữa quyển sách và cái máy ảnh.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ed38e858-dfbe-4ce9-8ef6-da00e4d6040e"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4ba7861e-271d-4da9-afcc-59fcdaf7a685"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The DVDs ____ <b><span style=\"color:blue\">(be) </span></b>$15.",
+      "yNghia": "<b>The DVDs</b> là chủ ngữ số nhiều, nên động từ <i>to be</i> đi kèm sẽ là <b>are</b>. Câu hoàn chỉnh là <b>The DVDs <span style=\"color:red\">are </span>$15. </b><i>(Những cái đĩa DVD <span style=\"color:red\">có giá </span>15 đô-la.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4b398ab7-cdd4-4c82-af74-3d74ee3de918"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9337a6b2-95ad-4b2c-934c-bb60b9c81f8c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There ____ <span style=\"color:blue\"><b>(be)</b></span> a bag under the bed.",
+      "yNghia": "<b>A bag</b> là chủ ngữ số ít, nên động từ<i> to be </i>đi kèm sẽ là <b>is</b>. Câu hoàn chỉnh là <b>There <span style=\"color:red\">is </span>a bag under the bed. </b><i>(Có một cái túi ở dưới giường.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bb9c5ae9-ca83-4a69-8e95-a09b49d27b65"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

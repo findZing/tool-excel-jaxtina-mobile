@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "d9db7823-9f0f-41a3-934a-84d929a4b242"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Jayden's a psychologist who studies nonverbal communication, which we will <b>(1) </b>____ on tonight's podcast.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jayden:</b></td>\n                        <td>I hope this topic will be <b>(2) </b>___ and helpful for everyone.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>We know that <b>(3) </b>____ are very important. What can you tell us about communication?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jayden:</b></td>\n                        <td>It can be divided into 3 parts.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>I guess one of them is the actual words we use.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jayden:</b></td>\n                        <td>That's right. Researchers believe that words are only 7% of what we <b>(4) </b>____. </td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Jayden's a psychologist who studies nonverbal communication, which we will <b>(1) </b><span style=\"color:red\"><b>discuss</b></span> <span style=\"color:red\"> </span> on tonight's podcast.<br />\n                        <i>Jayden là một nhà tâm lý học nghiên cứu về giao tiếp phi ngôn ngữ, thứ mà chúng ta sẽ </i><span style=\"color:red\"><i>thảo luận </i></span> <i>trong buổi thu âm tối nay.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jayden:</b></td>\n                        <td>I hope this topic will be <b>(2)</b> <span style=\"color:red\"><b>interesting</b></span> <span style=\"color:red\"> </span> and helpful for everyone.<br />\n                        <i>Tôi hy vọng chủ đề này sẽ </i><span style=\"color:red\"><i>thú vị </i></span> <i>và hữu ích với mọi người.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>We know that <b>(3)</b> <span style=\"color:red\"><b>communication skills</b></span> <span style=\"color:red\"> </span> are very important. What can you tell us about communication?<br />\n                        <i>Chúng ta biết rằng </i><span style=\"color:red\"><i>kỹ năng giao tiếp</i></span> <i> là rất quan trọng. Bạn có thể cho chúng tôi biết điều gì về giao tiếp vậy?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jayden:</b></td>\n                        <td>It can be divided into 3 parts.<br />\n                        <i>Nó có thể được chia thành 3 phần.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>I guess one of them is the actual words we use.<br />\n                        <i>Tôi đoán một trong số đó là những từ ngữ thực tế mà chúng ta sử dụng.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jayden:</b></td>\n                        <td>That's right. Researchers believe that words are only 7% of what we <b>(4)</b> <span style=\"color:red\"><b>communicate</b></span> .<br />\n                        <i>Đúng vậy. Các nhà nghiên cứu tin rằng lời nói chỉ chiếm 7% những gì chúng ta </i><span style=\"color:red\"><i>giao tiếp</i></span> <i>. </i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "discuss",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "87e3f7ff-2511-4ceb-b6db-dc55b158595d"
+          }
+        },
+        {
+          "dapAn": "interesting",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a00f4640-9a9d-4864-8c13-d1ebf76467ce"
+          }
+        },
+        {
+          "dapAn": "communication skills",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "386c2cdc-18f2-4665-a8a5-daafcd4b0cc1"
+          }
+        },
+        {
+          "dapAn": "communicate",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0e582816-3726-4d02-83ef-ff23af222430"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8ad6e2bb-4130-44f8-ae89-1a26f2d7837b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>What percentage is it? </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jayden:</b></td>\n                        <td>This is not the biggest part. That's around 38% of what we communicate.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>The third part is body language, <b>(1) </b>____?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jayden:</b></td>\n                        <td>Yes, the rest, around 55%, is about body language, gestures and <b>(2) </b>____. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>I'm surprised that words occupy much less than body language.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jayden:</b></td>\n                        <td>Many people feel like you. That's why they make <b>(3) </b>____ during a conversation.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Is there any general advice you can give our audiences about <b>(4) </b>____ body language?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jayden:</b></td>\n                        <td>You should check when a person's words and body language aren't saying the same thing.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>What percentage is it? <br />\n                        <i>Nó chiếm bao nhiêu phần trăm?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jayden:</b></td>\n                        <td>This is not the biggest part. That's around 38% of what we communicate.<br />\n                        <i>Đây không phải là phần lớn nhất. Đó là khoảng 38% những gì chúng ta giao tiếp.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>The third part is body language, <b>(1)</b> <span style=\"color:red\"><b>isn't it</b></span> ?<br />\n                        <i>Phần thứ ba là ngôn ngữ cơ thể </i><span style=\"color:red\"><i>phải không</i></span> <i>?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jayden:</b></td>\n                        <td>Yes, the rest, around 55%, is about body language, gestures and <b>(2)</b> <span style=\"color:red\"><b>facial expressions</b></span> . <br />\n                        <i>Đúng vậy, phần còn lại, khoảng 55%, là về ngôn ngữ cơ thể, cử chỉ và </i><span style=\"color:red\"><i>nét mặt</i></span> <i>.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>I'm surprised that words occupy much less than body language.<br />\n                        <i>Tôi ngạc nhiên rằng lời nói chiếm ít hơn nhiều so với ngôn ngữ cơ thể.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jayden:</b></td>\n                        <td>Many people feel like you. That's why they make <b>(3)</b> <span style=\"color:red\"><b>many mistakes</b></span> <span style=\"color:red\"> </span> during a conversation.<br />\n                        <i>Nhiều người cũng cảm thấy giống như bạn vậy. Đó là lý do tại sao họ mắc </i><span style=\"color:red\"><i>nhiều lỗi </i></span> <i>trong một cuộc trò chuyện.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Is there any general advice you can give our audiences about <b>(4)</b> <span style=\"color:red\"><b>understanding</b></span> <span style=\"color:red\"> </span> body language?<br />\n                        <i>Có lời khuyên chung nào bạn có thể đưa ra cho khán giả của chúng tôi về việc </i><span style=\"color:red\"><i>hiểu </i></span> <i>ngôn ngữ cơ thể không?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jayden:</b></td>\n                        <td>You should check when a person's words and body language aren't saying the same thing.<br />\n                        <i>Bạn nên kiểm tra xem khi nào lời nói và ngôn ngữ cơ thể của một người không nói lên những điều giống nhau.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "isn't it",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "225a6f58-87ac-4946-9ada-51fdee94d0b1"
+          }
+        },
+        {
+          "dapAn": "facial expressions",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "59e70af3-20e7-41a6-969d-12a056e15205"
+          }
+        },
+        {
+          "dapAn": "many mistakes",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f689b2bf-6277-471a-9948-a9504e8933bd"
+          }
+        },
+        {
+          "dapAn": "understanding",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "54e650f8-2fd8-4fa3-837c-93f659c9fad3"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "29f7563f-9452-413e-8c41-d970e8695c56"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<b>Donald</b><br />\n\"Hey everyone! I need some advice. After <b>(1)</b> ____ a really long time trying to decide on a<br />\nnew cell phone, I finally <b>(2)</b> ____ one at the mall. That might sound great, but the problem is<br />\nthat I'm already <b>(3)</b> ____ my decision! It's a really good phone, and I had to <b>(4)</b> ____ to save up the money to buy it, but I'm not sure I got the right one.\"",
+      "yNghia": "<b>Donald</b><br />\n\"Hey everyone! I need some advice. After <b>(1)</b> <span style=\"color:red\"><b>spending</b></span> <span style=\"color:red\"> </span> a really long time trying to decide on a new cell phone, I finally <b>(2)</b> <span style=\"color:red\"><b>bought</b></span> <span style=\"color:red\"> </span> one at the mall. That might sound great, but the problem is that I'm already <b>(3)</b> <span style=\"color:red\"><b>regretting</b></span> <span style=\"color:red\"> </span> my decision! It's a really good phone, and I had to <b>(4)</b> <span style=\"color:red\"><b>make an effort</b></span> <span style=\"color:red\"> </span> to save up the money to buy it, but I'm not sure I got the right one.\"<br />\n<i>\"Này mọi người! Tôi cần một số lời khuyên. Sau khi </i><span style=\"color:red\"><i>tốn </i></span> <i>một thời gian rất dài để cố gắng quyết định </i><span style=\"color:red\"><i>mua </i></span> <i>một điện thoại di động mới, cuối cùng tôi đã mua một chiếc ở trung tâm thương mại. Điều đó nghe có vẻ tuyệt vời, nhưng vấn đề là tôi đã </i><span style=\"color:red\"><i>hối hận </i></span> <i>về quyết định của mình! Đó là một chiếc điện thoại thực sự tốt, và tôi đã phải </i><span style=\"color:red\"><i>nỗ lực </i></span> <i>để tiết kiệm tiền để mua nó, nhưng tôi không chắc mình đã chọn đúng.\"</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "spending",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "9a099475-ec9f-438a-b96f-98d3b14efe5f"
+          }
+        },
+        {
+          "dapAn": "bought",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6a67ec05-1945-4ea8-a5df-796471b01e5c"
+          }
+        },
+        {
+          "dapAn": "regretting",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "593fb1e2-2b3e-486d-b192-54b289df1c32"
+          }
+        },
+        {
+          "dapAn": "make an effort",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "791ff0b0-afd6-498d-b14d-4c67a3ed9e1d"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b97db9ce-611d-4026-9212-24adb1093f26"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<b>Sabrina</b><br />\n\"Hi Donald! Hey look, don't worry about it. The same thing happened to me! But I've read<br />\nabout this, and apparently, it's quite a common <b>(1) </b>____ issue and it's not about the<br />\nphone you bought! It's called \"buyer's remorse,\" and it's <b>(2) </b>____ you are presented with<br />\nso many options that any you eventually choose seems like the wrong one! Apparently,<br />\nonce you have <b>(3) </b>____ buying something significant, like a cell phone, you only pay<br />\n<b>(4) </b>____ to all the good things about the cell phones you didn't buy!\"",
+      "yNghia": "<b>Sabrina </b><br />\n\"Hi Donald! Hey look, don't worry about it. The same thing happened to me! But I've read about this, and apparently, it's quite a common <b>(1)</b> <span style=\"color:red\"><b>psychological</b></span> <span style=\"color:red\"> </span> issue and it's not about the phone you bought! It's called \"buyer's remorse,\" and it's <b>(2)</b> <span style=\"color:red\"><b>when</b></span> <span style=\"color:red\"> </span> you are presented with so many options that any you eventually choose seems like the wrong one! Apparently, once you have <b>(3)</b> <span style=\"color:red\"><b>decided on</b></span> <span style=\"color:red\"> </span> buying something significant, like a cell phone, you only pay <b>(4)</b> <span style=\"color:red\"><b>attention</b></span> <span style=\"color:red\"> </span> to all the good things about the cell phones you didn't buy!\"<br />\n<i>\"Xin chào Donald! Này, đừng lo lắng về nó. Điều tương tự cũng xảy ra với tôi! Nhưng tôi đã đọc</i><br />\n<i>về điều này, và rõ ràng, đó là một vấn đề </i><span style=\"color:red\"><i>tâm lý </i></span> <i>khá phổ biến và nó không liên quan đến chiếc điện thoại bạn đã mua! Nó được gọi là \"sự hối hận của người mua\" và đó là </i><span style=\"color:red\"><i>khi </i></span> <i>bạn được giới thiệu rất nhiều lựa chọn mà cuối cùng bất kỳ lựa chọn nào mà bạn chọn đều có vẻ như sai! Rõ ràng, một khi bạn đã </i><span style=\"color:red\"><i>quyết định </i></span> <i>mua thứ gì đó quan trọng, chẳng hạn như điện thoại di động, bạn chỉ </i><span style=\"color:red\"><i>chú ý </i></span> <i>đến tất cả những điều tốt đẹp về những chiếc điện thoại di động mà bạn đã không mua!\"</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "psychological ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2cb7eae0-b37e-42c7-b331-bbc72ecae406"
+          }
+        },
+        {
+          "dapAn": "when ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6e163c0f-ccbe-461e-98b6-85d11501fed6"
+          }
+        },
+        {
+          "dapAn": "decided on ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "bfee9381-2df9-4a4a-8d76-dfe5dc001cb7"
+          }
+        },
+        {
+          "dapAn": "attention",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "159fdbfe-0395-41f7-8391-fe392998bb8c"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4b4f1eed-70ef-4f68-a03e-076bbf4318ff"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<b>Milo</b><br />\n\"Yeah, Sabrina, I've heard of that, too! When you are constantly <b>(1) </b>____ your<br />\nexpectations to what you've chosen, you <b>(2) </b>____ regret your decision. You also<br />\nignore the evidence of good things about the one you chose, even if you know your<br />\ndecision was the right one. Don't worry about it. Companies know about \"buyer's<br />\nremorse,\" which is why your cell phone probably has a <b>(3) </b>____! I'm sure your<br />\nnew cell phone is fine anyway. Just <b>(4) </b>____ all that research you did before you made your<br />\npurchase!\"",
+      "yNghia": "<b>Milo</b><br />\n\"Yeah, Sabrina, I've heard of that, too! When you are constantly <b>(1)</b> <span style=\"color:red\"><b>comparing</b></span> <span style=\"color:red\"> </span> your expectations to what you've chosen, you <b>(2)</b> <span style=\"color:red\"><b>inevitably</b></span> <span style=\"color:red\"> </span> regret your decision. You also ignore the evidence of good things about the one you chose, even if you know your decision was the right one. Don't worry about it. Companies know about \"buyer's remorse,\" which is why your cell phone probably has a <b>(3)</b> <span style=\"color:red\"><b>money-back guarantee</b></span> ! I'm sure your new cell phone is fine anyway. Just <b>(4)</b> <span style=\"color:red\"><b>focus on</b></span> <span style=\"color:red\"> </span> all that research you did before you made your purchase!\"<br />\n<i>\"Ừ, Sabrina, tôi cũng đã nghe nói về điều đó! Khi bạn liên tục </i><span style=\"color:red\"><i>so sánh </i></span> <i>các kỳ vọng của bạn với những gì bạn đã chọn, </i><span style=\"color:red\"><i>chắc chắn </i></span> <i>bạn sẽ hối hận về quyết định của mình. Bạn cũng lờ đi minh chứng về những điều tốt đẹp về thứ bạn đã chọn, ngay cả khi bạn biết quyết định của mình là đúng đắn. Đừng lo lắng về điều đó. Các công ty đều biết về \"sự hối hận của người mua\", đó là lý do tại sao điện thoại di động của bạn có thể được </i><span style=\"color:red\"><i>bảo đảm hoàn lại tiền</i></span> <i>! Tôi chắc chắn rằng điện thoại di động mới của bạn vẫn ổn. Chỉ cần </i><span style=\"color:red\"><i>tập trung vào </i></span> <i>tất cả những nghiên cứu mà bạn đã thực hiện trước khi mua hàng!\"</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "comparing",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "444ed119-754f-42a0-97d3-c5def05b039a"
+          }
+        },
+        {
+          "dapAn": "inevitably ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8629a50c-b56f-4e29-bb0b-c83b8ea752b7"
+          }
+        },
+        {
+          "dapAn": "money-back guarantee",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "918c1e9b-3d9b-4ca7-a64c-f29389959c99"
+          }
+        },
+        {
+          "dapAn": "focus on ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "84e66762-762a-428c-a23b-f854b8c4ba6f"
+          }
+        }
+      ]
+    }
+  ]
+}

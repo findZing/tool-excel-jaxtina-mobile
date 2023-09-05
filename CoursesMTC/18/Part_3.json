@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "0310ba49-ce29-415b-b23c-c7306f62bc4b"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Reporter",
+      "yNghia": "Phóng viên",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c6c4de68-6b0e-4897-af11-b6821cd9a173"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Translator",
+      "yNghia": "Phiên dịch viên, biên dịch viên",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "33a6e011-c21a-4126-a589-48f64000ff23"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Potential",
+      "yNghia": "Tiềm năng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3f3feeff-642c-434c-ba20-e525fb5a9e90"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Expert",
+      "yNghia": "Chuyên gia",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "87a73340-0e6a-4878-bb49-d9910990cc17"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Media",
+      "yNghia": "Truyền thông",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "fa2e351c-9016-4471-bc80-f5616b888a1d"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Freelance",
+      "yNghia": "Làm nghề tự do",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c7a7cee4-b0f9-42e4-95c6-30551a392442"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Provide",
+      "yNghia": "Cung cấp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "59a61adc-9ec7-480a-b3e4-d39cc605f7f1"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Foreign correspondent",
+      "yNghia": "Phóng viên thường trực tại nước ngoài",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7404cf97-fcca-497f-b53a-f02d2bd6f8f7"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Investigative journalist",
+      "yNghia": "Nhà báo điều tra",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "13f1b32c-4bf5-4f1f-972e-345fa94aec7e"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Photojournalist",
+      "yNghia": "Phóng viên ảnh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "dc6839e1-f558-45b9-a66f-5cb84421ba93"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Sports journalist",
+      "yNghia": "Phóng viên thể thao",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8e604df0-ae01-4462-95d3-d5e7f8bb99fd"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "News anchor",
+      "yNghia": "Người dẫn chương trình thời sự",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9b0f7312-bef7-48c4-a453-0f9203d22989"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Newspaper editor",
+      "yNghia": "Biên tập viên báo chí",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "88562c41-ddce-4c54-838a-b2d9b99c4168"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "A degree of truth",
+      "yNghia": "Một phần nào đó của sự thật, có phần đúng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8ec56560-c490-4ea6-be41-2282e038cdc5"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "International relations",
+      "yNghia": "Quan hệ quốc tế",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "18124790-6556-4ab0-98e1-472e27a29a61"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Gather information",
+      "yNghia": "Thu thập thông tin",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "cca83095-8406-4291-9e82-3624c9de5da0"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Tournament",
+      "yNghia": "Giải đấu, giải đua",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "fc023987-96c1-4b85-b73b-ac51d343d717"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Possibility",
+      "yNghia": "Khả năng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "fb7b417a-07f7-4cad-b04f-221fe30976e7"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Suspected",
+      "yNghia": "Nghi ngờ, đáng ngờ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a25b2b31-0599-4109-a386-274be7c0b53d"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Allergy",
+      "yNghia": "Dị ứng",
+      "danhSachDapAn": []
+    }
+  ]
+}

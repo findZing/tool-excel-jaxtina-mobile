@@ -1,0 +1,647 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "VOCABULARY",
+  "videoUrl": "4SKILLS_PRE_S_L15/vocabulary.mp4",
+  "newWords": [
+    {
+      "word": "dress",
+      "loaiTu": "n",
+      "phatAm": "/dres/",
+      "meaning": "váy",
+      "viDu": "This dress is dressy.\n(Chiếc váy này sang trọng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/210.dress.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/210.dress.png"
+    },
+    {
+      "word": "skirt",
+      "loaiTu": "n",
+      "phatAm": "/skɜːt/",
+      "meaning": "chân váy",
+      "viDu": "This skirt is too short.\n(Chiếc chân váy này quá ngắn.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/211.skirt.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/211.skirt.png"
+    },
+    {
+      "word": "jacket",
+      "loaiTu": "n",
+      "phatAm": "/ˈdʒækɪt/",
+      "meaning": "áo khoác",
+      "viDu": "That jacket is expensive.\n(Chiếc áo khoác kia đắt.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/212.jacket.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/212.jacket.png"
+    },
+    {
+      "word": "suit",
+      "loaiTu": "n",
+      "phatAm": "/suːt/",
+      "meaning": "bộ com-lê",
+      "viDu": "This suit is too loose.\n(Bộ com-lê này rất rộng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/213.suit.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/213.suit.png"
+    },
+    {
+      "word": "pants",
+      "loaiTu": "n",
+      "phatAm": "/pænts/",
+      "meaning": "quần",
+      "viDu": "This pants are too tight.\n(Quần này rất chật.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/214.pants.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/214.pants.png"
+    },
+    {
+      "word": "jeans",
+      "loaiTu": "n",
+      "phatAm": "/dʒiːnz/",
+      "meaning": "quần jean",
+      "viDu": "This jeans are new.\n(Quần jean này mới.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/215.jeans.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/215.jeans.png"
+    },
+    {
+      "word": "shirt",
+      "loaiTu": "n",
+      "phatAm": "/ʃɜːt/",
+      "meaning": "áo sơ mi",
+      "viDu": "This shirt is too long.\n(Chiếc áo sơ mi này quá dài.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/216.shirt.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/216.shirt.png"
+    },
+    {
+      "word": "t-shirt",
+      "loaiTu": "n",
+      "phatAm": "/ˈtiː ʃɜːt/",
+      "meaning": "áo phông",
+      "viDu": "That t-shirt is cheap.\n(Cái áo phông kia rẻ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/217.t-shirt.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/217.t-shirt.png"
+    },
+    {
+      "word": "shoes",
+      "loaiTu": "n",
+      "phatAm": "/ʃuːz/",
+      "meaning": "đôi giầy",
+      "viDu": "This shoes are white.\n(Đôi giầy này có màu trắng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/218.shoes.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/218.shoes.png"
+    },
+    {
+      "word": "boots",
+      "loaiTu": "n",
+      "phatAm": "/buːts/",
+      "meaning": "đôi bốt",
+      "viDu": "This boots are black.\n(Đôi bốt này có màu đen.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/219.boots.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/219.boots.png"
+    },
+    {
+      "word": "loose",
+      "loaiTu": "adj",
+      "phatAm": "/luːs/",
+      "meaning": "rộng, lỏng lẻo",
+      "viDu": "This suit is too loose.\n(Bộ com-lê này rất rộng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/220.loose.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/220.loose.png"
+    },
+    {
+      "word": "tight",
+      "loaiTu": "adj",
+      "phatAm": "/taɪt/",
+      "meaning": "chật",
+      "viDu": "This pants are too tight.\n(Quần này rất chật.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/221.tight.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/221.tight.png"
+    },
+    {
+      "word": "dressy",
+      "loaiTu": "adj",
+      "phatAm": "/ˈdres.i/",
+      "meaning": "sang trọng",
+      "viDu": "This dress is dressy.\n(Chiếc váy này sang trọng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/222.dressy.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/222.dressy.png"
+    },
+    {
+      "word": "casual",
+      "loaiTu": "adj",
+      "phatAm": "/ˈkæʒuəl/",
+      "meaning": "tự nhiên, đời thường",
+      "viDu": "People wear casual clothes every day.\n(Mọi người mặc trang phục đời thường hàng ngày.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/223.casual.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/223.casual.png"
+    },
+    {
+      "word": "long",
+      "loaiTu": "adj",
+      "phatAm": "/lɒŋ/",
+      "meaning": "dài",
+      "viDu": "This shirt is too long.\n(Chiếc áo sơ mi này quá dài.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/224.long.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/224.long.png"
+    },
+    {
+      "word": "short",
+      "loaiTu": "adj",
+      "phatAm": "/ʃɔːt/",
+      "meaning": "ngắn",
+      "viDu": "This skirt is too short.\n(Chiếc chân váy này quá ngắn.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/225.short.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/225.short.png"
+    },
+    {
+      "word": "cheap",
+      "loaiTu": "adj",
+      "phatAm": "/tʃiːp/",
+      "meaning": "rẻ",
+      "viDu": "That t-shirt is cheap.\n(Cái áo phông kia rẻ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/226.cheap.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/226.cheap.png"
+    },
+    {
+      "word": "expensive",
+      "loaiTu": "adj",
+      "phatAm": "/ɪkˈspensɪv/",
+      "meaning": "đắt đỏ",
+      "viDu": "That jacket is expensive.\n(Chiếc áo khoác kia đắt đỏ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/227.expensive.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/227.expensive.png"
+    }
+  ],
+  "scriptVideo": [
+    {
+      "start": "0:00:26",
+      "end": "0:00:31",
+      "english": "Clothes",
+      "subScriptEnglish": "Clothes",
+      "matchedNewWords": [],
+      "vietnamese": "Trang phục"
+    },
+    {
+      "start": "0:00:40",
+      "end": "0:00:44",
+      "english": "Directions",
+      "subScriptEnglish": "Directions",
+      "matchedNewWords": [],
+      "vietnamese": "Phương hướng"
+    },
+    {
+      "start": "0:00:53",
+      "end": "0:00:57",
+      "english": "Clothes",
+      "subScriptEnglish": "Clothes",
+      "matchedNewWords": [],
+      "vietnamese": "Trang phục"
+    },
+    {
+      "start": "0:01:06",
+      "end": "0:01:18",
+      "english": "dress",
+      "subScriptEnglish": " _dress_ ",
+      "matchedNewWords": [
+        "dress"
+      ],
+      "vietnamese": "váy"
+    },
+    {
+      "start": "0:01:23",
+      "end": "00:01:34",
+      "english": "jacket",
+      "subScriptEnglish": " _jacket_ ",
+      "matchedNewWords": [
+        "jacket"
+      ],
+      "vietnamese": "áo khoác"
+    },
+    {
+      "start": "0:01:38",
+      "end": "0:01:48",
+      "english": "skirt",
+      "subScriptEnglish": " _skirt_ ",
+      "matchedNewWords": [
+        "skirt"
+      ],
+      "vietnamese": "chân váy"
+    },
+    {
+      "start": "0:01:59",
+      "end": "0:02:10",
+      "english": "T-shirt",
+      "subScriptEnglish": " _T-shirt_ ",
+      "matchedNewWords": [
+        "t-shirt"
+      ],
+      "vietnamese": "áo phông"
+    },
+    {
+      "start": "0:02:19",
+      "end": "0:02:30",
+      "english": "boots",
+      "subScriptEnglish": " _boots_ ",
+      "matchedNewWords": [
+        "boots"
+      ],
+      "vietnamese": "đôi bốt"
+    },
+    {
+      "start": "0:02:39",
+      "end": "0:02:49",
+      "english": "suit",
+      "subScriptEnglish": " _suit_ ",
+      "matchedNewWords": [
+        "suit"
+      ],
+      "vietnamese": "com-lê"
+    },
+    {
+      "start": "0:02:56",
+      "end": "0:03:06",
+      "english": "shirt",
+      "subScriptEnglish": " _shirt_ ",
+      "matchedNewWords": [
+        "shirt"
+      ],
+      "vietnamese": "áo sơ mi"
+    },
+    {
+      "start": "0:03:14",
+      "end": "0:03:25",
+      "english": "shoes",
+      "subScriptEnglish": " _shoes_ ",
+      "matchedNewWords": [
+        "shoes"
+      ],
+      "vietnamese": "đôi giày"
+    },
+    {
+      "start": "0:03:32",
+      "end": "0:03:41",
+      "english": "pants",
+      "subScriptEnglish": " _pants_ ",
+      "matchedNewWords": [
+        "pants"
+      ],
+      "vietnamese": "quần dài"
+    },
+    {
+      "start": "0:03:50",
+      "end": "0:04:00",
+      "english": "jeans",
+      "subScriptEnglish": " _jeans_ ",
+      "matchedNewWords": [
+        "jeans"
+      ],
+      "vietnamese": "quần bò"
+    },
+    {
+      "start": "0:04:15",
+      "end": "0:04:21",
+      "english": "Adjectives describing clothes",
+      "subScriptEnglish": "Adjectives describing clothes",
+      "matchedNewWords": [],
+      "vietnamese": "Các tính từ mô tả trang phục"
+    },
+    {
+      "start": "0:04:31",
+      "end": "0:04:45",
+      "english": "loose",
+      "subScriptEnglish": " _loose_ ",
+      "matchedNewWords": [
+        "loose"
+      ],
+      "vietnamese": "rộng hoặc lỏng lẻo"
+    },
+    {
+      "start": "0:04:56",
+      "end": "0:05:06",
+      "english": "tight",
+      "subScriptEnglish": " _tight_ ",
+      "matchedNewWords": [
+        "tight"
+      ],
+      "vietnamese": "chật"
+    },
+    {
+      "start": "0:05:08",
+      "end": "0:05:23",
+      "english": "dressy",
+      "subScriptEnglish": " _dressy_ ",
+      "matchedNewWords": [
+        "dressy"
+      ],
+      "vietnamese": "sang trọng"
+    },
+    {
+      "start": "0:05:32",
+      "end": "0:05:41",
+      "english": "casual",
+      "subScriptEnglish": " _casual_ ",
+      "matchedNewWords": [
+        "casual"
+      ],
+      "vietnamese": "tự nhiên, đời thường"
+    },
+    {
+      "start": "0:05:52",
+      "end": "0:05:57",
+      "english": "short",
+      "subScriptEnglish": " _short_ ",
+      "matchedNewWords": [
+        "short"
+      ],
+      "vietnamese": "ngắn"
+    },
+    {
+      "start": "0:06:00",
+      "end": "0:06:05",
+      "english": "long",
+      "subScriptEnglish": " _long_ ",
+      "matchedNewWords": [
+        "long"
+      ],
+      "vietnamese": "dài"
+    },
+    {
+      "start": "0:06:07",
+      "end": "0:06:13",
+      "english": "short",
+      "subScriptEnglish": " _short_ ",
+      "matchedNewWords": [
+        "short"
+      ],
+      "vietnamese": "ngắn"
+    },
+    {
+      "start": "0:06:13",
+      "end": "0:06:20",
+      "english": "long",
+      "subScriptEnglish": " _long_ ",
+      "matchedNewWords": [
+        "long"
+      ],
+      "vietnamese": "dài"
+    },
+    {
+      "start": "0:06:29",
+      "end": "0:06:33",
+      "english": "expensive",
+      "subScriptEnglish": " _expensive_ ",
+      "matchedNewWords": [
+        "expensive"
+      ],
+      "vietnamese": "đắt"
+    },
+    {
+      "start": "0:06:41",
+      "end": "0:06:45",
+      "english": "cheap",
+      "subScriptEnglish": " _cheap_ ",
+      "matchedNewWords": [
+        "cheap"
+      ],
+      "vietnamese": "rẻ"
+    },
+    {
+      "start": "0:06:48",
+      "end": "0:06:57",
+      "english": "expensive",
+      "subScriptEnglish": " _expensive_ ",
+      "matchedNewWords": [
+        "expensive"
+      ],
+      "vietnamese": "đắt"
+    },
+    {
+      "start": "0:06:58",
+      "end": "0:07:05",
+      "english": "cheap",
+      "subScriptEnglish": " _cheap_ ",
+      "matchedNewWords": [
+        "cheap"
+      ],
+      "vietnamese": "rẻ"
+    },
+    {
+      "start": "0:07:16",
+      "end": "0:07:19",
+      "english": "Clothes",
+      "subScriptEnglish": "Clothes",
+      "matchedNewWords": [],
+      "vietnamese": "Trang phục"
+    }
+  ],
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:00:49",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P1",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "There’s a big ____________________.",
+            "_id": "3af8c05a-eaad-4302-93f3-a7020c312f1f",
+            "soundCauhoi": "4SKILLS_PRE_S_L15/sounds/video-practice/ 1.mp3",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "hospital on the right",
+                "_id": "a98ed642-3d36-44c9-8e43-d6314cf69a0e"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "hotel on the right",
+                "_id": {
+                  "$oid": "bed3389f-9f52-440e-b458-b4ef40d7e526"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "hotel on the left",
+                "_id": {
+                  "$oid": "bc2c7995-b03b-423a-b955-4ab13dffbf07"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "The train station is ____________________.",
+            "_id": "f9b53044-a692-459a-9ad6-7f57d15e6c38",
+            "soundCauhoi": "4SKILLS_PRE_S_L15/sounds/video-practice/ 2.mp3",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "in front of the hotel",
+                "_id": "9258bbb7-6f07-4639-8ae9-6d4aec77b0fd"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "next to the hotel",
+                "_id": {
+                  "$oid": "a888aa04-5e2c-4210-a60f-e7c7dd2fd968"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "next to the hospital",
+                "_id": {
+                  "$oid": "908bb172-e69e-4e38-ba29-1fbca32ffba8"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:00:49",
+      "timeEnd": "0:04:11.912",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Boots",
+            "_id": {
+              "$oid": "0f8b67fe-4bd3-4fdc-a7ba-583cff374e5e"
+            },
+            "yNghia": "Đôi bốt"
+          },
+          {
+            "cauHoi": "Jeans",
+            "_id": {
+              "$oid": "af1035d3-7f03-4428-99eb-d7a0b2efbcb4"
+            },
+            "yNghia": "Quần jean"
+          },
+          {
+            "cauHoi": "Skirt",
+            "_id": {
+              "$oid": "b45a0bf8-da3d-43ad-9fd0-f0aa3a8aed96"
+            },
+            "yNghia": "Chân váy"
+          },
+          {
+            "cauHoi": "Dress",
+            "_id": {
+              "$oid": "79bfc633-3545-4388-b923-4ba479580ac0"
+            },
+            "yNghia": "Váy"
+          },
+          {
+            "cauHoi": "Pants",
+            "_id": {
+              "$oid": "1e58a879-b117-48a5-8ddd-05d80934c73c"
+            },
+            "yNghia": "Quần dài"
+          },
+          {
+            "cauHoi": "Suit",
+            "_id": {
+              "$oid": "69801bf3-e5ac-47c0-9836-6c4b2418b81e"
+            },
+            "yNghia": "Bộ com-lê"
+          },
+          {
+            "cauHoi": "Jacket",
+            "_id": {
+              "$oid": "f59e46fe-2a18-4c19-82a3-3c1e363638d4"
+            },
+            "yNghia": "Áo khoác"
+          },
+          {
+            "cauHoi": "Shoes",
+            "_id": {
+              "$oid": "b626df4c-7860-4b87-a897-18e15ea7211a"
+            },
+            "yNghia": "Đôi giày"
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:04:11.912",
+      "timeEnd": "0:07:11.444",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "7d179480-bef1-40a2-94dc-b1b126a0287a",
+                "dapAn": "The pants"
+              },
+              {
+                "_id": "646158e7-0966-446a-8d9a-c26a755df75d",
+                "dapAn": "are"
+              },
+              {
+                "_id": "22bc3181-f301-4cdf-8a6c-2399680ab53e",
+                "dapAn": "casual."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "b2956133-5f7a-46ca-8b94-e54069f2c41e",
+                "dapAn": "These"
+              },
+              {
+                "_id": "89809446-5e9d-43b2-95ff-cc5aedae17a7",
+                "dapAn": "shoes"
+              },
+              {
+                "_id": "6143d4ce-d1ff-4dfc-a269-6adcb467f7da",
+                "dapAn": "are very"
+              },
+              {
+                "_id": "d4c36514-6e0f-48b8-9acf-881787a4f3f8",
+                "dapAn": "cheap."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "2e4d0c6c-4679-481a-ad10-e029a123f126",
+                "dapAn": "I like"
+              },
+              {
+                "_id": "fcc81779-abc6-4a28-9326-f04a4d181ddd",
+                "dapAn": "loose"
+              },
+              {
+                "_id": "a65e2d54-4ae4-438a-ad47-44226277eb26",
+                "dapAn": "jeans."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "dac4c325-c028-429d-bd5b-1a844916f448",
+                "dapAn": "It's"
+              },
+              {
+                "_id": "1614eced-3a48-4282-b17c-c0c77793d892",
+                "dapAn": "a long"
+              },
+              {
+                "_id": "fa3c26d4-186c-41f0-9163-6697439355d1",
+                "dapAn": "skirt."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

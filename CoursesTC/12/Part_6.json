@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "9aae6ea5-e7a2-4c00-a425-67a1729926d7"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "eb1d7477-b9e7-466b-a855-0ceae679ddce"
+          },
+          "cauHoi": "Where are they now?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "54166b82-a5c0-4922-a464-a40930e6e60a"
+              },
+              "dapAn": "A. Alan’s hometown",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "9d50c492-ab80-4e4b-8ac2-b1ef48d59bb6"
+              },
+              "dapAn": "B. Alan’s school",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "dc3d1f0b-a8c2-4a69-9d9b-732ea9fd37c3"
+              },
+              "dapAn": "C. Alan’s office",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "151fd1b4-7dab-4ebc-8098-569c79704cca"
+              },
+              "dapAn": "D. Alan’s apartment",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "5fe61d5e-6224-469f-9ae0-6d761fa605cd"
+          },
+          "cauHoi": "Is Alan’s hometown beautiful?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7098d1c1-16ec-4f5e-a66d-a9f95eba72cd"
+              },
+              "dapAn": "A. No, it isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "208ae602-1564-4284-9b07-1e6d77367122"
+              },
+              "dapAn": "B. No, it is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "aa0cb9cb-f5f3-4c60-bbdb-178ce743fb92"
+              },
+              "dapAn": "C. Yes, it isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "27cc4671-b46e-44a0-a400-92d5c09938f9"
+              },
+              "dapAn": "D. Yes, it is.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "0dee90bb-e719-438d-a38d-680e37f22615"
+          },
+          "cauHoi": "Has Alan’s hometown changed a lot since the 1980s?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "cc456d63-d534-4ca4-9e97-ca97d624cfa5"
+              },
+              "dapAn": "A. No, it has.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f17ce793-b28d-4e1d-99fa-f3c844a05a74"
+              },
+              "dapAn": "B. No, it hasn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "27f769bc-0505-4290-a609-8d6598744c13"
+              },
+              "dapAn": "C. Yes, it has.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "cd5246ce-1d16-47c4-a374-c7f9f373c29b"
+              },
+              "dapAn": "D. Yes, it hasn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "1a35662c-25f0-4fc6-adf4-8b17b1bb6fc6"
+          },
+          "cauHoi": "What led to the change?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d65be8eb-50c0-4ee5-a2f1-10413e921e23"
+              },
+              "dapAn": "A. the factories opened",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "79eafce3-2cca-4ec1-a25c-5d2738cbb8fa"
+              },
+              "dapAn": "B. the factories closed",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "0d35b007-cdd6-4bad-996a-1f5c5ebe1cab"
+              },
+              "dapAn": "C. the parks closed",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "203a64b0-d8a4-4d1d-a7ad-a77282530d66"
+              },
+              "dapAn": "D. the parks opened",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Good afternoon. I'm in Pittsburgh, Pennsylvania. Thanks for inviting me to visit your hometown, Alan.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Allan:</b></td>\n                        <td>You are welcome. Is it beautiful here?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Yes, it's so stunning and clean.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Allan:</b></td>\n                        <td>But it has changed a lot.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Really? How has it changed?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Allan:</b></td>\n                        <td>Pittsburgh was a very industrial city in the past, and it was really polluted.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Oh, wow. How long has it been this way?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Allan:</b></td>\n                        <td>Since the 1980s, I think. That's when the factories closed and the city started to change.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Where are they now?</b> <i>(Họ đang ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>Host: Good afternoon. I'm in Pittsburgh, Pennsylvania. Thanks for inviting me to visit your hometown, Alan.</b> <i>(Chào buổi chiều. Tôi đang ở Pittsburgh, Pennsylvania. Cảm ơn vì đã mời tôi đến thăm quê hương của bạn, Alan.).</i> Nên đáp án là <b><span style=\"color:red\">A. Alan's hometown</span> </b><i>(quê hương của Alan)</i>.<br /> <br /> <b>2.</b> Với câu hỏi <b>Is Alan's hometown beautiful?</b> <i>(Quê hương của Alan có đẹp không?),</i> <b></b>câu trong bài đọc liên quan là <b>Host: Yes, it's so stunning and clean.</b> <i>(Có, rất đẹp và sạch sẽ.).</i> Nên đáp án là <b><span style=\"color:red\">D. Yes, it is.</span> </b><i>(Có.)</i>.<br /> <br /> <b>3.</b> Với câu hỏi <b>Has Alan's hometown changed a lot since the 1980s?</b> <i>(Quê hương của Alan đã thay đổi nhiều kể từ những năm 1980 phải không?),</i> <b></b>câu trong bài đọc liên quan là <b>Alan:</b> <b>But it has changed a lot.</b> <i>(Nhưng nó đã thay đổi rất nhiều rồi.).</i> Nên đáp án là <b><span style=\"color:red\">C. Yes, it has.</span> </b><i>(Đúng)</i>.<br /> <br /> <b>4.</b> Với câu hỏi <b>What led to the change?</b> <i>(Điều gì đã dẫn tới sự thay đổi?),</i> <b></b>câu trong bài đọc liên quan là <b>Alan:</b> <b>That's when the factories closed and the city started to change.</b> <i>(Đó là khi các nhà máy đóng cửa và thành phố bắt đầu thay đổi.).</i> Nên đáp án là <b><span style=\"color:red\">B. the factories closed</span> </b><i>(các nhà máy đóng cửa)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "37eb53b7-ec1c-4889-8b6a-406ad66b289f"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "b74f049f-c7d6-4187-b7fb-814d533d8422"
+          },
+          "cauHoi": "What kind of truck is being discussed by speakers?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "5b622301-ae90-41d6-a14f-9f91a8da14fc"
+              },
+              "dapAn": "A. a clothes truck",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4772ed75-09c9-49ad-9597-f9646ed2c636"
+              },
+              "dapAn": "B. a tool truck",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e067f182-12ad-4ff7-8698-94ca09150b46"
+              },
+              "dapAn": "C. a food truck",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "738eb222-35d2-4df4-b692-9a958604f5a5"
+              },
+              "dapAn": "D. a fruit truck",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "0f1b3b7c-ad7c-4a9d-92f2-a81fbf0b9011"
+          },
+          "cauHoi": "Is the host familiar with the truck?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3ee10aca-d531-4cba-ae9c-bbf0e33f0b95"
+              },
+              "dapAn": "A. No, he is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "715c040b-f5dd-49fe-8166-63ef18777cb5"
+              },
+              "dapAn": "B. No, he isn’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b69964cf-6cc5-4880-970c-fbac4131b593"
+              },
+              "dapAn": "C. Yes, he is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7b5deadb-622c-45a5-b791-f9c5eaf14893"
+              },
+              "dapAn": "D. Yes, he isn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "6a093230-ecdd-47c8-973a-dd915d637112"
+          },
+          "cauHoi": "Where have those trucks become popular?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9e0df679-c990-4f1d-8d27-6f74bd3c0b6f"
+              },
+              "dapAn": "A. the US",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e3dc9213-9995-4485-ac1c-5853f110d9b6"
+              },
+              "dapAn": "B. Brazil",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a2b18a77-c2c3-4215-a224-99c8c7bedb25"
+              },
+              "dapAn": "C. China",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3f0204d3-874b-42e6-9447-84e841f27c5b"
+              },
+              "dapAn": "D. Thailand",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "00a53213-63de-467a-82b8-d570869376e7"
+          },
+          "cauHoi": "Are these kinds of food expensive?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "08545983-5554-40be-b805-67d2005b832b"
+              },
+              "dapAn": "A. Yes, they are.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6d9eeb34-7588-46f8-9961-bea7a1c0d271"
+              },
+              "dapAn": "B. Yes, they aren’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7ec1428a-415f-4f0b-9cbb-e4410f111a95"
+              },
+              "dapAn": "C. No, they are.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7356fae3-64f3-47b1-a2a8-6802c486cb44"
+              },
+              "dapAn": "D. No, they aren’t.",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "</table>\n<br />\n<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>That's really cool. Hey, what are all those people doing around that truck?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Allan:</b></td>\n                        <td>Oh, that's a food truck. Do you have those in your city?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>No, we don't. It's so weird to me.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Allan:</b></td>\n                        <td>Food trucks have become very popular in the US. They have a lot of different kinds of food, and it's fast and not very expensive.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What kind of truck is being discussed by speakers?</b> <i>(Loại xe tải nào đang được bàn luận bởi những người nói?),</i> <b></b>câu trong bài đọc liên quan là <b>that's a food truck</b> <i>(đó là một chiếc xe bán đồ ăn lưu động).</i> Nên đáp án là <b><span style=\"color:red\">C. a food truck</span> </b><i>(một chiếc xe bán đồ ăn lưu động)</i>.<br /> <br /> <b>2.</b> Với câu hỏi <b>Is the host familiar with the truck?</b> <i>(Người dẫn chương trình có quen với xe tải đó không?),</i> <b></b>câu trong bài đọc liên quan là <b>It's so weird to me.</b> <i>(Tôi thấy nó rất lạ.).</i> Nên đáp án là <b><span style=\"color:red\">B. No, he isn't.</span> </b><i>(Không, anh ấy không.)</i>.<br /> <br /> <b>3.</b> Với câu hỏi <b>Where have those trucks become popular?</b> <i>(Những chiếc xe tải đó đã trở nên phổ biến ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>Food trucks have become very popular in the US.</b> <i>(Xe bán đồ ăn lưu động đã trở nên rất phổ biến ở Mỹ.).</i> Nên đáp án là <b><span style=\"color:red\">A. the US</span> </b><i>(Mỹ).</i><br /> <br /> <b>4.</b> Với câu hỏi <b>Are these kinds of food expensive?</b> <i>(Những loại thức ăn này có đắt không?),</i> <b></b>câu trong bài đọc liên quan là <b>They have a lot of different kinds of food, and it's fast and not very expensive.</b> <i>(Họ có rất nhiều loại thức ăn khác nhau, nó rất nhanh và không đắt lắm.).</i> Nên đáp án là <b><span style=\"color:red\">D. No, they aren't.</span> </b><i>(Không, chúng không đắt.)</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ff225845-cd46-456e-9588-f6d35c22c53f"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "cc7890af-1bdf-4cab-863d-a493ffe82168"
+          },
+          "cauHoi": "Where do people usually hold their wedding ceremony?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "87ef0f53-6934-46a8-a11c-039ce9c9894e"
+              },
+              "dapAn": "A. restaurant",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "420f4238-5d46-4ed6-802f-728e6150ad97"
+              },
+              "dapAn": "B. the air",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "55d49581-cd7c-41d6-babb-c3e5651ca9cb"
+              },
+              "dapAn": "C. house",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c8f1ec13-a73f-432c-9649-546b0b8e5538"
+              },
+              "dapAn": "D. church",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "b1092524-2994-44dc-b1ee-b30f818c1abc"
+          },
+          "cauHoi": "Where did Oscar and Beth get married?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "0549f138-83b8-4fc0-92eb-ae4d2956b849"
+              },
+              "dapAn": "A. in a palace",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c557a75f-f35c-412e-8e5f-be4bf0e71853"
+              },
+              "dapAn": "B. in a bus",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b83f5cde-6d73-43dc-ade5-468e6c1d3884"
+              },
+              "dapAn": "C. in the air",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "54f9692f-ffcb-4a25-b4df-0f6bf968bfcb"
+              },
+              "dapAn": "D. in a car",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "782199e2-3227-4e0c-bf93-f2661e135e78"
+          },
+          "cauHoi": "Is their wedding ceremony usual?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7fab2c45-d7ec-42b0-9db5-4d47070f4bf4"
+              },
+              "dapAn": "A. No, it is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8a5ab1d2-e19b-4b5f-8ffd-06f77e61af1f"
+              },
+              "dapAn": "B. No, it isn’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "2080b239-f30b-4b8b-b511-ee43c5c4dba1"
+              },
+              "dapAn": "C. Yes, it is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "54b9ce9f-194d-4889-a0b8-4ef32bf7586e"
+              },
+              "dapAn": "D. Yes, it isn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "354170e6-5744-47e4-a081-95c6c720a9c8"
+          },
+          "cauHoi": "What did they do in the sky?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a9ebb731-6f2c-4487-845d-68cc028fe7f2"
+              },
+              "dapAn": "A. jumped out of a plane",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3e9374b6-8d74-444d-8529-8c3a99ebb661"
+              },
+              "dapAn": "B. sang a song",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "419d4ee9-a3c4-4c8c-8d0d-fb7dd97f72de"
+              },
+              "dapAn": "C. ate a pizza",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ea9f9ead-751b-4fb3-9cf3-2b6d852118e0"
+              },
+              "dapAn": "D. danced",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Most people get married in a church, but my guests today got married 16,000 feet in the air! Meet Oscar and Beth, a wedding couple who decided to have a very unusual wedding ceremony. This lovely couple, along with a minister, the best man and the maid of honor, all jumped out of a plane and had their ceremony in the sky!",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Where do people usually hold their wedding ceremony?</b> <i>(Mọi người thường tổ chức lễ cưới ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>Most people get married in a church, ...</b> <i>(Hầu hết mọi người làm đám cưới ở một nhà thờ, ...).</i> Nên đáp án là <b><span style=\"color:red\">D. church</span> </b><i>(nhà thờ)</i>.<br /> <br /> <b>2.</b> Với câu hỏi <b>Where did Oscar and Beth get married?</b> <i>(Oscar và Beth đã làm đám cưới ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>...</b> <b>but my guests today got married 16,000 feet in the air</b> <i>(nhưng những vị khách của tôi đã làm đám cưới trên không trung cao 16,000 feet).</i> Nên đáp án là <b><span style=\"color:red\">C. in the air</span> </b><i>(trên không trung)</i>.<br /> <br /> <b>3.</b> Với câu hỏi <b>Is their wedding ceremony usual?</b> <i>(Lễ cưới của họ có như bình thường không?),</i> <b></b>câu trong bài đọc liên quan là <b>Meet Oscar and Beth, a wedding couple who decided to have a very unusual wedding ceremony.</b><i>(Hãy gặp Oscar và Beth, một cặp đôi đã quyết định làm một lễ cưới khác biệt.).</i> Nên đáp án là <b><span style=\"color:red\">B. No, it isn't.</span> </b><i>(Không.).</i><br /> <br /> <b>4.</b> Với câu hỏi <b>What did they do in the sky?</b> <i>(Họ đã làm gì trên bầu trời?),</i> <b></b>câu trong bài đọc liên quan là <b>all jumped out of a plane and ...</b> <i>(tất cả mọi người đã nhảy ra khỏi một chiếc máy bay và ...).</i> Nên đáp án là <b><span style=\"color:red\">A. jumped out of a plane</span> </b><i>(đã nhảy ra khỏi một chiếc máy bay)</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c00136fb-4113-47fb-87b4-d7ce446a8bef"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "12e59e49-1b40-49b2-997e-cb8835cb90bf"
+          },
+          "cauHoi": "Which group were Oscar and his wife with?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "1b67516d-fca7-4336-bfaf-b147035097e8"
+              },
+              "dapAn": "A. a skydiving group",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a0de3f9a-86e0-41ad-8d47-0e5e0efe8cca"
+              },
+              "dapAn": "B. a writing group",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1c22e360-7ddd-487c-a76f-1c751e0e7780"
+              },
+              "dapAn": "C. a reading group",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c1ca630e-3949-41be-b134-3922d997a283"
+              },
+              "dapAn": "D. a dancing group",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f29fedc2-712d-4098-93f2-a301971aa5b8"
+          },
+          "cauHoi": "Where did Oscar ask his wife to marry him?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ed704e77-62d7-4ca2-b0ea-600e901812d7"
+              },
+              "dapAn": "A. at a restaurant",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d82812a4-d2be-4f8c-9f1a-74b8fe767396"
+              },
+              "dapAn": "B. at his brother’s party",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "da071646-20b3-44a6-83f7-f54806bed96e"
+              },
+              "dapAn": "C. at his sister’s party",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3629abad-d203-40af-9920-fcbb81af532b"
+              },
+              "dapAn": "D. at his friend’s party",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "43491c35-2c4a-4f36-94b4-4e2636af2db3"
+          },
+          "cauHoi": "Did Oscar joke that they should get married while skydiving?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "82db9360-152e-4791-86a9-a16aa768f8eb"
+              },
+              "dapAn": "A. Yes, he didn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8451374b-2499-448d-ba47-246da7c4497e"
+              },
+              "dapAn": "B. Yes, he did.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "984b516f-51f8-42cc-891f-939c806a1cec"
+              },
+              "dapAn": "C. No, he didn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7f64e07e-1db4-40eb-ae60-13d283f30139"
+              },
+              "dapAn": "D. No, he did.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "3029f2de-f15e-4129-be2d-a395c443a99b"
+          },
+          "cauHoi": "What did they decide to do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "594370e0-8997-46cb-8e2c-8756f99733a4"
+              },
+              "dapAn": "A. broke up",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "91047e29-1197-4f6d-bd8c-a781042f1e2c"
+              },
+              "dapAn": "B. took a trip",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "34f99ce6-13f5-42fa-a7f6-970e35a33d77"
+              },
+              "dapAn": "C. got married",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e5638c06-728c-41c0-bb4b-99588b40b0dd"
+              },
+              "dapAn": "D. divorced",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Oscar and I met while we were with a skydiving group. We started dating and later fell in love. One day at a friend’s party, Oscar joked that we should get married while skydiving. I said yes! He wasn’t actually asking me to marry him, but he really liked my answer, so we decided to do it.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Which group were Oscar and his wife with?</b> <i>(Oscar và vợ của anh ấy đã gặp nhau ở trong nhóm nào?),</i> <b></b>câu trong bài đọc liên quan là <b>Oscar and I met while we were with a skydiving group.</b> <i>(Oscar và tôi đã gặp nhau khi đang cùng ở trong một nhóm nhảy dù.).</i> Nên đáp án là <b><span style=\"color:red\">A. a skydiving group</span> </b><i>(một nhóm nhảy dù)</i>.<br /> <b>2.</b> Với câu hỏi <b>Where did Oscar ask his wife to marry him?</b> <i>(Oscar đã cầu hôn vợ của anh ấy ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>One day at a friend's party, Oscar joked that we should get married while skydiving.</b> <i>(Vào một ngày tại bữa tiệc của người bạn, Oscar đã nói đùa rằng chúng tôi nên làm lễ cưới trong khi nhảy dù.).</i> Nên đáp án là <b><span style=\"color:red\">D. at his friend's party</span> </b><i>(tại một bữa tiệc của một người bạn của anh ấy)</i>.<br /> <b>3.</b> Với câu hỏi <b>Did Oscar joke that they should get married while skydiving?</b> <i>(Có phải Oscar đã nói đùa về việc họ nên cưới trong khi nhảy dù không?),</i> <b></b>câu trong bài đọc liên quan là <b>One day at a friend's party, Oscar joked that we should get married while skydiving.</b> <i>(Vào một ngày tại bữa tiệc của người bạn, Oscar đã nói đùa rằng chúng tôi nên làm lễ cưới trong khi nhảy dù.).</i> Nên đáp án là <b><span style=\"color:red\">B. Yes, he did.</span> </b><i>(Đúng.)</i>.<br /> <b>4.</b> Với câu hỏi <b>What did they decide to do?</b> <i>(Họ đã quyết định làm gì?),</i> <b></b>câu trong bài đọc liên quan là <b>He wasn't actually asking me to marry him, but he really liked my answer, so we decided to do it.</b> <i>(Anh ấy đã không thực sự cầu hôn tôi, nhưng anh ấy đã rất thích câu trả lời của tôi, vì vậy chúng tôi đã quyết định làm đám cưới.).</i> Nên đáp án là <b><span style=\"color:red\">C. got married</span> </b><i>(cưới)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3089e393-d604-4fe6-b58e-620372d20f32"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "8a5f6cc6-7104-415e-bf67-1deed5012be1"
+          },
+          "cauHoi": "Does the speaker want to sing in front of people?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "5f1ff1e9-3e24-457a-9da6-8ed7f1dd769a"
+              },
+              "dapAn": "A. No, he does.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d8807c4a-ef18-4c72-ab72-e53b4874bf04"
+              },
+              "dapAn": "B. No, he doesn’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "505d9af0-2e0f-49dd-b58a-fa21d71031b8"
+              },
+              "dapAn": "C. Yes, he does.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b78aa835-6a5a-4067-b1e4-5682c2d1c94c"
+              },
+              "dapAn": "D. Yes, he doesn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "fd5065ec-f27d-42de-ba6e-e5344e847e62"
+          },
+          "cauHoi": "Has the speaker ridden an elephant?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "239dfed1-8004-45e1-a051-2621ae371dae"
+              },
+              "dapAn": "A. No, he hasn’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "93644d68-c0bf-4f9f-8b2f-7cfe9a5d27c6"
+              },
+              "dapAn": "C. Yes, he has.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "58a6e0c2-47db-4d3a-903a-2fbf7756798c"
+              },
+              "dapAn": "B. No, he has.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b0588b15-71cc-4ff1-b8e0-fcb1f141f03f"
+              },
+              "dapAn": "D. Yes, he hasn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "39003bad-ed68-487d-b8e0-f7fe4f3a115f"
+          },
+          "cauHoi": "What would the speaker love to do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9b57fada-31ce-4b89-9e54-e89fb9d5371e"
+              },
+              "dapAn": "A. skydiving",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6c9b4bc7-40e5-4354-ab2c-118e42da368a"
+              },
+              "dapAn": "B. listening to music",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e2466b09-bcaf-4513-b59a-85af4044039e"
+              },
+              "dapAn": "C. watching TV",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "61e1d1a2-99bd-4160-b8d9-7831ee6542cb"
+              },
+              "dapAn": "D. travelling",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "c6eaa123-6e1f-43ef-8bf2-4f41c83babe1"
+          },
+          "cauHoi": "What do people think about Paris?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6d454f1b-4d65-4e59-a3d7-1e98ee10c8b1"
+              },
+              "dapAn": "A. It’s busy.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "14c2efe0-e25b-4480-9e83-3e10154d3e30"
+              },
+              "dapAn": "B. It’s ugly.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d06247cd-e1d2-4f78-8daa-ce7628675102"
+              },
+              "dapAn": "C. It’s beautiful.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "c5f63244-a831-4c2a-bd8d-e9b168d7372f"
+              },
+              "dapAn": "D. It’s boring.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "I’d never want to sing in front of people, and I’ve never ridden an elephant either, but I don’t really want to. I’d love to do some more travelling. I’ve never been to Paris. They say that it’s beautiful.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Does the speaker want to sing in front of people?</b> <i>(Người nói có muốn hát trước mặt mọi người không?),</i> <b></b>câu trong bài đọc liên quan là <b>I'd never want to sing in front of people</b> <i>(Tôi không bao giờ muốn hát trước mặt mọi người.).</i> Nên đáp án là <b><span style=\"color:red\">B. No, he doesn't.</span> </b><i>(Không.)</i>.<br /> <br /> <b>2.</b> Với câu hỏi <b>Has the speaker ridden an elephant?</b> <i>(Người nói đã cưỡi voi bao giời chưa?),</i> <b></b>câu trong bài đọc liên quan là <b>I've never ridden an elephant either</b> <i>(Tôi cũng chưa bao giờ cưỡi voi).</i> Nên đáp án là <b><span style=\"color:red\">A. No, he hasn't.</span> </b><i>(Chưa.)</i>.<br /> <br /> <b>3.</b> Với câu hỏi <b>What would the speaker love to do?</b> <i>(Người nói muốn làm gì?),</i> <b></b>câu trong bài đọc liên quan là <b>I'd love to do some more traveling.</b> <i>(Tôi thích đi du lịch.).</i> Nên đáp án là <b><span style=\"color:red\">D. travelling</span> </b><i>(đi du lịch)</i>.<br /> <br /> <b>4.</b> Với câu hỏi <b>What do people think about Paris?</b> <i>(Mọi người nghĩ gì về Pa-ri?),</i> <b></b>câu trong bài đọc liên quan là <b>I've never been to Paris. They say that it's beautiful.</b> <i>(Tôi chưa bao giờ tới Pa-ri. Họ nói nó rất đẹp.).</i> Nên đáp án là <b><span style=\"color:red\">C. It's beautiful.</span> </b><i>(Nó đẹp.)</i>.",
+      "danhSachDapAn": []
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "0822f03a-2f27-414b-9b91-14bdb86c2466"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Welcome to our _____________ day at Rashford Zoo.",
+      "yNghia": "Welcome to our <span style=\"color:red\">open</span> day at Rashford Zoo.<br />\n<i>Chào mừng đến với ngày <span style=\"color:red\">mở cửa </span>của chúng tôi tại Sở thú Rashford.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8e5bd91c-e986-4bb5-8110-afc2f1431b6c"
+          },
+          "dapAn": "open",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "92317782-1e1f-476b-a939-88cb4b9e83ad"
+          },
+          "dapAn": "birthday",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "81d345ab-ab8d-4965-8a22-374e044771b0"
+          },
+          "dapAn": "anniversary",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_1. Welcome ... Zoo.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_1. Welcome ... Zoo.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "49a78363-a434-4248-a2a6-faa9d6be0625"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "When you visit a zoo, do you see animals from many different _______________?",
+      "yNghia": "When you visit a zoo, do you see animals from many different <span style=\"color:red\">types of places</span>?<br />\n<i>Khi bạn đến thăm sở thú, bạn có thấy động vật</i><i> đến</i><i> từ <span style=\"color:red\">nhiều loại địa điểm </span>khác nhau không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "47a9138a-01cb-4b83-9da3-35c5981567e0"
+          },
+          "dapAn": "places",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5ad796fe-d753-4114-a946-46fbbf20e5b0"
+          },
+          "dapAn": "types of places",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ca8b377f-70f5-474b-ba1f-c98232d9896d"
+          },
+          "dapAn": "countries",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_2. When ... places.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_2. When ... places.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "88e27ca2-8013-4f87-806e-a639eabec4ec"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Our ________ are providing an environment for each animal that is similar to where they live in the wild.",
+      "yNghia": "Our <span style=\"color:red\">duties</span> are providing an environment for each animal that is similar to where they live in the wild.<br />\n<i><span style=\"color:red\">Nhiệm vụ </span></i><i>của chúng tôi là cung cấp môi trường cho từng loài động vật tương tự như nơi chúng sống trong tự nhiên.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "184a71ec-18c2-4660-9a71-b06044a75c62"
+          },
+          "dapAn": "work",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a15a7769-c3cb-4c01-9d0f-87f4ec214a2c"
+          },
+          "dapAn": "duties",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4d047c4f-9dd8-4189-9b4b-54269e7210ab"
+          },
+          "dapAn": "job",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_3. Our ... wild.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_3. Our ... wild.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a0907548-33b4-48a3-b9eb-90e9bd6fe401"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You can provide ________ of ice and snow for the penguins, can’t you?",
+      "yNghia": "You can provide <span style=\"color:red\">miles</span> of ice and snow for the penguins, can't you?<br />\n<i>Bạn có thể cung cấp <span style=\"color:red\">hàng dặm </span>băng và tuyết cho chim cánh cụt phải không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "24d8593d-fcf4-4bd7-8c4a-2b582a97234f"
+          },
+          "dapAn": "place",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "22a3bc4d-db5a-4448-ac82-4f412ab24162"
+          },
+          "dapAn": "rooms",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0bc99ab4-203e-4af7-a1f4-413f1033353d"
+          },
+          "dapAn": "miles",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_4. You ... you.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_4. You ... you.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f253e913-6afb-45aa-a487-011219a91413"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I also see a lot of __________ around the zoo.",
+      "yNghia": "I also see a lot of <span style=\"color:red\">posters</span> around the zoo.<br />\n<i>Tôi cũng thấy rất nhiều <span style=\"color:red\">áp phích </span>xung quanh sở thú.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f427d919-fa32-4345-b4e5-f98c1fca8400"
+          },
+          "dapAn": "posters",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f655683a-b23f-486b-858b-040097000892"
+          },
+          "dapAn": "ads",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3f6f7891-2b34-4797-a294-0c25c9740630"
+          },
+          "dapAn": "banners",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_5. I ... zoo.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_5. I ... zoo.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1fead92a-7301-4509-a6c2-170e68aacd56"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We want to _________ people about the dangers some animals face in the wild.",
+      "yNghia": "We want to <span style=\"color:red\">educate</span> people about the dangers some animals face in the wild.<br />\r\n<i>Chúng tôi muốn <span style=\"color:red\">giáo dục </span>mọi người về sự nguy hiểm mà một số loài động vật phải đối mặt trong tự nhiên.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bf456349-5c3e-47c1-871f-71c593744307"
+          },
+          "dapAn": "teach",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "837c4bd7-f766-42a6-bcbc-ae05f4f1fe72"
+          },
+          "dapAn": "educate",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "20340ad8-c33d-4fd6-bc33-3a3303cd98ab"
+          },
+          "dapAn": "train",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_6. We ... wild.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_6. We ... wild.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6f66c093-2ff6-4f40-9f03-a39934a80dab"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They will talk about the ________ to animals' habitats and what we can do to help.",
+      "yNghia": "They will talk about the <span style=\"color:red\">threats</span> to animals' habitats and what we can do to help.<br />\r\n<i>H</i><i>ọ sẽ nói về <span style=\"color:red\">các mối đe dọa </span>đối </i><i>tới </i><i>môi trường sống của động vật và chúng ta có thể làm gì để giúp đỡ.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b00db196-233c-4a24-a078-48e71765788a"
+          },
+          "dapAn": "danger",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5e4e3f0a-bbca-4a46-817b-1bbf28fb0a74"
+          },
+          "dapAn": "threats",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c57c8dde-7c79-4ba6-ae6c-00d35dc36ed1"
+          },
+          "dapAn": "hazard",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_7. They ... help.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_7. They ... help.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "32b268bf-c9ed-4f45-9a4b-1fe87ee40f07"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you organize any other _________ that help animals?",
+      "yNghia": "Do you organize any other <span style=\"color:red\">programs</span> that help animals?<br />\r\n<i>Bạn có tổ chức bất kỳ <span style=\"color:red\">chương trình </span>nào khác giúp đỡ động vật không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ffa10248-a9ee-4101-ad66-0665505ac07d"
+          },
+          "dapAn": "programs",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "694e9be9-788c-4b07-a790-1b1c7294ea0e"
+          },
+          "dapAn": "project",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e78a26af-e16f-4a59-b301-55c67d0c741b"
+          },
+          "dapAn": "plan",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_8. Do ... animals.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_8. Do ... animals.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c3913729-ed91-405e-8f4a-69798ae98f11"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Together with other __________, we have animal breeding programs.",
+      "yNghia": "Together with other <span style=\"color:red\">zoos</span>, we have animal breeding programs.<br />\n<i>Phối hợp cùng</i><i> với <span style=\"color:red\">các sở thú </span>khác, chúng tôi có các chương trình nhân giống động vật</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ac580c19-988a-4433-a585-e1dcb4b18db4"
+          },
+          "dapAn": "zoos",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "58119e50-1073-411b-b694-2aa4b236cff7"
+          },
+          "dapAn": "colleagues",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1c47d8a5-9967-4b2d-80e8-5b7f0aa4ffcf"
+          },
+          "dapAn": "friends",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_9. Together ... programs.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_9. Together ... programs.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "8aa60f24-742a-47d4-934f-a75b017e6364"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you give more _________ about them?",
+      "yNghia": "Can you give more <span style=\"color:red\">details</span> about them?<br />\n<i>Bạn có thể cho biết thêm <span style=\"color:red\">chi tiết </span>về </i><i>chúng không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2dea0d65-8795-4e53-86cf-c69fc9281274"
+          },
+          "dapAn": "information",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bf4d3259-3cc0-4666-8f80-665fadf6e9f5"
+          },
+          "dapAn": "details",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bc4f6781-4826-4abd-b70a-161e03ce95fe"
+          },
+          "dapAn": "facts",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_10. Can ... them.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_10. Can ... them.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e2bc6f04-dec2-46e0-baf7-9fab3776be34"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We make sure there are enough animals in zoos to keep the _________ going.",
+      "yNghia": "We make sure there are enough animals in zoos to keep the <span style=\"color:red\">species</span> going.<br />\r\n<i>Chúng tôi đảm bảo có đủ động vật trong vườn thú để duy trì <span style=\"color:red\">các loài</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ee1e7b67-d0d6-4aef-81d8-befbf99f38a9"
+          },
+          "dapAn": "species",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e25baeb2-e9a1-4d21-ab3f-d3d9f703cc7a"
+          },
+          "dapAn": "breeds",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6a568cbb-216e-4dd2-9806-602a89143cf7"
+          },
+          "dapAn": "creatures",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_11. We ... going.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_11. We ... going.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f791182e-804e-48d4-9ae4-f26f89937cb6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you take animals from zoos and release them into _________?",
+      "yNghia": "Do you take animals from zoos and release them into <span style=\"color:red\">the wild</span>?<br />\r\n<i>Bạn có thả </i><i>động vật từ vườn thú</i><i> vào <span style=\"color:red\">tự nhiên </span>không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "36c1a672-34c3-465d-b54c-c85890e49bc8"
+          },
+          "dapAn": "the wild",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0d4740ad-146b-4453-b987-2ff3af151bf5"
+          },
+          "dapAn": "their habitats",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e49ea907-7a81-40f2-b6ae-8354dbc952ca"
+          },
+          "dapAn": "their homes",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_12. Do ... wild.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_12. Do ... wild.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5dc6dbde-4762-45b7-aa53-e5be5a7a3b43"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Thank you for answering my _________.",
+      "yNghia": "Thank you for answering my <span style=\"color:red\">questions</span>.<br />\n<i>Cám ơn vì đã trả lời</i><i> </i><i><span style=\"color:red\">các </span></i><i><span style=\"color:red\">câu hỏi </span></i><i>của tôi.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "32bb3e8c-a0ac-4c5c-bdae-1c845f923060"
+          },
+          "dapAn": "query",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "271d6ccd-7111-4786-aa0f-2b3d036756f3"
+          },
+          "dapAn": "wonders",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6a9c4b00-6cbe-455c-b20f-cdac7478f4c7"
+          },
+          "dapAn": "questions",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_13. Thank ... questions.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_13. Thank ... questions.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "883804dd-c851-483d-8aa4-74f839b182a7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Scientists _________ that octopus is about as intelligent as three-year-old child.",
+      "yNghia": "Scientists <span style=\"color:red\">estimate</span> that<b> </b>octopus is about as intelligent as<b> </b>three-year-old child.<br />\n<i>Các nhà khoa học </i><i><span style=\"color:red\">ước tính </span></i><i>rằng bạch tuộc thông minh như một đứa trẻ ba tuổi.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a1afd056-ac95-415e-b830-2a31fdf14170"
+          },
+          "dapAn": "think",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e2220009-232d-4029-a254-0b0bfb44f411"
+          },
+          "dapAn": "estimate",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "978fb943-91c3-4e84-b583-f7723decbf59"
+          },
+          "dapAn": "announce",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_14. Scientists .. child.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_14. Scientists .. child.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b909990a-a2d6-430b-897f-8db0fd66b539"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "A few weeks after the accident, he was told that he was __________.",
+      "yNghia": "A few weeks after the accident, he was told that he was <span style=\"color:red\">blind</span>.<br />\r\n<i>Vài tuần sau vụ tai nạn, anh được thông báo rằng mình bị <span style=\"color:red\">mù</span>.<i/>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "39ec987d-1209-4b8a-b1c3-c653ba723378"
+          },
+          "dapAn": "dumb",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8b604351-c060-4085-8aff-dff1f4609b88"
+          },
+          "dapAn": "blind",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a9e293d7-1ae1-49ca-a424-0704379a1371"
+          },
+          "dapAn": "deaf",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_15. A ... blind.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_15. A ... blind.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ba9c4dbe-1c08-47ce-83eb-87efffa776cd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Young __________ nowadays are so competitive.",
+      "yNghia": "Young <span style=\"color:red\">athletes</span> nowadays are so competitive.<br />\n<i><span style=\"color:red\">Các vận động viên </span></i><i>trẻ ngày nay rất cạnh tranh.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "86770180-f8c7-4959-9bcb-aca8a2c901eb"
+          },
+          "dapAn": "athletes",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c13c446a-aaa3-4b19-ad83-3bac39ee83ef"
+          },
+          "dapAn": "people",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "80be7175-ee93-460f-bdae-53f9fdd3b2fe"
+          },
+          "dapAn": "students",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_16. Young ... competitive.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_16. Young ... competitive.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a13a69f0-0c85-482d-8998-5101cf7f4c19"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You need to be very ____________ and independent to survive in that environment.",
+      "yNghia": "You need to be very <span style=\"color:red\">calm</span> and independent to survive in that environment.<br />\n<i>Bạn cần phải hết sức </i><i><span style=\"color:red\">bình tĩnh </span></i><i>và độc lập để tồn tại trong môi trường đó.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cd8c2675-a75c-418f-b3f1-515224bfc87a"
+          },
+          "dapAn": "calm",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c0d7de96-0585-48bb-8fe4-37484d7d39ef"
+          },
+          "dapAn": "intelligent",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ae855dde-6ff5-45d4-8323-5ea43df662cc"
+          },
+          "dapAn": "smart",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_17. You ... environment.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_17. You ... environment.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "08ab4a4c-6207-4554-9cbe-24197682d4ec"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Picasso was a child genius who could paint when he was only __________.",
+      "yNghia": "Picasso was a child genius who could paint when he was only <span style=\"color:red\">nine</span>.<br />\n<i>Picasso là một thiên tài nhí có thể vẽ khi mới </i><i><span style=\"color:red\">chín</span></i><i><span style=\"color:red\"> tuổi</span></i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fd6ebbd9-9dac-4a44-a3e7-ef514ba93e79"
+          },
+          "dapAn": "eight",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "baac8940-358d-4d9e-9ee9-4471e4d8f606"
+          },
+          "dapAn": "seven",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7381334c-fef6-44b4-886e-0d26d29e36be"
+          },
+          "dapAn": "nine",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_18. Picasso ... nine.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_18. Picasso ... nine.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e0c96de9-479e-47cd-8ec5-df807a61a4c4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Eurasian magpies are found in Europe and ___________, don’t they?",
+      "yNghia": "Eurasian magpies are found in Europe and <span style=\"color:red\">Asia</span>, don't they?<br />\n<i>Chim ác là Á-Âu được tìm thấy ở châu Âu và </i><i><span style=\"color:red\">châu Á</span></i><i>, phải không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "de0267f0-b7e0-4204-9ff7-bf7f931f37af"
+          },
+          "dapAn": "Asia",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "933cceac-7b90-41b0-b6e7-527d0df35de4"
+          },
+          "dapAn": "America",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5f17b49d-8ace-4242-9481-806df86748cd"
+          },
+          "dapAn": "Oceania",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_19. Eurasian ... they.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_19. Eurasian ... they.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "57ba2a78-508b-49f5-8e2f-234134ffee24"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "An Italian man called Mauro Prosperi was competing in a _________ contest.",
+      "yNghia": "An Italian man called Mauro Prosperi was competing in a <span style=\"color:red\">running</span> contest.<br />\n<i>Một người đàn ông Ý tên là Mauro Prosperi đang thi đấu trong một cuộc thi <span style=\"color:red\">chạy</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "782ba79b-94cb-4e2f-80cf-711a47db8aa0"
+          },
+          "dapAn": "running",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a481673e-21a8-483f-b03d-e144b9d26842"
+          },
+          "dapAn": "racing",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "00240404-781b-4b7d-9f95-38b1577e38e2"
+          },
+          "dapAn": "singing",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L4/sounds/normal/MTC_MINITEST1_LISTENING_20. An ... contest.mp3",
+      "soundSlow": "4SKILLS_MTC_L4/sounds/slow/MTC_MINITEST1_LISTENING_20. An ... contest.mp3"
+    }
+  ]
+}

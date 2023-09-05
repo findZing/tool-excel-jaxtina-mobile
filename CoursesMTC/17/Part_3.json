@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0_1",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "c391b071-d7ab-4870-b27f-e4df867be719"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Headline",
+      "yNghia": "Tiêu đề",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "137a6206-9078-420c-9312-bf7223f03868"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Source",
+      "yNghia": "Nguồn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3ce2111c-b834-4b38-9433-f10b02bda921"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Rumor",
+      "yNghia": "Tin đồn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4ebe55c1-db13-46b2-94ec-78879f2e91d5"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Journalism",
+      "yNghia": "Nghề báo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e244eb54-5de3-4778-88a3-738c02136595"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Tweet",
+      "yNghia": "Dòng trạng thái trên Twitter",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b7145a31-917c-4c87-8a92-219662312551"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Point",
+      "yNghia": "Ý nghĩa, mục đích",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ef6981d6-d655-4f53-8026-e36d7f2bd67b"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Newsfeed",
+      "yNghia": "Trang tin tức cập nhật liên tục",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6971f4f4-f3c2-44e0-8f61-d8dae3c00976"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Breaking news",
+      "yNghia": "Tin tức nóng hổi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "443d0aaa-4a31-4a2e-a4ed-bbb03e11efaf"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Spread",
+      "yNghia": "Sự lan truyền",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e58a7528-6dce-4285-b6a2-95f3b5e49c62"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Repost",
+      "yNghia": "Đăng lại (bài viết, bài báo)",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "66f8c3c5-bb50-43e2-9ccb-d641a0dace48"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Accurate",
+      "yNghia": "Chính xác, chuẩn xác",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "454cfec1-f7d5-449f-91d9-3d72fcee492d"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Human-interest story",
+      "yNghia": "Câu chuyện tập trung vào cảm xúc của con người",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "648de506-8807-40df-929c-90a7b4596980"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Current affairs",
+      "yNghia": "Các vấn đề hiện tại",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "341684be-f61b-4b6a-ba54-c9ee7b18bc0d"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Figure out",
+      "yNghia": "Tìm ra",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "85b73e48-dff6-47a8-a59a-96d1a4e63f0d"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "It’s too early to say",
+      "yNghia": "Còn quá sớm để nói rằng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "84be3c17-8a06-456d-811a-e3551007dab4"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Atmosphere",
+      "yNghia": "Bầu không khí",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4833dd52-74af-4dff-923c-19a66c320a22"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Trust",
+      "yNghia": "Tin tưởng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "724d1deb-bf2a-4436-8f5b-3c1c3829387c"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Journalist",
+      "yNghia": "Nhà báo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "385cec3e-4df7-4fc3-955c-ec9a869d7468"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Industry",
+      "yNghia": "Ngành công nghiệp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0d8979fc-2a18-4670-965d-c2e9906e8edc"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Trend",
+      "yNghia": "Xu hướng",
+      "danhSachDapAn": []
+    }
+  ]
+}

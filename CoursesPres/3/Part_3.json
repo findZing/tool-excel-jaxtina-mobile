@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0_1",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "6629d3b4-9bc6-4c13-8d9e-707c39f16cc5"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Parents",
+      "yNghia": "Bố mẹ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7be889e9-63b2-4788-b960-67dcf1c6b555"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Father",
+      "yNghia": "Bố",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "073e6ae6-04bd-4fd0-b9fd-f84e8fbad140"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Mother",
+      "yNghia": "Mẹ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9c9bb1af-31a5-411d-8015-2aad683cbc3a"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Brother",
+      "yNghia": "Anh, em trai",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "15182944-456a-4186-8d1f-cd5a176224ff"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Sister",
+      "yNghia": "Chị, em gái",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5388fc88-9bf2-404c-a663-8ff88211f4df"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Son",
+      "yNghia": "Con trai",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8b856505-3dbe-4392-a8ae-1393d3a54e99"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Daughter",
+      "yNghia": "Con gái",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3a65a149-42b6-4c5c-b1f6-fb6b1144623e"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Husband",
+      "yNghia": "Chồng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "caf5ece3-518d-45f1-a564-52fdbcaf02e2"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Wife",
+      "yNghia": "Vợ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "993f08d0-4a8b-4d47-b673-fcf9b2ac67ea"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Grandfather",
+      "yNghia": "Ông",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b3d26d57-5e33-478c-8ef9-d29791cc017d"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Grandmother",
+      "yNghia": "Bà",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4627f038-d2e0-41ea-b6d5-32e127c21fb3"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Grandparents",
+      "yNghia": "Ông bà",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0b59033f-c960-4f96-8496-e07bbf10cffe"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Sibling",
+      "yNghia": "Anh chị em ruột",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4ddbe80b-ab39-4c7b-b93c-7204da400499"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Teacher",
+      "yNghia": "Giáo viên",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "074ec17b-9177-41e9-a7d0-9751bc6e95b6"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Student",
+      "yNghia": "Học sinh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "66339987-460d-4887-adb5-5a623ec8695c"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Classmate",
+      "yNghia": "Bạn cùng lớp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c4189452-a096-429e-9d15-b939b58121f4"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Friend",
+      "yNghia": "Bạn bè",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "83105160-8dc0-4208-94a5-6773ebb9bbb3"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Age",
+      "yNghia": "Tuổi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "134e1241-b11c-4573-9f13-66a052a8360a"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Elder",
+      "yNghia": "Lớn tuổi hơn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "09c5366f-e5e9-4faa-baca-8d99112001d2"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Younger",
+      "yNghia": "Trẻ tuổi hơn",
+      "danhSachDapAn": []
+    }
+  ]
+}

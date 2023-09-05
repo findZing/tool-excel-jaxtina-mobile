@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "9371575c-e0ee-40d2-b91a-d5645bfa24bd"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Waiter",
+      "yNghia": "Nhân viên phục vụ nam",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "644552ee-c670-46e3-bcb3-3be742341619"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Waitress",
+      "yNghia": "Nhân viên phục vụ nữ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e840f91b-6640-4b5d-96ba-3a29f07539ae"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Writer",
+      "yNghia": "Nhà văn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c867273c-c37f-46e0-a479-fc408e57c287"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Scientist",
+      "yNghia": "Nhà khoa học",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2b4806a7-8834-40e4-98e5-4947375ef456"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Photographer",
+      "yNghia": "Thợ ảnh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2e24876e-51ac-46fb-8365-a789e531cfc4"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Engineer",
+      "yNghia": "Kỹ sư xây dựng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7fbbd97e-e711-4afc-8c3f-8017ea5c1265"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Police officer",
+      "yNghia": "Cảnh sát",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "288901c3-0996-417a-8d50-01dcb0af1844"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Thursday",
+      "yNghia": "Thứ 5",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d9bb5c73-937a-4b7f-a66f-f3ae944c4bc7"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Friday",
+      "yNghia": "Thứ 6",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4280d44a-a5d1-453b-94c9-7d3ceb83522a"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Saturday",
+      "yNghia": "Thứ 7",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1105a541-c00d-4b11-985a-c19427194ddc"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Sunday",
+      "yNghia": "Chủ nhật",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4f73f197-8eb8-41ba-8b7f-97ab757a3e9e"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "June",
+      "yNghia": "Tháng 6",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "bba10b58-a247-4d67-9dbe-85a227a3fec5"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "September",
+      "yNghia": "Tháng 9",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "92748bd5-30b4-4e1f-8795-bd344e698efd"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "November",
+      "yNghia": "Tháng 11",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7ffd8fdf-2573-4712-a5a2-3cbabf14ea4b"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Shave",
+      "yNghia": "Cạo râu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6ad69819-e2a4-4757-a328-2c1bf1ad9fe8"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Get dressed",
+      "yNghia": "Mặc quần áo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e577f808-684b-4dfc-a3dd-9ad624d06a21"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Put on make up",
+      "yNghia": "Trang điểm",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "24a39bc9-798d-495f-85b0-83c871be502a"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Get undressed",
+      "yNghia": "Cởi đồ ra",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "43350bc9-3971-4bf6-b951-26a87e2c451e"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Take a shower",
+      "yNghia": "Tắm vòi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f4750806-e7e6-4d5e-9c14-dca7c40e3f50"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Take a bath",
+      "yNghia": "Tắm bồn",
+      "danhSachDapAn": []
+    }
+  ]
+}

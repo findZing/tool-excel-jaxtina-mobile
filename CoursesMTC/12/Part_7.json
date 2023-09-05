@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P7",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "eda349bf-fc7b-477b-8d07-715e1e485b97"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I hope everyone <b><span style=\"color:blue\">(read)</span></b><b> </b><b>________________</b> this.<b> </b>",
+      "yNghia": "Câu này sử dụng <b>hope</b> để nói về những hy vọng hoặc ước muốn ở hiện tại hoặc tương lai đơn, nên động từ <b>read</b> được chia ở thì hiện tại đơn hoặc tương lai đơn, ta được <b>reads</b> / <b>will read</b>. Câu hoàn chỉnh là <b>I hope everyone <span style=\"color:red\">reads</span> / <span style=\"color:red\">will read</span> this.</b> <i>(Tôi mong mọi người <span style=\"color:red\">đọc</span> / </i><span style=\"color:red\"><i>sẽ đọc </i></span><i>cái này.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fcd0cd1b-44dd-48cc-a924-05815f61991e"
+          },
+          "dapAn": "eads / will read",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5938e219-a24c-4375-a5de-9be1c89ed7df"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "If we <b><span style=\"color:blue\">(not do)</span></b> <b>________________</b> something about climate change in the near future, it will be too late.",
+      "yNghia": "Câu này sử dụng cấu trúc câu điều kiện thể hiện ý rằng một hành động trong mệnh đề chính chỉ có thể xảy ra nếu một điều kiện trong mệnh đề <b>if</b> được đáp ứng, ta dùng trợ động từ ở hiện tại đơn <b>don't </b>cho chủ ngữ số nhiều <b>we</b>, và động từ <b>do</b> được giữ nguyên thể. Câu hoàn chỉnh là <b>If we<span style=\"color:red\"> </span><span style=\"color:red\">don't</span><span style=\"color:red\"> do </span>something about climate change in the near future, it will be too late. </b><i>(Nếu chúng ta <span style=\"color:red\">không làm</span> gì với việc </i><i>biến đổi </i><i>khí hậu trong tương lai gần, thì mọi thứ sẽ là quá muộn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b403f907-f24d-402e-9ffb-829f0b1ade83"
+          },
+          "dapAn": "don’t do",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ab8019a6-8227-49ee-a917-452e6b3db6d2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "If we used less fossil fuel, there <b><span style=\"color:blue\">(be)</span></b> ________________ less carbon in the atmosphere.",
+      "yNghia": "Câu này sử dụng cấu trúc câu điều kiện loại 2 thể hiện điều không có thật ở hiện tại, mệnh đề chính sử dụng <b>would + động từ nguyên thể</b>, ta được <b>would be</b>. Câu hoàn chỉnh là <b>If we used less fossil fuel, there <span style=\"color:red\">would</span></b><b><span style=\"color:red\"> be</span></b><b> </b><b>less carbon in the atmosphere. </b><i>(Nếu chúng ta sử dụng ít nhiên liệu hóa thạch hơn, thì <span style=\"color:red\">sẽ có</span> ít carbon hơn trong khí quyển.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ed2da085-ba0a-4215-9992-e9896a1a797a"
+          },
+          "dapAn": "would be",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9cc054e4-750e-4ebe-9fd5-1fa61389d897"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Climate change would happen more slowly if we <b><span style=\"color:blue\">(create)</span></b> ________________ stronger laws.",
+      "yNghia": "Câu này sử dụng cấu trúc câu điều kiện loại 2 thể hiện điều không có thật ở hiện tại, mệnh đề <b>if </b>chia ở thì quá khứ đơn, ta được <b>created</b>. Câu hoàn chỉnh là<b> Climate change would happen more slowly if we <span style=\"color:red\">created</span><strong><span style=\"color:red\"> </span></strong>stronger laws</b><b>. </b><i>(Biến đổi khí hậu sẽ diễn ra chậm hơn nếu chúng ta <span style=\"color:red\">soạn thảo</span> những luật pháp nghiêm ngặt hơn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "47210d53-fb04-429a-b146-bb97301da2c1"
+          },
+          "dapAn": "created",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "95a6e7da-8248-4581-8132-9fb03da6cf88"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I wish everyone <b><span style=\"color:blue\">(understand)</span></b> ________________ the importance of this problem",
+      "yNghia": "Câu này sử dụng <b>wish </b>để diễn tả ước muốn trong hiện tại, nên động từ chia ở thì Quá khứ đơn, ta được, <b>understood</b>. Câu hoàn chỉnh là <b>I wish everyone <span style=\"color:red\">understood</span></b><b> </b><b>the importance of this problem. </b><i>(Tôi ước mọi người<span style=\"color:red\"> hiểu được </span>tầm quan trọng của vấn đề này.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4f840cc3-fd48-4b33-afe5-e78cb8407686"
+          },
+          "dapAn": "understood",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e81f7b6-4904-4dbc-9aaf-5d0ecd3d9bd1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I wish world leaders <b><span style=\"color:blue\">(work)</span></b> ________________ together in the future to save our planet.",
+      "yNghia": "Câu này sử dụng <b>wish </b>để diễn tả ước muốn trong tương lai, nên động từ thêm <b>would/could</b> ở trước, ta được, <b>would work / could work</b>. Câu hoàn chỉnh là<b> </b><b>I wish world leaders <span style=\"color:red\">would work </span></b><b><span style=\"color:red\">/</span></b><b> </b><b><span style=\"color:red\">could work </span></b><b>together in the future to save our planet. </b><i>(Tôi ước các nhà lãnh đạo thế giới <span style=\"color:red\">sẽ làm việc</span> cùng nhau trong tương lai để cứu hành tinh của chúng ta.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "05bc8cc5-2bbd-4986-8daa-6c6831564020"
+          },
+          "dapAn": "would work / could work",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "029b8e68-2854-44ee-abf8-a4ff804e2b96"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My dad <b><span style=\"color:blue\">(not have</span></b><b> </b><b><span style=\"color:blue\">)</span></b>________________ a smartphone before I gave (give) him one for his birthday.",
+      "yNghia": "Câu này sử dụng quá khứ hoàn thành để chỉ một hành động xảy ra trước một hành động khác trong quá khứ, vế hành động xảy ra trước chia ở Quá khứ hoàn thành, ta được <b>had</b><b> no</b><b>t had</b><b> / hadn't had</b>. Câu hoàn chỉnh là <b>My dad <span style=\"color:red\">had not had / hadn't had </span>a smartphone before I</b><b> gave</b><b> him one for his birthday. </b><i>(Bố tôi <span style=\"color:red\">không có </span>điện thoại thông minh trước khi tôi tặng ông một chiếc vào ngày sinh nhật.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3d6b6729-0d77-4ab7-8b91-c72a2dea8a5d"
+          },
+          "dapAn": "had not had / hadn’t had",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6e34de2d-7205-4213-adc3-7de6d94c334c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "After I had saved enough money, I <b><span style=\"color:blue\">(buy)</span></b> ________________ a small car.<b> </b>",
+      "yNghia": "Câu này sử dụng quá khứ hoàn thành để chỉ một hành động xảy ra trước một hành động khác trong quá khứ, vế hành động xảy ra sau chia ở Quá khứ đơn, ta được <b>bought</b>. Câu hoàn chỉnh là <b>After I</b><b> had saved</b><b> enough money, I <span style=\"color:red\">bought</span></b><b> </b><b>a small car. </b><i>(Sau khi tiết kiệm đủ tiền, tôi <span style=\"color:red\">đã mua</span> một chiếc ô tô nhỏ.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "852a11bd-a47c-4f89-842c-5fab05d2b1a6"
+          },
+          "dapAn": "bought",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ce70b6ca-2cbe-4b07-9600-1e2fff14cfa5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "When my dad bought his first car, he <b><span style=\"color:blue\">(never/drive)</span></b> ________________ a car!",
+      "yNghia": "Câu này sử dụng Quá khứ hoàn thành để chỉ một hành động xảy ra trước một hành động khác trong quá khứ, vế hành động xảy ra trước chia ở Quá khứ hoàn thành, ta được <b>had never driven</b>. Câu hoàn chỉnh là<b> When my dad </b><b>bought his first car, he <span style=\"color:red\">had</span></b><b><span style=\"color:red\"> never driven</span></b><b> </b><b>a car!</b><i> </i><i>(Khi bố tôi mua chiếc ô tô đầu tiên, ông ấy <span style=\"color:red\">chưa bao giờ lái </span>ô tô!).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "44a9b98c-9616-4be4-9189-52f9d2e911e8"
+          },
+          "dapAn": "had never driven",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e569505d-fbec-449c-919b-44dc3379f2aa"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "No one <b><span style=\"color:blue\">(hear)</span></b> ________________ the term social media when the first social media network began in 2002.",
+      "yNghia": "Câu này sử dụng quá khứ hoàn thành để chỉ một hành động xảy ra trước một hành động khác trong quá khứ, vế hành động xảy ra trước chia ở Quá khứ hoàn thành, ta được <b>had heard</b>. Câu hoàn chỉnh là<b> No one <span style=\"color:red\">had</span></b><b><span style=\"color:red\"> heard</span></b><b> </b><b>the term social media when the first social media network began in 2002. </b><i>(Chưa ai <span style=\"color:red\">từng nghe đến</span> thuật ngữ truyền thông xã hội khi mạng truyền thông xã hội đầu tiên ra đời vào năm 2002.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "33f21477-aae3-4610-94fd-ad9d9d24add2"
+          },
+          "dapAn": "had heard",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "db1bb9d7-8640-4564-a853-3f3caf40d904"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Driverless cars are an innovation <b><span style=\"color:blue\">(W-H)</span></b> ________________ may change the transportation industry.",
+      "yNghia": "<b>Driverless cars</b> là danh từ chỉ vật, nên đại từ quan hệ xác định đứng sau là <b>which</b>. Câu hoàn chỉnh là<b> Driverless cars are an innovation <span style=\"color:red\">which</span></b><b> </b><b>may change the transportation industry. </b><i>(Ô tô không người lái là một sự đổi mới có thể thay đổi ngành vận tải.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4cca4f21-ae82-4e61-9f74-23b3ec8a100d"
+          },
+          "dapAn": "which",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "91b709cb-f2ab-4802-b878-c86948c0088a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Tech companies are places <b><span style=\"color:blue\">(W-H)</span></b> ________________there are a lot of creative people!",
+      "yNghia": "<b>Places </b>là danh từ chỉ nơi chốn, nên trạng từ quan hệ xác định đứng sau là <b>where</b>. Câu hoàn chỉnh là<b> Tech companies are places <span style=\"color:red\">where</span></b><b> </b><b>there are a lot of creative people! </b><i>(Các công ty công nghệ là <span style=\"color:red\">nơi mà </span>có rất nhiều người sáng tạo!).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "02d4de01-defd-4735-bfba-9d13696dbd24"
+          },
+          "dapAn": "where",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "bbb1aeb6-4433-4d4e-8b9b-128e1777eff4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "An AI specialist is a person <b><span style=\"color:blue\">(W-H)</span></b> ________________works in artificial intelligence technology.",
+      "yNghia": "<b>An AI specialist </b>là danh từ chỉ người, nên đại từ quan hệ xác định đứng sau là <b>who</b><b>. </b>Câu hoàn chỉnh là<b> An AI specialist is a person <span style=\"color:red\">who</span></b><b> </b><b>works in artificial intelligence technology. </b><i>(Chuyên gia trí tuệ nhân tạo là người <span style=\"color:red\">mà </span>làm việc trong lĩnh vực công nghệ trí tuệ nhân tạo.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fd356f14-63f2-483e-8a4c-43f2cb6fa4ec"
+          },
+          "dapAn": "who",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6ef59998-4f19-411c-bfeb-1a88003c0dcf"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My dad was born in a decade <b><span style=\"color:blue\">(W-H)</span></b> ________________a lot of important technology was invented.",
+      "yNghia": "<b>In</b><b> a decade</b><b> </b>là cụm danh từ chỉ thời gian, nên trạng từ quan hệ xác định đứng sau là <b>when</b><b>. </b>Câu hoàn chỉnh là<b> My dad was born in a decade <span style=\"color:red\">when</span></b><b> </b><b>a lot of important technology was invented. </b><i>(Bố tôi sinh ra trong thập kỷ <span style=\"color:red\">khi mà</span> rất nhiều công nghệ quan trọng được phát minh.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4e189655-5a92-4499-9dc7-ad8fa61f21d2"
+          },
+          "dapAn": "when",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "197de455-d54c-4d60-ba25-e6668dd3ac42"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There are millions of people in the world <b><span style=\"color:blue\">(W-H)</span></b> ________________use the internet everyday.",
+      "yNghia": "<b>millions of people</b> là danh từ chỉ người, nên đại từ quan hệ xác định đứng sau là <b>who</b><b>. </b>Câu hoàn chỉnh là<b> There are millions of people in the world <span style=\"color:red\">who</span></b><b> </b><b>use the Internet every day. </b><i>(Có hàng triệu người trên thế giới sử dụng Internet hàng ngày.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2ca0d4b8-283b-4e86-99a3-367489187e94"
+          },
+          "dapAn": "who",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "61090c3d-410e-4824-9229-662356af0efe"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Before Gutenberg's creation, people <b><span style=\"color:blue\">(write)</span></b> ________________ books by hand.",
+      "yNghia": "Câu này sử dụng Quá khứ hoàn thành để chỉ một hành động xảy ra trước một hành động khác trong quá khứ, vế hành động xảy ra trước chia ở Quá khứ hoàn thành, ta được <b>had written</b>. Câu hoàn chỉnh là<b> </b><b>Before Gutenberg's creation, people <span style=\"color:red\">had</span></b><b><span style=\"color:red\"> written</span></b><b> </b><b>books by hand. </b><i>(Trước khi Gutenberg ra đời, người ta <span style=\"color:red\">đã viết</span> sách bằng tay.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "54d513a6-57ec-48e1-bc82-c3ce443449e7"
+          },
+          "dapAn": "had written",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "07b35064-39fd-4804-b978-e33d2b62f4a1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Before the invention of paper by the Chinese in 100 B.C., people <b><span style=\"color:blue\">(use)</span></b> ________________ rough materials like stone and papyrus for communication.<b> </b>",
+      "yNghia": "Câu này sử dụng Quá khứ hoàn thành để chỉ một hành động xảy ra trước một hành động khác trong quá khứ, vế hành động xảy ra trước chia ở Quá khứ hoàn thành, ta được <b>had used</b>. Câu hoàn chỉnh là<b> </b><b>Before the invention of paper by the Chinese in 100 B.C., people <span style=\"color:red\">had</span></b><b><span style=\"color:red\"> used</span></b><b> </b><b>rough materials like stone and papyrus for communication. </b><i>(Trước khi người Trung Quốc phát minh ra giấy vào năm 100 trước Công nguyên, người ta <span style=\"color:red\">đã sử dụng </span>các vật liệu thô như đá và giấy cói để liên lạc.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "302523f6-9a91-4444-ba70-10fbe8da63d3"
+          },
+          "dapAn": "had used",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "615146dc-6891-4897-9115-abc253858d23"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I hope that if in all cities in the future, they <b><span style=\"color:blue\">(give) </span></b>________________ people free access to wildlife parks.",
+      "yNghia": "Câu này sử dụng <b>hope </b>để diễn tả hy vọng trong tương lai, nên động từ chia ở thì Tương lai đơn, ta được, <b>will give</b>. Câu hoàn chỉnh là<b> I hope that if in all cities in the future, they <span style=\"color:red\">will</span></b><b><span style=\"color:red\"> give</span></b><b> </b><b>people free access to wildlife parks.</b><i> </i><i>(Tôi hy vọng rằng nếu trong tương lai ở tất cả các thành phố, họ <span style=\"color:red\">sẽ cho</span> người dân vào công viên động vật hoang dã miễn phí.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2c7a1d46-89dd-4246-93ee-1f73ccd702ec"
+          },
+          "dapAn": "will give",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "bee052b3-0bce-40d8-93c0-f404a7de4abd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I wish that our citizen <b><span style=\"color:blue\">(be)</span></b> ________________ more aware of environment protection in the future.",
+      "yNghia": "Câu này sử dụng <b>wish </b>để diễn tả ước muốn trong tương lai, nên động từ thêm <b>would/could</b> ở trước, ta được, <b>would</b><b> be </b><b>/</b><b> </b><b>could be</b>. Câu hoàn chỉnh là<b> I wish that our citizen <span style=\"color:red\">would be / could be </span>more aware of environment protection in the future.</b><i> </i><i>(Tôi ước rằng người dân của chúng ta <span style=\"color:red\">sẽ có</span> ý thức hơn trong việc bảo vệ môi trường trong tương lai.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1c297eb7-8690-4802-be96-a61a614f4f6c"
+          },
+          "dapAn": "would be / could be",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c3d5eb3f-f08a-40cf-893e-6752dc9f2d2c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I wish I <b><span style=\"color:blue\">(spend)</span></b> ________________ less money on unnecessary electronics.",
+      "yNghia": "Câu này sử dụng <b>wish </b>để diễn tả ước muốn trong hiện tại, nên động từ chia ở thì Quá khứ đơn, ta được <b>spent</b>. Câu hoàn chỉnh là<b> I wish </b><b>I <span style=\"color:red\">spent</span></b><b> </b><b>less money on unnecessary electronics. </b><i>(Tôi ước mình <span style=\"color:red\">chi </span>ít tiền hơn cho những đồ điện tử không cần thiết.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2928a5ff-42d7-4870-92d2-15460f35ed79"
+          },
+          "dapAn": "spent",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

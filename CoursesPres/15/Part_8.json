@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L15/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L15/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "cac37ca1-ed2b-4e41-a1d4-0d5707eaaff0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "David",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d7f5f13c-849d-4f7b-8426-d40fd30499da"
+          },
+          "dapAn": "It's Mom's birthday next week. Let's buy a present for her.",
+          "phienAm": "/ɪts mɒmz ˈbɜːθdeɪ nekst wiːk/. /lets baɪ eɪ ˈpreznt fɔːr hɜːr/",
+          "yNghia": " Tuần tới là đến sinh nhật mẹ rồi. Hãy mua một món quà cho mẹ đi.",
+          "normal": {
+            "start": "00:00:00.815",
+            "end": "00:00:05.424"
+          },
+          "slow": {
+            "start": "00:00:01.004",
+            "end": "00:00:06.129"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a848d9f0-61f3-4126-920f-21550fdb3202"
+          },
+          "dapAn": "Well, she loves clothes.",
+          "phienAm": "/wel ʃiː lʌvz kləʊðz/",
+          "yNghia": " Chà, mẹ thích quần áo.",
+          "normal": {
+            "start": "00:00:09.346",
+            "end": "00:00:11.613"
+          },
+          "slow": {
+            "start": "00:00:12.293",
+            "end": "00:00:14.544"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c51b6752-0ea2-4ce4-8a58-3c73eeb8fce6"
+          },
+          "dapAn": "Let me see. Wow! They're cheap, too.",
+          "phienAm": "/let miː siː/. /waʊ ðeər ʧiːp tuː/",
+          "yNghia": " Để em xem nào. Ồ! Chúng cũng rẻ nữa.",
+          "normal": {
+            "start": "00:00:17.292",
+            "end": "00:00:20.730"
+          },
+          "slow": {
+            "start": "00:00:22.093",
+            "end": "00:00:26.110"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a0a3eb50-ff37-4707-ba2a-10633d8de786"
+          },
+          "dapAn": "Great! Look at this green dress!",
+          "phienAm": "/greɪt/. /lʊk æt ðɪs griːn dres/",
+          "yNghia": " Tuyệt quá! Hãy nhìn chiếc váy xanh này!",
+          "normal": {
+            "start": "00:00:25.441",
+            "end": "00:00:28.370"
+          },
+          "slow": {
+            "start": "00:00:33.832",
+            "end": "00:00:37.226"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c5784293-34ec-4b55-8164-8d5601e3e67c"
+          },
+          "dapAn": "Oh, it's small. It's the wrong size.",
+          "phienAm": "/əʊ ɪts smɔːl/. /ɪts ðə rɒŋ saɪz/",
+          "yNghia": " Ồ, nó là cỡ nhỏ. Nó sai kích thước rồi.",
+          "normal": {
+            "start": "00:00:31.578",
+            "end": "00:00:35.093"
+          },
+          "slow": {
+            "start": "00:00:41.901",
+            "end": "00:00:45.364"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6c0361ea-7ad5-48c9-af0f-ffc4fa037a0e"
+          },
+          "dapAn": "Yes, they are. Look! This red T-shirt is nice.",
+          "phienAm": "/jes ðeɪ ɑːr/. /lʊk/. /ðɪs red ˈtiː ʃɜːt ɪz naɪs/",
+          "yNghia": " Đúng vậy. Nhìn này! Chiếc áo phông màu đỏ này thật đẹp.",
+          "normal": {
+            "start": "00:00:40.033",
+            "end": "00:00:44.566"
+          },
+          "slow": {
+            "start": "00:00:54.298",
+            "end": "00:00:59.250"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ca260f81-742f-47eb-bad5-4455a013f6cd"
+          },
+          "dapAn": "$50 is expensive!",
+          "phienAm": "/ˈfɪfti ˈdɒlərz ɪz ɪksˈpensɪv/",
+          "yNghia": " 50 đô đắt quá!",
+          "normal": {
+            "start": "00:00:47.979",
+            "end": "00:00:50.016"
+          },
+          "slow": {
+            "start": "00:01:04.271",
+            "end": "00:01:06.695"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "009201df-f462-4ab9-9829-5ff207cf69d2"
+          },
+          "dapAn": "Me too. Is it the correct size?",
+          "phienAm": "/miː tuː/. /ɪz ɪt ðə kəˈrekt saɪz/",
+          "yNghia": " Em cũng thế. Có đúng kích cỡ không?",
+          "normal": {
+            "start": "00:00:58.700",
+            "end": "00:01:01.552"
+          },
+          "slow": {
+            "start": "00:01:21.551",
+            "end": "00:01:24.979"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "393182e2-0017-4474-9214-72fed05ffe25"
+          },
+          "dapAn": "Great! Look at that jacket over there! It's very dressy!",
+          "phienAm": "/greɪt/. /lʊk æt ðæt ˈʤækɪt ˈəʊvər ðeər/. /ɪts ˈveri ˈdresi/",
+          "yNghia": "\nTuyệt quá! Chị nhìn cái áo khoác đằng kia kìa! Trông nó rất sang trọng!",
+          "normal": {
+            "start": "00:01:04.455",
+            "end": "00:01:09.141"
+          },
+          "slow": {
+            "start": "00:01:30.797",
+            "end": "00:01:36.268"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4ed6328a-d042-49c6-93a4-44526f636e8f"
+          },
+          "dapAn": "Over there ... the black jacket ... by the window ... between those shoes and those bags.",
+          "phienAm": "/ˈəʊvər ðeər ... ðə blæk ˈʤækɪt ... baɪ ðə ˈwɪndəʊ ... bɪˈtwiːn ðəʊz ʃuːz ænd ðəʊz bægz/",
+          "yNghia": " Ở đằng kia... chiếc áo khoác đen... cạnh cửa sổ... giữa những đôi giày và những chiếc túi đó.",
+          "normal": {
+            "start": "00:01:13.114",
+            "end": "00:01:19.531"
+          },
+          "slow": {
+            "start": "00:01:41.393",
+            "end": "00:01:48.458"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "696df076-566a-4fe6-96d9-b1a55b9717ce"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Anna",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b0d83393-5b0e-41b2-9d7c-5f149d15facd"
+          },
+          "dapAn": "OK. What shall we buy?",
+          "phienAm": "/əʊˈkeɪ/. /wɒt ʃæl wiː baɪ/",
+          "yNghia": " Được. Chúng ta sẽ mua gì?",
+          "normal": {
+            "start": "00:00:06.494",
+            "end": "00:00:08.633"
+          },
+          "slow": {
+            "start": "00:00:07.203",
+            "end": "00:00:11.254"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3634e8bb-6bae-4437-b230-2449c893f624"
+          },
+          "dapAn": "There are a lot of great clothes at this store.",
+          "phienAm": "/ðeər ɑːr eɪ lɒt ɒv greɪt kləʊðz æt ðɪs stɔːr/",
+          "yNghia": " Có rất nhiều quần áo đẹp ở cửa hàng này.",
+          "normal": {
+            "start": "00:00:12.784",
+            "end": "00:00:16.298"
+          },
+          "slow": {
+            "start": "00:00:15.652",
+            "end": "00:00:20.673"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a1ea2a7c-9264-478d-9f8a-b71424699495"
+          },
+          "dapAn": "Most of the clothes are under $40.",
+          "phienAm": "/məʊst ɒv ðə kləʊðz ɑːr ˈʌndər ˈfɔːti ˈdɒlərz/",
+          "yNghia": " Hầu hết quần áo đều dưới 40 đô.",
+          "normal": {
+            "start": "00:00:21.672",
+            "end": "00:00:24.524"
+          },
+          "slow": {
+            "start": "00:00:27.911",
+            "end": "00:00:32.136"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7f1c69b3-5853-47b3-b61d-c95add3cdc09"
+          },
+          "dapAn": "What's the size?",
+          "phienAm": "/wɒts ðə saɪz/",
+          "yNghia": " Cỡ của nó là gì thế?",
+          "normal": {
+            "start": "00:00:29.286",
+            "end": "00:00:30.636"
+          },
+          "slow": {
+            "start": "00:00:38.230",
+            "end": "00:00:40.239"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "eacf7c1a-d3e5-457e-b37b-517804b4d095"
+          },
+          "dapAn": "Yeah. Look at these T-shirts! They're pretty.",
+          "phienAm": "/jeə/. /lʊk æt ðiːz ˈtiː ʃɜːts/. / ðeər ˈprɪti/",
+          "yNghia": " Ừ. Nhìn những chiếc áo phông này! Chúng đẹp quá.",
+          "normal": {
+            "start": "00:00:35.831",
+            "end": "00:00:39.193"
+          },
+          "slow": {
+            "start": "00:00:46.853",
+            "end": "00:00:52.809"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "10bd1881-91af-4766-adb2-b31b2e0b0af7"
+          },
+          "dapAn": "It's $50!",
+          "phienAm": "/ɪts ˈfɪfti ˈdɒlərz/",
+          "yNghia": " Nó có giá 50 đô!",
+          "normal": {
+            "start": "00:00:45.381",
+            "end": "00:00:47.087"
+          },
+          "slow": {
+            "start": "00:01:00.635",
+            "end": "00:01:03.198"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "66df1255-579b-467c-9f89-611929a74e53"
+          },
+          "dapAn": "You're right. Do you like this blue T-shirt? It's $15. It's cheap. I like it!",
+          "phienAm": "/jʊər raɪt/. /duː juː laɪk ðɪs bluː ˈtiː ʃɜːt/. /ɪts ˌfɪfˈtiːn ˈdɒlərz/. /ɪts ʧiːp/. /aɪ laɪk ɪt/",
+          "yNghia": " Em nói đúng. Em có thích chiếc áo phông màu xanh dương này không? Nó có giá 15 đô. Rẻ đó. Chị thích nó!",
+          "normal": {
+            "start": "00:00:50.907",
+            "end": "00:00:57.834"
+          },
+          "slow": {
+            "start": "00:01:08.184",
+            "end": "00:01:19.854"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e3ec5cc0-6fb1-463c-98f4-9ebb56c6dfe9"
+          },
+          "dapAn": "Yes, it's medium.",
+          "phienAm": "/jes ɪts ˈmiːdiəm/",
+          "yNghia": "\nĐúng, nó là cỡ trung bình.",
+          "normal": {
+            "start": "00:01:02.265",
+            "end": "00:01:04.048"
+          },
+          "slow": {
+            "start": "00:01:26.295",
+            "end": "00:01:29.031"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "cf109917-ba1e-43d0-bf67-644e7908fbe1"
+          },
+          "dapAn": "Jacket? Where?",
+          "phienAm": "/ˈʤækɪt/. /weər/",
+          "yNghia": " Áo khoác á? Ở đâu cơ?",
+          "normal": {
+            "start": "00:01:10.404",
+            "end": "00:01:11.892"
+          },
+          "slow": {
+            "start": "00:01:37.544",
+            "end": "00:01:40.008"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "efe68add-1d09-485d-883b-08585a992053"
+          },
+          "dapAn": "Yes, I see. Umm, I'm not sure. She doesn't like black clothes.",
+          "phienAm": "/jes aɪ siː/. /Umm, aɪm nɒt ʃʊər/. /ʃiː dʌznt laɪk blæk kləʊðz/",
+          "yNghia": " Có, chị thấy rồi. Umm, chị không chắc nữa. Mẹ không thích quần áo màu đen.",
+          "normal": {
+            "start": "00:01:20.698",
+            "end": "00:01:27.197"
+          },
+          "slow": {
+            "start": "00:01:48.804",
+            "end": "00:01:59.227"
+          }
+        }
+      ]
+    }
+  ]
+}

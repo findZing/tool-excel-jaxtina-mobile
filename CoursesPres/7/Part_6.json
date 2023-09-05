@@ -1,0 +1,636 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "b3ac7fde-22a6-429a-85e0-7176f5d78f50"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "5cb4f530-7d0c-4270-b372-55839e96a4a3"
+          },
+          "cauHoi": "Where are the books?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "195fe3d0-dd7e-4dab-9578-ebbf2a77d376"
+              },
+              "dapAn": "A. in the desk",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "99a75b15-f869-408e-9a16-a2d62502cf42"
+              },
+              "dapAn": "B. on the backpack",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e85383fd-cd23-4e70-add6-8cc38a6c418f"
+              },
+              "dapAn": "C. on the desk",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "d5d9aaa8-5c40-438c-a855-3da537317c41"
+          },
+          "cauHoi": "Where’s the backpack?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "0f6975ab-b65a-4b87-b1b9-b81b6352d56f"
+              },
+              "dapAn": "A. behind the books",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7eb4093b-2f16-4336-9497-eff726fcac40"
+              },
+              "dapAn": "B. under the desk",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "2038e562-ec82-4207-9075-b9a8c852c226"
+              },
+              "dapAn": "C. next to the desk",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "3ad4bd0d-129a-401c-a7eb-07035e6861c5"
+          },
+          "cauHoi": "Where’s the watch?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "12dba824-807c-4a28-9308-ee92629bf866"
+              },
+              "dapAn": "A. between the books and the backpack",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "587e0b35-b90b-4f59-8c53-a725b3ccb907"
+              },
+              "dapAn": "B. between the books and the desk",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d278bf9e-5baf-4a94-bf7a-f828a60b2027"
+              },
+              "dapAn": "C. between the books and the camera",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f3147ee0-3fc0-4565-9d5d-1c4e1e933495"
+          },
+          "cauHoi": "Where’s the camera?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7128bc35-5d1c-45f6-9142-bd010477f6ff"
+              },
+              "dapAn": "A. next to the watch",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8ec9319d-f566-41d6-bcc3-a40c7a0cc71b"
+              },
+              "dapAn": "B. next to the books",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "51cb89b5-6cb6-4eab-acf8-bef923741507"
+              },
+              "dapAn": "C. under the desk",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "This is my brother’s room. There are books on the desk and there is a backpack under the desk. His watch is between the books and the camera.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Where are the books?</b> <i>(Những quyển sách ở đâu?)</i>, đoạn trong bài đọc liên quan là <b>There are books on the desk</b> <i>(Có những quyển sách ở trên bàn)</i>.<br />\nNên đáp án là <b><span style=\"color:red\">C. on the desk</span></b> <i>(ở trên bàn)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>Where's the backpack?</b> <i>(Ba lô ở đâu?)</i>, đoạn trong bài đọc liên quan là <b>there is a backpack under the desk</b> <i>(có một cái ba lô ở dưới bàn)</i>.<br />\nNên đáp án là <span style=\"color:red\"><b>B. under the desk</b></span><i> <span style=\"color:red\"></span>(ở dưới bàn).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>Where's the watch?</b> <i>(Đồng hồ ở đâu?),</i> đoạn trong bài đọc liên quan là <b>His watch is between the books and the camera.</b> <i>(Đồng hồ của em ấy ở giữa những quyển sách và cái máy ảnh.).</i><br />\nNên đáp áp là <b><span style=\"color:red\">C. between the books and the camera</span></b> <i>(ở giữa những quyển sách và cái máy ảnh).</i><br />\n<b>\n<br />\n4.</b> Với câu hỏi <b>Where's the camera?</b> <i>(Máy ảnh ở đâu?)</i>, đoạn trong bài đọc liên quan là <b>His watch is between the books and the camera.</b><i> <b></b>(Đồng hồ của em ấy ở giữa những quyển sách và cái máy ảnh.).</i><br />\nNên đáp án là <span style=\"color:red\"><b>A. next to the watch</b></span> <i>(ở bên cạnh đồng hồ).</i><br />",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5e054ccf-2f53-4624-a722-339061da4a94"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "595ae7e6-b7cf-4879-8078-2c77451abea1"
+          },
+          "cauHoi": "When does Anna need the room?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c85b3eb2-fc95-4ceb-af01-f071135481d1"
+              },
+              "dapAn": "A. Friday afternoon",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "29a89773-ab50-44f7-be30-1b96d9af8947"
+              },
+              "dapAn": "B. Friday night",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "4b40734c-28f2-484d-b945-7d174049ec84"
+              },
+              "dapAn": "C. Friday morning",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "9c1f625e-bbc1-4278-903b-0c23dd0eeff2"
+          },
+          "cauHoi": "What kind of room does Anna need?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a4a0c583-f306-4431-af4b-3938551fcc72"
+              },
+              "dapAn": "A. a single room",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "77081462-1a19-4c0b-b551-73ef19b5d9cf"
+              },
+              "dapAn": "B. a double room",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "20cbc84d-4e88-4778-bca1-192418ab885b"
+              },
+              "dapAn": "C. a triple room",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "c1ecb006-4488-4798-ba85-a7e93a2a8d7d"
+          },
+          "cauHoi": "What kind of room is available in the hotel?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "97a77e5b-90cc-41be-9ed8-82592756ac63"
+              },
+              "dapAn": "A. a double room",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "102e7b2a-7528-42c1-aa83-d1b8a2e892a3"
+              },
+              "dapAn": "B. a triple room",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8308fa9b-8345-413d-bc73-7c87169eae81"
+              },
+              "dapAn": "C. a single room",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f3cea71c-c646-4a30-beef-304ad52af55c"
+          },
+          "cauHoi": "What is a double room?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "bfcefa3c-3b8a-4917-acce-f8f290d6c006"
+              },
+              "dapAn": "A. a room with two beds for one person",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2ec587fc-8ed4-4c0b-b977-458ebf2371e3"
+              },
+              "dapAn": "B. a room with two beds for two people",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7783973d-1509-499d-b1f3-ed2911fdcde2"
+              },
+              "dapAn": "C. a room with one bed for two people",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td> \n                        <td>Good morning. I want to book a room for Friday night, please.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Hotel worker:</b></td> \n                        <td>What kind of room do you need?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td> \n                        <td>I need a single room.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Hotel worker:</b></td> \n                        <td>Oh, I'm sorry. There's only a double room left.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td> \n                        <td>What is a double room?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Hotel worker:</b></td> \n                        <td>It's a room with one bed for two people.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>When does Anna need the room?</b> <i>(Khi nào Anna cần căn phòng?)</i>, đoạn trong bài đọc liên quan là <b>I want to book a room for Friday night, please.</b> <i>(Tôi muốn đặt một phòng cho đêm thứ Sáu, làm ơn.).</i><br /> Nên đáp án là <span style=\"color:red\"><b>B. Friday night</b></span> <i>(tối thứ Sáu)</i>.<br /> <br /> <b>2.</b> Với câu hỏi <b>What kind of room does Anna need?</b> <i>(Anna cần loại phòng nào?)</i>, đoạn trong bài đọc liên quan là <b>I need a single room.</b> <i>(Tôi cần một phòng đơn).</i><br /> Nên đáp áp là <span style=\"color:red\"><b>A. a single room</b></span> <i>(một phòng đơn).</i><br /> <br /> <b>3.</b> Với câu hỏi <b>What kind of room is available in the hotel?</b> <i>(Loại phòng nào đang có sẵn ở khách sạn?)</i>, đoạn trong bài đọc liên quan là <b>There's only a double room left.</b> <i>(Chỉ còn lại một phòng đôi thôi.).</i><br /> Nên đáp án là <span style=\"color:red\"><b>A. a double room</b></span> <i>(một phòng đôi).</i><br /> <br /> <b>4.</b> Với câu hỏi <b>What is a double room?</b> <i>(Phòng đôi là gì?)</i>, đoạn trong bài đọc liên quan là <b>It's a room with one bed for two people.</b> <i>(Nó là một phòng với một giường dành cho hai người.).</i><br /> Nên đáp án là <span style=\"color:red\"><b>C. a room with one bed for two people</b></span> <i>(một phòng với một giường dành cho hai người).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "057768be-d2fc-4199-9834-1e39fbfa6490"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "de17a678-aaaf-4b57-b5b1-fd0d25983039"
+          },
+          "cauHoi": "How is the window?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "1316608c-5700-4788-9acb-3da581b1669c"
+              },
+              "dapAn": "A. big",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "1e0e3dfb-0ccd-4355-8967-66d5560ab934"
+              },
+              "dapAn": "B. small",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bb3bdeb7-9fc6-484a-be02-9df33e0654bc"
+              },
+              "dapAn": "C. new",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "48d98827-14e4-4709-acce-fa2f636fc5a1"
+          },
+          "cauHoi": "Where is the desk?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8974a6b5-e8d2-4722-9d7d-7c98f0fbd4c0"
+              },
+              "dapAn": "A. in front of the bed",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "92414f9c-c593-4a37-8d6d-87febf5f8acf"
+              },
+              "dapAn": "B. in front of the chair",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "426a73ad-e7ec-4128-b9c0-219bc4816312"
+              },
+              "dapAn": "C. in front of the window",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "d90a6eac-29ee-460c-b635-ae468179825c"
+          },
+          "cauHoi": "Where’s the lamp?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f6f554cc-e239-4f64-b12a-ec09cda575c2"
+              },
+              "dapAn": "A. on the bed",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5ab75ddd-15f6-4ebe-9e53-b2e3b093f19d"
+              },
+              "dapAn": "B. on the desk",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "8f9e614a-3999-4778-bbd5-80035afcc2af"
+              },
+              "dapAn": "C. on the chair",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "7da9585d-7cd0-4b5e-9f92-a6dd4bed8e78"
+          },
+          "cauHoi": "Where’s the chair?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b044ea43-89c4-40e8-b17b-93554640bca6"
+              },
+              "dapAn": "A. next to the bed",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "679b7d3c-7f1b-413d-b1ea-f914a094c144"
+              },
+              "dapAn": "B. next to the window",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "20993b4a-11c4-4bcb-af7d-0ecc9dc0afe9"
+              },
+              "dapAn": "C. next to the desk",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "In my room, there’s a bed and a big window. There’s a desk in front of the window and a lamp on the desk. There’s also a chair next to the desk.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>How is the window?</b> <i>(Cửa sổ thế nào?)</i>, đoạn trong bài đọc liên quan là <b>In my room, there's a bed and a big window.</b> <i>(Trong phòng tôi, có một cái giường và một cửa sổ lớn).</i><br />\r\nNên đáp án là <span style=\"color:red\"><b>A. big</b></span> <i>(lớn)</i>.<br />\r\n<br />\r\n<b>2.</b> Với câu hỏi <b>Where is the desk?</b> <i>(Cái bàn ở đâu?)</i>, đoạn trong bài đọc liên quan là <b>There's a desk in front of the window.</b> <i>(Có một cái bàn ở trước cửa sổ.)</i>.<br />\r\nNên đáp án là <span style=\"color:red\"><b>C. in front of the window</b></span> <i>(phía trước cửa sổ)</i>.<br />\r\n<br />\r\n<b>3.</b> Với câu hỏi <b>Where's the lamp?</b> <i>(Cái đèn ở đâu?)</i>, đoạn trong bài đọc liên quan là <b>There's a desk in front of the window and a lamp on the desk.</b> <i>(Có một cái bàn ở trước cửa sổ và một cái đèn ở trên bàn.)</i>.<br />\r\nNên đáp án là <b><span style=\"color:red\">B. on the desk</span></b> <i>(ở trên bàn)</i>.<br />\r\n<br />\r\n<b>4.</b> Với câu hỏi <b>Where's the chair? <i></i></b><i>(Cái ghế ở đâu?)</i>, đoạn trong bài đọc liên quan là <b>There's also a chair next to the desk.</b> <i>(Còn có một cái ghế ở bên cạnh cái bàn.)</i>.<br />\r\nNên đáp án là <span style=\"color:red\"><b>C. next to the desk</b></span> <i>(ở cạnh cái bàn)</i>.<br />",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7fa18d1c-5097-4be8-b406-3e0ff7065d55"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "215e77bb-859c-4483-a797-9f882093bb31"
+          },
+          "cauHoi": "How many windows does the room have?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "258f89b9-d3f1-41ca-b11e-4a2a60e6b0fc"
+              },
+              "dapAn": "A. one",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5614295e-d6ed-4fb4-ae35-f6e7f8266bb6"
+              },
+              "dapAn": "B. two",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "c432dac3-30d4-4faf-810c-f69a51c36850"
+              },
+              "dapAn": "C. three",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "1eeb34a7-75ce-4128-a830-02ea24594f2c"
+          },
+          "cauHoi": "Where is the bed?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a2098dc5-40d9-4f2f-96ad-1919990f89b9"
+              },
+              "dapAn": "A. next to the desk",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "07a440d4-212e-4543-837a-5ff4c93b9494"
+              },
+              "dapAn": "B. next to the chair",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c2248c8b-ced2-4680-88e8-9346315bee10"
+              },
+              "dapAn": "C. next to the windows",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "737ec23d-434e-46f5-a0c6-0b1db93e656e"
+          },
+          "cauHoi": "How is the desk?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c3470b16-41a9-4ffd-bd55-85af355606c3"
+              },
+              "dapAn": "A. small",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "8ecdfb60-5cb6-4714-8993-43f973f3c272"
+              },
+              "dapAn": "B. big",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "663d1c7f-9b05-4b53-834e-9118a9963db2"
+              },
+              "dapAn": "C. nice",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "6a1415da-6ac6-41af-b00c-d2004a3891c3"
+          },
+          "cauHoi": "How much is the room?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "931e50d9-9e8a-4daf-9f79-ffce1ae9ee6d"
+              },
+              "dapAn": "A. $100",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "df2209a8-c8a6-4526-b74b-4afd8239b375"
+              },
+              "dapAn": "B. $200",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "38838a55-39bd-4dde-a62a-bef6ad022d2e"
+              },
+              "dapAn": "C. $300",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td> \n                        <td>Does the room have windows?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Hotel worker:</b></td> \n                        <td>Your bed is next to two big windows.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td> \n                        <td>What else does the room have in it?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Hotel worker:</b></td> \n                        <td>There's a small desk and a chair. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td> \n                        <td>How much is it?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Hotel worker:</b></td> \n                        <td>It's $100. Please pay at the hotel on Friday.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>How many windows does the room have?</b> <i>(Căn phòng có bao nhiêu cửa sổ?),</i> đoạn trong bài đọc liên quan là <b>Your bed is next to two big windows.</b> <i>(Giường của bạn ở cạnh hai cửa sổ to.)</i>.<br /> Nên đáp án là <span style=\"color:red\"><b>B. two</b></span> <i>(hai).</i><br /> <br /> <b>2.</b> Với câu hỏi <b>Where is the bed?</b> <i>(Giường ở đâu?</i>), đoạn trong bài đọc liên quan là <b>Your bed is next to two big windows.</b> <i>(Giường của bạn ở cạnh hai cửa sổ to.).</i><br /> Nên đáp án là <b><span style=\"color:red\">C. next to the windows</span></b> <i>(ở cạnh những cái cửa sổ)</i>.<br /> <br /> <b>3.</b> Với câu hỏi <b>How is the desk?</b> <i>(Cái bàn thế nào?)</i>, đoạn trong bài đọc liên quan là <b>There's a small desk and a chair.</b> <i>(Có một cái bàn nhỏ và một cái ghế.)</i>.<br /> Nên đáp án là <span style=\"color:red\"><b>A. small</b></span> <i>(nhỏ).</i><br /> <br /> <b>4.</b> Với câu hỏi <b>How much is the room?</b> <i>(Căn phòng có giá bao nhiêu?)</i>, đoạn trong bài đọc liên quan là <b>It's $100.</b> <i>(100 đô-la).</i><br /> Nên đáp án là <span style=\"color:red\"><b>A. $100</b></span> <i>(100 đô-la).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "bc90afbf-e5a4-4ed2-91f1-c19ea14e7d3e"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "5daa0404-b77a-4e0e-a9e5-a1b7afc8adee"
+          },
+          "cauHoi": "How is the bed?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "1c80e000-56eb-42bc-808f-841dfb2148b7"
+              },
+              "dapAn": "A. small",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "26c391d3-548f-4ed8-b590-5dd87a267a44"
+              },
+              "dapAn": "B. big",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b4da781b-5176-4662-b677-a8baea7997ba"
+              },
+              "dapAn": "C. ugly",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f8f1ff87-4211-4179-86eb-23a685515e72"
+          },
+          "cauHoi": "Where is the bag?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "92b1d405-fa05-4fe2-a55c-71a826945ee6"
+              },
+              "dapAn": "A. under the lamp",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1631c16c-9892-47e2-b705-6bf343abd38a"
+              },
+              "dapAn": "B. under the bed",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "51716f0f-5413-46ab-bcf3-b193e2314ef9"
+              },
+              "dapAn": "C. next to the door",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f046c5c6-e406-4517-9393-ce0ff13f5ab0"
+          },
+          "cauHoi": "Where are the books?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c14f49ef-1a96-4914-a96b-36c66315beba"
+              },
+              "dapAn": "A. on the bag",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "00bb0061-981d-4509-baca-386f467366ac"
+              },
+              "dapAn": "B. under the lamp",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cfe5dcde-fb22-41fa-b122-b7b316d287e4"
+              },
+              "dapAn": "C. on the bed",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "e1829747-499e-444f-b2dc-0b9a370b4e36"
+          },
+          "cauHoi": "Where is the lamp?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d8225359-81d3-4ffc-a785-5455f67650f9"
+              },
+              "dapAn": "A. next to the door",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "6af7369f-f8f8-43f6-a772-b13f749cfe0c"
+              },
+              "dapAn": "B. next to the bed",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6bdbe7bf-9d5c-4de0-84a8-be276639cd14"
+              },
+              "dapAn": "C. next to the bag",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Look! This is Lisa’s room. There’s a big bed in the room. The bag is under the bed and the books are on the bed. There’s a lamp next to the door.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>How is the bed?</b> <i>(Giường thế nào?)</i>, đoạn trong bài đọc liên quan là <b>There's a big bed in the room.</b> <i>(Trong phòng có một cái giường lớn.)</i>.<br /> Nên đáp án là <span style=\"color:red\"><b>B. big</b></span> <i>(lớn)</i>.<br /> <br /><b>2.</b> Với câu hỏi <b>Where is the bag?</b> <i>(Cái túi ở đâu?)</i> đoạn trong bài đọc liên quan là <b>The bag is under the bed</b> <i>(Cái túi ở dưới giường).</i><br /> Nên đáp án là <span style=\"color:red\"><b>B. under the bed</b></span> <i>(ở dưới giường)</i>.<br /> <br /><b>3.</b> Với câu hỏi <b>Where are the books?</b> <i>(Những quyển sách ở đâu?)</i>, đoạn trong bài đọc liên quan là <b>the books are on the bed</b> <i>(những quyển sách ở trên giường).</i><br /> Nên đáp án là <span style=\"color:red\"><b>C. on the bed</b></span><i> <span style=\"color:red\"><b></b></span>(ở trên giường).</i><br /> <br /><b>4.</b> Với câu hỏi <b>Where is the lamp?</b><i> <b></b>(Cái đèn ở đâu?)</i>, đoạn trong bài đọc liên quan là <b>There's a lamp next to the door.</b><i> <b></b>(Có một cái đèn ở cạnh cửa.).</i><br /> Nên đáp án là <b><span style=\"color:red\">A. next to the door</span></b> <i>(ở cạnh cửa).</i>",
+      "danhSachDapAn": []
+    }
+  ]
+}

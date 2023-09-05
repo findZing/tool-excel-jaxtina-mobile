@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "75b55330-fb4e-48fa-8cf2-dbed8a4367b0"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "cee982fc-7f72-49cf-82ab-706dd391379e"
+          },
+          "cauHoi": "Where does she live?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f0ed9e50-180d-482c-bd5e-ca66a65cce5f"
+              },
+              "dapAn": "A. in a city",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "6ac779c8-32ea-4be7-ab05-4a675cc5e6f9"
+              },
+              "dapAn": "B. at a village",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "92af5e3a-08c6-4c3e-915d-8e1125b66fe4"
+              },
+              "dapAn": "C. at a small town",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0059c7c3-b832-4932-954b-5d04c312dbf6"
+              },
+              "dapAn": "D. in countryside",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "b0e7f33e-183f-441b-8618-218565ca2647"
+          },
+          "cauHoi": "What does she do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3ea7bd8b-ed41-4322-a995-fb193e1eaa9d"
+              },
+              "dapAn": "A. a doctor",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9c623c69-f89c-459e-8b5a-d4f8342eb76b"
+              },
+              "dapAn": "B. a scientist",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "75427b3f-f780-46ae-9c5e-884af9b7667e"
+              },
+              "dapAn": "C. a waitress",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "c8deb8ae-0716-4081-9ab5-66c663f5102b"
+              },
+              "dapAn": "D. a waiter",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ce5aa3c0-8681-424f-a667-d837e278b07c"
+          },
+          "cauHoi": "Where does she work?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "083841cc-70a3-435a-9f26-a7d5c0fa6314"
+              },
+              "dapAn": "A. She works in a restaurant",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "dc2ccb05-a1ae-492c-8306-77e8304e465d"
+              },
+              "dapAn": "B. She works in a shop.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9b948473-0154-4c63-893e-35d5e8254fe2"
+              },
+              "dapAn": "C. She works in a hotel.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a0cfd155-c619-483a-8034-e0391bd63dc1"
+              },
+              "dapAn": "D. She works in a café.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "704fafe8-96e4-458e-ba15-990e059d5a8c"
+          },
+          "cauHoi": "Who does she meet every day?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6e530fe7-7b5d-44f2-991d-bfd44a1fce90"
+              },
+              "dapAn": "A. the elderly",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "23124534-c831-4a72-9f33-fdcb39452da3"
+              },
+              "dapAn": "B. old people",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "32a1b230-9bb6-4f8b-b44e-80ad321dad36"
+              },
+              "dapAn": "C. new people",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "442515c8-05ba-4417-9bb2-62596519443f"
+              },
+              "dapAn": "D. the young",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Hi, I'm Marie. I live in a city. I'm a waitress. I don't work in a restaurant. I work in a café. I meet new people every day.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Where does she live?</b> <i>(Cô ấy sống ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>I live in a city.</b> <i>(Tôi sống ở một thành phố.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. in a city</b></span> <span style=\"color:red\"></span><i>(ở một thành phố).</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>What does she do?</b> <i>(Cô ấy làm nghề gì?),</i> <b></b>câu trong bài đọc liên quan là <b>I'm a waitress.</b> <i>(Tôi là một nhân viên phục vụ.).</i> Nên đáp áp là <span style=\"color:red\"><b>C. a waitress</b></span> <span style=\"color:red\"><i></i></span><i>(nhân viên phục vụ).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>Where does she work?</b> <i>(Cô ấy làm việc ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>I work in a café.</b> <i>(Tôi làm việc tại một quán cà phê.).</i> Nên đáp áp là <span style=\"color:red\"><b>D. She works in a café</b></span><i>. (Cô ấy làm việc tại một quán cà phê.)</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>Who does she meet every day?</b> <i>(Cô ấy gặp ai mỗi ngày?),</i> <b></b>câu trong bài đọc liên quan là <b>I meet new people every day.</b> <i>(Tôi gặp những người mới mỗi ngày.).</i> Nên đáp áp là <span style=\"color:red\"><b>C. new people</b></span> <span style=\"color:red\"></span><i>(những người mới.)</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ee15a65f-be02-4f98-8bd6-f51ad076edc4"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "820e4dc7-c69e-496b-bae5-200907798b64"
+          },
+          "cauHoi": "What does she do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b9b98730-af81-4018-9463-cb594756a2d0"
+              },
+              "dapAn": "A. a police officer",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "272b36df-9619-44bd-b78b-e692c3d3d4f2"
+              },
+              "dapAn": "B. a lawyer",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f29c8c08-c6c1-4f64-86c2-590d03bb653b"
+              },
+              "dapAn": "C. a teacher",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "9b14f195-4894-4b87-9731-fc387e0a88af"
+              },
+              "dapAn": "D. a student",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "23c802d1-1eaa-401e-8f97-09ba77319c88"
+          },
+          "cauHoi": "What does she teach in a school?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ba3b60b5-901f-461d-8850-3add126cd920"
+              },
+              "dapAn": "A. Chinese",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "198cf725-0983-4e16-8851-5899711ccd97"
+              },
+              "dapAn": "B. Thai",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "938aaafc-f3c0-42ce-8bb6-4d452799b62c"
+              },
+              "dapAn": "C. Korean",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c86ff6fa-f2e3-410c-9dfc-7d594057579c"
+              },
+              "dapAn": "D. English",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "71501b0e-8d6d-468e-a344-cde9e0dbbfea"
+          },
+          "cauHoi": "What does she say about students?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "11e68613-f2fd-4ea8-8eba-b69f03f60719"
+              },
+              "dapAn": "A. nice",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3c36a65c-ef81-4100-bdcf-321829d6fe8b"
+              },
+              "dapAn": "B. ugly",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "45e0fc00-3680-4d5e-ad0d-a6f3bf47d2d8"
+              },
+              "dapAn": "C. unfriendly",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fadc63f4-9097-49e2-b2d8-dc1797fb90c5"
+              },
+              "dapAn": "D. good",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "c71fe16f-952f-43d3-9c0a-f066cb05b8a2"
+          },
+          "cauHoi": "What does she say about her job?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f32ab20f-bef9-4de3-b713-3ddf3480b643"
+              },
+              "dapAn": "A. She hates her job.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "20714bdc-01e3-41ac-ac26-bf2950e8de6e"
+              },
+              "dapAn": "B. She earns lots of money from this job.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e6ccb477-e568-44cc-acc6-835a32fab609"
+              },
+              "dapAn": "C. She doesn’t like her job.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "11e43a9a-aedd-4a3a-8474-7929da9d2c93"
+              },
+              "dapAn": "D. She likes her job.",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Hello. My name is Linda. I'm a teacher. I teach Chinese in a school. The students are nice. I like my job.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What does she do?</b> <i>(Cô ấy làm nghề gì?),</i> <b></b>câu trong bài đọc liên quan là <b>I'm a teacher.</b> <i>(Tôi là một giáo viên.).</i> Nên đáp áp là <span style=\"color:red\"><b>C. a teacher</b></span> <i>(một giáo viên).</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>What does she teach in a school?</b> <i>(Cô ấy dạy gì ở trường?),</i> <b></b>câu trong bài đọc liên quan là <b>I teach Chinese in a school.</b> <i>(Tôi dạy tiếng Trung Quốc ở một trường học.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. Chinese</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(Tiếng Trung Quốc).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>What does she say about students?</b> <i>(Cô ấy nói gì về các học sinh?),</i> <b></b>câu trong bài đọc liên quan là <b>The students are nice.</b> <i>(Các học sinh rất tốt.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. nice</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(rất tốt).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>What does she say about her job?</b> <i>(Cô ấy nói gì về công việc của mình?),</i> <b></b>câu trong bài đọc liên quan là <b>I like my job.</b> <i>(Tôi thích công việc của tôi.).</i> Nên đáp áp là <span style=\"color:red\"><b>D. She likes her job.</b></span> <span style=\"color:red\"></span><i>(Cô ấy yêu thích công việc của mình.).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e32894d4-4016-4962-9d80-4a3a7fcef9a5"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "8e33a07c-f317-4a57-b4ec-d97c5795b3bd"
+          },
+          "cauHoi": "Who has a job?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "aeabf1ae-b727-426a-86ef-a5c97138436a"
+              },
+              "dapAn": "A. James",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f63b37e5-ab2a-48af-92bc-0ec2140f1dd2"
+              },
+              "dapAn": "B. Paige",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5588f813-2f43-41fb-870d-006e335c32fa"
+              },
+              "dapAn": "C. James’s friend",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "893cb9b0-369b-416e-a834-08f09058e254"
+              },
+              "dapAn": "D. Paige and James",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "b3e32d7f-8321-4630-acef-ae2fcdc5c7cd"
+          },
+          "cauHoi": "What is James’s job?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d2b33213-d315-47fb-b50c-4eba8e294f64"
+              },
+              "dapAn": "A. a driver",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e9aa1192-a3c2-4dc3-b469-f6171153c801"
+              },
+              "dapAn": "B. a waiter",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "35182a40-318d-48c6-9c5a-8774f94004f0"
+              },
+              "dapAn": "C. a shop assistant",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "222295f3-aefa-494d-9917-944b7ccf3cda"
+              },
+              "dapAn": "D. a shop owner",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "c326af4d-799d-4b7d-8613-228f6d94b48e"
+          },
+          "cauHoi": "Where does James work?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7f1df6c8-cb00-4a5b-b16b-86e29d732b7d"
+              },
+              "dapAn": "A. in a shopping center",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "2d3ac73e-26cf-4de8-9970-facdaf25c938"
+              },
+              "dapAn": "B. in a school",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2780248a-c0e7-412a-8274-68b58be12e3a"
+              },
+              "dapAn": "C. in a bank",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "38b0b99f-a909-4e57-a27f-b7a3e7be8c62"
+              },
+              "dapAn": "D. in a shop",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "1abc73a9-d701-42d8-a9d7-a5fb0bf33cb6"
+          },
+          "cauHoi": "How is the shopping center?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9219f2c4-16c8-4fcb-a2e0-c5a0e61e5d25"
+              },
+              "dapAn": "A. It’s nice.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2122d783-9b67-4c0b-853a-a8cce66970f5"
+              },
+              "dapAn": "B. It’s big.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "12c46ddc-63d2-41a2-88a3-9a9c2a429d51"
+              },
+              "dapAn": "C. It’s new.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "29f285da-81bd-4483-9d41-860cfc9e1fe7"
+              },
+              "dapAn": "D. It’s small.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td><b>James:</b></td>\n                        <td>Guess what? I have a job now!</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Paige:</b></td> \n                        <td>Really? What is it?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>James:</b></td> \n                        <td>I'm a shop assistant.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Paige:</b></td> \n                        <td>Congratulations! Where do you work?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>James:</b></td> \n                        <td>I work in a big shopping center.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Who has a job?</b> <i>(Ai có việc làm?),</i> <b></b>câu trong bài đọc liên quan là <b>I have a job now!</b> <i>(Tớ có việc làm rồi này!).</i> Nên đáp áp là <span style=\"color:red\"><b>A. James</b></span><i>.</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>What is James's job?</b> <i>(Công việc của James là gì?),</i> câu trong bài đọc liên quan là <b>I'm a shop assistant.</b> <i>(Tớ làm nhân viên bán hàng.).</i> Nên đáp áp là <span style=\"color:red\"><b>C. a shop assistant</b></span> <i>(một nhân viên bán hàng).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>Where does James work?</b> <i>(James làm việc ở đâu?),</i> câu trong bài đọc liên quan là <b>I work in a big shopping center.</b> <i>(Tớ làm trong một trung tâm mua sắm lớn đấy.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. in a shopping center</b></span> <i>(trong một trung tâm mua sắm).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>How is the shopping center?</b> <i>(Trung tâm thương mại thế nào?),</i> câu trong bài đọc liên quan là <b>I work in a big shopping center.</b> <i>(Tớ làm trong một trung tâm mua sắm lớn đấy.).</i> Nên đáp áp là <span style=\"color:red\"><b>B. It's big.</b></span> <i>(Nó lớn.).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "419f7635-ea46-4899-a141-c14b14b51394"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "897f1dcb-a1e3-4539-858e-260e3cf2f5d7"
+          },
+          "cauHoi": "What does the writer’s brother do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6cca0fa2-b000-4060-a5ba-789769f1306d"
+              },
+              "dapAn": "A. an engineer",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1896ea8a-5239-4c6a-ab3b-632ca192ebf6"
+              },
+              "dapAn": "B. a doctor",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "72df14d0-e8ee-4d09-9b6f-e1901d2dfcfc"
+              },
+              "dapAn": "C. a pilot",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "1e2a0510-9910-42a3-9d7f-970aaa9ecefe"
+              },
+              "dapAn": "D. a flight attendant",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "027cde88-44e0-4b91-90c6-dc3039fd420a"
+          },
+          "cauHoi": "How does he go to work?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6adfc932-a1cc-4a44-b54f-e1a3ad01e1bf"
+              },
+              "dapAn": "A. by car",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "8da0c5b0-8ea5-4c05-b7e8-c13e8549e9ac"
+              },
+              "dapAn": "B. by bus",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b931682c-c418-455e-b2a5-1f7f80b38abd"
+              },
+              "dapAn": "C. by train",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ab4cc0eb-773c-49f3-bc05-2c776a4c3304"
+              },
+              "dapAn": "D. on foot",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "7a2f0490-3e4b-4acb-8edf-c6dd8ad1f990"
+          },
+          "cauHoi": "Which languages does he speak?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "4af45478-e057-4d4d-b4a1-6afd6018cd12"
+              },
+              "dapAn": "A. German, French and Chinese",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1d002ee7-697d-409b-9a37-4207ec6a27cf"
+              },
+              "dapAn": "B. German, French and English",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "bac90332-93ba-40bc-8f5b-53ce99a27ab8"
+              },
+              "dapAn": "C. German, Chinese and English",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3111a0bb-77e6-488c-bdd0-517210bb93e5"
+              },
+              "dapAn": "D. German, French and China",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "fd293ccf-f362-47ad-a597-c7742e278b17"
+          },
+          "cauHoi": "Where does he live?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6f0ea22a-e929-44f8-8300-8dadeabe6517"
+              },
+              "dapAn": "A. in an apartment",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "0a38632c-a578-491b-98de-4f7ec78d6060"
+              },
+              "dapAn": "B. at a village",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e894156b-5012-43e2-af9f-75e579cb1cdc"
+              },
+              "dapAn": "C. in a tent",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6530d0d8-ed0c-40b9-8467-c47a1b4aea45"
+              },
+              "dapAn": "D. in a building",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "My brother is a pilot. He goes to work by car. He speaks three languages: German, French and English. He likes his job. He lives in an apartment.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What does the writer's brother do?</b> <i>(Anh trai của người viết làm nghề gì?),</i> <b></b>câu trong bài đọc liên quan là <b>My brother is a pilot.</b> <i>(Anh trai tôi là một phi công.).</i> Nên đáp áp là <span style=\"color:red\"><b>C. a pilot</b></span> <i>(một phi công).</i><br />\r\n<br />\r\n<b>2.</b> Với câu hỏi <b>How does he go to work?</b> <i>(Anh ấy tới chỗ làm bằng phương tiện gì?),</i> <b></b>câu trong bài đọc liên quan là <b>He goes to work by car.</b> <i>(Anh ấy tới chỗ làm bằng xe ô tô.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. by car</b></span> <i>(bằng ô tô).</i><br />\r\n<br />\r\n<b>3.</b> Với câu hỏi <b>Which languages does he speak?</b> <i>(Anh ấy nói những ngôn ngữ nào?),</i> câu trong bài đọc liên quan là <b>He speaks three languages: German, French and English.</b> <i>(Anh ấy nói 3 ngôn ngữ: tiếng Đức, tiếng Pháp và tiếng Anh.).</i> Nên đáp áp là <span style=\"color:red\"><b>B. German, French and English</b></span> <i>(tiếng Đức, tiếng Pháp và tiếng Anh).</i><br />\r\n<br />\r\n<b>4.</b> Với câu hỏi <b>Where does he live?</b> <i>(Anh ấy sống ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>He lives in an apartment.</b> <i>(Anh ấy sống trong một căn hộ.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. in an apartment</b></span> <i>(trong một căn hộ).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8509e431-2c57-40dc-920b-9b6137ab363a"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "dda20f0d-6cd0-4793-904a-8698b8fc6663"
+          },
+          "cauHoi": "When does James work?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "e075f934-3309-4a3f-bd55-8eb9b4aa4e48"
+              },
+              "dapAn": "A. from Tuesday to Sunday",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e7787883-8e31-43b6-b589-0f2704d132b1"
+              },
+              "dapAn": "B. from Tuesday to Friday",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ee9f9490-95a8-4f8f-84c2-87cf9c34c67b"
+              },
+              "dapAn": "C. only Tuesday and Saturday",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a563ef9e-e939-4a5a-8475-c6b0891ba032"
+              },
+              "dapAn": "D. from Tuesday to Saturday",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "2b593389-7221-4738-9a54-527ae4f69412"
+          },
+          "cauHoi": "How many days a week does James work?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f4af00e4-d4d1-49eb-bc1c-f51cf6cc4f9d"
+              },
+              "dapAn": "A. 4",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2d28d11f-7b88-4c4a-b4f3-9577469404fb"
+              },
+              "dapAn": "B. 5",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "43c946f5-d31b-45b1-8557-f0018974de56"
+              },
+              "dapAn": "C. 6",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "719e507b-3174-439c-ac76-87005ade939a"
+              },
+              "dapAn": "D. 7",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "44be1944-7ca1-43f0-bd30-987b59f75959"
+          },
+          "cauHoi": "What does David do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9c0df827-fc7a-48f6-b303-a5c90d46b282"
+              },
+              "dapAn": "A. an engineer",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a2f3beb8-15fb-4dff-b899-cc4e782b7853"
+              },
+              "dapAn": "B. a scientist",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3857983c-a78c-44f6-a860-8a98655f537f"
+              },
+              "dapAn": "C. a teacher",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "d68a25c0-d911-492b-9d2d-8e2e4be53770"
+              },
+              "dapAn": "D. a pilot",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "633c0f3e-9d0c-444e-bb97-eb4aa41a9938"
+          },
+          "cauHoi": "What subject does David teach?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "22d3e243-8051-4e1a-aac2-3f4951f1b96a"
+              },
+              "dapAn": "A. Science",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bc6863fa-db77-49a0-94f4-b79b87c5dd70"
+              },
+              "dapAn": "B. Maths",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "ff61d199-2e59-4968-b298-fb16c546dd1b"
+              },
+              "dapAn": "C. Arts",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6a13a955-bb37-463e-a4a3-deb95adedb5d"
+              },
+              "dapAn": "D. English",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Paige:</b></td> \n                        <td>Do you work every day?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>James:</b></td> \n                        <td>No, I don't. I work from Tuesday to Saturday.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Paige:</b></td> \n                        <td>How about David? What does he do?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>James:</b></td> \n                        <td>He is a teacher.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Paige:</b></td> \n                        <td>What subject does he teach? </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>James:</b></td> \n                        <td>He teaches Maths.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>When does James work?</b> <i>(Khi nào James đi làm?),</i> câu trong bài đọc liên quan là <b>I work from Tuesday to Saturday.</b> <i>(Tớ làm từ thứ Ba đến thứ Bảy.).</i> Nên đáp áp là <span style=\"color:red\"><b>D. from Tuesday to Saturday</b></span> <i>(từ thứ Ba đến thứ Bảy).</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>How many days a week does James work?</b> <i>(Một tuần James đi làm bao nhiêu ngày?),</i> câu trong bài đọc liên quan là <b>I work from Tuesday to Saturday.</b> <i>(Tớ làm từ thứ Ba đến thứ Bảy.).</i> Nên đáp áp là <span style=\"color:red\"><b>B. 5</b></span> <i>(5).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>What does David do?</b> <i>(David làm nghề gì?),</i> câu trong bài đọc liên quan là <b>He is a teacher.</b> <i>(Cậu ấy là giáo viên.).</i> Nên đáp áp là <span style=\"color:red\"><b>C. a teacher</b></span> <i>(một giáo viên).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>What subject does David teach?</b> <i>(David dạy môn gì?),</i> câu trong bài đọc liên quan là <b>He teaches Maths.</b> <i>(Cậu ấy dạy Toán.).</i> Nên đáp áp là <span style=\"color:red\"><b>B. Maths</b></span> <i>(môn Toán).</i>",
+      "danhSachDapAn": []
+    }
+  ]
+}

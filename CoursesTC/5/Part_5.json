@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "521276e5-4634-46e2-902a-cd6a1e75b974"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Hello everyone, I'm talking to ___________ producer, Scott Fleming.",
+      "yNghia": "Hello everyone, I'm talking to <span style=\"color:red\">music </span>producer, Scott Fleming.<br />\r\n<i><span style=\"color:#202124\">Xin chào tất cả mọi người. Tôi đang nói chuyện với nhà sản xuất </span></i><i><span style=\"color:red\">âm nhạc</span></i><i><span style=\"color:#202124\">, Scott Fleming.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c8ed38ff-ce61-4fe8-b814-fabf83072e20"
+          },
+          "dapAn": "film",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ed17821c-4899-4194-94b3-912ce3eb08f3"
+          },
+          "dapAn": "music",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9aa5c0ff-3d4f-4f1f-83b7-41c00c41e78e"
+          },
+          "dapAn": "content",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_1. Hello ... Fleming.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_1. Hello ... Fleming.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d16cd6ab-062f-4ab8-834a-0778f642b116"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Scott started his career as a ___________ technician.",
+      "yNghia": "Scott started his career as a <span style=\"color:red\">sound </span>technician<br />\r\n<i><span style=\"color:#202124\">S</span><span style=\"color:#202124\">cott </span></i><i><span style=\"color:#202124\">bắt đầu sự nghiệp của anh ấy như là một kỹ thuật viên </span></i><i><span style=\"color:red\">âm thanh</span></i><i><span style=\"color:#202124\">.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "023ba80a-c8b5-4449-9606-6977f94eebc6"
+          },
+          "dapAn": "sound",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1d1b3356-320b-4f46-b6b6-2d31c66d344e"
+          },
+          "dapAn": "image",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a3adee92-694a-475e-aadb-bb5905a05ef3"
+          },
+          "dapAn": "electronic",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_2. Scott ... technician.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_2. Scott ... technician.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1d82e482-9a7b-4c2e-afe5-e265eaeb6890"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "As a sound technician, I used to check the sound ___________.",
+      "yNghia": "As a sound technician,<b> </b>I used to check the sound <span style=\"color:red\">levels </span>at music concerts.<br />\r\n<i>Là một kỹ thuật viên âm thanh</i><i><span style=\"color:#202124\">, tôi đã từng kiểm tra </span></i><i><span style=\"color:red\">mức độ </span></i><i><span style=\"color:#202124\">âm thanh tại các</span></i><i><span style=\"color:#202124\"> buổi hòa nhạc.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b36e42b2-6c5c-4b74-8e24-f8bbee6a00a6"
+          },
+          "dapAn": "levels",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7073b122-1769-4064-b261-b152e3dea5e7"
+          },
+          "dapAn": "quality",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "03d3f0dd-3240-4690-8f57-cd6be95012c1"
+          },
+          "dapAn": "volumn",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_3. As ... concerts.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_3. As ... concerts.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6fabcd15-44e5-4fb8-982e-4a841d53a53f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Many people say this is ___________ work, right?",
+      "yNghia": "Many people say this is <span style=\"color:red\">hard </span>work, right?<br />\n<i><span style=\"color:#202124\">Nhiều người nói rằng đây là công việc </span></i><i><span style=\"color:red\">khó khăn</span></i><i><span style=\"color:#202124\">, phải không?</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c2a04158-1935-49f7-841f-4a037cbb33b2"
+          },
+          "dapAn": "easy",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3b61684e-96a2-4f44-9b38-a3bd8dff191c"
+          },
+          "dapAn": "hard",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f00ebd6d-ea4a-4686-b2e3-42d397305fb3"
+          },
+          "dapAn": "fun",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_4. Many ... right.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_4. Many ... right.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "addc740b-48ca-46b7-b14d-6e774e1f1591"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I used to be a ___________ in a club before he went into music production.",
+      "yNghia": "I used to be a <span style=\"color:red\">DJ</span> in a club before he went into music production.<br />\r\n<i><span style=\"color:#202124\">Tôi đã từng làm </span></i><i><span style=\"color:red\">DJ</span></i><i><span style=\"color:#202124\"> trong một câu lạc bộ trước khi anh ấy bắt đầu sản xuất âm nhạc.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c2ca071c-0720-4211-8110-83aa6a554c00"
+          },
+          "dapAn": "DJ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "37f963ae-782b-44a1-be5a-1622cfe56c36"
+          },
+          "dapAn": "music producer",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fae4a0c8-1fac-4731-b54c-aa6e3457012c"
+          },
+          "dapAn": "dancer",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_5. I ... production.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_5. I ... production.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ade40d5c-5ab5-48bd-95f4-eff2290a2b91"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "A music producer helps bands ___________ their songs.",
+      "yNghia": "A music producer helps bands <span style=\"color:red\">produce</span> their songs.<br />\r\n<i>Nhà sản xuất âm nhạc giúp các ban nhạc <span style=\"color:red\">sản xuất </span>những bài hát của họ. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "09ceabaa-8951-4534-aa89-6c38de3c3648"
+          },
+          "dapAn": "edit",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1d33588b-73d6-47aa-8e41-d3404045c23b"
+          },
+          "dapAn": "sing",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fd531339-1575-4be3-9b66-d9aec43bd845"
+          },
+          "dapAn": "produce",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_6. A ... songs.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_6. A ... songs.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "62af957f-2303-41f8-908b-1b635e090ec3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The music producer and bands go into the ___________ together and record their songs.",
+      "yNghia": "The music producer and bands go into the <span style=\"color:red\">studio </span>together and record their songs.<br />\r\n<i>Các nhà sản xuất âm nhạc và các ban nhạc cùng nhau vào <span style=\"color:red\">studio</span> và ghi âm những bài hát của họ. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b5d26a20-1ada-4831-8edf-3ee91edb2a6f"
+          },
+          "dapAn": "studio",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0b177dd6-e421-4212-aaef-825cf75da1e2"
+          },
+          "dapAn": "apartment",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b3aac79b-1794-4dc3-aec0-575dcc1c7504"
+          },
+          "dapAn": "music center",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_7. The ... songs.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_7. The ... songs.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3fcfa262-70e3-439d-b394-8018b4b59b53"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Music producers ___________ write the songs.",
+      "yNghia": "Music producers <span style=\"color:red\">don't </span>write the songs.<br />\r\n<i>Những nhà sản xuất âm nhạc không viết nhạc. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0ff56c43-7846-4ddd-9c78-a5c3724c63c7"
+          },
+          "dapAn": "don't",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9e32096b-3da4-497a-a955-9919af80b718"
+          },
+          "dapAn": "sometimes",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e52c805b-ca56-4e52-a5dd-894592af0b30"
+          },
+          "dapAn": "rarely",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_8. Music ... songs.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_8. Music ... songs.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "15bd38bc-479d-47aa-95c1-42f5ee77e305"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Writing songs is the ___________'s job.<b> </b>",
+      "yNghia": "Writing songs is the <span style=\"color:red\">songwriter</span>'s job.<b> </b><br />\r\n<i>Việc viết nhạc là công việc của <span style=\"color:red\">nhạc sĩ</span>. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f025f947-2223-4983-9dbc-f428c9342971"
+          },
+          "dapAn": "singer",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "42cc6d45-f7fa-453b-9246-f830c24cc392"
+          },
+          "dapAn": "songwriter",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "aca3efd0-f36b-4b29-8d2b-1b88fb3cbc53"
+          },
+          "dapAn": "music producer",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_9. Writing ... job.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_9. Writing ... job.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a2e786c5-455e-43d6-add0-d07110df5a58"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "And what is the most important ____ in the music industry?",
+      "yNghia": "And what is the most important <span style=\"color:red\">change </span>in the music industry?<br />\r\n<i>Và </i><i><span style=\"color:red\">thay đổi </span></i><i>quan trọng nhất trong ngành công nghiệp âm nhạc là gì? </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "04040c7e-3540-4be2-b1a7-9ade1017278f"
+          },
+          "dapAn": "change",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "92d0d492-cdc2-4c10-88d5-e833873462b4"
+          },
+          "dapAn": "transition",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "cceb12a3-6922-48b2-b2af-9927ae9ef0a6"
+          },
+          "dapAn": "role",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_10. And ... industry.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_10. And ... industry.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "90b41ac8-7531-4d7d-9be8-66db266b1622"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I think it's the importance of music ___________.",
+      "yNghia": "I think it's the importance of music <span style=\"color:red\">videos</span>.<br />\r\n<i>Tôi nghĩ là tầm quan trọng của <span style=\"color:red\">video</span> âm nhạc.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "41953d9d-e4a0-47df-9c52-10c84c5a3dba"
+          },
+          "dapAn": "content",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "770d6630-221f-4b30-ac8d-6fed91f9ed92"
+          },
+          "dapAn": "lyrics",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bcbc4137-5db3-43ec-a4e6-a3d79783e41c"
+          },
+          "dapAn": "videos",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_11. I ... videos.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_11. I ... videos.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "7610c260-3672-4253-978b-29354805a393"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Music videos are so popular because it is important for ___________.",
+      "yNghia": "Music videos are so popular because it is important for <span style=\"color:red\">marketing</span>.<br />\r\n<i>Các video âm nhạc rất thịnh hành vì nó quan trọng trong <span style=\"color:red\">marketing</span>. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ed0dbe3f-4bc0-4b44-9df1-cda55177166c"
+          },
+          "dapAn": "marketing",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4559e47f-20df-4748-9c8d-3961a4511a80"
+          },
+          "dapAn": "singing",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4a9a123f-e7c0-4a07-804d-b1a4b757b51e"
+          },
+          "dapAn": "production",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_12. Music ... marketing.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_12. Music ... marketing.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ace4be9f-c7a9-40ff-a1d2-776a6cc911b4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "People these days go crazy for the ___________ in the videos.",
+      "yNghia": "People these days go crazy for the <span style=\"color:red\">dances</span> in the videos.<br />\r\n<i>Mọi người ngày nay phát cuồng về <span style=\"color:red\">những điệu nhảy</span> trong các video. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "872e1e93-30d3-4d32-9a63-b7253f514363"
+          },
+          "dapAn": "lyrics ",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0782f7dc-6469-471c-90b0-8fe4afeec831"
+          },
+          "dapAn": "singers",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a4f84d31-979a-4601-bd26-ef8afae43a3a"
+          },
+          "dapAn": "dances",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_13. People ... videos.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_13. People ... videos.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "386e6565-dc85-42b8-8e16-0f504e98eca2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "\"Gangnam Style\", a popular Korean music video, became ___________ famous.",
+      "yNghia": "\"Gangnam Style\", a popular Korean music video, became <span style=\"color:red\">world </span>famous.<br />\r\n<i><span style=\"color:#202124\">\"Gangnam Style\", một video âm nhạc nổi tiếng của Hàn Quốc, đã trở nên nổi tiếng </span></i><i><span style=\"color:red\">toàn thế giới.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bbf8fb27-807e-4eca-ac2b-29a310a95936"
+          },
+          "dapAn": "world",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "27256857-1477-4ec7-b0bc-c02f59dcb793"
+          },
+          "dapAn": "locally",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7c3ae1fc-b638-42ed-8dd6-1501fcc2cabf"
+          },
+          "dapAn": "nationally",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_14. Gangnam ... famous.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_14. Gangnam ... famous.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "76d54021-adce-46e9-882c-3fa2b58192aa"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That's the ___________ of the internet.",
+      "yNghia": "That's the <span style=\"color:red\">power</span> of the internet.<br />\r\n<i>Đó là <span style=\"color:red\">sức mạnh </span>của mạng Internet. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1e783db0-4942-4c01-b6bc-f0f245582762"
+          },
+          "dapAn": "fun",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "15ea332e-9b44-4dd1-a082-d65b692333e8"
+          },
+          "dapAn": "power",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d43efb71-71e7-4d91-b8be-5d9d225c3de4"
+          },
+          "dapAn": "benefit",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_15. That_s ... internet.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_15. That_s ... internet.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d5276eb9-e575-4a38-b6aa-79f7c5862933"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Now, ___________ can make a music video.",
+      "yNghia": "Now, <span style=\"color:red\">anyone</span> can make a music video.<br />\r\n<i>Hiện nay, <span style=\"color:red\">ai</span> cũng có thể tạo nên một video âm nhạc. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "62b61ce1-95cc-4bb7-889b-129687e2f74a"
+          },
+          "dapAn": "anyone",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a23473ad-36af-41f4-a6f7-789dabb2ce0a"
+          },
+          "dapAn": "music producer",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "423a888f-8327-4a00-ad4b-041650829a20"
+          },
+          "dapAn": "singer",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_16. Now ... videos.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_16. Now ... videos.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1a02817e-f0c6-4f14-a03a-ceaf9fd95c95"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "People can become ___________ by making a music video and posting it to Youtube.",
+      "yNghia": "People can become <span style=\"color:red\">successful </span>by making a music video and posting it to Youtube.<br />\r\n<i><span style=\"color:#202124\">Mọi người có thể trở nên </span></i><i><span style=\"color:red\">thành công </span></i><i><span style=\"color:#202124\">bằng cách tạo một video âm nhạc và đăng nó lên Youtube.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "49feb903-8cab-4d79-905e-8113fec9f56d"
+          },
+          "dapAn": "famous",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bdbfd533-0677-4acb-8150-3e2691c61526"
+          },
+          "dapAn": "popular",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f875f2a1-c4a7-4832-bcef-18dbe3903785"
+          },
+          "dapAn": "successful",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_17. People ... Youtube.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_17. People ... Youtube.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "8d7a70d8-4b6e-4803-a025-3f31855ffa8a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "People did not use to do that in the ___________.",
+      "yNghia": "People did not use to do that in the <span style=\"color:red\">past</span>.<br />\r\n<i>Mọi người thường không làm thế trong quá khứ. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "19ecdd86-ca26-4d76-b647-700ddf495e90"
+          },
+          "dapAn": "past",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "463f8a7f-1524-411c-956e-367dd4f8e88d"
+          },
+          "dapAn": "studio",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ae69c194-0c0f-4784-8d92-744f14668a24"
+          },
+          "dapAn": "industry",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_18. People ... past.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_18. People ... past.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "7da10e5a-d1f4-4196-bd50-c0a0445965fc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "\"Despacito\" was the ___________ music video to have over three billion views on Youtube.",
+      "yNghia": "\"Despacito\" was the <span style=\"color:red\">first </span>music video to have over three billion views on Youtube.<br />\r\n<i><span style=\"color:#202124\">\"Despacito\" là video âm nhạc </span></i><i><span style=\"color:red\">đầu tiên </span></i><i><span style=\"color:#202124\">có hơn ba tỷ lượt xem trên Youtube.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2ae9a157-bd9e-4f5e-aa78-86ec51a12f1f"
+          },
+          "dapAn": "first",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2f76f0e0-afc3-4cb6-bf33-053ed4d07b1d"
+          },
+          "dapAn": "last",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d0d21407-e7eb-4a0a-9723-d4a88851f78f"
+          },
+          "dapAn": "only",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_19. Despacito ... Youtube.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_19. Despacito ... Youtube.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "670b1b13-953c-4fbd-a0b4-76c648631d22"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Scott thinks the song \"Despacito\" is ___________.",
+      "yNghia": "Scott thinks the song \"Despacito\" is <span style=\"color:red\">amazing</span>.<br />\r\n<i>Scott nghĩ bài hát \"Despacito\" thật <span style=\"color:red\">tuyệt vời</span></i>.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cbcce5e6-0680-4e13-8d23-36bab389c20a"
+          },
+          "dapAn": "boring",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1fccd5e9-6943-4ff8-b844-e8b2b10ef37c"
+          },
+          "dapAn": "amazing",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d9fe139c-72c3-493b-9dd0-a762e4686758"
+          },
+          "dapAn": "fine",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L5/sounds/normal/TC_5_LISTENING_20. Scott ... amazing.mp3",
+      "soundSlow": "4SKILLS_TC_L5/sounds/slow/TC_5_LISTENING_20. Scott ... amazing.mp3"
+    }
+  ]
+}

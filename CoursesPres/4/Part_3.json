@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "329e68b2-2e26-48b0-957f-9840b0d6e6d8"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Excuse me, I have a question.",
+      "yNghia": "Thưa Thầy/Cô em có câu hỏi.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "26f693f4-f1b7-4643-8b8e-e5b6e71041bf"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Can you write it on the board?",
+      "yNghia": "Thầy/Cô viết lên bảng được không ạ?",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d010b9ab-91ab-41d3-aa14-f2ab21bc281f"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "How do you pronounce this?",
+      "yNghia": "Từ này phát âm như thế nào ạ?",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "28318301-071b-456f-83bb-f3ffceef6806"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "What does it mean?",
+      "yNghia": "Câu/Từ này nghĩa là gì ạ?",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9dde045e-0b09-4598-86c0-79c6204637d2"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "How are you?",
+      "yNghia": "Bạn có khỏe không?",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "dfd60cf0-25fc-44c2-8127-62b0a6e4aaf1"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "I’m fine, thanks.",
+      "yNghia": "Tôi khỏe, cảm ơn bạn.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "23601fcd-15a0-428b-92c4-74032930fc3e"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "America",
+      "yNghia": "Nước Mỹ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f409def1-c43b-4293-8e02-5e717f9f9404"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "American",
+      "yNghia": "Người Mỹ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "65c96eaf-d77e-486a-a9b0-abc99f905a5f"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Brazil",
+      "yNghia": "Nước Bra-zin",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "aa477922-bdd3-403b-89bb-edd761a3f854"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Brazilian",
+      "yNghia": "Người Bra-zin",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f38d30a9-0ec2-4419-9fa6-fb22efde38d6"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Germany",
+      "yNghia": "Nước Đức",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ceb1e82b-3d16-4f2d-91c6-b74600d0ba30"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "German",
+      "yNghia": "Người Đức, tiếng Đức",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d1114b29-aaca-44ad-ace9-431b64cc71da"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Parents",
+      "yNghia": "Bố mẹ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1590b7f6-6bce-4342-9973-8c5a669c5e2d"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Father",
+      "yNghia": "Bố",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e1ed6d76-ab57-4604-99ad-5df568ad318f"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Mother",
+      "yNghia": "Mẹ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a000ca70-d0a9-4cb6-bc08-aa6bfafbdf90"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Son",
+      "yNghia": "Con trai",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "73e19a39-5e29-433d-8e11-470bdbd660fe"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Daughter",
+      "yNghia": "Con gái",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f50f0081-8e45-4a2f-ae3a-dd7889c62d6e"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Grandfather",
+      "yNghia": "Ông",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "428b36f6-d35c-478d-ac82-b289fad8162f"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Grandmother",
+      "yNghia": "Bà",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "591b483d-769e-48f9-b1db-3964d4285545"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Grandparents",
+      "yNghia": "Ông bà",
+      "danhSachDapAn": []
+    }
+  ]
+}

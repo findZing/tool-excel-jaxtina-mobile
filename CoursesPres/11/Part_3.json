@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "0954d8e4-72e9-48ba-89bb-7b3c55d49fa1"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Study",
+      "yNghia": "Học bài",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6ff56b86-7416-4f10-8888-9077198613c9"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Shave",
+      "yNghia": "Cạo râu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7976bdd7-5d13-44e3-b710-70172fbbb5e9"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Get up",
+      "yNghia": "Thức dậy",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "49ec0c14-0193-4106-8a2c-a43d07b4d4fc"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Get dressed",
+      "yNghia": "Mặc quần áo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "202bad88-ab34-4f8b-9ad7-5a3fca24f4f9"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Brush my teeth",
+      "yNghia": "Đánh răng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b5c3f2a7-4ddd-41d7-b2cc-4c68ea6bbbf2"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Comb my hair",
+      "yNghia": "Chải tóc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f86cd653-1503-440a-bacb-eb243d321d72"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Brush my hair",
+      "yNghia": "Chải tóc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "60816d9b-0c6b-4e49-ac90-2ae5996ffcd9"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Put on makeup",
+      "yNghia": "Trang điểm",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "cd3448b6-adc8-43a3-a4f3-267c14631dc7"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Eat breakfast",
+      "yNghia": "Ăn sáng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "81a7673e-4af2-4333-927a-4f7bcb702740"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Come home",
+      "yNghia": "Trở về nhà",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "83049301-2f1b-43db-a749-19468dfaa4b6"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Make dinner",
+      "yNghia": "Nấu bữa tối",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1aa0e513-68e8-4862-a739-80548dd9025b"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Watch TV",
+      "yNghia": "Xem Tivi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9d455293-cfa6-4e84-b775-5d673f29f356"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Get undressed",
+      "yNghia": "Cởi đồ ra",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6c381191-c428-4932-b624-478d01d1b0f3"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Take a shower",
+      "yNghia": "Tắm vòi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f9fe430d-e1f0-4ce2-b790-9faeda281e01"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Take a bath",
+      "yNghia": "Tắm bồn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3e96b83d-b4bc-4c58-9312-9fc9552a2ae4"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Go to bed",
+      "yNghia": "Đi ngủ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3143c764-2a13-4c0f-a3d6-3883ce0d151f"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Eat lunch",
+      "yNghia": "Ăn trưa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "25f3d022-5a07-4d60-b791-f1e75da60a38"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Eat dinner",
+      "yNghia": "Ăn tối",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5243df07-14c9-4776-8bf2-f5d54b92a1fa"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Drink coffee",
+      "yNghia": "Uống cà phê",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "26aa40ad-6fd2-4b10-a8f3-f84575b24a0e"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Go to work",
+      "yNghia": "Đi làm",
+      "danhSachDapAn": []
+    }
+  ]
+}

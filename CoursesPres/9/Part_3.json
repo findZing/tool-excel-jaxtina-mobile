@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "6a398f5f-466f-4132-9aec-53e9df3a0165"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Chef",
+      "yNghia": "Đầu bếp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1ccdeee4-3e56-4db7-97b8-086eede66666"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Doctor",
+      "yNghia": "Bác sĩ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5e9def12-6c10-4304-a871-db1ba9e0bf2c"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Lawyer",
+      "yNghia": "Luật sư",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4a7265a4-b052-4552-bb01-fb0a46e757fc"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Manager",
+      "yNghia": "Quản lí",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ef0545c5-ce93-43a3-95e0-84cc3b8ecadb"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Pilot",
+      "yNghia": "Phi công",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2c9b92ee-4cb5-462a-9b9a-1cbeda30e533"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Teacher",
+      "yNghia": "Giáo viên",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a037cae9-2c40-4ce2-a44c-a371034ed34f"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Waiter",
+      "yNghia": "Nhân viên phục vụ nam",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "93b859aa-e15a-42c0-8d44-7f0221eaa8a8"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Waitress",
+      "yNghia": "Nhân viên phục vụ nữ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "987a36a0-5f1e-417f-8320-c1f991ab9650"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Writer",
+      "yNghia": "Nhà văn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "482acc66-3b64-4414-af1f-822ad5d55be9"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Scientist",
+      "yNghia": "Nhà khoa học",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "fafb6228-6bb5-4546-8ab3-ac3cfe063065"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Photographer",
+      "yNghia": "Thợ ảnh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e9c91021-ad02-4a92-a763-d32899572156"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Engineer",
+      "yNghia": "Kỹ sư xây dựng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1b1a9f69-1f32-4b57-a49d-18b58e02c029"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Police officer",
+      "yNghia": "Cảnh sát",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e665094e-169c-4095-b030-5364d1462e6a"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Shop assistant",
+      "yNghia": "Nhân viên bán hàng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d8e070e9-916c-4a79-b5e6-a35780873dc1"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Nurse",
+      "yNghia": "Y tá",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9699c359-b2a5-4563-851d-7ca6571f22d1"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Journalist",
+      "yNghia": "Nhà báo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ef40f26c-a657-4f60-aa10-1fc1cddf241c"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Driver",
+      "yNghia": "Người lái xe",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ea3d1b2a-8484-41d3-98d4-519003b29751"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Stay-at-home dad",
+      "yNghia": "Người bố làm nội trợ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3cd0861c-767b-481d-a7fc-16a31c9123cd"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Stay-at-home mum",
+      "yNghia": "Người mẹ làm nội trợ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f5888ec6-601b-4db4-9896-8d3f79ad2bea"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Receptionist",
+      "yNghia": "Lễ tân",
+      "danhSachDapAn": []
+    }
+  ]
+}

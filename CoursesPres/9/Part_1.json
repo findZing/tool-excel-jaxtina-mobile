@@ -1,0 +1,402 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "VOCABULARY",
+  "videoUrl": "4SKILLS_PRE_S_L9/vocabulary.mp4",
+  "newWords": [
+    {
+      "word": "chef",
+      "loaiTu": "n",
+      "phatAm": "/ʃef/",
+      "meaning": "đầu bếp",
+      "viDu": "My sister is a chef.\n(Chị gái của tôi là đầu bếp.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/139.chef.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/139.chef.png"
+    },
+    {
+      "word": "doctor",
+      "loaiTu": "n",
+      "phatAm": "/ˈdɒktər/",
+      "meaning": "bác sĩ",
+      "viDu": "My father is a doctor.\n(Bố của tôi là bác sĩ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/140.doctor.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/140.doctor.png"
+    },
+    {
+      "word": "lawyer",
+      "loaiTu": "n",
+      "phatAm": "/ˈlɔɪər/",
+      "meaning": "luật sư",
+      "viDu": "My aunt is a lawyer.\n(Dì của tôi là luật sư.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/141.lawyer.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/141.lawyer.png"
+    },
+    {
+      "word": "manager",
+      "loaiTu": "n",
+      "phatAm": "/ˈmænɪdʒər/",
+      "meaning": "quản lí",
+      "viDu": "He is my manager.\n(Anh ấy là quản lý của tôi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/142.manager.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/142.manager.png"
+    },
+    {
+      "word": "pilot",
+      "loaiTu": "n",
+      "phatAm": "/ˈpaɪlət/",
+      "meaning": "phi công",
+      "viDu": "I want to be a pilot.\n(Tôi muốn trở thành một phi công.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/143.pilot.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/143.pilot.png"
+    },
+    {
+      "word": "teacher",
+      "loaiTu": "n",
+      "phatAm": "/ˈtiːtʃər/",
+      "meaning": "giáo viên",
+      "viDu": "My mother is a teacher.\n(Mẹ tôi là giáo viên.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/144.teacher.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/144.teacher.png"
+    },
+    {
+      "word": "waiter",
+      "loaiTu": "n",
+      "phatAm": "/ˈweɪtər/",
+      "meaning": "nhân viên phục vụ nam",
+      "viDu": "Peter is a waiter.\n(Peter là một nhân viên phục vụ nam.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/145.waiter.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/145.waiter.png"
+    },
+    {
+      "word": "waitress",
+      "loaiTu": "n",
+      "phatAm": "/ˈweɪtrəs/",
+      "meaning": "nhân viên phục vụ nữ",
+      "viDu": "I am a waitress.\n(Tôi là một nhân viên phục vụ nữ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/1258.waitress.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/1258.waitress.png"
+    },
+    {
+      "word": "writer",
+      "loaiTu": "n",
+      "phatAm": "/ˈraɪtər/",
+      "meaning": "nhà văn",
+      "viDu": "James is a writer. \n(James là một nhà văn.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/146.writer.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/146.writer.png"
+    },
+    {
+      "word": "scientist",
+      "loaiTu": "n",
+      "phatAm": "/ˈsaɪəntɪst/",
+      "meaning": "nhà khoa học",
+      "viDu": "I want to be a scientist.\n(Tôi muốn trở thành nhà khoa học.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/147.scientist.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/147.scientist.png"
+    },
+    {
+      "word": "photographer",
+      "loaiTu": "n",
+      "phatAm": "/fəˈtɒɡrəfər/",
+      "meaning": "thợ ảnh",
+      "viDu": "I'm a photographer.\n(Tôi là một thợ ảnh.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/148.photographer.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/148.photographer.png"
+    },
+    {
+      "word": "engineer",
+      "loaiTu": "n",
+      "phatAm": "/ˌendʒɪˈnɪər/",
+      "meaning": "kỹ sư xây dựng",
+      "viDu": "My brother is an engineer.\n(Anh trai tôi là kỹ sư xây dựng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/149.engineer.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/149.engineer.png"
+    },
+    {
+      "word": "police officer",
+      "loaiTu": "n.p",
+      "phatAm": "/pəˈliːs ˈɒfɪsər/",
+      "meaning": "cảnh sát",
+      "viDu": "My uncle is a police officer.\n(Chú của tôi là cảnh sát.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/150.police.officer.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/150.police.officer.png"
+    }
+  ],
+  "scriptVideo": [
+    {
+      "start": "0:00:38",
+      "end": "0:00:42",
+      "english": "Jobs",
+      "subScriptEnglish": "Jobs",
+      "matchedNewWords": [],
+      "vietnamese": "Nghề nghiệp"
+    },
+    {
+      "start": "0:00:51",
+      "end": "0:01:11",
+      "english": "chef",
+      "subScriptEnglish": " _chef_ ",
+      "matchedNewWords": [
+        "chef"
+      ],
+      "vietnamese": "đầu bếp"
+    },
+    {
+      "start": "0:01:16",
+      "end": "0:01:25",
+      "english": "doctor",
+      "subScriptEnglish": " _doctor_ ",
+      "matchedNewWords": [
+        "doctor"
+      ],
+      "vietnamese": "bác sĩ"
+    },
+    {
+      "start": "0:01:34",
+      "end": "0:01:44",
+      "english": "lawyer",
+      "subScriptEnglish": " _lawyer_ ",
+      "matchedNewWords": [
+        "lawyer"
+      ],
+      "vietnamese": "luật sư"
+    },
+    {
+      "start": "0:01:49",
+      "end": "0:02:00",
+      "english": "manager",
+      "subScriptEnglish": " _manager_ ",
+      "matchedNewWords": [
+        "manager"
+      ],
+      "vietnamese": "quản lý"
+    },
+    {
+      "start": "0:02:10",
+      "end": "0:02:24",
+      "english": "pilot",
+      "subScriptEnglish": " _pilot_ ",
+      "matchedNewWords": [
+        "pilot"
+      ],
+      "vietnamese": "phi công"
+    },
+    {
+      "start": "00:02:26",
+      "end": "0:02:39",
+      "english": "police officer",
+      "subScriptEnglish": " _police_officer_ ",
+      "matchedNewWords": [
+        "police officer"
+      ],
+      "vietnamese": "cảnh sát"
+    },
+    {
+      "start": "0:02:45",
+      "end": "0:02:57",
+      "english": "teacher",
+      "subScriptEnglish": " _teacher_ ",
+      "matchedNewWords": [
+        "teacher"
+      ],
+      "vietnamese": "giáo viên"
+    },
+    {
+      "start": "0:03:00",
+      "end": "0:03:05",
+      "english": "waiter",
+      "subScriptEnglish": " _waiter_ ",
+      "matchedNewWords": [
+        "waiter"
+      ],
+      "vietnamese": "nhân viên phục vụ nam"
+    },
+    {
+      "start": "0:03:06",
+      "end": "0:03:12",
+      "english": "waitress",
+      "subScriptEnglish": " _waitress_ ",
+      "matchedNewWords": [
+        "waitress"
+      ],
+      "vietnamese": "nhân viên phục vụ nữ"
+    },
+    {
+      "start": "0:03:15",
+      "end": "0:03:22",
+      "english": "waiter",
+      "subScriptEnglish": " _waiter_ ",
+      "matchedNewWords": [
+        "waiter"
+      ],
+      "vietnamese": "nhân viên phục vụ nam"
+    },
+    {
+      "start": "0:03:22",
+      "end": "0:03:29",
+      "english": "waitress",
+      "subScriptEnglish": " _waitress_ ",
+      "matchedNewWords": [
+        "waitress"
+      ],
+      "vietnamese": "nhân viên phục vụ nữ"
+    },
+    {
+      "start": "0:03:33",
+      "end": "0:03:43",
+      "english": "writer",
+      "subScriptEnglish": " _writer_ ",
+      "matchedNewWords": [
+        "writer"
+      ],
+      "vietnamese": "nhà văn"
+    },
+    {
+      "start": "0:03:48",
+      "end": "0:04:03",
+      "english": "scientist",
+      "subScriptEnglish": " _scientist_ ",
+      "matchedNewWords": [
+        "scientist"
+      ],
+      "vietnamese": "nhà khoa học"
+    },
+    {
+      "start": "0:04:08",
+      "end": "0:04:19",
+      "english": "photographer",
+      "subScriptEnglish": " _photographer_ ",
+      "matchedNewWords": [
+        "photographer"
+      ],
+      "vietnamese": "thợ chụp ảnh"
+    },
+    {
+      "start": "0:04:24",
+      "end": "0:04:41",
+      "english": "engineer",
+      "subScriptEnglish": " _engineer_ ",
+      "matchedNewWords": [
+        "engineer"
+      ],
+      "vietnamese": "kỹ sư xây dựng"
+    },
+    {
+      "start": "0:04:47",
+      "end": "0:04:54",
+      "english": "Hi, Lan. How are you, Lan? - I'm good. What do you do?",
+      "subScriptEnglish": " _Hi,_  Lan. How are you, Lan? - I'm good. What do you do?",
+      "matchedNewWords": [
+        "Hi"
+      ],
+      "vietnamese": "(Xin chào, Lan. Cậu khỏe không?) - (Tớ khỏe. Cậu đang làm gì rồi?)"
+    },
+    {
+      "start": "0:04:54",
+      "end": "0:05:00",
+      "english": "I'm a teacher at Jaxtina English Center. How about you?",
+      "subScriptEnglish": "I'm a  _teacher__ at Jaxtina  _English__ Center. How about you?",
+      "matchedNewWords": [
+        "English",
+        "teacher"
+      ],
+      "vietnamese": "(Tớ đang là giáo viên tại trung tâm Anh ngữ Jaxtina. Thế còn cậu?)"
+    },
+    {
+      "start": "0:05:00",
+      "end": "0:05:03",
+      "english": "I am a doctor.",
+      "subScriptEnglish": " _I__ am a  _doctor._ ",
+      "matchedNewWords": [
+        "doctor",
+        "I"
+      ],
+      "vietnamese": "(Tớ làm bác sĩ.)"
+    },
+    {
+      "start": "0:05:12",
+      "end": "0:05:18",
+      "english": "What do you do?",
+      "subScriptEnglish": "What do you do?",
+      "matchedNewWords": [],
+      "vietnamese": "Bạn làm nghề gì?"
+    },
+    {
+      "start": "0:05:45",
+      "end": "0:05:48",
+      "english": "Jobs",
+      "subScriptEnglish": "Jobs",
+      "matchedNewWords": [],
+      "vietnamese": "Nghề nghiệp"
+    }
+  ],
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:05:48.417",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Police officer",
+            "_id": {
+              "$oid": "ab1cf849-6e0b-416b-a0fc-88e0347b3184"
+            },
+            "yNghia": "Cảnh sát"
+          },
+          {
+            "cauHoi": "Lawyer",
+            "_id": {
+              "$oid": "c0380ccc-57bb-4d21-8e2e-0f4715dd8b6c"
+            },
+            "yNghia": "Luật sư"
+          },
+          {
+            "cauHoi": "Waitress",
+            "_id": {
+              "$oid": "52af4f8d-08ab-4cd3-becc-5673f0b84cf2"
+            },
+            "yNghia": "Nhân viên phục vụ nữ"
+          },
+          {
+            "cauHoi": "Manager",
+            "_id": {
+              "$oid": "2c1feef0-b002-4531-9438-2d9bb486b5b4"
+            },
+            "yNghia": "Quản lí"
+          },
+          {
+            "cauHoi": "Chef",
+            "_id": {
+              "$oid": "7655ffb7-a2f8-4ab3-9724-0798a07557fd"
+            },
+            "yNghia": "Đầu bếp"
+          },
+          {
+            "cauHoi": "Pilot",
+            "_id": {
+              "$oid": "b9c1a9bf-d79d-475b-b287-a7d28fd4ed58"
+            },
+            "yNghia": "Phi công"
+          },
+          {
+            "cauHoi": "Teacher",
+            "_id": {
+              "$oid": "366a3260-5c93-406e-9f6a-16e3711cf9be"
+            },
+            "yNghia": "Giáo viên"
+          },
+          {
+            "cauHoi": "Doctor",
+            "_id": {
+              "$oid": "3d9dd0fb-ae9d-4f32-b4a0-4c44064d05c7"
+            },
+            "yNghia": "Bác sĩ"
+          }
+        ]
+      }
+    }
+  ]
+}

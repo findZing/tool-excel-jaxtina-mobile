@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "202e59ae-7346-4a86-8d82-c87ea2cdb3f4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kay:</b></td>\n                        <td>Mary, <b>(1)</b> ____, on your new job! Have you started working yet?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Marry:</b></td>\n                        <td>No, I haven't. I have to <b>(2)</b>____ my training.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kay:</b></td>\n                        <td>How long will it last?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Marry:</b></td>\n                        <td>My <b>(3)</b> ____ informed me that it might be three weeks.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kay:</b></td>\n                        <td>That's a lot. My <b>(4)</b> ____ was only one week when I began my job.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kay:</b></td>\n                        <td>Mary, <b>(1)</b> <b><span style=\"color:red\">congratulations</span> </b> on your new job! Have you started working yet?<br />\n                        <i>Mary, </span> </i><i><span style=\"color:red\">chúc mừng </span> </i><i>công việc mới của bạn! Bạn đã bắt đầu làm việc chưa?</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mary:</b></td>\n                        <td>No, I haven't. I have to <b>(2)</b><b><span style=\"color:red\">finish</span> </b> my training.<br />\n                        <i>Tôi chưa. Tôi phải </span> </i><i><span style=\"color:red\">hoàn thành </span> </i><i>khóa đào tạo của mình.</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kay:</b></td>\n                        <td>How long will it last?<br />\n                        Nó sẽ kéo dài trong bao lâu?</span> </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mary:</b></td>\n                        <td>My <b>(3)</b> <b><span style=\"color:red\">manager</span> </b> informed me that it might be three weeks.<br />\n                        <i><span style=\"color:red\">Người quản lý </span> </i><i>của tôi đã thông báo rằng có thể là ba tuần.</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kay:</b></td>\n                        <td>That's a lot. My <b>(4)</b> <b><span style=\"color:red\">training</span> </b>was only one week when I began my job.<br />\n                        <i>Thế là nhiều đó. </span> </i><i><span style=\"color:red\">Quá trình đào tạo</span> </i><i> của tôi chỉ diễn ra trong một tuần khi tôi bắt đầu công việc của mình.</span> </i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "congratulations",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e085cabd-576c-4986-8535-afa6dee90831"
+          }
+        },
+        {
+          "dapAn": "finish ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "bc80b6e2-89b5-49c6-8ae7-6207c1f95b1d"
+          }
+        },
+        {
+          "dapAn": "manager",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "21f4bd4b-edc1-4afc-959e-087b2080e69a"
+          }
+        },
+        {
+          "dapAn": "training",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e5b14abc-2980-4f46-aa48-b624693fc9ad"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ba80f0b6-e867-4c69-a6f2-9d4044b66270"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kay:</b></td>\n                        <td>English is very important for your career path in the <b>(1)</b> ____ area. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Marry:</b></td>\n                        <td>I know but I don't <b>(2)</b>____ much motivation to study English.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kay:</b></td>\n                        <td>Both English and your job need frequent <b>(3)</b>____. If not, you can never be better.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Marry:</b></td>\n                        <td>I agree. If I have an English certificate, I will get a <b>(4)</b> ____. </td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kay:</b></td>\n                        <td>English is very important for your career path in the <b>(1)</b> <b><span style=\"color:red\">economic</span> </b> area. <br />\n                        <i>Tiếng Anh rất quan trọng cho con đường sự nghiệp của bạn trong lĩnh vực </span> </i><i><span style=\"color:red\">kinh tế</span> </i><i>.</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mary:</b></td>\n                        <td>I know but I don't <b>(2) </b><b><span style=\"color:red\">have</span> </b> much motivation to study English.<br />\n                        <i>Tôi biết nhưng tôi không </span> </i><i><span style=\"color:red\">có</span> </i><i> nhiều động lực để học tiếng Anh.</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kay:</b></td>\n                        <td>Both English and your job need frequent <b>(3)</b><b><span style=\"color:red\">practice</span> </b>. If not, you can never be better.<br />\n                        <i>Cả tiếng Anh và công việc của bạn đều cần </span> </i><i><span style=\"color:red\">luyện tập </span> </i><i>thường xuyên. Nếu không, bạn không bao giờ có thể tốt hơn.</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mary:</b></td>\n                        <td>I agree. If I have an English certificate, I will get a <b>(4)</b> <b><span style=\"color:red\">raise.</span> </b><br />\n                        <i>Tôi đồng ý. Nếu tôi có chứng chỉ tiếng Anh, tôi sẽ được </span> </i><i><span style=\"color:red\">tăng lương</span> </i><i>.</span> </i><b><i>  </i></b></td>\n                </tr>\n        </tbody>\n</table>\n",
+      "danhSachDapAn": [
+        {
+          "dapAn": "economic",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "46b3eaab-0725-490e-a166-9f1fe490c0d4"
+          }
+        },
+        {
+          "dapAn": "have",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "1557aa6f-3098-476f-8128-34d663e8f3f6"
+          }
+        },
+        {
+          "dapAn": "practice",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "efcdcf52-8375-4aa2-a25d-091ebbb6b9ea"
+          }
+        },
+        {
+          "dapAn": "raise",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "fd0ace3f-5f74-4ac2-ad8d-f3e75d91197a"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "40f235ef-c99d-4767-964c-28e5ccb7d886"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Marry:</b></td>\n                        <td>I'm going to have a test on <b>(1)</b> ____ communication. What should I prepare?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kay:</b></td>\n                        <td>You can try calling a company's hotline, <b>(2)</b>____ for information and noting how they <b>(3)</b> ____.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Marry:</b></td>\n                        <td>Oh, that's really <b>(4)</b> ____ for me. You are the best.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mary:</b></td>\n                        <td>I'm going to have a test on <b>(1)</b> <b><span style=\"color:red\">customer</span> </b>communication. What should I prepare?<br />\n                        <i>Tôi sắp có một bài kiểm tra về giao tiếp với </i><i><span style=\"color:red\">khách hàng</span> </i><i>. </span> </i><i>Tôi nên chuẩn bị những gì?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kay:</b></td>\n                        <td>You can try calling a company's hotline, <b>(2)</b><b><span style=\"color:red\">asking</span> </b> for information and noting how they <b>(3)</b> <b><span style=\"color:red\">reply</span> </b>. <br />\n                        <i>Bạn có thể thử gọi đến đường dây nóng của công ty, </i><i><span style=\"color:red\">hỏi</span> </i><i> </i><i>thông tin và để ý cách họ</i><i> </i><i><span style=\"color:red\">trả lời</span> </i><i>.</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mary:</b></td>\n                        <td>Oh, that's really <b>(4)</b> <b><span style=\"color:red\">useful</span> </b>for me. You are the best.<br />\n                        <i>Ồ, điều đó thực sự </i><i><span style=\"color:red\">hữu ích </span> </i><i>đối với tôi. Bạn là nhất.</i></td>\n                </tr>\n        </tbody>\n</table>\n\n",
+      "danhSachDapAn": [
+        {
+          "dapAn": "customer",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "58a29b25-e676-4529-aaf2-255d7b4f0c62"
+          }
+        },
+        {
+          "dapAn": "asking",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "20dc2aef-4968-4acc-a02c-d8156c6ea356"
+          }
+        },
+        {
+          "dapAn": "reply",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "4b63015c-ffb9-4adb-a122-275bdcc88a4c"
+          }
+        },
+        {
+          "dapAn": "useful ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d03b9ecb-c304-461b-9eba-dc6bf0274db2"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5f655a05-809a-4b61-ae40-07f5b550076d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It is important to know what are your personal characteristics and <b>(1)</b> ____ types so that you can choose your <b>(2)</b> ____ jobs and careers. Some people don't have jobs that really <b>(3)</b> ____ their personality. As a result, they are unhappy in their careers although they have excellent academic <b>(4)</b> ____.",
+      "yNghia": "It is important to know what is your personal characteristics and <b>(1)</b> <b><span style=\"color:red\">personality</span> </b> types, so that you can choose your <b>(2)</b> <b><span style=\"color:red\">ideal</span> </b> jobs and career. Some people don't have jobs that really <b>(3)</b> <b><span style=\"color:red\">match</span> </b> their personality. As a result, they are unhappy in their careers although they have excellent academic <b>(4)</b> <b><span style=\"color:red\">qualifications</span> </b>.<br />\n<i>Biết được tính cách đặc điểm cá nhân và loại </span> </i><i><span style=\"color:red\">tính cách</span> </i><i> của bản thân rất quan trọng, để bạn có thể chọn công việc và sự nghiệp </span> </i><i><span style=\"color:red\">lý tưởng </span> </i><i>cho mình. Một số người không có công việc thực sự </span> </i><i><span style=\"color:red\">phù hợp với </span> </i><i>tính cách của họ. Kết quả là họ không hạnh phúc trong sự nghiệp của mình mặc dù họ có </span> </i><i><span style=\"color:red\">trình độ </span> </i><i>học vấn xuất sắc.</span> </i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "personality",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "314a70f2-85d1-4443-90ea-92b60ea98abf"
+          }
+        },
+        {
+          "dapAn": "ideal ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "1f416c93-b2eb-4096-9a33-3d9fb3eb34c1"
+          }
+        },
+        {
+          "dapAn": "match ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0cd7eab3-6613-442f-b5dc-1eb69f462b47"
+          }
+        },
+        {
+          "dapAn": "qualifications",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "07b85f52-1c75-40bf-bcda-d06d94320ecc"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "cef09299-9b71-48b4-b0e5-c32f951d2668"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Understanding that being <b>(1)</b> <b>____</b> means that you need more things than just training and <b>(2) ____ </b>about a job or a career. A combination of knowledge, <b>(3) ____</b> and personal characteristics are also needed. <br />\nSkills such as time management, teamwork or <b>(4) ____</b> skills are also important to include apart from specific technical skills. <br />",
+      "yNghia": "Understanding that being <b>(1)</b> <b><span style=\"color:red\">career-ready</span> </b> means that you need more things than just training and <b>(2) </b><b><span style=\"color:red\">knowledge </span> </b>about a job or a career. A combination of knowledge, <b>(3) </b><b><span style=\"color:red\">skills</span> </b> and personal characteristics are also needed. <br />\nSkills such as time management, team work or <b>(4) </b><b><span style=\"color:red\">communication</span> </b> skills are also important to include apart from specific technical skills. <br />\n<i>Hiểu rằng </i><i><span style=\"color:red\">sẵn sàng</span> </i><i> </i><i>cho sự nghiệp có nghĩa là bạn cần nhiều thứ hơn là chỉ được đào </i><i>tạo và </span> </i><i><span style=\"color:red\">kiến thức </span> </i><i>về công việc hoặc nghề nghiệp. </span> </i><i>Cũng cần có sự kết hợp giữa kiến </i><i>thức, </span> </i><i><span style=\"color:red\">kỹ năng</span> </i><i> và đặc điểm cá nhân.</span> </i><br />\n<i>Các kỹ năng như quản lý thời gian, làm việc nhóm hoặc kỹ năng </span> <span style=\"color:red\">giao tiếp </span> cũng rất quan trọng ngoài các kỹ năng kỹ thuật cụ thể.</span> </i>\n",
+      "danhSachDapAn": [
+        {
+          "dapAn": "career-ready",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d4e6befc-a93f-418e-bab3-8bcff41fdb56"
+          }
+        },
+        {
+          "dapAn": "knowledge",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "586a33d2-5825-43ce-bb17-4310d6aff43e"
+          }
+        },
+        {
+          "dapAn": "skills",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "943169de-1ad0-4284-8b92-3eb759347474"
+          }
+        },
+        {
+          "dapAn": "communication",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c14b0476-0b38-49e6-a07a-487d7d408bfe"
+          }
+        }
+      ]
+    }
+  ]
+}

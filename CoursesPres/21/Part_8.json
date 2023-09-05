@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L21/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L21/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "de5a78e7-095d-4e27-b328-67a148e1a8aa"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Ben",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5709b9b3-c941-41a4-8fcb-55a90365c0e7"
+          },
+          "dapAn": "Maria, are you home?",
+          "phienAm": "/məˈriːə ɑːr juː həʊm/",
+          "yNghia": "\nMaria, bạn có ở nhà không?",
+          "normal": {
+            "start": "00:00:00.890",
+            "end": "00:00:02.671"
+          },
+          "slow": {
+            "start": "00:00:01.160",
+            "end": "00:00:03.481"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e0e2b51f-f8e6-4abc-b1ed-a9a0b18a4518"
+          },
+          "dapAn": "I want to bring you some books.",
+          "phienAm": "/aɪ wɒnt tuː brɪŋ juː sʌm bʊks/",
+          "yNghia": "\nTôi muốn mang cho bạn vài quyển sách.",
+          "normal": {
+            "start": "00:00:05.380",
+            "end": "00:00:07.458"
+          },
+          "slow": {
+            "start": "00:00:09.225",
+            "end": "00:00:11.662"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "286c7b42-37ec-4ca4-9d2c-c935f83344f8"
+          },
+          "dapAn": "But I don’t know her.",
+          "phienAm": "/bʌt aɪ dəʊnt nəʊ hɜːr/",
+          "yNghia": "\nNhưng tôi không biết chị ấy.",
+          "normal": {
+            "start": "00:00:11.873",
+            "end": "00:00:13.246"
+          },
+          "slow": {
+            "start": "00:00:21.178",
+            "end": "00:00:22.918"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2afa30e0-e6a2-4f51-946f-e7c100cecf9d"
+          },
+          "dapAn": "Oh, I know that bookstore.",
+          "phienAm": "/əʊ aɪ nəʊ ðæt ˈbʊkstɔːr/",
+          "yNghia": "\nỒ, tôi biết hiệu sách đó.",
+          "normal": {
+            "start": "00:00:18.811",
+            "end": "00:00:20.926"
+          },
+          "slow": {
+            "start": "00:00:33.246",
+            "end": "00:00:36.379"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7e7f260c-75e6-432d-a0da-31096cfbb5f5"
+          },
+          "dapAn": "How about her hair?",
+          "phienAm": "/haʊ əˈbaʊt hɜːr heər/",
+          "yNghia": "\nTóc của chị ấy như thế nào?",
+          "normal": {
+            "start": "00:00:26.714",
+            "end": "00:00:28.383"
+          },
+          "slow": {
+            "start": "00:00:44.967",
+            "end": "00:00:46.939"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ebeab157-3095-4e05-a32c-c1ac0e89b6a1"
+          },
+          "dapAn": "OK. What else?",
+          "phienAm": "/əʊˈkeɪ/. /wɒt els/",
+          "yNghia": "\nỪ. Còn gì nữa không?",
+          "normal": {
+            "start": "00:00:32.539",
+            "end": "00:00:34.579"
+          },
+          "slow": {
+            "start": "00:00:53.438",
+            "end": "00:00:55.759"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a83c4b13-9ce8-433a-ba29-a836fed9fc89"
+          },
+          "dapAn": "That’s a good description.",
+          "phienAm": "/ðæts eɪ gʊd dɪsˈkrɪpʃən/",
+          "yNghia": "\nĐó là một sự miêu tả tốt.",
+          "normal": {
+            "start": "00:00:39.996",
+            "end": "00:00:41.480"
+          },
+          "slow": {
+            "start": "00:01:04.578",
+            "end": "00:01:06.841"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6b95a62c-4bc1-4ba3-8558-da4cbe90b88c"
+          },
+          "dapAn": "What does Jane look like?",
+          "phienAm": "/wɒt dʌz ʤeɪn lʊk laɪk/",
+          "yNghia": "\nJane trông như thế nào?",
+          "normal": {
+            "start": "00:00:46.378",
+            "end": "00:00:48.048"
+          },
+          "slow": {
+            "start": "00:01:14.964",
+            "end": "00:01:17.110"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0e0f80c3-290c-4586-a09f-b4be309a22be"
+          },
+          "dapAn": "Is her hair blond?",
+          "phienAm": "/ɪz hɜːr heər blɒnd/",
+          "yNghia": "\nTóc chị ấy màu vàng phải không?",
+          "normal": {
+            "start": "00:00:52.982",
+            "end": "00:00:54.578"
+          },
+          "slow": {
+            "start": "00:01:23.493",
+            "end": "00:01:25.291"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9e443801-887c-42fd-a0ce-531213055eab"
+          },
+          "dapAn": "OK. Please tell them to wait for me.",
+          "phienAm": "/əʊˈkeɪ/. /pliːz tel ðem tuː weɪt fɔːr miː/",
+          "yNghia": "\nĐược rồi. Hãy nói họ đợi tôi nhé.",
+          "normal": {
+            "start": "00:00:58.918",
+            "end": "00:01:01.812"
+          },
+          "slow": {
+            "start": "00:01:33.763",
+            "end": "00:01:37.100"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7ddc6dd0-4752-4cf0-ae1b-82d12a8d90b7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Maria",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "86b9d582-707d-403f-942e-f1cce6e69a29"
+          },
+          "dapAn": "No, I’m not.",
+          "phienAm": "/nəʊ aɪm nɒt/",
+          "yNghia": "\nKhông, tôi không ở nhà.",
+          "normal": {
+            "start": "00:00:03.302",
+            "end": "00:00:04.564"
+          },
+          "slow": {
+            "start": "00:00:05.280",
+            "end": "00:00:07.717"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "61c9642e-8b5e-4cf4-8131-a1713f963cb7"
+          },
+          "dapAn": "Oh, you can give them to my sister.",
+          "phienAm": "/əʊ juː kæn gɪv ðəm tuː maɪ ˈsɪstər/",
+          "yNghia": "\nỒ, bạn có thể đưa chúng cho chị gái tôi.",
+          "normal": {
+            "start": "00:00:07.866",
+            "end": "00:00:11.279"
+          },
+          "slow": {
+            "start": "00:00:13.055",
+            "end": "00:00:19.611"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6da1c652-6e29-4968-addd-57d11c71a565"
+          },
+          "dapAn": "Well, I think she’s at the bookstore near my house.",
+          "phienAm": "/wel aɪ θɪŋk ʃiːz æt ðə ˈbʊkstɔːr nɪər maɪ haʊs/ ",
+          "yNghia": "\r\nÀ, tôi nghĩ chị ấy ở hiệu sách gần nhà tôi.",
+          "normal": {
+            "start": "00:00:14.284",
+            "end": "00:00:17.883"
+          },
+          "slow": {
+            "start": "00:00:25.239",
+            "end": "00:00:31.564"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3cb0d359-ad02-4b86-ad70-1c576d80d879"
+          },
+          "dapAn": "Great. My sister’s short and slim.",
+          "phienAm": "/greɪt/. /maɪ ˈsɪstərz ʃɔːt ænd slɪm/",
+          "yNghia": "\nTuyệt quá. Chị gái tôi thấp và mảnh khảnh.",
+          "normal": {
+            "start": "00:00:22.076",
+            "end": "00:00:25.860"
+          },
+          "slow": {
+            "start": "00:00:38.062",
+            "end": "00:00:43.632"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e6dd7f27-1039-497b-a293-71b223b715fe"
+          },
+          "dapAn": "She has short dark hair.",
+          "phienAm": "/ʃiː hæz ʃɔːt dɑːk heər/",
+          "yNghia": "\nTóc chị ấy ngắn và tối màu.",
+          "normal": {
+            "start": "00:00:29.162",
+            "end": "00:00:31.240"
+          },
+          "slow": {
+            "start": "00:00:48.912",
+            "end": "00:00:52.161"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ed5e3410-e8a5-4a0b-8a0d-44d2be5875bb"
+          },
+          "dapAn": "She has a straight nose and brown eyes like me.",
+          "phienAm": "/ʃiː hæz eɪ streɪt nəʊz ænd braʊn aɪz laɪk miː/",
+          "yNghia": "\nChị ấy có mũi thẳng và đôi mắt nâu giống tôi.",
+          "normal": {
+            "start": "00:00:35.247",
+            "end": "00:00:38.735"
+          },
+          "slow": {
+            "start": "00:00:56.629",
+            "end": "00:01:02.721"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "13fa5f6c-4981-4d62-9516-ed89146fc834"
+          },
+          "dapAn": "Oh, I think she is with her friend, Jane.",
+          "phienAm": "/əʊ aɪ θɪŋk ʃiː ɪz wɪð hɜːr frend ʤeɪn/",
+          "yNghia": "\nÀ, tôi nghĩ chị ấy đi cùng với bạn của mình, Jane.",
+          "normal": {
+            "start": "00:00:42.482",
+            "end": "00:00:45.525"
+          },
+          "slow": {
+            "start": "00:01:08.233",
+            "end": "00:01:13.745"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "144cc9a7-c57d-4de4-99be-bf10f19d0343"
+          },
+          "dapAn": "Well … she’s tall and heavy.",
+          "phienAm": "/wel ʃiːz tɔːl ænd ˈhevi/",
+          "yNghia": "\nÀ … chị ấy cao và nặng.",
+          "normal": {
+            "start": "00:00:48.864",
+            "end": "00:00:51.795"
+          },
+          "slow": {
+            "start": "00:01:18.213",
+            "end": "00:01:22.855"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b2fca8ff-a948-4700-a4ba-840ede9f9ef5"
+          },
+          "dapAn": "Yes, it is. And she has blue eyes.",
+          "phienAm": "/jes ɪt ɪz/. /ænd ʃiː hæz bluː aɪz/",
+          "yNghia": "\nĐúng vậy. Và chị ấy có đôi mắt màu xanh dương.",
+          "normal": {
+            "start": "00:00:55.431",
+            "end": "00:00:58.176"
+          },
+          "slow": {
+            "start": "00:01:26.974",
+            "end": "00:01:31.732"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "da1c07fb-0b21-475c-b8e1-cf6cb7f44e03"
+          },
+          "dapAn": "Sure. Bye!",
+          "phienAm": "/ʃʊər/. /baɪ/",
+          "yNghia": "\nChắc chắn rồi. Tạm biệt!",
+          "normal": {
+            "start": "00:01:02.480",
+            "end": "00:01:03.705"
+          },
+          "slow": {
+            "start": "00:01:37.592",
+            "end": "00:01:39.913"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "94669ff0-aaf1-40d6-a46a-9645122f146b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can I ask you some questions about __________?",
+      "yNghia": "Can I ask you some questions about <span style=\"color:red\">technology</span>?<br />\n<i>Tôi có thể hỏi bạn một số câu hỏi về </i><i><span style=\"color:red\">công nghệ </span></i><i>không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "456297cb-5d8c-4a42-9f00-4aced98421d1"
+          },
+          "dapAn": "technology",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "04ca1941-8865-414d-af85-4528ee2f606b"
+          },
+          "dapAn": "science",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f7e367eb-28e3-44ce-b68a-86643e74a856"
+          },
+          "dapAn": "work",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_1. Can ... technology.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_1. Can ... technology.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "18598f47-7e62-4799-a142-cf91a10fc9af"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The first question: What is __________ about technology?",
+      "yNghia": "The first question: What is <span style=\"color:red\">special </span>about technology?<br />\n<i>Câu hỏi đầu tiên: Công nghệ có gì </i><i><span style=\"color:red\">đặc biệt</span></i><i>?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bfb289af-f123-44f9-aefa-25693789703e"
+          },
+          "dapAn": "interesting",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3a3b193b-b344-449b-a11c-b95e0c73fe14"
+          },
+          "dapAn": "special",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "02fdb7ad-5c47-4905-bd8f-291d43f95ee6"
+          },
+          "dapAn": "awesome",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_2. The ... technology.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_2. The ... technology.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ba35efae-9027-49fd-b495-2ffe686674af"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I think technology _________ our quality of life.",
+      "yNghia": "I think technology <span style=\"color:red\">improves </span>our quality of life.<br />\n<i>Tôi nghĩ rằng công nghệ </i><i><span style=\"color:red\">cải thiện</span></i><i> chất lượng cuộc sống của chúng ta.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3bff8b17-c8e9-4096-8754-44de4fbac9a2"
+          },
+          "dapAn": "upgrades",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "78009f5c-1570-4943-ad67-420e5a9250b5"
+          },
+          "dapAn": "improves",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5fe5eb06-d54d-40f4-8c57-3f782aeb2486"
+          },
+          "dapAn": "changes",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_3. I ... life.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_3. I ... life.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6a106450-68a3-44d7-8000-b7584499d9b5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It eliminates routine __________, for example, washing machines and dishwashers.",
+      "yNghia": "It eliminates routine <span style=\"color:red\">chores</span>, for example, washing machines and dishwashers.<br />\n<i>Nó loại bỏ </i><i><span style=\"color:red\">các công việc</span></i><i> thường ngày, chẳng hạn như máy giặt và máy rửa chén.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d08d8ace-9b49-4937-98f0-704493e2e7c0"
+          },
+          "dapAn": "works",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5e21224f-f7d3-4f55-8a32-9085ca03d991"
+          },
+          "dapAn": "tasks",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "34bb8c52-b3fb-4870-b49f-9299f2c25edb"
+          },
+          "dapAn": "chores",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_4. It ... dishwashers.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_4. It ... dishwashers.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d00b4940-6893-4e78-9314-e18e7341826e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I totally agree with you. We don’t have to spend much ________ doing that.",
+      "yNghia": "I totally agree with you. We don't have to spend much <span style=\"color:red\">time</span> doing that.<br />\n<i>Tôi hoàn toàn đồng ý với bạn. Chúng ta không phải mất nhiều </i><i><span style=\"color:red\">thời gian</span></i><i> để làm điều đó.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "96e20175-8b18-4e30-924f-8aa2be77b50d"
+          },
+          "dapAn": "money",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "61afec80-e57c-4b1c-9858-1deb6ac9391b"
+          },
+          "dapAn": "effort",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "347ef1d5-d2b1-4e9e-bf95-026b24b91b43"
+          },
+          "dapAn": "time",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_5. I ... that.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_5. I ... that.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "aa0ba967-d53b-40a7-b5f9-fe2145680c2b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Moreover, thanks to technology, we’re able to ___________ easily with friends and family from a far distance.",
+      "yNghia": "Moreover, thanks to technology, we're able to <span style=\"color:red\">communicate </span>easily with friends and family from a far distance. <br />\n<i>Hơn nữa, nhờ công nghệ, chúng ta có thể </i><i><span style=\"color:red\">liên lạc </span></i><i>dễ dàng với bạn bè và gia đình từ xa.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d4cf9b94-d4ee-487d-86aa-4d923e90033d"
+          },
+          "dapAn": "talk",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e338fd4c-3399-47ae-b971-927c66c06e03"
+          },
+          "dapAn": "communicate",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7e0977be-0959-4535-b666-78d1bf15b52b"
+          },
+          "dapAn": "connect",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_6. Moreover ... distance.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_6. Moreover ... distance.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "15bc08f9-0696-43de-8221-e82b2e906a92"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It has been the greatest _____________ achievement of the decade.",
+      "yNghia": "It has been the greatest <span style=\"color:red\">scientific </span>achievement of the decade.<br />\n<i>Đó là thành tựu </i><i><span style=\"color:red\">khoa học </span></i><i>vĩ đại nhất của thập kỷ.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5985eef9-6cfd-4178-b029-0ecc2daa4494"
+          },
+          "dapAn": "technological",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a055dae1-f030-4dc3-acda-dd81712362fb"
+          },
+          "dapAn": "scientific",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bbdca82e-15db-4807-afc5-3d8424dac3ec"
+          },
+          "dapAn": "technical",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_7. It ... decade.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_7. It ... decade.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "7408136c-fe53-44c1-85e3-7a36e939f7d2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you know how ___________ people use technology?",
+      "yNghia": "Do you know how <span style=\"color:red\">disabled </span>people use technology?<br />\n<i>Bạn có biết người </i><i><span style=\"color:red\">khuyết tật </span></i><i>sử dụng công nghệ như thế nào không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d64a0edc-5b74-4651-83a1-c022ce586fd8"
+          },
+          "dapAn": "disabled",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0721a0f1-6575-4c97-aa80-f26eaa0818d4"
+          },
+          "dapAn": "skill",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "34f2e1b1-5e06-4fc3-98ae-9a4911a889dc"
+          },
+          "dapAn": "degree",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_8. Do ... technolody.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_8. Do ... technolody.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9126c0c7-39f9-4bd7-a271-383db3267593"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It depends on their __________ needs and preferences.",
+      "yNghia": "It depends on their <span style=\"color:red\">individual</span> needs and preferences. <br />\n<i>Nó phụ thuộc vào nhu cầu và sở thích <span style=\"color:red\">cá nhân </span>của họ.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d44c47a4-f7dd-4eca-ad7b-88e5fcc1f8a9"
+          },
+          "dapAn": "personal",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a38773f8-2cf7-40bd-91c1-3ab2044882a4"
+          },
+          "dapAn": "own",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7492178d-4021-4175-b0bb-78feb882139d"
+          },
+          "dapAn": "individual",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_9. It ... preferences.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_9. It ... preferences.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e70553eb-5192-415a-ba05-024364b48767"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you know Hugh Herr, _____________ of the MIT Center for Extreme Bionics?",
+      "yNghia": "Do you know Hugh Herr, <span style=\"color:red\">co-director</span> of the MIT Center for Extreme Bionics?<br />\n<i>Bạn có biết Hugh Herr, </i><i><span style=\"color:red\">đồng giám đốc </span></i><i>của Trung tâm Extreme Bionics MIT không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3fc10a18-d8a1-43ca-928e-cf08a6b43df4"
+          },
+          "dapAn": "director",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d3cc8cbe-0146-4441-bdfb-2b4c57d28cfd"
+          },
+          "dapAn": "co-director",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a2b9ff8e-6987-47c1-a59c-ca79c7338488"
+          },
+          "dapAn": "co-founder",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_10. Do ... Bionics.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_10. Do ... Bionics.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f0eff6fe-5ea0-4350-bb92-8236ae64e0a2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "He ___________ and developed new bionic legs after losing both of his legs. ",
+      "yNghia": "He <span style=\"color:red\">designed</span> and developed new bionic legs after losing both of his legs.<br />\n<i>Anh ấy </i><i><span style=\"color:red\">đã thiết kế </span></i><i>và phát triển đôi chân sinh học mới sau khi mất cả hai chân.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ca7b60d0-e984-4f46-8718-0b69c953c620"
+          },
+          "dapAn": "designed",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c91ff8ca-ed63-4552-bb45-9215edd55bde"
+          },
+          "dapAn": "created",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "48bf44a5-5bd5-4047-adca-f87e5629969b"
+          },
+          "dapAn": "invented",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_11. He ... legs.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_11. He ... legs.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2d6e01b4-10e3-4e4b-b749-646be57ed2c2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "He is amazing! Through the use of technology, we are changing the world that is ____________ to us.",
+      "yNghia": "He is amazing! Through the use of technology, we are changing the world that is <span style=\"color:red\">accessible</span> to us.<br />\n<i>Anh ấy thật tuyệt! Thông qua việc sử dụng công nghệ, chúng ta đang thay đổi thế giới mà chúng ta có thể </i><i><span style=\"color:red\">tiếp cận </span></i><i>được.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ef15b56d-d4eb-40da-bb2f-305fb590127d"
+          },
+          "dapAn": "accessible",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "577f461d-249c-4ecc-a41e-804a126ec675"
+          },
+          "dapAn": "efficient",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "abf59fb6-fbc9-49fe-aa4e-f7d94ebab749"
+          },
+          "dapAn": "impossible",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_12. He ... us.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_12. He ... us.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e02f9957-3aed-4181-a6ec-ab3762bd419e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Come on! If we miss our flight, this vacation is going to _________ a disaster.",
+      "yNghia": "Come on! If we miss our flight, this vacation is going to <span style=\"color:red\">turn into </span>a disaster. <br />\n<i>Thôi nào! Nếu chúng ta lỡ chuyến bay, kì nghỉ này sẽ <span style=\"color:red\">trở thành </span>một thảm hoạ. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6f10f023-03d6-40ce-a028-1d333629c03f"
+          },
+          "dapAn": "become",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2261eaf8-93d9-4006-8416-6ef572fb46f8"
+          },
+          "dapAn": "be",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "64dd1bd6-b2db-485f-ab81-f7578d9d57d8"
+          },
+          "dapAn": "turn into",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_13. Come ... disaster.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_13. Come ... disaster.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "4a0b8bf9-2af1-472a-90d8-1bd6c03b0757"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Natalia Partyka, the Polish table tennis player, has no right hand but still competed against ___________ players in the 2008 Olympics. ",
+      "yNghia": "Natalia Partyka, the Polish table tennis player, has no right hand but still competed against <span style=\"color:red\">able-bodied</span> players in the 2008 Olympics.<br />\n<i><span style=\"color:#202124\">Natalia Partyka, vận động viên bóng bàn người Ba Lan, cụt tay phải nhưng vẫn thi đấu với những tay vợt </span></i><i><span style=\"color:red\">khỏe mạnh </span></i><i><span style=\"color:#202124\">ở Thế vận hội 2008.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8f9e7b97-c6d0-4188-86ef-89658f839a9a"
+          },
+          "dapAn": "strong",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "92d48bab-30f1-4af2-b473-647621d7b885"
+          },
+          "dapAn": "able-bodied",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "241cb564-3dcd-40d2-abc7-21927d9cb0b3"
+          },
+          "dapAn": "stronger",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_14. Natalia ... Olympics.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_14. Natalia ... Olympics.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1833feaf-9feb-4a59-89c3-9013799abdfe"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Most museum in New York City have special access for disabled people, like people who use _________________.",
+      "yNghia": "Most museum in New York City have special access for disabled people, like people who use <span style=\"color:red\">wheelchairs</span>. <br />\n<i>Hầu hết các bảo tàng ở thành phố New York đều có lối đi đặc biệt cho người khuyết tật, chẳng hạn như những người dùng <span style=\"color:red\">xe lăn</span>. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5b22307c-8a6d-40dd-8100-fcb9b41d8db2"
+          },
+          "dapAn": "walking aids",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "87cb7f26-59cd-47f9-b2be-3e3817918b78"
+          },
+          "dapAn": "wheelchairs",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b220ca40-643d-4b0c-867d-b2f10736ec12"
+          },
+          "dapAn": "assistant dogs",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_15. Most ... wheelchairs.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_15. Most ... wheelchairs.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5ddce21b-2543-4316-953d-90d1336e1bb5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "This year I want to __________ my goal of walking the Appalachian Trail.",
+      "yNghia": "This year I want to <span style=\"color:red\">achieve </span>my goal of walking the Appalachian Trail.<br />\n<i>Năm nay tôi muốn <span style=\"color:red\">đạt được </span>mục tiêu đi</i> <i>bộ trên đường mòn Appalachian. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f70efeb2-e60d-4ecf-84a3-49c1d30d3f25"
+          },
+          "dapAn": "achieve",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "09465f7b-62ce-4e99-b488-08d3fe8f3518"
+          },
+          "dapAn": "finish",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "52f037f6-c4ca-4397-b782-8843f2f881b1"
+          },
+          "dapAn": "fulfill",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_16. This ... Trail.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_16. This ... Trail.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a8d19fd2-2b2a-4cbe-ae18-1f3cca95e012"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "This is obviously a great ____________ for anyone, but at the same time of the match, Judit was only 10 years old.",
+      "yNghia": "This is obviously a great <span style=\"color:red\">achievement </span>for anyone, but at the same time of the match, Judit was only 10 years old.<br />\n<i>Đây rõ ràng là một </i><i><span style=\"color:red\">thành tựu </span></i><i>lớn của bất kỳ ai, nhưng cùng lúc diễn ra trận đấu, Judit mới chỉ có 10 tuổi. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7c3f2d4c-84b0-4c87-a61a-a660d1381630"
+          },
+          "dapAn": "achievement",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a254a156-194d-4767-8844-ef5078baaee6"
+          },
+          "dapAn": "goal",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ad1751a1-2933-42c7-96d5-13d7a7529073"
+          },
+          "dapAn": "ability",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_17. This ... old.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_17. This ... old.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c5d9a33f-c822-46ed-a7bf-ebd07723969f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Her development was very impressive, and all her opponents said she had a “killer” _________. ",
+      "yNghia": "Her development was very impressive, and all her opponents said she had a \"killer\" <span style=\"color:red\">instinct</span>. <br />\n<i>Cô ấy có sự phát triển rất ấn tượng, và tất cả đối thủ của cô ấy đều nói cô ấy có một </i><i><span style=\"color:red\">bản năng </span></i><i>\"sát thủ\".</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3b96f519-c6fc-45ff-8e52-887bfeb8f138"
+          },
+          "dapAn": "skill",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "87f74532-4527-48bd-9819-462fb150c56b"
+          },
+          "dapAn": "ability",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bae3e474-ebe2-48b8-b421-7f1a10c77cfc"
+          },
+          "dapAn": "instinct",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_18. Her ... instinct.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_18. Her ... instinct.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9434a0db-f804-4ec2-9539-3c8acec295ee"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There’s a ___________ that Kasparov’s attitude distracted her from winning.",
+      "yNghia": "There's a <span style=\"color:red\">possibility</span> that Kasparov's attitude distracted her from winning. <br />\n<i>Có </i><i><span style=\"color:red\">khả năng</span></i><i> là thái độ của Kasparov đã làm cô ấy xao nhãng khỏi việc chiến thắng. cô ấy chơi thật tệ trong thời gian còn lại của giải đấu. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2859f78f-e327-40fe-b95e-e077c6033c45"
+          },
+          "dapAn": "possibility",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "09c173ba-c855-4b87-80d0-4f074d983b48"
+          },
+          "dapAn": "chance",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c7fd8ba9-2e20-49ca-9ead-6d2754482436"
+          },
+          "dapAn": "opportunity",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_19. The ... winning.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_19. The ... winning.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "0f0bddd0-7aff-43b5-a049-39cfc73fe15d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She played badly for the rest of the ____________.",
+      "yNghia": "She played badly for the rest of the <span style=\"color:red\">tournament</span>.<br />\n<i>Cô ấy chơi thật tệ trong thời gian còn lại của <span style=\"color:red\">giải đấu.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f8af8766-1853-4349-aae4-3ffda7f79ca1"
+          },
+          "dapAn": "​​​​​​​tournament",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "082a35ff-94f2-4fb2-8e11-ae463a0a92a4"
+          },
+          "dapAn": "game",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b15b24ea-b1aa-446a-bd7d-fa6a2eda94eb"
+          },
+          "dapAn": "match",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L1/sounds/normal/MTC_1_LISTENING_20. She ... tournament.mp3",
+      "soundSlow": "4SKILLS_MTC_L1/sounds/slow/MTC_1_LISTENING_20. She ... tournament.mp3"
+    }
+  ]
+}

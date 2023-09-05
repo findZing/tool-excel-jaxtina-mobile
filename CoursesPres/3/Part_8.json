@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L3/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L3/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "2b9c517a-cf9e-4bd7-a379-50e3ede948b7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Linda",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6478a544-6c28-4d63-85e2-7ab1f7b04ca2"
+          },
+          "dapAn": "Hi, Hayden. How are you?",
+          "phienAm": "/haɪ ˈheɪdn/. /haʊ ɑːr juː/",
+          "yNghia": "\nChào, Hayden. Cậu khỏe không?",
+          "normal": {
+            "start": "00:00:01.204",
+            "end": "00:00:03.222"
+          },
+          "slow": {
+            "start": "00:00:01.546",
+            "end": "00:00:05.266"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "865c680f-5c37-4644-ba70-a15785bb15e2"
+          },
+          "dapAn": "Are you free this Sunday?",
+          "phienAm": "/ɑːr juː friː ðɪs ˈsʌndeɪ/",
+          "yNghia": "\nChủ nhật này cậu có rảnh không?",
+          "normal": {
+            "start": "00:00:05.508",
+            "end": "00:00:07.257"
+          },
+          "slow": {
+            "start": "00:00:08.866",
+            "end": "00:00:11.354"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e7aa52d3-c3f8-49e7-ba73-42d7323b6cd8"
+          },
+          "dapAn": "I think we can go to the cinema.",
+          "phienAm": "/aɪ θɪŋk wiː kæn gəʊ tuː ðə ˈsɪnəmə/",
+          "yNghia": "\nTớ nghĩ chúng mình có thể đi xem phim.",
+          "normal": {
+            "start": "00:00:10.381",
+            "end": "00:00:12.464"
+          },
+          "slow": {
+            "start": "00:00:15.268",
+            "end": "00:00:18.819"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "423d3112-69d2-45a1-b575-a9ff9607fabd"
+          },
+          "dapAn": "What do you have to do?",
+          "phienAm": "/wɒt duː juː hæv tuː duː/",
+          "yNghia": "\nCậu phải làm gì thế?",
+          "normal": {
+            "start": "00:00:18.452",
+            "end": "00:00:19.851"
+          },
+          "slow": {
+            "start": "00:00:25.293",
+            "end": "00:00:28.144"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6b780803-3da6-42bf-84af-52fe2d5b8bca"
+          },
+          "dapAn": "Wow. Can you tell me about your family?",
+          "phienAm": "/waʊ/. /kæn juː tel miː əˈbaʊt jɔːr ˈfæmɪli/",
+          "yNghia": "\nỒ. Cậu kể cho tớ về gia đình cậu được không?",
+          "normal": {
+            "start": "00:00:23.854",
+            "end": "00:00:27.206"
+          },
+          "slow": {
+            "start": "00:00:32.637",
+            "end": "00:00:36.720"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8df38482-a65b-4b88-947f-98ee12a7c719"
+          },
+          "dapAn": "So, you are the first child in your family.",
+          "phienAm": "/səʊ juː ɑːr ðə fɜːst ʧaɪld ɪn jɔːr ˈfæməli/",
+          "yNghia": "\nVậy, cậu là con cả trong gia đình cậu.",
+          "normal": {
+            "start": "00:00:35.635",
+            "end": "00:00:38.824"
+          },
+          "slow": {
+            "start": "00:00:46.334",
+            "end": "00:00:52.229"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fe4edb17-5205-4821-a23e-2041b4cdc1ac"
+          },
+          "dapAn": "I am an only child. What is your father’s name?",
+          "phienAm": "/aɪ æm ən ˈəʊnli ʧaɪld/. /wɒt ɪz jɔːr ˈfɑːðəz neɪm/",
+          "yNghia": "\nTớ là con một. Bố của cậu tên là gì thế?",
+          "normal": {
+            "start": "00:00:43.000",
+            "end": "00:00:46.992"
+          },
+          "slow": {
+            "start": "00:00:57.737",
+            "end": "00:01:04.573"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "04193b86-91cc-4cc1-a703-9c142ff341dd"
+          },
+          "dapAn": "What is your mother’s name?",
+          "phienAm": "/wɒt ɪz jɔːr ˈmʌðəz neɪm/",
+          "yNghia": "\nMẹ cậu tên gì?",
+          "normal": {
+            "start": "00:00:49.930",
+            "end": "00:00:51.512"
+          },
+          "slow": {
+            "start": "00:01:08.366",
+            "end": "00:01:11.483"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a4d60740-0660-4be4-ba09-52bcc2c80471"
+          },
+          "dapAn": "What about your brother’s name?",
+          "phienAm": "/wɒt əˈbaʊt jɔːr ˈbrʌðəz neɪm/",
+          "yNghia": "\nCòn tên của em trai cậu thì sao?",
+          "normal": {
+            "start": "00:00:54.738",
+            "end": "00:00:56.911"
+          },
+          "slow": {
+            "start": "00:01:15.275",
+            "end": "00:01:18.826"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5a4ffd0e-1f32-402d-bf3a-4ee20dabeee3"
+          },
+          "dapAn": "Do you like playing with him?",
+          "phienAm": "/duː juː laɪk ˈpleɪɪŋ wɪð hɪm/",
+          "yNghia": "\nCậu có thích chơi với em ấy không?",
+          "normal": {
+            "start": "00:00:59.424",
+            "end": "00:01:01.214"
+          },
+          "slow": {
+            "start": "00:01:21.919",
+            "end": "00:01:24.504"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2a0167b7-985d-49a1-9b0d-90e10da35732"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Hayden",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9133a32c-a3b6-443c-bc87-44125f0d954b"
+          },
+          "dapAn": "I’m fine, thanks.",
+          "phienAm": "/aɪm faɪn θæŋks/",
+          "yNghia": "\n Tớ khỏe, cảm ơn cậu.",
+          "normal": {
+            "start": "00:00:03.545",
+            "end": "00:00:04.686"
+          },
+          "slow": {
+            "start": "00:00:06.064",
+            "end": "00:00:07.851"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "28ce1016-b83f-4532-8287-771a7b353aa7"
+          },
+          "dapAn": "What is your plan?",
+          "phienAm": "/wɒt ɪz jɔːr plæn/",
+          "yNghia": "\nCậu có kế hoạch gì?",
+          "normal": {
+            "start": "00:00:07.875",
+            "end": "00:00:09.275"
+          },
+          "slow": {
+            "start": "00:00:12.103",
+            "end": "00:00:13.987"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5ce7b416-441d-41f8-8de4-23e0a8a4baf7"
+          },
+          "dapAn": "That sounds great, but I’m busy this Sunday.",
+          "phienAm": "/ðæt saʊndz greɪt bʌt aɪm ˈbɪzi ðɪs ˈsʌndeɪ/",
+          "yNghia": "\nNghe hay đó, nhưng Chủ nhật này tớ bận rồi.",
+          "normal": {
+            "start": "00:00:13.213",
+            "end": "00:00:17.118"
+          },
+          "slow": {
+            "start": "00:00:19.906",
+            "end": "00:00:24.520"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7a3acc8b-3513-42be-b118-95651a24ea3f"
+          },
+          "dapAn": "I have a party with my family.",
+          "phienAm": "/aɪ hæv eɪ ˈpɑːti wɪð maɪ ˈfæmɪli/",
+          "yNghia": "\nTớ có một bữa tiệc với gia đình.",
+          "normal": {
+            "start": "00:00:20.632",
+            "end": "00:00:23.073"
+          },
+          "slow": {
+            "start": "00:00:28.917",
+            "end": "00:00:32.178"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0590a991-3b6e-46bf-ad8a-76bc5814a476"
+          },
+          "dapAn": "There are four people in my family: my parents, my younger brother and me.",
+          "phienAm": "/ðeər ɑːr fɔːr ˈpiːpl ɪn maɪ ˈfæməli maɪ ˈpeərənts maɪ ˈjʌŋər ˈbrʌðər ænd miː/",
+          "yNghia": "\nGia đình tớ có bốn người: bố mẹ, em trai và tớ.",
+          "normal": {
+            "start": "00:00:27.794",
+            "end": "00:00:34.301"
+          },
+          "slow": {
+            "start": "00:00:37.106",
+            "end": "00:00:45.368"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b71325eb-bba6-4964-90aa-67653d761437"
+          },
+          "dapAn": "That’s right. What about you?",
+          "phienAm": "/ðæts raɪt/. /wɒt əˈbaʊt juː/",
+          "yNghia": "\nĐúng vậy. Còn cậu thì sao?",
+          "normal": {
+            "start": "00:00:39.833",
+            "end": "00:00:42.534"
+          },
+          "slow": {
+            "start": "00:00:53.195",
+            "end": "00:00:56.577"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "eedc6aad-6119-4eaa-9a0c-dd31d81cb606"
+          },
+          "dapAn": "His name is Joe.",
+          "phienAm": "/hɪz neɪm ɪz ˈʤəʊ/",
+          "yNghia": "\nTên của ông ấy là Joe.",
+          "normal": {
+            "start": "00:00:47.318",
+            "end": "00:00:49.173"
+          },
+          "slow": {
+            "start": "00:01:05.129",
+            "end": "00:01:07.303"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0249380b-e86f-4a50-9f70-10812df9aeb7"
+          },
+          "dapAn": "Her name is Nora.",
+          "phienAm": "/hɜː neɪm ɪz ˈnɔːrə/",
+          "yNghia": "\nTên bà ấy là Nora.",
+          "normal": {
+            "start": "00:00:51.906",
+            "end": "00:00:53.892"
+          },
+          "slow": {
+            "start": "00:01:12.086",
+            "end": "00:01:14.212"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "08917082-e417-436a-ad53-4f57bc51b27c"
+          },
+          "dapAn": "He is Dan.",
+          "phienAm": "/hiː ɪz dæn/",
+          "yNghia": "\nEm ấy tên là Dan.",
+          "normal": {
+            "start": "00:00:57.276",
+            "end": "00:00:58.578"
+          },
+          "slow": {
+            "start": "00:01:19.455",
+            "end": "00:01:21.049"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "852312e8-be4a-41df-8ae3-753efb823357"
+          },
+          "dapAn": "Yes, I love him so much!",
+          "phienAm": "/jes aɪ lʌv hɪm səʊ mʌʧ/",
+          "yNghia": "\nCó, tớ yêu em ấy rất nhiều.",
+          "normal": {
+            "start": "00:01:01.702",
+            "end": "00:01:04.501"
+          },
+          "slow": {
+            "start": "00:01:24.938",
+            "end": "00:01:28.103"
+          }
+        }
+      ]
+    }
+  ]
+}

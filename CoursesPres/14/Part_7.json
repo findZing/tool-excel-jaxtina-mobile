@@ -1,0 +1,662 @@
+{
+  "dangCauHoi": "P6",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "caf3592a-d0fc-46e8-b4ff-b37a4c49c216"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để giới thiệu bản thân,<b> </b>chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ to be + Tân ngữ</b><br />\nTa có: <b>I</b> <i>(Tôi)</i> là chủ ngữ, <b>am</b> là động từ <i>to be</i>, tân ngữ là <b>a tourist</b> <i>(một du khách)</i>.<br />\nCâu hoàn chỉnh là <span style=\"color:red\"><b>I'm David, I'm a tourist.</b></span> <i>(Tôi là David, tôi là một du khách.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bb0b2870-c77f-4c6d-b8d4-bc0268db2370"
+          },
+          "dapAn": "I’m David,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5d9fc350-0556-4694-9333-b9e470bc96ae"
+          },
+          "dapAn": "I’m a",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "36ac60a9-cc60-4abe-80fc-963b628406cb"
+          },
+          "dapAn": "tourist.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5213d4b9-cb08-4828-9817-371767155d96"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả đây là lần đầu ai đó làm việc gì đó,<b> </b>chúng ta sẽ dùng cấu trúc: <b>This is + Tính từ sở hữu + first time</b><br />\nTa có: Tính từ sở hữu là <b>my</b> <i>(của tôi)<i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>This is my first time here.</b> </span><i>(Đây là lần đầu tiên tôi đến đây.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a43fb3b7-f3c2-456a-bf94-c9ae0608e3b6"
+          },
+          "dapAn": "This is ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "82abb3f4-3a8a-4ed7-953e-9c1d4e3f3246"
+          },
+          "dapAn": "my first ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "556d6a94-2e1e-4644-bbb2-c48b624d5a5e"
+          },
+          "dapAn": "time here. ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ca400ae2-7785-42af-9a2a-9fe5dc0fc078"
+      },
+      "cauHoiNho": [],
+      "yNghia": "<b>How </b>là từ để hỏi, động từ chính <b>help</b> sau trợ động từ <b>can</b> được giữ nguyên dạng. Câu hoàn chỉnh là <span style=\"color:red\"><b>How can I help you?</b></span> nghĩa là <i>Tôi có thể giúp gì cho bạn?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f93b592c-ba5e-446f-9d99-7c2cfe5e9646"
+          },
+          "dapAn": "How",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d088f1b5-cbee-44a9-8818-cfdebce6cce6"
+          },
+          "dapAn": "can I",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9d12bb57-2cfe-40de-8ca2-2e4af61f6aa6"
+          },
+          "dapAn": "help you? ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2611e45f-5954-462b-871a-0e7cfa132435"
+      },
+      "cauHoiNho": [],
+      "yNghia": "<b>a bus stop </b>mang nghĩa là \"trạm dừng xe buýt\", là danh từ số ít nên động từ <i>to be</i> được sử dụng là <b>Is</b>. Câu hoàn chỉnh là <span style=\"color:red\"><b>Is there a bus stop near here?</b></span> nghĩa là <i>Có trạm dừng xe buýt nào gần đây không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c5c33931-c003-4390-935b-1e59eecdba75"
+          },
+          "dapAn": "Is there ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ad620f34-22ba-4d87-984e-6a34596a40ce"
+          },
+          "dapAn": "a bus stop ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "067f7b70-b508-49da-ae29-774b3695a93f"
+          },
+          "dapAn": "near here?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "aff80404-da81-4281-aca2-7477f0b7d674"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đưa ra chỉ dẫn,<b> </b>chúng ta sẽ dùng cấu trúc: <b>Động từ + Chỉ dẫn</b><br />\r\nTa có: <b>Go</b> là động từ, chỉ dẫn là <b>straight up this street</b>.<br />\r\nCâu hoàn chỉnh là <span style=\"color:red\"><b>Go straight up this street.</b></span> <i>(Hãy đi thẳng lên con phố này.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d2a2e611-71ea-432d-bb1e-f7c521d22d14"
+          },
+          "dapAn": "Go",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ff756ac8-d74e-43e8-8384-cb8e7e7906e7"
+          },
+          "dapAn": "straight up ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "40f14f22-77eb-41ef-8325-95d2c98adfef"
+          },
+          "dapAn": "this street. ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "14113177-9cc5-42f7-af20-0db2de449ed2"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó đến từ đâu,<b> </b>chúng ta sẽ dùng cấu trúc: <b>Where + Động từ to be + Chủ ngữ + from?</b><br />\nTa có: <b>you </b><i>(bạn)</i> là chủ ngữ, động từ <i>to be </i>là <b>are</b>.<br />\nCâu hoàn chỉnh là <span style=\"color:red\"><b>Where are you from?</b> </span><i>(Bạn đến từ đâu?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1f56b6ad-7074-428b-a0b4-b254ebe2c76e"
+          },
+          "dapAn": "Where",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "143b62c5-81a1-4c71-be5c-9d841e4a5318"
+          },
+          "dapAn": "are you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "85bb8cbe-b35c-45ca-986f-c598662e12b0"
+          },
+          "dapAn": "from?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7038e5de-1dba-4f42-bc81-f3950e577d59"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi xin chỉ dẫn,<b> </b>chúng ta sẽ dùng cấu trúc: <b>Could you tell me where + địa điểm + động từ to be?</b><br />\nTa có: <b>the grocery store </b><i>(cửa hàng tạp hóa)</i> là địa điểm, động từ <i>to be</i> là <b>is</b>.<br />\nCâu hoàn chỉnh là <span style=\"color:red\"><b>Could you tell me where the grocery store is?</b> </span><i>(Bạn có thể cho tôi biết cửa hàng tạp hóa ở đâu không?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "54b6ec8d-a495-4259-9a1d-99fab47946c1"
+          },
+          "dapAn": "Could you ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4a203755-05dd-47ba-85ff-a3ee3d7bcc87"
+          },
+          "dapAn": "tell me ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0913da23-e56d-485f-b767-04cf3c11c89a"
+          },
+          "dapAn": "where ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "720c9dc9-217f-41fe-b21c-748f8bbd4b72"
+          },
+          "dapAn": "the grocery ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8581c533-8133-47cc-9d37-2477953fe7fa"
+          },
+          "dapAn": "store is? ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3889b085-92b2-4a7a-8a61-e3ceb4be3066"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Động từ chính <b>take</b> sau trợ động từ <b>can</b> được giữ nguyên dạng. Câu hoàn chỉnh là <b><span style=\"color:red\">You can take bus number 18.</span> </b>nghĩa là <i>Bạn có thể bắt xe buýt số 18.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e91c7bfb-639d-4197-85fd-c706141c3a17"
+          },
+          "dapAn": "You can ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "79e1c6ca-0ea5-4437-804a-104b0a045b86"
+          },
+          "dapAn": "take bus ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9914071d-13d1-486e-879c-35c5401768c4"
+          },
+          "dapAn": "number 18. ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2679f5e5-0737-461b-bbd8-446f448a71e4"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đưa ra chỉ dẫn,<b> </b>chúng ta sẽ dùng cấu trúc: <b>Động từ + Chỉ dẫn </b><br />\r\nTa có: <b>Get off</b> là động từ, chỉ dẫn là <b>at the 3rd stop.</b><br />\r\nCâu hoàn chỉnh là <span style=\"color:red\"><b>Get off at the 3rd stop.</b></span> <i>(Hãy xuống xe ở điểm dừng thứ ba.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d7f882bc-9d9d-4689-9a8a-88b02e73c317"
+          },
+          "dapAn": "Get off ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f0520bd5-cb8f-48f2-9032-20038c59017f"
+          },
+          "dapAn": "at the ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8c3c0855-d95e-4bb4-a2f1-fe3e2f5ee678"
+          },
+          "dapAn": "3rd stop. ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f2781536-601c-4e52-88c8-b94c65fdd611"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu hỏi về một lịch trình,<b> </b>chúng ta sẽ dùng cấu trúc: <b>Từ để hỏi + do/does + Chủ ngữ + Động từ</b><br />\r\nTa có: <b>Where</b> là từ để hỏi, chủ ngữ là <b>the bus</b> nên trợ động từ đi kèm là <b>does</b>, động từ là <b>stop.</b><br />\r\nCâu hoàn chỉnh là <span style=\"color:red\"><b>Where does the bus stop?</b></span> <i>(Xe buýt dừng ở đâu vậy?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "22d1a790-f782-4a5d-b947-c344f12cb5a3"
+          },
+          "dapAn": "Where ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fdd114c2-2740-4690-9a5c-8eb472520c92"
+          },
+          "dapAn": "does the ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e98e95ea-be60-43c3-8e3c-0a996d30a7c8"
+          },
+          "dapAn": "bus stop? ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0e71ef3b-3dbc-4cff-8339-cbd2ebcd505a"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để kết thúc chỉ dẫn,<b> </b>chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ + Chỉ dẫn</b><br />\nTa có: <b>The grocery store</b> là chủ ngữ, động từ là <b>is</b>, chỉ dẫn là <b>opposite the bus stop.</b><br />\nCâu hoàn chỉnh là <span style=\"color:red\"><b>The grocery store is opposite the bus stop.</b> </span><i>(Cửa hàng tạp hóa ở đối diện với trạm dừng xe buýt.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "11b47307-a624-4963-ac9b-567a5af4a25a"
+          },
+          "dapAn": "The grocery ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "14f66be9-db18-4486-bda3-5123c863094f"
+          },
+          "dapAn": "store is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "28bfedef-d7e7-49e4-9bc0-af755a920bcf"
+          },
+          "dapAn": "opposite the ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6156f145-91d5-413d-8403-e97d944cc081"
+          },
+          "dapAn": "bus stop.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "15248059-f8f2-4c18-8cc9-02d787d340b7"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Câu hoàn chỉnh là <span style=\"color:red\"><b>What about the museum?</b> </span>nghĩa là <i>Vậy còn bảo tàng thì sao?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "dfb670c1-efda-42cc-a19d-484ff1a3e2ab"
+          },
+          "dapAn": "What",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2425370b-2536-4529-b610-f972a1d83bda"
+          },
+          "dapAn": "about the ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d371c4c5-d956-4342-8f7b-d324a3dec943"
+          },
+          "dapAn": "museum? ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2bbbad9b-55f3-4966-81b8-5a0435bf929f"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đưa ra chỉ dẫn,<b> </b>chúng ta sẽ dùng cấu trúc: <b>Động từ + Chỉ dẫn </b><br />\r\nTa có: <b>Take </b>là động từ, chỉ dẫn là <b>the second right.</b><br />\r\nCâu hoàn chỉnh là <span style=\"color:red\"><b>Take the second right.</b></span> <i>(Rẽ phải ở ngã rẽ thứ hai.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "845d96d0-3f35-43f7-95e2-ee81c1ba4093"
+          },
+          "dapAn": "Take the ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "628963c0-47b1-4dd1-b18b-646201ee6831"
+          },
+          "dapAn": "second",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9377a918-e616-40c3-9bb6-13278ecd535a"
+          },
+          "dapAn": "right. ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ea7e9eaf-ed36-485f-898e-357d907e01bf"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để kết thúc chỉ dẫn,<b> </b>chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ + Chỉ dẫn</b><br />\r\nTa có: <b>The science museum</b> là chủ ngữ, động từ là <b>is</b>, chỉ dẫn là <b>on the left.</b><br />\r\nCâu hoàn chỉnh là <span style=\"color:red\"><b>The science museum is on the left.</b> </span><i>(Bảo tàng khoa học nằm ở bên trái.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bb74ee34-4f27-430e-91e8-c241d751e088"
+          },
+          "dapAn": "The",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d288fde1-a03a-455e-9ab2-c2aca2719f55"
+          },
+          "dapAn": "science ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b25a3885-0fa9-4ab0-8d5e-a4e219fec657"
+          },
+          "dapAn": "museum",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3c0a956d-b25f-4451-b3e8-506537bc983e"
+          },
+          "dapAn": "is on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a1d0f8bd-2423-4b44-897a-c88d8084fe93"
+          },
+          "dapAn": "the left. ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9406e4a8-0a3b-4d14-acaf-6251809372ce"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để kết thúc chỉ dẫn,<b> </b>chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ + Chỉ dẫn</b><br />\r\nTa có: <b>It</b> là chủ ngữ, động từ là <b>is</b>, chỉ dẫn là <b>between the park and the school.</b><br />\r\nCâu hoàn chỉnh là <span style=\"color:red\"><b>It's between the park and the school.</b> </span><i>(Nó ở giữa công viên và trường học.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0571d835-8a27-4acb-bd9c-72e7dceacc21"
+          },
+          "dapAn": "It’s between ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a2ea124c-3ab4-48c3-b71e-06c1efbbb6dc"
+          },
+          "dapAn": "the park ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "20743646-9048-451e-b098-5a3f3985fd27"
+          },
+          "dapAn": "and the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f81e29a8-ee12-40e1-94b3-13ab1782b683"
+          },
+          "dapAn": "school. ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e40e1a51-4f10-449c-a29f-e1c563de2ca0"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để miêu tả về một cái gì đó,<b> </b>chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ to be + Tính từ</b><br />\r\nTa có: <b>The history museum</b> là chủ ngữ, động từ <i>to be </i>là <b>is</b>, tính từ là <b>great.</b><br />\r\nCâu hoàn chỉnh là <span style=\"color:red\"><b>The history museum is great, too.</b></span> <i>(Bảo tàng lịch sử cũng tuyệt nữa.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cf011cbb-10da-48b4-8aca-307a9614cd66"
+          },
+          "dapAn": "The history ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cff7ca93-1da5-49ad-8141-c301255efb5d"
+          },
+          "dapAn": "museum is ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "66eeaea3-f029-4ae0-b0cc-854213dba602"
+          },
+          "dapAn": "great, too. ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "81469b23-c8cd-4618-aab7-4a266cb4dfa8"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để kết thúc chỉ dẫn,<b> </b>chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ + Chỉ dẫn</b><br />\r\nTa có: <b>It</b> là chủ ngữ, động từ là <b>is</b>, chỉ dẫn là <b>across from the park.</b><br />\r\nCâu hoàn chỉnh là <span style=\"color:red\"><b>It's across from the park.</b> </span><i>(Nó ở đối diện với công viên.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8fb9dae6-b422-4e27-8058-bdf45c3cd270"
+          },
+          "dapAn": "It’s ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f4bb77a4-44a1-4dbf-a0e0-45affac8de2e"
+          },
+          "dapAn": "across",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6d13a5eb-42f3-4a9f-82bc-6a326b58ca09"
+          },
+          "dapAn": "from the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "aa4f444d-0c6b-4825-99ca-3f6bdc7c6287"
+          },
+          "dapAn": "park.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e4d9c957-c010-4f3c-b43a-2afc9415e6f3"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả mong muốn,<b> </b>chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + want to / wants to + Động từ (nguyên thể)</b><br />\r\nTa có: <b>I</b> là chủ ngữ ngôi thứ nhất số ít nên động từ là <b>want </b>được<b> </b>giữ nguyên, động từ nguyên thể là <b>visit. </b>Câu hoàn chỉnh là<span style=\"color:red\"> <b>I also want to visit the Mermaid Aquarium.</b> </span><i>(Tôi cũng muốn đi thăm Thủy cung Nàng tiên cá.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0d5563e3-f01a-4de8-8af4-d6ea2ca4621d"
+          },
+          "dapAn": "I also",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f6135e33-5809-4842-840d-0aed3f9ad205"
+          },
+          "dapAn": "want to ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fcf526f1-9cb6-47a6-a602-9be344553bf7"
+          },
+          "dapAn": "visit the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "537515dd-9885-4d02-b53e-8c31f196ea8d"
+          },
+          "dapAn": "Mermaid Aquarium. ",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3fd1ae85-9e50-4cf4-9466-925a269347e6"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi về một địa điểm có gần đây hay không,<b> </b>chúng ta sẽ dùng cấu trúc: <b>Động từ to be + Chủ ngữ + near here?</b><br />\r\nTa có: <b>It</b> là chủ ngữ ngôi thứ ba số ít nên động từ <i>to be</i> là <b>is.</b><br />\r\nCâu hoàn chỉnh là <span style=\"color:red\"><b>Is it near here?</b></span> <i>(Nó có ở gần đây không?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cd4b033e-0380-4da5-addc-8890caf58dc9"
+          },
+          "dapAn": "Is it ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3f11161f-d39a-4bea-a3d6-10f77d166eeb"
+          },
+          "dapAn": "near",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d8ec007c-3e03-402e-8649-d72c78709aa7"
+          },
+          "dapAn": "here?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "79dc6794-2cdd-49ae-ac2e-390b1f0fe55c"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để kết thúc chỉ dẫn,<b> </b>chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ + Chỉ dẫn</b><br />\r\nTa có: <b>It</b> là chủ ngữ, động từ là <b>is</b>, chỉ dẫn là <b>right behind the Central Park. </b><br />\r\nCâu hoàn chỉnh là <span style=\"color:red\"><b>It's right behind the Central Park.</b></span> <i>(Nó ở ngay phía sau Công viên Trung tâm.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6b66ee7e-70f9-40f9-81a7-b2116deaff44"
+          },
+          "dapAn": "It’s right ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2032869c-bc82-42e9-bede-6d6088ff4a12"
+          },
+          "dapAn": "behind the ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f98d8d24-96da-46b6-ad85-11979736b7a8"
+          },
+          "dapAn": "Central Park. ",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

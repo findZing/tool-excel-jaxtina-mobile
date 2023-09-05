@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "425572e0-60af-42ec-beb1-e3b6a962843d"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "139362bb-e870-495b-a3d7-2a2cce0f2cbe"
+          },
+          "cauHoi": "Where has the writer ever lived?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "898e52ff-16f4-43b2-a257-7d2d44c7c4d0"
+              },
+              "dapAn": "A. Los Angeles",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "8da7b42b-f82f-428f-b054-f1588ff07824"
+              },
+              "dapAn": "B. Hanoi",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "18234114-03f1-4ee1-bf19-4be4d506d2b3"
+              },
+              "dapAn": "C. Paris",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "924007ef-9757-4fe6-9549-21665fa540a3"
+              },
+              "dapAn": "D. Bangkok",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f53f0a04-0a72-482e-a886-afdd6a1e9fa7"
+          },
+          "cauHoi": "How many brothers and sisters does the writer have?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9b4124b0-a1f5-4eb5-a639-8df328b7f0f6"
+              },
+              "dapAn": "A. six",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cb77f5c2-5005-4a96-b6c2-bc8a31bef83f"
+              },
+              "dapAn": "B. seven",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a36ec44f-df9e-48bc-8344-e0f498ffd542"
+              },
+              "dapAn": "C. eight",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5ef659a1-206e-45ab-87c6-a554b06d44fa"
+              },
+              "dapAn": "D. nine",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "9e67ccb3-95a4-4311-9d18-a981cda0d4d7"
+          },
+          "cauHoi": "What did they do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "da61f1ef-4221-45ac-9125-276c95785997"
+              },
+              "dapAn": "A. danced",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "90e9b102-bfaf-48b3-8e60-4aeef65bda7c"
+              },
+              "dapAn": "B. sang a song",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "50d0be2e-aad5-4d0a-8d7c-9cad39dfa1dd"
+              },
+              "dapAn": "C. exchanged phone numbers",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "1d5c71de-d23d-43e2-8e8d-aa84bad3378b"
+              },
+              "dapAn": "D. painted",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "aaa69b5c-7fe2-4333-be69-4d4839e62a75"
+          },
+          "cauHoi": "Did the writer call her mom to check if she had a twin sister?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8da92929-3c65-45e5-a542-7ed1092b7cee"
+              },
+              "dapAn": "A. No, she did.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ea41296a-d830-4802-951e-c4c48bfeafe7"
+              },
+              "dapAn": "B. No, she didn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bfd05e51-094d-4712-b788-bc68d76a892f"
+              },
+              "dapAn": "C. Yes, she didn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bfde9a09-c865-4aae-9a52-e9508d5fc275"
+              },
+              "dapAn": "D. Yes, she did.",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "I said I lived in Los Angeles until I was 12. I told her I was single and came from a large family. I have seven brothers and sisters. We were laughing about how we looked the same, but how we had very different lives. Anyway, we exchanged phone numbers and said goodbye. Later on, I called my mom to check if I had a twin sister! ",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Where has the writer ever lived?</b> <i>(Người viết đã từng sống ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>I lived in Los Angeles until I was 12.</b> <i>(Tôi đã sống ở Los Angeles cho đến năm 12 tuổi.).</i> Nên đáp án là <b><span style=\"color:red\">A. Los Angeles</span></b>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>How many brothers and sisters does the writer have?</b> <i>(Người viết có bao nhiêu anh chị em?),</i> <b></b>câu trong bài đọc liên quan là <b>I have seven brothers and sisters.</b> <i>(Tôi có bảy anh chị em.).</i> Nên đáp án là <b><span style=\"color:red\">B. seven</span> </b><i>(bảy)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>What did they do?</b> <i>(Họ đã làm gì?),</i> <b></b>câu trong bài đọc liên quan là <b>Anyway, we exchanged phone numbers and said goodbye.</b> <i>(Dù sao thì, chúng tôi đã trao đổi số điện thoại và nói lời tạm biệt.).</i> Nên đáp án là <b><span style=\"color:red\">C. exchanged phone numbers</span> </b><i>(đã trao đổi số điện thoại)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>Did the writer call her mom to check if she had a twin sister?</b> <i>(Có phải người viết đã gọi cho mẹ của cô ấy để hỏi xem liệu cô ấy có chị em song sinh không?),</i> <b></b>câu trong bài đọc liên quan là <b>Later on, I called my mom to check if I had a twin sister!</b> <i>(Sau đó, tôi đã gọi cho mẹ tôi để kiểm tra xem tôi có một người chị em sinh đôi không!).</i> Nên đáp án là <b><span style=\"color:red\">D. Yes, she did.</span> </b><i>(Đúng.)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "045c1847-c9ea-4e84-a52f-6034c1df6b23"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "d33f8b0c-5e45-4083-a7ca-a4a54c8541df"
+          },
+          "cauHoi": "Is Mary an only child?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2273de6a-b239-40e6-82ea-a7047b8b3bd5"
+              },
+              "dapAn": "A. No, she isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "32855abb-b402-4a4c-93ef-5ed4704ccf7f"
+              },
+              "dapAn": "B. No, she is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "51a4a4c1-76d6-4f72-9c72-8f22c3c636b4"
+              },
+              "dapAn": "C. Yes, she isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "03e2079c-ee47-4946-abed-1264d5a72263"
+              },
+              "dapAn": "D. Yes, she is.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ad8d0748-b7d3-40fa-8219-ecdac7f32a53"
+          },
+          "cauHoi": "What happened when Mary was two years old?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a8bbe06b-c24f-4ce2-ba86-bcd5977dd443"
+              },
+              "dapAn": "A. She wasn’t adopted.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c3f8a3ed-43b8-4698-861d-e8bfac409541"
+              },
+              "dapAn": "B. She wasn’t married.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5293b59c-f366-4359-9666-d476c25e15ed"
+              },
+              "dapAn": "C. She was adopted.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "ce46ef67-dc89-40dc-accf-10fdcb94a651"
+              },
+              "dapAn": "D. She was married.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f8310784-61d0-4209-a7e5-fde8379ce273"
+          },
+          "cauHoi": "What happened when Mary was eight years old?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f30ffa9e-8c73-473f-8643-72a836163a8c"
+              },
+              "dapAn": "A. Her parents didn’t divorce.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8f493623-592d-4596-8ffb-e3ec455d671e"
+              },
+              "dapAn": "B. Her parents divorced.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3c3d5caf-cc86-491b-9bf1-68d10f4c4edc"
+              },
+              "dapAn": "C. Her parents got married.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b2b8c278-597d-4c9b-8413-cd30a1130f5c"
+              },
+              "dapAn": "D. Her parents had a second child.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "36607a64-68b1-4b60-a99c-e02109c75742"
+          },
+          "cauHoi": "Was she engaged to a guy from Brazil?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3c39c52f-e6c7-44ef-baf9-8320b133bd8b"
+              },
+              "dapAn": "A. No, she wasn’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "2c61c2e0-17fc-4923-9f9b-e53785513efd"
+              },
+              "dapAn": "B. No, she was.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "39b15705-6939-4282-afb8-00a703febf4e"
+              },
+              "dapAn": "C. Yes, she was.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0095fe86-9f07-4f01-a6f6-55f4057d0c7d"
+              },
+              "dapAn": "D. Yes, she wasn’t.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Mary said she was an only child. She was adopted when she was two and lived in San Diego until she was 18. Her parents divorced when she was eight. She was engaged to a guy from Australia.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Is Mary an only child?</b> <i>(Mary có phải là con một không?),</i> <b></b>câu trong bài đọc liên quan là <b>Mary said she was an only child.</b> <i>(Mary cho biết cô là con một.).</i> Nên đáp án là <b><span style=\"color:red\">D. Yes, she is.</span> </b><i>(Đúng.)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>What happened when Mary was two years old?</b> <i>(Chuyện gì đã xảy ra khi Mary hai tuổi?),</i> <b></b>câu trong bài đọc liên quan là <b>She was adopted when she was two ...</b> <i>(Cô ấy được nhận nuôi khi mới hai tuổi ...).</i> Nên đáp án là <b><span style=\"color:red\">C. She was adopted.</span> </b><i>(Cô ấy được nhận nuôi.)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>What happened when Mary was eight years old?</b> <i>(Chuyện gì đã xảy ra khi Mary tám tuổi?),</i> <b></b>câu trong bài đọc liên quan là <b>Her parents divorced when she was eight.</b> <i>(Ba mẹ cô ấy đã ly hôn khi cô ấy lên tám tuổi.).</i> Nên đáp án là <b><span style=\"color:red\">B. Her parents divorced.</span> </b><i>(Ba mẹ của cô ấy đã ly hôn.)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>Wa</b><b>s she engaged to a guy from Brazil?</b> <i>(Có phải cô ấy đã đính hôn với một chàng trai đến từ Bra-xin không?),</i> <b></b>câu trong bài đọc liên quan là <b>She was engaged to a guy from Australia.</b> <i>(Cô ấy đã đính hôn với một chàng trai đến từ Úc.).</i> Nên đáp án là <b><span style=\"color:red\">A. No, she wasn't.</span> </b><i>(Không phải.)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "dace3ab1-9756-4a28-bdea-f114fc804665"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "0c297fa9-696d-4ae0-a3f7-bb9d2c6d272a"
+          },
+          "cauHoi": "Is the one whom the writer’s friend saw in the library the writer?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f3ca85f9-d9f7-4226-94c8-a73a09ac89bb"
+              },
+              "dapAn": "A. Yes, she is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b53e64e4-345f-4fd7-a362-96a5a7977d2a"
+              },
+              "dapAn": "B. Yes, she isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "13afbe33-91ae-4a7d-85b2-2753af131e7f"
+              },
+              "dapAn": "C. No, she isn’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3c273ef9-1b2f-45a8-8763-bf7023f9df5c"
+              },
+              "dapAn": "D. No, she is.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "e18d1192-ffc2-4d3f-95cb-77ae7bfaa92e"
+          },
+          "cauHoi": "What did the writer go to Hawaii for?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "81d6193d-baa2-4f73-a7b5-1ac9f25c4760"
+              },
+              "dapAn": "A. visited friends",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f2ca6e7c-8958-47d9-9c57-b65be2875504"
+              },
+              "dapAn": "B. visited her grandmother",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "982f2535-8c09-439e-8cb0-f7f3829fef2d"
+              },
+              "dapAn": "C. was on vacation",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "30e65c17-2ef3-4218-83c6-eeaabbf37ee0"
+              },
+              "dapAn": "D. travelled for work",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "37912899-6260-47e7-b000-c2d5d51ee058"
+          },
+          "cauHoi": "Who came up to the writer when she was shopping for food?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "0dda04c0-7447-46e9-a6d5-16c37951d5ec"
+              },
+              "dapAn": "A. two women",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3162b2ab-5f20-432b-bf00-aa81d30afd73"
+              },
+              "dapAn": "B. a woman",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "d65b43fb-91c2-4c5e-b687-69f72d966c4e"
+              },
+              "dapAn": "C. a man",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b3a07e2c-9c53-484a-b482-d6198a3a4d58"
+              },
+              "dapAn": "D. two men",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "4f7834a3-01f4-4d96-89e0-ebdb71b2fc86"
+          },
+          "cauHoi": "Did the writer look exactly like the one she met?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "0c447bee-ed2c-45ef-921e-4773272d0178"
+              },
+              "dapAn": "A. Yes, she didn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9e7b7a8a-920d-4fc5-ae4e-6bf4e9e0442a"
+              },
+              "dapAn": "B. Yes, she did.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "56356af0-46e4-4793-ba47-e008ff082aa8"
+              },
+              "dapAn": "C. No, she didn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "29502861-8baf-4b73-bd21-95d3ed221c7e"
+              },
+              "dapAn": "D. No, she did.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "About a month ago, my friend said, “I saw you in the library last week.”. “But I was on vacation in Hawaii last week!” I said. About a month after that, I was shopping for food when a woman came up to me. I looked at her and … well, she looked exactly like me - same hair color, same eyes, same everything!",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Is the one whom the writer's friend saw in the library the writer?</b> <i>(Có phải bạn của người viết gặp người viết ở thư viện không?),</i> <b></b>câu trong bài đọc liên quan là <b>About a month ago, my friend said, \"I saw you in the library last week.\". \"But I was on vacation in Hawaii last week!\" I said.</b> <i>(Khoảng một tháng trước, bạn tôi nói: \"Tôi thấy bạn trong thư viện tuần trước\". \"Nhưng tôi đã đi nghỉ dưỡng ở Hawaii vào tuần trước!\" Tôi đã nói.).</i> Nên đáp án là <b><span style=\"color:red\">C. No, she isn't.</span> </b><i>(Không phải.)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>What did the writer go to Hawaii for?</b> <i>(Người viết đã tới Hawaii để làm gì?),</i> <b></b>câu trong bài đọc liên quan là <b>But I was on vacation in Hawaii last week!\" I said.</b> <i>(Nhưng tôi đã đi nghỉ dưỡng ở Hawaii vào tuần trước!\" Tôi đã nói.). </i> Nên đáp án là <b><span style=\"color:red\">C. was on vacation</span> </b><i>(đi nghỉ dưỡng)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>Who came up to the writer when she was shopping for food?</b> <i>(Ai đã tiến đến gần người viết khi cô ấy đang mua thực phẩm?),</i> <b></b>câu trong bài đọc liên quan là <b>About a month after that, I was shopping for food when a woman came up to me.</b> <i>(Khoảng một tháng sau đó, tôi đang đi mua đồ ăn thì một người phụ nữ tiến đến gặp tôi.).</i> Nên đáp án là <b><span style=\"color:red\">B. a woman</span> </b><i>(một người phụ nữ)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>Did the writer look exactly like the one she met?</b> <i>(Có phải người viết đã trông giống hệt với người mà cô ấy đã gặp không?),</i> <b></b>câu trong bài đọc liên quan là <b>I looked at her and ... well, she looked exactly like me - same hair color, same eyes, same everything!</b> <i>(Tôi đã nhìn cô ấy và... ồ, cô ấy giống hệt tôi - màu tóc giống nhau, mắt giống nhau, mọi thứ giống hệt nhau!).</i> Nên đáp án là <b><span style=\"color:red\">B. Yes, she did.</span> </b><i>(Đúng vậy.)</i>.<br />",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b80d8304-547f-4e7c-b996-26c74b51951b"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "6a0b79ec-c1f6-4282-ac0a-9eedde30a17d"
+          },
+          "cauHoi": "Will Tom have a day off during the national holidays?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8d6e7f60-b1bb-4e90-baea-a412b9442d95"
+              },
+              "dapAn": "A. Yes, he will.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b4d809bc-2019-4d18-a7d8-e3e388b03d76"
+              },
+              "dapAn": "B. Yes, he won’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ce5de230-3b80-4e86-910a-4605c3566c14"
+              },
+              "dapAn": "C. No, he won’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bfe785a6-e17e-4ebe-a6ce-e18029c16f29"
+              },
+              "dapAn": "D. No, he will.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "487537fd-bfac-42aa-a3fe-6922d42f579f"
+          },
+          "cauHoi": "On which days does Tom have a day off?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "83ade5a6-81d8-4729-91db-35e6221a332c"
+              },
+              "dapAn": "A. Independence Day",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3861292e-18ed-46f9-bb77-dd3e6326bffb"
+              },
+              "dapAn": "B. Heath and Sport Day",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9acae2c9-57ca-42d3-8eb3-efc46855a087"
+              },
+              "dapAn": "C. Valentine’s Day",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a91d5411-7fb3-4af5-aa8c-afa87c86986a"
+              },
+              "dapAn": "D. Both A & B",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "26ddca1e-a8f4-4ebd-87c7-33d29550cc5b"
+          },
+          "cauHoi": "What does John’s company do during the national holidays?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "10be19c3-bd64-40a1-99b0-56f9d93442d8"
+              },
+              "dapAn": "A. go camping",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "11f51187-ed36-42b9-86e1-0af0897ca850"
+              },
+              "dapAn": "B. go fishing",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "39aa30d1-d8f5-4bd1-9a55-5cc25f858749"
+              },
+              "dapAn": "C. take trips",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "607cbb06-331b-4861-8a8c-ce032424a191"
+              },
+              "dapAn": "D. relax at home",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "14e7db40-21aa-4f5b-9bac-701713071c65"
+          },
+          "cauHoi": "Will Tom eat special food to celebrate?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c7a384af-f633-41ac-9c32-c464eb7b5c49"
+              },
+              "dapAn": "A. No, he won’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "25bef08a-38d5-4e8b-9232-8898b0f7ee70"
+              },
+              "dapAn": "B. No, he will.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "53f44235-11ef-46aa-98aa-62e139b28a33"
+              },
+              "dapAn": "C. Yes, he won’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f8df0433-ca1f-404b-9de5-8d2af9f90994"
+              },
+              "dapAn": "D. Yes, he will.",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>John:</b></td> \n                        <td>Will you get the days off work during these national holidays?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Tom:</b></td> \n                        <td>Yes, I will have a day off on Independence Day, Health and Sports Day.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>John:</b></td> \n                        <td>Me too. My company sometimes takes trips on these days.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Tom:</b></td> \n                        <td>That's great. I will eat some special food to celebrate and relax at home.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Will Tom have a day off during the national holidays?</b> <i>(Có phải Tom sẽ được nghỉ trong suốt những ngày lễ quốc gia không?),</i> <b></b>câu trong bài đọc liên quan là <b>Yes, I will have a day off on ...</b> <i>(Vâng, tôi sẽ có một ngày nghỉ vào ...).</i> Nên đáp án là <b><span style=\"color:red\">A. Yes, he will.</span> </b><i>(Đúng.)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>On which days does Tom have a day off?</b> <i>(Tom được nghỉ những ngày nào?),</i> <b></b>câu trong bài đọc liên quan là <b>Yes, I will have a day off on Independence Day, Health and Sports Day.</b> <i>(Vâng, tôi sẽ có một ngày nghỉ vào Ngày Độc lập, Ngày Sức khỏe và Thể thao.).</i> Nên đáp án là <b><span style=\"color:red\">D. Both A & B</span> </b><i>(Cả A và B)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>What does John's company do during the national holidays?</b> <i>(Công ty của John làm gì trong ngày lễ?),</i> <b></b>câu trong bài đọc liên quan là <b>My company sometimes takes trips on these days.</b> <i>(Công ty của tôi thỉnh thoảng đi du lịch vào những ngày này.).</i> Nên đáp án là <b><span style=\"color:red\">C. take trips</span> </b><i>(đi du lịch)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>Will Tom eat special food to celebrate?</b> <i>(Tom sẽ ăn những món ăn đặc biệt để ăn mừng phải không?),</i> <b></b>câu trong bài đọc liên quan là <b>I will eat some special food to celebrate and relax at home.</b> <i>(Tôi sẽ ăn một số món ăn đặc biệt để ăn mừng và thư giãn ở nhà.).</i> Nên đáp án là <b><span style=\"color:red\">D. Yes, he will.</span> </b><i>(Đúng.)</i>.<br />",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a5063823-91f9-44c3-b5a0-6bcdad0f7a60"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "aef42705-4e66-4829-ab30-2e64f3524996"
+          },
+          "cauHoi": "What is John doing?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "4ce973b2-8768-4b1c-a73b-d481ed7b59d8"
+              },
+              "dapAn": "A. have lunch",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "98ee410f-95e5-41ab-a377-d8c6885ae177"
+              },
+              "dapAn": "B. play games",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ba343dd3-b2ac-4c15-ab19-3eb1ef1cd1e8"
+              },
+              "dapAn": "C. take a nap",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "23658abe-61fd-400d-baeb-fd621f9198f8"
+              },
+              "dapAn": "D. watch TV",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ae8829cb-1d5b-4126-bc66-5e13e12275ba"
+          },
+          "cauHoi": "Does Tom want to join?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2d1d2946-e53a-488a-8cc4-b1cd3de1f9e0"
+              },
+              "dapAn": "A. Yes, he does.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "6ba2ec9e-b8f7-4474-8272-10c293368529"
+              },
+              "dapAn": "B. Yes, he doesn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cb3c06e8-1e96-4511-a588-8ea532eda488"
+              },
+              "dapAn": "C. No, he doesn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cd1b4de4-33d5-45d2-9200-0f275947f570"
+              },
+              "dapAn": "D. No, he does.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "eea4365f-dbdb-4e16-952e-8e6b06fe999c"
+          },
+          "cauHoi": "How has John been lately?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "45ed0bfe-aacd-42fb-b13a-20a9814b7a07"
+              },
+              "dapAn": "A. tired",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "75ffd82c-7708-493b-b343-6255f3d5bf4f"
+              },
+              "dapAn": "B. bored",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bd9b789e-c492-48be-99f2-3ff60203f846"
+              },
+              "dapAn": "C. busy",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "6244c958-5740-4b74-b46e-f08a2f520004"
+              },
+              "dapAn": "D. not busy",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "65cffa10-09b0-4bf2-9875-c6da3d704eb5"
+          },
+          "cauHoi": "Does John hardly have a day off?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a9d059d2-5b49-4a4d-ba59-52054dd9f540"
+              },
+              "dapAn": "A. No, he doesn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "593af238-64dd-43c3-9eeb-e49302ce10b1"
+              },
+              "dapAn": "B. No, he does.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ca62518c-0856-4f36-84c8-5e1ae406ef33"
+              },
+              "dapAn": "C. Yes, he does.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e694a22d-f33d-42fe-87ad-b637f8ae15c8"
+              },
+              "dapAn": "D. Yes, he doesn’t.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Tom:</b></td> \n                        <td>Hi John, what a coincidence! What are you doing here?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>John:</b></td> \n                        <td>Hi, Tom. I'm having lunch. Do you want to join?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Tom:</b></td> \n                        <td>Fantastic. Thanks, John. How have you been lately? Are you busy?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>John:</b></td> \n                        <td>I am so busy these days. I hardly have a day off.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What is John doing?</b> <i>(John đang làm gì?),</i> <b></b>câu trong bài đọc liên quan là <b>I'm having lunch.</b> <i>(Tôi đang ăn trưa.).</i> Nên đáp án là <b><span style=\"color:red\">A. have lunch</span> </b><i>(ăn trưa)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>Does Tom want to join?</b> <i>(Tom có muốn tham gia không?),</i> <b></b>câu trong bài đọc liên quan là <b>Fantastic. Thanks, John.</b> <i>(Tuyệt vời. Cảm ơn John.).</i> Nên đáp án là <b><span style=\"color:red\">A. Yes, he does.</span> </b><i>(Có.)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>How has John been lately?</b> <i>(Dạo này John thế nào?),</i> <b></b>câu trong bài đọc liên quan là <b>I am so busy these days.</b> <i>(Dạo này tôi rất bận rộn.).</i> Nên đáp án là <b><span style=\"color:red\">C. busy</span> </b><i>(bận rộn)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>Does John hardly have a day off?</b> <i>(Có phải John hiếm khi được nghỉ?),</i> <b></b>câu trong bài đọc liên quan là <b>I hardly have a day off.</b> <i>(Tôi hầu như không có một ngày nghỉ nào.).</i> Nên đáp án là <b><span style=\"color:red\">C. Yes, he does.</span> </b><i>(Đúng vậy.)</i>.",
+      "danhSachDapAn": []
+    }
+  ]
+}

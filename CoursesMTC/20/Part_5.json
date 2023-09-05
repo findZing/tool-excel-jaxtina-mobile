@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "4b39eb97-212d-471a-97e8-4f8f1b7e71b8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It’s very straightforward and just about TV ___________. First, what’s your name?",
+      "yNghia": "It's very straightforward and just about TV <span style=\"color:red\">talent shows</span>. First, what's your name?<br />\n<i>Nó rất đơn giản và chỉ nói về <span style=\"color:red\">các chương trình tìm kiếm tài năng </span>trên truyền hình thôi. Đầu tiên, tên của bạn là gì nhỉ?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2df146c9-0061-4ffa-924b-6f25cf563091"
+          },
+          "dapAn": "fashion shows",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0e475622-c758-4536-a0c6-1acf1b611031"
+          },
+          "dapAn": "talent shows",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2aaf4928-5147-4d72-8c02-69763d50251d"
+          },
+          "dapAn": "talents",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_1. It_s ... name.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_1. It_s ... name.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "73418efe-f824-412b-a70b-7b8f0a82a245"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Garry. I know ___________ about this kind of TV show.",
+      "yNghia": "Garry. I know <span style=\"color:red\">quite a lot </span>about this kind of TV show. <br />\n<i>Tôi là Garry. Tôi biết <span style=\"color:red\">khá nhiều </span>về loại chương trình truyền hình này.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "34da4b44-d342-451e-a313-289990053d23"
+          },
+          "dapAn": "too much",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "63ceb37b-b06d-473a-a102-47fda64ca629"
+          },
+          "dapAn": "less",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7f140fd4-4612-436c-92c7-2ce6ac2a932d"
+          },
+          "dapAn": "quite a lot",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_2. Garry ... show.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_2. Garry ... show.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ba0309d2-4732-48d0-8576-b796f94d2a85"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Garry. Thank you. ________ do you watch TV talent shows?",
+      "yNghia": "Garry. Thank you. <span style=\"color:red\">How often </span>do you watch TV talent shows?<br />\n<i>Garry. Cảm ơn bạn. Bạn <span style=\"color:red\">có thường xuyên </span>xem các chương trình tìm kiếm tài năng trên TV <span style=\"color:red\">không</span>?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c4ddb5cb-e844-4e6f-9aad-eb951553ca41"
+          },
+          "dapAn": "How often",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bb67f812-ba6c-4a3e-b265-981b1d03ac16"
+          },
+          "dapAn": "When",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "78f2466c-1a9c-4168-a838-bc367b8d625f"
+          },
+          "dapAn": "Why",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_3. Garry ... shows.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_3. Garry ... shows.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "05fb74c7-4705-46f0-8a27-9362ee5886c1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Oh, I really love them. I watch them ____________.",
+      "yNghia": "Oh, I really love them. I watch them <span style=\"color:red\">all the time</span>.<br />\n<i>Ồ, tôi thực sự yêu thích chúng. Tôi xem chúng <span style=\"color:red\">mọi lúc</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cecac6af-ba62-40a0-8587-ee8eb8fcea6a"
+          },
+          "dapAn": "every day",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "55edbbf9-4e73-4f35-abdc-e4e4df4564c7"
+          },
+          "dapAn": "several times",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "77ce1c16-d049-4adc-b00e-e8606cfd6cc5"
+          },
+          "dapAn": "all the time",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_4. Oh ... time.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_4. Oh ... time.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3e395fcc-1077-4f6e-acc0-d32b36d99772"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I think there are many great talent shows out there with lots of _________ people.",
+      "yNghia": "I think there are many great talent shows out there with lots of <span style=\"color:red\">talented </span>people.<br />\n<i>Tôi nghĩ rằng có rất nhiều chương trình tìm kiếm tài năng tuyệt vời với rất nhiều người <span style=\"color:red\">tài năng</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1bbb134e-4eba-46c5-8b44-7d9fc2be50f8"
+          },
+          "dapAn": "talented",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d88ef134-e90f-4320-a19d-538a33eddea9"
+          },
+          "dapAn": "funny",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "64bba7a6-ba07-4612-8fc3-2eb8a9430dfd"
+          },
+          "dapAn": "famous",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_5. I ... people.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_5. I ... people.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3ec2b4a0-c26f-46c7-b613-764b7ca92f93"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Is there a particular show that is ____________?",
+      "yNghia": "Is there a particular show that is <span style=\"color:red\">your favorite</span>?<br />\n<i>Có chương trình cụ thể nào là chương trình <span style=\"color:red\">yêu thích của bạn </span>không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "aa41a104-949e-4e81-acf0-05ba3fd92a90"
+          },
+          "dapAn": "your taste",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9f702fae-f62c-41ae-9347-d9f1f1ccf9b9"
+          },
+          "dapAn": "your choice",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0c4b1fd3-26b8-4897-a30f-310d14ab2378"
+          },
+          "dapAn": "your favorite",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_6. Is ... favorite.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_6. Is ... favorite.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "44b057bc-b9de-4360-8b32-9d2757012844"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I like the show Dance Off the best. Actually, ___________ was on that show.",
+      "yNghia": "I like the show Dance Off the best. Actually, <span style=\"color:red\">my sister </span>was on that show.<br />\n<i>Tôi thích chương trình Dance Off nhất. Thực ra, <span style=\"color:red\">em gái tôi </span>đã tham gia chương trình đó.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5e8c60fc-d022-4261-9709-920aadbc4292"
+          },
+          "dapAn": "my brother",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a2948e2a-ad0c-4042-8839-e6661d7c4202"
+          },
+          "dapAn": "my sister",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "13714440-f52e-4524-bde5-513540b44da7"
+          },
+          "dapAn": "my boy",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_7. I ... show.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_7. I ... show.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "22c653bc-2050-416a-ad1b-70fd96375c1d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Really? Can you tell more about your __________________ in the show?",
+      "yNghia": "Really? Can you tell more about your <span style=\"color:red\">sister's journey </span>in the show?<br />\n<i>Thật vậy không? Bạn có thể kể thêm về <span style=\"color:red\">hành trình của em gái </span>mình trong chương trình đó không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f2445795-82fc-4ea0-a4ae-9554ea58244a"
+          },
+          "dapAn": "sister's journey",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "73af902c-d14b-40b7-8c23-afda49e6e678"
+          },
+          "dapAn": "brother's journey",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "cdc5b2a8-d607-454b-bb9d-c43dee76647f"
+          },
+          "dapAn": "sister's achievements",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_8. Really ... show.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_8. Really ... show.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e9a31ad9-f177-421e-af2e-f29069ba8bdc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes, she danced with a _____________ and came in second place.",
+      "yNghia": "Yes, she danced with a <span style=\"color:red\">professional dancer </span>and came in second place.<br />\n<i>Được, em ấy đã nhảy với một <span style=\"color:red\">vũ công chuyên nghiệp </span>và xếp hạng ở vị trí thứ hai.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e27c9641-240a-4e0b-8365-7bdf138fee40"
+          },
+          "dapAn": "ballet dancer",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "42077687-204c-4b1e-9d81-e1641f63cb06"
+          },
+          "dapAn": "famous dancer",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6da9cab5-5362-48ae-a4fc-00465f15a9ea"
+          },
+          "dapAn": "professional dancer",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_9. Yes ... place.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_9. Yes ... place.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "99292ed6-92df-4e77-beb7-41cf6f3585e7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you think some talent shows feature people who ________________?",
+      "yNghia": "Do you think some talent shows feature people who <span style=\"color:red\">aren't very talented</span>?<br />\n<i>Bạn có nghĩ rằng một số chương trình tìm kiếm tài năng có những người <span style=\"color:red\">không tài năng lắm </span>không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3ceb7de7-a995-4dc5-a384-f0ab152c68f3"
+          },
+          "dapAn": "aren't very talented",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6193fd99-d6d9-491a-a7eb-8d7f3a20ca86"
+          },
+          "dapAn": "are very well-known",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a418b425-20ff-4531-9ce0-245f8d342f2b"
+          },
+          "dapAn": "are very rich",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_10. Do ... talented.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_10. Do ... talented.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "45ffac82-68ee-47dd-97c6-dc345d6ea995"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Of course, but that’s OK. I think it’s interesting to hear what ____________ say.",
+      "yNghia": "Of course, but that's OK. I think it's interesting to hear what <span style=\"color:red\">the judges </span>say.<br />\n<i>Tất nhiên, nhưng điều đó không sao cả. Tôi nghĩ thật thú vị khi nghe những gì <span style=\"color:red\">ban giám khảo </span>nói.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "023149d2-edf7-409f-be76-a52c956d62db"
+          },
+          "dapAn": "the audience",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ddaf4d7a-43ee-4980-a048-dd8f4c2e64c7"
+          },
+          "dapAn": "the host",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e5c8c7e3-9530-4161-bc9b-5310ad4c7597"
+          },
+          "dapAn": "the judges",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_11. Of ... say.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_11. Of ... say.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b07c9269-f8dc-4f13-9f47-776c85080482"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "But some people do not take it very well. They have some ________________.",
+      "yNghia": "But some people do not take it very well. They have some <span style=\"color:red\">awful comments</span>.<br />\n<i>Nhưng một số người không chấp nhận điều đó cho lắm. Họ có một số <span style=\"color:red\">bình luận khủng khiếp</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "15f8a6cd-d2e7-46bc-a7e1-550a7e069da0"
+          },
+          "dapAn": "awful comments",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e9a8cd5d-348d-4a61-9834-06172469f253"
+          },
+          "dapAn": "awful attitudes",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "45d3e164-36f9-4684-a4e2-778687a671f2"
+          },
+          "dapAn": "good comments",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_12. But ... comments.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_12. But ... comments.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "7cd897a5-9bf7-415c-9c7c-b309a7d127ce"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes, they have a bad attitude. It’s very hard _____________ this problem.",
+      "yNghia": "Yes, they have a bad attitude. It's very hard <span style=\"color:red\">to control </span>this problem.<br />\n<i>Đúng vậy, họ có một thái độ rất xấu. Rất khó <span style=\"color:red\">để kiểm soát </span>vấn đề này.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e5f5e649-19b5-4138-845c-d421e40db450"
+          },
+          "dapAn": "to control",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7f75438a-71b1-4e41-8885-1b1d26008eb6"
+          },
+          "dapAn": "to solve",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "45534914-ac35-402b-8cea-70531251fe06"
+          },
+          "dapAn": "to alleviate",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_13. Yes ... problem.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_13. Yes ... problem.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "58498ad7-c43b-4494-a051-d554d8e388a1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Right. But I think the ________ of talent in shows today is higher than it used to be.",
+      "yNghia": "Right. But I think the <span style=\"color:red\">level </span>of talent in shows today is higher than it used to be.<br />\n<i>Chính xác. Nhưng tôi nghĩ <span style=\"color:red\">mức độ </span>tài năng trong các chương trình ngày nay cao hơn trước đây.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "32dfb9f0-12e8-4b5f-af87-6d6f32641ff0"
+          },
+          "dapAn": "cost",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "16f764b3-8ef1-48b3-97c0-412cbd91c520"
+          },
+          "dapAn": "scale",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5a19c757-fffd-4cd2-b0af-a4c9a9924f97"
+          },
+          "dapAn": "level",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_14. Right ... be.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_14. Right ... be.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b23202f2-0729-49b7-8901-86cfd8f3f2e0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I think so too. These shows are a ____________ of finding talented people.",
+      "yNghia": "I think so too. These shows are a <span style=\"color:red\">good method </span>of finding talented people.<br />\n<i>Tôi cũng nghĩ thế. Những chương trình này là một <span style=\"color:red\">phương pháp tốt </span>để tìm kiếm những người tài năng.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0eebc350-9ab3-4f97-8dc6-05598b2b740e"
+          },
+          "dapAn": "bad method",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1b1922d5-1c7b-4fb8-b2fb-08a5f4f0dafd"
+          },
+          "dapAn": "good method",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9ec26cb2-9a06-4c6c-a0bf-d46cd6c56766"
+          },
+          "dapAn": "wonderful way",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_15. I ... people.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_15. I ... people.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "751d47ae-e2fe-4b9a-9dbb-ef003fe65142"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Elsa, your first job was manager of a ______________. How did you go from that to starting your own record company?",
+      "yNghia": "Elsa, your first job was manager of a <span style=\"color:red\">record store</span>. How did you go from that to starting your own record company?<br />\n<i>Elsa, công việc đầu tiên của bạn là quản lý một <span style=\"color:red\">cửa hàng băng đĩa</span>. Làm thế nào để bạn đi từ đó và bắt đầu công ty thu âm của riêng bạn vậy?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9bd31765-1aec-419f-ae9b-22f2ae45af6c"
+          },
+          "dapAn": "media mart",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "735f1a9e-f78d-4141-8b81-cff539fdf8be"
+          },
+          "dapAn": "book store",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "357e148e-3a5b-49c2-ae9a-22f21405436c"
+          },
+          "dapAn": "record store",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_16. Elsa ... company.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_16. Elsa ... company.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e28f5d0e-b096-49d9-acbe-cee38a76f4fe"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My advice is to go out and meet people. Remember that _____________ success is not about what you know, but who you know.",
+      "yNghia": "My advice is to go out and meet people. Remember that <span style=\"color:red\">music industry </span>success is not about what you know, but who you know.<br />\n<i>Lời khuyên của tôi là hãy ra ngoài và gặp gỡ mọi người. Hãy nhớ rằng thành công <span style=\"color:red\">trong ngành công nghiệp âm nhạc </span>không phải là bạn biết được những gì mà là bạn biết được những ai. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0263f236-0112-49f6-9e34-b5f0c4581d2f"
+          },
+          "dapAn": "music industry",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "be6ff5d5-a32c-4b5c-9831-d02e02737064"
+          },
+          "dapAn": "a singer's",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4acff9b8-bbee-40f4-849f-4cca2bcffd78"
+          },
+          "dapAn": "a song writer's",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_17. My ... know.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_17. My ... know.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f0c2bad3-5598-4cf9-84e4-4286f6167ee0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "And remember to ask people with _____________ for help if you need it!",
+      "yNghia": "And remember to ask people with <span style=\"color:red\">more experience </span>for help if you need it!<br />\n<i>Và hãy nhớ nhờ những người có <span style=\"color:red\">kinh nghiệm hơn </span>giúp đỡ nếu bạn cần nhé!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1887b6cb-79ce-4631-a560-4ed303631773"
+          },
+          "dapAn": "more tips",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1b40e10f-9057-41df-a5a8-723bb4a76818"
+          },
+          "dapAn": "lot of achievements",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "dd47ae2a-5297-40f9-85b7-ba7518cc1529"
+          },
+          "dapAn": "more experience",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_18. And ... it.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_18. And ... it.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "acde3381-6a6d-4e32-9001-189609e68bb4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "If you haven't sung in front of an audience before, try to sing at a _______________ and make that your goal for the next few months.",
+      "yNghia": "If you haven't sung in front of an audience before, try to sing at a <span style=\"color:red\">small local show </span>and make that your goal for the next few months.<br />\n<i>Nếu trước đây bạn chưa từng hát trước khán giả, hãy thử hát tại một <span style=\"color:red\">buổi biểu diễn nhỏ ở địa phương </span>và đặt mục tiêu đó trong vài tháng tới. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "26afae62-9d89-4269-9762-723b2f3b2ed3"
+          },
+          "dapAn": "small local show",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b1f94abf-e972-4dc1-a30c-1451d7fb12c0"
+          },
+          "dapAn": "small show",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "186407ae-8c44-468e-9d26-4efabe6574a7"
+          },
+          "dapAn": "international show",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_19. If ... months.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_19. If ... months.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "75140bda-d9bc-4fe9-ac24-43c77273f11b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Be professional at all times. That shows people that you're ___________ success!",
+      "yNghia": "Be professional at all times. That shows people that you're <span style=\"color:red\">hungry for </span>success!<br />\n<i>Hãy luôn chuyên nghiệp. Điều đó cho mọi người thấy rằng bạn đang <span style=\"color:red\">khao khát </span>thành công! </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2a85892c-c463-4de3-a05c-5dcbd5cc68c9"
+          },
+          "dapAn": "hungry for",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c991e269-7302-4b30-a9b7-3a458b94a4fb"
+          },
+          "dapAn": "finding",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "70f7274d-2718-4826-85f6-1c02772f1328"
+          },
+          "dapAn": "reaching",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L20/sounds/normal/MTC_MINITEST4_LISTENING_20. Be ... success.mp3",
+      "soundSlow": "4SKILLS_MTC_L20/sounds/slow/MTC_MINITEST4_LISTENING_20. Be ... success.mp3"
+    }
+  ]
+}

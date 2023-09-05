@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "227ae010-5709-4823-876d-52485a2c7193"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Plants cannot grow on Mars, so all food will be _______________ or in cans.",
+      "yNghia": "Plants cannot grow on Mars, so all food will be <span style=\"color:red\">dried </span>or in cans.<br />\n<i>Thực vật không thể phát triển trên sao Hỏa, vì vậy tất cả thực phẩm sẽ được <span style=\"color:red\">sấy khô </span>hoặc đóng hộp.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4c31e5e2-0490-4ec9-9265-d65fa746dc18"
+          },
+          "dapAn": "died",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2dc4723b-89b8-4bed-92e5-83a1e045bc8d"
+          },
+          "dapAn": "spoiled",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "433306b4-8c61-4bab-b111-bc7d6ef08aa4"
+          },
+          "dapAn": "dried",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_1. Plants .. cans.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_1. Plants .. cans.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "52924578-46db-4944-bdd6-3a64703df402"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There will be very few people on Mars, at least at the beginning, so there will not be many choices of _______________.",
+      "yNghia": "There will be very few people on Mars, at least at the beginning, so there will not be many choices of <span style=\"color:red\">friends</span>.<i> </i><br />\n<i>Sẽ có rất ít người trên sao Hỏa, ít nhất là vào thời gian đầu, vì vậy sẽ không có nhiều sự lựa chọn về <span style=\"color:red\">bạn bè</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1469f59c-fb7e-4d95-96dd-e58859ebcaa3"
+          },
+          "dapAn": "clothes",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7824dfb4-6863-4c08-8339-70f28a8a14c5"
+          },
+          "dapAn": "friends",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3a4ace1d-9aa1-4111-9c5d-4c71d6cd17e9"
+          },
+          "dapAn": "houses",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_2 There ... friends.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_2 There ... friends.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e23de93c-d97a-4ca1-925d-7dea58d1490e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "People have been traveling into space on _______________ for over fifty years.",
+      "yNghia": "People have been traveling into space on <span style=\"color:red\">spacecraft</span> for over fifty years.<br />\n<i>Mọi người đã du hành vào không gian trên <span style=\"color:red\">tàu vũ trụ </span>từ hơn năm mươi năm trước.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e77f2504-3e21-446c-8872-369bed3ec2b6"
+          },
+          "dapAn": "rocket",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "54de3c34-10da-4e37-97ea-0d5d4d5df3f9"
+          },
+          "dapAn": "spacecraft",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9edc8675-4351-4f7c-be6a-28bbd4d7b553"
+          },
+          "dapAn": "space station",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_3. People ... years.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_3. People ... years.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3334a6c6-92ac-484c-9bee-b8f2e7663bcc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Cell phones and other ____________________ will be impossible, so the only communication will be through email.",
+      "yNghia": "Cell phones and other <span style=\"color:red\">voice communications </span>will be impossible, so the only communication will be through email.<br />\n<i>Điện thoại di động và các <span style=\"color:red\">phương tiện liên lạc bằng giọng nói </span>khác sẽ không thể thực hiện được, vì vậy cách liên lạc duy nhất sẽ là qua email.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "50058a7a-6f9d-410d-a2e3-9472725a8ec8"
+          },
+          "dapAn": "emails",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4cbffda6-8355-49ca-afaf-feb274634bce"
+          },
+          "dapAn": "laptops",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ed60771b-e5d9-476c-8581-5e2ee3c73648"
+          },
+          "dapAn": "voice communications",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_4. Cell ... email.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_4. Cell ... email.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "96a7f0b9-4da8-49b6-a91e-c717bf23d93b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It will take 20 minutes for an email to reach Earth, and another 20 minutes to get a _______________, and most of us are used to very fast communication with our friends and families.",
+      "yNghia": "It will take 20 minutes for an email to reach Earth, and another 20 minutes to get a <span style=\"color:red\">reply</span>, and most of us are used to very fast communication with our friends and families.<i><br />\nSẽ mất 20 phút để một email đến Trái đất và 20 phút nữa để nhận được <span style=\"color:red\">phản hồi </span>và hầu hết chúng ta đã quen với việc liên lạc rất nhanh với bạn bè và gia đình của mình.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d6e42237-a532-44b8-acad-73db2e3bd5bf"
+          },
+          "dapAn": "phone call",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "93f33ead-c344-4cca-b017-abb53dcfa9b6"
+          },
+          "dapAn": "reply",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5326219a-dbf5-4d68-ba04-3d437da020a4"
+          },
+          "dapAn": "bill",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_5. It ... families.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_5. It ... families.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "83c3d11c-c640-43ee-979a-40187ff279f8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My name is Karen and I have been an _______________ for nearly 10 years.",
+      "yNghia": "My name is Karen and I have been an <span style=\"color:red\">astronaut </span>for nearly 10 years.<br />\n<i>Tên tôi là Karen và tôi đã là <span style=\"color:red\">phi hành gia </span>được gần 10 năm.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b1fa2d07-41f4-4bf9-8759-c6a60098fafe"
+          },
+          "dapAn": "astronaut",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d0d780e6-f1b4-43d2-8c17-e257d884d0c5"
+          },
+          "dapAn": "actor",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "47a65ae7-e089-4f07-a184-d2eab502c399"
+          },
+          "dapAn": "accountant",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_6. My ... years.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_6. My ... years.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "4b8634bd-a8a9-43e2-91b7-6f895a36ea09"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You _______________, so you have to hold on to something to stay in one place.",
+      "yNghia": "You <span style=\"color:red\">float</span>, so you have to hold on to something to stay in one place. <br />\n<i>Bạn <span style=\"color:red\">lơ lửng</span>, vì vậy bạn phải bám vào một cái gì đó để ở yên một chỗ.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fae88b45-86fd-411a-b81c-fb24824b3970"
+          },
+          "dapAn": "fly",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e2e05b3e-e97d-45bd-bc8b-6785b70cce9d"
+          },
+          "dapAn": "climb",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "942bb4ab-6a7c-4ead-9ba5-4d4a835e0b53"
+          },
+          "dapAn": "float",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_7. You ... place.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_7. You ... place.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3da6b7d2-7da7-402f-8637-4e7eed42a006"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I use a special sleeping bag, and tie it to the _______________ or the floor.",
+      "yNghia": "I use a special sleeping bag, and tie it to the <span style=\"color:red\">wall </span>or the floor. <br />\n<i>Tôi sử dụng một chiếc túi ngủ đặc biệt và buộc nó vào </i><i><span style=\"color:red\">tường </span></i><i>hoặc sàn nhà.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3e7e634a-1841-44a6-bc09-73cc1facdbe4"
+          },
+          "dapAn": "hanger",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bd6af5db-2960-4f26-a328-fc10faeb585b"
+          },
+          "dapAn": "wall",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ac6c2469-de5a-4bc5-958a-5adc619dc0bc"
+          },
+          "dapAn": "ceiling",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_8. I ... floor.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_8. I ... floor.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "7bd006c4-974f-42b9-ac66-2f2e205e69b4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I drink water through a tube, so the water wouldn’t float out into the _______________.",
+      "yNghia": "I drink water through a tube, so the water wouldn't float out into the <span style=\"color:red\">air</span>. <br />\n<i>Tôi uống nước qua một cái ống để nước không bay ra ngoài <span style=\"color:red\">không khí</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "af0d45ed-1f20-4c86-8a17-7558c75af177"
+          },
+          "dapAn": "ship",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "26a5ccd9-209b-4778-9b32-f75de956198b"
+          },
+          "dapAn": "air",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9df77519-434b-404f-9b83-da257cf1f550"
+          },
+          "dapAn": "kitchen",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_9. I ... air.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_9. I ... air.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "038cf374-5e4a-46ad-ac45-29f67f0abd91"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "If I hadn’t cut ______________, it would have floated around my head.",
+      "yNghia": "If I hadn't cut <span style=\"color:red\">my hair</span>, it would have floated around my head.<br />\n<i>Nếu tôi không cắt </i><i><span style=\"color:red\">tóc</span></i><i>, nó sẽ bồng bềnh trên đầu tôi.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "56214073-052f-49d3-88ac-c7e6d688af8e"
+          },
+          "dapAn": "my toes",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b66b0f7c-d8eb-4293-8395-eb790d33b69d"
+          },
+          "dapAn": "my scarf",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f81bd389-9836-4faa-9f9d-dd7655daaf6f"
+          },
+          "dapAn": "my hair",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_10. If ... head.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_10. If ... head.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ecb74872-3011-435d-87d2-cf1688ae907d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The government is working to _______________ new types of spacecraft.",
+      "yNghia": "The government is working to <span style=\"color:red\">create </span>new types of spacecraft. <br />\n<i>Chính phủ đang </i><i><span style=\"color:red\">tạo </span></i><i>ra các loại tàu vũ trụ mới.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2225786e-b667-460a-8eed-a03494666e65"
+          },
+          "dapAn": "destroy",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "74db8d11-eaaa-4252-91b4-df94d601c83d"
+          },
+          "dapAn": "create",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "43cff91f-b033-4567-b311-7cfd0c87f0f8"
+          },
+          "dapAn": "tax",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_11. The ... spacecraft.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_11. The ... spacecraft.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "fa8f23f7-47f8-4ff2-9ba9-cda13cb718e1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It is true that space _______________ has developed technology that is used in many ways on Earth.",
+      "yNghia": "It is true that space <span style=\"color:red\">exploration </span>has developed technology that is used in many ways on Earth. <br />\n<i>Thật sự là <span style=\"color:red\">việc thám hiểm </span>vũ trụ đã phát triển công nghệ mà được sử dụng theo nhiều cách trên Trái Đất.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5ad7ee80-5071-4cd8-8910-c5649d6118ac"
+          },
+          "dapAn": "travelling",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a0b0d782-62f0-42c0-8095-5c82cfa5d18c"
+          },
+          "dapAn": "exploration",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "19a4a8e0-65b3-428d-ab62-7a296bfbc117"
+          },
+          "dapAn": "visiting",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_12. It ... Earth.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_12. It ... Earth.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d7d93bef-c107-41b4-af52-9d31d60f4b6f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I feel certain that if the technology hadn’t been invented for the _______________, it would have been invented anyway.",
+      "yNghia": "I feel certain that if the technology hadn't been invented for the <span style=\"color:red\">space program</span>, it would have been invented anyway.<i> </i><br />\n<i>Tôi cảm thấy chắc chắn rằng nếu công nghệ không được phát minh cho <span style=\"color:red\">chương trình không gian vũ trụ</span>, thì dù sao nó cũng sẽ được phát minh.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3c720def-e050-4689-b771-218389bced6b"
+          },
+          "dapAn": "space program",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ee487514-66b6-4d32-beee-96d74e427915"
+          },
+          "dapAn": "plant",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5405a534-976e-4b9f-b70c-00476b682780"
+          },
+          "dapAn": "food",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_13. I ... anyway.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_13. I ... anyway.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2bcdd20d-acc0-4b0c-850c-286c9089f715"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The main problem with space exploration is the _______________.",
+      "yNghia": "The main problem with space exploration is the <span style=\"color:red\">cost</span>.<i> </i><br />\n<i>Vấn đề chính đối với khám phá không gian vũ trụ là các <span style=\"color:red\">chi phí</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b42aabd3-126c-4a04-97f8-60c5a2518c2e"
+          },
+          "dapAn": "health",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5d7c3e2a-78bd-4f7b-af7a-85afb4b0dc86"
+          },
+          "dapAn": "time",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2478674a-1c9f-44e1-88d1-101c08eaaf03"
+          },
+          "dapAn": "cost",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_14. The ... cost.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_14. The ... cost.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "285d91ab-59d9-4bd1-acde-ae6059fb04ce"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "If we hadn’t spent billions of dollars on space exploration, we could have already stopped _______________.",
+      "yNghia": "If we hadn't spent billions of dollars on space exploration, we could have already stopped <span style=\"color:red\">world hunger</span>. <br />\n<i>Nếu chúng ta không tốn hàng tỷ đô vào việc khám phá không gian vũ trụ, chúng ta có thể đã ngăn chặn được <span style=\"color:red\">nạn đói trên thế giới</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ea604262-73e0-4cfb-b28d-50bc845ae8c0"
+          },
+          "dapAn": "floods",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6c56b103-1db5-49da-bd6a-2d4c0e4adbc7"
+          },
+          "dapAn": "hurricanes",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ab7997c4-b4fd-495b-b1eb-101b98269262"
+          },
+          "dapAn": "world hunger",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_15. If ... hunger.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_15. If ... hunger.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "95a081fe-239f-4e60-8e67-308bdee9b1a4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Astronauts become ill from a number of health problems from being in _______________ for long periods of time.",
+      "yNghia": "Astronauts become ill from a number of health problems from being in <span style=\"color:red\">zero gravity </span>for long periods of time. <br />\n<i>Các phi hành gia bị ốm vì một số vấn đề sức khỏe do ở trong tình trạng <span style=\"color:red\">không trọng lực </span>trong thời gian dài.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "107cc3a0-52ae-487a-97df-77603d9646be"
+          },
+          "dapAn": "zero gravity",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b285f9ca-4831-4af5-9f71-18337868c323"
+          },
+          "dapAn": "the room",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9143b4f7-4543-48dc-9a64-78242796b86f"
+          },
+          "dapAn": "the space",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_16. Astronauts ... time.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_16. Astronauts ... time.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f06e5b8b-679c-4abf-9612-1f01b67dc924"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We don’t know what dangerous _______________ might be in space – it could be dangerous for Planet Earth.",
+      "yNghia": "We don't know what dangerous <span style=\"color:red\">viruses </span>might be in space – it could be dangerous for Planet Earth. <br />\nC<i>húng ta không biết <span style=\"color:red\">những loại vi rút </span>nguy hiểm nào có thể tồn tại trong không gian vũ trụ – nó có thể gây nguy hiểm cho Trái đất.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "338006a2-dfce-4924-96f2-a5eb7eae785b"
+          },
+          "dapAn": "aliens",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "665793e5-3dba-4e8d-85dc-54ca03ddcff8"
+          },
+          "dapAn": "animals",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e92d1df7-1b13-4426-bf45-3f141e952679"
+          },
+          "dapAn": "viruses",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_17. We ... Earth.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_17. We ... Earth.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1aea956f-1929-46a0-94eb-d2eac5fe7f9b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Some kinds of _______________ use enormous amounts of fossil fuel.",
+      "yNghia": "Some kinds of <span style=\"color:red\">rockets </span>use enormous amounts of fossil fuel.<i> </i><br />\n<i>Một số loại <span style=\"color:red\">tên lửa </span>sử dụng một lượng lớn nhiên liệu hóa thạch.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b02bc125-6b16-4ba1-8713-c554589d9317"
+          },
+          "dapAn": "machines",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0744ed89-db58-46c7-aef7-477eb4fbd5f5"
+          },
+          "dapAn": "rockets",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "eeaff51e-21f0-4500-99aa-2e0cc6e538f7"
+          },
+          "dapAn": "companies",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_18. Some ... fuel.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_18. Some ... fuel.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "596421cf-7203-4c1a-9301-1875b43d5edd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Many people argue that we need to learn about our _______________.",
+      "yNghia": "Many people argue that we need to learn about our <span style=\"color:red\">universe</span>.<i> </i><br />\n<i>Nhiều người tranh luận rằng chúng ta cần tìm hiểu về <span style=\"color:red\">vũ trụ </span>của chúng ta.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "69df0683-1d1f-403d-b9ce-8d717cf850d1"
+          },
+          "dapAn": "space capsule",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9210aa26-2406-41eb-b4ec-aa825dc6fcf5"
+          },
+          "dapAn": "foil blanket",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8151d0b6-fdd0-41b7-a4c5-373e296b12b4"
+          },
+          "dapAn": "universe",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_19. Many... universe..mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_19. Many... universe..mp3"
+    },
+    {
+      "_id": {
+        "$oid": "de7bc672-8e01-4a9a-b158-62d1caaa7b49"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I am convinced that we should spend _______________ and our money on ways to make our lives better here on Earth.",
+      "yNghia": "I am convinced that we should spend <span style=\"color:red\">our energy </span>and our money on ways to make our lives better here on Earth.<i> </i><br />\n<i>Tôi tin rằng chúng ta nên dành <span style=\"color:red\">năng lượng </span>và tiền bạc <span style=\"color:red\">của mình </span>để làm cho cuộc sống của chúng ta tốt đẹp hơn trên Trái đất này.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "99ab1ae8-f453-4ce3-be17-b6a376d139f1"
+          },
+          "dapAn": "spacesuits",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "77a58481-2965-443e-b2ae-82845e6f13bb"
+          },
+          "dapAn": "our time",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6be39df7-3b5f-4574-99a0-351af1669347"
+          },
+          "dapAn": "our energy",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L15/sounds/normal/MTC_15_LISTENING_20. I ... Earth.mp3",
+      "soundSlow": "4SKILLS_MTC_L15/sounds/slow/MTC_15_LISTENING_20. I ... Earth.mp3"
+    }
+  ]
+}

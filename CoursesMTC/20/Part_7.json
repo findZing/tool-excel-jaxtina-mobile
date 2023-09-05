@@ -1,0 +1,1026 @@
+{
+  "dangCauHoi": "P6",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "74c990f3-c5c7-4b9c-8636-a8a8bf5b269a"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để mời ai đó tham gia một cách lịch sự, ta dùng cấu trúc: <b>Would you like to + participate in + danh từ</b>.<br />\r\nTa có: <b>our survey </b><i>(cuộc khảo sát của chúng tôi) </i>là danh từ, đứng sau cụm <b>participate in </b><i>(tham gia)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Would you like to participate in our survey? </span></b><i>(Bạn có muốn tham gia vào cuộc khảo sát của chúng tôi không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2eec481a-5875-4070-a717-e506134b4d5c"
+          },
+          "dapAn": "Would",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cf13a422-680f-4290-be43-7bfb45cf7fb8"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "80227b16-edd9-46b1-a29e-46782dee382a"
+          },
+          "dapAn": "like to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1c7e878e-320a-43a2-989a-00a428811744"
+          },
+          "dapAn": "participate",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8a46786b-05d8-4755-8e8f-c62cbdec8592"
+          },
+          "dapAn": "in our",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "31980baa-86cf-4109-8e7c-62cfbdf3497d"
+          },
+          "dapAn": "survey?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "637e353f-afef-4b35-ab5e-d9fffdf3ff4e"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ý kiến ai về thứ gì đó, ta dùng cấu trúc: <b>What's your opinion of + danh từ</b>.<br />\r\nTa có: <b>TV talent shows </b><i>(các chương trình tìm kiếm tài năng trên TV) </i>là danh từ đứng sau cụm <b>What's your opinion of </b><i>(Ý kiến ​​của bạn về ... là gì)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">What's your opinion of TV talent shows? </span></b><i>(Ý kiến ​​của bạn về các chương trình tìm kiếm tài năng trên TV là gì?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "64ced80b-e9c6-4ea8-abaa-faf078e03fda"
+          },
+          "dapAn": "What's",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ecae5389-108b-4b9a-8d22-11841b18695e"
+          },
+          "dapAn": "your",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "81e22753-e827-4b58-95fc-aaea3e05b6c4"
+          },
+          "dapAn": "opinion",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "78c24c1e-4c5c-4207-a465-cd424c11ddc4"
+          },
+          "dapAn": "of",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "51225b89-40bf-4458-afc8-66cf10b5aa91"
+          },
+          "dapAn": "TV talent",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "aeb77fad-d1c4-469f-af0b-e96558b5e872"
+          },
+          "dapAn": "shows?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "bb0158bb-3ed0-4ce0-b772-543757af184f"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng về đặc điểm hoặc nội dung của một thứ gì đó, ta dùng cấu trúc: <b>It's + (very) + tính từ + (and) + (just) about + danh từ</b>.<br />\r\nTa có: <b>straightforward </b><i>(đơn giản) </i>là tính từ, <b>TV talent shows </b><i>(các chương trình tìm kiếm tài năng trên truyền) </i>là danh từ chỉ nội dung đứng sau cụm <b>just about </b><i>(chỉ nói về)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">It's very straightforward and just about TV talent shows. </span></b><i>(Nó rất đơn giản và chỉ nói về các chương trình tìm kiếm tài năng trên truyền hình thôi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e9f70ded-efa4-456d-8159-e3b4b9b83a9a"
+          },
+          "dapAn": "It's very",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0e18525f-dd6e-4b87-a883-452e6f3e201d"
+          },
+          "dapAn": "straightforward",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bf7b0784-6e4b-42d4-bc5d-01d3b7b9aef6"
+          },
+          "dapAn": "and just",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "058d02ce-ffea-4bfb-8d8e-d7accf27495f"
+          },
+          "dapAn": "about TV",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f2048b6c-e28e-4b85-8308-7fc1dccc4257"
+          },
+          "dapAn": "talent",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b0434eea-1db7-457b-b118-399fd5d4eda9"
+          },
+          "dapAn": "shows.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "aafd34f8-01f8-4044-b663-240c95540fb3"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu với trạng ngữ chỉ mức độ <b>quite a lot</b>, ta dùng cấu trúc: <b>Chủ ngữ + động từ + quite a lot + about + danh từ</b>.<br />\r\nTa có: <b>I </b><i>(Tôi) </i>là chủ ngữ, <b>know </b><i>(biết) </i>là động từ,<b> this kind of TV show </b><i>(loại chương trình truyền hình này) </i>là danh từ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">I know quite a lot about this kind of TV show. </span></b><i>(Tôi biết khá nhiều về loại chương trình truyền hình này.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b1803694-dbe1-45ac-bd72-ffcc99458754"
+          },
+          "dapAn": "I know",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0ba13a4e-357c-4d7e-ae22-a652abe7fb12"
+          },
+          "dapAn": "quite a",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "194286b4-b65a-4d52-80c3-333a9732e7d2"
+          },
+          "dapAn": "lot about",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "442b68e4-22c9-4181-844f-f8dc80ad9e58"
+          },
+          "dapAn": "this",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "eb3503d7-caf2-493b-8dba-ef81de68ba07"
+          },
+          "dapAn": "kind of",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "64fb54ff-4da5-4f34-9faf-360bb90172e4"
+          },
+          "dapAn": "TV show.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6b195609-f80b-4cc0-95a2-f7b333cb81e8"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu hỏi về tần suất của một hoạt động, ta dùng cấu trúc: <b>How often do you + động từ (nguyên thể) + bổ ngữ</b>.<br />\r\nTa có: <b>watch </b><i>(xem) </i>là động từ (nguyên thể), <b>TV talent shows </b><i>(các chương trình tìm kiếm tài năng trên TV) </i>là bổ ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">How often do you watch TV talent shows? </span></b><i>(Bạn có thường xuyên xem các chương trình tìm kiếm tài năng trên TV không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a25ad19c-eecf-4246-8db9-ee0e75f3b2b1"
+          },
+          "dapAn": "How",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8c3d4d63-d6f0-4d99-8c83-29f3ab74941b"
+          },
+          "dapAn": "often do",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a31b726e-3c63-4fbb-ad68-5f5202c643fc"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6115affe-7e60-4545-bba4-bf5c547526d8"
+          },
+          "dapAn": "watch",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "67f24e6e-627b-474c-a33d-ac182750831d"
+          },
+          "dapAn": "TV talent",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "81a16ce5-699d-44c4-a616-d01c9ffa1bf0"
+          },
+          "dapAn": "shows?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "66bfe2a4-488a-48f4-8baa-f95defc5c462"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu với cụm <b>I think</b>, ta dùng cấu trúc: <b>I think + mệnh đề</b>.<br />\r\nTa có: <b>there are many great talent shows out there with lots of talented people </b><i>(có rất nhiều chương trình tìm kiếm tài năng tuyệt vời với rất nhiều người tài năng) </i>là mệnh đề đứng sau cụm <b>I think </b><i>(Tôi nghĩ rằng)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">I think there are many great talent shows out there with lots of talented people. </span></b><i>(Tôi nghĩ rằng có rất nhiều chương trình tìm kiếm tài năng tuyệt vời với rất nhiều người tài năng.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "17989205-26aa-4ebd-bc23-209aa4431b81"
+          },
+          "dapAn": "I think there",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "789ccde8-600e-4a25-9084-95fb7ad06e81"
+          },
+          "dapAn": "are many",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c3ee512f-b5b6-40bf-82aa-31865538116e"
+          },
+          "dapAn": "great talent shows",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fe699a7f-75be-4998-b38c-2ede0c502f6d"
+          },
+          "dapAn": "out there",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1447700b-280f-4ab2-a411-f6d21ac407fd"
+          },
+          "dapAn": "with lots of",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bf82c392-e087-4236-91bf-9eeddf8063e4"
+          },
+          "dapAn": "talented people.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9e306dac-dacb-4ecc-bb4a-5b37df22176a"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu với cụm <b>Is there</b>, ta dùng cấu trúc: <b>Is there + a + danh từ số it + mệnh đề quan hệ</b>.<br />\r\nTa có: <b>particular show </b><i>(chương trình cụ thể) </i>là danh từ số ít, <b>that is your favorite </b><i>(chương trình yêu thích của bạn) </i>là mệnh đề quan hệ bổ sung ý nghĩa cho danh từ <b>particular show</b>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Is there a particular show that is your favorite? </span></b><i>(Có chương trình cụ thể nào là chương trình yêu thích của bạn không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3ff3aed5-965c-4802-8a5b-d99e5abdf2bf"
+          },
+          "dapAn": "Is there a",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "145b1b43-d79f-44d9-81e1-0d83d1297073"
+          },
+          "dapAn": "particular",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4f39bffe-3283-4974-9c52-5e5996cf5e71"
+          },
+          "dapAn": "show",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0cb5b33e-c654-486c-a7b0-e351a4705701"
+          },
+          "dapAn": "that is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2147188a-5a43-43f0-9d9e-1d2fbaa8155a"
+          },
+          "dapAn": "your",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fafaf454-a23f-494d-b771-c12e011ecede"
+          },
+          "dapAn": "favorite?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "48ee0fae-1afb-41f0-add9-0c2e35122378"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng tôi thích cái gì nhất, ta dùng cấu trúc: <b>I like + tân ngữ + the best</b>.<br />\r\nTa có: <b>the show Dance Off </b><i>(chương trình Dance Off) </i>là tân ngữ đứng sau cụm <b>I like </b><i>(Tôi thích)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">I like the show Dance Off the best. </span></b><i>(Tôi thích chương trình Dance Off nhất.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "88d2ead9-9238-4c3e-9481-b95319117505"
+          },
+          "dapAn": "I",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "678e51ae-8766-40e5-8908-d9b1a068a299"
+          },
+          "dapAn": "like",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ccc6aad3-b68a-404a-8a2a-489ef30befc1"
+          },
+          "dapAn": "the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cff2a599-8706-4915-ae9f-7f1f669d4df2"
+          },
+          "dapAn": "show",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7c226bc4-39ad-4596-8fa3-25c6e068d3ba"
+          },
+          "dapAn": "Dance Off",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "24e8f06a-49cc-4087-bccf-628de4a8376f"
+          },
+          "dapAn": "the best.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9a3dcefa-86ad-4111-82bc-715d9032d002"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi thêm thông tin chi tiết về vấn đề nào đó, ta dùng cấu trúc: <b>Can you tell more about + tân ngữ</b>.<br />\r\nTa có: <b>your sister's journey in the show </b><i>(hành trình của em gái mình trong chương trình đó) </i>là tân ngữ, đứng sau cụm <b>Can you tell more about </b><i>(Bạn có thể kể thêm về)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Can you tell more about your sister's journey in the show? </span></b><i>(Bạn có thể kể thêm về hành trình của em gái mình trong chương trình đó không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6c2dc8e6-bfc7-4d5d-96e9-0446795a55d8"
+          },
+          "dapAn": "Can",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c0c5bfc8-4f76-4dc0-af3e-e24d1fc6cdde"
+          },
+          "dapAn": "you tell",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "55f1797c-63db-4c99-b8c8-9b1870daae4c"
+          },
+          "dapAn": "more about",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c0b5a876-4e99-41e7-8d4a-baf1e2ca5190"
+          },
+          "dapAn": "your sister's",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "efd9467b-ef29-472c-8f28-9692ca2bbe36"
+          },
+          "dapAn": "journey in",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "72af2f19-decb-4a5f-98b9-dd594afda5e7"
+          },
+          "dapAn": "the show?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4ba8d1c3-9a23-4bb1-9f8d-a26b74bd160e"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả 2 hành động liên tiếp xảy ra trong quá khứ, ta dùng cấu trúc: <b>Chủ ngữ + động từ (quá khứ đơn) 1 + trạng ngữ 1 + động từ (quá khứ đơn) 2 + trạng ngữ 2</b>.<br />\r\nTa có: <b>danced </b><i>(đã nhảy) </i>là động từ (quá khứ đơn) 1, <b>with a professional dancer </b><i>(với một vũ công chuyên nghiệp) </i>là trạng ngữ 1, <b>came in </b><i>(xếp hạng) </i>là động từ (quá khứ đơn) 2,<b> second place </b><i>(vị trí thứ hai) </i>là trạng ngữ 2.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">She danced with a professional dancer and came in second place. </span></b><i>(Em ấy đã nhảy với một vũ công chuyên nghiệp và xếp hạng ở vị trí thứ hai.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "013dc2ea-f0d9-4870-8a45-3c315ff95b13"
+          },
+          "dapAn": "She danced",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "93d33124-8d01-454b-8bf6-0810392bbe7f"
+          },
+          "dapAn": "with a",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fd579150-a31f-4b54-bbbb-1cf0d80e0bd2"
+          },
+          "dapAn": "professional",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "324f1558-85d5-4e84-a704-1ea1b6a37385"
+          },
+          "dapAn": "dancer and",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ef3120a0-52de-4668-9516-dc68cbabbbf9"
+          },
+          "dapAn": "came in",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "74860dfe-a9fa-4956-b0dd-da1a4184284e"
+          },
+          "dapAn": "second place.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "dff1b422-0e58-453a-b5c0-0a0829ac0bc9"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ý kiến của ai đó về một vấn đề, ta dùng cấu trúc: <b>Do you think + chủ ngữ + động từ (hiện tại đơn) + danh từ + mệnh đề quan hệ</b>.<br />\r\nTa có: <b>some talent shows </b><i>(một số chương trình tìm kiếm tài năng) </i>là chủ ngữ, <b>feature </b><i>(có) </i>là động từ (hiện tại đơn), <b>people </b><i>(những người) </i>là danh từ đứng sau động từ <b>feature</b>, <b>who aren't very talented </b><i>(người không tài năng lắm) </i>là mệnh đề quan hệ bổ sung ý nghĩa cho tân ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Do you think some talent shows feature people who aren't very talented? </span></b><i>(Bạn có nghĩ rằng một số chương trình tìm kiếm tài năng có những người không tài năng lắm không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0d9dde50-2c1a-41fe-bb3d-edb5a74266d3"
+          },
+          "dapAn": "Do you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6fc16fce-13f2-4523-b639-db169c63a807"
+          },
+          "dapAn": "think some",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ae03e3e6-ce6a-4da4-a549-104db771f7d9"
+          },
+          "dapAn": "talent shows",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bbf12db4-9c14-4b5c-a40f-7a7261bf898d"
+          },
+          "dapAn": "feature people",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ea7643f0-7955-4e87-9d18-65f08c090a9e"
+          },
+          "dapAn": "who aren't",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7a53ddf0-6291-4b19-be31-f10383ae36c3"
+          },
+          "dapAn": "very talented?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f7fa8da0-cbee-4b92-acae-9a05293fcc9e"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu với cụm <b>I think</b>, ta dùng cấu trúc: <b>I think + mệnh đề</b>.<br />\r\nTa có: <b>it's interesting to hear what the judges say </b><i>(thật thú vị khi nghe những gì ban giám khảo nói) </i>là mệnh đề sau cụm <b>I think </b><i>(Tôi nghĩ)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">I think it's interesting to hear what the judges say. </span></b><i>(Tôi nghĩ thật thú vị khi nghe những gì ban giám khảo nói.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c22ab752-5bc5-407f-8874-b900f67bc96a"
+          },
+          "dapAn": "I think",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "795eb7ec-25a0-48bb-a40c-bdd55cf8c1cb"
+          },
+          "dapAn": "it's",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "37044610-1e57-4af9-b2dc-1f0c9d6459b4"
+          },
+          "dapAn": "interesting",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "25badac6-ebf9-4b52-be72-511133a06de6"
+          },
+          "dapAn": "to hear",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "53fc8934-bab8-4021-b8f8-e33aa7510eb5"
+          },
+          "dapAn": "what the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "73d4761b-40e5-4b6f-9fcd-9f23c3e91f54"
+          },
+          "dapAn": "judges say.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "561c36ee-794c-4cdd-818b-91f7cac16fba"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng điều gì là rất khó, ta dùng cấu trúc: <b>It's very hard to + động từ (nguyên thể) + danh từ</b>.<br />\r\nTa có: <b>control </b><i>(kiểm soát) </i>là động từ (nguyên thể),<b> this problem </b><i>(vấn đề này) </i>là danh từ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">It's very hard to control this problem. </span></b><i>(Rất khó để kiểm soát vấn đề này.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f255daaa-69a0-45b7-bca3-021cea2f1600"
+          },
+          "dapAn": "It's",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1dda1309-954f-4817-918c-363f7f4a1a6e"
+          },
+          "dapAn": "very",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8442958b-2df9-4305-956a-d24c84837596"
+          },
+          "dapAn": "hard to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a10c9da9-db8f-4e4f-b3c8-b50edd2f1625"
+          },
+          "dapAn": "control",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "96d2e8c2-a742-4d76-bf24-847f1aa1000d"
+          },
+          "dapAn": "this",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3c7f8524-a8ef-45db-a823-7b639bdd4829"
+          },
+          "dapAn": "problem.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4fb13398-3744-46d5-a1c2-e2c3e81de065"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu với cụm <b>I think</b>, ta dùng cấu trúc: <b>I think + mệnh đề</b>.<br />\r\nTa có: <b>the level of talent in shows today is higher than it used to be </b><i>(mức độ tài năng trong các chương trình ngày nay cao hơn trước đây) </i>là mệnh đề đứng sau cụm <b>I think </b><i>(Tôi nghĩ)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">I think the level of talent in shows today is higher than it used to be. </span></b><i>(Tôi nghĩ mức độ tài năng trong các chương trình ngày nay cao hơn trước đây.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "77525a0b-c58e-44af-b6f2-1e1d7bf11dd2"
+          },
+          "dapAn": "I think the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "727ab914-ba29-439e-8b48-d5ea0a79c4cf"
+          },
+          "dapAn": "level of talent",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "002c9e52-da3f-4c35-b0ce-d7154c16d4ff"
+          },
+          "dapAn": "in shows",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4bd8d044-26a4-4155-8195-973825489bd4"
+          },
+          "dapAn": "today is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "75972506-48c2-4a97-820b-952c96e7bea3"
+          },
+          "dapAn": "higher than it",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "40f19687-e78f-4fee-b2a4-dfce81a46bba"
+          },
+          "dapAn": "used to be.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "10be3b80-7f34-4dd9-b14d-10df672a7b14"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả một phương pháp tốt, ta dùng cấu trúc: <b>Chủ ngữ + to be + a good method of + danh động từ + danh từ</b>.<br />\r\nTa có: <b>These shows </b><i>(Những chương trình này) </i>là chủ ngữ, sau danh động từ <b>finding </b><i>(tìm kiếm) </i>là danh từ <b>talented people </b><i>(những người tài năng)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">These shows are a good method of finding talented people. </span></b><i>(Những chương trình này là một phương pháp tốt để tìm kiếm những người tài năng.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f8acb795-cf7e-4470-b284-a070046ceb35"
+          },
+          "dapAn": "These",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "909de804-d5ad-4a19-a539-fd225007eed4"
+          },
+          "dapAn": "shows are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f81db1c2-766e-453e-8316-00fbbbb654ae"
+          },
+          "dapAn": "a good",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6dfc01e3-d4e7-4882-9b76-a832bf7c4cbf"
+          },
+          "dapAn": "method",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "262b1968-5e59-4ce5-b615-e6b1fdb880f7"
+          },
+          "dapAn": "of finding",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ac159438-2261-4c25-a513-41ec29fd6db4"
+          },
+          "dapAn": "talented people.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "dc708994-8f21-4d91-8bc6-5ee34fb40d3f"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu với cụm <b>I wanted to know how</b>, ta dùng cấu trúc: <b>I wanted to know how + mệnh đề</b>.<br />\r\nTa có: <b>I can start my own music company like you </b><i>(tôi có thể thành lập công ty âm nhạc của riêng mình giống như bạn) </i>là mệnh đề đứng sau cụm <b>I wanted to know how </b><i>(Tôi muốn biết làm thế nào)</i>. <br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">I wanted to know how I can start my own music company like you. </span></b><i>(Tôi muốn biết làm thế nào tôi có thể thành lập công ty âm nhạc của riêng mình giống như bạn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ce99844a-4f2e-4d05-8788-ab00af835687"
+          },
+          "dapAn": "I wanted to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b8918a96-3aa0-4981-90fa-c118dd6bf292"
+          },
+          "dapAn": "know how",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a42abb3b-c0a3-4043-b875-73bc0f3a41ea"
+          },
+          "dapAn": "I can start",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4f599970-3ff9-40c4-b175-956d0ed4a3e8"
+          },
+          "dapAn": "my own music",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e1c6e09b-c260-4866-a339-419dab9a25b8"
+          },
+          "dapAn": "company",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1f3154e6-a0ce-41b0-b1cc-025a5058ff40"
+          },
+          "dapAn": "like you.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c98fdc24-bd3d-4958-804c-a330b50bf774"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu mệnh lệnh với <b>Remember that</b>, ta dùng cấu trúc: <b>Remember that + mệnh đề</b>.<br />\r\nTa có: <b>music industry success is not about what you know, but who you know </b><i>(thành công trong ngành công nghiệp âm nhạc không phải là bạn biết được những gì mà là bạn biết được những ai) </i>là mệnh đề đứng sau cụm <b>Remember that </b><i>(Hãy nhớ rằng)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Remember that music industry success is not about what you know, but who you know. </span></b><i>(Hãy nhớ rằng thành công trong ngành công nghiệp âm nhạc không phải là bạn biết được những gì mà là bạn biết được những ai.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "278b5fdb-1252-4c27-9daa-4b4e61e1550b"
+          },
+          "dapAn": "Remember that music",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "38303112-7ce4-4084-873f-b5a775c7503d"
+          },
+          "dapAn": "industry success",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1f10d610-9d73-4e0e-9b87-7da0420c1aa1"
+          },
+          "dapAn": "is not about",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ddacdcbd-1a3e-4028-b266-20471b7c60ff"
+          },
+          "dapAn": "what you know,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f45950ac-4260-456a-933d-2aebe10328cc"
+          },
+          "dapAn": "but who",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4d45c597-1ea2-478a-95ba-086a178316c9"
+          },
+          "dapAn": "you know.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "97224460-8500-48b9-9466-751533e30642"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng tôi muốn làm gì, ta dùng cấu trúc: <b>I'd like to + động từ (nguyên thể) + tân ngữ gián tiếp + tân ngữ trực tiếp</b>.<br />\r\nTa có: <b>ask </b><i>(hỏi) </i>là động từ (nguyên thể), <b>Elsa </b>là tân ngữ gián tiếp và <b>how I can become a singer </b><i>(làm thế nào tôi có thể trở thành một ca sĩ) </i>là tân ngữ trực tiếp.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">I'd like to ask Elsa how I can become a singer. </span></b><i>(Tôi muốn hỏi Elsa làm thế nào tôi có thể trở thành một ca sĩ.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fbce7d1b-4c4b-4371-98af-4e4136f0fa5e"
+          },
+          "dapAn": "I'd like",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7ba31971-835c-4bfe-addc-08ab39aefff9"
+          },
+          "dapAn": "to ask",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8b608212-bf9a-48a0-81bc-cddb80e668c5"
+          },
+          "dapAn": "Elsa how",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4a1c93f3-ab0a-4a47-9935-fca084fe26a6"
+          },
+          "dapAn": "I can",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dda58a52-4d7f-413b-9369-f81e9c986bdb"
+          },
+          "dapAn": "become",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d8a416a1-b671-4f7f-8f22-fcac1cbbfd96"
+          },
+          "dapAn": "a singer.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6fd34ed3-7c18-4d81-96ca-1c619fc5b2ef"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu với cụm <b>I think</b>, ta dùng cấu trúc: <b>I think + mệnh đề</b>.<br />\r\nTa có: <b>I have a good voice, but I don't know where to start </b><i>(tôi có một giọng hát tốt, nhưng tôi không biết bắt đầu từ đâu) </i>là mệnh đề đứng sau cụm <b>I think </b><i>(Tôi nghĩ rằng)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">I think I have a good voice, but I don't know where to start. </span></b><i>(Tôi nghĩ rằng tôi có một giọng hát tốt, nhưng tôi không biết bắt đầu từ đâu.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5d8c91d2-b263-4146-9ec1-a3e809676dc7"
+          },
+          "dapAn": "I think I",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c4f7187c-bde8-4102-a5cb-d9ba173cb83e"
+          },
+          "dapAn": "have a",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4c10bde9-f357-433b-bcd6-95fb90922f02"
+          },
+          "dapAn": "good voice,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a266a865-9130-4441-a976-c2d8d525212b"
+          },
+          "dapAn": "but I don't",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "af54769e-7759-45a8-9e1f-0f51c5539cac"
+          },
+          "dapAn": "know where",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3e0b63e3-8438-4e04-81bb-941856c04636"
+          },
+          "dapAn": "to start.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "efc34d8e-62e4-43c4-995f-9c9beb560bd1"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để khuyên ai đó cần phải làm những gì, ta dùng cấu trúc: <b>You need + to động từ (nguyên thể) 1 + bổ ngữ 1 + and + to động từ (nguyên thể) 2 + bổ ngữ 2. </b><br />\r\nTa có: <b>to think </b><i>(suy nghĩ) </i>là động từ (to + nguyên thể) 1, <b>about</b> <b>your goals </b><i>(về các mục tiêu của mình) </i>là bổ ngữ,<b> to remember </b><i>(nhớ giữ)</i><b> </b>là động từ (to + nguyên thể) 2,<b> to keep them small </b><i>(giữ chúng ở mức nhỏ) </i>là bổ ngữ 2.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">You need to think about your goals and remember to keep them small.</span></b> <i>(Bạn cần suy nghĩ về các mục tiêu của mình và nhớ giữ chúng ở mức nhỏ.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f62d9979-aae0-4a28-8768-418db14ef07f"
+          },
+          "dapAn": "You need to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "44a87fb6-e4a4-490c-a8cf-810056c1d0e2"
+          },
+          "dapAn": "think about",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c304d238-2b41-427a-8a9d-a623d658ede4"
+          },
+          "dapAn": "your goals",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "999da6e0-8779-4165-bc24-ca863f0b38d9"
+          },
+          "dapAn": "and remember",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4884f1cb-7832-407a-93b1-91eb95538267"
+          },
+          "dapAn": "to keep",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4e4bcfbb-a3ff-42ca-92be-1e6b5313e596"
+          },
+          "dapAn": "them small.",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

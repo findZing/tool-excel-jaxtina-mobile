@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "3c150d30-9052-4529-9422-720f3f220cc3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Welcome to Money Matters. With me in the studio is the local campaign __________ for the children’s charity Rainbows, Pat Beresford.",
+      "yNghia": "Welcome to Money Matters. With me in the studio is the local campaign <span style=\"color:red\">manager </span>for the children's charity Rainbows, Pat Beresford. <br />\n<i>Chào mừng đến với chuyên mục Money Matters. Đang trong phòng thu cùng tôi là <span style=\"color:red\">quản lý </span>chiến dịch địa phương cho tổ chức từ thiện dành cho trẻ em Rainbows, và ngài Pat Beresford.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7067c411-f12b-4445-b24d-d75ec8f4d7e1"
+          },
+          "dapAn": "manager",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d72d6b7d-0969-4c45-8e92-bc8193a40072"
+          },
+          "dapAn": "director",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c8498d9c-4228-4def-ac6c-788f30f53b29"
+          },
+          "dapAn": "host",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_1. Welcome ... Beresford.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_1. Welcome ... Beresford.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "7c24d438-d272-4c46-9f5c-eb321ce5287f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Hi, my name is Pat, my job is to think of new ways to ______________.",
+      "yNghia": "Hi, my name is Pat, my job is to think of new ways to <span style=\"color:red\">raise money</span>.<i> </i><br />\n<i>Xin chào, tôi tên là Pat, công việc của tôi là nghĩ ra những cách mới để <span style=\"color:red\">huy động tiền quyên góp</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "473f29d7-b48b-4d6a-9277-d7ccef7e1ba6"
+          },
+          "dapAn": "save money",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "76cd9e9c-8495-4f5a-9652-ad33bc80f488"
+          },
+          "dapAn": "raise money",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a8c0e328-ed33-4816-94ea-5904019a595d"
+          },
+          "dapAn": "raise children",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_2. Hi ... money.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_2. Hi ... money.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c1d70186-a891-4a7f-9ada-e00ce8679aa6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Pat, If I want to help your charity, but I don't have _____________. What can I do?",
+      "yNghia": "Pat, If I want to help your charity, but I don't have <span style=\"color:red\">any money</span>. What can I do?<i> </i><br />\n<i>Pat, Nếu tôi muốn giúp đỡ tổ chức từ thiện của bạn, nhưng tôi không có <span style=\"color:red\">tiền</span>. Tôi có thể làm gì được?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1cd0dcb9-5a42-4560-be01-262ebd926389"
+          },
+          "dapAn": "any money",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "06a56314-1772-484a-9b12-f480589b4381"
+          },
+          "dapAn": "any time",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e32c3e06-2028-42c0-9ad7-44e4095713e0"
+          },
+          "dapAn": "any source",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_3. Pat ... do.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_3. Pat ... do.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "024f5ff2-c97e-444c-bf16-a102ae85f783"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "If you can't help us with money, you can help us with ____________.",
+      "yNghia": "If you can't help us with money, you can help us with <span style=\"color:red\">your time</span>.<i> </i><br />\n<i>Nếu bạn không thể giúp chúng tôi bằng tiền, bạn có thể giúp chúng tôi bằng <span style=\"color:red\">thời gian của bạn</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5efd68fe-9ffd-45fa-93a0-5e4aaa1dc346"
+          },
+          "dapAn": "your effort",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5d361d9e-0d6f-43e2-b057-89e9cafd55bb"
+          },
+          "dapAn": "your time",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9132d5bd-89af-4685-889c-8eaa4da85b29"
+          },
+          "dapAn": "your memory",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_4. If ... time.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_4. If ... time.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3b82523b-a1d9-43c7-980f-75dde11c71c2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You can become a volunteer in one of our ___________ around the country.",
+      "yNghia": "You can become a volunteer in one of our<span style=\"color:red\"> thrift stores </span>around the country. <br />\n<i>Bạn có thể trở thành tình nguyện viên tại một trong <span style=\"color:red\">những cửa hàng từ thiện </span>của chúng tôi trên toàn quốc.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3a31a8ca-5859-4093-9b93-384e7c66b925"
+          },
+          "dapAn": "shops",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2e876ec5-b61f-4bbe-a238-c6c3f4659efa"
+          },
+          "dapAn": "restaurants",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "14a23bf5-ff02-4a3a-b2dc-77b9a9133316"
+          },
+          "dapAn": "thrift stores",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_5. You ... country.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_5. You ... country.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5596f742-4cff-4af4-aca2-9cacb960eca6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "But what if you work __________ and you can't do that?",
+      "yNghia": "But what if you work <span style=\"color:red\">full-time </span>and you can't do that?<i> </i><br />\n<i>Nhưng nếu bạn làm việc <span style=\"color:red\">toàn thời gian </span>và bạn không thể làm điều đó thì sao?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9473941c-f325-44d0-98d8-be354b4b634f"
+          },
+          "dapAn": "part-time",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e06ee3f0-2d74-4cd8-80c4-b73d6de085da"
+          },
+          "dapAn": "full-time",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2ca33f52-87dd-459b-a36f-8a58848c0e20"
+          },
+          "dapAn": "at home",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_6. But ... that.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_6. But ... that.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5fa0a675-c594-496d-ad75-306fba1a996d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Well, there are many one-day fundraising events such as bake sales, ____________.",
+      "yNghia": "Well, there are many one-day fundraising events such as bake sales, <span style=\"color:red\">music events</span>.<i><br />\nChà, có rất nhiều sự kiện gây quỹ diễn ra trong một ngày như bán bánh nướng, <span style=\"color:red\">sự kiện âm nhạc</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ffdfc2bf-2931-4006-90e2-1da6830064f0"
+          },
+          "dapAn": "music events",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a3798289-88aa-4a77-b82d-d46dae31f47e"
+          },
+          "dapAn": "sport events",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bd538012-12bd-4291-87f6-e681c51178a8"
+          },
+          "dapAn": "prom",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_7. Well ... events.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_7. Well ... events.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "56260558-b3dc-4c3e-999d-9ad59af92a74"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Interesting! I can also call my family and __________ to come that day.",
+      "yNghia": "Interesting! I can also call my family and <span style=\"color:red\">friends </span>to come that day. <br />\n<i>Hấp dẫn thật đấy! Tôi cũng có thể kêu gọi gia đình và <span style=\"color:red\">bạn bè </span>của tôi đến vào ngày hôm đó.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "06db30ba-e9b2-4715-bb94-d46d812cc5d4"
+          },
+          "dapAn": "my wife",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6c1d774a-e72d-4274-bc81-ce86860c3887"
+          },
+          "dapAn": "my students ",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c5149c49-ef67-474c-8204-906ce27bed4c"
+          },
+          "dapAn": "friends",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_8. Interesting ... day.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_8. Interesting ... day.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d6e8387e-588f-421c-8bc7-850a43a4f904"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Or, you can make a contribution by getting people to pay you for completing a __________.",
+      "yNghia": "Or, you can make a contribution by getting people to pay you for completing a <span style=\"color:red\">marathon</span>. <br />\n<i>Hoặc bạn có thể đóng góp bằng cách kêu gọi mọi người trả tiền cho bạn khi hoàn thành cuộc <span style=\"color:red\">chạy</span> <span style=\"color:red\">điền kinh</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "24ddfa8a-22f8-4947-af0f-c6820da195e2"
+          },
+          "dapAn": "marathon",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9cba541d-4d91-45c7-8d27-193622395e24"
+          },
+          "dapAn": "game",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ac0d3312-e600-4a4f-875e-f5e7fe0eeade"
+          },
+          "dapAn": "song",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_9. Or ... marathon.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_9. Or ... marathon.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e8e16758-1373-4e43-af2f-84d5e842c26c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There’re companies paying a certain amount to __________ for every correct answer of online quizzes.",
+      "yNghia": "There're companies paying a certain amount to <span style=\"color:red\">a charity </span>for every correct answer of online quizzes.<i> </i><br />\n<i>Có những công ty trả một số tiền nhất định cho <span style=\"color:red\">một</span> <span style=\"color:red\">tổ chức từ thiện </span>cho mỗi câu trả lời đúng trong các câu đố trực tuyến.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "59bbf79e-9325-4f83-b7ad-3594efa2b371"
+          },
+          "dapAn": "the poor",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1a0aa99d-1f6c-4568-9483-9b14cffe8f4c"
+          },
+          "dapAn": "a charity",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2d949913-378c-49b0-9540-f22d6a2f358e"
+          },
+          "dapAn": "the kid",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_10. There_re ... quizzes.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_10. There_re ... quizzes.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f7400d7c-b675-420e-989f-d0db157bb905"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes. Basically, you go online and answer __________ questions.",
+      "yNghia": "Yes. Basically, you go online and answer <span style=\"color:red\">vocabulary </span>questions. <br />\n<i>Đúng vậy. Cơ bản là bạn lên mạng và trả lời các câu hỏi về <span style=\"color:red\">từ vựng</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ebbbf343-0971-420c-a4f8-22e765b10e90"
+          },
+          "dapAn": "funny",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "12df0d07-e13f-49ab-954b-acbedd55b761"
+          },
+          "dapAn": "vocabulary",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0f8e83cf-394e-4123-9c57-ab276cfdc130"
+          },
+          "dapAn": "simple",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_11. Yes ... questions.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_11. Yes ... questions.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "96bcbacd-9851-4058-bb4b-7b97452cd908"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "If you travel abroad often, donate all the ____________ that you have left at the end of a trip.",
+      "yNghia": "If you travel abroad often, donate all the <span style=\"color:red\">foreign currency </span>that you have left at the end of a trip.<i> </i><br />\n<i>Nếu bạn thường xuyên đi du lịch nước ngoài, hãy tặng tất cả số <span style=\"color:red\">ngoại tệ </span>mà bạn còn lại khi kết thúc chuyến đi.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3788d063-eff2-434b-8b4f-57ac73791f22"
+          },
+          "dapAn": "food",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1c760ad1-f4fe-404a-9621-7b2791809b69"
+          },
+          "dapAn": "luggage",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4fcddbfd-f7fb-4dbf-9cc5-538ea12c046d"
+          },
+          "dapAn": "foreign currency",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_12. If ... trip.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_12. If ... trip.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b6bc5497-63c4-4d99-8ee2-87fec374bd1a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I saw this happen when ____________ offered to collect all my foreign currency and give it to a charity.",
+      "yNghia": "I saw this happen when <span style=\"color:red\">a crew </span>offered to collect all my foreign currency and give it to a charity.<i> </i><br />\n<i>Tôi đã chứng kiến điều này diễn ra khi <span style=\"color:red\">một đoàn phim </span>đã đề nghị thu tất cả số ngoại tệ của tôi và tặng cho một tổ chức từ thiện.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "52d0440a-5008-43ad-8ef6-ff1a09349ce0"
+          },
+          "dapAn": "a team",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "df174108-b123-45e0-becc-7e21c2deaecf"
+          },
+          "dapAn": "a crew",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fc052989-a9e9-4029-ab84-0fb0480d9812"
+          },
+          "dapAn": "some students",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_13. I ... charity.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_13. I ... charity.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9ffeb6f5-a76c-4b66-a4c2-14daa8e20c23"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes. Last year, we received __________ this way.",
+      "yNghia": "Yes. Last year, we received <span style=\"color:red\">$21,000 </span>this way. <br />\n<i>Đúng vậy. Năm ngoái, chúng tôi đã nhận được <span style=\"color:red\">21.000 đô la </span>theo cách này.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5b76e20b-712c-422d-9f5f-96c3a3f3ad95"
+          },
+          "dapAn": 201000,
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "dc2ed2eb-03c8-4d42-b78e-e7868ec5b0c2"
+          },
+          "dapAn": 21000,
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "32c7d422-90d2-48f8-a010-da62c9a43b52"
+          },
+          "dapAn": 2100,
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_14. Yes ... way.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_14. Yes ... way.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "15d3ee1d-aa7e-4d38-ab0b-0b11848d3385"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Their _________ make an enormous difference in lives and communities around the world.",
+      "yNghia": "Their <span style=\"color:red\">donations </span>make an enormous difference in lives and communities around the world. <br />\n<i><span style=\"color:red\">Những đóng góp </span></i><i>của họ tạo ra sự khác biệt to lớn trong cuộc sống và cộng đồng trên khắp thế giới.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bef14021-80e8-4b43-ad8b-7e3504165285"
+          },
+          "dapAn": "donations",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "338d9665-c190-4463-b7c5-0075d0dd7668"
+          },
+          "dapAn": "stories",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ecbba39d-d7d5-4241-b43a-4c1949eb6117"
+          },
+          "dapAn": "companies",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_15. Their ... world.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_15. Their ... world.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "4d3dee5f-d817-4ddf-b587-4a7e62b55a06"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Many people decide to give _________, but how do you help if you can't afford to donate money?",
+      "yNghia": "Many people decide to give <span style=\"color:red\">cash</span>, but how do you help if you can't afford to donate money?<br />\n<i>Nhiều người quyết định quyên góp </i><i><span style=\"color:red\">tiền mặt</span></i><i>, nhưng làm thế nào bạn có thể giúp đỡ nếu bạn không đủ khả năng quyên góp tiền?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ac9b73df-f1dc-4038-81e8-9a4529154c18"
+          },
+          "dapAn": "food",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e0274470-3b00-46a7-8b7e-e134506a75e0"
+          },
+          "dapAn": "cash",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5e704a04-1c97-465f-af48-7962f6e22632"
+          },
+          "dapAn": "clothes",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_16. Many ... money.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_16. Many ... money.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "48700d71-7fa7-4729-84c5-4789496efc55"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "But what can _________ people do to help charities?",
+      "yNghia": "But what can <span style=\"color:red\">ordinary </span>people do to help charities? <br />\n<i>Nhưng những người </i><i><span style=\"color:red\">bình thường </span></i><i>có thể làm gì để giúp đỡ các tổ chức từ thiện?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c9973dff-7a89-4783-9a1d-4272c0375efe"
+          },
+          "dapAn": "poor",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "df681450-e300-4467-8495-167a5577303d"
+          },
+          "dapAn": "ordinary",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f809b41d-80ff-4e09-ad59-16f12ea4a9b4"
+          },
+          "dapAn": "rich",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_17. But ... charities.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_17. But ... charities.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6da036e4-b419-4b4c-aacf-b02f188eb55e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I know a ___________ left $12 million to her dog when she died.",
+      "yNghia": "I know a <span style=\"color:red\">hotel owner </span>left $12 million to her dog when she died.<i> </i><br />\n<i>Tôi biết một </i><i><span style=\"color:red\">chủ khách sạn </span></i><i>đã để lại 12 triệu đô la cho con chó của cô ấy khi cô ấy qua đời.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3128be44-9c51-4e52-ba8d-ecc97b405e69"
+          },
+          "dapAn": "hotel owner",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0cded340-461c-4bee-b884-e224690612f8"
+          },
+          "dapAn": "restaurant owner",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ab563753-d9a1-464e-a363-c311ffc31d3d"
+          },
+          "dapAn": "chef",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_18. I ... died.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_18. I ... died.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "643464fb-8216-4a23-858b-1c8afa9f3c2c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The gig economy means that more and more people are working for themselves, with no __________, no pension, and no vacation or sick pay.",
+      "yNghia": "The gig economy means that more and more people are working for themselves, with no <span style=\"color:red\">contract</span>, no pension, and no vacation or sick pay. <br />\n<i>Nền kinh tế tạm thời có nghĩa là ngày càng có nhiều người làm việc cho bản thân họ, không có </i><i><span style=\"color:red\">hợp đồng</span></i><i>, không lương hưu và không có tiền nghỉ phép hoặc ốm đau.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "dd986702-b92d-4811-b544-80aba8cad0b6"
+          },
+          "dapAn": "co-worker",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "54677f72-3a82-4c69-b038-2deb9928f266"
+          },
+          "dapAn": "contract",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3949c9f7-dfde-415d-8a1b-79fb6c722da1"
+          },
+          "dapAn": "leader",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_19. The ... pay.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_19. The ... pay.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e209c2d7-b034-4d4e-bdf2-7167983ae228"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We we get people _____________ our apartments.",
+      "yNghia": "We get people <span style=\"color:red\">to decorate </span>our apartments.<i><br />\nChúng tôi thuê người </i><i><span style=\"color:red\">trang trí</span> căn hộ của mình.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3357f14f-81a0-40c7-bf76-2bae6023e89c"
+          },
+          "dapAn": "to change",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3f94dd48-e872-41c5-b579-d1ccc4f97971"
+          },
+          "dapAn": "to sell",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "13dfc736-f615-44e6-91ec-35f965abac0b"
+          },
+          "dapAn": "to decorate",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L21/sounds/normal/MTC_21_LISTENING_20. We ... apartments.mp3",
+      "soundSlow": "4SKILLS_MTC_L21/sounds/slow/MTC_21_LISTENING_20. We ... apartments.mp3"
+    }
+  ]
+}

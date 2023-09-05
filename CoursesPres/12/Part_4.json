@@ -1,0 +1,380 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "Grammar",
+  "videoUrl": "4SKILLS_PRE_S_L12/grammar.mp4",
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:03:59",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "1cbe3f4e-bad9-43c6-858f-ed8103063e2e",
+                "dapAn": "The"
+              },
+              {
+                "_id": "5d5d28f5-2b59-4600-9665-86ea214ef16b",
+                "dapAn": "store"
+              },
+              {
+                "_id": "1f2745c7-2715-46c7-afff-bd726168db63",
+                "dapAn": "closes at"
+              },
+              {
+                "_id": "cce9c45f-9a64-4289-8344-8c922b346425",
+                "dapAn": "7 p.m."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "fd51ac41-ddf6-4c74-b516-6fe491f5d63e",
+                "dapAn": "They"
+              },
+              {
+                "_id": "89beb696-6fc6-4475-aa39-23365c47c00d",
+                "dapAn": "go to"
+              },
+              {
+                "_id": "ac41d1ac-8a35-48b9-b3c1-3b4bac510301",
+                "dapAn": "school"
+              },
+              {
+                "_id": "2fb99a21-434b-41ff-8034-79703cd810ef",
+                "dapAn": "by bus."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "4d142d8b-613a-43f1-920b-b1b888cd1d29",
+                "dapAn": "Do they"
+              },
+              {
+                "_id": "00b0b53b-e435-45cc-ad11-da035edea8be",
+                "dapAn": "start"
+              },
+              {
+                "_id": "f58e9bb6-e5e3-4b37-9c50-60edeabbf9b1",
+                "dapAn": "working"
+              },
+              {
+                "_id": "3f801c59-abe3-4be8-bfb8-ef367eefb431",
+                "dapAn": "at 9.00 a.m?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "5120a80c-f201-408d-b0ca-0aad5671fe08",
+                "dapAn": "I rarely"
+              },
+              {
+                "_id": "5ec4941c-1bbe-4bd7-863a-4757bc59d046",
+                "dapAn": "eat"
+              },
+              {
+                "_id": "acefc56b-5356-4440-8bf2-11d96e742ee1",
+                "dapAn": "breakfast."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "c8e4fef3-be6e-43bf-8d97-c5321202fbfe",
+                "dapAn": "I rarely"
+              },
+              {
+                "_id": "f1841003-69fd-41de-82c6-3522bea42701",
+                "dapAn": "don't"
+              },
+              {
+                "_id": "370e0303-2784-48d0-8958-108e9e3dd443",
+                "dapAn": "like"
+              },
+              {
+                "_id": "7cd0a908-2506-43b7-a94b-40d08266bc92",
+                "dapAn": "meat."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:03:59",
+      "timeEnd": "0:06:46",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P5",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "We want to visit our grandparents ______ summer.",
+            "_id": "71885701-0a61-4848-86f2-8e73ea5dd02d",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "in",
+                "_id": "aff353de-7dd5-47f6-8e9a-b4f08e2730ba"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "on",
+                "_id": {
+                  "$oid": "19fd9b96-944e-434c-9330-daf63f661270"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "at",
+                "_id": {
+                  "$oid": "1d1ae98d-c96e-4378-b123-27298e81bc18"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "My sister usually goes shopping _______ Friday morning.",
+            "_id": "641dafa4-f4e6-49a0-8520-ebff9bca1ca4",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "in",
+                "_id": "0180bffe-9ab3-4b81-bf2c-0bdd926238a6"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "on",
+                "_id": {
+                  "$oid": "084a10bb-b24f-456d-a978-6dabd91d1779"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "at",
+                "_id": {
+                  "$oid": "bc6bc112-6386-4c83-9b5c-971850bed9e2"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "I always do my homework _______ the evening.",
+            "_id": "87f0541b-64ff-4b4e-9309-67fcb704ff0c",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "in",
+                "_id": "5992d1ec-d3ba-47c2-8b62-0c7d918ea7a8"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "on",
+                "_id": {
+                  "$oid": "63a9903d-c976-40d0-8ff8-aed75a13a58e"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "at",
+                "_id": {
+                  "$oid": "4847a932-c1ac-43ae-a978-2a03cac300b6"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "Mai’s birthday is _______ September 16th.",
+            "_id": "fd0918b2-2fdb-46ef-b72d-de2ad7ad990f",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "in",
+                "_id": "fc1f6556-89ed-438f-9ef3-4adaa25248c4"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "on",
+                "_id": {
+                  "$oid": "58711bb3-4aa6-4cf2-8666-193f32dbb740"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "at",
+                "_id": {
+                  "$oid": "37629fe9-41d8-4fe6-95bd-1f0b50e09875"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "I usually get up _______ six o’clock.",
+            "_id": "32f72da8-0ca0-43e9-a889-6a486b0ba545",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "in",
+                "_id": "2ed2bacf-2915-481d-a12c-8ca0f800697a"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "on",
+                "_id": {
+                  "$oid": "ecb74dca-f287-4eda-b842-566af035c611"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "at",
+                "_id": {
+                  "$oid": "2d797632-3e15-4cbf-bdfb-f11e26f8c482"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "I have English and Maths ______ Monday.",
+            "_id": "0de74653-8a1d-424a-9fc3-d54a52bb080a",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "in",
+                "_id": "17cfa7e1-981b-4a50-b04c-de8cb5752177"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "on",
+                "_id": {
+                  "$oid": "5ca93e8b-d096-4d2f-b04b-9b38d5fef7db"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "at",
+                "_id": {
+                  "$oid": "9e2d84a7-ba86-41c5-a86b-5423db7e0325"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "I will give her a present ________ Christmas.",
+            "_id": "8e6dc2f4-0df4-4c61-8a66-1857fa7fc564",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "in",
+                "_id": "d976e9e6-9fc7-4dbf-9bdf-99d634465a85"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "on",
+                "_id": {
+                  "$oid": "03dd1a7f-0262-4acf-912e-d41ce8144b19"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "at",
+                "_id": {
+                  "$oid": "5e3e58a2-17e7-440a-9710-dfabdbf661a4"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:06:46",
+      "timeEnd": "0:08:14",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P7",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "They<b> <span style=\"color:blue\">(rarely / go)</span></b> ___________ to the cinema.",
+            "_id": {
+              "$oid": "c12d0cbb-d19b-47d2-b785-24a8cccebc72"
+            },
+            "yNghia": "rarely go"
+          },
+          {
+            "cauHoi": "She<b> <span style=\"color:blue\">(sometimes / read)</span></b> ________ newspapers.",
+            "_id": {
+              "$oid": "ead7a893-a420-4eff-9aac-b63797523b62"
+            },
+            "yNghia": "sometimes reads"
+          },
+          {
+            "cauHoi": "Mai <b><span style=\"color:blue\">(often / be)</span></b> __________ ill.",
+            "_id": {
+              "$oid": "58d8fcb4-87c1-4aec-9660-6cb99124b1f8"
+            },
+            "yNghia": "is often"
+          },
+          {
+            "cauHoi": "I <b><span style=\"color:blue\">(always / go)</span></b> ___________ to school by bike.",
+            "_id": {
+              "$oid": "bc7ac142-010f-4fcc-973a-4844964b01bf"
+            },
+            "yNghia": "always go"
+          },
+          {
+            "cauHoi": "He <b><span style=\"color:blue\">(never / smoke)</span></b> __________.",
+            "_id": {
+              "$oid": "0f65a179-acb1-4aa2-9b06-90ca4a5f5d53"
+            },
+            "yNghia": "never smokes"
+          },
+          {
+            "cauHoi": "Lan <b><span style=\"color:blue\">(usually / be)</span></b> ___________ very friendly.",
+            "_id": {
+              "$oid": "0b20d10b-e5ee-4b6b-8311-b5502b7617d9"
+            },
+            "yNghia": "is usually"
+          },
+          {
+            "cauHoi": "Mike<b> <span style=\"color:blue\">(often / not / listen)</span> </b>__________ to music.",
+            "_id": {
+              "$oid": "ad261e93-d990-48a0-bed5-a906bc18062d"
+            },
+            "yNghia": "doesn't often listen // does not often listen"
+          }
+        ]
+      }
+    }
+  ],
+  "noiDungVideo": [
+    {
+      "timeEnd": "0:03:59",
+      "noiDung": "<b><span style=\"color:red\">Present simple tense <i>(Thì hiện tại đơn)</i></span></b><br />\n<b>Function <i>(Cách dùng)</i></b> <br />\nThì hiện tại đơn mô tả: <br />\n- Một thói quen hay hành động lặp đi lặp lại<br />\n- Chân lý, sự thật hiển nhiên<br />\n<br />\n<b>Form <i>(Cấu trúc):</i></b> <b>Affirmative</b> <b><i>(Khẳng định)</i></b><br />\n \n<table>\n        <tbody>\n                <tr>\n                        <td><b><i>Subjective Pronouns</i></b><br />\n                        <b><i>(Đại từ chủ ngữ)</i></b></td>\n                        <td><b>Verb</b><br />\n                        <b><i>(Động từ)</i></b></td>\n                        <td> </td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">I / we / you / they</td>\n                        <td><b>go</b></td>\n                        <td>to college.</td>\n                </tr>\n                <tr>\n                        <td><b>like</b></td>\n                        <td>my job.</td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">He / she / it</td>\n                        <td><b>likes</b></td>\n                        <td>his / her job.</td>\n                </tr>\n                <tr>\n                        <td><b>goes</b></td>\n                        <td>to work by bus.</td>\n                </tr>\n                <tr>\n                        <td colspan=\"3\">Add <b><i>-s</i></b> to regular verbs. (thêm <i>-s</i> cho động từ thông thường)<br />\n                        Add <b><i>-es</i></b> to verbs ending with <i>-o, -sh, -ch</i> (thêm <i>-es</i> cho động từ có đuôi <i>-o, -sh, -ch</i>)</td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<b>Form <i>(Cấu trúc):</i></b> <b>Negative <i>(Phủ định)</i></b><br />\n \n<table>\n        <tbody>\n                <tr>\n                        <td><b>Subject Pronouns</b><br />\n                        <b><i>(Đại từ chủ ngữ)</i></b></td>\n                        <td><b>Verb</b><br />\n                        <b><i>(Động từ)</i></b></td>\n                        <td> </td>\n                </tr>\n                <tr>\n                        <td>I / we / you / they</td>\n                        <td><b>don't work</b></td>\n                        <td>in a coffee shop.</td>\n                </tr>\n                <tr>\n                        <td>He / she / it</td>\n                        <td><b>doesn't speak</b></td>\n                        <td>Spanish.</td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<b>Form <i>(Cấu trúc):</i></b> <b>Yes/No question <i>(Câu nghi vấn)</i></b><br />\n<b><i>-</i></b> <b>Yes/No question <i>(Câu nghi vấn)</i></b>\n\n<table>\n        <tbody>\n                <tr>\n                        <td><b>Do</b></td>\n                        <td>you / we / they</td>\n                        <td><b>work</b> on Saturday?</td>\n                </tr>\n                <tr>\n                        <td><b>Does</b></td>\n                        <td>he / she / it</td>\n                        <td><b>speak</b> Chinese?</td>\n                </tr>\n        </tbody>\n</table>\n <br />\n<b>-</b> <b>Short answer <i>(Câu trả lời ngắn)</i></b><br />\n+ <b>Affirmative</b> <i>(Khẳng định)</i>\n\n<table>\n        <tbody>\n                <tr>\n                        <td rowspan=\"2\">Yes,</td>\n                        <td>I / we / you / they</td>\n                        <td><b>do.</b></td>\n                </tr>\n                <tr>\n                        <td>he / she / it</td>\n                        <td><b>does.</b></td>\n                </tr>\n        </tbody>\n</table>\n<br />\n+ <b>Negative</b> <i>(Phủ định)</i>\n\n<table>\n        <tbody>\n                <tr>\n                        <td rowspan=\"2\">No,</td>\n                        <td>I / we / you / they</td>\n                        <td><b>don't.</b></td>\n                </tr>\n                <tr>\n                        <td>he / she / it</td>\n                        <td><b>doesn't.</b></td>\n                </tr>\n        </tbody>\n</table>"
+    },
+    {
+      "timeEnd": "0:06:46",
+      "noiDung": "<b><span style=\"color:red\">Prepositions of time <i>(Giới từ chỉ thời gian)</i></span></b><br />\n<b><span style=\"color:red\">1. In</span></b><br />\n<b>Months <i>(tháng)</i></b>: in January / in April<br />\n<b>Seasons <i>(mùa)</i></b>: in spring / in winter<br />\n<b>Years <i>(năm)</i></b>: in 1984 / in 2015<br />\n<b>Centuries <i>(thế kỷ)</i></b>: in the 20th century<br />\n<b>Times of day <i>(thời điểm trong ngày)</i></b>: in the morning / in the evening<br />\n<b>Longer periods of time <i>(giai đoạn thời gian)</i></b>: in the past / in the 1990s / in the holidays<br />\n<br />\n<b><span style=\"color:red\">2. On</span></b><br />\n<b>Days of the week <i>(ngày trong tuần)</i></b>: on Monday<br />\n<b>Days + parts of days <i>(ngày + thời điểm trong ngày)</i></b>: on Tuesday afternoon / on Saturday mornings<br />\n<b>Dates <i>(ngày trong lịch)</i></b>: on November 22nd<br />\n<b>Special days <i>(ngày đặc biệt)</i></b>: on my birthday / on New Year's Eve<br />\n<b>Exceptions <i>(ngoại lệ)</i></b>: on the weekend<br />\n<br />\n<b><span style=\"color:red\">3. At</span></b><br />\n<b>Clock times <i>(giờ đồng hồ)</i></b>: <i></i>at 7.30 a.m. / at 5 o'clock<br />\n<b>Festivals <i>(ngày lễ)</i></b>: at Christmas / at Easter<br />\n<b>Exceptions <i>(ngoại lệ)</i></b>: at night / at the weekend"
+    },
+    {
+      "timeEnd": "0:08:14",
+      "noiDung": "<span style=\"color:red\"><b>Adverb of frequency <i>(Trạng từ tần suất)</i></b></span> <b><i></i></b><br />\n<b>Function <i>(Cách dùng)</i></b><br />\nTrạng từ tần suất dùng để mô tả tần suất xảy ra nhiều hay ít của hành động được nói đến.<br />\n \n<table>\n        <tbody>\n                <tr>\n                        <td><b>Adverb of Frequency</b><br />\n                        <b><i>(Trạng từ tần suất)</i></b></td>\n                        <td><b>Frequency</b><br />\n                        <b><i>(Tần suất)</i></b></td>\n                </tr>\n                <tr>\n                        <td>always</td>\n                        <td>100%</td>\n                </tr>\n                <tr>\n                        <td>usually</td>\n                        <td>85%</td>\n                </tr>\n                <tr>\n                        <td>often</td>\n                        <td>70%</td>\n                </tr>\n                <tr>\n                        <td>sometimes</td>\n                        <td>30%</td>\n                </tr>\n                <tr>\n                        <td>rarely</td>\n                        <td>10%</td>\n                </tr>\n                <tr>\n                        <td>never</td>\n                        <td>0%</td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<b>Form <i>(Cấu trúc)</i></b>\n\n<table>\n        <tbody>\n                <tr>\n                        <td><b>Subject</b><br />\n                        <b><i>(Chủ ngữ)</i></b></td>\n                        <td><b><i>To be</i></b></td>\n                        <td><b>Adverb of Frequency</b><br />\n                        <b><i>(Trạng từ tần suất)</i></b></td>\n                </tr>\n        </tbody>\n</table>\nVí dụ:<br />\nThe store is <b>always</b> open.<br />\nThey are <b>usually</b> late.<br />\n \n<table>\n        <tbody>\n                <tr>\n                        <td><b>Subject</b><br />\n                        <b><i>(Chủ ngữ)</i></b></td>\n                        <td><b>Adverb of Frequency</b><br />\n                        <b><i>(Trạng từ tần suất)</i></b></td>\n                        <td><b>Verb</b><br />\n                        <b><i>(Động từ)</i></b></td>\n                </tr>\n        </tbody>\n</table>\nVí dụ:<br />\nI <b>often</b> have breakfast at 7 a.m.<br />\nMy parents <b>sometimes</b> stay at the hotel."
+    }
+  ]
+}

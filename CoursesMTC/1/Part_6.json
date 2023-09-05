@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "7337d72f-2b9a-4cd9-9910-5662a47d13c3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Linda:</b></td>\r\n\t\t\t<td>The first question: What is special about technology?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Mike:</b></td>\r\n\t\t\t<td>I think technology improves our <b>(1)</b> ____ of life.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Linda:</b></td>\r\n\t\t\t<td>Can you give some <b>(2)</b> ____ of that?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Mike:</b></td>\r\n\t\t\t<td>It <b>(3)</b> ____ routine chores, for example, washing machines and <b>(4)</b> ____.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Linda:</b></td>\r\n\t\t\t<td>I totally agree with you. We don't have to spend much time doing that.</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td>\r\n                        <td>The first question: What is special about technology?<br />\r\n                        <i>Câu hỏi đầu tiên: Công nghệ có gì đặc biệt?</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\r\n                        <td>I think technology improves our <b>(1)</b> <b><span style=\"color:red\">quality</span> </b> of life.<br />\r\n                        <i>Tôi nghĩ rằng công nghệ cải thiện </i><i><span style=\"color:red\">chất lượng </span> </i><i>cuộc sống của chúng ta.</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td>\r\n                        <td>Can you give some <b>(2)</b> <b><span style=\"color:red\">examples</span> </b> of that?<br />\r\n                        <i>Bạn có thể đưa ra một số </i><i><span style=\"color:red\">ví dụ </span> </i><i>về điều đó?</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\r\n                        <td>It <b>(3)</b> <b><span style=\"color:red\">eliminates</span> </b> routine chores, for example, washing machines and <b>(4)</b> <b><span style=\"color:red\">dishwashers</span> </b>.<br />\r\n                        <i>Nó <span style=\"color:red\">loại bỏ</span>  các công việc thường ngày, chẳng hạn như máy giặt và <i><span style=\"color:red\">máy rửa chén</span> </i><i>.</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td>\r\n                        <td>I totally agree with you. We don't have to spend much time doing that.<br />\r\n                        <i>Tôi hoàn toàn đồng ý với bạn. Chúng ta không phải mất nhiều thời gian để làm điều đó.</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "quality",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "008fa6be-88ed-4066-bb28-6e60f68d9f9e"
+          }
+        },
+        {
+          "dapAn": "examples",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "7c7a5eeb-dba4-4b5b-80fa-2b2580a7d259"
+          }
+        },
+        {
+          "dapAn": "eliminates",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ed90f935-ac8e-4e69-8de1-54b0bf2941c9"
+          }
+        },
+        {
+          "dapAn": "dishwashers",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "bed83180-e218-48c4-bf85-182f07747937"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9199fdf8-28b9-4803-a3c5-c176acfe8aa4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\n                        <td colspan=\"2\">Moreover, thanks to technology, we're able to communicate easily with friends and family from a far <b>(1) </b>____<i>.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td>\n                        <td colspan=\"2\">It has been the greatest scientific <b>(2) </b>____ of the decade.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\n                        <td colspan=\"2\">Exactly!</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td>\n                        <td colspan=\"2\">Do you know how <b>(3)</b> ____ people use technology?<br />\n                         </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\n                        <td colspan=\"2\">It depends on their individual <b>(4) </b>____ and preferences.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\n                        <td>Moreover, thanks to technology, we're able to communicate easily with friends and family from a far <b>(1) </b><b><span style=\"color:red\">distance</span> </b>.<br />\n                        <i>Hơn nữa, nhờ công nghệ, chúng ta có thể liên lạc dễ dàng với bạn bè và gia đình từ xa.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td>\n                        <td>It has been the greatest scientific <b>(2) </b><b><span style=\"color:red\">achievement</span> </b> of the decade.<br />\n                        <i>Đó là </i><i><span style=\"color:red\">thành tựu </span> </i><i>khoa học vĩ đại nhất của thập kỷ.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\n                        <td>Exactly!<br />\n                        <i>Chính xác!</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td>\n                        <td>Do you know how <b>(3)</b> <b><span style=\"color:red\">disabled </span> </b>people use technology?<br />\n                        <i>Bạn có biết </i><i><span style=\"color:red\">người khuyết tật </span> </i><i>sử dụng công nghệ như thế nào không</i><i>?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\n                        <td>It depends on their individual <b>(4) </b><b><span style=\"color:red\">needs</span> </b> and preferences.<br />\n                        <i>Nó phụ thuộc vào </i><i><span style=\"color:red\">nhu cầu </span> </i><i>và sở thích cá nhân của họ.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "distance",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "73a02a9e-a287-4aea-92cd-335bca121814"
+          }
+        },
+        {
+          "dapAn": "achievement",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "91ecc9ad-d553-457b-b724-3c5b92569f0b"
+          }
+        },
+        {
+          "dapAn": "disabled",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f9bca279-02ae-4420-ae6d-1d42e986ff1e"
+          }
+        },
+        {
+          "dapAn": "needs",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "046ec525-7f36-470d-aea3-e016768b76b2"
+          }
+        },
+        {
+          "dapAn": "name",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "1a179600-8b16-4298-acc2-8dd5cd9cefcf"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "dcbdd6bc-fbb0-47c9-b3ae-b243f1a39839"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Linda:</b></td>\r\n\t\t\t<td colspan=\"4\">Do you know Hugh Herr, co-director of the MIT Center for Extreme Bionics?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Mike:</b></td>\r\n\t\t\t<td colspan=\"4\">I haven't heard that <b>(1) </b>____ before. What did he do?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Linda:</b></td>\r\n\t\t\t<td colspan=\"4\">He designed and developed new <b>(2) </b>____ legs after losing both of his <b>(3) </b>____.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Mike:</b></td>\r\n\t\t\t<td colspan=\"4\">He is amazing! Through the use of technology, we are changing the world that is <b>(4)  </b>____ to us.</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td>\n                        <td>Do you know Hugh Herr, co-director of the MIT Center for Extreme Bionics?<br />\n                        <i>Bạn có biết Hugh Herr, đồng giám đốc của Trung tâm Extreme Bionics MIT không?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\n                        <td>I haven't heard that <b>(1) </b><b><span style=\"color:red\">name </span> </b>before. What did he do?<br />\n                        <i>Tôi chưa từng nghe </i><i><span style=\"color:red\">cái tên </span> </i><i>đó trước đây. Anh ấy đã làm gì?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td>\n                        <td>He designed and developed new <b>(2) </b><b><span style=\"color:red\">bionic</span> </b> legs after losing both of his <b>(3) </b><b><span style=\"color:red\">legs</span> </b>.<br />\n                        <i>Anh ấy đã thiết kế và phát triển đôi chân </i><i><span style=\"color:red\">sinh học </span> </i><i>mới sau khi mất cả hai </i><i><span style=\"color:red\">chân</span> </i><i>.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\n                        <td>He is amazing! Through the use of technology, we are changing the world that is <b>(4)  </b><b><span style=\"color:red\">accessible</span> </b> to us.<br />\n                        <i>Anh ấy thật tuyệt! Thông qua việc sử dụng công nghệ, chúng ta đang thay đổi thế giới mà chúng ta có thể </i><i><span style=\"color:red\">tiếp cận </span> </i><i>được.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "bionic",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "97c58e0e-8890-40b2-bada-c00354fe8f42"
+          }
+        },
+        {
+          "dapAn": "legs",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "b5a9ddd4-0ff9-4c10-ba20-5ddff0c4a30a"
+          }
+        },
+        {
+          "dapAn": "accessible",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8f395446-bf37-4f0c-a738-e0e34cc4fb7c"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ef048aa9-79f5-4591-9c9f-1ae2aca601af"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Chess doesn't make the headlines very frequently, but Judit Polgar defeated Dolfi in a game in 1986. Obviously, it is great for anyone to <b>(1)</b> ____ this, but Judit was only 10 years old when the <b>(2)</b> ____ took place. She was <b>(3) </b>____ by all of her opponents to have a \"killer instinct,\" and her <b>(4)</b> ____ really impressed them.",
+      "yNghia": "Chess doesn't make the headlines very frequently, but Judit Polgar defeated Dolfi in a game in 1986. Obviously, it is great for any to <b>(1)</b> <b><span style=\"color:red\">achieve</span> </b> this, but Judit was only 10 years old when the <b>(2)</b> <b><span style=\"color:red\">match</span> </b> took place. She was <b>(3) </b><b><span style=\"color:red\">claimed</span> </b> by all of her opponents to have a \"killer instinct,\" and her <b>(4)</b> <b><span style=\"color:red\">development</span> </b> really impressed them. <br />\n<i><span style=\"color:#202124\">Cờ vua không thường xuyên xuất hiện trên các tiêu đề, nhưng Judit Polgar đã đánh bại Dolfi trong một ván đấu vào năm 1986. Rõ ràng, thật tuyệt vời nếu bất kỳ ai </span> </i><i><span style=\"color:red\">đạt được</span> </i><i><span style=\"color:#202124\"> điều này, nhưng Judit chỉ mới 10 tuổi khi </span> </i><i><span style=\"color:red\">trận đấu </span> </i><i><span style=\"color:#202124\">diễn ra . Cô ấy được tất cả các đối thủ </span> </i><i><span style=\"color:red\">khẳng định </span> </i><i><span style=\"color:#202124\">là có bản năng </span> </i><i><span style=\"color:#202124\">\"</span> </i><i><span style=\"color:#202124\">sát thủ\", và </span> </i><i><span style=\"color:red\">sự phát triển </span> </i><i><span style=\"color:#202124\">của cô ấy thực sự gây ấn tượng với họ.</span> </i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "achieve",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "fad7385d-83fe-46d2-8f76-fc5384998038"
+          }
+        },
+        {
+          "dapAn": "match",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "5cf376c9-d9be-44ea-a44d-3bb353d26c8e"
+          }
+        },
+        {
+          "dapAn": "claimed",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ebfa69e1-b394-4448-b1c4-288059fb48c7"
+          }
+        },
+        {
+          "dapAn": "development",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "56d02c55-6227-49e7-b2b2-43bb17ccc0c6"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "01549a9f-0887-49a7-b132-d1b032c217b8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<b>(1) </b>____ is another area where computer connections are having a significant impact. Facebook is now working on a \"silent speech\" project, which involves developing computers that can understand what people are thinking and allow them to type messages with their minds. This approach can assist persons who are <b>(2)</b> ____ due to <b>(3)</b> ____ or injury. It can also benefit <b>(4)</b> ____ folks who desire to type their ideas quickly.",
+      "yNghia": "<b>(1)</b><b><span style=\"color:red\"> Communication</span> </b> is another area where computer connections are having a significant impact. Facebook is now working on a \"silent speech\" project, which involves developing computers that can understand what people are thinking and allow them to type messages with their minds. This approach can assist persons who are <b>(2)</b> <b><span style=\"color:red\">disabled</span> </b> due to <b>(3)</b> <b><span style=\"color:red\">disease</span> </b> or injury. It can also benefit <b>(4)</b> <b><span style=\"color:red\">able-bodied</span> </b> folks who desire to type their ideas quickly.<br />\n<i><span style=\"color:red\">Truyền thông </span> </i><i><span style=\"color:#202124\">là một lĩnh vực khác mà các kết nối máy tính đang có tác động đáng kể. Facebook hiện đang thực hiện một dự án \"lời nói im lặng\", liên quan đến việc phát triển các máy tính có thể hiểu mọi người đang nghĩ gì và cho phép họ nhập tin nhắn bằng tâm trí. Cách tiếp cận này có thể hỗ trợ những người </span> </i><i><span style=\"color:red\">bị tàn tật </span> </i><i><span style=\"color:#202124\">do </span> </i><i><span style=\"color:red\">bệnh tật </span> </i><i><span style=\"color:#202124\">hoặc thương tích. Nó cũng có thể mang lại lợi ích cho những người </span> </i><i><span style=\"color:red\">khỏe mạnh </span> </i><i><span style=\"color:#202124\">mong muốn nhập ý tưởng của họ một cách nhanh chóng</span> </i><i><span style=\"color:#202124\">.</span> </i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "Communication",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8afee05c-2dd4-4a91-8ca7-de703cdfae6b"
+          }
+        },
+        {
+          "dapAn": "disabled",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2d5a2d94-684e-4bf3-be21-95330a54e2e1"
+          }
+        },
+        {
+          "dapAn": "disease",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "87fa975e-d9e0-4008-8b3e-9b5d7db315aa"
+          }
+        },
+        {
+          "dapAn": "able-bodied",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8bf158de-de31-41fa-b31f-145f1e7ff886"
+          }
+        }
+      ]
+    }
+  ]
+}

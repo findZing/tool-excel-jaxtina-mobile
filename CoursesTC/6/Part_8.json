@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_TC_L6/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_TC_L6/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "a7a3a001-b6f4-41f0-81d9-cd3454ba95eb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Pedro",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a5e9d7ac-f619-41b0-a437-7fdd36423a1b"
+          },
+          "dapAn": "Do you like watching TV?",
+          "phienAm": "/duː juː laɪk ˈwɒʧɪŋ ˌtiːˈviː/",
+          "yNghia": "\nBạn thích xem TV không?",
+          "normal": {
+            "start": "00:00:00.840",
+            "end": "00:00:02.584"
+          },
+          "slow": {
+            "start": "00:00:00.650",
+            "end": "00:00:02.996"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "bbabd0a9-a053-4d72-8d2f-af305d2caa2c"
+          },
+          "dapAn": "Oh, really? Why is that?",
+          "phienAm": "/əʊ ˈrɪəli/. /waɪ ɪz ðæt/",
+          "yNghia": "\nỒ vậy ư? Tại sao?",
+          "normal": {
+            "start": "00:00:10.901",
+            "end": "00:00:13.086"
+          },
+          "slow": {
+            "start": "00:00:14.417",
+            "end": "00:00:17.357"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d8b5f433-bc51-4cde-982d-e6934980c1cd"
+          },
+          "dapAn": "I hate those! We are both impatient.",
+          "phienAm": "/aɪ heɪt ðəʊz/. /wiː ɑːr bəʊθ ɪmˈpeɪʃnt/",
+          "yNghia": "\nTôi ghét những thứ đó! Cả hai chúng ta đều thiếu kiên nhẫn.",
+          "normal": {
+            "start": "00:00:19.744",
+            "end": "00:00:23.000"
+          },
+          "slow": {
+            "start": "00:00:24.890",
+            "end": "00:00:28.495"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e6df923c-5eae-40e6-a0f4-c3e0d52b4440"
+          },
+          "dapAn": "Yeah. You can’t do that with TV.",
+          "phienAm": "/jeə/. /juː kɑːnt duː ðæt wɪð ˌtiːˈviː/",
+          "yNghia": "\nỪ đúng. Bạn không thể làm điều đó với TV.",
+          "normal": {
+            "start": "00:00:30.288",
+            "end": "00:00:32.914"
+          },
+          "slow": {
+            "start": "00:00:37.357",
+            "end": "00:00:40.537"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "56c8aec4-a9ee-4142-862d-f3ae13130589"
+          },
+          "dapAn": "Ah, I see. Do you like to binge-watch shows?",
+          "phienAm": "/ɑːr aɪ siː/. /duː juː laɪk tuː bɪnʤ-wɒʧ ʃəʊz/",
+          "yNghia": "\nÀ tôi hiểu. Bạn có thích xem các chương trình nhiều tập một lúc không?",
+          "normal": {
+            "start": "00:00:39.131",
+            "end": "00:00:43.290"
+          },
+          "slow": {
+            "start": "00:00:49.979",
+            "end": "00:00:54.700"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "69a65cad-7fae-4b5a-8e0b-b5fd597826f5"
+          },
+          "dapAn": "I sometimes watch TV, but I never really watch anything for very long.",
+          "phienAm": "/aɪ ˈsʌmtaɪmz wɒʧ ˌtiːˈviː bʌt aɪ ˈnevər ˈrɪəli wɒʧ ˈenɪθɪŋ fɔːr ˈveri lɒŋ/",
+          "yNghia": "\nTôi thỉnh thoảng xem TV, nhưng tôi không bao giờ thực sự xem bất cứ điều gì trong một thời gian dài.",
+          "normal": {
+            "start": "00:00:49.276",
+            "end": "00:00:54.507"
+          },
+          "slow": {
+            "start": "00:01:04.155",
+            "end": "00:01:14.841"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8b4c8061-c9ed-4c94-a1c1-91ed6d896db2"
+          },
+          "dapAn": "Nope. I seldomly watch all the episodes.",
+          "phienAm": "/ nəʊp/. /aɪ ˈseldəmli wɒʧ ɔːl ði ˈepɪsəʊdz/",
+          "yNghia": "\nKhông. Tôi hiếm khi xem tất cả các tập phim.",
+          "normal": {
+            "start": "00:01:02.971",
+            "end": "00:01:06.290"
+          },
+          "slow": {
+            "start": "00:01:26.968",
+            "end": "00:01:31.223"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "956e9d80-4b7f-48d9-a893-3d9ec91f642c"
+          },
+          "dapAn": "Me too. I usually channel-surf for a while then turn the TV off and go to bed.",
+          "phienAm": "/miː tuː. aɪ ˈjuːʒʊəli ˈʧænl-sɜːf fɔːr eɪ waɪl ðen tɜːn ðə ˌtiːˈviː ɒf ænd gəʊ tuː bed/",
+          "yNghia": "\nTôi cũng thế. Tôi thường lướt kênh một lúc rồi tắt TV và đi ngủ.",
+          "normal": {
+            "start": "00:01:13.348",
+            "end": "00:01:19.607"
+          },
+          "slow": {
+            "start": "00:01:42.191",
+            "end": "00:01:50.714"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e0a2bd31-3487-490f-85c9-5139a151c532"
+          },
+          "dapAn": "Well, I can’t stay up late.",
+          "phienAm": "/wel aɪ kɑːnt steɪ ʌp leɪt/",
+          "yNghia": "\nỪ thì, tôi không thể thức khuya.",
+          "normal": {
+            "start": "00:01:23.787",
+            "end": "00:01:25.992"
+          },
+          "slow": {
+            "start": "00:01:54.728",
+            "end": "00:01:57.413"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a79fa29f-8db2-40bc-966b-3d38667f5687"
+          },
+          "dapAn": "Maybe you can change your viewing habit. It’s not good for your health.",
+          "phienAm": "/ˈmeɪbiː juː kæn ʧeɪnʤ jɔːr ˈvjuːɪŋ ˈhæbɪt/. /ɪts nɒt gʊd fɔːr jɔːr helθ/",
+          "yNghia": "\nCó lẽ bạn có thể thay đổi thói quen xem của bạn. Nó không tốt cho sức khỏe đâu.",
+          "normal": {
+            "start": "00:01:33.155",
+            "end": "00:01:37.125"
+          },
+          "slow": {
+            "start": "00:02:06.813",
+            "end": "00:02:12.509"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "caed701b-a730-44ad-ac7e-d1b9c1de0a97"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "June",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5b2e4c19-ffe6-4799-9aa1-9e406f7d90c6"
+          },
+          "dapAn": "Not so much. I prefer to stream things over Wi-Fi and watch them on my tablet.",
+          "phienAm": "/nɒt səʊ mʌʧ/. /aɪ priˈfɜː tuː striːm θɪŋz ˈəʊvə wai-faɪ ænd wɒʧ ðem ɒn maɪ ˈtæblɪt/",
+          "yNghia": "\nKhông thích lắm. Tôi thích xem mọi thứ bằng Wi-Fi và xem chúng trên máy tính bảng của mình.",
+          "normal": {
+            "start": "00:00:03.613",
+            "end": "00:00:09.914"
+          },
+          "slow": {
+            "start": "00:00:03.350",
+            "end": "00:00:13.343"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3a76a4ec-3947-4372-ac42-d0180321a9e0"
+          },
+          "dapAn": "Well for one, you don’t have to watch annoying commercials.",
+          "phienAm": "/wel fɔːr wʌn juː dəʊnt hæv tuː wɒʧ əˈnɔɪɪŋ kəˈmɜːʃlz/",
+          "yNghia": "\nĐầu tiên, bạn không cần phải xem những quảng cáo phiền phức.",
+          "normal": {
+            "start": "00:00:14.010",
+            "end": "00:00:18.484"
+          },
+          "slow": {
+            "start": "00:00:18.148",
+            "end": "00:00:23.802"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6562e1ee-2e25-4b91-b83a-851bad710577"
+          },
+          "dapAn": "I see. Also, I can watch my favourite movies at any time.",
+          "phienAm": "/aɪ siː/. /ˈɔːlsəʊ aɪ kæn wɒʧ maɪ ˈfeɪvərɪt ˈmuːviz æt ˈeni taɪm/",
+          "yNghia": "\nTôi hiểu. Ngoài ra, tôi có thể xem những bộ phim yêu thích của mình bất cứ lúc nào.",
+          "normal": {
+            "start": "00:00:24.449",
+            "end": "00:00:29.175"
+          },
+          "slow": {
+            "start": "00:00:29.654",
+            "end": "00:00:36.424"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d5469c62-7b71-4fcd-82e6-a43250e0809e"
+          },
+          "dapAn": "Totally agree. It’s the reason why TV is not my first choice.",
+          "phienAm": "/ˈtəʊtli əˈgriː/. /ɪts ðə ˈriːzn waɪ ˌtiːˈviː ɪz nɒt maɪ fɜːst ʧɔɪs/",
+          "yNghia": "\nHoàn toàn đồng ý. Đó là lý do tại sao TV không phải là lựa chọn đầu tiên của tôi.",
+          "normal": {
+            "start": "00:00:34.069",
+            "end": "00:00:38.375"
+          },
+          "slow": {
+            "start": "00:00:41.611",
+            "end": "00:00:48.890"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5fda7313-f7f3-423f-a16f-19077f26197a"
+          },
+          "dapAn": "Yeah, there are so many interesting movies that I can’t take my eyes off.",
+          "phienAm": "/jeə ðeər ɑːr səʊ ˈmeni ˈɪntrɪstɪŋ ˈmuːviz ðæt aɪ kɑːnt teɪk maɪ aɪz ɒf/",
+          "yNghia": "\nCó, có rất nhiều bộ phim thú vị mà tôi không thể rời mắt.",
+          "normal": {
+            "start": "00:00:44.298",
+            "end": "00:00:48.142"
+          },
+          "slow": {
+            "start": "00:00:55.491",
+            "end": "00:01:03.307"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "de362381-9082-479d-b631-f201b76752e0"
+          },
+          "dapAn": "I just do it when I have a lot of spare time. Would you be a fan of crime series?",
+          "phienAm": "/aɪ ʤʌst duː ɪt wen aɪ hæv eɪ lɒt ɒv speər taɪm/. /wʊd juː biː eɪ fæn ɒv kraɪm ˈsɪəriːz/",
+          "yNghia": "\nTôi chỉ xem khi tôi có nhiều thời gian rảnh rỗi. Bạn có phải fan của loạt phim tội phạm không?",
+          "normal": {
+            "start": "00:00:55.704",
+            "end": "00:01:01.627"
+          },
+          "slow": {
+            "start": "00:01:15.943",
+            "end": "00:01:25.470"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d4cef1b8-f802-4d10-99fd-764d59af38e1"
+          },
+          "dapAn": "I often watch the first and the last episodes to see the end quickly.",
+          "phienAm": "/aɪ ˈɒftən wɒʧ ðə fɜːst ænd ðə lɑːst ˈepɪsəʊdz tuː siː ði end ˈkwɪkli/",
+          "yNghia": "\nTôi thường xem tập đầu và tập cuối để xem kết thúc nhanh.",
+          "normal": {
+            "start": "00:01:07.592",
+            "end": "00:01:12.171"
+          },
+          "slow": {
+            "start": "00:01:32.636",
+            "end": "00:01:37.922"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "32da3b36-f5f6-47a4-9679-d2b9be4d2ce9"
+          },
+          "dapAn": "So organized you are!",
+          "phienAm": "/səʊ ˈɔːgənaɪzd juː ɑːr/",
+          "yNghia": "\nBạn quy củ thật đấy!",
+          "normal": {
+            "start": "00:01:20.699",
+            "end": "00:01:22.695"
+          },
+          "slow": {
+            "start": "00:01:51.293",
+            "end": "00:01:53.456"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2fca92db-895c-410c-a26d-41e5a49c736c"
+          },
+          "dapAn": "I am so addicted to watching films and shows that I can just watch them all day.",
+          "phienAm": "/aɪ æm səʊ əˈdɪktɪd tuː ˈwɒʧɪŋ fɪlmz ænd ʃəʊz ðæt aɪ kæn ʤʌst wɒʧ ðem ɔːl deɪ/",
+          "yNghia": "\nTôi nghiện xem phim và chương trình đến mức tôi có thể xem chúng cả ngày.",
+          "normal": {
+            "start": "00:01:26.412",
+            "end": "00:01:31.873"
+          },
+          "slow": {
+            "start": "00:01:58.177",
+            "end": "00:02:05.484"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "aa60bf93-dba9-4c80-a5e5-c3ccc92f72c1"
+          },
+          "dapAn": "You’re right. I’ll think about it.",
+          "phienAm": "/jʊər raɪt/. /aɪl θɪŋk əˈbaʊt ɪt/",
+          "yNghia": "\nBạn nói đúng. Tôi sẽ nghĩ về nó.",
+          "normal": {
+            "start": "00:01:38.217",
+            "end": "00:01:40.149"
+          },
+          "slow": {
+            "start": "00:02:12.678",
+            "end": "00:02:15.449"
+          }
+        }
+      ]
+    }
+  ]
+}

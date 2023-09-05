@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "8ee6b847-60b3-475b-b1d6-84af31bcaaf0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Nathan:</b></td> \n                        <td>What is <b>(1)<span style=\"color:red\"> </span></b>________<span style=\"color:red\"> </span>my bag? </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mom:</b></td> \n                        <td>Your lunch is in the <b>(2) </b>________.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Nathan:</b></td> \n                        <td>Is my <b>(3)</b> ________ in my bag?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mom:</b></td> \n                        <td>Yes, it <b>(4) </b>________.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table> <tbody> <tr> <td><b>Nathan:</b></td> <td>What is <b>(1)<span style=\"color:red\"> in</span> </b><span style=\"color:red\"> </span> my bag? </td> </tr> <tr> <td> </td> <td><i><span style=\"color:red\">Trong</span>  cặp của con có cái gì vậy ạ?</i></td> </tr> <tr> <td><b>Mom:</b></td> <td>Your lunch is in the <b>(2) <span style=\"color:red\">bag</span> </b>.</td> </tr> <tr> <td> </td> <td><i>Đồ ăn trưa của con ở trong <span style=\"color:red\">cặp</span> .</i></td> </tr> <tr> <td><b>Nathan:</b></td> <td>Is my <b>(3)</b> <b><span style=\"color:red\">laptop</span> </b> in my bag?</td> </tr> <tr> <td> </td> <td><i><span style=\"color:red\">Máy tính xách tay</span>  của con có ở trong cặp không ạ?</i></td> </tr> <tr> <td><b>Mom:</b></td> <td>Yes, it <b>(4) <span style=\"color:red\">is</span> </b>.</td> </tr> <tr> <td> </td> <td><i>Có, nó ở trong cặp.</i></td> </tr> </tbody> </table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "in",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "4e5c4b9b-a606-41b1-a03f-281ecee2ef8b"
+          }
+        },
+        {
+          "dapAn": "bag",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "b1d97f58-ba58-404d-ac8a-4cd8dce5c01d"
+          }
+        },
+        {
+          "dapAn": "laptop",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "1bbf1014-ee31-4ace-bf5f-92557122e407"
+          }
+        },
+        {
+          "dapAn": "is",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8f4810c2-34d0-4699-a43d-4139bb0dbb08"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ff50d3f8-6562-4958-b16c-715ea1141af8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The <b>(1) </b>_________ is very big. There are <b>(2) </b>_________ windows – one is big and one<b> (3)</b> _________ small. There is a desk <b>(4)<span style=\"color:red\"> </span></b>_________<b> </b>the big window.<br />",
+      "yNghia": "The <b>(1) <span style=\"color:red\">room</span> </b> is very big. There are <b>(2) <span style=\"color:red\">two</span> </b> windows – one is big and one<b> (3)</b> <span style=\"color:red\"><b>is</b></span>  small. There is a desk <b>(4)<span style=\"color:red\"> in front of</span>  </b>the big window.<br />\r\n<i><span style=\"color:red\">Căn phòng</span>  rất to. Có <span style=\"color:red\">hai</span>  cửa sổ - một cái thì lớn còn một cái <span style=\"color:red\">thì</span>  nhỏ. Có một cái bàn làm việc <span style=\"color:red\">ở phía trước</span>  cửa sổ lớn.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "room",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "685d3f25-2f58-45d1-85b6-b10c5caa5b74"
+          }
+        },
+        {
+          "dapAn": "two",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "49ff9f8f-6170-4b8a-aaa8-d14d1a1ec26e"
+          }
+        },
+        {
+          "dapAn": "is",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "bbabe822-796f-4d44-9956-f8d49850b1d0"
+          }
+        },
+        {
+          "dapAn": "in front of",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a0be722e-488c-4eda-bda5-52fd4602b8d9"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1ecdf26e-442d-42f0-a279-17c63ed4ec2f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<b>(1) </b>_________<b> </b>my backpack, there is a laptop <b>(2) </b>_________. There are <b>(3) </b>_________<b> </b>notebooks. There are three pens and there is a <b>(4) </b>_________.",
+      "yNghia": "<b>(1) <span style=\"color:red\">In</span>  </b>my backpack, there is a laptop <b>(2) <span style=\"color:red\">case</span> </b>. There are <b>(3) <span style=\"color:red\">two</span>  </b>notebooks. There are three pens and there is a <b>(4) <span style=\"color:red\">wallet</span> </b>.<br />\r\n<i><span style=\"color:red\">Trong</span>  ba lô của tôi có một chiếc <span style=\"color:red\">cặp</span>  đựng máy tính xách tay. Có<span style=\"color:red\"> hai </span>  cuốn sổ ghi chú. Có ba cái bút và có một <span style=\"color:red\">cái ví</span> .</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "In",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "17bb0099-8996-4172-b862-7d9aa626dd34"
+          }
+        },
+        {
+          "dapAn": "case",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "89b10f1d-945b-4891-8c0c-1e708e50a670"
+          }
+        },
+        {
+          "dapAn": "two ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "b6839674-f8ac-4a24-8ddd-858cc385dfa0"
+          }
+        },
+        {
+          "dapAn": "wallet",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "b735570f-ab02-4cf9-bffa-ea3bf8d2ffb7"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "501f6d07-6e1f-41fe-9c82-0c30c84555c2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Catherine:</b></td> \n                        <td><b>(1) </b>_________ are you from? </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>John:</b></td> \n                        <td>I <b>(2) </b>_________ from France.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Catherine:</b></td> \n                        <td><b>(3) </b>_________<b><span style=\"color:red\"> </span></b>your home in France?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>John:</b></td> \n                        <td>Yes, it is. It's a <b>(4) </b>_________<b> </b>apartment.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table> <tbody> <tr> <td style=\"vertical-align: top;\"><b>Catherine:</b></td> <td><b>(1) <span style=\"color:red\">Where</span> </b> are you from? </td> </tr> <tr> <td> </td> <td><i>Bạn đến từ <span style=\"color:red\">đâu</span> ?</i></td> </tr> <tr> <td style=\"vertical-align: top;\"><b>John:</b></td>  <td>I <b>(2) <span style=\"color:red\">am</span> </b> from France.</td> </tr> <tr> <td> </td> <td><i>Tôi đến từ Pháp.</i></td> </tr> <tr> <td style=\"vertical-align: top;\"><b>Catherine:</b></td>  <td> <b>(3) <span style=\"color:red\">Is </span> </b>your home in France?</td> </tr> <tr> <td> </td> <td><i><span style=\"color:red\">Có phải </span> nhà của bạn ở Pháp không?</i></td> </tr> <tr> <td style=\"vertical-align: top;\"><b>John:</b></td>  <td>Yes, it is. It's a <b>(4) <span style=\"color:red\">big</span>  </b>apartment.</td> </tr> <tr> <td> </td> <td><i>Vâng, đúng vậy. Nó là một căn hộ <span style=\"color:red\">lớn</span> .</i></td> </tr> </tbody> </table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "Where",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ef3fed2e-7fa6-4eb1-b3c0-0c5654a87d94"
+          }
+        },
+        {
+          "dapAn": "am",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "1c2ca2c2-70c4-450f-a81e-6a5415901842"
+          }
+        },
+        {
+          "dapAn": "Is",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8831af1f-3cb1-4ccc-99b4-36f3fb67e589"
+          }
+        },
+        {
+          "dapAn": "big",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0c6545ef-6f6f-4e74-a88f-36f6a317373d"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b2c817ac-8526-4cdf-822b-1619912a86b8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I need to<b> (1) </b>_________ a few <b>(2) </b>_________ and notebooks for my children. I will take the<b> (3) </b>_________ with the (<b>4) </b>_________ cover.",
+      "yNghia": "I need to<b> (1) <span style=\"color:red\">buy</span> </b> a few <b>(2) <span style=\"color:red\">pens</span> </b> and notebooks for my children. I will take the<b> (3) <span style=\"color:red\">notebooks</span> </b> with the <b>(4) <span style=\"color:red\">pink</span> </b> cover.<br />\n<i>Tôi cần <span style=\"color:red\">mua</span>  một vài <span style=\"color:red\">cái bút</span>  và những cuốn sổ ghi chú cho những đứa con của tôi. Tôi sẽ mua <span style=\"color:red\">những cuốn sổ ghi chú</span>  có bìa <span style=\"color:red\">màu hồng</span> .</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "buy",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "4668321f-ab6f-4c94-aea5-6ee233036b6d"
+          }
+        },
+        {
+          "dapAn": "pens",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "52fdf157-f40c-44d2-80e7-17d7a628e4a8"
+          }
+        },
+        {
+          "dapAn": "notebooks",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "eb7af66c-1b34-49da-95e7-d2fd4a9a10b4"
+          }
+        },
+        {
+          "dapAn": "pink",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "bc8d545d-105f-46f3-b8bf-65846ace0175"
+          }
+        }
+      ]
+    }
+  ]
+}

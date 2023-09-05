@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "61acb655-a895-4f83-812b-7042bc3fb4db"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td>Hello everyone. I'm talking to the music producer, Scott Fleming. Scott, how did you get into the music <b>(1)</b> <b>______</b>?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Scott:</b></td> \n                        <td>I started as a sound <b>(2)</b> <b>______</b>. I used to <b>(3)</b>______ the sound levels at music <b>(4) </b>______.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table> \n<tbody> \n<tr> \n<td style=\"vertical-align: top;\"><b>Host:</b></td> \n<td>Hello everyone. I'm talking to the music producer, Scott Fleming. Scott, how did you get into the music <b>(1)</b> <b><span style=\"color:red\">industry</span> </b>? <br /> \n<i>Xin chào tất cả mọi người. Tôi đang nói chuyện với nhà sản xuất âm nhạc, Scott Fleming. Scott, làm thế nào mà bạn bước vào </span> </i><i><span style=\"color:red\">ngành công nghiệp</span> </i><i> âm nhạc?</span> </i></td> \n</tr> \n<tr> \n<td style=\"vertical-align: top;\"><b>Scott:</b></td> \n<td>I started as a sound <b>(2)</b> <b><span style=\"color:red\">technician</span> </b>. I used to <b>(3)</b> <b><span style=\"color:red\">check</span> </b> the sound levels at music <b>(4)</b> <b><span style=\"color:red\">concerts</span> </b>. </td> \n</tr> \n<tr> \n<td> </td> \n<td><i>Tôi bắt đầu là một </span> </i><i><span style=\"color:red\">kỹ thuật viên âm thanh.</span> </i><i> Tôi đã từng </span> </i><i><span style=\"color:red\">kiểm tra </span> </i><i>mức độ âm thanh tại </span> </i><i><span style=\"color:red\">các buổi hòa nhạc</span> </i><i>.</span> </i></td> \n</tr> \n</tbody> \n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "industry",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "30c637fc-228d-4256-9e86-5dbac2c93008"
+          }
+        },
+        {
+          "dapAn": "technician",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8ba09713-382a-4f53-90a6-2ca1dc088325"
+          }
+        },
+        {
+          "dapAn": "check",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "271eec67-d228-4a2b-81cb-6fb092609a78"
+          }
+        },
+        {
+          "dapAn": "concerts",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d4d3a830-535c-4539-8a74-9f66ae09c6cc"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "61a32979-a3af-4b9b-881f-0ed3387a0df7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td>Many people say this is hard work, right?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Scott:</b></td> \n                        <td>Yes. I also used to work as a DJ in a <b>(1)</b> _______, and then I <b>(2)</b> _______ music production.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td>What does a music producer do?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Scott:</b></td> \n                        <td>I help <b>(3)</b> _______ produce their songs. We go into the studio together and <b>(4)</b> _______ their songs. </td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table> \n<tbody> \n<tr> \n<td style=\"vertical-align: top;\"><b>Host:</b></td> \n<td>Many people say this is hard work, right?<br /> \n<i>Nhiều người nói rằng đây là công việc khó khăn, phải không?</span> </i></td> \n</tr> \n<tr> \n<td style=\"vertical-align: top;\"><b>Scott:</b></td> \n<td>Yes. I also used to work as a DJ in a <b>(1)</b> <b><span style=\"color:red\">club</span> </b><span style=\"color:red\">,</span>  and then I <b>(2)</b> <b><span style=\"color:red\">went into</span> </b> music production.<br /> \n<i>Đúng. Tôi cũng đã từng làm DJ trong một </span> </i><i><span style=\"color:red\">câu lạc bộ</span> </i><i>, sau đó tôi </span> </i><i><span style=\"color:red\">chuyển sang </span> </i><i>sản xuất âm nhạc.</span> </i></td> \n</tr> \n<tr> \n<td style=\"vertical-align: top;\"><b>Host:</b></td> \n<td>What does a music producer do?<br /> \n<i>Nhà sản xuất âm nhạc làm gì?</span> </i></td> \n</tr> \n<tr> \n<td style=\"vertical-align: top;\"><b>Scott:</b></td> \n<td>I help <b>(3)</b> <b><span style=\"color:red\">bands</span> </b> produce their songs. We go into the studio together and <b>(4)</b> <b><span style=\"color:red\">record</span> </b> their songs. <br /> \n<i>Tôi giúp </span> </i><i><span style=\"color:red\">các ban nhạc </span> </i><i>sản xuất bài hát của họ. Chúng tôi cùng nhau vào phòng thu và </span> </i><i><span style=\"color:red\">thu âm </span> </i><i>bài hát của họ.</span> </i></td> \n</tr> \n</tbody> \n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "club",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "62211302-7905-4029-8bb5-e00e0d191877"
+          }
+        },
+        {
+          "dapAn": "went into",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "47604673-29e3-4380-815c-6c8f85f38d82"
+          }
+        },
+        {
+          "dapAn": "bands",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "14696339-9f68-4bda-b255-752513a14970"
+          }
+        },
+        {
+          "dapAn": "record",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "05a55b46-4b62-43af-8709-84758c6e1c25"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d63273a0-a625-4049-ad7e-fea6ba58c86f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td>And what is the most important change in the music industry?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Scott:</b></td> \n                        <td>I think it's probably the importance of <b>(1)</b> ________. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td>Yep. Music videos are so <b>(2) </b>________. Why?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Scott:</b></td> \n                        <td>Because the music video is very <b>(3)</b> ________ for marketing. Today, people <b>(4)</b>________ for the dances in the videos.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table> \n<tbody> \n<tr> \n<td style=\"vertical-align: top;\"><b>Host:</b></td> \n<td>And what is the most important change in the music industry?<br /> \n<i>Và thay đổi quan trọng nhất trong ngành công nghiệp âm nhạc là gì?</span> </i></td> \n</tr> \n<tr> \n<td style=\"vertical-align: top;\"><b>Scott:</b></td> \n<td>I think it's probably the importance of <b>(1)</b> <b><span style=\"color:red\">music videos</span> </b>. <br /> \n<i>Tôi nghĩ đó có lẽ là tầm quan trọng của các </span> </i><i><span style=\"color:red\">video âm nhạc</span> .</span> </i></td> \n</tr> \n<tr> \n<td style=\"vertical-align: top;\"><b>Host:</b></td> \n<td>Yep. Music videos are so <b>(2) </b><b><span style=\"color:red\">popular</span> </b><b>. </b>Why?<br /> \n<i>Đúng vậy. Các video âm nhạc hiện đang rất </i><i><span style=\"color:red\">thịnh hành</span> </i><i>. Tại sao thế? </i></td> \n</tr> \n<tr> \n<td style=\"vertical-align: top;\"><b>Scott:</b></td> \n<td>Because the music video is very <b>(3) </b><b><span style=\"color:red\">important </span> </b>for marketing. Today, people <b>(4) </b><b><span style=\"color:red\">go crazy</span> </b> for the dances in the videos.<br /> \n<i>Bởi vì video âm nhạc rất </span> </i><i><span style=\"color:red\">quan trọng</span> </i><i> trong marketing. Ngày nay, mọi người </span> </i><i><span style=\"color:red\">phát cuồng </span> </i><i>vì những điệu nhảy trong các video.</span> </i></td> \n</tr> \n</tbody> \n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "music videos",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "198a89e9-c551-4757-a904-f5a6fa90e537"
+          }
+        },
+        {
+          "dapAn": "popular",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8425b1a4-3007-471d-aff0-8f9e239c6892"
+          }
+        },
+        {
+          "dapAn": "important",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "434d03c2-c5cd-44bd-a270-c050a2499bc1"
+          }
+        },
+        {
+          "dapAn": "go crazy",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "946c4edd-3df5-4a31-a39e-dabed97d2d5c"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "188de701-288c-43b4-bc0c-917bb46f6e09"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Everywhere Juan Eze goes, he is always asked about his <b>(1)</b> ______. But he never tells anyone the secret of his <b>(2)</b> ______. He sits for up to four hours at a time without <b>(3)</b> _______ but it looks like he's <b>(4)</b> _______.",
+      "yNghia": "Everywhere Juan Eze goes, he is always asked about his <b>(1)</b> <b><span style=\"color:red\">trick</span> </b>. But he never tells anyone the secret of his <b>(2)</b> <b><span style=\"color:red\">act</span> </b>. He sits for up to four hours at a time without <b>(3)</b> <b><span style=\"color:red\">moving</span> </b> but it looks like he's <b>(4)</b> <b><span style=\"color:red\">floating</span> </b>.<br /> \n<i>Juan Eze đi đến đâu cũng bị hỏi về </span> </i><i><span style=\"color:red\">thủ thuật</span> </i><i> của mình. Nhưng anh ấy không bao giờ nói cho ai biết bí mật về </span> </i><i><span style=\"color:red\">màn trình diễn </span> </i><i>của mình. Anh ấy ngồi liên tục bốn tiếng đồng hồ mà không </span> </i><i><span style=\"color:red\">cử động </span> </i><i>nhưng có vẻ như anh ấy đang </span> </i><i><span style=\"color:red\">lơ lửng</span> .</i>\n",
+      "danhSachDapAn": [
+        {
+          "dapAn": "trick",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8a6c352e-ffd0-4ecb-ad26-d026a083225d"
+          }
+        },
+        {
+          "dapAn": "act",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "85c12c27-97b4-4e95-bbe2-df3fee484644"
+          }
+        },
+        {
+          "dapAn": "moving",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2dfcc76f-fa15-479f-b7c2-74162fd43b7d"
+          }
+        },
+        {
+          "dapAn": "floating",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "99e28e6b-c792-4d58-9abb-1e5e7552cbf5"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9b7862b8-2d56-4d1f-bcee-d140754adeef"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<b>(1)</b> _______ is a popular form of entertainment for adults and kids in <b>(2)</b> ______. In most puppet shows <b>(3) </b>_______, no one sees the person controlling the puppets. In Chinese puppet shows, people can see <b>(4)</b> _______.",
+      "yNghia": "<b>(1)</b> <b><span style=\"color:red\">Puppet theatre</span> </b> is a popular form of entertainment for adults and kids in <b>(2) </b><b><span style=\"color:red\">China</span> </b>. In most puppet shows <b>(3)</b><b><span style=\"color:red\"> around the world</span> </b><b>, </b>no one sees the person controlling the puppets. In Chinese puppet shows, people can see <b>(4) </b><b><span style=\"color:red\">everything. </span> </b><br />\n<i><span style=\"color:red\">Kịch rối </span> là một hình thức giải trí phổ biến dành cho người lớn và trẻ em ở </span> <span style=\"color:red\">Trung Quốc</span> . Trong hầu hết các chương trình múa rối </span> <span style=\"color:red\">trên thế giới</span> , không ai nhìn thấy người điều khiển những con rối. Trong các buổi biểu diễn múa rối của Trung Quốc, mọi người có thể thấy </span> <span style=\"color:red\">mọi thứ</span> .</span> </i>\n\n",
+      "danhSachDapAn": [
+        {
+          "dapAn": "Puppet theatre",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "5436e749-f668-4237-a8f5-13509e4eeac9"
+          }
+        },
+        {
+          "dapAn": "China",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2e09c800-5798-4d39-9616-e61c8713112f"
+          }
+        },
+        {
+          "dapAn": "around the world",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0aee2272-6875-4d22-907e-c05f4ffa6076"
+          }
+        },
+        {
+          "dapAn": "everything",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d59194f2-fd6d-488f-b774-87f11758014a"
+          }
+        }
+      ]
+    }
+  ]
+}

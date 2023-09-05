@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0_1",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "521d7ee4-7e1c-41f1-9bfd-0fee85a2b772"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Housemate",
+      "yNghia": "Bạn cùng nhà",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "55553b84-20db-4a5b-a2df-3cc628aeb9cf"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Hall",
+      "yNghia": "Sảnh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "da2a29bb-de95-4638-9ff8-739800f60471"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Balcony",
+      "yNghia": "Ban công",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ae569dfe-b7e4-490b-8d70-82c57466feed"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Couch",
+      "yNghia": "Ghế sofa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7eb38062-c364-4cc5-922b-d0447348e413"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Resident",
+      "yNghia": "Cư dân",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "225703cf-764c-4dca-80d4-88a253d19ebd"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Appliance",
+      "yNghia": "Thiết bị",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "90479070-424c-4f52-9fb0-759e17af6259"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Earthquake",
+      "yNghia": "Động đất",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b7ce6ea0-180f-4640-a11c-628a6a094f3e"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Townhouse",
+      "yNghia": "Nhà phố, nhà liền kề nhau",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4ee6029e-59bb-4260-8b48-35aa8a8decfa"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Afford",
+      "yNghia": "Có đủ khả năng chi trả",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2e79f1ed-8c48-4472-85b6-5eb8836df463"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Housing solution",
+      "yNghia": "Giải pháp nhà ở",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "de7b99f4-8892-49bf-be8e-5df930172e42"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Studio apartment",
+      "yNghia": "Căn hộ nhỏ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "626809ed-d0be-4366-9571-1c3ad72a12be"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Apartment hunting",
+      "yNghia": "Tìm căn hộ để ở",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e13b172c-e4f4-42d9-b003-096b6718eb53"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Share the bills",
+      "yNghia": "Chia hóa đơn thanh toán",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "721b6d30-9169-4a92-ad30-44a6b1e9acc4"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Rent a room",
+      "yNghia": "Thuê một căn phòng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "63215c45-9575-47f5-8bef-ddd9497e7568"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Share the chores",
+      "yNghia": "Chia sẻ việc nhà",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "807036ea-5d5d-4a84-bd46-9f7202cab38a"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Low-cost",
+      "yNghia": "Giá rẻ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4d4b2934-0738-42fb-b030-6a48e7dfcfd6"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Ideal",
+      "yNghia": "Lý tưởng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5c6b2bed-cbc3-4af4-bf2d-f1077eb9a214"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Downtown",
+      "yNghia": "Ở khu trung tâm thành phố",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "cc28b270-ca6e-49bd-9a90-ad13c0c3e762"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Convenient",
+      "yNghia": "Tiện",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e26b316d-8020-467b-a7b7-1cbd70c66b82"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Financial district",
+      "yNghia": "Khu tài chính",
+      "danhSachDapAn": []
+    }
+  ]
+}

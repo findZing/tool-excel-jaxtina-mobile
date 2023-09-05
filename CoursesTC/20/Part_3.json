@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "ee1916ca-0e6e-485d-a728-a7652576ac3f"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Balcony",
+      "yNghia": "Ban công",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "028ede0f-4168-4d3f-929b-01154714f26d"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Couch",
+      "yNghia": "Ghế sofa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4ec12670-7472-4fa2-95a3-c1dcef73e023"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Resident",
+      "yNghia": "Cư dân",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "60588cc4-d3c9-4a1e-9c6d-93ff9d5aede9"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Appliance",
+      "yNghia": "Thiết bị",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e672ea44-4305-4d99-b8ae-ae3be4480510"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Earthquake",
+      "yNghia": "Động đất",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e744af59-89d1-45c2-9c61-f99d91b76555"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Townhouse",
+      "yNghia": "Nhà phố, nhà liền kề nhau",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "24c5ebb7-8312-4f79-898c-d60dc506ff10"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Afford",
+      "yNghia": "Có đủ khả năng chi trả",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "394bd8c1-ab64-403a-96b6-de0c21a90f7c"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Housing solution",
+      "yNghia": "Giải pháp nhà ở",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4dd76ce0-4b55-4d16-9bb2-7a4bec9de770"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Studio apartment",
+      "yNghia": "Căn hộ nhỏ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3a65c29d-b49e-4f0e-a8b4-16fe701de589"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Apartment hunting",
+      "yNghia": "Tìm căn hộ để ở",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4eeebee3-52f1-43cd-990d-b8319cab64f1"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Share the bills",
+      "yNghia": "Chia hóa đơn thanh toán",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "06e635c1-18dd-40f7-9bae-67f45b25203c"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Rent a room",
+      "yNghia": "Thuê một căn phòng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "71ed4d5d-bd1c-4b19-a525-2498e43fee60"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Share the chores",
+      "yNghia": "Chia sẻ việc nhà",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ba785fa0-37c8-45a1-ba30-7c458fe199e3"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Low-cost",
+      "yNghia": "Giá rẻ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6649a82d-7d0c-4895-b220-b34cbccf3beb"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Inverter",
+      "yNghia": "Bộ biến tần",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f590ec5d-2876-4a75-8ecc-84d14093b4a7"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Dishwasher",
+      "yNghia": "Máy rửa bát",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1b4d69d6-8fdb-436b-a3c2-6c93d3318978"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Lighting",
+      "yNghia": "Thiết bị ánh sáng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "27bf497c-6099-4b8b-a1e9-ccd1bbf6a46f"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Heater",
+      "yNghia": "Máy sưởi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b60bf844-acea-4299-8291-c2f88795837c"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Generate",
+      "yNghia": "Tạo ra",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "73066abf-3ce6-4eea-8cd6-9268d8e82e47"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Sprain your ankle",
+      "yNghia": "Bong gân cổ chân",
+      "danhSachDapAn": []
+    }
+  ]
+}

@@ -1,0 +1,1026 @@
+{
+  "dangCauHoi": "P6",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "53d269ce-d2af-4d69-884c-7925e57fbfae"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ý kiến về một vấn đề nào đó, ta dùng cấu trúc: <b>What do you think about + cụm danh động từ?</b><br />\r\nTa có: <b>living on Mars </b><i>(việc sống trên sao Hỏa) </i>là cụm danh động từ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">What do you think about living on Mars? </span></b><i>(Em nghĩ gì về việc sống trên sao Hỏa?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "53975e7f-0e0f-4294-af4e-d468cdc24f16"
+          },
+          "dapAn": "What do",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "562fd632-2442-41ca-9fe8-984f132fb3fc"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0c58bbed-df41-4566-af30-f5a78ec7a14a"
+          },
+          "dapAn": "think",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d4433f1a-87c8-486b-9c26-89b5e36cb0fa"
+          },
+          "dapAn": "about",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e29f5fc1-9416-4527-b9b5-65dea439b8e3"
+          },
+          "dapAn": "living",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5cdf415f-7a9f-411c-918f-d653215893b5"
+          },
+          "dapAn": "on Mars?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5f9ef43b-a6b4-4799-ae49-1757d25de0b7"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu với 2 mệnh đề, ta dùng cấu trúc: <b>Mệnh đề 1, mệnh đề 2.</b><br />\r\nTa có: <b>Travelling to Mars is hard </b><i>(Du hành lên sao Hỏa đã khó) </i>là mệnh đề 1, <b>living on Mars is even harder</b><b> </b><i>(sống trên sao Hỏa còn khó hơn) </i>là mệnh đề 2.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Travelling to Mars is hard, living on Mars is even harder! </span></b><i>(Du hành lên sao Hỏa đã khó, sống trên sao Hỏa còn khó hơn</i><i>.</i><i>).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2504fc99-2879-44d9-9f20-3cfeda3348ff"
+          },
+          "dapAn": "Travelling",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "15ebe52b-cd2f-4cf5-a9bb-9b3a5c7e98ea"
+          },
+          "dapAn": "to Mars",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d4cf9222-1a88-4f63-bb53-83a3bcf79f2d"
+          },
+          "dapAn": "is hard,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "713ec42a-8aed-4484-9b99-0a1fe59b5ae3"
+          },
+          "dapAn": "living",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "416d2dde-9a84-4979-a2dc-98ce12a6d2fe"
+          },
+          "dapAn": "on Mars is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "db7aca8d-11df-467c-8cb6-9b5391100fa3"
+          },
+          "dapAn": "even harder!",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9d622f80-0e28-4cbb-9311-631b08cc34e4"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu với cụm <b>there are</b>, ta dùng cấu trúc: <b>Trạng ngữ, + there are + tính từ + danh từ số nhiều</b>.<br />\r\nTa có: <b>First </b><i>(Đầu tiên) </i>là trạng ngữ,<b> serious </b><i>(nghiêm trọng) </i>là và <b>environmental </b><i>(môi trường) </i>là tính từ, <b>issues </b><i>(những vấn đề) </i>là danh từ số nhiều.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">First, there are serious environmental issues. </span></b><i>(Đầu tiên, có những vấn đề nghiêm trọng về môi trường ạ.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "97bd046c-ad9e-4279-96a9-318d78adfad3"
+          },
+          "dapAn": "First,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2b6ce68a-66d4-426e-95e1-3660baaa349e"
+          },
+          "dapAn": "there",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e2bdf4b2-be92-4a40-bc3e-6297cddb7de5"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "97c2e62f-fdfd-4f29-8875-7907aae859d9"
+          },
+          "dapAn": "serious",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5578d396-9408-4fdf-ad15-1f360ee6693f"
+          },
+          "dapAn": "environmental",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "83d5defb-735a-43ed-bb34-3c2ee81c77e7"
+          },
+          "dapAn": "issues.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "143cb275-30c2-4310-b60e-352a5938b98d"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu so sánh gấp nhiều lần, ta dùng cấu trúc: <b>Chủ ngữ 1 + Động từ + (số lần) + times + more + Danh từ + than + Chủ ngữ 2</b><b>.</b><br />\r\nTa có: <b>Astronauts on the International Space Station </b><i>(Các phi hành gia trên Trạm vũ trụ quốc tế) </i>là chủ ngữ 1, <b>get </b><i>(</i><i>hấp thu</i><i>) </i>là động từ, 10 là số lần, <b>radiation</b> <i>(</i><i>bức xạ</i><i>) </i>là danh từ,<b> on Earth </b><i>(trên Trái đất) </i>là chủ ngữ 2 đã được lược bỏ <b>Astronauts</b>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Astronauts on the International Space Station get 10 times more radiation than on Earth. </span></b><i>(Các phi hành gia trên Trạm vũ trụ quốc tế hấp thụ mức bức xạ gấp 10 lần so với ở trên Trái đất.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2e83d835-bfb1-42db-af15-4ea6c20bed1c"
+          },
+          "dapAn": "Astronauts on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "85f177aa-3645-4e14-9654-3eef7b651112"
+          },
+          "dapAn": "the International",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "535fe4ad-909e-4d5a-bf33-4ad0e711fc03"
+          },
+          "dapAn": "Space Station",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "402c7cfb-dabb-4f40-89a6-0120289f3d5a"
+          },
+          "dapAn": "get 10 times",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "133291f9-d9cd-496e-9908-85752dd85624"
+          },
+          "dapAn": "more radiation",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "09253cfa-865c-4b61-afc3-c88444550d31"
+          },
+          "dapAn": "than on Earth.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0f80bae9-f786-4538-b2db-e091a61f1fc1"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu với liên từ <b>because</b>, ta dùng cấu trúc: <b>Mệnh đề 1 + </b><b>because + mệnh đề 2</b>.<br />\r\nTa có: <b>One possible solution is ice-covered domes </b><i>(Các mái vòm phủ băng là một giải pháp khả thi) </i>là mệnh đề 1,<b> ice partly blocks radiation </b><i>(băng ngăn chặn một phần bức xạ) </i>là mệnh đề 2. Hai mệnh đề được nối với nhau bằng liên từ <b>because </b><i>(vì)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">One possible solution is ice-covered domes because ice partly blocks radiation. </span></b><i>(Các mái vòm phủ băng là một giải pháp khả thi vì băng ngăn chặn một phần bức xạ ạ.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "33dd38cf-31ad-4824-9178-d8408baa5d9d"
+          },
+          "dapAn": "One possible",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6216da91-c7db-4e57-b550-33153bb7180a"
+          },
+          "dapAn": "solution is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3eba6d49-4b1e-4e5b-973a-eb9fea44f86b"
+          },
+          "dapAn": "ice-covered",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "01660184-3e09-438b-8a04-816022ec927b"
+          },
+          "dapAn": "domes because",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "14129a94-b1fc-406c-a118-11a0bde80521"
+          },
+          "dapAn": "ice partly",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c0b6c9ba-fde3-4cb3-b38c-b3c35a9ebdc6"
+          },
+          "dapAn": "blocks radiation.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3403118c-f93b-417b-b562-e833df1e4215"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu hỏi với <b>What about</b>, ta dùng cấu trúc: <b>What about + chủ ngữ + trạng ngữ.</b><br />\r\nTa có: <b>the second problem</b><b> </b><i>(vấn đề thứ hai) </i>là chủ ngữ, <b>when living on Mars</b><b> </b><i>(khi sống trên sao Hỏa) </i>là trạng ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">What about the second problem when living on Mars? </span></b><i>(Còn vấn đề thứ hai khi sống trên sao Hỏa thì sao?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c2d110ea-d69e-431e-aa13-af9f612601c9"
+          },
+          "dapAn": "What",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6da82a44-8f05-4151-a026-cff8e2273df6"
+          },
+          "dapAn": "about the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "acd403eb-bd9c-4bf7-9380-2b73622ed4b0"
+          },
+          "dapAn": "second",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c77db578-f027-4245-a848-82455f734b03"
+          },
+          "dapAn": "problem",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "68b38982-91cc-4427-8f19-b9241cc048be"
+          },
+          "dapAn": "when living",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "437e3a71-50b6-4808-8e8b-5a53f75ff922"
+          },
+          "dapAn": "on Mars?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "202cf0cd-eb01-40d4-9262-aa7b675396c2"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về sự ảnh hưởng của cái gì, ta dùng cấu trúc: <b>It is the effect of + tân ngữ 1 + on + tân ngữ 2</b>.<br />\r\nTa có: <b>low gravity </b><i>(trọng lực thấp) </i>là tân ngữ 1, <b>the human body </b><i>(cơ thể con người) </i>là tân ngữ 2.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">It is the effect of low gravity on the human body. </span></b><i>(Đó là ảnh hưởng của trọng lực thấp lên cơ thể con người.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1803316e-a724-4dcc-83bf-4ce20cc1e22e"
+          },
+          "dapAn": "It is the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "07f16c35-b9dd-4af0-9998-08e560119caf"
+          },
+          "dapAn": "effect of",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1574ac0b-866b-42c8-aebe-278a2b61c5a9"
+          },
+          "dapAn": "low gravity",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "31cd5ef2-99a1-4fe2-b424-ad2edbbaa274"
+          },
+          "dapAn": "on the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "86419095-ad4e-4287-baa7-add4de749a5d"
+          },
+          "dapAn": "human",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7cd5ea2b-aac9-4ac9-89e2-590af31e9192"
+          },
+          "dapAn": "body.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0775762e-9204-4674-8cc8-814a0cbcb4b0"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để giả định một điều có thể xảy ra trong hiện tại và tương lai, ta dùng cấu trúc: <b>Mệnh đề chính (hiện tại đơn) + mệnh đề giả định (hiện tại đơn)</b>.<br />\r\nTa có: <b>People's bones and muscles become weaker </b><i>(Xương và cơ bắp của con người trở nên yếu hơn) </i>là mệnh đề chính (hiện tại đơn),<b> if they are in low gravity for a long time </b><i>(nếu họ ở trong tình trạng không trọng lực trong một thời gian dài) </i>là mệnh đề giả định (hiện tại đơn).<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">People's bones and muscles become weaker if they are in low gravity for a long time. </span></b><i>(Xương và cơ bắp của con người trở nên yếu hơn nếu họ ở trong tình trạng không trọng lực trong một thời gian dài.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "77909305-3dd2-4529-935f-da8b6985f6e9"
+          },
+          "dapAn": "People's bones",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a71b5df1-dc04-4508-93b8-fb07bd51e9c9"
+          },
+          "dapAn": "and muscles",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1ad0ae9d-24b7-4714-985b-8e6364f7a5d1"
+          },
+          "dapAn": "become weaker",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4e28deb4-077d-48fd-899d-cdb460b38c02"
+          },
+          "dapAn": "if they are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a2674e20-6c02-4001-9e24-2066355ffe62"
+          },
+          "dapAn": "in low gravity",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e5821439-e8c0-4d7b-8404-eb4549e86ee9"
+          },
+          "dapAn": "for a long time.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "648dc652-c77b-40d1-89c2-16163eb86b54"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng cần thiết phải làm gì, ta dùng cấu trúc: <b>It is necessary to + </b><b>cụm </b><b>động từ</b><b>.</b><br />\r\nTa có: <b>use weights and do heavy exercise to prevent this</b><b> </b><i>(sử dụng tạ và tập thể dục nặng để ngăn chặn điều này) </i>với động từ nguyên thể <b>use</b> và <b>do</b>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">It is necessary to use weights and do heavy exercise to prevent this. </span></b><i>(S</i><i>ử dụng tạ và tập thể dục nặng để ngăn chặn điều này</i><i> là điều cần thiết</i><i>.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "285f243b-f46d-4f0d-a49b-26aa1621fd2b"
+          },
+          "dapAn": "It is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4f7704a1-f19e-4134-96f3-f8bced3d168e"
+          },
+          "dapAn": "necessary to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0384a419-4530-499f-8e7b-6ad22f4a4756"
+          },
+          "dapAn": "use weights",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "50f37d88-21c3-41a8-9bef-7a7eadc4c388"
+          },
+          "dapAn": "and do heavy",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d82b3565-6cd3-4052-9b9d-1642d97f5264"
+          },
+          "dapAn": "exercise to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9431eaee-36e6-4130-a32b-1dcaddcadfae"
+          },
+          "dapAn": "prevent this.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3e036758-97c8-471c-b4b0-62747d943f40"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu với cụm <b>The third problem is that</b>, ta dùng cấu trúc: <b>The third problem is that + mệnh đề</b>.<br />\r\nTa có: <b>people will have to live in a closed ecosystem </b><i>(con người sẽ phải sống trong một hệ sinh thái khép kín) </i>là mệnh đề đứng sau cụm <b>The third problem is that </b><i>(Vấn đề thứ ba là)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">The third problem is that people will have to live in a closed ecosystem. </span></b><i>(Vấn đề thứ ba là con người sẽ phải sống trong một hệ sinh thái khép kín.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ac45d0c0-0694-41a8-8964-33bd4a4fba9d"
+          },
+          "dapAn": "The third",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "67af73ab-bfd2-405e-bee6-ed28ce9f2c9d"
+          },
+          "dapAn": "problem is that",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cce170c7-e41e-45f2-bbd8-fef62cffeda3"
+          },
+          "dapAn": "people will",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e9f64c67-e082-45ad-b53e-6453ecd7e21a"
+          },
+          "dapAn": "have to live",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2c6b06b3-2f00-4a5a-a497-6581f498f2b4"
+          },
+          "dapAn": "in a closed",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "db1dd329-83c1-484c-ba33-7c38dad445d6"
+          },
+          "dapAn": "ecosystem.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "88197855-730a-44d3-a334-3fb016bd0ea6"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để yêu cầu ai đó mô tả chi tiết vấn đề, ta dùng cấu trúc: <b>Can + chủ ngữ + tell + tân ngữ + in detail</b>.<br />\r\nTa có: <b>you </b><i>(Em) </i>là chủ ngữ, <b>us </b><i>(chúng tôi) </i>là tân ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Can you tell us in detail? </span></b><i>(Em có thể cho chúng tôi biết chi tiết không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ddb72077-6c66-4eaf-81fc-cb904c5dc7e0"
+          },
+          "dapAn": "Can",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e2f843fd-c7ff-4b75-987d-535f94e85d6d"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "165c9bcd-2d6d-4639-80dc-3d54784953ee"
+          },
+          "dapAn": "tell",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dfd18fca-aac8-4d2a-a558-02f84d1bfd82"
+          },
+          "dapAn": "us",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6450f099-29f5-4744-b88d-671ede96aa4a"
+          },
+          "dapAn": "in",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6f288260-75f6-41e2-b1e8-154793d018d4"
+          },
+          "dapAn": "detail?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1f764472-f7b1-4d66-8155-fba14bfd2331"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu với liên từ <b>so</b>, ta dùng cấu trúc: <b>Mệnh đề 1, + so + mệnh đề 2</b>.<br />\r\nTa có: <b>There's no fresh air </b><i>(Không có không khí trong lành) </i>là mệnh đề 1,<b> there's a danger of contamination by bacteria or viruses </b><i>(có nguy cơ bị nhiễm vi khuẩn hoặc vi-rút) </i>là mệnh đề 2. Hai mệnh đề được nối với nhau bằng liên từ <b>so </b><i>(nên)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">There's no fresh air, so there's a danger of contamination by bacteria or viruses. </span></b><i>(Không có không khí trong lành nên có nguy cơ bị nhiễm vi khuẩn hoặc vi rút ạ.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9c3c4a8f-3cc0-471a-afdd-68b505eca1b9"
+          },
+          "dapAn": "There's no",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "398e8a54-c188-4326-a8f0-91f9584dfe5e"
+          },
+          "dapAn": "fresh air, so",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "064fcf8e-fde9-4393-bf1d-9bff6d4bfd3d"
+          },
+          "dapAn": "there's a danger",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "12c73951-6805-4056-9079-e806c09f4b21"
+          },
+          "dapAn": "of contamination",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0d88bcdb-4063-498c-9cbd-a62d8e3ee391"
+          },
+          "dapAn": "by bacteria",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5ca00da8-76d8-4dff-a626-e57270c6e7f8"
+          },
+          "dapAn": "or viruses.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5acefbf1-d7b9-49fe-af46-4dab4471cc76"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để xác định rõ ý của người nói, ta dùng cấu trúc: <b>Does it mean + mệnh đề</b>.<br />\r\nTa có: <b>they have to stay inside a dome or a spacesuit at all times </b><i>(họ phải luôn ở trong mái vòm hoặc bộ đồ vũ trụ) </i>là mệnh đề đứng sau cụm <b>Does it mean </b><i>(Điều đó có nghĩa là)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Does it mean they have to stay inside a dome or a spacesuit at all times? </span></b><i>(Điều đó có nghĩa là họ phải luôn ở trong mái vòm hoặc bộ đồ vũ trụ phải không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "94edbca4-353c-4101-9408-92e3b72a8ff7"
+          },
+          "dapAn": "Does it",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0fc91ba2-830c-4857-a8c0-63091ac606c1"
+          },
+          "dapAn": "mean they",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ad082d7f-433c-44f0-a092-ffe8e122f213"
+          },
+          "dapAn": "have to stay",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b03e1cf6-ec11-4164-9171-f5db683a1aa6"
+          },
+          "dapAn": "inside a dome",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "efca54b7-3c1f-4de3-aa49-ffa967c312cc"
+          },
+          "dapAn": "or a spacesuit",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b23508bd-b0d9-42b0-aa04-4b5f6ea84e60"
+          },
+          "dapAn": "at all times?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8094898d-ffb5-4989-9fbb-fa42923ac92b"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để thể hiện sự mong muốn, ta dùng cấu trúc: <b>Chủ ngữ + </b><b>(trạng từ)</b><b> + want</b><b>(s)</b><b> + to + </b><b>cụm động từ</b>.<br />\r\nTa có: <b>I </b><i>(Em) </i>là chủ ngữ, <b>travel to Mars but live on Earth </b><i>(du hành tới sao Hỏa nhưng mà sống trên Trái đất) </i>là cụm động từ với <b>travel</b> là động từ (nguyên thể).<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">I just want to travel to Mars but live on Earth. </span></b><i>(Em chỉ muốn du hành tới sao Hỏa nhưng mà sống trên Trái đất.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "38927eca-66b0-449a-b528-8d3ca92c8a62"
+          },
+          "dapAn": "I just",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4fc61805-7752-4e01-9ec5-d7a729b75359"
+          },
+          "dapAn": "want",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f1f120c5-9e0b-4149-a399-cee257c5202d"
+          },
+          "dapAn": "to travel",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e0840094-0dee-4932-baa1-7f2fbb275f18"
+          },
+          "dapAn": "to Mars",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bc0e45ea-be09-46b2-a5c9-2274aad464a3"
+          },
+          "dapAn": "but live",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dfad77db-a71a-41c3-85d3-08cfb056654d"
+          },
+          "dapAn": "on Earth.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "dbaf3114-9477-4b4a-9f78-15c93ed70cbc"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu với cụm <b>Some people say that</b>, ta dùng cấu trúc: <b>Some people say that + mệnh đề</b>.<br />\r\nTa có: <b>it's a waste of money to explore space </b><i>(thật lãng phí tiền bạc để khám phá không gian vũ trụ) </i>là mệnh đề đứng sau cụm <b>Some people say that </b><i>(Một số người nói rằng)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Some people say that it's a waste of money to explore space. </span></b><i>(Một số người nói rằng thật lãng phí tiền bạc để khám phá không gian vũ trụ.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2325431c-f1a5-46ec-88b6-749f49c9c870"
+          },
+          "dapAn": "Some",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8cbf3ebf-1634-45f1-b3a5-9a06eee89148"
+          },
+          "dapAn": "people say",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0ac5c653-e2b2-4182-b588-c507d5f9ea35"
+          },
+          "dapAn": "that it's a",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f2ef9179-edca-41be-82c5-957f93a4a4be"
+          },
+          "dapAn": "waste of",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d68938bd-2c98-444a-82f5-a50a9bddc1e7"
+          },
+          "dapAn": "money to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ea5c272d-3017-4801-85d9-56a92f2bd67a"
+          },
+          "dapAn": "explore space.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "82b5c7c4-b1e8-44e4-b9f6-4d9e650f357c"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả điều chắc chắn sẽ xảy ra, ta dùng cấu trúc: <b>Chủ ngữ + </b><b>are going to + động từ (nguyên thể) + tân ngữ + mệnh đề. </b><br />\r\nTa có: <b>They </b><i>(Họ) </i>là chủ ngữ, <b>tell </b><i>(nói) </i>là (động từ nguyên thể), <b>us </b><i>(chúng ta) </i>là tân ngữ, tiếp theo là mệnh đề <b>why they believe that the space program is very important to our everyday lives </b><i>(lý do tại sao họ tin rằng chương trình không gian vũ trụ rất quan trọng đối với cuộc sống hàng ngày của chúng ta)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">They are going to tell us why they believe that the space program is very important to our everyday lives. </span></b><i>(Họ sẽ cho chúng ta biết lý do tại sao họ tin rằng chương trình không gian vũ trụ rất quan trọng đối với cuộc sống hàng ngày của chúng ta.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "199be90b-cd5d-447d-9649-f3443b089540"
+          },
+          "dapAn": "They are going to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6541d530-fbba-4f14-b5fc-3289422f6cec"
+          },
+          "dapAn": "tell us why they",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a319f180-4cab-4671-a499-1e11ea23f619"
+          },
+          "dapAn": "believe that the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c11f70a5-e5d5-408e-abf3-0d830fdd6fef"
+          },
+          "dapAn": "space program is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cf7bebcf-d688-424d-a101-0f3799c9d6d9"
+          },
+          "dapAn": "very important to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f3b9c404-378e-4915-bd96-6dbd19fc5016"
+          },
+          "dapAn": "our everyday lives.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ba41e581-72a3-4c3a-a1a9-9c9145463db3"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về một sự thật hiển nhiên, ta dùng cấu trúc: <b>Trạng từ, + chủ ngữ + động từ (hiện tại đơn) + tân ngữ + tính từ</b>.<br />\r\nTa có: <b>space exploration </b><i>(khám phá không gian vũ trụ) </i>là chủ ngữ, <b>makes </b><i>(giúp) </i>là động từ (hiện tại đơn), <b>us </b><i>(chúng ta) </i>là tân ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Also, space exploration makes us safer. </span></b><i>(Ngoài ra, khám phá không gian vũ trụ giúp chúng ta an toàn hơn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a18fe6bd-657f-4cc2-a0ca-054e0ad67417"
+          },
+          "dapAn": "Also,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "621a9ae9-9d85-43b5-8508-08dc8c7b2cd9"
+          },
+          "dapAn": "space",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d188f41a-3052-42ba-8e23-0f917d372401"
+          },
+          "dapAn": "exploration",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "840b343b-101e-4641-b3ba-5419170f95d5"
+          },
+          "dapAn": "makes",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ea37262d-5f01-4e6d-9264-d6ccf3257c1b"
+          },
+          "dapAn": "us",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cc55e919-a101-4877-acc9-80162eada51f"
+          },
+          "dapAn": "safer.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "24c907ed-2345-49e3-bc70-4a45bb0cd7f0"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu mệnh lệnh bắt đầu bằng <b>Remember that</b>, ta dùng cấu trúc: <b>Remember that + mệnh đề</b>.<br />\r\nTa có: <b>space exploration is also not just astronauts going into space </b><i>(khám phá không gian vũ trụ không chỉ có các phi hành gia đi vào không gian) </i>là mệnh đề đứng sau cụm <b>Remember that </b><i>(Hãy nhớ rằng)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Remember that space exploration is also not just astronauts going into space. </span></b><i>(Hãy nhớ rằng khám phá không gian vũ trụ không chỉ có các phi hành gia đi vào không gian.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "42866726-0e5b-423f-9c31-50b9af3adc9d"
+          },
+          "dapAn": "Remember",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "aada0e40-7523-4e60-af79-06ba55c82cf5"
+          },
+          "dapAn": "that space",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "83ebc52c-9839-4699-849a-0c1d82dedaff"
+          },
+          "dapAn": "exploration is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2a3db1ab-b370-44b9-be3f-7f2144b9f6de"
+          },
+          "dapAn": "also not just",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "46ae8424-a895-4545-a927-c513c0a04ec9"
+          },
+          "dapAn": "astronauts going",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "97549c20-d643-4c4b-980c-9433cde3583d"
+          },
+          "dapAn": "into space.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8d4aa8d5-684b-4b4e-9d34-fc49b305cbcc"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu với cụm <b>I didn't know that</b>, ta dùng cấu trúc: <b>I didn't know that + mệnh đề</b>.<br />\r\nTa có: <b>my wireless headset and my phone camera came from the space program </b><i>(tai nghe không dây và máy ảnh điện thoại của tôi đến từ chương trình không gian vũ trụ) </i>là mệnh đề đứng sau cụm<b> I didn't know that </b><i>(Tôi không biết rằng)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">I didn't know that my wireless headset and my phone camera came from the space program. </span></b><i>(Tôi không biết rằng tai nghe không dây và máy ảnh điện thoại của tôi đến từ chương trình không gian vũ trụ.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "19404ff9-a080-4bbd-b4d2-ab54a6f64f8c"
+          },
+          "dapAn": "I didn't know",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "254c4114-7d1b-43e6-883c-39dc500a337f"
+          },
+          "dapAn": "that my wireless",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c9ab561c-66f1-49ae-bbd7-5135dfcfb8e6"
+          },
+          "dapAn": "headset and my",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d8490e29-abcc-41f1-8b93-92eddb103d2b"
+          },
+          "dapAn": "phone camera",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e7d4e8a7-b820-48e0-9912-c6bee8f8eafe"
+          },
+          "dapAn": "came from the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "61786cc6-a48b-4a4b-92f2-e47763f9990d"
+          },
+          "dapAn": "space program.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "bf492505-65d7-4d75-9093-4dd2af276280"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu hỏi với cụm <b>mean to</b>, ta dùng cấu trúc: <b>What + does + chủ ngữ + mean to + tân ngữ</b><b>?</b><br />\r\nTa có: <b>the space program </b><i>(Chương trình vũ trụ) </i>là chủ ngữ, <b>education </b><i>(giáo dục) </i>là tân ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">What does the space program mean to education? </span></b><i>(Chương trình vũ trụ có ý nghĩa gì với giáo dục?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "dee2cf87-015f-4f68-963a-3b3d94fa1189"
+          },
+          "dapAn": "What does",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2ab5748c-c2a9-4074-b128-28774bd0de56"
+          },
+          "dapAn": "the space",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dac28573-659c-4fbf-b88c-653c067c8370"
+          },
+          "dapAn": "program",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d0d9c890-faf8-42da-8e49-40fd7d7ea773"
+          },
+          "dapAn": "mean",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "090610fb-ce03-4fc8-b125-5cce6ae0ed34"
+          },
+          "dapAn": "to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cc997fa1-0acf-4197-bfb3-e3327e1504e5"
+          },
+          "dapAn": "education?",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

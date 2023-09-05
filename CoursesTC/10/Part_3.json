@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "fd601234-a5e9-457d-bf75-567ff4783938"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Custom",
+      "yNghia": "Phong tục, tục lệ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "445fb61e-4590-4d32-a2bb-59585aa57f34"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Registry",
+      "yNghia": "Nơi đăng ký",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9de14ec3-e852-4494-bd5f-703bef3bfffe"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Attitude",
+      "yNghia": "Thái độ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5b21e9d4-e571-4623-9d86-a926a4783c2a"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Situation",
+      "yNghia": "Tình cảnh, trường hợp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "507048e3-9a26-48ad-ae08-e96dab69c869"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Bias",
+      "yNghia": "Thiên kiến",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2d2a11a2-f6b6-4511-8bee-911719ff4679"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Criticize",
+      "yNghia": "Phê bình, chỉ trích",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f9fa4144-19c4-4e91-867f-1c667ca8fb3a"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Typical",
+      "yNghia": "Điển hình, đặc trưng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "41d7dadd-39e1-4cb9-a378-b9c828fd0494"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Familiar",
+      "yNghia": "Quen thuộc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d2d98359-5f8c-440a-8479-0880d72afc14"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Wedding reception",
+      "yNghia": "Tiệc cưới",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "12293603-e93d-402b-8cc4-55dd23b0f80f"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Wedding customs",
+      "yNghia": "Phong tục đám cưới",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b880cb3f-3c26-41c6-ba1f-9c6fa84ba006"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Gift registry",
+      "yNghia": "Danh sách quà muốn nhận",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8b27d1ca-e296-4c97-9ba6-735cff7b3680"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Send an RSVP",
+      "yNghia": "Gửi hồi âm, gửi phúc đáp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4e1d8d4d-6e41-4783-b6ef-b2f6989f5d14"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Accept an invitation",
+      "yNghia": "Nhận lời mời",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "56d1bfd3-66d2-4eff-9981-70924abdf5d9"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Dress up",
+      "yNghia": "Mặc diện",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ddf47335-c470-48ac-addb-ce9d27563faa"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Show up",
+      "yNghia": "Có mặt",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0d2451c3-8b8d-458d-8422-e4c2e261a321"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Give a speech",
+      "yNghia": "Phát biểu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "39957734-fb84-41b1-b898-868e837375d1"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Attend an event",
+      "yNghia": "Tham dự một sự kiện",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "24fce718-802b-496d-b903-95026410143f"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Typical wedding gift",
+      "yNghia": "Quà cưới điển hình",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "cef5bbd2-9bb6-4430-bee1-59f4c9727079"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Newly married couple",
+      "yNghia": "Cặp đôi mới cưới",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9ffe9a3d-f678-47c1-8c58-9022e6e25872"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Non-traditional",
+      "yNghia": "Không theo truyền thống",
+      "danhSachDapAn": []
+    }
+  ]
+}

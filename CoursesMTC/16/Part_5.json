@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "f90aa529-275c-48c9-b584-a8f3a65b58ba"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What do you think about living on ______________?",
+      "yNghia": "What do you think about living on <span style=\"color:red\">Mars</span>?<br />\n<i>Em nghĩ gì về việc sống trên <span style=\"color:red\">sao Hỏa</span>?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f42d11a3-1fcd-43b3-9e96-83a84c801cd7"
+          },
+          "dapAn": "Jupiter",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8d43fc9b-92d0-44d2-8556-c3688a55bb44"
+          },
+          "dapAn": "Mars",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3148cbe5-8534-4739-9ff1-13f4fc085513"
+          },
+          "dapAn": "Moon",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_1. What ... Mars.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_1. What ... Mars.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "dad89a5a-fd6d-4c91-966d-83b0b60dc581"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Travelling to Mars is hard, living on Mars is even ______________!",
+      "yNghia": "Travelling to Mars is hard, living on Mars is even <span style=\"color:red\">harder</span>!<br />\n<i>Du hành lên sao Hỏa đã khó, sống trên sao Hỏa còn </i><i><span style=\"color:red\">khó hơn </span></i><i>ạ!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d2e69efd-900b-419a-858d-f6eda96ccd89"
+          },
+          "dapAn": "easier",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9dbb06ff-6596-4896-a7f8-ec3514e2997e"
+          },
+          "dapAn": "less hard",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bae2823c-a9e2-41b2-8353-80c1fb12f623"
+          },
+          "dapAn": "harder",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_2. Travelling ... harder.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_2. Travelling ... harder.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a6de66c1-3bf0-447b-88d2-14444d402fd7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "First, there are serious ______________ issues.",
+      "yNghia": "First, there are serious <span style=\"color:red\">environmental </span>issues. <br />\n<i>Đầu tiên, có những vấn đề nghiêm trọng về <span style=\"color:red\">môi trường </span>ạ.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "51ae7699-169b-4fa2-9555-86f7d6458052"
+          },
+          "dapAn": "health",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "26035ddb-d7a3-41a8-981e-ba801fb09915"
+          },
+          "dapAn": "environmental",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1d031e9b-5f07-428e-8276-c59409454dae"
+          },
+          "dapAn": "food",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_3. First ... issues.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_3. First ... issues.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c73dbb7e-c4ee-4e8f-b404-f3ac1856629c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Astronauts on the International Space Station get 10 times more ______________ than on Earth.",
+      "yNghia": "Astronauts on the International Space Station get 10 times more <span style=\"color:red\">radiation </span>than on Earth.<br />\n<i>Các phi hành gia trên Trạm vũ trụ quốc tế hấp thụ <span style=\"color:red\">mức bức xạ </span>gấp 10 lần so với ở trên Trái đất.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "717e4e90-9d37-4de2-a473-db56074d0a8a"
+          },
+          "dapAn": "sunshine",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "27189284-457a-4a12-9232-0864c501038c"
+          },
+          "dapAn": "radiation",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "436a2d06-9060-4c2b-8d73-7122b8ec5dea"
+          },
+          "dapAn": "vitamins",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_4. Astronauts ... Earth.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_4. Astronauts ... Earth.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "209d867d-37e5-4c11-b8d9-d3c92d9bdc3b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "One possible solution is ice-covered ______________ because ice partly blocks radiation.",
+      "yNghia": "One possible solution is ice-covered <span style=\"color:red\">domes </span>because ice partly blocks radiation.<br />\n<i><span style=\"color:red\">Các mái vòm </span></i><i>phủ băng là một giải pháp khả thi vì băng ngăn chặn một phần bức xạ ạ.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "172c822d-e249-46e8-9593-b3043da7589b"
+          },
+          "dapAn": "cabins",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "63d76b6e-2cbc-4a82-8560-42b17b5d891f"
+          },
+          "dapAn": "houses",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4625f4ad-79d4-42f4-acb4-3da3f211944f"
+          },
+          "dapAn": "domes",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_5. One ... radiation.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_5. One ... radiation.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e96243f9-e0ce-490b-ad14-e7930496c226"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It sounds good. What about the second ______________ when living on Mars?",
+      "yNghia": "It sounds good. What about the second <span style=\"color:red\">problem </span>when living on Mars?<br />\n<i>Nghe có vẻ tốt đấy. Còn <span style=\"color:red\">vấn đề </span>thứ hai khi sống trên sao Hỏa thì sao?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "eaf84c93-dd7b-4fe1-943c-28fc31df61d2"
+          },
+          "dapAn": "problem",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9ad67b2e-af1d-4426-9cc5-9ac986d000ad"
+          },
+          "dapAn": "effect",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7a801064-fd89-41a7-ac33-deac7af4b7c5"
+          },
+          "dapAn": "benefit",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_6. It ... Mars.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_6. It ... Mars.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6cbfb6c8-1103-4acd-8595-07445b27a6cb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It is the effect of ______________ on the human body.",
+      "yNghia": "It is the effect of <span style=\"color:red\">low gravity </span>on the human body.<br />\n<i>Đó là ảnh hưởng của <span style=\"color:red\">trọng lực thấp </span>lên cơ thể con người.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8bffa3bd-a3a2-49de-85fd-791c95827e59"
+          },
+          "dapAn": "zero gravity",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e0423d20-29e1-43a5-ac3e-a19ce3acf2f3"
+          },
+          "dapAn": "low gravity",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b9d99feb-97dd-4771-b578-dc037e80ba16"
+          },
+          "dapAn": "radiation",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_7. It ... body.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_7. It ... body.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b66453fa-b3cb-4600-9a77-fc1c87a9384c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "People’s bones and ______________ become weaker if they are in low gravity for a long time.",
+      "yNghia": "People's bones and <span style=\"color:red\">muscles </span>become weaker if they are in low gravity for a long time.<br />\n<i>Xương và <span style=\"color:red\">cơ bắp </span>của con người trở nên yếu hơn nếu họ ở trong tình trạng không trọng lực trong một thời gian dài.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ee04ed2f-bb40-43a3-94ec-f60a3646f156"
+          },
+          "dapAn": "brain",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7941ddfc-ae9d-4d8e-8fff-452ec25c1624"
+          },
+          "dapAn": "eyes",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "53d6b7a4-cfca-47a0-a6dc-8f604c086b7b"
+          },
+          "dapAn": "muscles",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_8. People ... time.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_8. People ... time.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "caca10df-fff1-482e-9205-676f8718fee3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It is necessary to use ______________ and do heavy exercise to prevent this.",
+      "yNghia": "It is necessary to use <span style=\"color:red\">weights </span>and do heavy exercise to prevent this.<br />\n<i>Cần sử dụng <span style=\"color:red\">tạ </span>và tập thể dục nặng để ngăn chặn điều này.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "13cd7a52-37b3-4d53-9095-ab23a96a1207"
+          },
+          "dapAn": "weights",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "82ea9b65-01b5-436e-93b0-aeb38b3a67dd"
+          },
+          "dapAn": "ball",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "577e97c3-642d-4ecd-9259-e97f010d63ed"
+          },
+          "dapAn": "drug",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_9. It ... this.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_9. It ... this.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "78294b0d-01ec-4c73-9cff-807132e383a4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The third problem is that people will have to live in a ______________.",
+      "yNghia": "The third problem is that people will have to live in a <span style=\"color:red\">closed ecosystem</span>. <br />\n<i>Vấn đề thứ ba là con người sẽ phải sống trong một <span style=\"color:red\">hệ sinh thái khép kín</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8b2736d2-e283-4947-9c74-df409798b526"
+          },
+          "dapAn": "dome",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2e220c66-4ac2-4c61-a9bf-ceffbae0856b"
+          },
+          "dapAn": "house",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e445203c-c331-4132-a418-911bc738af96"
+          },
+          "dapAn": "closed ecosystem",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_10. The ... ecosystem.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_10. The ... ecosystem.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "40af93d2-76d1-4b0b-aab2-fca6f074095c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There’s no fresh air, so there’s a danger of contamination by ______________ or viruses.",
+      "yNghia": "There's no fresh air, so there's a danger of contamination by <span style=\"color:red\">bacteria </span>or viruses. <br />\n<i>Không có không khí trong lành nên có nguy cơ bị nhiễm <span style=\"color:red\">vi khuẩn </span>hoặc vi-rút ạ.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1dc46590-a2d3-489d-8306-c842ac22db04"
+          },
+          "dapAn": "microorganisms",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "67d0ffd6-8e80-4613-bc65-1fe8a551e7bf"
+          },
+          "dapAn": "bacteria",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5934fb78-536d-431d-8d37-b2e6e3f4888e"
+          },
+          "dapAn": "animals",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_11. There ... viruses.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_11. There ... viruses.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d0af5319-43a3-4efa-ae0f-28231f5c7a42"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Does it mean they have to stay inside a dome or a ______________ at all times?",
+      "yNghia": "Does it mean they have to stay inside a dome or a <span style=\"color:red\">spacesuit </span>at all times?<br />\n<i>Điều đó có nghĩa là họ phải luôn ở trong mái vòm hoặc <span style=\"color:red\">bộ đồ vũ trụ </span>phải không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3537c044-93c4-4156-83d1-27d558ba0bef"
+          },
+          "dapAn": "ball",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "cc73fc49-286a-4de0-b046-8f50818d169b"
+          },
+          "dapAn": "shirt",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c43c2136-0eff-4e8f-9e59-29717341936e"
+          },
+          "dapAn": "spacesuit",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_12. Does ... times.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_12. Does ... times.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "38c1be1d-7502-40c5-9646-e10cd7574094"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I think so. I just want to ______________ to Mars but live on Earth.",
+      "yNghia": "I think so. I just want to <span style=\"color:red\">travel </span>to Mars but live on Earth.<br />\n<i>Em nghĩ vậy. Em chỉ muốn <span style=\"color:red\">du hành </span>tới sao Hỏa nhưng mà sống trên Trái đất.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "532ff3e1-7726-493c-8fe3-04abc24d3c94"
+          },
+          "dapAn": "travel",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "24e3dd1b-14d4-45d1-8666-3bbfc9a5e3e2"
+          },
+          "dapAn": "fly",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bd7330e4-bd82-4add-9710-a71688475d39"
+          },
+          "dapAn": "explore",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_13. I ... Earth.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_13. I ... Earth.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "287e2a60-dbde-4977-9e8a-be04312e5f59"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Lozano didn't ______________ quite as high as Ochoa.",
+      "yNghia": "Lozano didn't <span style=\"color:red\">fly </span>quite as high as Ochoa.<br />\n<i>Lozano không <span style=\"color:red\">bay </span>cao như Ochoa.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5459908d-8f81-451d-8306-9c10cc96ecf1"
+          },
+          "dapAn": "jump",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6e3a68ad-167a-4537-8874-4b55cd9e5975"
+          },
+          "dapAn": "hang",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c4b3fe7c-a430-4c39-8b8d-046fe2797707"
+          },
+          "dapAn": "fly",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_14. Lozano ... Ochoa.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_14. Lozano ... Ochoa.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6bf6047e-21d3-4490-9b46-84001011302c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We’ve all seen how a ______________ works: you put it on your back and you use it to rise up into the sky.",
+      "yNghia": "We‘ve all seen how a <span style=\"color:red\">jetpack </span>works: you put it on your back and you use it to rise up into the sky.<br />\n<i>Tất cả chúng ta đều đã thấy cách thức hoạt động của <span style=\"color:red\">ba lô phản lực</span>: bạn đeo nó lên lưng và sử dụng nó để bay lên trời.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "feab67aa-5a71-4d4b-9503-a2f7ea055f7e"
+          },
+          "dapAn": "jetpack",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d339a064-674e-4e7a-b51b-a753ffaee47a"
+          },
+          "dapAn": "backpack",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c1600942-35ff-4c1e-98dd-808f2882a704"
+          },
+          "dapAn": "bag",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_15. We_ve ... sky.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_15. We_ve ... sky.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "17eb416a-c948-4bf9-a3ef-b58f98ec4f69"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "While he was not the inventor of the jetpack, Lozano did invent a type of jetpack that actually works. Born in Mexico, Lozano was amazed by jetpacks as a kid and he spent ______________ developing them.",
+      "yNghia": "While he was not the inventor of the jetpack, Lozano did invent a type of jetpack that actually works. Born in Mexico, Lozano was amazed by jetpacks as a kid and he spent <span style=\"color:red\">30 years </span>developing them.<br />\n<i>Mặc dù không phải là người phát minh ra ba lô phản lực, nhưng Lozano đã phát minh ra một loại ba lô phản lực thực sự hiệu quả. Sinh ra ở Mexico, Lozano đã rất ngạc nhiên trước những chiếc ba lô phản lực khi còn bé và ông đã dành <span style=\"color:red\">30 năm </span>để phát triển chúng.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "dba6b417-ecbd-46eb-85bd-97a7ec2c5dc8"
+          },
+          "dapAn": "28 years",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "07a95168-382d-45ea-9437-94abfdd6d25c"
+          },
+          "dapAn": "29 years",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "54871ac1-ff1c-4d8f-90dd-04ca6d1fcd0c"
+          },
+          "dapAn": "30 years",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_16. While ... them.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_16. While ... them.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d92b68d9-a1db-4d4a-92e3-a13a66937bf4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "He actually sells his jetpack today for ______________.",
+      "yNghia": "He actually sells his jetpack today for <span style=\"color:red\">around $125,000</span>.<br />\n<i>Ngày nay, ông ấy thực sự đã bán chiếc ba lô phản lực của mình với giá <span style=\"color:red\">khoảng 125.000 đô la</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ae53da99-b7ca-4a14-9a1e-4382043e7cb9"
+          },
+          "dapAn": "above $125,000",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5190dde2-ad7d-4a99-a7c5-cb3eaeccccd2"
+          },
+          "dapAn": "around $125,000",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1f588963-739c-417a-b5b3-7b66bdd3a658"
+          },
+          "dapAn": "around $12,500",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_17. He ... $125,000.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_17. He ... $125,000.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "27e60252-5862-4aaf-b30f-c51c45d248c4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "While it does work, it doesn't take you very high, and he warns buyers that they will only be in the air for about ______________ before they have to land.",
+      "yNghia": "While it does work, it doesn't take you very high, and he warns buyers that they will only be in the air for about <span style=\"color:red\">30 seconds </span>before they have to land.<br />\n<i>Mặc dù nó hiệu quả, nhưng nó không giúp bạn bay quá cao và ông ấy cảnh báo người mua rằng họ sẽ chỉ ở trên không khoảng <span style=\"color:red\">30 giây </span>trước khi phải hạ cánh.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3fbb8086-e866-4981-ad4b-4fe9547e0747"
+          },
+          "dapAn": "30 seconds",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "66bc11b9-cb88-4677-a667-2051d79ffc47"
+          },
+          "dapAn": "33 seconds",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "67a5afa8-d868-4418-8e21-337d4d7dbd6a"
+          },
+          "dapAn": "35 seconds",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_18. While ... land.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_18. While ... land.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2e9d1630-f4ca-499b-acaa-ddfe81fbc476"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Space exploration is not just about finding life on other planets or finding planets that humans could live on. In fact, it's mainly about learning about our ______________.",
+      "yNghia": "Space exploration is not just about finding life on other planets or finding planets that humans could live on. In fact, it's mainly about learning about our <span style=\"color:red\">own planet</span>.<br />\n<i>Khám phá không gian vũ trụ không chỉ là tìm kiếm sự sống trên các hành tinh khác hoặc tìm kiếm các hành tinh mà con người có thể sinh sống. Trên thực tế, nó chủ yếu là tìm hiểu về <span style=\"color:red\">hành tinh của chính chúng ta</span>. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ae95919e-8f2d-4e3d-88bc-d91b59f43488"
+          },
+          "dapAn": "weather",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4ee5f2d1-0cfe-4d82-a72f-d81a444ec257"
+          },
+          "dapAn": "galaxy",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1960e3a7-056f-44a2-8cd4-ee6143878c52"
+          },
+          "dapAn": "own planet",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_19. Space ... planet.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_19. Space ... planet.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "8338b751-8d5e-43d9-adc9-c245a2752ba1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The space program is like a giant science teacher. First, it teaches us about the universe, about our own planet, and about the ______________. Second, it teaches us about new ways to do things through advanced technology.",
+      "yNghia": "The space program is like a giant science teacher. First, it teaches us about the universe, about our own planet, and about the <span style=\"color:red\">weather</span>. Second, it teaches us about new ways to do things through advanced technology.<i> </i><br />\n<i>Chương trình vũ trụ giống như một giáo viên khoa học vĩ đại.</i> <i>Đầu tiên, nó dạy chúng ta về vũ trụ, về hành tinh của chúng ta và về <span style=\"color:red\">thời tiết</span>. Thứ hai, nó dạy chúng ta về những cách mới mẻ để làm mọi việc thông qua công nghệ tiên tiến.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "55f97814-f528-4b3e-a3b3-e7501bf2739d"
+          },
+          "dapAn": "galaxy",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fc32e3b8-8f76-4e24-9ce8-db27435fbc3a"
+          },
+          "dapAn": "weather",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fd75616f-e6ef-42a8-8441-691ea3b4e840"
+          },
+          "dapAn": "sun",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L16/sounds/normal/MTC_MINITEST3_LISTENING_20. The ... technology.mp3",
+      "soundSlow": "4SKILLS_MTC_L16/sounds/slow/MTC_MINITEST3_LISTENING_20. The ... technology.mp3"
+    }
+  ]
+}

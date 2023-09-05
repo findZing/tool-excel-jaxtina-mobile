@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "c4c518e2-3554-4d1f-bd9e-f505a5d6311b"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Sunny",
+      "yNghia": "(Trời) có nắng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "fc9994f6-54a9-4a0a-86d2-3ed335b0d193"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Windy",
+      "yNghia": "(Trời) có gió",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "66b5455f-4ae0-4514-a436-0501399b150d"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Snowy",
+      "yNghia": "(Thời tiết) có tuyết rơi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3bfb4637-5ac0-4062-bcca-37e87a086fba"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Rainy",
+      "yNghia": "(Trời) mưa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5955c86d-eced-4176-a5d7-aadb606d27e0"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Cloudy",
+      "yNghia": "(Trời) nhiều mây",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "08212c9a-882f-40be-921f-282d6195f02a"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Cool",
+      "yNghia": "Mát mẻ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7570b606-38b1-4292-a763-46648e8587dc"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Freezing",
+      "yNghia": "(Trời) rất lạnh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4cc0e7e7-035f-4984-8a76-18cbd87f0c17"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Hot",
+      "yNghia": "Nóng bức",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e76c1265-f374-4d67-9d4a-4d5c10b383d2"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Weather",
+      "yNghia": "Thời tiết",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a8086744-9e49-43f1-ada9-b0105a21d12f"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Warm",
+      "yNghia": "Ấm áp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6b4bedba-1ee6-4ab4-91a7-cbc2eb0e8aaa"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Bad",
+      "yNghia": "(Thời tiết) xấu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "46a4c143-e41f-42ac-9462-12f5d6d98904"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Cold",
+      "yNghia": "Lạnh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c15e4662-f11f-497e-9b59-4c2634ec991a"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Swim",
+      "yNghia": "Bơi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b3e8e6f3-b20c-4cf1-a98d-73d1fc65fea6"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Have coffee",
+      "yNghia": "Uống cà phê",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "448e14b3-cdcf-4216-8143-82c452566122"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Sleep",
+      "yNghia": "Ngủ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "31cae1a1-2503-441e-8290-b74c388db0e6"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Watch",
+      "yNghia": "Xem",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5264e171-5e52-421e-a590-f5c3d0ec77ad"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Practice",
+      "yNghia": "Luyện tập",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9da84078-e5c7-4bb2-8401-66733015307f"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Shop",
+      "yNghia": "Mua sắm",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0aa111e4-c867-476b-82f2-187dadc1aa75"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Barbecue",
+      "yNghia": "Tiệc nướng ngoài trời",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c1764d4c-1eec-4d47-9f03-41d1a831d845"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Beach",
+      "yNghia": "Bãi biển",
+      "danhSachDapAn": []
+    }
+  ]
+}

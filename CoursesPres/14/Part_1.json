@@ -1,0 +1,442 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "VOCABULARY",
+  "videoUrl": "4SKILLS_PRE_S_L14/vocabulary.mp4",
+  "newWords": [
+    {
+      "word": "across from",
+      "loaiTu": "prep.p",
+      "phatAm": "/ə'krɒs frɒm/",
+      "meaning": "đối diện",
+      "viDu": "The school is across from the bookstore.\n(Trường học nằm đối diện hiệu sách.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/206.across.from.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/206.across.from.png"
+    },
+    {
+      "word": "on the corner of",
+      "loaiTu": "prep.p",
+      "phatAm": "/ɒn ðə ˈkɔːnər əv/",
+      "meaning": "ở góc",
+      "viDu": "The restaurant is on the corner of the street. \n(Nhà hàng này nằm ở góc phố.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/208.on.the.corner.of.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/208.on.the.corner.of.png"
+    },
+    {
+      "word": "on the left",
+      "loaiTu": "prep.p",
+      "phatAm": "/ɒn ðə left/",
+      "meaning": "ở phía trái",
+      "viDu": "The girl is on the left of the boy. \n(Bé gái ở phía trái của bé trai.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/209.on.the.left.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/209.on.the.left.png"
+    },
+    {
+      "word": "on the right",
+      "loaiTu": "prep.p",
+      "phatAm": "/ɒn ðə raɪt/",
+      "meaning": "ở phía phải",
+      "viDu": "The boy is on the right of the girl. \n(Bé trai ở phía phải của bé gái.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/205.on.the.right.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/205.on.the.right.png"
+    }
+  ],
+  "scriptVideo": [
+    {
+      "start": "0:00:13",
+      "end": "0:00:20",
+      "english": "Prepositions of place",
+      "subScriptEnglish": "Prepositions of place",
+      "matchedNewWords": [],
+      "vietnamese": "Các giới từ chỉ địa điểm"
+    },
+    {
+      "start": "0:01:06",
+      "end": "0:01:21",
+      "english": "across from",
+      "subScriptEnglish": " _across_from_ ",
+      "matchedNewWords": [
+        "across from"
+      ],
+      "vietnamese": "đối diện"
+    },
+    {
+      "start": "0:01:22",
+      "end": "0:01:55",
+      "english": "The school is across from the supermarket.",
+      "subScriptEnglish": "The school is  _across_from__ the supermarket.",
+      "matchedNewWords": [
+        "across from"
+      ],
+      "vietnamese": "Trường học nằm đối diện siêu thị ."
+    },
+    {
+      "start": "0:02:07",
+      "end": "0:02:24",
+      "english": "between",
+      "subScriptEnglish": " _between_ ",
+      "matchedNewWords": [
+        "between"
+      ],
+      "vietnamese": "ở giữa"
+    },
+    {
+      "start": "00:02:26",
+      "end": "0:02:55",
+      "english": "The cat is between two boxes.",
+      "subScriptEnglish": "The cat is  _between__  _two__ boxes.",
+      "matchedNewWords": [
+        "between",
+        "two"
+      ],
+      "vietnamese": "Con mèo ở giữa 2 cái hộp."
+    },
+    {
+      "start": "0:03:10",
+      "end": "0:03:24",
+      "english": "next to",
+      "subScriptEnglish": " _next_to_ ",
+      "matchedNewWords": [
+        "next to"
+      ],
+      "vietnamese": "bên cạnh"
+    },
+    {
+      "start": "0:03:27",
+      "end": "0:03:53",
+      "english": "The ball is next to the doll.",
+      "subScriptEnglish": "The ball is  _next_to__ the doll.",
+      "matchedNewWords": [
+        "next to"
+      ],
+      "vietnamese": "Quả bóng đang nằm cạnh con búp bê."
+    },
+    {
+      "start": "0:04:04",
+      "end": "0:04:19",
+      "english": "on",
+      "subScriptEnglish": " _on_ ",
+      "matchedNewWords": [
+        "on"
+      ],
+      "vietnamese": "ở trên"
+    },
+    {
+      "start": "0:04:23",
+      "end": "0:04:45",
+      "english": "The cat is on the table.",
+      "subScriptEnglish": "The cat is  _on__ the  _table._ ",
+      "matchedNewWords": [
+        "table",
+        "on"
+      ],
+      "vietnamese": "Chú mèo đang nằm trên bàn."
+    },
+    {
+      "start": "0:04:59",
+      "end": "0:05:18",
+      "english": "on the corner of",
+      "subScriptEnglish": " _on_the_corner_of_ ",
+      "matchedNewWords": [
+        "on the corner of"
+      ],
+      "vietnamese": "ở góc của"
+    },
+    {
+      "start": "0:05:24",
+      "end": "0:05:56",
+      "english": "The restaurant is on the corner of the street.",
+      "subScriptEnglish": "The  _restaurant__ is  _on_the_corner_of__ the  _street._ ",
+      "matchedNewWords": [
+        "on the corner of",
+        "restaurant",
+        "street"
+      ],
+      "vietnamese": "Nhà hàng này nằm ở góc của con đường."
+    },
+    {
+      "start": "0:06:04",
+      "end": "0:06:20",
+      "english": "on the left",
+      "subScriptEnglish": " _on_the_left_ ",
+      "matchedNewWords": [
+        "on the left"
+      ],
+      "vietnamese": "ở bên trái"
+    },
+    {
+      "start": "0:06:25",
+      "end": "0:06:55",
+      "english": "The girl is on the left of the boy.",
+      "subScriptEnglish": "The girl is  _on_the_left__ of the boy.",
+      "matchedNewWords": [
+        "on the left"
+      ],
+      "vietnamese": "Bé gái đang ở bên trái của bé trai."
+    },
+    {
+      "start": "0:07:04",
+      "end": "0:07:27",
+      "english": "on the right",
+      "subScriptEnglish": " _on_the_right_ ",
+      "matchedNewWords": [
+        "on the right"
+      ],
+      "vietnamese": "ở bên phải"
+    },
+    {
+      "start": "0:07:31",
+      "end": "0:08:00",
+      "english": "The boy is on the right of the girl.",
+      "subScriptEnglish": "The boy is  _on_the_right__ of the girl.",
+      "matchedNewWords": [
+        "on the right"
+      ],
+      "vietnamese": "Bé trai đang ở bên phải của bé gái."
+    }
+  ],
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:00:46.486",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "b6735dd3-c5ed-463b-bf89-048c52ee2514",
+                "dapAn": "b"
+              },
+              {
+                "_id": "d96384fd-fb0f-4da5-bbe1-95d759c192d9",
+                "dapAn": "o"
+              },
+              {
+                "_id": "e9c94d09-d333-4e9c-ab9e-b3b359ee26e4",
+                "dapAn": "o"
+              },
+              {
+                "_id": "8b34cabc-7245-4d59-b763-06ea2ab9d01e",
+                "dapAn": "k"
+              },
+              {
+                "_id": "b0d4616c-cbb4-45f8-aa5a-135fc6ecaf82",
+                "dapAn": "s"
+              },
+              {
+                "_id": "cce0c856-1739-49e5-ba29-628c6fd9fd68",
+                "dapAn": "t"
+              },
+              {
+                "_id": "ecd937f1-7ae9-48cf-8a9c-97748c4e9e23",
+                "dapAn": "o"
+              },
+              {
+                "_id": "36182d0f-9bc0-4aa1-ba9a-169164a71c7d",
+                "dapAn": "r"
+              },
+              {
+                "_id": "a6cc785f-62df-44e0-84c0-360123bbd6ab",
+                "dapAn": "e"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "489b43a8-f0c2-4e88-9adc-dc8fad541b15",
+                "dapAn": "A"
+              },
+              {
+                "_id": "34b4f90d-3f4e-458c-b3c4-606e492d90b6",
+                "dapAn": "T"
+              },
+              {
+                "_id": "0f357b1f-4489-42d9-843b-5a312192749a",
+                "dapAn": "M"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "764ae40e-dab9-4aeb-bac6-09cfaed08df8",
+                "dapAn": "r"
+              },
+              {
+                "_id": "69da6f06-0a03-4fed-ae6a-2145d90b225d",
+                "dapAn": "e"
+              },
+              {
+                "_id": "b54c4afd-096f-4e75-9cbe-6693e85748a3",
+                "dapAn": "s"
+              },
+              {
+                "_id": "4687eaa7-daeb-46ac-bf94-f71b5d139cd3",
+                "dapAn": "t"
+              },
+              {
+                "_id": "ddb1566e-5679-4ece-8319-66ea68a06aa9",
+                "dapAn": "a"
+              },
+              {
+                "_id": "2ced635e-bf9b-4b61-8736-42428973a8fa",
+                "dapAn": "u"
+              },
+              {
+                "_id": "08e876b4-b34f-4be0-9ced-44a6af65c371",
+                "dapAn": "r"
+              },
+              {
+                "_id": "a0f98378-9301-46ad-8091-3f9bdd0f99c6",
+                "dapAn": "a"
+              },
+              {
+                "_id": "937644b5-bf40-4fc8-a2c0-dfcd150e6ecf",
+                "dapAn": "n"
+              },
+              {
+                "_id": "010eaf2f-74b1-444d-9422-52f057272429",
+                "dapAn": "t"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "7d7da737-630e-4093-8197-5b532827c24c",
+                "dapAn": "h"
+              },
+              {
+                "_id": "2dda1c48-bc6d-4747-af28-9cdf2acea078",
+                "dapAn": "o"
+              },
+              {
+                "_id": "faf6e936-6f5c-418d-8e91-179bc68f5f26",
+                "dapAn": "s"
+              },
+              {
+                "_id": "caff362c-bf2f-406e-9fb1-15f7bec91d10",
+                "dapAn": "p"
+              },
+              {
+                "_id": "25c291ea-2dc2-4cac-908e-48a88b0baad4",
+                "dapAn": "i"
+              },
+              {
+                "_id": "20e6f76b-369c-4ad8-b1d2-5276cd10f8ae",
+                "dapAn": "t"
+              },
+              {
+                "_id": "1c9d61eb-48dd-4283-a6ee-3d96048a7577",
+                "dapAn": "a"
+              },
+              {
+                "_id": "e3bd5e0f-a337-4142-9cf0-9b30db452e0b",
+                "dapAn": "l"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "c377a4fa-34ce-40f2-8d78-1772dc2e1741",
+                "dapAn": "u"
+              },
+              {
+                "_id": "5491f700-c080-4db1-a9a6-9537fea10aac",
+                "dapAn": "n"
+              },
+              {
+                "_id": "240555e5-9b97-492d-bf8f-02702025d9d4",
+                "dapAn": "i"
+              },
+              {
+                "_id": "8bb076ee-d37b-4aa2-89d0-dd92fb79d357",
+                "dapAn": "v"
+              },
+              {
+                "_id": "aec4ca8f-7e3d-4fe9-9c66-b0f2a707cfd6",
+                "dapAn": "e"
+              },
+              {
+                "_id": "dd3df90f-667e-475e-a633-96a08a9aee7e",
+                "dapAn": "r"
+              },
+              {
+                "_id": "a003e780-5858-4b21-9712-b438ed37f736",
+                "dapAn": "s"
+              },
+              {
+                "_id": "53cbdfd0-dc61-4f0d-a295-571bde3366c7",
+                "dapAn": "i"
+              },
+              {
+                "_id": "d63d9528-304e-435a-8f69-6aae780f41a8",
+                "dapAn": "t"
+              },
+              {
+                "_id": "d739d455-1078-4334-9c04-2ce215700262",
+                "dapAn": "y"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:00:46.486",
+      "timeEnd": "0:08:20.518",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Next to",
+            "_id": {
+              "$oid": "9750c4b5-875c-4014-a0dd-852ae4f823aa"
+            },
+            "yNghia": "Bên cạnh"
+          },
+          {
+            "cauHoi": "On the left",
+            "_id": {
+              "$oid": "c3138c73-5138-433a-815c-d9c702b935c1"
+            },
+            "yNghia": "Ở bên trái"
+          },
+          {
+            "cauHoi": "Between",
+            "_id": {
+              "$oid": "fefd413d-6536-4cba-b205-b5450336aae1"
+            },
+            "yNghia": "Ở giữa"
+          },
+          {
+            "cauHoi": "On the right",
+            "_id": {
+              "$oid": "29096f6b-3310-4072-b9bc-4c3002ce708f"
+            },
+            "yNghia": "Ở bên phải"
+          },
+          {
+            "cauHoi": "On the corner of",
+            "_id": {
+              "$oid": "be40cc50-0114-4861-8212-8a06901e61f0"
+            },
+            "yNghia": "Ở góc"
+          }
+        ]
+      }
+    }
+  ]
+}

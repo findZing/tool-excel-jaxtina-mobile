@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "8b81858a-badc-475b-8e26-77b001dcd2bd"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "139f03cf-43e1-4093-94f8-e1b3630a838a"
+          },
+          "cauHoi": "What does Seth Hawk do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "0da72d20-48cf-4a48-8491-a39a0e768bf0"
+              },
+              "dapAn": "A. an engineer",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6a203d39-9c8f-470b-aa33-d8e9cd4c963d"
+              },
+              "dapAn": "B. a scientist",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "4b29afd4-0e54-4364-934a-ca39e8de54d6"
+              },
+              "dapAn": "C. a dentist",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f2d4d9ba-4f1b-4784-8d89-f9d0a2e4cfb5"
+              },
+              "dapAn": "D. a professor",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "578d52e0-871d-4422-8d53-ec601b00ce88"
+          },
+          "cauHoi": "When does the show start?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a3aa9eeb-b5e6-467b-81b4-dc6bb3c7fb42"
+              },
+              "dapAn": "A. in the evening",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "0aaef534-11e8-4b11-8525-117e3ffc8c84"
+              },
+              "dapAn": "B. in the morning",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7fa5c358-9a39-420b-ac70-2bbf78852c40"
+              },
+              "dapAn": "C. at night",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ba8c1d6d-376d-4187-8ce2-c87d4f34acc7"
+              },
+              "dapAn": "D. in the afternoon",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "dc997eab-72b9-455a-a455-d4832c9a6289"
+          },
+          "cauHoi": "What hit the Earth and changed our planet forever?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "81c00ca7-7956-4dbd-b48d-85c9d45a7bd6"
+              },
+              "dapAn": "A. another planet",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "02320250-e6ce-40ee-8a1c-3a998d0ac579"
+              },
+              "dapAn": "B. a giant rock",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9a05b13d-a1a5-4ecc-984d-0d7703d9b26e"
+              },
+              "dapAn": "C. asteroid",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7fd5bb0c-c6aa-470c-a022-617eb607dcc3"
+              },
+              "dapAn": "D. meteorite",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "dd3a16e9-a626-46ac-8d04-2bb240a4a7ae"
+          },
+          "cauHoi": "What did the meteorite create after hitting the Earth?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "186f04da-d391-4a99-9d18-1b185394393a"
+              },
+              "dapAn": "A. a crater\n",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "aef9e563-0752-432a-b290-6edf58d05a82"
+              },
+              "dapAn": "B. a giant hole",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "99e0f094-7476-4b72-a3b4-60701cdf3027"
+              },
+              "dapAn": "C. fire",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e3276da3-1d72-441d-8251-7b530ef178e4"
+              },
+              "dapAn": "D. deaths",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>This is History Mystery. Our discussion today is \"What on Earth happened?\". Please welcome scientist Seth Hawk.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Seth:</b></td>\n                        <td>Good evening! I'm very glad to be here to speak to all of you.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Mr. Hawk, can you tell us one thing that happened that changed our planet forever?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Seth:</b></td>\n                        <td>A meteorite hit the Earth and created a crater that was 185km wide.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What does Seth Hawk do?</b> <i>(Sean làm việc ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>Please welcome scientist Seth Hawk.</b> <i>(</i><i>Xin chào mừng nhà khoa học Seth Hawk.</i></span><i>).</i> Nên đáp áp là <span style=\"color:red\"><b>B. a scientist</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(một nhà khoa học).</i><br />\n<b>2.</b> Với câu hỏi <b>When does the show start?</b> <i>(Chương trình bắt đầu lúc nào?),</i> <b></b>câu trong bài đọc liên quan là <b>Good evening!</b> <b><i></i></b><i>(Chào buổi tối!</i><i>).</i></span> Nên đáp áp là <span style=\"color:red\"><b>A. in the evening</b></span> <i>(vào buổi tối).</i><br />\n<b>3.</b> Với câu hỏi <b>What hit the Earth and changed our planet forever?</b> <i>(Cái gì đã đâm vào trái đất và thay đổi hành tinh của chúng ta mãi mãi?)</i> câu trong bài đọc liên quan là <b>A meteorite hit the Earth and created a crater.</b> <b><i>(</i></b><i>Một thiên thạch va vào Trái đất và tạo ra một hố trũng.).</i> Nên đáp áp là <span style=\"color:red\"><b>D. meteorite</b></span> <i>(thiên thạch).</i><br />\n<b>4.</b> Với câu hỏi <b>What did the meteorite create after hitting the Earth?</b> <i>(Thiên thạch đã tạo ra cái gì sau khi đâm vào Trái đát?),</i> <b></b>câu trong bài đọc liên quan là <b>A meteorite hit the Earth and created a crater</b> <i>(Một thiên thạch va vào Trái đất và tạo ra một hố trũng.).</i> <i></i></span>Nên đáp áp là <span style=\"color:red\"><b>A. a crater</b></span> <i>(hố trũng).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f3992795-1b75-479a-b6e2-89e580dd432e"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "5e899fc4-5277-43e4-a982-51c9380d8e1a"
+          },
+          "cauHoi": "What caused extinctions according to scientists?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "0f4ffc28-dcff-41f4-a1f3-3b615cbfd237"
+              },
+              "dapAn": "A. human\n",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "28c3bc86-82cb-4c76-9e13-00154b10e9aa"
+              },
+              "dapAn": "B. the meteorite",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "94c8598c-e021-4ecc-b5b3-fadab506be92"
+              },
+              "dapAn": "C. dinosaurs",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9c60dfde-cb9a-4a2f-b9d8-6ba00555930a"
+              },
+              "dapAn": "D. asteroid",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "3325462e-4023-4cf9-aff4-7dcced1f8178"
+          },
+          "cauHoi": "How long does it take for earthquakes and tidal waves to happen after that?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "19e7adc0-6dcb-4e91-9253-c0a7614d43c8"
+              },
+              "dapAn": "A. a while\n",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c7b5fad3-c10b-4ac2-b482-743e8ba39b89"
+              },
+              "dapAn": "B. a long time",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4edd531c-0fd2-48c0-b7aa-daf3cbd04cd7"
+              },
+              "dapAn": "C. a very short time\n",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e5fbf5ab-9a54-41cb-9f3c-61629ec942bf"
+              },
+              "dapAn": "D. a day",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "df58aa62-3b2a-41c5-bc86-d301aa4348a8"
+          },
+          "cauHoi": "How high were the tidal waves?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7cdcc6de-0c6c-4516-a2a3-ca64b1d76037"
+              },
+              "dapAn": "A. 100 meters",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "09a5e2ec-5773-4e5c-8914-3f2572e7a11c"
+              },
+              "dapAn": "B. 300 meters",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a01e15a7-7d21-49e7-8d36-01bbbc1f90bb"
+              },
+              "dapAn": "C. 200 meters",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1ad1e55b-5944-4bcc-bbad-5ebaf501001d"
+              },
+              "dapAn": "D. 400 meters",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "3d080173-e747-45ad-9e99-f83d4b1110f4"
+          },
+          "cauHoi": "Where were there earthquakes and tidal waves?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7d4fce4d-d129-469c-a313-c4452908d2a8"
+              },
+              "dapAn": "A. highlands",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b980009d-fba5-4552-ad81-8dd231abc617"
+              },
+              "dapAn": "B. lowlands",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "10339a3b-98a6-4472-bf16-ecffc36b91a7"
+              },
+              "dapAn": "C. islands",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4978e726-67d2-47bc-8dae-f53837bda306"
+              },
+              "dapAn": "D. everywhere",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>What do scientists think about the meteorite?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Seth:</b></td>\n                        <td>We agree that the meteorite was the main cause of these mass extinctions.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>How did it destroy the world?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Seth:</b></td>\n                        <td>Almost immediately after the impact, there were earthquakes and 300-meter-high tidal waves everywhere.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What caused extinctions according to scientists?</b> <i>(Theo các nhà khoa học thì cái gì gây ra sự tuyệt chủng?),</i> <b></b>câu trong bài đọc liên quan là <b>What do scientists think about the meteorite? We agree that the meteorite was the main cause of these mass extinctions</b> <i>(Các nhà khoa học nghĩ gì về thiên thạch? Chúng tôi đồng ý rằng thiên thạch là nguyên nhân chính của những sự tuyệt chủng hàng loạt này.).</i> Nên đáp áp là <span style=\"color:red\"><b>B. the meteorite</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(thiên thạch).</i><br />\n<b>2.</b> Với câu hỏi <b>How long does it take for earthquake and tidal waves to happen after that?</b> <i>(Sau bao lâu thì động đất và sóng thần xảy ra?),</i> <b></b>câu trong bài đọc liên quan là <b>Almost immediately after the impact, there were earthquakes and 300-meter-high tidal waves everywhere.</b> <b><i></i></b><i>(Gần như ngay lập tức sau vụ va chạm, có động đất và sóng thần cao 300 mét ở khắp mọi nơi.</i><i>).</i></span> Nên đáp áp là <span style=\"color:red\"><b>C. a very short time</b></span> <i>(một thời gian rất ngắn).</i><br />\n<b>3.</b> Với câu hỏi <b>How high were the tidal waves?</b> <i>(Sóng thần cao bao nhiêu?)</i> câu trong bài đọc liên quan là <b>300-meter-high tidal waves</b> <i>(sóng thần cao 300 mét).</i> Nên đáp áp là <span style=\"color:red\"><b>B. 300 meters</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(300 mét).</i><br />\n<b>4.</b> Với câu hỏi <b>Where were there earthquakes and tidal waves?</b> <i>(Đã có động đất và sóng thần ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>there were earthquakes and 300-meter-high tidal waves everywhere</b>. <b></b><i>(có động đất và sóng thần cao 300 mét ở khắp mọi nơi.)</i> <i></i></span>Nên đáp án là <span style=\"color:red\"><b>D. everywhere</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(mọi nơi).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1007f487-1f25-4a15-885f-ddca8ac045ae"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "9fd59509-86a0-476e-9314-5da41df747dd"
+          },
+          "cauHoi": "How long did it take for debris to fall out of the sky after the explosion?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8f422fb7-c3c5-4bd8-9079-778ab76c7a87"
+              },
+              "dapAn": "A. right after that",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1af24e83-5422-4abb-b4e8-372852fc93e1"
+              },
+              "dapAn": "B. about 1 minute later",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ee3c0292-3b05-4bad-8bf5-fb36da0adf70"
+              },
+              "dapAn": "C. about 5 minutes later",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8d1cfd2d-efa2-4eeb-86d9-10a61dc2c099"
+              },
+              "dapAn": "D. about 8 minutes later",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "6d99acee-0041-454a-b9a6-ef1820e943f6"
+          },
+          "cauHoi": "Where was there fire after the explosion?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "0042e199-98c2-4913-a316-f02602982f48"
+              },
+              "dapAn": "A. everywhere",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "308aa103-b923-4eae-a50e-a262efe5183b"
+              },
+              "dapAn": "B. islands",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a68b658c-c6dc-49e7-9410-d86dcf5b8aea"
+              },
+              "dapAn": "C. forests",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "2e8c3058-1555-4d05-8e4a-ac3db7da9426"
+              },
+              "dapAn": "D. highlands",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "1144ed8c-b9cd-4ab2-a801-364e98180761"
+          },
+          "cauHoi": "Why was there no food for the herbivores?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d6977244-7eb9-4138-8f6b-7e030197a3bf"
+              },
+              "dapAn": "A. There were no plants left.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "8f5956ff-b7ea-4cd7-9058-31aee6c205cd"
+              },
+              "dapAn": "B. Their parents died.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5a0e1ff0-ba11-45f5-883b-83a9840d369f"
+              },
+              "dapAn": "C. They couldn’t hunt.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2237af66-7f19-424c-82c4-27d51277c0ca"
+              },
+              "dapAn": "D. Dinosaurs ate all plants.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "260d9459-c5f6-4b9b-90a7-e1486cfd6036"
+          },
+          "cauHoi": "What happened when the herbivores died?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "640a0fc3-c37a-40ad-bad7-576d71994809"
+              },
+              "dapAn": "A. Human died.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "15c0ddc8-1a9b-403e-9d71-8fee9828ad03"
+              },
+              "dapAn": "B. Dinosaurs died.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "85bd77b8-1591-46f7-8c2c-8e857feb384f"
+              },
+              "dapAn": "C. The carnivores died.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "890ccfba-63a3-4392-9d75-9ed54aa75589"
+              },
+              "dapAn": "D. All plants died.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Seth:</b></td>\n                        <td>About eight minutes later, debris from the explosion would have started to fall out of the sky.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>This caused massive forest fires, didn't it?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Seth:</b></td>\n                        <td>That's true! There would also have been 965-km-per-hour winds which destroyed everything.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Without sunlight, plants began to die, so there was no food for the herbivores, right? </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Seth:</b></td>\n                        <td>Correct. The death of herbivores means that the carnivores didn't have food and died, too.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>How long did it take for debris to fall out of the sky after the explosion?</b> <i>(Sau bao lâu thì các mảnh vỡ từ vụ nổ rơi xuống từ bầu trời?),</i> <b></b>câu trong bài đọc liên quan là <b>About eight minutes later, debris from the explosion would have started to fall out of the sky.</b> <b><i></i></b><i>(Khoảng tám phút sau, các mảnh vỡ từ vụ nổ sẽ bắt đầu rơi xuống từ bầu trời.).</i> Nên đáp áp là <span style=\"color:red\"><b>D. about 8 minutes later</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(8 phút sau).</i><br />\n<b>2.</b> Với câu hỏi <b>Where was there fire after the explosion?</b> <i>(Lửa đã bùng lên ở đâu sau vụ nổ),</i> <b></b>câu trong bài đọc liên quan là <b>This caused massive forest fires, didn't it?</b> <b><i>-</i></b> <b>That's true.</b> <b><i></i></b><i>(Điều này gây ra các vụ cháy rừng lớn, phải không? - Đúng.</i><i>)</i></span> Nên đáp áp là <span style=\"color:red\"><b>C. forests</b></span><br />\n<i>(rừng).</i><br />\n<b>3.</b> Với câu hỏi <b>Why was there no food for the herbivores?</b> <i>(Tại sao không có thức ăn cho động vật ăn cỏ?)</i> câu trong bài đọc liên quan là <b>Without sunlight, plants began to die, so there was no food for the herbivores, right? - Correct.</b> <b><i></i></b><i>(Không có ánh sáng mặt trời, thực vật bắt đầu chết, vì vậy không có thức ăn cho động vật ăn cỏ, phải không? - Chính xác.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. There were no plants left.</b></span> <i>(Không còn cây cỏ.).</i><br />\n<b>4.</b> Với câu hỏi <b>What happened when the herbivores died?</b> <i>(Điều gì đã xảy ra khi động vật ăn cỏ chết?),</i> <b></b>câu trong bài đọc liên quan là <b>The death of herbivores means that the carnivores didn't have food and died, too</b> <i>(Cái chết của động vật ăn cỏ có nghĩa là động vật ăn thịt không có thức ăn và cũng chết theo.).</i> <i></i></span>Nên đáp áp là <span style=\"color:red\"><b>C. The carnivores died.</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(Động vật ăn thịt đã chết.).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a73477de-7688-4869-80c4-1e708f8059fd"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "c420c14f-9406-4a40-807d-178091f2e5e3"
+          },
+          "cauHoi": "What is the speaker going to talk about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3704e894-5a59-4296-bbf8-5eeb91a82bce"
+              },
+              "dapAn": "A. people’s regrets",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "949ed839-1343-4393-a468-c7eb85fc562c"
+              },
+              "dapAn": "B. people’s wishes",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "67d6bcb2-eed5-4320-af28-ac6e39419b92"
+              },
+              "dapAn": "C. people’s ambitions",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "515c7011-024f-41ed-8f3a-c1f83505d660"
+              },
+              "dapAn": "D. people’s wants",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "51a92a90-79eb-4d5b-a604-e3bf48d28d67"
+          },
+          "cauHoi": "Will there be any regrets that might be surprising?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "90607ff1-0418-41da-a2ba-569f6ac0a7fa"
+              },
+              "dapAn": "A. No, there won’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "75981ba7-300d-4e64-9fec-90de8cbd944d"
+              },
+              "dapAn": "B. Yes, there will.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "d5ee3511-a0a3-42ce-99af-a0e10d23da8a"
+              },
+              "dapAn": "C. Yes, there won’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f40e0c3c-c0c4-4ca2-b004-d4cb37148bdb"
+              },
+              "dapAn": "D. No, there will.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "57fa04d7-2be8-402a-8b16-b9431764e862"
+          },
+          "cauHoi": "What is the first regret about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "054343c8-ae5a-4593-bdba-0d05b7ee703f"
+              },
+              "dapAn": "A. people’s professional lives",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "c690aeed-676f-498d-afcb-ee47b880f5d6"
+              },
+              "dapAn": "B. getting promoted",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8428ff9a-e81e-4b24-94a7-3012ca664f36"
+              },
+              "dapAn": "C. getting rich",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3f6e8369-0a7e-4a78-8ce1-cf89f8b04315"
+              },
+              "dapAn": "D. landing a job",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "736eefa0-5ce5-4ba9-a611-feb6190ce730"
+          },
+          "cauHoi": " What aspect of professional lives that the speaker is talking about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c0eb2007-04d9-4282-bca5-c93ce9606170"
+              },
+              "dapAn": "A. salary",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b88090ac-2c98-4326-b527-3237e0a6b1a4"
+              },
+              "dapAn": "B. promotion",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ec947370-ecb4-4261-b09b-a5ec1780d2d0"
+              },
+              "dapAn": "C. achievements",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b0993b0a-e992-47c9-8c06-521a6d6bab7f"
+              },
+              "dapAn": "D. time",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "I’m going to tell you about some of the things that many people say they regret. I think you can probably predict what some of the top regrets are, but others may surprise you! The first regret is connected to people’s professional lives, but it isn’t about turning down a job or earning money. It’s about time.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What is the speaker going to talk about?</b> <b><i></i></b><i>(Người nói sẽ nói về điều gì?),</i> <b></b>câu trong bài đọc liên quan là <b>I'm going to tell you about some of the things that many people say they regret.</b> <b><i></i></b><i>(Tôi sẽ kể cho bạn nghe về một số điều mà nhiều người nói rằng họ hối tiếc.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. people's regrets</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(những hối tiếc của mọi người).</i><br />\n<b>2.</b> Với câu hỏi <b>Will there be any regrets that might be surprising?</b> <i>(Liệu có hối tiếc nào mà có thể làm mọi người ngạc nhiên không?),</i> <b></b>câu trong bài đọc liên quan là <b>I think you can probably predict what some of the top regrets are, but others may surprise you!</b> <b><i></i></b><i>(Tôi nghĩ rằng bạn có thể đoán được một số hối tiếc phổ biến, nhưng một số hối tiếc khác có thể làm bạn ngạc nhiên đấy!</i><i>).</i></span> Nên đáp áp là <span style=\"color:red\"><b>B. Yes, there will.</b></span> <i>(Có.).</i><br />\n<b>3.</b> Với câu hỏi <b>What is the first regret about?</b> <i>(Hối tiếc đầu tiên là gì?)</i> câu trong bài đọc liên quan là <b>The first regret is connected to people's professional lives</b> <b><i></i></b><i>(Hối tiếc đầu tiên là về đời sống công việc của mọi người.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. people's professional lives</b></span> <i>(đời sống công việc của mọi người).</i> <br />\n<b>4.</b> Với câu hỏi <b>What aspect of professional lives that the speaker is talking about?</b> <i>(Khía cạnh nào của đời sống công việc mà người nói đang nhắc đến?),</i> <b></b>câu trong bài đọc liên quan là <b>It's about time.</b> <i>(Đó là về thời gian.)</i> <i></i></span>Nên đáp áp là <span style=\"color:red\"><b>D. time</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(thời gian).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "04174584-d2c1-4548-8003-2981a7325985"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "64f19bf7-489b-4e86-941b-f8cdb2211b90"
+          },
+          "cauHoi": "Which kind of relationship do people might regret about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9a584702-bd31-4a91-b2b6-dd0d86af7239"
+              },
+              "dapAn": "A. relationship with ex-lovers",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "59968c7c-695b-43c2-82f6-2a3a1642fa61"
+              },
+              "dapAn": "B. relationship with family",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "61043356-d320-4df2-a1ea-ed9829cbd6dd"
+              },
+              "dapAn": "C. relationship with relatives",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e8c2ed76-8751-4065-8124-a5bb3472dffc"
+              },
+              "dapAn": "D. relationship with friends",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "705d68a8-1c5e-4402-b477-14296b72e2b8"
+          },
+          "cauHoi": "What are we afraid of doing sometimes?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "5a9db695-ff54-46ae-b65a-4701f6cc257d"
+              },
+              "dapAn": "A. contacting your friends after a long time",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "0429c037-41d1-42b9-883c-f0ff148287a0"
+              },
+              "dapAn": "B. being busy",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1318336b-46dc-4862-8082-b0c16f73243a"
+              },
+              "dapAn": "C. moving forward",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d67e5af3-f521-4caf-9449-55a8952b1a1b"
+              },
+              "dapAn": "D. getting over past relationships",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "bb39e3d0-1e9a-42bc-add8-f7a5ba33de66"
+          },
+          "cauHoi": "Why do we sometimes don’t contact our old friends? \n",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "96efba0b-64a0-465a-97c0-31f2a71d8ffe"
+              },
+              "dapAn": "A. We’re afraid they might become angry.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "7ffc7bd4-b456-4d15-91a1-89e98e17591b"
+              },
+              "dapAn": "B. We’re too lazy.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f6d6accb-c6da-4013-90c9-ef769d5a8c1b"
+              },
+              "dapAn": "C. We don’t care about them anymore.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e22e2c7a-4efd-42c2-b19f-d7d13f0cd9e8"
+              },
+              "dapAn": "D. We hate them now.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "e810e9ba-5a56-4b16-b5cc-ed0e705e076a"
+          },
+          "cauHoi": "Do your friends think the same about you?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6b47f868-0e53-410f-9d0d-bc42e6723091"
+              },
+              "dapAn": "A. Yes, they definitely do.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fe017a16-0ba7-4592-8ca2-7dfd7b086fe2"
+              },
+              "dapAn": "B. No, they don’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "62f4fd92-f587-4771-908b-dbe39c3b09e0"
+              },
+              "dapAn": "C. Yes, they probably do.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "5d398f32-b29e-4eee-9351-b3eeba5d9221"
+              },
+              "dapAn": "D. No, they absolutely don’t.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Another common regret is about friendships. People say they wish they had stayed in touch with old friends. We all get busy and time moves forward. Then sometimes we are afraid to get in touch with someone after a long time. We think they will be angry or hurt.\nHowever, they’re probably thinking the same thing about you!",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Which kind of relationship do people might regret about?</b> <i>(Kiểu mối quan hệ nào mà mọi ngừoi có thể hối hận?),</i> <b></b>câu trong bài đọc liên quan là <b>Another common regret is about friendships</b> <b><i></i></b><i>(Một điều hối tiếc phổ biến khác là về tình bạn.).</i> Nên đáp áp là <span style=\"color:red\"><b>D. relationships with friends</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(những mối quan hệ với bạn bè).</i><br />\n<b>2.</b> Với câu hỏi <b>What are we afraid of doing sometimes?</b> <i>(Chúng ta thỉnh thoảng e ngại làm gì?),</i> <b></b>câu trong bài đọc liên quan <b>Then sometimes we are afraid to get in touch with someone after a long time.</b> <i>(Rồi đôi khi chúng ta sợ liên lạc với ai đó sau một thời gian dài.</i><i>).</i></span> Nên đáp áp là <span style=\"color:red\"><b>A. contacting your friends after a long time</b></span> <i>(liên lạc với bạn sau một thời gian dài).</i><br />\n<b>3.</b> Với câu hỏi <b>Why do we sometimes don't contact your old friends?</b> <i>(Tại sao thỉnh thoảng chúng ta lại không liên lạc lại với bạn cũ?)</i> câu trong bài đọc liên quan là <b>We think they will be angry or hurt.</b> <b><i></i></b><i>(Chúng tôi nghĩ rằng họ sẽ tức giận hoặc bị tổn thương.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. We're afraid they might become angry.</b></span> <i>(Chúng ta sợ rằng họ có thể tức giận.).</i> <br />\n<b>4.</b> Với câu hỏi <b>Do your friends think the same about you?</b> <i>(Bạn bè bạn có nghĩ điều tương tự không?),</i> <b></b>câu trong bài đọc liên quan là <b>they're probably thinking the same thing about you!</b> <i>(có lẽ họ đang nghĩ điều tương tự về bạn!)</i> <i></i></span>Nên đáp áp là <span style=\"color:red\"><b>C. Yes, they probably do.</b></span> <i>(Có thể họ có.)</i>.",
+      "danhSachDapAn": []
+    }
+  ]
+}

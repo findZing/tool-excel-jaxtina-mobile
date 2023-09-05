@@ -1,0 +1,176 @@
+{
+  "dangCauHoi": "P2",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "5f33d07b-5fce-4c57-992e-b9f0e660d230"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_PRE_S_L6/sounds/normal/PRE_S_6_LISTENING_Listening 1.mp3",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>Excuse me, where is my phone?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Xin lỗi, điện thoại của tôi ở đâu?</td>\n                </tr>\n                <tr>\n                        <td><b>Kim:</b></td>\n                        <td><span style=\"color:red\">It's under the table.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Nó ở dưới cái bàn.</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>Oh thanks! Do you have your brush?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Ồ cảm ơn bạn! Bạn có bàn chải của bạn không?</td>\n                </tr>\n                <tr>\n                        <td><b>Kim:</b></td>\n                        <td><span style=\"color:red\">Yes, but I don't see my wallet!</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Có, nhưng tôi không thấy ví của tôi!</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>Is it in your handbag?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Nó có trong túi xách của bạn không?</td>\n                </tr>\n                <tr>\n                        <td><b>Kim:</b></td>\n                        <td>No, it isn't.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Không, nó không có trong đó.</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>Hm, let's look for it!</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Ừm, chúng ta hãy tìm nó!</td>\n                </tr>\n                <tr>\n                        <td><b>Kim:</b></td>\n                        <td><span style=\"color:red\">I will check in the bedroom!</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi sẽ kiểm tra trong phòng ngủ!</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>I will check in the living room!</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi sẽ kiểm tra trong phòng khách!</td>\n                </tr>\n                <tr>\n                        <td><b>Kim:</b></td>\n                        <td>Thanks a lot.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Cảm ơn bạn rất nhiều.</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>Hey, I don't see your wallet, but I see your watch!</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Này, tôi không thấy ví của bạn nhưng tôi thấy đồng hồ của bạn!</td>\n                </tr>\n                <tr>\n                        <td><b>Kim:</b></td>\n                        <td><span style=\"color:red\">Oh my God! I see your umbrella. Do we need it?</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Ôi chúa ơi! Tôi thấy chiếc ô của bạn. Chúng ta có cần nó không?</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>I think yes.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi nghĩ là có.</td>\n                </tr>\n                <tr>\n                        <td><b>Kim:</b></td>\n                        <td>Okay, I will take it.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Được rồi, tôi sẽ lấy nó.</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td><span style=\"color:red\">Kimmm, your wallet is here under the rug!</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Kimmm, ví của bạn ở đây, dưới tấm thảm!</td>\n                </tr>\n                <tr>\n                        <td><b>Kim:</b></td>\n                        <td>What? Unbelievable!</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Gì cơ? Không thể tin được!</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>Haha, that's enough, let's go camping!</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Haha, đủ rồi, đi cắm trại thôi!</td>\n                </tr>\n                <tr>\n                        <td><b>Kim:</b></td>\n                        <td>Okay, let's go!</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Được rồi, chúng ta đi thôi!</td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b0ef1afc-f93e-4d06-9f94-bfa5ea6c5d75"
+          },
+          "dapAn": "It's under the table.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e6a9eaa1-3cbd-43a7-9136-371dace9d0f8"
+          },
+          "dapAn": "Yes, but I don't see my wallet!",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "491b2336-e9d2-4567-9452-3f7ac4b3412d"
+          },
+          "dapAn": "I will check in the bedroom!",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e264d37d-999d-4bd0-989f-8b124e9c519c"
+          },
+          "dapAn": "Oh my God! I see your umbrella. Do we need it?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4eb304f2-cbcf-41b8-80b0-4ab96ded79e4"
+          },
+          "dapAn": "Kimmm, I find your wallet under the rug!",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e04d1c73-b0ab-4954-849e-3ade56d782f5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_PRE_S_L6/sounds/normal/PRE_S_6_LISTENING_Listening 2.mp3",
+      "yNghia": "This is a picture of my room. <span style=\"color:red\">My room is not so big, but it is beautiful. </span>There is a brown door. <span style=\"color:red\">On the left of the room, there is a small window.</span> It is pink, my favorite color. I also have a bed in the middle. It is very comfortable. <span style=\"color:red\">At the corner, I put a desk and a chair.</span> I usually work and study there. <span style=\"color:red\">There is an E-reader on the desk.</span> My parents gave it to me. <span style=\"color:red\">There is a transit card and an ID card too. </span>I always feel happy in my room. I love my room.<br />\n<br />\nĐây là ảnh căn phòng của tôi. Phòng của tôi không là quá lớn, nhưng nó đẹp. Có một cánh cửa màu nâu. Bên trái của căn phòng, có một cửa sổ nhỏ. Căn phòng có màu hồng, màu yêu thích của tôi. Tôi cũng có một cái giường ở giữa. Nó rất thoải mái. Ở góc nhà, tôi kê một cái bàn và một cái ghế. Tôi thường làm việc và học tập ở đó. Có một chiếc máy đọc sách điện tử trên bàn làm việc. Cha mẹ tôi đã tặng nó cho tôi. Có cả thẻ quá cảnh và thẻ căn cước nữa. Tôi luôn cảm thấy hạnh phúc khi ở trong phòng của mình. Tôi yêu căn phòng của tôi.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cc823dcf-acbc-47ee-8fe0-38175beac0df"
+          },
+          "dapAn": "My room is not so big, but it is beautiful.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3b213492-34a6-411f-8121-6caf3f4ffd86"
+          },
+          "dapAn": "On the left of the room, there is a small window.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "20fbfec1-6b7b-4abc-8819-a5fe189b89ea"
+          },
+          "dapAn": "At the corner, I put a desk and a chair.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5bfcbbd7-81a3-45be-9e32-e3293569e334"
+          },
+          "dapAn": "There is an E-reader on the desk.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a0e39b11-77ae-4426-930a-1171a131484a"
+          },
+          "dapAn": "There is a transit card and an ID card too.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2e4ae8ce-7717-4da4-b76a-6c580010c350"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_PRE_S_L6/sounds/normal/PRE_S_6_LISTENING_Listening 3.mp3",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td><b>Sarah:</b></td>\n                        <td>Good morning, Sean.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Chào buổi sáng, Sean.</td>\n                </tr>\n                <tr>\n                        <td><b>Sean:</b></td>\n                        <td><span style=\"color:red\">Morning, Sarah. What are you buying?</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Chào, Sarah. Bạn đang mua gì vậy?</td>\n                </tr>\n                <tr>\n                        <td><b>Sarah:</b></td>\n                        <td>I want to buy something for the new semester.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi muốn mua một vài thứ cho học kỳ mới.</td>\n                </tr>\n                <tr>\n                        <td><b>Sean:</b></td>\n                        <td><span style=\"color:red\">What do you want to buy?</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Bạn muốn mua gì?</td>\n                </tr>\n                <tr>\n                        <td><b>Sarah:</b></td>\n                        <td><span style=\"color:red\">I want to buy a laptop.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi muốn mua một chiếc máy tính xách tay.</td>\n                </tr>\n                <tr>\n                        <td><b>Sean:</b></td>\n                        <td>Let me help you. How about this one?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Hãy để tôi giúp bạn. Cái này thì sao?</td>\n                </tr>\n                <tr>\n                        <td><b>Sarah:</b></td>\n                        <td><span style=\"color:red\">It's too big. My backpack is quite small.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Nó quá to. Ba lô của tôi khá nhỏ.</td>\n                </tr>\n                <tr>\n                        <td><b>Sean:</b></td>\n                        <td>And this one?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Và cái này thì?</td>\n                </tr>\n                <tr>\n                        <td><b>Sarah:</b></td>\n                        <td><span style=\"color:red\">That looks nice. But it's too expensive.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Cái đó nhìn đẹp đấy. Nhưng nó quá đắt.</td>\n                </tr>\n                <tr>\n                        <td><b>Sean:</b></td>\n                        <td>This one is small and only $400.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Cái này nhỏ và chỉ có giá 400 đô la.</td>\n                </tr>\n                <tr>\n                        <td><b>Sarah:</b></td>\n                        <td>That's great. Thank you. Next, I need a case for it.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tuyệt vời. Cảm ơn bạn. Tiếp theo, tôi cần một cái cặp đựng nó.</td>\n                </tr>\n                <tr>\n                        <td><b>Sean:</b></td>\n                        <td><span style=\"color:red\">There are some cases on the shelf behind you.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Có một vài cái cặp đựng máy tính ở trên giá đằng sau bạn.</td>\n                </tr>\n                <tr>\n                        <td><b>Sarah:</b></td>\n                        <td>Alright. I still need to buy a few more school supplies.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Được rồi. Tôi vẫn cần mua thêm một ít đồ dùng học tập.</td>\n                </tr>\n                <tr>\n                        <td><b>Sean:</b></td>\n                        <td><span style=\"color:red\">They also sell pencils and pens here, I think.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi nghĩ họ cũng bán bút chì và bút viết ở đây.</td>\n                </tr>\n                <tr>\n                        <td><b>Sarah:</b></td>\n                        <td>Yes, I need a few pens and a notebook.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Ừ, tôi cần một vài cây bút viết và một quyển sổ ghi chú.</td>\n                </tr>\n                <tr>\n                        <td><b>Sean:</b></td>\n                        <td><span style=\"color:red\">There are some cool notebooks next to the pens.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Có một vài sổ ghi chú khá đẹp bên cạnh những cây bút viết.</td>\n                </tr>\n                <tr>\n                        <td><b>Sarah:</b></td>\n                        <td><span style=\"color:red\">I will take the one with the gray cover and these pens.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi sẽ lấy quyển sổ có bìa màu xám và những cây bút viết này.</td>\n                </tr>\n                <tr>\n                        <td><b>Sean:</b></td>\n                        <td>Is that everything? Shall we finish our shopping?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Đó là những gì bạn muốn mua phải không? Chúng ta kết thúc buổi mua sắm ở đây nhỉ?</td>\n                </tr>\n                <tr>\n                        <td><b>Sarah:</b></td>\n                        <td>Yes, that's everything I want to buy. Thank you for your help, Sean.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Đúng vậy, đó là mọi thứ tôi muốn mua. Cảm ơn sự giúp đỡ của bạn, Sean.</td>\n                </tr>\n                <tr>\n                        <td><b>Sean:</b></td>\n                        <td><span style=\"color:red\">No problem. See you at school tomorrow!</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Không vấn đề gì. Hẹn gặp bạn ở trường vào ngày mai!</td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3e4100ae-3768-4d10-84cc-ad6f3d3a6d86"
+          },
+          "dapAn": "Morning, Sarah. What are you buying?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "287cca94-7524-4170-bb12-dd75de94d7ae"
+          },
+          "dapAn": "What do you want to buy?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c5ce02ee-ee09-4a3c-bd74-d23dee04f27e"
+          },
+          "dapAn": "I want to buy a laptop.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "478129a1-134e-4a44-9f9f-31af08e654c3"
+          },
+          "dapAn": "It’s too big. My backpack is quite small.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5877fd69-ebe1-47fc-bcfb-efff13947861"
+          },
+          "dapAn": "That looks nice. But it’s too expensive.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "366ddecb-ded3-466a-8a0f-63e90a4feec1"
+          },
+          "dapAn": "There are some cases on the shelf behind you.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "89cfaa52-a6cb-4ff6-8f92-1db0a39e021b"
+          },
+          "dapAn": "They also sell pencils and pens here, I think.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dc1b77c2-c121-4b1f-a7a4-622276e964d3"
+          },
+          "dapAn": "There are some cool notebooks next to the pens.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "810a14e1-da66-437c-9cf8-4e0f6c1755ab"
+          },
+          "dapAn": "I will take the one with the gray cover and these pens.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0422c23b-186c-4e75-8a13-a069552fcd0b"
+          },
+          "dapAn": "No problem. See you at school tomorrow!",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

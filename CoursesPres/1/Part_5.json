@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "b8827eb2-f72a-46fe-a083-7749e03a4068"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Good _____.",
+      "yNghia": "Good <span style=\"color:red\">morning</span>.<br />\n<i>Chào <span style=\"color:red\">buổi sáng</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e2742828-5ef0-46a5-90fd-781f01a6a355"
+          },
+          "dapAn": "evening",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b5e6a83b-2871-4005-b049-5a1817e4c8be"
+          },
+          "dapAn": "afternoon",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "14951c16-efe5-4a99-89c8-4a1a589363d0"
+          },
+          "dapAn": "morning",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_1. Good ... morning.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_1. Good ... morning.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "12703de5-83da-4df2-892c-cd9dd446db0e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I _____ late! ",
+      "yNghia": "I <span style=\"color:red\"><span style=\"caret-color:#ff0000\">am late</span></span>!<br />\n<i>Em <span style=\"color:red\">tới trễ</span> ạ!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b21eb9a6-e8c6-4ecb-bd64-c761862ea2b5"
+          },
+          "dapAn": "am",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "93af8583-b7ff-4718-8f24-5241ffebae6a"
+          },
+          "dapAn": "am not",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3a5a86b9-c8e1-4b2c-b416-aad42fb7e188"
+          },
+          "dapAn": "m not",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_2. I ... late.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_2. I ... late.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "79447522-19ae-4ccd-b1a3-4f1da9761ab4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I'm _____!",
+      "yNghia": "I'm <span style=\"color:red\">sorry</span>!<br />\n<i>Em <span style=\"color:red\">xin lỗi</span> ạ!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fa661060-94cb-4b0b-a21f-379678b9bfa2"
+          },
+          "dapAn": "sorry",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0a8916fe-af68-4767-9b8c-07cea9cbab9d"
+          },
+          "dapAn": "good",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4a3ddb4c-325f-422e-b487-f0e9edcfd8f1"
+          },
+          "dapAn": "happy",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_3. I ... sorry.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_3. I ... sorry.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "7ff33ab1-987e-4b24-a879-ac62601d2e9f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "No, you _____ late.",
+      "yNghia": "No, you<span style=\"color:red\"> aren't</span> late.<br />\n<i>Em <span style=\"color:red\">không</span> tới trễ đâu.</i>\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b8f14374-8c20-43ea-99b0-733e02a6a183"
+          },
+          "dapAn": "are",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e7fd2145-233c-43d3-9c16-a420528d426e"
+          },
+          "dapAn": "aren't",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "43c4b2be-86d3-414a-a816-f49ba457565c"
+          },
+          "dapAn": "am",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_4. No ... late.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_4. No ... late.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5457ea18-c87c-4d66-8e9a-346244a1f850"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It _____ OK.",
+      "yNghia": "It <span style=\"color:red\">is </span>OK.<br />\n<i>Không sao đâu.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "95902e7d-ffa5-4683-afd0-eaedac992f6c"
+          },
+          "dapAn": "isn't",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3c566720-aec4-4487-83ad-fb3492642847"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a7f892ec-fe96-4e08-9ae6-103b8572faee"
+          },
+          "dapAn": "s",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_5. It is OK.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_5. It is OK.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c4ab5b12-3ad7-47ec-80c5-e0a59308651f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I'm Anna. Anna _____.",
+      "yNghia": "I'm Anna. Anna <span style=\"color:red\">Becker</span>.<br />\n<i>Em là Anna. Anna <span style=\"color:red\">Becker</span>.</i>\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5e4ee22d-5b73-44db-a221-12c7b186df46"
+          },
+          "dapAn": "Breaker",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3c7de06a-74a1-42b6-a633-b27267307f3e"
+          },
+          "dapAn": "Becker",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9610392c-8448-48e7-a986-eee18db9e950"
+          },
+          "dapAn": "Backer",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_6. I ... Becker.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_6. I ... Becker.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a3b006b3-30ba-4821-b9b8-c53c8f95fb11"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Please _____ it again.",
+      "yNghia": "Please <span style=\"color:red\">say</span> it again.<br /> <i>Em làm ơn <span style=\"color:red\">nhắc</span> lại nhé.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b78038e1-01a7-49ce-ab4c-d238baaa3586"
+          },
+          "dapAn": "speak",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9b2a0539-d26b-4dbe-8305-64d20c5239c0"
+          },
+          "dapAn": "tell",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ba09fc0c-fb10-4db1-9b83-41e3bde884c8"
+          },
+          "dapAn": "say",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_7. Please ... again.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_7. Please ... again.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2210c8cb-b750-4fcf-abd4-01b904e55d8e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "_____ Anna. A-N-N-A.",
+      "yNghia": "<span style=\"color:red\">It's</span> Anna. A-N-N-A. <br />\n<i><span style=\"color:red\">Là</span> Anna. A-N-N-A.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a0eb3b96-9552-4967-b8ff-1b16e323aed7"
+          },
+          "dapAn": "She's",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5eed7827-7b56-47cc-8525-9c6943d1b673"
+          },
+          "dapAn": "It",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "870f1466-023f-4071-86ef-a42731044c2a"
+          },
+          "dapAn": "It's",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_8. It_s ... A-N-N-A.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_8. It_s ... A-N-N-A.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "822b72cb-90e0-425f-90af-5e3cd3d228c6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Are you a _____?",
+      "yNghia": "Are you a <span style=\"color:red\">student</span>?<br />\n<i>Em có phải là <span style=\"color:red\">sinh viên</span> không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f17bf738-8573-4484-852c-6bd81a61640a"
+          },
+          "dapAn": "teacher",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "453a6d89-dfaf-481f-bbd9-67610db592ee"
+          },
+          "dapAn": "pupil",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2e5ee435-7634-46de-beb0-9c7fff6f4929"
+          },
+          "dapAn": "student",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_9. Are ... student.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_9. Are ... student.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f38cdf43-d0eb-41d8-8ee4-bb964f69e505"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "_____ a student.",
+      "yNghia": "<span style=\"color:red\">I'm</span> a student.<br />\n<i><span style=\"color:red\">Em là</span> sinh viên ạ.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b56e2cd5-6578-4f3e-bf73-fb6c8f6c6012"
+          },
+          "dapAn": "I",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fd8ed252-044f-4d75-904c-c2863223ad93"
+          },
+          "dapAn": "I'm",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8ce78cb4-7aa1-45e1-80a1-951fabccdf70"
+          },
+          "dapAn": "I am",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_10. I_m ... student.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_10. I_m ... student.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "731566d2-45b1-4390-94e5-d3ae29d6654a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "_____, please.",
+      "yNghia": "<span style=\"color:red\">Come in</span>, please. <br />\n<i>Mời <span style=\"color:red\">vào</span>.</i>\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5bc3ab8c-4840-48d3-b16a-dc16400b1738"
+          },
+          "dapAn": "Come in",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4afc0d22-de04-405e-a920-29f0255059e2"
+          },
+          "dapAn": "Go out",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "933184f0-6039-4036-8a50-595b0ff45494"
+          },
+          "dapAn": "Care in",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_11. Come ... please.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_11. Come ... please.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d1c647b3-a2c9-4cca-b671-e4d7b705f624"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What is your _____?",
+      "yNghia": "What is your <span style=\"color:red\">name</span>? <br />\n<i><span style=\"color:red\">Tên</span> của thầy là gì ạ?</i>\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9aaf5fda-5ac3-4fd4-9e34-085b15b3cee5"
+          },
+          "dapAn": "address",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2c51f295-e19a-40ea-b0f0-b09b013544a1"
+          },
+          "dapAn": "name",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1ccf6c45-c5a9-4a50-9c8a-46d4802f51f6"
+          },
+          "dapAn": "number",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_12. What ... name.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_12. What ... name.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "8649753a-16da-45af-9911-b3d678b7e0ca"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "_____ the teacher.",
+      "yNghia": "<span style=\"color:red\">I'm</span> the teacher. <br />\n<i><span style=\"color:red\">Tôi là</span> giáo viên.</i>\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f4370e7e-1bd3-4b45-a557-130183e12ecc"
+          },
+          "dapAn": "I",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4cba76f0-d343-43a2-852d-db9913167037"
+          },
+          "dapAn": "I'm",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "736fffd7-1548-4d5f-b1d2-dbe8d328f195"
+          },
+          "dapAn": "I am",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_13. I_m ... teacher.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_13. I_m ... teacher.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "73b4a68d-eaf8-4a58-ace7-b0a841a93bb1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’m David. _____.",
+      "yNghia": "I'm David. <span style=\"color:red\">Good morning</span>. <br />\n<i>Tôi là David.<span style=\"color:red\"> Chào buổi sáng</span>.</i>\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "722f6209-acbe-4215-839e-9808884cdff5"
+          },
+          "dapAn": "Good evening",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "01ca7280-e872-4d77-92d1-feffce6880d6"
+          },
+          "dapAn": "Good afternoon",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "68ddfd3d-53af-4fb9-81b4-087208c16d7e"
+          },
+          "dapAn": "Good morning",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_14. I_m ... morning.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_14. I_m ... morning.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c9ff8dc7-ade8-4afd-b19a-701e6292f510"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What do we _____ today?",
+      "yNghia": "What do we <span style=\"color:red\">study</span> today?<br />\n<i>Hôm nay chúng ta <span style=\"color:red\">học</span> gì ạ?</i>\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9324c2f0-a14f-4c3a-9f11-6909c6a53f7a"
+          },
+          "dapAn": "do",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "08b0eecb-ca2a-4a96-b03f-957fe4d25b60"
+          },
+          "dapAn": "have",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "68fea898-9d22-4b81-a972-25791dd28416"
+          },
+          "dapAn": "study",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_15. What ... today.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_15. What ... today.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "41447ad2-56cd-4aa0-b084-561c8e8316b9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We _____ about greetings.",
+      "yNghia": "We <span style=\"color:red\">learn</span> about greetings.<br />\n<i>Chúng ta <span style=\"color:red\">tìm hiểu </span>về lời chào hỏi.</i>\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a43639d3-995f-4a75-a007-d4ea4f24ce2a"
+          },
+          "dapAn": "talk",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e15d5f46-9a1c-4ba8-8e28-e06aed13adfe"
+          },
+          "dapAn": "learn",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9bb3c4df-ca0a-4a6e-9487-c8a23e679e12"
+          },
+          "dapAn": "study",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_16. We ... greetings.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_16. We ... greetings.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1859cf07-6fdb-4f38-82a3-b5a6f2dbbee3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "_____ so excited.",
+      "yNghia": "<span style=\"color:red\">I'm</span> so excited. <br />\r\n<i><span style=\"color:red\">Em cảm thấy</span> rất hào hứng.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a0f0711a-4611-45ee-a388-a7791d6c63a8"
+          },
+          "dapAn": "I'm",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7b9edbc6-8803-4f10-9bec-e4ab1ebcac6a"
+          },
+          "dapAn": "I",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ce9a14c4-3c1d-46ba-b2d1-0c1d4c8013c4"
+          },
+          "dapAn": "I am",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_17. I_m ... excited.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_17. I_m ... excited.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c677a8c8-2de8-4844-8964-be1fd58b3a04"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You can say Hello, Hi, Good morning or Good _____.",
+      "yNghia": "You can say Hello, Hi, Good morning or Good <span style=\"color:red\">afternoon</span>.<br /><i>Các em có thể nói Xin chào, Chào, Chào buổi sáng hoặc Chào <span style=\"color:red\">buổi chiều</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "af2806fb-4f78-4b68-a54d-6199b5c53af5"
+          },
+          "dapAn": "afternoon",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5a18bacc-c898-4056-acb8-b9003d272d5a"
+          },
+          "dapAn": "morning",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "89e4409d-2838-486b-b4ff-3a4b9ef85d58"
+          },
+          "dapAn": "evening",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_18. You ... afternoon.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_18. You ... afternoon.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ce2d3c34-79eb-4727-997b-a54f8cb89d7e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My brother and _____ are students.",
+      "yNghia": "My brother and <span style=\"color:red\">my sister</span> are students. <br />\r\n<i>Em trai và <span style=\"color:red\">em gái tôi</span> là học sinh.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9ab43cad-4218-499f-a02d-dbf9bf5d65bc"
+          },
+          "dapAn": "I",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0abc04d8-7390-4689-81ec-d2e382370f9b"
+          },
+          "dapAn": "my sister",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "13a6e2d6-0fc0-447f-8018-a8c37cdcfc12"
+          },
+          "dapAn": "my cousin",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_19. My ... students.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_19. My ... students.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f71bffce-ba65-44ab-bfbc-5f03938178e0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you write or _____ them on the board?",
+      "yNghia": "Can you write or <span style=\"color:red\">draw</span> them on the board? <br />\n<i>Thầy viết hoặc <span style=\"color:red\">vẽ </span>lên bảng được không ạ?</i>\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "349fdf38-126d-45d0-b05a-7d43ade1025c"
+          },
+          "dapAn": "paint",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ca0f9804-4099-4e45-afba-130f87d07f30"
+          },
+          "dapAn": "draw",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "85f5ee9d-6673-4ae2-a0e1-2c149482bf33"
+          },
+          "dapAn": "put",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_LISTENING_20. Can ... board.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_LISTENING_20. Can ... board.mp3"
+    }
+  ]
+}

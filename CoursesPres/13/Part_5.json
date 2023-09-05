@@ -1,0 +1,866 @@
+{
+  "dangCauHoi": "P9Cham1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "175e0801-cdaa-4fe1-b03b-65d820e869f4"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "9fe61bad-c784-4ae2-b83b-4f41c5c529e6"
+          },
+          "cauHoi": "Who is the speaker?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "60cf09ab-e875-4f3d-b5a7-0b824390c5c6"
+              },
+              "dapAn": "A. Peter",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "06ed4dd1-84c9-43b3-a1ff-523e5f3fc94d"
+              },
+              "dapAn": "B. Gerald",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fcb35ce1-fc02-4cb6-bcd2-7be828aaa62f"
+              },
+              "dapAn": "C. George",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "57c17211-f552-4003-8dff-13751fd86b47"
+              },
+              "dapAn": "D. Stephanie",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "Hello, I'm Peter. I'm from Australia. I'm a chef.<br />\n<i>Xin chào, tôi là Peter. Tôi đến từ nước Úc. Tôi là một đầu bếp.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_LISTENING_Listening 1.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d448ce90-f857-42ba-855e-04100fd0aea0"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "737d9f88-5bd2-4bdf-8e83-60933bf6cd04"
+          },
+          "cauHoi": "Who does he work with?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3e4b2b4b-6b80-47b5-9a6e-c75a9d89dab3"
+              },
+              "dapAn": "A. Paul",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2701a585-adea-46fc-ab50-8746b24012bc"
+              },
+              "dapAn": "B. Mary",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3d4bcfd9-3e75-4e07-8c4c-f17ebf33138e"
+              },
+              "dapAn": "C. Johnny",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "59e226f0-bc7d-4dc1-9d59-7a6472c7f38c"
+              },
+              "dapAn": "D. Sharon",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "I'm John. I work with Mary. Sometimes we have lunch together.<br />\n<i>Tôi là John. Tôi làm việc với Mary. Thỉnh thoảng chúng tôi ăn trưa cùng nhau.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_LISTENING_Listening 2.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3d314f6e-75c9-49f4-bf5e-3e7caa12d48c"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "640d2c79-44e6-4990-81b4-10c4c63183a1"
+          },
+          "cauHoi": "Who is his brother?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3eac2cbb-104f-40e2-9c10-422677b9d489"
+              },
+              "dapAn": "A. Kathy",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "db866acb-b5d6-4928-be67-3a80b22a658c"
+              },
+              "dapAn": "B. Mary",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "78b5cafe-e48e-4a89-a5f2-cdedee9c6e3b"
+              },
+              "dapAn": "C. John",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "df0dc8c5-72ad-412a-9eda-50c96d2f4ab9"
+              },
+              "dapAn": "D. Christine",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "Nice to meet you. I am his brother. I'm John.<br />\n<i>Rất vui được gặp bạn. Tôi là anh trai của cậu ấy. </i><i>Tôi là John.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_LISTENING_Listening 3.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1a0c3c96-4209-4703-bff9-504d139edf08"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "1d11f26f-516d-4581-a949-771c01236603"
+          },
+          "cauHoi": "Where does he work?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "0ef1614a-b137-4c9a-9591-dd95acc0a132"
+              },
+              "dapAn": "A. at a museum",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "68522b45-2567-4b99-9b0d-d511e3b2f79e"
+              },
+              "dapAn": "B. at a hospital",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6385afa8-6f15-474e-964b-a87139e9ebf8"
+              },
+              "dapAn": "C. at a store",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ec9a89cc-9f23-453e-a971-b5d1e513bd29"
+              },
+              "dapAn": "D. at a bakery",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "I don't work at a hospital. I work at a museum.<br />\n<i>Tôi không làm việc ở bệnh viện. Tôi làm việc ở bảo tàng.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_LISTENING_Listening 4.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f98e3296-f84c-4a1a-8f1f-ac95dbef6210"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "4ff78b44-5b7c-44ab-85fa-a652051af6f6"
+          },
+          "cauHoi": "What is his job?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "05d0058a-cce2-4d7f-8256-77ddfc6a4309"
+              },
+              "dapAn": "A. a policeman",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "31914e02-8176-43a8-9973-99403d845c16"
+              },
+              "dapAn": "B. a doctor",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1343bf5d-d04d-4633-9ef5-c23b0ab46961"
+              },
+              "dapAn": "C. a teacher",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "54b26887-4560-4f11-9ff6-f1317d854c90"
+              },
+              "dapAn": "D. a manager",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "I'm Chinese. I'm a teacher. I go to work by bus.<br />\r\n<i>Tôi là người Trung Quốc. Tôi là một giáo viên. Tôi đi làm bằng xe buýt.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_LISTENING_Listening 5.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "84ba3eb7-ac16-4e78-a173-f62dd2b388f1"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "7be2c305-3863-4716-96c5-bd782a821335"
+          },
+          "cauHoi": "Where does he teach?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2b917142-ebe6-46a7-b078-112fa2cf59b9"
+              },
+              "dapAn": "A. at a kindergarten",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e5fb4672-27d4-4d5b-b798-b3a9a9b88e32"
+              },
+              "dapAn": "B. at a school",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "44434322-0bcb-4a0f-b871-13844f2d37d5"
+              },
+              "dapAn": "C. at a college",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4d9957c3-245b-48ce-88ae-d59aef6785a5"
+              },
+              "dapAn": "D. at a sports center",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "yNghia": "I teach at the new sports center. It opens from 5:00 p.m.<br />\r\n<i>Tôi dạy ở trung tâm thể thao mới. Nó mở cửa từ 5 giờ chiều.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_LISTENING_Listening 6.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6581c8e7-e377-4d99-80cb-7937dffe2824"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "a84797c5-49e9-4c5c-8f17-03ee3e80aadf"
+          },
+          "cauHoi": "What does he NOT teach?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "02b07adf-d18a-444d-9565-b1f099fcc1fd"
+              },
+              "dapAn": "A. cycling",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "db1a8fc1-8e00-4ba4-851b-6a692a1a5d58"
+              },
+              "dapAn": "B. English",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "db7a592b-8b98-4fe7-b299-2da80a9e5e43"
+              },
+              "dapAn": "C. fitness classes",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1c562066-7ff2-47b7-9aec-dfe7c509366b"
+              },
+              "dapAn": "D. swimming",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "I teach cycling on Mondays. I teach swimming on Sundays. I don't teach English.<br />\r\n<i>Tôi dạy đạp xe vào các thứ Hai. Tôi dạy bơi vào các Chủ nhật. Tôi không dạy tiếng Anh.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_LISTENING_Listening 7.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2d7a7784-bb1b-47d1-9c49-a669510347f8"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "284cc55b-123c-42dd-a22e-05f3d248a540"
+          },
+          "cauHoi": "How is the fitness class?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "109445d8-fcf8-4e4e-b7dd-736f9a58706f"
+              },
+              "dapAn": "A. It's boring.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bed92fe7-8e83-4a89-a503-bc9f0d5a8c27"
+              },
+              "dapAn": "B. It's fun.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "c0eae190-6a49-4ebf-b75f-7f96791f40f2"
+              },
+              "dapAn": "C. It's useful.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "299df51c-db94-4c2a-aae0-f4c07b7c9722"
+              },
+              "dapAn": "D. It's tiring.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "My father teaches a fitness class. Sometimes I visit him. The class is always fun.<br />\r\n<i>Bố tôi dạy một lớp thể dục. Thỉnh thoảng tôi đến thăm ông ấy. Lớp học luôn rất vui.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_LISTENING_Listening 8.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "24c44385-cbd8-4736-86a8-3714f2edf061"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "a3cbbd3e-ebe8-43e7-80e5-fd4afcf3ca1c"
+          },
+          "cauHoi": "When is the class?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "1b833568-8fac-4127-acc6-ec22aacb02ac"
+              },
+              "dapAn": "A. 7:00 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cd08a3da-08e9-4971-81f4-18cb3ab2243f"
+              },
+              "dapAn": "B. 8:00 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9ef4e9f3-d568-4dec-af7e-47f2fb6166f7"
+              },
+              "dapAn": "C. 7:00 p.m.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3f4a91b0-3a45-4696-801f-1474b30be78d"
+              },
+              "dapAn": "D. 8:00 p.m.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "I like swimming. I have a swimming class on Fridays. The class starts at 7:00 p.m.<br />\r\n<i>Tôi thích bơi lội. Tôi có một lớp học bơi vào các ngày thứ Sáu. Lớp học bắt đầu lúc 7 giờ tối.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_LISTENING_Listening 9.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "bd585919-2f61-4ebe-84a5-f8f7ecd0de5f"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "6ac7fb93-2e6e-40ad-a236-cec91a08991c"
+          },
+          "cauHoi": "Which days is it on?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "801982c8-87ca-4f84-8f3f-8d3745e67ed7"
+              },
+              "dapAn": "A. Tuesday and Friday",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6130371b-95fc-45a4-9a66-991fcc1c58bb"
+              },
+              "dapAn": "B. Monday and Thursday",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "502dda25-ea1f-40e6-b42f-7ec6f7dc50c5"
+              },
+              "dapAn": "C. Tuesday and Thursday",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a904581b-a529-4682-bc6a-f81265785f55"
+              },
+              "dapAn": "D. Friday and Sunday",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "The university has an English class. It's on Monday and Thursday. I go to it by bus.<br />\n<i>Trường đại học có một lớp tiếng Anh. Đó là vào thứ Hai và thứ Năm. Tôi đến đó bằng xe buýt. </i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_LISTENING_Listening 10.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "648c71cc-6cf1-4842-9198-eafe5ed5e2ce"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "18c22ffe-dd07-4f32-b176-25bf13080e4e"
+          },
+          "cauHoi": "When does he finish work?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7730c55d-975d-44cd-8e92-3bb1e6bb8877"
+              },
+              "dapAn": "A. at 7:00 p.m.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "234d8ff4-69e8-4801-bd67-f451f0e80897"
+              },
+              "dapAn": "B. at 9:00 p.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "97cfcc3d-bebb-48fa-ad37-7faa86d550df"
+              },
+              "dapAn": "C. at 5:00 p.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "04c78afd-ae6a-4ddd-82e9-ba17d3d09e8d"
+              },
+              "dapAn": "D. at 11:00 p.m.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "I start work at 9:00 a.m. I usually finish work at 7:00 p.m. I have dinner at 8:00 p.m.<br />\n<i>Tôi bắt đầu làm việc lúc 9 giờ sáng. Tôi thường hoàn thành công việc lúc 7 giờ tối. Tôi ăn tối lúc 8 giờ tối.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_LISTENING_Listening 11.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "62493141-73a3-4cee-bc64-665260683a66"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "4be3d233-099f-4581-8f93-23c7cee49e0e"
+          },
+          "cauHoi": "When does he start work?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "4469a5b7-6376-4f57-ac5d-7544303e8e40"
+              },
+              "dapAn": "A. at 6:00 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "52bff771-31da-4300-b43a-3fedd6331718"
+              },
+              "dapAn": "B. at 9:00 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e46e92e1-e608-4a63-ac09-778b935c7663"
+              },
+              "dapAn": "C. at 8:00 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9bc4b1d4-f3ae-4db7-b684-21c03e7373e9"
+              },
+              "dapAn": "D. at 10:00 a.m.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "6ea95e2e-2ab5-4216-b8ef-b243d74ea4f1"
+          },
+          "cauHoi": "What is there at 7:00 a.m.?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "4d946e19-be57-420f-95d7-b4edef7c9bf9"
+              },
+              "dapAn": "A. a festival",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7613255a-fdbc-4df9-b11c-352e0b4b6969"
+              },
+              "dapAn": "B. a class",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3fe92e47-e7ae-4dc6-a747-2c592cc76fd7"
+              },
+              "dapAn": "C. a workshop",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fb856b2c-c200-43ab-a722-28ce9d459d84"
+              },
+              "dapAn": "D. a meeting",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "09dcd861-176b-47dc-8527-35e54e759ce0"
+          },
+          "cauHoi": "How much does the class cost for students?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "047105c1-3c72-46d7-8a2c-114f210caa05"
+              },
+              "dapAn": "A. $10",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "93352aa1-8944-4b19-bf48-1768ac50723f"
+              },
+              "dapAn": "B. $15",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5714d378-225c-4a52-8ae2-c9e87285966b"
+              },
+              "dapAn": "C. $17",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "252bebbf-2f92-499e-a977-9d6ad3b1c068"
+              },
+              "dapAn": "D. $20",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "I get up at 8:00 a.m. I start work at 10:00 a.m. I go home at 6:00 p.m. On Mondays, I have a German class. The class is at 7:00 a.m. The class costs $10 for students.<br />\n<i>Tôi thức dậy lúc 8 giờ sáng. Tôi bắt đầu làm việc lúc 10 giờ sáng. Tôi về nhà lúc 6 giờ tối. Vào các thứ Hai, tôi có một lớp tiếng Đức. Lớp học lúc 7 giờ sáng. Lớp học có giá 10 đô-la cho học sinh.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_LISTENING_Listening 12.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f9c0aad7-9f17-42ad-814a-7e666a93e748"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "37603983-fd93-4852-b2f0-84722a8e7700"
+          },
+          "cauHoi": "Where is the speaker from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6f497ea8-4ca0-4a8a-8ecf-a81a578f98e9"
+              },
+              "dapAn": "A. Thailand",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cd3f3ec6-147c-44b9-b3ee-fb41c20d21fe"
+              },
+              "dapAn": "B. Vietnam",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e6c65001-a1d5-4fb9-9836-26bba9fa905c"
+              },
+              "dapAn": "C. the UK",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4de81729-68fd-4d71-ab2e-c38bab5b2a32"
+              },
+              "dapAn": "D. Ireland",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "d42c5e41-f563-4a9d-8ca2-a9b7a0df876b"
+          },
+          "cauHoi": "What is in the book?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "1b9ab1f8-bc7e-4aa3-99c7-906997a44ddc"
+              },
+              "dapAn": "A. foods",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9a01416a-a1be-44f8-bdac-5b80b81e49ee"
+              },
+              "dapAn": "B. the city's history",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "8fb0f463-8d15-40eb-82c5-42935eb805b2"
+              },
+              "dapAn": "C. maps",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d2260de3-8cb3-4f76-b7bb-a9887a624534"
+              },
+              "dapAn": "D. famous people",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "29d561a0-1fea-4d27-b46a-a7e3b3dc50ab"
+          },
+          "cauHoi": "What is behind the bookstore?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "59f5489e-c943-47cc-82a1-2afbecb8a518"
+              },
+              "dapAn": "A. a train station",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9b4effde-0237-4186-827e-73f0f31fd8e2"
+              },
+              "dapAn": "B. a hospital",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a45c1ec3-d918-4c89-a9d5-7ae1ce1836e7"
+              },
+              "dapAn": "C. a coffee shop",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "16f7091d-ba4b-4e92-95ec-0edcade02e16"
+              },
+              "dapAn": "D. a bookstore",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "I'm from Vietnam. My house is next to a bookstore. My favorite book is \"The Quiet City\". The city's history is in this book. There is a coffee shop behind the bookstore.<br />\n<i>Tôi đến từ Việt Nam. Nhà của tôi ở cạnh một hiệu sách. Quyển sách yêu thích của tôi là \"Thành phố yên tĩnh\". Quyển sách nói về lịch sử của thành phố. Có một quán cà phê ở đằng sau hiệu sách.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_LISTENING_Listening 13.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "8d919f03-5943-488c-8146-c0af45088a64"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "af0304ef-c8db-48df-b43c-4049131a91b8"
+          },
+          "cauHoi": "Where is she from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c16cadd6-c848-4010-8f98-e2d3bd1761e8"
+              },
+              "dapAn": "A. Korea",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bdde7fbc-6301-4ab9-b221-ddb3994c0202"
+              },
+              "dapAn": "B. Japan",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e4b62984-24ae-4cfb-b73f-c903dcef99cc"
+              },
+              "dapAn": "C. China",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1e7fd883-60b8-4401-8c42-220db153eef1"
+              },
+              "dapAn": "D. Belgium",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "5be1d91f-5697-4d9d-ac47-69d39c8bd3bd"
+          },
+          "cauHoi": "When does the restaurant close?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c612961a-a1ca-427d-a51a-47c1a59917b0"
+              },
+              "dapAn": "A. 9 p.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d0c1f67d-7a61-44dc-a1d7-381a99006813"
+              },
+              "dapAn": "B. 8 p.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1e45c902-683e-475c-8d4c-ff684dcb9662"
+              },
+              "dapAn": "C. 10 p.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d2f94c62-a29e-4514-9da6-c8063b2ed095"
+              },
+              "dapAn": "D. 11 p.m.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "c7c143f0-db22-4840-a231-75a930a76502"
+          },
+          "cauHoi": "When does she go home?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "00f8867e-fcb1-4a89-b398-a0e0faf1516b"
+              },
+              "dapAn": "A. 10:30",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1f2218f5-1846-4140-8f67-f26f071ba459"
+              },
+              "dapAn": "B. 11:45",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7a39cba9-6b44-4709-bd54-9b25ea95df75"
+              },
+              "dapAn": "C. 11:00",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fcbfc6dc-7fa9-49c8-b669-0bae19487b45"
+              },
+              "dapAn": "D. 11:30",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "yNghia": "She is from Japan. She is Japanese. She speaks Japanese and English. She works in this restaurant. It closes at 11:00 p.m. She goes home at 11:30.<br />\n<i>Cô ấy đến từ Nhật Bản. Cô ấy là người Nhật Bản. Cô ấy nói tiếng Nhật và tiếng Anh. Cô ấy làm việc ở nhà hàng này. Nó đóng cửa lúc 11 giờ đêm. Cô ấy về nhà lúc 11 giờ 30 phút.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_LISTENING_Listening 14.mp3"
+    }
+  ]
+}

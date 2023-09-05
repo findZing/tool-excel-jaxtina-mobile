@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_MTC_L2/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_MTC_L2/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "dcb2da26-3c1a-4cf9-8c93-0fe7143b02ce"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Host",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a5f59e55-197f-4648-a492-97ee2f4c6528"
+          },
+          "dapAn": "Welcome to The Dave Goldstein Podcast. I'm your host, Dave Goldstein. \n",
+          "phienAm": "/ˈwelkəm tuː ðə deɪv ˈɡəʊldstaɪn ˈpɒdkɑːst/. /aɪm jɔːr həʊst deɪv ˈɡəʊldstaɪn/",
+          "yNghia": "\nChào mừng bạn đến với The Dave Goldstein Podcast. Tôi là người dẫn chương trình của bạn, Dave Goldstein.",
+          "normal": {
+            "start": "00:00:00.484",
+            "end": "00:00:05.970"
+          },
+          "slow": {
+            "start": "00:00:00.420",
+            "end": "00:00:06.924"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9278b607-cd94-4d2a-b121-486331e8feb6"
+          },
+          "dapAn": "Hi, Ms. Delgado. Today, we're talking about amazing stories of survival.",
+          "phienAm": "/haɪ mɪs delgadə/. /təˈdeɪ wɪər ˈtɔːkɪŋ əˈbaʊt əˈmeɪzɪŋ ˈstɔːriz ɒv səˈvaɪvəl/",
+          "yNghia": "\nChào cô Delgado. Hôm nay, chúng ta đang nói về những câu chuyện tuyệt vời về sự sinh tồn.",
+          "normal": {
+            "start": "00:00:12.068",
+            "end": "00:00:17.651"
+          },
+          "slow": {
+            "start": "00:00:16.241",
+            "end": "00:00:23.669"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7396763c-1469-430f-8712-c50b039d57da"
+          },
+          "dapAn": "Ellen, have you just written a book on people who have survived tough situations?",
+          "phienAm": "/ˈelən hæv juː ʤʌst ˈrɪtn eɪ bʊk ɒn ˈpiːpl huː hæv səˈvaɪvd tʌf ˌsɪtjʊˈeɪʃənz/",
+          "yNghia": "\nEllen, bạn vừa viết một cuốn sách về những người đã sống sót qua những tình huống khó khăn phải không?",
+          "normal": {
+            "start": "00:00:21.910",
+            "end": "00:00:26.880"
+          },
+          "slow": {
+            "start": "00:00:28.915",
+            "end": "00:00:35.545"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1e53f925-7560-4bdc-84b6-71317e9640dc"
+          },
+          "dapAn": "Can you tell us more about your book?\n",
+          "phienAm": "/kæn juː tel ʌs mɔːr əˈbaʊt jɔːr bʊk/",
+          "yNghia": "\nBạn có thể cho chúng tôi biết thêm về cuốn sách của bạn không?",
+          "normal": {
+            "start": "00:00:34.497",
+            "end": "00:00:36.722"
+          },
+          "slow": {
+            "start": "00:00:45.366",
+            "end": "00:00:48.261"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4ccb5783-f306-4825-9691-043ec4c3c563"
+          },
+          "dapAn": "Is there any story from your book that you want to share with our audience?\n",
+          "phienAm": "/ɪz ðeər ˈeni ˈstɔːri frɒm jɔːr bʊk ðæt juː wɒnt tuː ʃeər wɪð ˈaʊər ˈɔːdiəns/",
+          "yNghia": " \nCó câu chuyện nào từ cuốn sách của bạn mà bạn muốn chia sẻ với độc giả của chúng tôi không?",
+          "normal": {
+            "start": "00:00:47.790",
+            "end": "00:00:52.307"
+          },
+          "slow": {
+            "start": "00:01:03.789",
+            "end": "00:01:09.832"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5312e52b-8018-4130-9db7-08ac9271ed5e"
+          },
+          "dapAn": "What happened to her?\n",
+          "phienAm": "/wɒt ˈhæpənd tuː hɜːr/",
+          "yNghia": "\nCó chuyện gì với cô ấy vậy?",
+          "normal": {
+            "start": "00:01:01.568",
+            "end": "00:01:02.698"
+          },
+          "slow": {
+            "start": "00:01:20.827",
+            "end": "00:01:22.296"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "71883998-d7a1-4489-b669-7ee646792ef6"
+          },
+          "dapAn": "That's so terrible! And then ....\n",
+          "phienAm": "/ðæts səʊ ˈterəbl/. /ænd ðen/ ",
+          "yNghia": "\nĐiều đó thật kinh khủng! Và sau đó thì....",
+          "normal": {
+            "start": "00:01:11.442",
+            "end": "00:01:13.927"
+          },
+          "slow": {
+            "start": "00:01:34.340",
+            "end": "00:01:37.446"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a1014660-0605-4cf5-9ee6-2241c09f8ef1"
+          },
+          "dapAn": "But she survived, didn't she?\n",
+          "phienAm": "/bʌt ʃiː səˈvaɪvd dɪdnt ʃiː/",
+          "yNghia": "\nNhưng cô ấy đã sống sót, phải không?",
+          "normal": {
+            "start": "00:01:23.446",
+            "end": "00:01:24.995"
+          },
+          "slow": {
+            "start": "00:01:50.665",
+            "end": "00:01:52.722"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "338f017e-1ce1-49df-b005-fc53f442c0f1"
+          },
+          "dapAn": "What happened to her after that?",
+          "phienAm": "/wɒt ˈhæpənd tuː hɜːr ˈɑːftər ðæt/",
+          "yNghia": "\nĐiều gì đã xảy ra với cô ấy sau đó?",
+          "normal": {
+            "start": "00:01:36.418",
+            "end": "00:01:38.290"
+          },
+          "slow": {
+            "start": "00:02:05.605",
+            "end": "00:02:08.417"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "827af364-76db-4d04-bcdd-773b21b7ba5c"
+          },
+          "dapAn": "Amazing! Thank you for your story, Ellen.",
+          "phienAm": "/əˈmeɪzɪŋ/. /θæŋk juː fɔːr jɔːr ˈstɔːri ˈelən/",
+          "yNghia": "\nThật kinh ngạc! Cảm ơn vì câu chuyện của bạn, Ellen.",
+          "normal": {
+            "start": "00:01:46.292",
+            "end": "00:01:49.261"
+          },
+          "slow": {
+            "start": "00:02:18.741",
+            "end": "00:02:22.476"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "fa321e2a-7043-4e1c-9530-2c6395a377c9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Ellen",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bac58d03-a074-453d-8846-e886f4337aa1"
+          },
+          "dapAn": "Good evening, Dave. I'm Ellen Delgado, a journalist and writer.",
+          "phienAm": "/gʊd ˈiːvnɪŋ deɪv/. /aɪm ˈelən delgadə eɪ ˈʤɜːnəlɪst æn ˈraɪtər/",
+          "yNghia": "\nChào buổi tối, Dave. Tôi là Ellen Delgado, là một nhà báo và nhà văn",
+          "normal": {
+            "start": "00:00:06.550",
+            "end": "00:00:11.229"
+          },
+          "slow": {
+            "start": "00:00:07.932",
+            "end": "00:00:15.318"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b2a09a3c-1ae0-431a-9029-7f8a0c621f40"
+          },
+          "dapAn": "I'm really excited about this topic.",
+          "phienAm": "/aɪm ˈrɪəli ɪkˈsaɪtɪd əˈbaʊt ðɪs ˈtɒpɪk/",
+          "yNghia": "\nTôi thực sự hào hứng với chủ đề này.",
+          "normal": {
+            "start": "00:00:18.619",
+            "end": "00:00:20.845"
+          },
+          "slow": {
+            "start": "00:00:24.508",
+            "end": "00:00:27.866"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fdd97581-f28e-4e7b-aaaa-508d77256eac"
+          },
+          "dapAn": "Yes. It was from my real experience when having a chance to meet these people.",
+          "phienAm": "/jes/. /ɪt wɒz frɒm maɪ rɪəl ɪksˈpɪərɪəns wen ˈhævɪŋ eɪ ʧɑːns tuː miːt ðiːz ˈpiːpl/",
+          "yNghia": "\nĐúng vậy. Đó là từ trải nghiệm thực tế của tôi khi có cơ hội gặp gỡ những người này.",
+          "normal": {
+            "start": "00:00:27.880",
+            "end": "00:00:33.366"
+          },
+          "slow": {
+            "start": "00:00:36.427",
+            "end": "00:00:44.149"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1385d1b3-35ef-433b-b1da-598a01c9532e"
+          },
+          "dapAn": "I travelled to many countries and I heard a lot of amazing survival stories. Therefore, I came up with the idea to write a book.\n",
+          "phienAm": "/aɪ ˈtrævld tuː ˈmeni ˈkʌntriz ænd aɪ hɜːd eɪ lɒt ɒv əˈmeɪzɪŋ səˈvaɪvəl ˈstɔːriz/. /ˈðeəfɔːr aɪ keɪm ʌp wɪð ði aɪˈdɪə tuː raɪt eɪ bʊk/",
+          "yNghia": "\nTôi đã đi du lịch đến nhiều quốc gia và tôi đã nghe rất nhiều câu chuyện sinh tồn tuyệt vời. Vì vậy, tôi nảy ra ý tưởng viết một cuốn sách.",
+          "normal": {
+            "start": "00:00:37.948",
+            "end": "00:00:46.660"
+          },
+          "slow": {
+            "start": "00:00:49.059",
+            "end": "00:01:02.278"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "50fa3bbf-5d60-4122-998a-1c38aedbbb00"
+          },
+          "dapAn": "Yeah. I met a very brave woman, Juliane Koepcke, who was born in Lima, Peru. \n",
+          "phienAm": "/jeə/. /aɪ met eɪ ˈveri breɪv ˈwʊmən ˈjuːlɪen ˈkɒpə huː wɒz bɔːn ɪn ˈliːmə pəˈruː/",
+          "yNghia": "\nTất nhiên rồi. Tôi đã gặp một phụ nữ rất dũng cảm là Juliane Koepcke, cô ấy sinh ra ở Lima, Peru",
+          "normal": {
+            "start": "00:00:52.856",
+            "end": "00:01:00.116"
+          },
+          "slow": {
+            "start": "00:01:10.420",
+            "end": "00:01:19.862"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7feae3d8-97f1-4d45-a69c-26289d8d32fc"
+          },
+          "dapAn": "In 1971, she was flying over the Amazonian rain forest when lightning hit the plane.\n",
+          "phienAm": "/ɪn naɪnˈtiːn ˈsevnti wʌn ʃiː wɒz ˈflaɪɪŋ ˈəʊvər ði æməˈzəniən reɪn ˈfɒrɪst wen ˈlaɪtnɪŋ hɪt ðə pleɪn/",
+          "yNghia": "\nNăm 1971, cô ấy đang bay qua rừng mưa nhiệt đới Amazon thì bị sét đánh trúng máy bay.",
+          "normal": {
+            "start": "00:01:03.408",
+            "end": "00:01:10.539"
+          },
+          "slow": {
+            "start": "00:01:23.387",
+            "end": "00:01:33.963"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0a274486-93b8-4672-a5f8-d84bbb8c6196"
+          },
+          "dapAn": "The plane broke up at a height of 3200 meters, and Juliane fell all that way in her seat!",
+          "phienAm": "/ðə pleɪn brəʊk ʌp æt eɪ haɪt ɒv θriː ˈθaʊzənd tuː ˈhʌndrəd ˈmiːtəz ænd ˈjuːlɪen fel ɔːl ðæt weɪ ɪn hɜːr siːt/",
+          "yNghia": "\nMáy bay bị vỡ ở độ cao 3200 mét, và Juliane cứ thế rơi xuống đất!",
+          "normal": {
+            "start": "00:01:14.992",
+            "end": "00:01:22.607"
+          },
+          "slow": {
+            "start": "00:01:38.495",
+            "end": "00:01:49.532"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ef4ed62e-1637-4aac-8f60-cd3e137fe704"
+          },
+          "dapAn": "Yes. Luckily, once she crash-landed, she found a stream and followed it. After nine days, she was discovered.\n",
+          "phienAm": "/jes/. /ˈlʌkɪli wʌns ʃiː kræʃ ˈlændɪd ʃiː faʊnd eɪ striːm ænd ˈfɒləʊd ɪt/. /ˈɑːftər naɪn deɪz ʃiː wɒz dɪsˈkʌvəd/",
+          "yNghia": "\nĐúng vậy. May mắn thay, khi rơi xuống đất, cô ấy đã tìm thấy một con suối và đi theo nó. Sau chín ngày, cô được phát hiện.",
+          "normal": {
+            "start": "00:01:25.770",
+            "end": "00:01:35.708"
+          },
+          "slow": {
+            "start": "00:01:53.351",
+            "end": "00:02:04.346"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e8097eec-b7dd-4f24-b4f1-5bdf499e695f"
+          },
+          "dapAn": "She wrote her autobiography, ‘When I Fell from the Sky', about her story of survival. ",
+          "phienAm": "/ʃiː rəʊt hɜːr ˌɔːtəʊbaɪˈɒgrəfi wen aɪ fel frɒm ðə skaɪ əˈbaʊt hɜːr ˈstɔːri ɒv səˈvaɪvəl/",
+          "yNghia": "\nCô ấy đã viết cuốn tự truyện ‘Khi tôi rơi từ trên trời xuống', kể về câu chuyện sinh tồn của mình.",
+          "normal": {
+            "start": "00:01:38.741",
+            "end": "00:01:45.163"
+          },
+          "slow": {
+            "start": "00:02:09.424",
+            "end": "00:02:17.692"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d040a2b7-7c38-4fec-95e2-2b648ef01c99"
+          },
+          "dapAn": "You're welcome.\n",
+          "phienAm": "/jʊər ˈwelkəm/",
+          "yNghia": "\nKhông có gì.",
+          "normal": {
+            "start": "00:01:49.971",
+            "end": "00:01:50.745"
+          },
+          "slow": {
+            "start": "00:02:23.189",
+            "end": "00:02:24.322"
+          }
+        }
+      ]
+    }
+  ]
+}

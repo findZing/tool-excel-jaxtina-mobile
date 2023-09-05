@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "d8b608e2-7236-430f-a596-c473e0333f9e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Amanda:</b></td>\n                        <td>How is your living <b>(1)</b> <b>______</b>, Ivy?</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Ivy:</b></td>                        <td>I'm getting along with my <b>(2)</b><b>______</b>. They're fine about sharing chores, but not good at sharing the <b>(3)</b> <b>______</b>.</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Amanda:</b></td>                        <td>What's wrong?</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Ivy:</b></td>                        <td>They don't pay on time. It's <b>(4)</b><b>______</b> irritating!<i>!</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Amanda:</b></td>\r\n                        <td>How is your living <b>(1) </b><b><span style=\"color:red\">situation</span> </b>, Ivy?<br />\r\n                        <i>Tình hình cuộc sống của bạn thế nào, Ivy?</i></td>\r\n                </tr>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Ivy:</b></td>                        <td>I'm getting along with my <b>(2) </b><b><span style=\"color:red\">roommates</span> </b>. They're fine about sharing chores, but not good at sharing the <b>(3)</b> <b><span style=\"color:red\">bills</span> </b>.<br />\r\n                        <i>Tôi khá hòa thuận với <span style=\"color:red\">bạn cùng phòng</span> . Họ biết chia sẻ việc nhà, nhưng với việc chia sẻ <span style=\"color:red\">hóa đơn </span> thì không.</i></td>\r\n                </tr>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Amanda:</b></td>                        <td>What's wrong?<br />\r\n                        <i>Có chuyện gì vậy?</i></td>\r\n                </tr>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Ivy:</b></td>                        <td>They don't pay on time. It's <b>(4) </b><b><span style=\"color:red\">pretty</span> </b> irritating!<br />\r\n                        <i>Họ không trả tiền đúng hạn. Điều đó <span style=\"color:red\">khá</span>  khó chịu!</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "situation",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "02be24d9-5862-459c-ad4d-9e42f6d8fc9b"
+          }
+        },
+        {
+          "dapAn": "rooomates",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "4a186029-97fc-448c-b3fd-59eb05f9cfdc"
+          }
+        },
+        {
+          "dapAn": "bills ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "09aa949a-1662-4f21-b755-04ecbf5972c5"
+          }
+        },
+        {
+          "dapAn": "pretty",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d4c35b3e-86fe-4978-9af4-651f7ffe1607"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "73e2486e-4124-479a-9c27-9e4a64eacc16"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Ivy:</b></td>                        <td>Where do you think I should <b>(1)</b> <b>______</b>?</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Amanda:</b></td>                        <td>There's a studio apartment near my <b>(2)</b> <b>______</b>. The neighborhood is quite nice.</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Ivy:</b></td>                        <td>Really? I think I could <b>(3)</b><b>______</b> a studio apartment.</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Amanda:</b></td>                        <td>I can <b>(4)</b> <b>______</b> you if you like. I guess moving might not take very long.</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Ivy:</b></td>                        <td>Yeah. I don't have much stuff. Just some necessary things.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Ivy:</b></td>                        <td>Where do you think I should <b>(1)</b> <b><span style=\"color:red\">move</span> </b>?<br />\n                        <i>Bạn nghĩ tôi nên <span style=\"color:red\">chuyển</span>  đi đâu?</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Amanda:</b></td>                        <td>There's a studio apartment near my <b>(2)</b> <b><span style=\"color:red\">work</span> </b>. The neighborhood is quite nice.<br />\n                        <i>Có một căn hộ nhỏ gần <span style=\"color:red\">nơi làm việc</span>  của tôi. Khu phố khá đẹp.</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Ivy:</b></td>                        <td>Really? I think I could <b>(3) </b><b><span style=\"color:red\">afford</span> </b> a studio apartment.<br />\n                        <i>Thật sao? Tôi nghĩ rằng tôi có thể mua một căn hộ nhỏ.</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Amanda:</b></td>                        <td>I can <b>(4)</b> <b><span style=\"color:red\">help</span> </b> you if you like. I guess moving might not take very long.<br />\n                        <i>Tôi có thể <span style=\"color:red\">giúp</span>  bạn nếu bạn muốn. Tôi cho rằng việc di chuyển sẽ không mất nhiều thời gian.</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Ivy:</b></td>                        <td>Yeah. I don't have much stuff. Just some necessary things.<br />\n                        <i>Ừ. Tôi không có nhiều đồ đạc. Chỉ cần một số thứ cần thiết.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "move ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "7b142a11-aff9-4057-a932-421d70ee0d98"
+          }
+        },
+        {
+          "dapAn": "wwork ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "76189f19-95eb-47ce-aa94-d9d2acf731d1"
+          }
+        },
+        {
+          "dapAn": "afford",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "5983aeee-77c5-4652-a564-b8659085f661"
+          }
+        },
+        {
+          "dapAn": "help ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "cb5930d2-1b79-4518-9056-2c7a8c01bb34"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7d295f8f-ee71-4d1b-bac7-380e31da9c1c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "In many areas, people can't afford to buy or <b>(1)</b> <b>______</b> a place to live. It's a problem that will become worse in the future. Some cities <b>(2)</b> <b>______</b> found interesting solutions. One example is <b>(3)</b> <b>______</b> in Chile. An earthquake hit the town of Constitución in 2010 and destroyed about 80% of the buildings. The local government hired an architecture firm to provide low-cost houses. They built houses that are only <b>(4)</b> <b>______</b>. The owners finish the house when they have the money.",
+      "yNghia": "In many areas, people can't afford to buy or <b>(1)</b> <b><span style=\"color:red\">rent</span> </b> a place to live. It's a problem that will become worse in the future. Some cities <b>(2)</b> <b><span style=\"color:red\">have</span> </b> found interesting solutions. One example is <b>(3)</b> <b><span style=\"color:red\">half-houses</span> </b> in Chile. An earthquake hit the town of Constitución in 2010 and destroyed about 80% of the buildings. The local government hired an architecture firm to provide low-cost houses. They built houses that are only <b>(4)</b> <b><span style=\"color:red\">half-finished</span> </b>. The owners finish the house when they have the money.<br />\n<br />\n<i>Ở nhiều khu vực, mọi người không đủ khả năng mua hoặc <span style=\"color:red\">thuê</span>  một nơi để sinh sống. Đó là một vấn đề mà sẽ trở nên tồi tệ hơn trong tương lai. Một số thành phố đã tìm ra những giải pháp thú vị. Một ví dụ là những ngôi nhà <span style=\"color:red\">nửa nhà </span> ở Chile. Một trận động đất xảy ra ở thị trấn Constitución vào năm 2010 và phá hủy khoảng 80% các tòa nhà. Chính quyền địa phương đã thuê một công ty kiến ​​trúc để cung cấp những ngôi nhà giá rẻ. Họ xây những ngôi nhà chỉ mới <span style=\"color:red\">hoàn thành một nửa</span> . Các chủ sỡ hữu sẽ hoàn thiện khi họ có tiền.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "rent",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "5bfb5be4-6b84-4459-9cf2-42790f054b72"
+          }
+        },
+        {
+          "dapAn": "have",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d08cb984-dfe3-46d6-af62-8baef22611b5"
+          }
+        },
+        {
+          "dapAn": "half-house ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c1714d63-6feb-4845-a9a2-47b1b7467e7b"
+          }
+        },
+        {
+          "dapAn": "half-finished ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "97b85b50-98fb-4fcd-ab32-f24b09959016"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c977e64d-b87a-4efe-8f86-f825d831c6d6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Your brain can change, something known as neuroplasticity. If you <b>(1)</b> <b>______</b> your brain, it will develop more connections between its neurons. One thing you can do to challenge your brain is to <b>(2)</b> <b>______</b> a new skill, such as a new language or a musical instrument. Some people enjoy brain <b>(3)</b> <b>______</b> – online sites and apps that use puzzles or other tasks to exercise your brain. Many of these sites and apps don't have much effect on the brain, and they certainly won't make you more intelligent. However, psychologists have created some types of puzzles that make your brain <b>(4)</b> <b>______</b> faster. Doing these tasks makes some people feel sharper in their everyday lives.",
+      "yNghia": "Your brain can change, something known as neuroplasticity. If you <b>(1)</b> <b><span style=\"color:red\">challenge</span> </b> your brain, it will develop more connections between its neurons. One thing you can do to challenge your brain is to <b>(2)</b> <b><span style=\"color:red\">learn</span> </b> a new skill, such as a new language or a musical instrument. Some people enjoy brain <b>(3)</b> <b><span style=\"color:red\">training</span> </b> – online sites and apps that use puzzles or other tasks to exercise your brain. Many of these sites and apps don't have much effect on the brain, and they certainly won't make you more intelligent. However, psychologists have created some types of puzzles that make your brain <b>(4)</b> <b><span style=\"color:red\">work</span> </b> faster. Doing these tasks makes some people feel sharper in their everyday lives.<br />\n<br />\n<i>Bộ não của bạn có thể thay đổi, một thứ được gọi là tính dẻo dai của thần kinh. Nếu bạn </i><i><span style=\"color:red\">thử thách </span> </i><i>bộ não của mình, nó sẽ phát triển kết nối giữa các nơ-ron của nó hơn nữa. Một điều bạn có thể làm để thử thách trí não của mình là </i><i><span style=\"color:red\">học </span> </i><i>một kỹ năng mới, chẳng hạn như một ngôn ngữ mới hoặc một loại nhạc cụ. Một số người thích </i><i><span style=\"color:red\">rèn luyện </span> </i><i>trí não – các trang web và ứng dụng trực tuyến sử dụng câu đố hoặc các nhiệm vụ khác để rèn luyện trí não của bạn. Nhiều trang web và ứng dụng trong số này không có nhiều tác dụng đối với não bộ và chắc chắn chúng sẽ không giúp bạn thông minh hơn. Tuy nhiên, các nhà tâm lý học đã tạo ra một số dạng câu đố khiến não bạn </i><i><span style=\"color:red\">hoạt động </span> </i><i>nhanh hơn. Thực hiện những nhiệm vụ này khiến một số người cảm thấy sắc bén hơn trong cuộc sống hàng ngày của họ.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "challenge ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "fa62b527-a62a-4962-b424-f982a4cd665d"
+          }
+        },
+        {
+          "dapAn": "learn ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "7be5e8ee-a851-4436-8829-656d729fc8ef"
+          }
+        },
+        {
+          "dapAn": "training",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c06cd49a-1f52-4a41-9c11-ff28ea82e44b"
+          }
+        },
+        {
+          "dapAn": "work ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "3f91bfca-b83f-43d2-a0ce-9c232744873d"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "418fc4a9-b190-4d72-ba13-44dfa979cbbe"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "A small change can make a <b>(1)</b> <b>______</b> difference! I wanted to get in shape, but I didn't have time to go to the gym. I drove to college every day, so I didn't get <b>(2)</b> <b>______ </b>exercise. One day, I decided to park my car far away from the building I needed to go to on campus, and I walked the rest of the way. Each week, I <b>(3)</b> <b>______</b> a little farther away. After a month, I started to feel better. After two months, people started to ask me if I was working out! There are always ways to get more exercise into your life. Why don't you try walking a little more? Start <b>(4)</b> <b>______</b> and you'll be amazed at what you can do!",
+      "yNghia": "A small change can make a <b>(1)</b> <b><span style=\"color:red\">big</span> </b> difference! I wanted to get in shape, but I didn't have time to go to the gym. I drove to college every day, so I didn't get <b>(2)</b> <b><span style=\"color:red\">much </span> </b>exercise. One day, I decided to park my car far away from the building I needed to go to on campus, and I walked the rest of the way. Each week, I <b>(3)</b> <b><span style=\"color:red\">parked</span> </b> a little farther away. After a month, I started to feel better. After two months, people started to ask me if I was working out! There are always ways to get more exercise into your life. Why don't you try walking a little more? Start <b>(4)</b> <b><span style=\"color:red\">small</span> </b> and you'll be amazed at what you can do!<br />\n<i>Một thay đổi nhỏ có thể tạo ra sự khác biệt </i><i><span style=\"color:red\">lớn</span> </i><i>! Tôi muốn lấy lại vóc dáng, nhưng tôi không có thời gian đến phòng tập thể dục. Tôi lái xe đến trường đại học mỗi ngày, vì vậy tôi không tập thể dục </i><i><span style=\"color:red\">nhiều</span> </i><i>. Một ngày nọ, tôi quyết định đỗ xe cách xa tòa nhà mà tôi cần đến trong khuôn viên trường, và tôi đi bộ suốt quãng đường còn lại. Mỗi tuần, tôi </i><i><span style=\"color:red\">đậu xe </span> </i><i>xa hơn một chút. Sau một tháng, tôi bắt đầu cảm thấy tốt hơn. Sau hai tháng, mọi người bắt đầu hỏi tôi có tập thể dục không! Sẽ luôn có nhiều cách để tập thể dục nhiều hơn trong cuộc sống của bạn. Tại sao bạn không thử đi bộ nhiều hơn một chút? Bắt đầu </i><i><span style=\"color:red\">nhỏ </span> </i><i>và bạn sẽ ngạc nhiên về những gì bạn có thể làm!</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "big",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "763f4ec4-2a05-475c-a7c7-2f5c38b3cb0e"
+          }
+        },
+        {
+          "dapAn": "much ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6d4dd3b7-ba7c-4774-a769-40bafa46a516"
+          }
+        },
+        {
+          "dapAn": "parked ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "caca9fad-a36d-434f-b86b-86c262f9cee2"
+          }
+        },
+        {
+          "dapAn": "small ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "fc2302a4-3602-4627-871d-14effd2e767d"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L9/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L9/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "b849ec08-a1e0-4dd2-9794-8979daaa0984"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "James",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "48b67c35-a311-4d6c-971c-4c135ca69959"
+          },
+          "dapAn": "Hi, Paige.",
+          "phienAm": "/haɪ ˈpeɪdʒ/",
+          "yNghia": "\nXin chào, Paige.",
+          "normal": {
+            "start": "00:00:00.596",
+            "end": "00:00:01.482"
+          },
+          "slow": {
+            "start": "00:00:02.336",
+            "end": "00:00:03.574"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "42754b42-3748-4a98-9557-072d2782fd09"
+          },
+          "dapAn": "Guess what? I have a job now!",
+          "phienAm": "/ges wɒt/. /aɪ hæv ə ʤɒb naʊ/",
+          "yNghia": "\nHãy thử đoán xem? Tớ có việc làm rồi này!",
+          "normal": {
+            "start": "00:00:03.935",
+            "end": "00:00:06.610"
+          },
+          "slow": {
+            "start": "00:00:07.359",
+            "end": "00:00:10.934"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1685b599-607d-4489-9107-4f7407b967e4"
+          },
+          "dapAn": "I'm a shop assistant.",
+          "phienAm": "/aɪm ei ʃɒp əˈsɪstənt/",
+          "yNghia": "\nTớ làm nhân viên bán hàng.",
+          "normal": {
+            "start": "00:00:08.995",
+            "end": "00:00:10.613"
+          },
+          "slow": {
+            "start": "00:00:14.601",
+            "end": "00:00:16.938"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7d21f0c9-eb14-4b20-9977-9e53ec9cabf4"
+          },
+          "dapAn": "I work in a big shopping center.",
+          "phienAm": "/aɪ wɜːk ɪn ei bɪg ˈʃɒpɪŋ ˈsentər/",
+          "yNghia": "\nTớ làm trong một trung tâm mua sắm lớn đấy.",
+          "normal": {
+            "start": "00:00:14.276",
+            "end": "00:00:16.627"
+          },
+          "slow": {
+            "start": "00:00:22.662",
+            "end": "00:00:25.675"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "22bda9ed-8a27-4388-ac6d-96cbf3ef8789"
+          },
+          "dapAn": "Yes. Look, here is a photo.",
+          "phienAm": "/jes/. /lʊk hɪər ɪz ei ˈfəʊtəʊ/",
+          "yNghia": "\nTớ có. Cậu nhìn này, ảnh đây.",
+          "normal": {
+            "start": "00:00:19.880",
+            "end": "00:00:22.964"
+          },
+          "slow": {
+            "start": "00:00:29.927",
+            "end": "00:00:33.829"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7283bc49-a65d-4c32-a3ec-e1323b5d7347"
+          },
+          "dapAn": "No, I don't. I work from Tuesday to Saturday.",
+          "phienAm": "/nəʊ, aɪ dəʊnt/. /aɪ wɜːk frɒm ˈtjuːzdeɪ tuː ˈsætədeɪ/",
+          "yNghia": "\nKhông, tớ không. Tớ làm từ thứ Ba đến thứ Bảy.",
+          "normal": {
+            "start": "00:00:27.648",
+            "end": "00:00:32.214"
+          },
+          "slow": {
+            "start": "00:00:41.876",
+            "end": "00:00:47.700"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ad727a96-438b-47b5-8a84-c93a71675913"
+          },
+          "dapAn": "Yes, I know.",
+          "phienAm": "/jes aɪ nəʊ/",
+          "yNghia": "\nỪ, tớ biết mà.",
+          "normal": {
+            "start": "00:00:35.570",
+            "end": "00:00:37.171"
+          },
+          "slow": {
+            "start": "00:00:51.818",
+            "end": "00:00:53.593"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "819f3b87-f01e-435e-856e-ab90dbb51c0e"
+          },
+          "dapAn": "He is a teacher.",
+          "phienAm": "/hiː ɪz ei ˈtiːʧər/",
+          "yNghia": "\nCậu ấy là giáo viên.",
+          "normal": {
+            "start": "00:00:41.481",
+            "end": "00:00:43.134"
+          },
+          "slow": {
+            "start": "00:00:59.364",
+            "end": "00:01:01.280"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "74be9580-6c7d-4e12-a745-4078987c6128"
+          },
+          "dapAn": "He teaches Maths.\n",
+          "phienAm": "/hiː ˈtiːʧɪz mæθs/",
+          "yNghia": "\nCậu ấy dạy môn Toán.",
+          "normal": {
+            "start": "00:00:46.558",
+            "end": "00:00:48.227"
+          },
+          "slow": {
+            "start": "00:01:05.391",
+            "end": "00:01:07.120"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7b558ce0-0a5a-481e-9ce5-bce79cc1642c"
+          },
+          "dapAn": "I think so too. I have to go now. See you! \n",
+          "phienAm": "/aɪ θɪŋk səʊ tuː/. /aɪ hæv tuː gəʊ naʊ/. /siː juː/ ",
+          "yNghia": "\nTớ cũng nghĩ thế. Mà tớ phải đi bây giờ đây. Gặp cậu sau nhé!",
+          "normal": {
+            "start": "00:00:51.123",
+            "end": "00:00:55.161"
+          },
+          "slow": {
+            "start": "00:01:11.279",
+            "end": "00:01:16.395"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6dabd4c2-1d98-43fa-ba30-494843e43f24"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Paige",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "dfdb2f5b-9db9-4bdd-97cc-81ff14eee7d9"
+          },
+          "dapAn": "Good morning, James.",
+          "phienAm": "/gʊd ˈmɔːnɪŋ ʤeɪmz/",
+          "yNghia": "\nChào buổi sáng, James.",
+          "normal": {
+            "start": "00:00:01.859",
+            "end": "00:00:03.237"
+          },
+          "slow": {
+            "start": "00:00:04.088",
+            "end": "00:00:06.471"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "199a757e-6a5a-4997-b4ce-40327b21f282"
+          },
+          "dapAn": "Really? What is it?\n",
+          "phienAm": "/ˈrɪəli/. /wɒt ɪz ɪt/",
+          "yNghia": "\nThật á? Đó là việc gì thế?",
+          "normal": {
+            "start": "00:00:07.138",
+            "end": "00:00:08.637"
+          },
+          "slow": {
+            "start": "00:00:11.401",
+            "end": "00:00:13.807"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "97857258-35d8-40c1-a4bb-99d4a3787799"
+          },
+          "dapAn": "Congratulations! Where do you work?",
+          "phienAm": "/kənˌgrætjʊˈleɪʃənz/. /weər duː juː wɜːk/",
+          "yNghia": "\nXin chúc mừng! Cậu làm ở đâu?",
+          "normal": {
+            "start": "00:00:10.920",
+            "end": "00:00:13.679"
+          },
+          "slow": {
+            "start": "00:00:17.108",
+            "end": "00:00:22.181"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "01030112-9ee7-4d15-8e30-e2cd4a0d5e0c"
+          },
+          "dapAn": "Do you have a photo of it?",
+          "phienAm": "/duː juː hæv ei ˈfəʊtəʊ ɒv ɪt/",
+          "yNghia": "\nCậu có ảnh của nó không?",
+          "normal": {
+            "start": "00:00:17.274",
+            "end": "00:00:18.960"
+          },
+          "slow": {
+            "start": "00:00:26.166",
+            "end": "00:00:29.086"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b847a258-1089-4592-871e-f713f846fcb4"
+          },
+          "dapAn": "Oh yes, it is big. Do you work every day?",
+          "phienAm": "/əʊ jes ɪt ɪz bɪg/. /duː juː wɜːk ˈevri deɪ/",
+          "yNghia": "\nỒ, đúng thật, nó thật lớn. Ngày nào cậu cũng đi làm à?",
+          "normal": {
+            "start": "00:00:23.594",
+            "end": "00:00:27.001"
+          },
+          "slow": {
+            "start": "00:00:34.576",
+            "end": "00:00:41.141"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6d3a1425-4691-4326-9d1e-015cf50009e8"
+          },
+          "dapAn": "I guess you are so busy.",
+          "phienAm": "/aɪ ges juː ɑːr səʊ ˈbɪzi/",
+          "yNghia": "\nTớ đoán rằng cậu bận lắm đấy.",
+          "normal": {
+            "start": "00:00:32.912",
+            "end": "00:00:34.735"
+          },
+          "slow": {
+            "start": "00:00:48.103",
+            "end": "00:00:51.234"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4da7045b-2f5f-4632-b9bf-bd5adc4ab94f"
+          },
+          "dapAn": "How about David? What does he do?",
+          "phienAm": "/haʊ əˈbaʊt ˈdeɪvɪd/. /wɒt dʌz hiː duː/",
+          "yNghia": "\nThế còn David thì sao? Cậu ấy đang làm gì nhỉ?",
+          "normal": {
+            "start": "00:00:37.819",
+            "end": "00:00:40.357"
+          },
+          "slow": {
+            "start": "00:00:54.031",
+            "end": "00:00:58.774"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "088c55b3-9d8d-475c-bb51-c492bc9b6283"
+          },
+          "dapAn": "What subject does he teach?\n",
+          "phienAm": "/wɒt ˈsʌbʤɪkt dʌz hiː tiːʧ/",
+          "yNghia": "\nCậu ấy dạy môn gì vậy?",
+          "normal": {
+            "start": "00:00:43.662",
+            "end": "00:00:45.842"
+          },
+          "slow": {
+            "start": "00:01:01.910",
+            "end": "00:01:04.644"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "edf3be58-3ffb-4e97-bc24-04742391770b"
+          },
+          "dapAn": "He is so smart.\n",
+          "phienAm": "/hiː ɪz səʊ smɑːt/",
+          "yNghia": "\nCậu ấy thật thông minh.",
+          "normal": {
+            "start": "00:00:48.687",
+            "end": "00:00:50.135"
+          },
+          "slow": {
+            "start": "00:01:07.938",
+            "end": "00:01:10.321"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5905ec68-3ab4-47ee-9c8b-b698be7f2ff3"
+          },
+          "dapAn": "OKAY. See you later!\n",
+          "phienAm": "/ˈəʊˈkeɪ/. /siː juː ˈleɪtər/",
+          "yNghia": "\nOK. Gặp cậu sau!",
+          "normal": {
+            "start": "00:00:55.740",
+            "end": "00:00:57.426"
+          },
+          "slow": {
+            "start": "00:01:16.629",
+            "end": "00:01:19.012"
+          }
+        }
+      ]
+    }
+  ]
+}

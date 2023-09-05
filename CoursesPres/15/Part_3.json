@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "d916f0cd-3ef9-4dd3-a76e-71b1165f691f"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Dress",
+      "yNghia": "Váy",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "90cca3c9-dc9c-4922-94a4-0ec5501a0e89"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Skirt",
+      "yNghia": "Chân váy",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "29d87a41-c7f8-4144-8063-9f60a910fe89"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Jacket",
+      "yNghia": "Áo khoác",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2cdb51a7-9084-4821-85dc-6eb903cdaa25"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Suit",
+      "yNghia": "Bộ com-lê",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "71478a41-4aa4-4b2a-9321-ad6674c606b7"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Pants",
+      "yNghia": "Quần",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3e5c90f1-d2af-49a3-bacf-b43bfd601f67"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Jeans",
+      "yNghia": "Quần jean",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "09749bf1-cd8b-4675-9790-0cc2ca8b33a6"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Shirt",
+      "yNghia": "Áo sơ mi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0fc5aea4-40fb-4178-9d59-c544a2917bf3"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "T-shirt",
+      "yNghia": "Áo phông",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "35180ff3-a49e-40b2-af09-42c4921ee1c9"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Shoes",
+      "yNghia": "Đôi giầy",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "177fcf76-88a3-484d-897f-fa809aaf86ff"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Boots",
+      "yNghia": "Đôi bốt",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "afd08cfd-393a-4f36-b4b3-705ee5c3144c"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Loose",
+      "yNghia": "Rộng, lỏng lẻo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a5dacf62-31a8-40f8-a616-d098c597eecf"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Tight",
+      "yNghia": "Chật",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9e1af910-0db2-4898-bd9a-c42c4fc66be0"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Dressy",
+      "yNghia": "Sang trọng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7758d945-e0b9-495a-9fb4-39acbf1382d0"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Casual",
+      "yNghia": "Tự nhiên, đời thường",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2953d945-f294-4002-8553-1b1495b658b2"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Long",
+      "yNghia": "Dài",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d0fa3918-6fc9-42b0-afab-75f97815f5ca"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Short",
+      "yNghia": "Ngắn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9540dc80-1350-43c9-81b0-9eb525e81a38"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Cheap",
+      "yNghia": "Rẻ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "13a2f449-f90a-4088-8506-027264112c08"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Expensive",
+      "yNghia": "Đắt đỏ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "01cd6ce6-763a-436c-8f07-420cbe8546e3"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Size",
+      "yNghia": "Kích cỡ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "492ffb36-820b-4052-9bb3-e3ff7b91838a"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Pretty",
+      "yNghia": "Đẹp",
+      "danhSachDapAn": []
+    }
+  ]
+}

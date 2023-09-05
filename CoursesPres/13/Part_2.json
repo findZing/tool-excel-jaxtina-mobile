@@ -1,0 +1,326 @@
+{
+  "dangCauHoi": "P0_2",
+  "elementType": "PRONUNCIATION",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "f2b79833-11c1-4709-a859-57a58b799bc7"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_184.park.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_184.park.mp3",
+      "cauHoi": "Park /pɑːk/ (n): Công viên",
+      "yNghia": "Công viên",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_184.park.jpg",
+      "phienAm": "/pɑːk/",
+      "loaiTu": "n",
+      "tuKemTheo": "Park",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "8490e771-5ab5-4500-b01c-4c717cdc1ba7"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_185.atm.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_185.atm.mp3",
+      "cauHoi": "ATM /ˌeɪ tiː ˈem/ (n): Máy ATM",
+      "yNghia": "Máy ATM",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_185.atm.png",
+      "phienAm": "/ˌeɪ tiː ˈem/",
+      "loaiTu": "n",
+      "tuKemTheo": "ATM",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "7721617e-1d9d-4b71-a9d9-b50617900d4c"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_186.hotel.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_186.hotel.mp3",
+      "cauHoi": "Hotel /həʊˈtel/ (n): Khách sạn",
+      "yNghia": "Khách sạn",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_186.hotel.png",
+      "phienAm": "/həʊˈtel/",
+      "loaiTu": "n",
+      "tuKemTheo": "Hotel",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "58895ab2-7740-4da9-b2bf-8b3ad660c068"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_187.museum.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_187.museum.mp3",
+      "cauHoi": "Museum /mjuˈziːəm/ (n): Bảo tàng",
+      "yNghia": "Bảo tàng",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_187.museum.png",
+      "phienAm": "/mjuˈziːəm/",
+      "loaiTu": "n",
+      "tuKemTheo": "Museum",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "3797ca51-a154-46c7-8223-2921d01f3d62"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_188.hospital.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_188.hospital.mp3",
+      "cauHoi": "Hospital /ˈhɒspɪtl/ (n): Bệnh viện",
+      "yNghia": "Bệnh viện",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_188.hospital.png",
+      "phienAm": "/ˈhɒspɪtl/",
+      "loaiTu": "n",
+      "tuKemTheo": "Hospital",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "0e09b08f-e4b7-4288-8284-64b00470ccbf"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_189.university.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_189.university.mp3",
+      "cauHoi": "University /ˌjuːnɪˈvɜːsəti/ (n): Đại học",
+      "yNghia": "Đại học",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_189.university.png",
+      "phienAm": "/ˌjuːnɪˈvɜːsəti/",
+      "loaiTu": "n",
+      "tuKemTheo": "University",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "eb6beef0-c426-4ba7-aad0-2eeaa9c26a31"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_190.bookstore.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_190.bookstore.mp3",
+      "cauHoi": "Bookstore /ˈbʊkstɔːr/ (n): Hiệu sách",
+      "yNghia": "Hiệu sách",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_190.bookstore.png",
+      "phienAm": "/ˈbʊkstɔːr/",
+      "loaiTu": "n",
+      "tuKemTheo": "Bookstore",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "a412c9c5-0976-48f5-b72c-64a7cb322f42"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_191.restaurant.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_191.restaurant.mp3",
+      "cauHoi": "Restaurant /ˈrestrɒnt/ (n): Nhà hàng",
+      "yNghia": "Nhà hàng",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_191.restaurant.png",
+      "phienAm": "/ˈrestrɒnt/",
+      "loaiTu": "n",
+      "tuKemTheo": "Restaurant",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "85f29e0e-f0af-4f9e-85b5-eff03ed60d5e"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_192.bus.station.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_192.bus.station.mp3",
+      "cauHoi": "Bus station /ˈbʌs steɪʃn/ (n.p): Bến xe buýt",
+      "yNghia": "Bến xe buýt",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_192.bus.station.png",
+      "phienAm": "/ˈbʌs steɪʃn/",
+      "loaiTu": "n.p",
+      "tuKemTheo": "Bus station",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "b8491f7f-9b9f-401b-a279-48f70df8d2fe"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_193.coffee.shop.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_193.coffee.shop.mp3",
+      "cauHoi": "Coffee shop /ˈkɒfi ʃɒp/ (n.p): Quán cà phê",
+      "yNghia": "Quán cà phê",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_193.coffee.shop.png",
+      "phienAm": "/ˈkɒfi ʃɒp/",
+      "loaiTu": "n.p",
+      "tuKemTheo": "Coffee shop",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "36ae58f2-9b88-45f5-bc18-2570008c6058"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_194.buy.a.book.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_194.buy.a.book.mp3",
+      "cauHoi": "Buy a book /baɪ eɪ bʊk/ (v.p): Mua quyển sách",
+      "yNghia": "Mua quyển sách",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_194.buy.a.book.png",
+      "phienAm": "/baɪ eɪ bʊk/",
+      "loaiTu": "v.p",
+      "tuKemTheo": "Buy a book",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "59777f48-3afc-4b2f-b114-017df685f27c"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_195.buy.a.drink.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_195.buy.a.drink.mp3",
+      "cauHoi": "Buy a drink /baɪ eɪ drɪŋk/ (v.p): Mua đồ uống",
+      "yNghia": "Mua đồ uống",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_195.buy.a.drink.jpg",
+      "phienAm": "/baɪ eɪ drɪŋk/",
+      "loaiTu": "v.p",
+      "tuKemTheo": "Buy a drink",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "fba8e098-c494-4d31-aadd-23be58b5853b"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_196.eat.dinner.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_196.eat.dinner.mp3",
+      "cauHoi": "Eat dinner /iːt ˈdɪnər/ (v.p): Ăn tối",
+      "yNghia": "Ăn tối",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_196.eat.dinner.png",
+      "phienAm": "/iːt ˈdɪnər/",
+      "loaiTu": "v.p",
+      "tuKemTheo": "Eat dinner",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "79b8de3d-c958-4d9f-bcfd-7f68b9298c57"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_197.get.a.bus.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_197.get.a.bus.mp3",
+      "cauHoi": "Get a bus /ɡet eɪ bʌs/ (v.p): Đi xe buýt",
+      "yNghia": "Đi xe buýt",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_197.get.a.bus.png",
+      "phienAm": "/ɡet eɪ bʌs/",
+      "loaiTu": "v.p",
+      "tuKemTheo": "Get a bus",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "54df133a-5239-4590-8a78-ada7e988ebd4"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_198.get.a.degree.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_198.get.a.degree.mp3",
+      "cauHoi": "Get a degree /ɡet eɪ dɪˈɡriː/ (v.p): Nhận bằng/chứng chỉ",
+      "yNghia": "Nhận bằng/chứng chỉ",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_198.get.a.degree.jpg",
+      "phienAm": "/ɡet eɪ dɪˈɡriː/",
+      "loaiTu": "v.p",
+      "tuKemTheo": "Get a degree",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "10ca23e3-de3c-464c-b0a0-4b2e8f5d8b0c"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_199.get.help.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_199.get.help.mp3",
+      "cauHoi": "Get help /ɡet help/ (v.p): Nhận giúp đỡ",
+      "yNghia": "Nhận giúp đỡ",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_199.get.help.png",
+      "phienAm": "/ɡet help/",
+      "loaiTu": "v.p",
+      "tuKemTheo": "Get help",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "931b92ac-f42a-4471-b7ab-c0f4d7ce6a70"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_200.get.money.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_200.get.money.mp3",
+      "cauHoi": "Get money /ɡet ˈmʌni/ (v.p): Nhận tiền",
+      "yNghia": "Nhận tiền",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_200.get.money.jpg",
+      "phienAm": "/ɡet ˈmʌni/",
+      "loaiTu": "v.p",
+      "tuKemTheo": "Get money",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "275a1948-9e42-4a6a-beef-5f700dbb8d0c"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_201.go.for.a.walk.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_201.go.for.a.walk.mp3",
+      "cauHoi": "Go for a walk /ɡəʊ fər eɪ wɔːk/ (v.p): Đi bộ",
+      "yNghia": "Đi bộ",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_201.go.for.a.walk.png",
+      "phienAm": "/ɡəʊ fər eɪ wɔːk/",
+      "loaiTu": "v.p",
+      "tuKemTheo": "Go for a walk",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "c901b21f-bf12-469b-ae0d-c600bca0f6c4"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_202.learn.about.the.past.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_202.learn.about.the.past.mp3",
+      "cauHoi": "Learn about the past /lɜːn əˈbaʊt ðə pɑːst/ (v.p): Tìm hiểu về quá khứ",
+      "yNghia": "Tìm hiểu về quá khứ",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_202.learn.about.the.past.jpg",
+      "phienAm": "/lɜːn əˈbaʊt ðə pɑːst/",
+      "loaiTu": "v.p",
+      "tuKemTheo": "Learn about the past",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "2577e111-ffd7-4281-bc7e-b4490c352ed5"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L13/sounds/normal/PRES_13_PRONUNCIATION_203.stay.on.vacation.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L13/sounds/slow/PRES_13_PRONUNCIATION_203.stay.on.vacation.mp3",
+      "cauHoi": "Stay on vacation /steɪ ɒn veɪˈkeɪʃn/ (v.p): Ở trong kì nghỉ",
+      "yNghia": "Ở trong kì nghỉ",
+      "hinhAnh": "4SKILLS_PRE_S_L13/PRES_13_PRONUNCIATION_203.stay.on.vacation.jpg",
+      "phienAm": "/steɪ ɒn veɪˈkeɪʃn/",
+      "loaiTu": "v.p",
+      "tuKemTheo": "Stay on vacation",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    }
+  ]
+}

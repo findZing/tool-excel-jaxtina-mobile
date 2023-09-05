@@ -1,0 +1,283 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "Grammar",
+  "videoUrl": "4SKILLS_PRE_S_L5/grammar.mp4",
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:06:23",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "138cb7c2-7620-40dd-b5f5-bf11ec75744f",
+                "dapAn": "What"
+              },
+              {
+                "_id": "9c33b2b1-141e-4970-9ec8-773c7b386b6b",
+                "dapAn": "are"
+              },
+              {
+                "_id": "ce4864df-9925-46ba-abcd-51f31079108d",
+                "dapAn": "their"
+              },
+              {
+                "_id": "8477c9c6-8521-402d-8ee6-ced6788f0328",
+                "dapAn": "names?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "53d4df37-cd70-4f8b-b022-edd216e8ec3c",
+                "dapAn": "Where"
+              },
+              {
+                "_id": "76b2b85a-ddcf-499d-b069-10db1a02ac64",
+                "dapAn": "is"
+              },
+              {
+                "_id": "bb0cf9a7-2a95-435d-8f1f-c94c31ab9418",
+                "dapAn": "she"
+              },
+              {
+                "_id": "4de1526e-db14-4222-aa14-bd4f86c67ae0",
+                "dapAn": "from?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "34709cdd-6608-4461-8e13-ffc34d1636e8",
+                "dapAn": "Who"
+              },
+              {
+                "_id": "d909ba87-fdaa-4740-8b7f-f2186bb493ea",
+                "dapAn": "is"
+              },
+              {
+                "_id": "52ebf6b2-8893-43c7-b13c-39ca20f2b2e7",
+                "dapAn": "he?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "159c758c-ac31-4814-a154-4c541840725c",
+                "dapAn": "How"
+              },
+              {
+                "_id": "b0cf9870-ef1b-4bd5-986a-988d13a1921e",
+                "dapAn": "is"
+              },
+              {
+                "_id": "5586cebd-5448-485b-8b06-e38119618c42",
+                "dapAn": "she?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "85c8969e-14ca-4c19-afee-7648c086f4b3",
+                "dapAn": "How old"
+              },
+              {
+                "_id": "69802b20-4a95-4748-b35f-01c655d773de",
+                "dapAn": "are your"
+              },
+              {
+                "_id": "8a9a5d48-c00b-4561-b02b-fac2e4b2aaa5",
+                "dapAn": "grandparents?"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:06:23",
+      "timeEnd": "0:11:54",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P5",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "_______ key",
+            "_id": "cc3edc52-e593-47da-9211-7b3982d56332",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "a",
+                "_id": "556329f7-0950-4732-8681-c7e24d306b9a"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "an",
+                "_id": {
+                  "$oid": "40be79fd-0573-4b31-961f-9ae18996ede0"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "two",
+                "_id": {
+                  "$oid": "26ca1af6-a937-4762-9c8c-3aafef565611"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "_______ desk",
+            "_id": "a66dfeb4-4b5b-4037-9816-f3cbdb179b53",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "a",
+                "_id": "54e67e53-3a72-428d-9652-4f44efcc2e23"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "an",
+                "_id": {
+                  "$oid": "30321202-097e-46ef-91a6-38684542afa0"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "five",
+                "_id": {
+                  "$oid": "708dba40-e4b9-452f-9a3c-a1a377730cf9"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "_______ e-reader",
+            "_id": "f6f1dc1e-29cc-4918-ae12-2c87a994ca5a",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "a",
+                "_id": "0c944702-7076-410d-b68a-2123daed597c"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "an",
+                "_id": {
+                  "$oid": "5ad58feb-fe2b-4b37-bdd2-3534b1f579cf"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "two",
+                "_id": {
+                  "$oid": "89f53d30-9261-4d1f-a69a-0735d06230ad"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "_______ orange",
+            "_id": "4229cd90-3dbd-4d1a-96a6-06159396909e",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "a",
+                "_id": "fc5b2195-3710-47d6-bd7c-28c06356ea40"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "an",
+                "_id": {
+                  "$oid": "2109433f-b793-4a05-821b-7b5a3447ae42"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "six",
+                "_id": {
+                  "$oid": "82282da9-3d5d-49da-a312-4d78c98f0e0c"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "_______ backpacks",
+            "_id": "7c500243-12c4-4198-a5b0-451aeb0f655d",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "a",
+                "_id": "dc789e4e-2007-4bdd-9a9f-67d3444827b4"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "an",
+                "_id": {
+                  "$oid": "a056ce46-fde0-471c-a93a-3cf41658d956"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "two",
+                "_id": {
+                  "$oid": "bb5a4d03-cbec-4f30-bbba-7fffe0a85236"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "_______ bicycles",
+            "_id": "c944e758-d18f-4b35-a1ee-26555fb602df",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "a",
+                "_id": "d59a57be-c2e7-4b1d-9281-23234494d2f3"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "an",
+                "_id": {
+                  "$oid": "c3fc27b4-8156-4d41-9b8c-854e6f0536e7"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "three",
+                "_id": {
+                  "$oid": "dfa16577-b0eb-43ae-acb7-c0da5f5a0000"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "noiDungVideo": [
+    {
+      "timeEnd": "0:06:23",
+      "noiDung": "<span style=\"color:red\"><b><i>Be</i> information questions <i>(Các câu hỏi thông tin với động từ <i>To be</i>)</b></span></i><br />\n<b>Function <i>(Cách dùng)</i></b><br />\nChúng ta sử dụng các từ để hỏi với động từ <b><i>to be</i></b> để hỏi các câu đơn giản. Sử dụng <b><i>How</i></b> <i><b>old</b></i> để hỏi về tuổi tác. Sử dụng <b><i>What</i></b> để hỏi thông tin về một thứ gì đó. Sử dụng <b><i>Where</i></b> để hỏi về địa điểm. Sử dụng <b><i>Who</i></b> để hỏi về một người hoặc nhiều người.<br />\n<br />\n<b>Form <i>(Cấu trúc)</i></b>\n<table align=\"center\">\n        <tbody>\n                <tr>\n                        <td><b>Question word</b><br />\n                        <b><i>(Từ để hỏi)</i></b></td>\n                        <td><b>To be</b></td>\n                        <td><b>Subject</b><br />\n                        <b><i>(Chủ ngữ)</i></b></td>\n                </tr>\n                <tr>\n                        <td>How old</td>\n                        <td>are</td>\n                        <td>your parents?</td>\n                </tr>\n                <tr>\n                        <td>What</td>\n                        <td>is</td>\n                        <td>your email?</td>\n                </tr>\n                <tr>\n                        <td>Where</td>\n                        <td>are</td>\n                        <td>they from?</td>\n                </tr>\n                <tr>\n                        <td>Who</td>\n                        <td>is</td>\n                        <td>he / she?</td>\n                </tr>\n                <tr>\n                        <td>How</td>\n                        <td>are</td>\n                        <td>you?</td>\n                </tr>\n        </tbody>\n</table>"
+    },
+    {
+      "timeEnd": "0:11:54",
+      "noiDung": "<span style=\"color:red\"><b><i>A/an</i>, singular and plural nouns <i>(A/an, danh từ số ít và danh từ số nhiều)</i></b></span><br />\nDanh từ số ít là danh từ được dùng để chỉ một sự vật, hiện tượng và danh từ số nhiều là danh từ chỉ số lượng từ 2 người, 2 sự vật, 2 sự việc, 2 hiện tượng trở lên.<br />\nChúng ta sử dụng <b><i>a/an + danh từ số ít</i></b> để chỉ một vật. Sử dụng <b><i>danh từ + -s</i></b> để nói hai hoặc nhiều vật.<br />\n \n<table>\n        <tbody>\n                <tr>\n                        <td><b>For one item:</b><br />\n                        <b><i>(Đối với một đồ vật)</i></b></td>\n                        <td><b>Example</b><br />\n                        <b><i>(Ví dụ)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>a</b> + singular noun <br />\n                        <i>(a + danh từ số ít)</i></td>\n                        <td>a laptop</td>\n                </tr>\n                <tr>\n                        <td><b>an</b> + singular noun beginning with a vowel sound (a, o, e, u, i)<br />\n                        <i>(an + danh từ số ít bắt đầu bằng nguyên âm a, o, e, u, i)</i></td>\n                        <td>an ID card</td>\n                </tr>\n                <tr>\n                        <td><b>For two or more items:</b><br />\n                        <b><i>(Đối với hai đồ vật trở lên)</i></b></td>\n                        <td><b>Example</b><br />\n                        <b><i>(Ví dụ)</i></b></td>\n                </tr>\n                <tr>\n                        <td>number + noun + <b><i>-s</i></b><br />\n                        <i>(số lượng + danh từ + -s)</i></td>\n                        <td>2 wallets</td>\n                </tr>\n                <tr>\n                        <td>number + noun ending with <b><i>-ch</i></b> and <b><i>-sh</i></b> + <b><i>-es</i></b><br />\n                        <i>(số lượng + danh từ kết thúc bằng -ch và -sh + -es)</i></td>\n                        <td>3 sandwiches </td>\n                </tr>\n        </tbody>\n</table>"
+    }
+  ]
+}

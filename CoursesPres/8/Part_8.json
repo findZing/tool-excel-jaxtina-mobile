@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L8/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L8/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "a11b0e8e-a297-4a9a-82cb-039b27a3a2a5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Nathan",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c3711c69-f42e-460c-8d0f-0ab210dcece0"
+          },
+          "dapAn": "Hey Mom!",
+          "phienAm": "/heɪ mɒm/",
+          "yNghia": "\nMẹ ơi!",
+          "normal": {
+            "start": "00:00:00.190",
+            "end": "00:00:00.999"
+          },
+          "slow": {
+            "start": "00:00:00.579",
+            "end": "00:00:01.448"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "bb0376a4-25ca-47b1-b7b1-9359d78c6e7c"
+          },
+          "dapAn": "Yes, Mom.\n",
+          "phienAm": "/jes mɒm/",
+          "yNghia": "\nVâng thưa mẹ.",
+          "normal": {
+            "start": "00:00:03.851",
+            "end": "00:00:04.669"
+          },
+          "slow": {
+            "start": "00:00:07.424",
+            "end": "00:00:08.635"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8e887e7d-d204-4aab-9f00-12f89c7332c8"
+          },
+          "dapAn": "I'm at school!",
+          "phienAm": "/aɪm æt skuːl/",
+          "yNghia": "\nCon đang ở trường ạ!",
+          "normal": {
+            "start": "00:00:06.773",
+            "end": "00:00:07.812"
+          },
+          "slow": {
+            "start": "00:00:12.584",
+            "end": "00:00:13.979"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3c9d8547-2c8f-463b-9e8e-ad31812c4186"
+          },
+          "dapAn": "Mom, I forgot my bag.",
+          "phienAm": "/mɒm aɪ fəˈgɒt maɪ bæg/",
+          "yNghia": "\nMẹ, con đã quên cặp sách.",
+          "normal": {
+            "start": "00:00:10.000",
+            "end": "00:00:12.117"
+          },
+          "slow": {
+            "start": "00:00:18.112",
+            "end": "00:00:20.877"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3f663271-3ebe-4920-b118-8cbf5dc76c9d"
+          },
+          "dapAn": "Mom, I'm so sorry.",
+          "phienAm": "/mɒm aɪm səʊ ˈsɒri/",
+          "yNghia": "\nMẹ, con rất xin lỗi.",
+          "normal": {
+            "start": "00:00:15.314",
+            "end": "00:00:17.313"
+          },
+          "slow": {
+            "start": "00:00:27.484",
+            "end": "00:00:29.643"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b6becd4c-3e16-4962-8022-2f53f08cc6e3"
+          },
+          "dapAn": "I don't remember. Is it at home?",
+          "phienAm": "/aɪ dəʊnt rɪˈmembər/. /ɪz ɪt æt həʊm/",
+          "yNghia": "\nCon không nhớ. Nó có ở nhà không?",
+          "normal": {
+            "start": "00:00:19.747",
+            "end": "00:00:22.363"
+          },
+          "slow": {
+            "start": "00:00:33.908",
+            "end": "00:00:37.462"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ef9bd9a9-78ee-4ac6-b75f-113a50fd7c42"
+          },
+          "dapAn": "Oh, good! What's in my bag?",
+          "phienAm": "/əʊ gʊd/. /wɒts ɪn maɪ bæg/",
+          "yNghia": "\nTốt quá! Trong cặp của con có gì vậy ạ?",
+          "normal": {
+            "start": "00:00:32.518",
+            "end": "00:00:35.007"
+          },
+          "slow": {
+            "start": "00:00:52.231",
+            "end": "00:00:55.285"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a0f70606-dfe2-40ca-82d4-851fc84bd3bf"
+          },
+          "dapAn": "Is my laptop in my bag?",
+          "phienAm": "/ɪz maɪ ˈlæptɒp ɪn maɪ bæg/",
+          "yNghia": "\nMáy tính xách tay có trong cặp của con không ạ?",
+          "normal": {
+            "start": "00:00:37.465",
+            "end": "00:00:39.149"
+          },
+          "slow": {
+            "start": "00:00:58.891",
+            "end": "00:01:00.971"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "53fbef22-4651-4a0b-a9eb-66f923cdd078"
+          },
+          "dapAn": "Can you see my wallet?",
+          "phienAm": "/kæn juː siː maɪ ˈwɒlɪt/",
+          "yNghia": "\nMẹ có thấy ví tiền của con không?",
+          "normal": {
+            "start": "00:00:48.323",
+            "end": "00:00:49.940"
+          },
+          "slow": {
+            "start": "00:01:13.028",
+            "end": "00:01:14.924"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a9322b06-8dcf-4689-97f5-cc2ccba8a19a"
+          },
+          "dapAn": "Thanks, Mom! Sorry ...",
+          "phienAm": "/θæŋks mɒm/. /ˈsɒri .../",
+          "yNghia": "\nCảm ơn mẹ! Con xin lỗi ạ ...",
+          "normal": {
+            "start": "00:00:58.224",
+            "end": "00:00:59.859"
+          },
+          "slow": {
+            "start": "00:01:25.533",
+            "end": "00:01:27.560"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "11cb463e-9ca9-439e-877a-4f21b8072eaf"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Mom",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d478325c-a5b7-4534-bcae-ba1e3f79820e"
+          },
+          "dapAn": "Nathan? Are you OK?",
+          "phienAm": "/ˈneɪθən/. /ɑːr juː əʊˈkeɪ/",
+          "yNghia": "\nNathan? Con ổn chứ?",
+          "normal": {
+            "start": "00:00:01.453",
+            "end": "00:00:03.324"
+          },
+          "slow": {
+            "start": "00:00:02.264",
+            "end": "00:00:06.450"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7bfab273-4777-405a-9c0e-cd1ab936af3f"
+          },
+          "dapAn": "Where are you?",
+          "phienAm": "/weər ɑːr juː/",
+          "yNghia": "\nCon đang ở đâu?",
+          "normal": {
+            "start": "00:00:05.286",
+            "end": "00:00:06.231"
+          },
+          "slow": {
+            "start": "00:00:09.504",
+            "end": "00:00:11.741"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d8ff6aae-a294-455f-adcd-cdb98a6316c5"
+          },
+          "dapAn": "Why are you calling me?",
+          "phienAm": "/waɪ ɑːr juː ˈkɔːlɪŋ miː/",
+          "yNghia": "\nTại sao con lại gọi cho mẹ thế?",
+          "normal": {
+            "start": "00:00:08.250",
+            "end": "00:00:09.592"
+          },
+          "slow": {
+            "start": "00:00:14.743",
+            "end": "00:00:17.191"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7e0f075d-63e0-4341-93ec-1879e414b711"
+          },
+          "dapAn": "Why are you always so forgetful?",
+          "phienAm": "/waɪ ɑːr juː ˈɔːlweɪz səʊ fəˈgetfl/",
+          "yNghia": "\nTại sao con luôn quên vậy hả?",
+          "normal": {
+            "start": "00:00:12.499",
+            "end": "00:00:14.751"
+          },
+          "slow": {
+            "start": "00:00:21.772",
+            "end": "00:00:26.458"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4001545b-9796-4511-ab9b-acfa3e0cabd5"
+          },
+          "dapAn": "Where did you put it?",
+          "phienAm": "/weər dɪd juː pʊt ɪt/",
+          "yNghia": "\nCon đã để nó ở đâu?",
+          "normal": {
+            "start": "00:00:17.712",
+            "end": "00:00:19.039"
+          },
+          "slow": {
+            "start": "00:00:30.486",
+            "end": "00:00:33.066"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "88742403-7be4-428b-9577-92c8ff555349"
+          },
+          "dapAn": "It's your bag! I don't know. Hold on. It isn't here. No, sorry! Yes! Here it is!",
+          "phienAm": "/ɪts jɔːr bæg/. /aɪ dəʊnt nəʊ/. /həʊld ɒn/. /ɪt ˈɪznt hɪər/. /nəʊ ˈsɒri/. /jes/. /hɪər ɪt ɪz/",
+          "yNghia": "\nĐó là cặp của con đó! Mẹ không biết. Chờ đã. Nó không có ở đây. Không, mẹ xin lỗi! Nó đây rồi!",
+          "normal": {
+            "start": "00:00:23.050",
+            "end": "00:00:31.755"
+          },
+          "slow": {
+            "start": "00:00:38.436",
+            "end": "00:00:51.467"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "794689a5-4908-406d-abbc-d093fc3ab866"
+          },
+          "dapAn": "A lot of things.",
+          "phienAm": "/eɪ lɒt ɒv θɪŋz/",
+          "yNghia": "\nRất nhiều thứ.",
+          "normal": {
+            "start": "00:00:35.740",
+            "end": "00:00:36.878"
+          },
+          "slow": {
+            "start": "00:00:56.180",
+            "end": "00:00:57.865"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b924638b-5f6f-4fa1-8320-7156bb86aa7f"
+          },
+          "dapAn": "Yes, your laptop and ... your umbrella ... your sandwiches! Your lunch is in the bag!",
+          "phienAm": "/jes jɔːr ˈlæptɒp ænd ... jɔːr ʌmˈbrelə ... jɔːr ˈsænwɪʤɪz/. /jɔːr lʌnʧ ɪz ɪn ðə bæg/",
+          "yNghia": "\nCó, máy tính xách tay và... chiếc ô... bánh mì kẹp của con! Bữa trưa của con có trong cặp!",
+          "normal": {
+            "start": "00:00:39.930",
+            "end": "00:00:47.487"
+          },
+          "slow": {
+            "start": "00:01:01.682",
+            "end": "00:01:11.870"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fad9184e-b6be-4ef7-8f1b-3cc444907352"
+          },
+          "dapAn": "And two notebooks ... and your wallet! Nathan! Everything you need is in your bag!",
+          "phienAm": "/ænd tuː ˈnəʊtbʊks ... ænd jɔːr ˈwɒlɪt/. /ˈneɪθən/. /ˈevrɪθɪŋ juː niːd ɪz ɪn jɔːr bæg/",
+          "yNghia": "\nVà hai cuốn sổ... và ví tiền của con! Nathan! Mọi thứ con cần đều có trong cặp của con!",
+          "normal": {
+            "start": "00:00:50.678",
+            "end": "00:00:57.643"
+          },
+          "slow": {
+            "start": "00:01:15.898",
+            "end": "00:01:24.744"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2d224a74-265c-42ce-84e9-b690f206e3eb"
+          },
+          "dapAn": "I'm on my way to school now!",
+          "phienAm": "/aɪm ɒn maɪ weɪ tuː skuːl naʊ/",
+          "yNghia": "\nMẹ đang trên đường đến trường bây giờ!",
+          "normal": {
+            "start": "00:01:00.549",
+            "end": "00:01:02.493"
+          },
+          "slow": {
+            "start": "00:01:27.929",
+            "end": "00:01:30.930"
+          }
+        }
+      ]
+    }
+  ]
+}

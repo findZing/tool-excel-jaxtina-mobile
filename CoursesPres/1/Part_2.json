@@ -1,0 +1,326 @@
+{
+  "dangCauHoi": "P0_2",
+  "elementType": "PRONUNCIATION",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "5cbc9e34-95ef-4afa-93b5-085c9615cb23"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_11.hello.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_11.hello.mp3",
+      "cauHoi": "Hello /həˈləʊ/ (exclamation): Xin chào.",
+      "yNghia": "Xin chào.",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_11.hello.png",
+      "phienAm": "/həˈləʊ/",
+      "loaiTu": "exclamation",
+      "tuKemTheo": "Hello.",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "ab1752f2-5ade-4143-97d3-9da6c431b7cd"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_12.hi.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_12.hi.mp3",
+      "cauHoi": "Hi /haɪ/ (exclamation): Chào.",
+      "yNghia": "Chào.",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_12.hi.png",
+      "phienAm": "/haɪ/",
+      "loaiTu": "exclamation",
+      "tuKemTheo": "Hi.",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "99ac2ff6-a172-4559-81ee-eb6a610cd359"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_13.good.morning.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_13.good.morning.mp3",
+      "cauHoi": "Good morning /ˌɡʊd ˈmɔːnɪŋ/ (exclamation): Chào buổi sáng.",
+      "yNghia": "Chào buổi sáng.",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_13.good.morning.png",
+      "phienAm": "/ˌɡʊd ˈmɔːnɪŋ/",
+      "loaiTu": "exclamation",
+      "tuKemTheo": "Good morning.",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "c0605c7b-445d-44cf-8499-410391a23740"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_14.good.afternoon.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_14.good.afternoon.mp3",
+      "cauHoi": "Good afternoon /ˌɡʊd ɑːftəˈnuːn/ (exclamation): Chào buổi chiều.",
+      "yNghia": "Chào buổi chiều.",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_14.good.afternoon.png",
+      "phienAm": "/ˌɡʊd ɑːftəˈnuːn/",
+      "loaiTu": "exclamation",
+      "tuKemTheo": "Good afternoon.",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "dde00d47-7c3a-4192-9fa4-baedfa1bebb3"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_15.how.are.you.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_15.how.are.you.mp3",
+      "cauHoi": "How are you? /ˌhaʊ ɑːr ju:/ (phr): Bạn có khỏe không?",
+      "yNghia": "Bạn có khỏe không?",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_15.how.are.you.png",
+      "phienAm": "/ˌhaʊ ɑːr ju:/",
+      "loaiTu": "phr",
+      "tuKemTheo": "How are you?",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "07adc3f0-cd96-445b-b456-5deef5bb02d6"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_16.im.fine.thanks.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_16.im.fine.thanks.mp3",
+      "cauHoi": "I’m fine, thanks /aɪm faɪn θæŋks/ (phr): Tôi khỏe, cảm ơn bạn.",
+      "yNghia": "Tôi khỏe, cảm ơn bạn.",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_16.im.fine.thanks.png",
+      "phienAm": "/aɪm faɪn θæŋks/",
+      "loaiTu": "phr",
+      "tuKemTheo": "I’m fine, thanks.",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "98650a1f-6204-4bd0-9f3d-99c9c13c8e8d"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_19.goodbye.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_19.goodbye.mp3",
+      "cauHoi": "Goodbye /ˌɡʊdˈbaɪ/ (exclamation): Tạm biệt.",
+      "yNghia": "Tạm biệt.",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_19.goodbye.png",
+      "phienAm": "/ˌɡʊdˈbaɪ/",
+      "loaiTu": "exclamation",
+      "tuKemTheo": "Goodbye.",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "b6f3d4cb-5410-46ff-9729-7ba0a77efbd5"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_20.good.night.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_20.good.night.mp3",
+      "cauHoi": "Good night /ˌɡʊd naɪt/ (exclamation): Chúc ngủ ngon.",
+      "yNghia": "Chúc ngủ ngon.",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_20.good.night.png",
+      "phienAm": "/ˌɡʊd naɪt/",
+      "loaiTu": "exclamation",
+      "tuKemTheo": "Good night.",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "d49184b9-2f1a-4436-9eba-d56f52a4101e"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_21.see.you.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_21.see.you.mp3",
+      "cauHoi": "See you /ˈsi: ju:/ (phr): Gặp lại bạn sau.",
+      "yNghia": "Gặp lại bạn sau.",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_21.see.you.png",
+      "phienAm": "/ˈsi: ju:/",
+      "loaiTu": "phr",
+      "tuKemTheo": "See you.",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "78b3b070-3c44-4b81-ba94-ad99e06f06f6"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_48.zero.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_48.zero.mp3",
+      "cauHoi": "Zero /ˈzɪərəʊ/ (n): (Số đếm) 0",
+      "yNghia": "(Số đếm) 0",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_48.zero.png",
+      "phienAm": "/ˈzɪərəʊ/",
+      "loaiTu": "n",
+      "tuKemTheo": "Zero",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "bb1e148f-3f61-48da-980e-eca1f535ecc9"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_49.one.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_49.one.mp3",
+      "cauHoi": "One /wʌn/ (n): (Số đếm) 1",
+      "yNghia": "(Số đếm) 1",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_49.one.png",
+      "phienAm": "/wʌn/",
+      "loaiTu": "n",
+      "tuKemTheo": "One",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "14c97350-693e-4283-a752-1d00028ee756"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_50.two.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_50.two.mp3",
+      "cauHoi": "Two /tuː/ (n): (Số đếm) 2",
+      "yNghia": "(Số đếm) 2",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_50.two.png",
+      "phienAm": "/tuː/",
+      "loaiTu": "n",
+      "tuKemTheo": "Two",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "b060b8b4-403f-4517-921e-57d56871defc"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_51.three.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_51.three.mp3",
+      "cauHoi": "Three /θriː/ (n): (Số đếm) 3",
+      "yNghia": "(Số đếm) 3",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_51.three.png",
+      "phienAm": "/θriː/",
+      "loaiTu": "n",
+      "tuKemTheo": "Three",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "625a6c50-0c53-4426-a3a5-ee7d33376bb2"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_52.four.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_52.four.mp3",
+      "cauHoi": "Four /fɔːr/ (n): (Số đếm) 4",
+      "yNghia": "(Số đếm) 4",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_52.four.png",
+      "phienAm": "/fɔːr/",
+      "loaiTu": "n",
+      "tuKemTheo": "Four",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "68f8e2d8-bf34-40bb-afd6-b275c6bc7ebd"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_53.five.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_53.five.mp3",
+      "cauHoi": "Five /faɪv/ (n): (Số đếm) 5",
+      "yNghia": "(Số đếm) 5",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_53.five.png",
+      "phienAm": "/faɪv/",
+      "loaiTu": "n",
+      "tuKemTheo": "Five",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "c82df87b-2420-4948-8e6b-1bca34463df3"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_54.six.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_54.six.mp3",
+      "cauHoi": "Six /sɪks/ (n): (Số đếm) 6",
+      "yNghia": "(Số đếm) 6",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_54.six.png",
+      "phienAm": "/sɪks/",
+      "loaiTu": "n",
+      "tuKemTheo": "Six",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "a6b4a504-d6ee-4594-828d-bd276890a652"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_55.seven.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_55.seven.mp3",
+      "cauHoi": "Seven /ˈsevən/ (n): (Số đếm) 7",
+      "yNghia": "(Số đếm) 7",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_55.seven.png",
+      "phienAm": "/ˈsevən/",
+      "loaiTu": "n",
+      "tuKemTheo": "Seven",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "10321231-408e-4375-877f-ca8be65ebe2c"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_56.eight.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_56.eight.mp3",
+      "cauHoi": "Eight /eɪt/ (n): (Số đếm) 8",
+      "yNghia": "(Số đếm) 8",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_56.eight.jpg",
+      "phienAm": "/eɪt/",
+      "loaiTu": "n",
+      "tuKemTheo": "Eight",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "ca7e669b-bc04-43da-820f-825521c80690"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_57.nine.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_57.nine.mp3",
+      "cauHoi": "Nine /naɪn/ (n): (Số đếm) 9",
+      "yNghia": "(Số đếm) 9",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_57.nine.png",
+      "phienAm": "/naɪn/",
+      "loaiTu": "n",
+      "tuKemTheo": "Nine",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "c667c048-355a-4677-9193-05f3f64e963d"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L1/sounds/normal/PRES_1_PRONUNCIATION_58.ten.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L1/sounds/slow/PRES_1_PRONUNCIATION_58.ten.mp3",
+      "cauHoi": "Ten /ten/ (n): (Số đếm) 10",
+      "yNghia": "(Số đếm) 10",
+      "hinhAnh": "4SKILLS_PRE_S_L1/PRES_1_PRONUNCIATION_58.ten.png",
+      "phienAm": "/ten/",
+      "loaiTu": "n",
+      "tuKemTheo": "Ten",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    }
+  ]
+}

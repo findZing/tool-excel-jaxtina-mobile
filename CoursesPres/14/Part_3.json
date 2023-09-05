@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0_1",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "c3f48668-d15e-4146-8ccf-67a85a3cc7a9"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Avenue",
+      "yNghia": "Đại lộ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "62087d46-3e51-4ed6-b4a8-7ab40ac2d4c9"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "College",
+      "yNghia": "Trường đại học",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a1516701-3d89-4134-ac83-59e71083ed87"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Theater",
+      "yNghia": "Nhà hát",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7f1f229f-7f5b-4aaf-b5b6-cbf5661634b7"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Bridge",
+      "yNghia": "Cây cầu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "15b3b43a-ed90-4206-80f9-75c975b97bb8"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Bank",
+      "yNghia": "Ngân hàng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9fe4545d-e4cf-4e42-97c4-9ca3ef83ca7d"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "History",
+      "yNghia": "Lịch sử",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9a77d507-2591-495e-9629-86feb0c02100"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Science",
+      "yNghia": "Khoa học",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f11baace-cc4a-4107-bca7-f150298f5220"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Store",
+      "yNghia": "Cửa hàng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2e9c6c90-0383-4616-8e86-b9e5e941d38c"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Turn",
+      "yNghia": "Rẽ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "96ba3c32-30b9-4c95-8d13-dd332af8114f"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Near",
+      "yNghia": "Gần",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "48e502d3-30bd-4514-8369-d5d0d04b6e38"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Around",
+      "yNghia": "Xung quanh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5d8940a2-3663-43b1-89c6-63585b59c317"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Movie theater",
+      "yNghia": "Rạp chiếu phim",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "42bc95b8-c1cc-4b85-ae22-140a8130320b"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Language school",
+      "yNghia": "Trường ngoại ngữ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "cf9c5824-7eca-40de-9c77-f2fbfb74fd97"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Main square",
+      "yNghia": "Quảng trường chính",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0c539185-a85e-40cb-8855-365c1ae7773c"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Go straight up",
+      "yNghia": "Đi thẳng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "27886666-1293-4816-8546-8519cc6e5e5c"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Ask for",
+      "yNghia": "Yêu cầu, hỏi xin (chỉ dẫn)",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f69967c3-4a03-46a4-8c13-b1c911d86dc5"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Across from",
+      "yNghia": "Đối diện",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1cc5ac20-ab69-4484-86e9-8adc74281645"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "On the corner of",
+      "yNghia": "Ở góc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "fe070962-d417-4c43-b6f8-67613de93ed1"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "On the left",
+      "yNghia": "Ở phía trái",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ac0bf3d0-15f1-4020-b113-2f7ba7a2b595"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "On the right",
+      "yNghia": "Ở phía phải",
+      "danhSachDapAn": []
+    }
+  ]
+}

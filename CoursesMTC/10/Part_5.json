@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P9Cham1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "30a137fd-9433-4e5a-8e8e-541fa638c956"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "25d7b16f-e318-468c-8747-6712123ed625"
+          },
+          "cauHoi": "When had the speaker used a computer?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "be98de2c-7581-4cf8-948b-568582219c9a"
+              },
+              "dapAn": "A. in 1998",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "729b8b59-8daa-4d56-bb39-ac8579545f6c"
+              },
+              "dapAn": "B. in 1999",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6d50c6ae-8c2e-4bff-b68d-a102f8bc6a7e"
+              },
+              "dapAn": "C. in 1980",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e011a9df-046a-4956-a984-030277a1d513"
+              },
+              "dapAn": "D. in 1988",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "bce3177a-d9e2-4eba-a8d2-9283652ace26"
+          },
+          "cauHoi": "Why he hadn’t sent an email?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3e086e15-42da-4b5f-8d3c-bc4bf5eab824"
+              },
+              "dapAn": "A. Because he didn’t have a mobile phone.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b1661fe5-e4fd-46a4-aa67-e07d20c8036b"
+              },
+              "dapAn": "B. Because he didn’t have Internet.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "49784869-1045-479c-acb1-cc4e06122135"
+              },
+              "dapAn": "C. Because he didn’t have a computer.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ae41ee9c-0975-4ca1-b003-7e4d19acb26d"
+              },
+              "dapAn": "D. Because he didn’t have a mouse.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "8ae177d9-5705-4881-8276-cea2e410c1b5"
+          },
+          "cauHoi": "When he had learned to use email?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f72f347f-b2c3-4dd5-b602-566fb2b06eb8"
+              },
+              "dapAn": "A. by 2002",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "365b825e-f8f9-4a6a-a0dd-1300d3c07dd0"
+              },
+              "dapAn": "B. in 2000",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d3154cd6-d72e-4a42-a548-8c28341fe13f"
+              },
+              "dapAn": "C. by 2012",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2b42636b-73c9-438f-8b6c-daecc202f1b9"
+              },
+              "dapAn": "D. in 2009",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "42694b45-ee49-4280-9263-0acf9e2de833"
+          },
+          "cauHoi": "Had he joined the Friendster social media network?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "05cfacd8-5859-446f-81d1-0b2eecd81594"
+              },
+              "dapAn": "A. Yes, he had.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e65f48b8-d1ad-47e7-a388-6167d86010c2"
+              },
+              "dapAn": "B. No, he hadn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b875064e-b778-4f6a-95c0-aeb8c709d735"
+              },
+              "dapAn": "C. Yes, he hadn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b646a791-4807-4794-91f7-60ad8f6e9949"
+              },
+              "dapAn": "D. No, he had.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "I was born in 1980, so I've seen a lot of changes in technology in my life. When I started college in 1998, I had used a computer, but I hadn't sent an email because I didn't have Internet. I got Internet service at home in 2000, and by 2002, when I graduated from college, I had learned to use email, and I had even joined the Friendster social media network! I thought I was very modern!<br />\n<br />\n<i>Tôi sinh năm 1980, vì vậy tôi đã thấy rất nhiều thay đổi của công nghệ trong cuộc sống. Khi tôi bắt đầu học đại học vào năm 1998, tôi đã sử dụng máy tính, nhưng tôi đã không gửi email vì không có internet. Tôi có dịch vụ internet tại nhà vào năm 2000 và đến năm 2002, khi tôi tốt nghiệp đại học, tôi đã học cách sử dụng email, và thậm chí tôi đã tham gia mạng xã hội Friendster! Tôi đã nghĩ mình rất hiện đại!</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_MTC_L10/sounds/normal/MTC_10_LISTENING_Listening 1.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "05048689-7978-4da8-a806-aa79a4e530b6"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "aff1b6b6-a662-4aee-8797-58262b770781"
+          },
+          "cauHoi": "What is the purpose of the city when building new parks and other green spaces, and creating new pollution laws for vehicles?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "0f71bc02-57fc-4c07-be2a-074e3f0a83fc"
+              },
+              "dapAn": "A. to raise taxes",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6336fe82-3b33-46b0-890b-f62fe64648ca"
+              },
+              "dapAn": "B. to earn money",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b3f90c82-30f1-4e81-8fe9-8e7f1a2641e6"
+              },
+              "dapAn": "C. to reduce congestions",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "00e9d9de-3844-492b-8503-c4d1001fb419"
+              },
+              "dapAn": "D. to reduce air and water pollution",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "a5fb3db6-5f93-45aa-affb-633649c30496"
+          },
+          "cauHoi": "Are the results from the changes positive?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "e2dbf893-1a9c-4f40-bd34-443d60aceb74"
+              },
+              "dapAn": "A. Yes, they aren’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "967656e7-e8d4-4ec0-95c2-58e80a275845"
+              },
+              "dapAn": "B. Yes, they are.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "cd6e8cbf-d60f-4f2a-9628-8e626c1088cd"
+              },
+              "dapAn": "C. No, they aren’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f3b40afd-687f-49c5-a060-75cdd8952b61"
+              },
+              "dapAn": "D. No, they are.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "1e36c5fe-723a-4d69-818f-751e92b58763"
+          },
+          "cauHoi": "Why did he suggest that universities offer programs to train people in rural areas to do different jobs?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a2db6f04-470f-48a2-a05c-764524a59162"
+              },
+              "dapAn": "A. Because they wouldn’t burn the trees.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "24e1033f-b61b-4e4c-86f5-0ee2fed4c392"
+              },
+              "dapAn": "B. Because they would be happier.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1988dd45-0f9d-4259-acb1-9e945b384845"
+              },
+              "dapAn": "C. Because they wouldn’t have to cut down trees to get money.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "7dd60b8b-30a9-4c1a-9a5f-928fa83b28cd"
+              },
+              "dapAn": "D. Because they would be richer.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "b11bd052-db45-49c1-8e59-e12d8bfdb60d"
+          },
+          "cauHoi": "Should the city give people free trees to plant in their yards?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7234a7f7-5c86-408b-b9a8-cd3adc50050f"
+              },
+              "dapAn": "A. Yes, they should.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "28d64e7a-29e7-4e3b-a043-93d5c34082b5"
+              },
+              "dapAn": "B. No, they should.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "64a9903f-2255-4557-9ef1-6cf667ad7d70"
+              },
+              "dapAn": "C. Yes, they shouldn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fc77e0fd-2642-4c50-8fdc-7548ec1fda08"
+              },
+              "dapAn": "D. No, they shouldn’t.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "In order to reduce air and water pollution, my city has built new parks and other green spaces, and it has created new pollution laws for vehicles. The results from the changes have been positive, but I wish we would do more to help with problems like deforestation and global warming. If universities offered programs to train people in rural areas to do different jobs, they wouldn't have to cut down trees to get money. Also, my city gives people free trees to plant in their yards. There will be a lot more trees if all of the cities do that.<br />\n<br />\n<i>Để giảm ô nhiễm không khí và nước, thành phố của tôi đã xây dựng các công viên mới và các không gian xanh khác, và họ đã đưa ra luật chống ô nhiễm mới đối với các phương tiện giao thông. Kết quả từ những thay đổi ấy</i><i> thì</i><i> tích cực, nhưng tôi ước chúng ta sẽ làm nhiều hơn nữa để giúp giải quyết các vấn đề như phá rừng và nóng lên toàn cầu. Nếu các trường đại học cung cấp các chương trình đào tạo người dân ở các vùng nông thôn làm các công việc khác nhau, họ sẽ không phải chặt cây để lấy tiền. Ngoài ra, thành phố của tôi cho người dân trồng cây miễn phí trong sân của họ. Sẽ có nhiều cây xanh hơn nếu tất cả các thành phố đều làm như vậy.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_MTC_L10/sounds/normal/MTC_10_LISTENING_Listening 2.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "eb310800-23eb-48e3-8745-d151cea41295"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "ce5f43b4-539a-476c-9ada-e193fa522e28"
+          },
+          "cauHoi": "What helps with the problem of air pollution and global warming? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "29d6efeb-2423-4818-ac2a-a6d2c995ca63"
+              },
+              "dapAn": "A. the rooftop",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0edc3b89-135f-4c3a-9941-5828410eab29"
+              },
+              "dapAn": "B. the walls",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "397ea632-67d0-4252-bca5-42cb1e54450d"
+              },
+              "dapAn": "C. the sea",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6625aa1e-fb35-4495-9ccd-754957f230c9"
+              },
+              "dapAn": "D. the roof garden",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "2ee90c2c-9b08-4caa-8ccd-192f8b9a14f5"
+          },
+          "cauHoi": "Would the garden take out oxygen?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9d0982c0-2269-46cb-bf72-4e01ef0eb1a6"
+              },
+              "dapAn": "A. Yes, it wouldn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a75942cc-3fef-409d-976e-b1a6829f793e"
+              },
+              "dapAn": "B. Yes, it would.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "231307f4-8a9b-4c28-a0ff-6f1fc25d5510"
+              },
+              "dapAn": "C. No, it would.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6adf8837-35cb-48bd-9cda-af19a7fcfebf"
+              },
+              "dapAn": "D. No, it wouldn’t.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "8a950e31-b710-4fcb-aaec-333bd326120b"
+          },
+          "cauHoi": "Is the country believed to do some good things for the environment?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d7c2ddf8-3512-4cfb-bfa0-0a7714989651"
+              },
+              "dapAn": "A. No, it is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c0cab209-fe9e-4c79-8ad6-79ff3c358983"
+              },
+              "dapAn": "B. No, it isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "30060b1e-507a-471e-8ff5-f961a979ef14"
+              },
+              "dapAn": "C. Yes, it is.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "0d132cd2-44ee-46b5-835f-4d49057f6b34"
+              },
+              "dapAn": "D. Yes, it isn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "9ce2e584-17de-45b1-935d-5a3b36e2f564"
+          },
+          "cauHoi": "Will the country build new roof gardens in the near future?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9ec972c8-6190-468a-9c16-95e72be73d54"
+              },
+              "dapAn": "A. Not mentioned.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "0d975d70-356b-4483-916e-537a09e9f829"
+              },
+              "dapAn": "B. Yes, they won’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4e2858fe-a7d7-4404-b7ed-9791be2e67b8"
+              },
+              "dapAn": "C. No, they won’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "feb5900f-2fab-44aa-8bcf-7b8d2eb97144"
+              },
+              "dapAn": "D. Yes, they will.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "One thing that helps with the problem of air pollution and global warming, in general, is roof gardens. If companies put gardens on their roofs, the plants would put oxygen into the air and take out carbon dioxide. I believe that my country is doing some good things for the environment, and I hope we will do many more things in the near future.<br />\n<br />\n<i>Một thứ giúp giải quyết vấn đề ô nhiễm không khí và sự nóng lên toàn cầu nói chung là những khu vườn trên mái nhà. Nếu các công ty tạo những khu vườn trên mái nhà của họ, thì thực vật sẽ đưa khí oxy vào không khí và loại bỏ khí carbon dioxide. Tôi tin rằng đất nước của tôi đang làm một số điều tốt cho môi trường và tôi hy vọng chúng ta sẽ làm được nhiều điều hơn nữa trong tương lai gần.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_MTC_L10/sounds/normal/MTC_10_LISTENING_Listening 3.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "765c5ee8-acd2-4c5d-9b70-8b0aab331ead"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "dceb861c-aacc-49fd-b970-fac363caa225"
+          },
+          "cauHoi": "When has most of the global warming happened?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9e7aa69f-6f0d-470e-b782-60b77ae8612f"
+              },
+              "dapAn": "A. since 1970",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4f816d87-9e7e-43d5-a48f-89c7ab2a39a5"
+              },
+              "dapAn": "B. since the 1970s",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "4b5d394a-aa34-4206-adfe-e79d2cdb7710"
+              },
+              "dapAn": "C. since 1980",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cc56b38a-e912-4473-9b9a-9c545ca52a56"
+              },
+              "dapAn": "D. since the 1980s",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "43dded0c-e834-46ef-9699-929e121881f9"
+          },
+          "cauHoi": "What do they produce when we burn fossil fuels?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "4f8ae89d-9d94-4ce8-acb0-94618f4aa382"
+              },
+              "dapAn": "A. oxygen",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f776c7cd-cda7-4650-866d-26044d28a2e6"
+              },
+              "dapAn": "B. nitrogen",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2a21c715-03a9-4a9e-97f2-60ff45daf240"
+              },
+              "dapAn": "C. hydrogen",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7b264b26-c82e-43c3-bce7-53e15061d6c4"
+              },
+              "dapAn": "D. carbon dioxide",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "0ebcc8b8-09a1-498a-9565-5b4c9f36ffc9"
+          },
+          "cauHoi": "Does carbon dioxide in the atmosphere trap heat and keep it close to Earth?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d233f583-da31-434e-bb34-74a408cd7e68"
+              },
+              "dapAn": "A. Yes, it does.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "d4bf89ea-1b08-44b8-856d-0d8ca511ea21"
+              },
+              "dapAn": "B. Yes, it doesn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "209b1d56-2a70-4069-b361-b077617bbcbc"
+              },
+              "dapAn": "C. No, it does.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1abfa0a8-b966-4568-a71c-1c1ccde02ad4"
+              },
+              "dapAn": "D. No, it doesn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "4aba1d07-8178-495c-aff6-12024388fa9e"
+          },
+          "cauHoi": "Does Methane trap heat near the Earth?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "e81ed367-c0d7-4668-8f11-d53c442ae569"
+              },
+              "dapAn": "A. Yes, it does.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "2d621911-af24-46a3-861d-7539063baaa9"
+              },
+              "dapAn": "B. No, it doesn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7e926346-fb8c-4b4f-bead-3f1f2c5f2e6f"
+              },
+              "dapAn": "C. Yes, it doesn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7f891c75-4565-40dc-aa72-1a5c6a48bd93"
+              },
+              "dapAn": "D. No, it didn’t.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "Global warming started with the Industrial Revolution when we started using fossil fuels- carbon-based fuels like oil and gas, but most of the global warming has happened since the 1970s. When we burn fossil fuels, they produce carbon dioxide. Carbon dioxide in the atmosphere traps heat and keeps it close to Earth. Other gases, like methane, also trap heat near the Earth. This is called the greenhouse effect.<br />\n<br />\n<i>Sự nóng lên toàn cầu bắt đầu cùng với cuộc Cách mạng Công nghiệp. Đó là khi mà chúng ta bắt đầu sử dụng nhiên liệu dựa trên carbon như dầu và khí đốt, còn được gọi là nhiên liệu hóa thạch. Nhưng hầu hết sự nóng lên toàn cầu đã xảy ra từ những năm 1970. Khi chúng ta đốt nhiên liệu hóa thạch, chúng tạo ra khí carbon dioxide. Carbon dioxide trong khí quyển giữ nhiệt và nó giữ nhiệt ở gần Trái đất. Các loại khí khác như khí mê-tan, cũng giữ nhiệt gần Trái đất. Đây được gọi là hiệu ứng nhà kính.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_MTC_L10/sounds/normal/MTC_10_LISTENING_Listening 4.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2ee793d7-90c7-40af-87e0-c7c79ae432cc"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "505e04c2-5fe7-4f4b-93a6-caa282045a21"
+          },
+          "cauHoi": "What is the way that is used to encourage people to use clean energy?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6f699315-3523-41cc-8d0f-a263c1514d24"
+              },
+              "dapAn": "A. Have a higher salary for them.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "58739361-b07b-4623-8f56-c29bc8a8b29e"
+              },
+              "dapAn": "B. Have higher investment for them.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3623d7a1-beec-4c0d-864d-7b5ef7c9c0bf"
+              },
+              "dapAn": "C. Have better offers for them.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e74a038d-118a-47f6-9710-76893e87721a"
+              },
+              "dapAn": "D. Have lower taxes for them.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "8848440a-a22e-4c48-a20c-222c9bce9f7b"
+          },
+          "cauHoi": "What kind of product should be produced and used?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "38a8b101-2767-4ca6-9b79-14d7bcd892c2"
+              },
+              "dapAn": "A. They are disposable products.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "04566fac-735a-44a2-b2b9-885e23b12245"
+              },
+              "dapAn": "B. They are colorful products.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "96d97857-06e3-46c6-af95-49c2c02f4c4f"
+              },
+              "dapAn": "C. They are products that require less packaging.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "ebee6f4b-69f0-4d16-9649-1ec990f92dc1"
+              },
+              "dapAn": "D. They are cheap products.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "dac5bbe1-7311-4a7b-b780-9ba2cd455e46"
+          },
+          "cauHoi": "Should people limit fishing of certain types of fish?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "35380d65-135c-4aeb-b14c-d9722d118c2b"
+              },
+              "dapAn": "A. Yes, they are.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5a397239-ccf5-4bfb-9194-49a8393d02d4"
+              },
+              "dapAn": "B. No, they shouldn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6f9bed45-d035-43f1-9be1-8fd26cb24b4a"
+              },
+              "dapAn": "C. Yes, they shouldn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "43506531-c4aa-4de3-9624-5213f9035fc4"
+              },
+              "dapAn": "D. Yes, they should.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "59a73e37-9383-4e25-b51c-e6a2a11a5c02"
+          },
+          "cauHoi": "What should people do to protect disappearing species?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "105618ad-319f-44fa-b506-1f1ee194c60b"
+              },
+              "dapAn": "A. buy insurance",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8ab224e2-7838-4408-94fc-1d0c389c90f0"
+              },
+              "dapAn": "B. create laws",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "ed50893d-a32c-4b4f-bf93-3f0e7a36c2d3"
+              },
+              "dapAn": "C. hunt and eat them",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1d479bc5-8088-49df-b771-82adf318797f"
+              },
+              "dapAn": "D. report to local authority",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "There are some ways to protect our Earth.<br />\nIn terms of air and water pollution: Make companies that produce pollution pay a fine. Have lower taxes for people and companies that use clean energy.  <br />\nAbout trash: Provide free recycling service. Reduce the use of plastic. Make people pay for plastic bags in stores and grocery stores. Make products that require less packaging.  <br />\nAbout overfishing: Limit fishing of certain types of fish. Don't allow certain types of fishing nets.  <br />\nIn terms of endangered species: Create laws to protect species that are disappearing.<br />\n<br />\n<i>Có một số cách để bảo vệ Trái đất của chúng ta.</i><br />\n<i>Về ô nhiễm không khí và nước: Yêu cầu các công ty gây ô nhiễm phải nộp phạt. Áp mức thuế thấp hơn cho người dân và các công ty sử dụng năng lượng sạch.</i><br />\n<i>Về rác thải: Cung cấp dịch vụ tái chế rác miễn phí. Giảm sử dụng nhựa. Yêu cầu mọi người phải trả tiền cho túi ny-lông trong các cửa hàng và cửa hàng tạp hóa. Sản xuất những sản phẩm cần ít bao bì hơn.</i><br />\n<i>Về đánh bắt quá mức: Hạn chế đánh bắt một số loại cá. Cấm một số loại lưới đánh cá.</i><br />\n<i>Về các loài có nguy cơ tuyệt chủng: Xây dựng luật để bảo vệ các loài đang bị tuyệt chủng.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_MTC_L10/sounds/normal/MTC_10_LISTENING_Listening 5.mp3"
+    }
+  ]
+}

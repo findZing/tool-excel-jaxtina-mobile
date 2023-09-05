@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_MTC_L19/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_MTC_L19/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "a6b7ab15-1b62-4435-81c7-ecd91d3caf78"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Danny",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "eaf5a5e0-7a86-4103-8dcb-4e2989d5da19"
+          },
+          "dapAn": "Hey, my sister asked if you liked watching TV talent shows?",
+          "phienAm": "/heɪ maɪ ˈsɪstər ɑːskt ɪf juː laɪkt ˈwɒʧɪŋ ˌtiːˈviː ˈtælənt ʃəʊz/",
+          "yNghia": "\nNày, em gái tôi hỏi bạn có thích xem các chương trình tìm kiếm tài năng trên ti vi không?",
+          "normal": {
+            "start": "00:00:00.737",
+            "end": "00:00:05.428"
+          },
+          "slow": {
+            "start": "00:00:00.978",
+            "end": "00:00:06.669"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "795c1f09-749e-4e59-b592-5ba38834b1f5"
+          },
+          "dapAn": "She asked if you watched “Got Talent”?",
+          "phienAm": "/ʃiː ɑːskt ɪf juː wɒʧt gɒt ˈtælənt/",
+          "yNghia": "\nEm ấy hỏi bạn có xem chương trình “Got Talent” không?",
+          "normal": {
+            "start": "00:00:08.711",
+            "end": "00:00:11.392"
+          },
+          "slow": {
+            "start": "00:00:12.361",
+            "end": "00:00:15.295"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "23394619-5f75-498e-b766-cddd2119103b"
+          },
+          "dapAn": "My sister said viewers watched the shows in 58 countries.",
+          "phienAm": "/maɪ ˈsɪstər sed ˈvjuːəz wɒʧt ðə ʃəʊz ɪn ˌfɪfˈtiːn eɪt ˈkʌntriz/",
+          "yNghia": "\nEm gái tôi nói rằng khán giả ở 58 quốc gia đã xem các buổi biểu diễn.",
+          "normal": {
+            "start": "00:00:19.902",
+            "end": "00:00:23.990"
+          },
+          "slow": {
+            "start": "00:00:29.612",
+            "end": "00:00:35.214"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0d6df097-d068-48de-abe5-271c706aed4f"
+          },
+          "dapAn": "How about other audition-based shows, such as The Voice or The X Factor?",
+          "phienAm": "/haʊ əˈbaʊt ˈʌðər ɔːˈdɪʃn beɪst ʃəʊz sʌʧ æz ðə vɔɪs ɔːr ði eks ˈfæktər/",
+          "yNghia": "\nCòn các chương trình dựa trên buổi thử giọng khác, chẳng hạn như The Voice hoặc The X Factor thì sao?",
+          "normal": {
+            "start": "00:00:34.644",
+            "end": "00:00:39.938"
+          },
+          "slow": {
+            "start": "00:00:49.087",
+            "end": "00:00:56.023"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7ef7943a-3b5d-489c-bb76-439f0576084b"
+          },
+          "dapAn": "I wonder why so many people love those shows.",
+          "phienAm": "/aɪ ˈwʌndər waɪ səʊ ˈmeni ˈpiːpl lʌv ðəʊz ʃəʊz/",
+          "yNghia": "\nTôi tự hỏi tại sao rất nhiều người yêu thích những chương trình đó.",
+          "normal": {
+            "start": "00:00:45.902",
+            "end": "00:00:49.186"
+          },
+          "slow": {
+            "start": "00:00:03.403",
+            "end": "00:00:07.672"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6ff76693-4fd7-427d-9b90-19aac21fff5d"
+          },
+          "dapAn": "Do you know how it all started?",
+          "phienAm": "/duː juː nəʊ haʊ ɪt ɔːl ˈstɑːtɪd/",
+          "yNghia": "\nBạn có biết nó bắt đầu như thế nào không?",
+          "normal": {
+            "start": "00:00:58.031",
+            "end": "00:01:00.041"
+          },
+          "slow": {
+            "start": "00:00:20.744",
+            "end": "00:00:23.412"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "eeb7e1bd-4c87-4d17-b8e0-602890c50d77"
+          },
+          "dapAn": "That show was similar to talent shows today, wasn’t it?",
+          "phienAm": "/ðæt ʃəʊ wɒz ˈsɪmɪlər tuː ˈtælənt ʃəʊz təˈdeɪ wɒznt ɪt/",
+          "yNghia": "\nChương trình đó tương tự như các chương trình tìm kiếm tài năng ngày nay, phải không?",
+          "normal": {
+            "start": "00:01:11.165",
+            "end": "00:01:14.717"
+          },
+          "slow": {
+            "start": "00:00:39.863",
+            "end": "00:00:44.576"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "27f014b9-1d22-481f-b5be-7e93feb58746"
+          },
+          "dapAn": "They would audition for the judges on TV, and if chosen, they would audition again.",
+          "phienAm": "/ðeɪ wʊd ɔːˈdɪʃn fɔːr ðə ˈʤʌʤɪz ɒn ˌtiːˈviː ænd ɪf ˈʧəʊzn ðeɪ wʊd ɔːˈdɪʃn əˈgen/",
+          "yNghia": "\nHọ sẽ thử giọng cho các giám khảo trên ti vi, và nếu được chọn, họ sẽ thử giọng lại.",
+          "normal": {
+            "start": "00:01:23.830",
+            "end": "00:01:30.196"
+          },
+          "slow": {
+            "start": "00:00:55.691",
+            "end": "00:00:03.428"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "dd202d3d-43cf-45f2-acc9-e552108a0df4"
+          },
+          "dapAn": "Do you remember any stars in that show?",
+          "phienAm": "/duː juː rɪˈmembər ˈeni stɑːz ɪn ðæt ʃəʊ/",
+          "yNghia": "\nBạn có nhớ ngôi sao nào trong chương trình đó không?",
+          "normal": {
+            "start": "00:01:38.706",
+            "end": "00:01:41.387"
+          },
+          "slow": {
+            "start": "00:00:13.743",
+            "end": "00:00:16.589"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b767549f-77ad-4b2e-b05d-c23fc176e938"
+          },
+          "dapAn": "That’s why many well-known stars went for an audition.",
+          "phienAm": "/ðæts waɪ ˈmeni wel-nəʊn stɑːz went fɔːr æn ɔːˈdɪʃn/",
+          "yNghia": "\nĐó là lý do tại sao nhiều ngôi sao nổi tiếng đã đến thử giọng.",
+          "normal": {
+            "start": "00:01:48.691",
+            "end": "00:01:52.242"
+          },
+          "slow": {
+            "start": "00:00:26.104",
+            "end": "00:00:30.639"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9bc55d73-e789-43a7-a63d-ea18435c280a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Blake",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3ca8605e-3c55-4bda-a0f8-d46480bc98ae"
+          },
+          "dapAn": "Yes, it’s my cup of tea.",
+          "phienAm": "/jes ɪts maɪ kʌp ɒv tiː/",
+          "yNghia": "\nCó, đó là sở thích của tôi.",
+          "normal": {
+            "start": "00:00:05.897",
+            "end": "00:00:08.175"
+          },
+          "slow": {
+            "start": "00:00:07.648",
+            "end": "00:00:11.827"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "460dbefb-f5ba-46b3-8ebb-6d82d8d186b0"
+          },
+          "dapAn": "Of course. It was started by Simon Cowell in 2004 and has become a global success.",
+          "phienAm": "/ɒv kɔːs/. / ɪt wɒz ˈstɑːtɪd baɪ ˈsaɪmən kaʊwəl ɪn tuː ˈθaʊzənd ænd fɔːr ænd hæz bɪˈkʌm eɪ ˈgləʊbəl səkˈses/",
+          "yNghia": "\nTất nhiên rồi. Nó được bắt đầu bởi Simon Cowell vào năm 2004 và đã trở thành một chương trình thành công trên khắp thế giới.",
+          "normal": {
+            "start": "00:00:11.794",
+            "end": "00:00:19.165"
+          },
+          "slow": {
+            "start": "00:00:16.629",
+            "end": "00:00:28.456"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c7b5e6b6-8556-4eba-b94e-87a46c4210e1"
+          },
+          "dapAn": "Amazing! In 2014, Guinness World Records named it the most successful reality TV show ever.",
+          "phienAm": "/əˈmeɪzɪŋ /. / ɪn ˈtwenti ˌfɔːrˈtiːn ˈgɪnɪs wɜːld ˈrekɔːdz neɪmd ɪt ðə məʊst səkˈsesfʊl riːˈælɪti ˌtiːˈviː ʃəʊ ˈevər/",
+          "yNghia": "\nKinh ngạc thật! Năm 2014, Kỷ lục Guinness Thế giới gọi đây là chương trình truyền hình thực tế thành công nhất từ trước đến nay.",
+          "normal": {
+            "start": "00:00:24.794",
+            "end": "00:00:33.639"
+          },
+          "slow": {
+            "start": "00:00:35.926",
+            "end": "00:00:47.753"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b7797d9f-80e6-42f7-8d63-00b466794f6f"
+          },
+          "dapAn": "They are also popular with audiences across the planet.",
+          "phienAm": "/ðeɪ ɑːr ˈɔːlsəʊ ˈpɒpjʊlər wɪð ˈɔːdiənsɪz əˈkrɒs ðə ˈplænɪt/",
+          "yNghia": "\nChúng cũng được khán giả trên khắp thế giới yêu thích.",
+          "normal": {
+            "start": "00:00:40.809",
+            "end": "00:00:44.763"
+          },
+          "slow": {
+            "start": "00:00:56.734",
+            "end": "00:00:02.336"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "76014f7d-2ac6-41c5-a73b-a623d2a5bed5"
+          },
+          "dapAn": "People love watching the contestants go from nothing to huge success in a short time.",
+          "phienAm": "/ˈpiːpl lʌv ˈwɒʧɪŋ ðə kənˈtestənts gəʊ frɒm ˈnʌθɪŋ tuː hjuːʤ səkˈses ɪn eɪ ʃɔːt taɪm/",
+          "yNghia": "\nMọi người thích xem các thí sinh đi từ con số không đến thành công vang dội trong một thời gian ngắn.",
+          "normal": {
+            "start": "00:00:50.459",
+            "end": "00:00:57.763"
+          },
+          "slow": {
+            "start": "00:00:08.561",
+            "end": "00:00:19.855"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "486a2b52-b5ea-4873-a010-a4110fef6ad7"
+          },
+          "dapAn": "In 1934, Original Amateur Hour, a radio show, began in the US and moved to TV in 1948.",
+          "phienAm": "/ɪn ˌnaɪnˈtiːn ˈθɜːti-fɔːr əˈrɪʤənl ˈæmətʃər ˈaʊər eɪ ˈreɪdɪəʊ ʃəʊ bɪˈgæn ɪn ðə juːˈes ænd muːvd tuː tiːˈviː ɪn ˌnaɪnˈtiːn ˈfɔːti eɪt/",
+          "yNghia": "\nNăm 1934, một chương trình phát thanh tên là Original Amateur Hour, bắt đầu ở Mỹ và chuyển sang ti vi vào năm 1948.",
+          "normal": {
+            "start": "00:01:00.912",
+            "end": "00:01:10.428"
+          },
+          "slow": {
+            "start": "00:00:24.390",
+            "end": "00:00:38.351"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "09d9eb88-6881-41b8-aa61-67ef859fe388"
+          },
+          "dapAn": "Right. TV professionals traveled the country looking for entertainers for the auditions.",
+          "phienAm": "/raɪt/ ./ ˌtiːˈviː prəˈfeʃənlz ˈtrævld ðə ˈkʌntri ˈlʊkɪŋ fɔːr ˌentəˈteɪnəz fɔːr ði ɔːˈdɪʃn/",
+          "yNghia": "\nĐúng vậy. Các chuyên gia truyền hình đã đi khắp đất nước để tìm kiếm những nghệ sĩ giải trí cho buổi thử giọng.",
+          "normal": {
+            "start": "00:01:15.789",
+            "end": "00:01:22.624"
+          },
+          "slow": {
+            "start": "00:00:45.376",
+            "end": "00:00:54.002"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d055d6f6-cbf7-4783-ab3c-18d7c75d2fd2"
+          },
+          "dapAn": "Correct. Then the audience would vote for their favourite act by phone or by mail.",
+          "phienAm": "/kəˈrekt/. / ðen ði ˈɔːdiəns wʊd vəʊt fɔːr ðeər ˈfeɪvərɪt ækt baɪ fəʊn ɔːr baɪ meɪl/",
+          "yNghia": "\nChính xác. Sau đó, khán giả sẽ bình chọn cho tiết mục yêu thích của họ qua điện thoại hoặc qua thư.",
+          "normal": {
+            "start": "00:01:31.000",
+            "end": "00:01:37.969"
+          },
+          "slow": {
+            "start": "00:00:04.317",
+            "end": "00:00:12.765"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "dad00ece-69f9-438b-b0c2-dfd5362e96cf"
+          },
+          "dapAn": "It created a number of stars such as Frank Sinatra and Elvis Presley.",
+          "phienAm": "/ɪt kriːˈeɪtɪd eɪ ˈnʌmbər ɒv stɑːz sʌʧ æz fræŋk sɪˈnɑːtrə ænd ˈelvɪs ˈprezli/",
+          "yNghia": "\nNó đã tạo ra một số ngôi sao như Frank Sinatra và Elvis Presley.",
+          "normal": {
+            "start": "00:01:42.392",
+            "end": "00:01:47.686"
+          },
+          "slow": {
+            "start": "00:00:18.011",
+            "end": "00:00:25.037"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4292793a-998c-4158-bed1-5eed793e8eed"
+          },
+          "dapAn": "I totally agree with you.",
+          "phienAm": "/aɪ ˈtəʊtli əˈgriː wɪð juː/",
+          "yNghia": "\nTôi hoàn toàn đồng ý với bạn.",
+          "normal": {
+            "start": "00:01:53.181",
+            "end": "00:01:55.191"
+          },
+          "slow": {
+            "start": "00:00:30.906",
+            "end": "00:00:33.218"
+          }
+        }
+      ]
+    }
+  ]
+}

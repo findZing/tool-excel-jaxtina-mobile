@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_TC_L1/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_TC_L1/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "ac3cf369-da35-409c-b6b0-b1d67406619e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Host",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "44d766a2-0879-4e6f-a925-1bc4aa7e8bcb"
+          },
+          "dapAn": "Welcome to our show today, Linda. Can you tell me who your role model is?",
+          "phienAm": "/ˈwelkəm tuː ˈaʊər ʃəʊ təˈdeɪ ˈlɪndə/. /kæn juː tel miː huː jɔːr rəʊl ˈmɒdl ɪz/ ",
+          "yNghia": "\nChào mừng bạn đến với chương trình của chúng tôi ngày hôm nay, Linda. Bạn có thể cho tôi biết hình mẫu của bạn là ai không? ",
+          "normal": {
+            "start": "00:00:00.829",
+            "end": "00:00:06.167"
+          },
+          "slow": {
+            "start": "00:00:01.595",
+            "end": "00:00:07.620"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4fbc60fd-1851-4379-b476-00e9a814d962"
+          },
+          "dapAn": "Can you give us some of her personal information?",
+          "phienAm": "/kæn juː gɪv ʌs sʌm ɒv hɜːr ˈpɜːsnl ˌɪnfəˈmeɪʃən/ ",
+          "yNghia": "\r\nBạn có thể cho chúng tôi biết một vài thông tin cá nhân của cô ấy được không? ",
+          "normal": {
+            "start": "00:00:17.669",
+            "end": "00:00:20.406"
+          },
+          "slow": {
+            "start": "00:00:22.523",
+            "end": "00:00:25.946"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d81bf4c3-9cb7-40fd-830c-548fa2caa019"
+          },
+          "dapAn": "How did she start her career?",
+          "phienAm": "/haʊ dɪd ʃiː stɑːt hɜːr kəˈrɪər/ ",
+          "yNghia": "\nCô ấy bắt đầu sự nghiệp của mình như thế nào? ",
+          "normal": {
+            "start": "00:00:26.811",
+            "end": "00:00:28.600"
+          },
+          "slow": {
+            "start": "00:00:39.181",
+            "end": "00:00:41.410"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1ef1c9d5-60df-4b43-a326-f196a8fa2a6c"
+          },
+          "dapAn": "So, does her family still live in Mexico?",
+          "phienAm": "/səʊ dʌz hɜːr ˈfæmɪli stɪl lɪv ɪn ˈmeksɪkəʊ/ ",
+          "yNghia": "\r\nVậy, gia đình của cô ấy có còn sống tại Mexico không? ",
+          "normal": {
+            "start": "00:00:36.475",
+            "end": "00:00:39.779"
+          },
+          "slow": {
+            "start": "00:00:55.455",
+            "end": "00:00:59.395"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b832a0a5-c6cc-44e2-b049-532afb8e94d6"
+          },
+          "dapAn": "What happened?",
+          "phienAm": "/wɒt ˈhæpənd/ ",
+          "yNghia": "\nChuyện gì đã xảy ra thế?",
+          "normal": {
+            "start": "00:00:48.965",
+            "end": "00:00:49.892"
+          },
+          "slow": {
+            "start": "00:01:13.320",
+            "end": "00:01:14.386"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "dce7e13e-5cc5-467a-9b33-2251de9940df"
+          },
+          "dapAn": "Is she married?",
+          "phienAm": "/ɪz ʃiː ˈmærɪd/ ",
+          "yNghia": "\r\nCô ấy đã kết hôn chưa?",
+          "normal": {
+            "start": "00:00:56.616",
+            "end": "00:00:57.618"
+          },
+          "slow": {
+            "start": "00:01:23.994",
+            "end": "00:01:25.096"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a3b454b3-0afe-4a26-b24f-d9844ac0e3eb"
+          },
+          "dapAn": "What did she do in the US then?",
+          "phienAm": "/wɒt dɪd ʃiː duː ɪn ðiː ˌjuːˈes ðen/ ",
+          "yNghia": "\nThế sau đó cô ấy đã làm gì ở Mỹ?",
+          "normal": {
+            "start": "00:01:05.007",
+            "end": "00:01:07.079"
+          },
+          "slow": {
+            "start": "00:01:35.481",
+            "end": "00:01:37.942"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2d8cfb74-9b87-4cdd-a07b-d6c9bac60b3f"
+          },
+          "dapAn": "Did she take a role in a movie or just focus on music?",
+          "phienAm": "/dɪd ʃiː teɪk eɪ rəʊl ɪn eɪ ˈmuːvi ɔːr ʤʌst ˈfəʊkəs ɒn ˈmjuːzɪk/ ",
+          "yNghia": "\nCô ấy có tham gia đóng bộ phim nào không hay chỉ tập trung vào âm nhạc?",
+          "normal": {
+            "start": "00:01:16.733",
+            "end": "00:01:20.965"
+          },
+          "slow": {
+            "start": "00:01:52.585",
+            "end": "00:01:57.651"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1b1649eb-e719-4d25-8771-2f725862ba76"
+          },
+          "dapAn": "Is there anything else about Lila that you want to share with us?",
+          "phienAm": "/ɪz ðeər ˈenɪθɪŋ els əˈbaʊt lilə ðæt juː wɒnt tuː ʃeər wɪð ʌs/ ",
+          "yNghia": "\r\nCòn điều gì khác về Lila mà bạn muốn chia sẻ với chúng tôi không?",
+          "normal": {
+            "start": "00:01:26.259",
+            "end": "00:01:29.933"
+          },
+          "slow": {
+            "start": "00:02:04.265",
+            "end": "00:02:08.983"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3dc87fc3-3de2-4840-a7b8-a0dd45a74f5b"
+          },
+          "dapAn": "Now I’m curious! What are they?",
+          "phienAm": "/naʊ aɪm ˈkjʊərɪəs/. /wɒt ɑːr ðei/ ",
+          "yNghia": "\nGiờ thì tôi tò mò rồi đấy. Đó là gì vậy?",
+          "normal": {
+            "start": "00:01:35.258",
+            "end": "00:01:37.948"
+          },
+          "slow": {
+            "start": "00:02:16.935",
+            "end": "00:02:20.090"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c5889c20-4bcf-43ba-b298-0587e3b63fdc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Linda",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8cbd405c-61f8-44d7-ac57-d820a4e0c875"
+          },
+          "dapAn": "Sure. My role model is Lila Downs. She is a singer-songwriter and actress.",
+          "phienAm": "/ʃʊə/. /maɪ rəʊl ˈmɒdl ɪz lilə daʊnz/. /ʃiː ɪz eɪ ˈsɪŋərˈsɒŋˌraɪtər ænd ˈæktrɪs/ ",
+          "yNghia": "\nChắc chắn rồi. Hình mẫu của tôi là Lila Downs. Cô ấy là một ca sĩ kiêm nhạc sĩ và diễn viên. ",
+          "normal": {
+            "start": "00:00:08.476",
+            "end": "00:00:16.327"
+          },
+          "slow": {
+            "start": "00:00:09.331",
+            "end": "00:00:20.571"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "298c9206-8082-487a-b928-cf10c2d047c3"
+          },
+          "dapAn": "Yes. She was born in Oaxaca, Mexico, in 1968.",
+          "phienAm": "/jes/. /ʃiː wɒz bɔːn ɪn 'əʊksɑːkɑː ˈmeksɪkəʊ, ɪn naɪnˈtiːn ˈsɪksti eɪt/ ",
+          "yNghia": "\r\nTất nhiên rồi. Cô ấy sinh ra ở Oaxaca, Mexico, vào năm 1968. ",
+          "normal": {
+            "start": "00:00:21.170",
+            "end": "00:00:25.686"
+          },
+          "slow": {
+            "start": "00:00:27.613",
+            "end": "00:00:37.602"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4fb72c3c-e1cb-4121-aba5-90dcdc3e5f03"
+          },
+          "dapAn": "At the age of eight, she started singing mariachi songs then became a professional singer.",
+          "phienAm": "/æt f eɪʤ ɒv eɪt ʃiː ˈstɑːtɪd ˈsɪŋɪŋ ˌmæriˈɑːtʃi sɒŋz ðen bɪˈkeɪm eɪ prəˈfeʃənl ˈsɪŋər/ ",
+          "yNghia": "\nNăm 8 tuổi, cô ấy bắt đầu hát những bài hát truyền thống Mexico rồi trở thành ca sĩ chuyên nghiệp.",
+          "normal": {
+            "start": "00:00:29.541",
+            "end": "00:00:35.470"
+          },
+          "slow": {
+            "start": "00:00:42.812",
+            "end": "00:00:53.282"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "107e2324-30f6-46a3-ac02-cb6f93fb7b84"
+          },
+          "dapAn": "It’s a long story. When she was 14, her family emigrated from Mexico to the US.",
+          "phienAm": "/ɪts eɪ lɒŋ ˈstɔːri/. /wen ʃiː wɒz ˌfɔːˈtiːn, hɜːr ˈfæmɪli ˈemɪgreɪtɪd frɒm ˈmeksɪkəʊ tuː ðiː juːˈes / ",
+          "yNghia": "\r\nĐó là một câu chuyện dài. Năm 14 tuổi, gia đình của cô ấy di cư từ Mexico tới Mỹ. ",
+          "normal": {
+            "start": "00:00:40.825",
+            "end": "00:00:47.580"
+          },
+          "slow": {
+            "start": "00:01:00.866",
+            "end": "00:01:11.748"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "56b199d1-be8f-489b-afc0-592eed296e5b"
+          },
+          "dapAn": "Lila and her mother moved back to Mexico after her father’s death.",
+          "phienAm": "/lilə ænd hɜːr ˈmʌðər muːvd bæk tuː ˈmeksɪkəʊ ˈɑːftər hɜːr ˈfɑːðəz deθ/ ",
+          "yNghia": "\r\nLila và mẹ cô ấy chuyển về Mexico sau khi cha cô mất.",
+          "normal": {
+            "start": "00:00:51.220",
+            "end": "00:00:55.492"
+          },
+          "slow": {
+            "start": "00:01:15.648",
+            "end": "00:01:22.094"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fcef9293-ca08-4665-86c5-2d4f6654c6c0"
+          },
+          "dapAn": "Yes, she met her husband, Paul Cohen, and moved to Minnesota.",
+          "phienAm": "/jes ʃiː met hɜːr ˈhʌzbənd pɔːl ˈkəʊən ænd muːvd tuː ˌmɪnɪˈsəʊtə/ ",
+          "yNghia": "\nRồi, cô ấy đã gặp chồng của mình, Paul Cohen, và chuyển tới Minnesota.",
+          "normal": {
+            "start": "00:00:58.891",
+            "end": "00:01:03.768"
+          },
+          "slow": {
+            "start": "00:01:26.403",
+            "end": "00:01:33.946"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3f84db72-1127-458e-a3f8-f1cb974c1f3f"
+          },
+          "dapAn": "She went to the University of Minnesota and she had a successful music group called La Trova Serrana.",
+          "phienAm": "/ʃiː went tuː ðiː ˌjuːnɪˈvɜːsɪti ɒv ˌmɪnɪˈsəʊtə ænd ʃiː hæd eɪ səkˈsesfʊl ˈmjuːzɪk gruːp kɔːld lɑː trəʊvə serənə/ ",
+          "yNghia": "\nCô ấy đã học ở trường Đại học Minnesota và cô ấy đã thành lập một nhóm nhạc thành công tên là La Trova Serrana.",
+          "normal": {
+            "start": "00:01:08.563",
+            "end": "00:01:15.647"
+          },
+          "slow": {
+            "start": "00:01:39.458",
+            "end": "00:01:50.625"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8fdb8e0b-e393-4cb5-af21-f89e170b6abe"
+          },
+          "dapAn": "She had a small role in the movie Frida.",
+          "phienAm": "/ʃiː hæd eɪ smɔːl rəʊl ɪn ðə ˈmuːvi fridə/ ",
+          "yNghia": "\r\nCô ấy có một vai nhỏ trong bộ phim Frida.",
+          "normal": {
+            "start": "00:01:22.041",
+            "end": "00:01:24.850"
+          },
+          "slow": {
+            "start": "00:01:58.974",
+            "end": "00:02:02.621"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0346c6d9-49db-4cc1-a795-b822339184cd"
+          },
+          "dapAn": "Sure. There are three things that you probably don’t know.",
+          "phienAm": "/ʃʊər/. /ðeər ɑːr θriː θɪŋz ðæt juː ˈprɒbəbli dəʊnt nəʊ/ ",
+          "yNghia": "\nTất nhiên rồi. Có ba điều mà các bạn có thể không biết.",
+          "normal": {
+            "start": "00:01:30.877",
+            "end": "00:01:34.266"
+          },
+          "slow": {
+            "start": "00:02:10.281",
+            "end": "00:02:15.604"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6756675c-a51a-4493-80aa-e59e0a1f117b"
+          },
+          "dapAn": "She has an adopted son. A colorful grasshopper was named after her, and her native language is Mixtec.",
+          "phienAm": "/ʃiː hæz æn əˈdɒptɪd sʌn/. /eɪ ˈkʌləfəl ˈgrɑːsˌhɒpər wɒz neɪmd ˈɑːftər hɜːr ænd hɜːr ˈneɪtɪv ˈlæŋgwɪʤ ɪz ˈmɪstek/ ",
+          "yNghia": "\nCô ấy có một đứa con trai nuôi. Một con châu chấu đầy màu sắc đã được đặt tên theo cô ấy và ngôn ngữ mẹ đẻ của cô là Mixtec.",
+          "normal": {
+            "start": "00:01:38.729",
+            "end": "00:01:47.303"
+          },
+          "slow": {
+            "start": "00:02:20.915",
+            "end": "00:02:33.577"
+          }
+        }
+      ]
+    }
+  ]
+}

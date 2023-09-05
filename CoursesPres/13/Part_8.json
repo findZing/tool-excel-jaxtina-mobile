@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L13/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L13/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "a474f842-ded9-4e6e-8dc2-dfec926e9620"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Man",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "45726968-0e81-47d0-9141-4334b8d25a86"
+          },
+          "dapAn": "Hi. I want some information about the city tour, please.",
+          "phienAm": "/haɪ/. /aɪ wɒnt sʌm ˌɪnfəˈmeɪʃən əˈbaʊt ðəˈsɪti tʊər pliːz/",
+          "yNghia": " Xin chào. Tôi muốn biết một số thông tin về chuyến đi quanh thành phố, làm ơn.",
+          "normal": {
+            "start": "00:00:00.743",
+            "end": "00:00:04.844"
+          },
+          "slow": {
+            "start": "00:00:01.147",
+            "end": "00:00:06.307"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "afaf5e0b-bfe1-4769-b43a-85da800076a6"
+          },
+          "dapAn": "Well, what places do you visit on the tour?",
+          "phienAm": "/wel wɒt ˈpleɪsɪz duː juː ˈvɪzɪt ɒn ðə tʊər/",
+          "yNghia": " Chuyến đi sẽ tới những địa điểm nào vậy?",
+          "normal": {
+            "start": "00:00:08.820",
+            "end": "00:00:11.836"
+          },
+          "slow": {
+            "start": "00:00:11.202",
+            "end": "00:00:14.848"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9f212ee7-67e8-40a0-9b6b-0886c1fee3b4"
+          },
+          "dapAn": "Great. Where does the tour start?",
+          "phienAm": "/greɪt/. /weər dʌz ðə tʊər stɑːt/",
+          "yNghia": " Tuyệt. Chuyến đi bắt đầu ở đâu?",
+          "normal": {
+            "start": "00:00:17.594",
+            "end": "00:00:20.539"
+          },
+          "slow": {
+            "start": "00:00:22.905",
+            "end": "00:00:26.080"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b164c896-7b6f-448d-91a5-87257e859548"
+          },
+          "dapAn": "That's good. When does the tour start?",
+          "phienAm": "/ðæts gʊd/. /wen dʌz ðə tʊər stɑːt/",
+          "yNghia": " Tốt đấy. Khi nào chuyến đi bắt đầu?",
+          "normal": {
+            "start": "00:00:28.356",
+            "end": "00:00:31.075"
+          },
+          "slow": {
+            "start": "00:00:37.165",
+            "end": "00:00:40.752"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f8594fd8-46ea-4cf2-8e1f-4db24c08b32f"
+          },
+          "dapAn": "That's great. I'll get up early and go for a walk first.",
+          "phienAm": "/ðæts greɪt/. /aɪl get ʌp ˈɜːli ænd gəʊ fɔːr əwɔːk fɜːst/",
+          "yNghia": " Tuyệt vời. Tôi sẽ dậy sớm và đi bộ trước đó.",
+          "normal": {
+            "start": "00:00:35.805",
+            "end": "00:00:39.941"
+          },
+          "slow": {
+            "start": "00:00:45.578",
+            "end": "00:00:51.367"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8088481c-593c-4012-b606-0ce62e3e76ca"
+          },
+          "dapAn": "Where do I buy tickets?",
+          "phienAm": "/weər duː aɪ baɪ ˈtɪkɪts/",
+          "yNghia": "\nTôi cần mua vé ở đâu?",
+          "normal": {
+            "start": "00:00:44.740",
+            "end": "00:00:46.476"
+          },
+          "slow": {
+            "start": "00:00:58.218",
+            "end": "00:01:00.246"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "93edeaf6-c764-4183-96f6-97c59c6edda2"
+          },
+          "dapAn": "I didn't bring any cash with me. Where is the nearest ATM?",
+          "phienAm": "/aɪ dɪdnt brɪŋ ˈeni kæʃ wɪð miː/. /weər ɪz ðəˈnɪərɪst eɪ tiː em/",
+          "yNghia": " Tôi không mang theo tiền mặt rồi. Máy ATM gần nhất ở đâu vậy?",
+          "normal": {
+            "start": "00:00:51.137",
+            "end": "00:00:55.205"
+          },
+          "slow": {
+            "start": "00:01:08.215",
+            "end": "00:01:13.360"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c15cdd9e-918a-4d29-9c53-11af21076a92"
+          },
+          "dapAn": "How much do the tickets cost?",
+          "phienAm": "/haʊ mʌʧ duː ðə ˈtɪkɪts kɒst/",
+          "yNghia": " Vé bao nhiêu tiền nhỉ?",
+          "normal": {
+            "start": "00:01:01.351",
+            "end": "00:01:03.476"
+          },
+          "slow": {
+            "start": "00:01:20.770",
+            "end": "00:01:22.945"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2bae79e5-96c4-41ca-bc02-079d4661ebc4"
+          },
+          "dapAn": "That's fine. I want two tickets, please.",
+          "phienAm": "/ðæts faɪn/. /aɪ wɒnt tuː ˈtɪkɪts pliːz/",
+          "yNghia": " Được. Tôi muốn hai vé, làm ơn.",
+          "normal": {
+            "start": "00:01:10.720",
+            "end": "00:01:13.690"
+          },
+          "slow": {
+            "start": "00:01:32.149",
+            "end": "00:01:35.677"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2cd329d0-606d-4621-8c69-4a974ce7df4c"
+          },
+          "dapAn": "Thank you.",
+          "phienAm": "/θæŋk juː/",
+          "yNghia": " Cảm ơn.",
+          "normal": {
+            "start": "00:01:16.272",
+            "end": "00:01:17.026"
+          },
+          "slow": {
+            "start": "00:01:38.676",
+            "end": "00:01:39.587"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d9db2ffe-4bd4-4596-9b7c-b3718b3467e7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Woman",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "01ddb824-b067-4197-8e86-666e66222102"
+          },
+          "dapAn": "Sure. How can I help you?",
+          "phienAm": "/ʃʊər/. /haʊ kæn aɪ help juː/",
+          "yNghia": " Tất nhiên rồi. Tôi có thể giúp gì cho ông?",
+          "normal": {
+            "start": "00:00:05.598",
+            "end": "00:00:07.769"
+          },
+          "slow": {
+            "start": "00:00:06.777",
+            "end": "00:00:10.423"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "10795f92-4e71-4617-b995-d57e88ef409f"
+          },
+          "dapAn": "The tour goes to museums and important places in the city.",
+          "phienAm": "/ðə tʊər gəʊz tuː mjuːˈzɪəmz ænd ɪmˈpɔːtənt ˈpleɪsɪz ɪn ðə ˈsɪti/",
+          "yNghia": "\nChuyến đi tới các bảo tàng và những địa điểm quan trọng của thành phố.",
+          "normal": {
+            "start": "00:00:12.453",
+            "end": "00:00:17.000"
+          },
+          "slow": {
+            "start": "00:00:15.907",
+            "end": "00:00:22.170"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "40cd62e5-b151-4c58-b88c-f63e1f4382b9"
+          },
+          "dapAn": "Outside our office – across from the bus station. The tour also finishes there.",
+          "phienAm": "/aʊtˈsaɪd ˈaʊər ˈɒfɪs əˈkrɒs frɒm ðə bʌs ˈsteɪʃən/. /ðə tʊər ˈɔːlsəʊ ˈfɪnɪʃɪz ðeər/",
+          "yNghia": " Ở bên ngoài văn phòng của chúng tôi – đối diện với bến xe buýt. Chuyến đi cũng kết thúc tại đây.",
+          "normal": {
+            "start": "00:00:21.022",
+            "end": "00:00:27.420"
+          },
+          "slow": {
+            "start": "00:00:26.698",
+            "end": "00:00:36.254"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ae805640-95e9-4484-8fae-e530fb2af7d2"
+          },
+          "dapAn": "The tour starts at 10:00 a.m.",
+          "phienAm": "/ðə tʊər stɑːts æt ten eɪ em/",
+          "yNghia": " Chuyến đi bắt đầu lúc 10 giờ sáng.",
+          "normal": {
+            "start": "00:00:32.286",
+            "end": "00:00:34.709"
+          },
+          "slow": {
+            "start": "00:00:41.282",
+            "end": "00:00:44.869"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f213a39d-e299-44c5-a6b0-7967a72eb2ea"
+          },
+          "dapAn": "Good idea. Do you have any other questions?",
+          "phienAm": "/gʊd aɪˈdɪə/. /duː juː hæv ˈeni ˈʌðərˈkwesʧənz/",
+          "yNghia": " Ý tưởng hay đấy. Ông có câu hỏi nào khác không?",
+          "normal": {
+            "start": "00:00:40.512",
+            "end": "00:00:43.940"
+          },
+          "slow": {
+            "start": "00:00:52.043",
+            "end": "00:00:57.483"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f9487388-976c-4f91-9b99-65ad765d3d29"
+          },
+          "dapAn": "You can buy them from me or on the bus.",
+          "phienAm": "/juː kæn baɪ ðem frɒm miː ɔːr ɒn ðə bʌs/",
+          "yNghia": " Ông có thể mua chúng từ tôi hoặc ở trên xe buýt.",
+          "normal": {
+            "start": "00:00:47.162",
+            "end": "00:00:50.520"
+          },
+          "slow": {
+            "start": "00:01:01.334",
+            "end": "00:01:07.274"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fb62f705-8a64-498f-888a-4138505e48eb"
+          },
+          "dapAn": "There is one, just 200 meters from here.",
+          "phienAm": "/ðeər ɪz wʌn ʤʌst tuː ˈhʌndrəd ˈmiːtəz frɒm hɪər/",
+          "yNghia": " Có một cái cách đây chỉ 200 mét.",
+          "normal": {
+            "start": "00:00:56.164",
+            "end": "00:01:00.186"
+          },
+          "slow": {
+            "start": "00:01:14.419",
+            "end": "00:01:19.564"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fede2e56-cb4e-4857-99f5-67c4989545bc"
+          },
+          "dapAn": "The tickets cost $15 for adults and $8 for children.",
+          "phienAm": "/ðə ˈtɪkɪts kɒst ˈfɪfˈtiːn ˈdɒləz fɔːr ˈædʌlts ænd eɪt ˈdɒləz fɔːr ˈʧɪldrən/",
+          "yNghia": " Vé có giá 15 đô-la cho người lớn và 8 đô-la cho trẻ em.",
+          "normal": {
+            "start": "00:01:04.459",
+            "end": "00:01:09.806"
+          },
+          "slow": {
+            "start": "00:01:24.004",
+            "end": "00:01:31.296"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "73b8e356-cb5c-453f-b903-f6830b53dee4"
+          },
+          "dapAn": "Here you are.",
+          "phienAm": "/hɪər juː ɑːr/",
+          "yNghia": " Của ông đây.",
+          "normal": {
+            "start": "00:01:14.398",
+            "end": "00:01:15.564"
+          },
+          "slow": {
+            "start": "00:01:36.677",
+            "end": "00:01:37.970"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2e1c5883-129b-44c9-b9d1-5dbb490f9d31"
+          },
+          "dapAn": "See you tomorrow!",
+          "phienAm": "/siː juː təˈmɒrəʊ/",
+          "yNghia": " Hẹn gặp ông ngày mai!",
+          "normal": {
+            "start": "00:01:17.711",
+            "end": "00:01:18.763"
+          },
+          "slow": {
+            "start": "00:01:40.264",
+            "end": "00:01:41.734"
+          }
+        }
+      ]
+    }
+  ]
+}

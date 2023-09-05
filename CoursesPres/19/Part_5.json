@@ -1,0 +1,176 @@
+{
+  "dangCauHoi": "P2",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "595d8128-909a-49de-8ef5-dd2e5ea1de7f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_PRE_S_L19/sounds/normal/PRE_S_19_LISTENING_Listening 1.mp3",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Kate:</b></td>\n                        <td>Hey! How's it going?<br />\n                        Xin chào! Bạn thế nào rồi?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Jack:</b></td>\n                        <td>Pretty well. How's it going with you?<br />\n                        Khá ổn. Mọi chuyện thế nào rồi bạn?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Kate:</b></td>\n                        <td><span style=\"color:red\">Not good. It's freezing here.</span><br />\n                        Không tốt. Ở đây trời đang rất lạnh.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Jack:</b></td>\n                        <td>Oh, is it snowing there?<br />\n                        Ồ, có tuyết rơi ở đó không?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Kate:</b></td>\n                        <td><span style=\"color:red\">Yes, it is. I don't like snowy weather.</span><br />\n                        Có. Tôi không thích thời tiết có tuyết rơi.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Jack:</b></td>\n                        <td>I love snowy weather. You can build a snowman.<br />\n                        Tôi yêu thời tiết có tuyết rơi. Bạn có thể nặn một người tuyết.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Kate:</b></td>\n                        <td>All I want to do is sleep. I don't want to build a snowman. I don't even want to go outside.<br />\n                        Tôi chỉ muốn ngủ thôi. Tôi không muốn nặn một người tuyết. Tôi thậm chí không muốn đi ra ngoài cơ.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Jack:</b></td>\n                        <td><span style=\"color:red\">Well, you still need to go to school. Try to keep warm. </span><br />\n                        Bạn vẫn cần phải đi tới trường. Hãy cố gắng giữ ấm cơ thể nhé.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Kate:</b></td>\n                        <td>I have online classes though.<br />\n                        Nhưng tôi học trực tuyến mà.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Jack:</b></td>\n                        <td>Lucky you. Have coffee or something before you start your lesson.<br />\n                        Bạn thật may mắn. Hãy uống cà phê hoặc thứ gì đó trước khi bạn bắt đầu bài học của mình.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Kate:</b></td>\n                        <td>I think I'll have a cup of hot chocolate. How's the weather over there?<br />\n                        Tôi nghĩ tôi sẽ uống một tách sô-cô-la nóng. Thời tiết ở đó thế nào?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Jack:</b></td>\n                        <td><span style=\"color:red\">It's sunny. I'm going to the beach with my family in the afternoon.</span><br />\n                        Trời nắng. Tôi sẽ ra bãi biển với gia đình vào buổi chiều.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Kate:</b></td>\n                        <td>Great! Take some pictures. I'd love to see them.<br />\n                        Tuyệt quá! Hãy chụp vài bức ảnh. Tôi rất thích xem ảnh chụp.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Jack:</b></td>\n                        <td><span style=\"color:red\">Okay, I will. I have to go. Talk to you later!</span><br />\n                        Được rồi, tôi sẽ chụp. Tôi phải đi rồi. Nói chuyện với bạn sau nhé!</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Kate:</b></td>\n                        <td>Later!<br />\n                        Hẹn gặp lại!</td>\n                </tr>\n        </tbody>\n</table>\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8a23318e-9388-4017-a784-f6936ad6430f"
+          },
+          "dapAn": "Not good. It’s freezing here.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "70b5b71c-387a-4260-a584-4214e00401bd"
+          },
+          "dapAn": "Yes, it is. I don’t like snowy weather.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dcd50dbe-ba41-4618-9e67-342f2b075565"
+          },
+          "dapAn": "Well, you still need to go to school. Try to keep warm.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "616247be-a24a-4d9b-9578-6f0cb80f17fe"
+          },
+          "dapAn": "It’s sunny. I’m going to the beach with my family in the afternoon.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2334c10b-df88-4b7a-b308-edfccf31cd8c"
+          },
+          "dapAn": "Okay, I will. I have to go. Talk to you later!",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a62b0f53-afdc-4c88-9157-86c373e1f79c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_PRE_S_L19/sounds/normal/PRE_S_19_LISTENING_Listening 2.mp3",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Tim:</b></td>\n                        <td><span style=\"color:red\">It's so cloudy today. What's your plan?</span><br />\n                        Hôm nay trời nhiều mây. Kế hoạch của bạn là gì?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Bill:</b></td>\n                        <td><span style=\"color:red\">I don't know. Should we have a barbecue?</span><br />\n                        Tôi không biết. Chúng ta có nên ăn tiệc nướng ngoài trời không?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Tim:</b></td>\n                        <td>It looks like it's going to rain. I don't think it's a good idea.<br />\n                        Có vẻ như trời sắp mưa. Tôi không nghĩ đó là một ý kiến hay.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Bill:</b></td>\n                        <td>How about shopping? I need to buy new shoes.<br />\n                        Thế còn đi mua sắm thì sao? Tôi cần mua đôi giày mới.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Tim:</b></td>\n                        <td>Sounds good. I'll buy some shoelaces for my sister. She doesn't have time to shop for them.<br />\n                        Nghe hay đấy. Tôi sẽ mua một số dây giày cho em gái tôi. Em ấy không có thời gian để mua chúng.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Bill:</b></td>\n                        <td><span style=\"color:red\">The weather is cool. Maybe we can practice basketball at the school court.</span><br />\n                        Thời tiết mát mẻ. Có lẽ chúng ta có thể tập bóng rổ ở sân trường.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Tim:</b></td>\n                        <td>It's Sunday, so I think the school is closed.<br />\n                        Hôm nay là Chủ Nhật, vì thế tôi nghĩ trường học đóng cửa rồi.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Bill:</b></td>\n                        <td>It's open today!<br />\n                        Trường hôm nay mở cửa đó!</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Tim:</b></td>\n                        <td>Really? Why is it open today?<br />\n                        Có thật không? Tại sao trường lại mở cửa hôm nay nhỉ?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Bill:</b></td>\n                        <td>I don't know.<br />\n                        Tôi không biết.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Tim:</b></td>\n                        <td><span style=\"color:red\">Oh, let's go to school then. But I don't bring my shoes.</span><br />\n                        Ồ, vậy thì chúng ta đến trường đi. Nhưng tôi không mang giày của mình.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Bill:</b></td>\n                        <td>You can borrow mine or buy a new pair.<br />\n                        Bạn có thể mượn của tôi hoặc mua một đôi mới.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Tim:</b></td>\n                        <td>I don't have that much money.<br />\n                        Tôi không có nhiều tiền như vậy.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Bill:</b></td>\n                        <td>I'll lend you mine.<br />\n                        Tôi sẽ cho bạn mượn tiền của tôi.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Tim:</b></td>\n                        <td><span style=\"color:red\">Thanks a lot.</span><br />\n                        Cảm ơn bạn rất nhiều.</td>\n                </tr>\n        </tbody>\n</table>\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c8246425-6e46-47b6-9ab9-830384ae1fcd"
+          },
+          "dapAn": "It’s so cloudy today. What’s your plan?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dcd68a7c-8f42-49a3-bd04-f0ee2b1acb8c"
+          },
+          "dapAn": "I don’t know. Should we have a barbecue?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "937ac625-0f79-4c29-86e0-503f63a55b4b"
+          },
+          "dapAn": "The weather is cool. Maybe we can practice basketball at the school court.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "98a30544-5689-40d9-9d73-daf14637f092"
+          },
+          "dapAn": "Oh, let’s go to school then. But I don’t bring my shoes.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a089c21b-7ef4-4961-bf8e-da5f2f4a0726"
+          },
+          "dapAn": "Thanks a lot.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d500ec5b-1540-4667-9638-e64de9ed6a6f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_PRE_S_L19/sounds/normal/PRE_S_19_LISTENING_Listening 3.mp3",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Charlie:</b></td>\n                        <td>Hello, Barney. How are you?<br />\n                        Xin chào, Barney. Bạn khỏe không?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Barney:</b></td>\n                        <td>Hi, Charley. I'm great, thanks. Where are you? Is that a beach?<br />\n                        Chào, Charley. Tôi khỏe, cảm ơn bạn. Bạn đang ở đâu thế? Có phải là bạn đang ở biển không?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Charlie:</b></td>\n                        <td><span style=\"color:red\">Y</span><span style=\"color:red\">eah, </span><span style=\"color:red\">we are at the beach. The weather's great, it's very sunny. Look. </span><br />\n                        Đúng rồi, chúng tôi đang ở bãi biển. Thời tiết thật tuyệt, trời rất nắng. Hãy nhìn này.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Barney:</b></td>\n                        <td>Wow! Is it hot?<br />\n                        Oa! Trời có nóng không?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Charlie:</b></td>\n                        <td><span style=\"color:red\">Y</span><span style=\"color:red\">es. It's about </span><span style=\"color:red\">35</span><span style=\"color:red\"> degrees.</span><br />\n                        Có. Khoảng 35 độ.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Barney:</b></td>\n                        <td>Oh, who are you with?<br />\n                        Ồ, bạn đang ở với ai vậy?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Charlie:</b></td>\n                        <td><span style=\"color:red\">I'm here with my parents, and my brother, Andy.</span><br />\n                        Tôi ở đây với bố mẹ và anh trai tôi, Andy.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Barney:</b></td>\n                        <td><span style=\"color:red\">H</span><span style=\"color:red\">ow is your brother? </span><br />\n                        Anh trai của bạn thế nào?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Charlie:</b></td>\n                        <td>He's good. Can you see him?<br />\n                        Anh ấy ổn. Bạn có nhìn thấy anh ấy không?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Barney:</b></td>\n                        <td>I can't see well. What is he doing?<br />\n                        Tôi không thể nhìn rõ. Anh ấy đang làm gì vậy?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Charlie:</b></td>\n                        <td><span style=\"color:red\">He's swimming in the sea.</span><br />\n                        Anh ấy đang bơi trên biển.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Barney:</b></td>\n                        <td>Where are your parents?<br />\n                        Bố mẹ bạn đâu?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Charlie:</b></td>\n                        <td><span style=\"color:red\">My mom i</span><span style=\"color:red\">s reading a book. Dad</span><span style=\"color:red\"> i</span><span style=\"color:red\">s getting coffee for us. So what time is it there? </span><br />\n                        Mẹ tôi đang đọc sách. Bố đang lấy cà phê cho chúng tôi. Ở đó đang là mấy giờ thế?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Barney:</b></td>\n                        <td>It's 8:00 p.m.<br />\n                        Bây giờ là 8 giờ tối.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Charlie:</b></td>\n                        <td><span style=\"color:red\">What's the weather like?</span><br />\n                        Thời tiết như thế nào?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Barney:</b></td>\n                        <td><span style=\"color:red\">It's rainy, windy, and very cold.</span><br />\n                        Trời mưa, gió, và rất lạnh.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Charlie:</b></td>\n                        <td>Oh no. What are you doing?<br />\n                        Ôi không. Bạn đang làm gì vậy?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Barney:</b></td>\n                        <td><span style=\"color:red\">I'm not going out because the weather is bad. I'm watching a movie and eating dinner. </span><br />\n                        Vì thời tiết xấu nên tôi sẽ không ra ngoài. Tôi đang xem phim và ăn tối.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Charlie:</b></td>\n                        <td>Oh, dad is calling my name. Sorry, let's talk later. Enjoy your time.<br />\n                        Ồ, bố đang gọi tên tôi. Xin lỗi, chúng ta hãy nói chuyện sau. Xem phim vui vẻ nhé.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Barney:</b></td>\n                        <td><span style=\"color:red\">Yeah, thank you. Bye</span><span style=\"color:red\">. </span><br />\n                        Ừ, cảm ơn nhé. Tạm biệt.</td>\n                </tr>\n        </tbody>\n</table>\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9fd71820-029d-4429-97c6-8ab46488386b"
+          },
+          "dapAn": "Yeah, we are at the beach. The weather’s great, it’s very sunny. Look.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e1e36c29-6a7a-4492-bc52-64a6c13b8909"
+          },
+          "dapAn": "Yes. It’s about 35 degrees.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "599277a0-c42c-40fa-9a3a-80e5c9c8e82c"
+          },
+          "dapAn": "I’m here with my parents, and my brother, Andy.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "be612bf0-7e52-4210-8c41-f96aae8870a2"
+          },
+          "dapAn": "How is your brother?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c0112d63-8858-4d34-a52e-7f9d3284a8e4"
+          },
+          "dapAn": "He’s swimming in the sea.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3f2ec00d-d3d1-48d5-8227-2d3253dafcfc"
+          },
+          "dapAn": "My mom is reading a book. Dad is getting coffee for us. So what time is it there?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "290d56d5-d582-45e2-a278-1e56a2276e51"
+          },
+          "dapAn": "What’s the weather like?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "79c69667-b55f-4a77-b781-5aef95292ce8"
+          },
+          "dapAn": "It’s rainy, windy, and very cold.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "99f9ee41-3790-435c-972a-178bda69a767"
+          },
+          "dapAn": "I’m not going out because the weather is bad. I’m watching a movie and eating dinner.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c452a05b-b1cc-4787-aa9f-afd5f958c1e0"
+          },
+          "dapAn": "Yeah, thank you. Bye.",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

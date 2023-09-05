@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P7",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "4700c859-a01a-4e8c-abcb-9b8af9f1cd6a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I _______ <b><span style=\"color:blue\">(get)</span></b> up at 6:00 a.m.",
+      "yNghia": "<b>I</b> <i>(Tôi)</i> là chủ ngữ ngôi thứ nhất số ít nên động từ theo sau sẽ không chia. Câu hoàn chỉnh là <b>I <span style=\"color:red\">get</span> up at 6:00 a.m. </b><i>(Tôi thức dậy lúc 6 giờ sáng.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "efa2eb90-fa10-4d2c-b792-2bac48a631aa"
+          },
+          "dapAn": "get",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "93cde834-1f8a-434a-a8d8-32c4943485f1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Friday mornings _______ <b><span style=\"color:blue\">(be)</span></b> always busy for me.",
+      "yNghia": "<b>Friday mornings</b> <i>(Những buổi sáng thứ Sáu)</i> là chủ ngữ số nhiều nên động từ <i>to be</i> theo sau sẽ là <b>are</b>. Câu hoàn chỉnh là <b>Friday mornings <span style=\"color:red\">are </span>always busy for me. </b><i>(Những buổi sáng thứ Sáu luôn bận rộn đối với tôi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "92106bf6-e819-4d10-ad04-590b950bbd48"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3bd7ceb8-72dd-4706-848f-3d527c715c53"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "He sometimes _______ <b><span style=\"color:blue\">(go)</span></b> to work by bus.",
+      "yNghia": "<b>He</b> <i>(Anh ấy)</i> là chủ ngữ ngôi thứ ba số ít nên động từ theo sau sẽ chia ở dạng số ít bằng cách thêm ‘<b>es</b>' vào sau động từ <b>go</b> <i>(đi)</i>, ta được <b>goes</b>. Câu hoàn chỉnh là <b>He sometimes <span style=\"color:red\">goes</span> to work by bus. </b><i>(Thỉnh thoảng anh ấy <span style=\"color:red\">đi</span> làm bằng xe buýt.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0d9add61-6da1-4caf-8ccd-5e825e8ff79c"
+          },
+          "dapAn": "goes",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d1a459b4-9380-4b15-9fe0-8d1ef0b9a993"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She usually _______ <b><span style=\"color:blue\">(have)</span></b> a bath at night.",
+      "yNghia": "<b>She</b> <i>(Cô ấy)</i> là chủ ngữ ngôi thứ ba số ít nên động từ <b>have</b> sẽ được chia thành <b>has</b>. Câu hoàn chỉnh là <b>She usually <span style=\"color:red\">has</span> a bath at night</b><b>.</b><b> </b><i>(Cô ấy thường xuyên tắm bồn vào ban đêm.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4a95118e-08b3-4181-bc15-25f99a5e7778"
+          },
+          "dapAn": "has",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e6441c76-8c4c-49a0-86c7-d05911fc9a4a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "_______ <b><span style=\"color:blue\">(Do)</span></b> you go to work after breakfast?",
+      "yNghia": "Trợ động từ được đảo lên đầu câu để tạo thành câu hỏi <b>Yes/No,</b> chủ ngữ <b>you</b> <i>(bạn)</i> là chủ ngữ ngôi thứ hai nên sẽ đi với trợ động từ <b>Do </b>thay vì <b>Does</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">D</span></b><b><span style=\"color:red\">o</span></b><b> you go to work after breakfast? </b><i>(Vậy, bạn có đi làm sau khi ăn sáng không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "64bf933a-6ab7-4486-b962-cc40c3a12b19"
+          },
+          "dapAn": "Do",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "67b03b6d-880e-41aa-96b7-48812ff16618"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "When do you _______ <b><span style=\"color:blue\">(go)</span></b> to work?",
+      "yNghia": "Trợ động từ <b>do </b>được đảo lên trước chủ ngữ, động từ <b>go</b> <i>(đi)</i> được giữ nguyên. Câu hoàn chỉnh là <b><span style=\"color:black\">W</span></b><b><span style=\"color:black\">hen do you </span></b><b><span style=\"color:red\">go</span></b><b><span style=\"color:black\"> to </span></b><b><span style=\"color:black\">work? </span></b><i>(<span style=\"color:black\">Bạn </span><span style=\"color:red\">đi</span><span style=\"color:black\"> làm lúc nào?</span>).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "de1359ae-bae9-4a95-b43d-ebf42bf34884"
+          },
+          "dapAn": "go",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ce231d00-65a6-4395-8597-9acc0f104662"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What time do you _______ <b><span style=\"color:blue\">(have)</span></b> breakfast?",
+      "yNghia": "Trợ động từ <b>do </b>được đảo lên trước chủ ngữ, động từ <b>have </b>được giữ nguyên. Câu hoàn chỉnh là <b>What time do you <span style=\"color:red\">have</span> breakfast? </b><i>(Mấy giờ bạn ăn sáng?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7028ad2d-7dd3-47f3-9161-a380eb0b88df"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8aa63ac4-a050-429f-9893-db685be9f0af"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "_______ <b><span style=\"color:blue\">(Do)</span></b> you get up at 6:00 a.m. every day?",
+      "yNghia": "Trợ động từ được đảo lên đầu câu để tạo thành câu hỏi <b>Yes/No,</b> chủ ngữ <b>you</b> <i>(bạn)</i> là chủ ngữ ngôi thứ hai nên sẽ đi với trợ động từ <b>Do </b>thay vì <b>Does</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">Do</span></b><b> you get up at 6:00 a.m. every day? </b><i>(Bạn có dậy lúc 6 giờ sáng mỗi ngày không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3b38024c-8305-417f-bc4f-1c738b5dd0cc"
+          },
+          "dapAn": "Do",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8dce33f1-09bd-485e-a5db-f4e2e39c993e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I get to the office at around 8:00 a.m, then I _______ <b><span style=\"color:blue\">(start)</span></b> work straight away.",
+      "yNghia": "<b>I</b> <i>(Tôi)</i> là chủ ngữ ngôi thứ nhất số ít nên động từ theo sau sẽ không chia. Câu hoàn chỉnh là <b>I get to the office at around 8.00</b><b> </b><b>a</b><b>.</b><b>m</b><b>, </b><b>then I <span style=\"color:red\">start </span>work straight away. </b><i>(Tôi đến văn phòng vào khoảng 8 giờ sáng, sau đó tôi <span style=\"color:red\">bắt đầu </span>công việc ngay lập tức.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5bd09ec2-ecfc-4cf3-8b8d-d7e01b53b300"
+          },
+          "dapAn": "start",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f12fae30-45b8-4ddf-9f28-0bbf6c41868b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My sister usually _______ <b><span style=\"color:blue\">(have)</span></b> breakfast at 6:30 a.m. on Fridays.",
+      "yNghia": "<b>My sister </b><i>(Chị gái tôi)</i> là chủ ngữ số ít nên động từ <b>have</b> sẽ được chia thành <b>has</b>. Câu hoàn chỉnh là <b>My sister usually <span style=\"color:red\">has</span> breakfast at 6:30</b><b> a.m.</b><b> on Fridays. </b><i>(Chị gái tôi thường ăn sáng lúc 6 giờ 30 phút sáng vào các ngày thứ Sáu.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d77d3890-bb44-4e32-b15e-7143a361a36f"
+          },
+          "dapAn": "has",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ae8a8a19-310e-4a0c-929d-c1ef728ee036"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "_______ <b><span style=\"color:blue\">(Do)</span></b> he go to college on Wednesday?",
+      "yNghia": "Trợ động từ được đảo lên đầu câu để tạo thành câu hỏi <b>Yes/No,</b> chủ ngữ <b>he</b> <i>(anh ấy)</i> là chủ ngữ ngôi thứ ba số ít nên sẽ đi với trợ động từ <b>Does </b>thay vì <b>Do</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">Does</span></b><b> he go to college on Wednesday? </b><i>(Anh ấy có tới trường đại học vào thứ 4 không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "62a70f1f-b479-4de0-9004-a48ff59a7d88"
+          },
+          "dapAn": "Does",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e349567b-619a-435a-8d2a-55669a7c607b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I rarely _______ <b><span style=\"color:blue\">(have)</span></b> a shower in the morning.",
+      "yNghia": "<b>I</b> <i>(Tôi)</i> là chủ ngữ ngôi thứ nhất số ít nên động từ theo sau sẽ không chia. Câu hoàn chỉnh là <b>I rarely <span style=\"color:red\">have</span> a shower in the morning. </b><i>(Tôi hiếm khi tắm vòi vào buổi sáng.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "978cfa98-4fd1-4c15-8429-fc4796eb2f95"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "cb3d98df-f25b-43d9-ae41-6d0575f61668"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The shopping center _______ <b><span style=\"color:blue\">(open)</span></b> at 9:00 a.m.",
+      "yNghia": "Chủ ngữ <b>The shopping center</b> <i>(Trung tâm thương mại)</i> là chủ ngữ số ít nên động từ sẽ được chia ở dạng số ít bằng cách thêm ‘<b>s</b>' vào sau động từ <b>open</b> <i>(mở)</i>, ta được <b>opens</b>. Câu hoàn chỉnh là <b>The shopping center <span style=\"color:red\">opens</span> at 9:00 a.m. </b><i>(Trung tâm thương mại này <span style=\"color:red\">mở cửa </span>lúc 9 giờ sáng.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "33832727-e520-4483-9768-60e1fda0b502"
+          },
+          "dapAn": "opens",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "169761f3-d778-42df-a3fe-03088bb9ac58"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you _______ <b><span style=\"color:blue\">(work)</span></b> in the court?",
+      "yNghia": "Trợ động từ <b>Do </b>được đảo lên đầu câu để tạo thành câu hỏi <b>Yes/No</b>, động từ <b>work </b><i>(làm việc)</i> được giữ nguyên. Câu hoàn chỉnh là <b>Do you <span style=\"color:red\">work</span> in the court? </b><i>(Bạn <span style=\"color:red\">làm việc</span> trong tòa án phải không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5bc73051-828e-4054-8bc5-bbe1abb700bf"
+          },
+          "dapAn": "work",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e30a2bcf-0770-456c-9c6d-97e7242a1785"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you _______ <b><span style=\"color:blue\">(have)</span></b> a shower?",
+      "yNghia": "Trợ động từ <b>Do </b>được đảo lên đầu câu để tạo thành câu hỏi <b>Yes/No</b>, động từ <b>have</b> được giữ nguyên. Câu hoàn chỉnh là <b>Do you <span style=\"color:red\">have</span> a shower? </b><i>(Bạn có tắm vòi không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "01994d13-5c53-46cc-9fae-322e8658cf33"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e0c8df7-4eb4-47bd-b445-4f0b7b8a6480"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What do you _______ <b><span style=\"color:blue\">(do)</span></b>?",
+      "yNghia": "Trợ động từ <b>do </b>được đảo lên trước chủ ngữ, động từ <b>do</b> <i>(làm)</i> được giữ nguyên. Câu hoàn chỉnh là <b>What do you <span style=\"color:red\">do</span>? </b><i>(Bạn <span style=\"color:red\">làm</span> nghề gì?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5f136e9a-e19d-4ad2-aab0-4ba9c114d5f5"
+          },
+          "dapAn": "do",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ec02526d-07f0-4f3a-ae5d-3f94012709b3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I usually _______ <b><span style=\"color:blue\">(go)</span></b> to work at 7:15 a.m.",
+      "yNghia": "<b>I</b> <i>(Tôi)</i> là chủ ngữ ngôi thứ nhất số ít nên động từ theo sau sẽ không chia. Câu hoàn chỉnh là <b>I usually <span style=\"color:red\">go</span> to work at</b><b> </b><b>7:15 a.m. </b><i>(Tôi thường <span style=\"color:red\">đi</span> làm lúc 7 giờ 15 phút sáng.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4a9adb68-e8a2-4b83-991b-f9dc75f0d6ae"
+          },
+          "dapAn": "go",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9b9c10fe-a6b8-485a-84e9-3b4978d276cb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I <b>_______ <span style=\"color:blue\">(be)</span></b> a lawyer.",
+      "yNghia": "<b>I</b> <i>(Tôi)</i> là chủ ngữ ngôi thứ nhất số ít nên động từ <i>to be</i> theo sau sẽ là <b>am</b>. Câu hoàn chỉnh là <b>I <span style=\"color:red\">am</span> a lawyer. </b><i>(Tôi <span style=\"color:red\">là</span> một luật sư.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "879bccd8-f012-4df0-ac7e-fdf3c5d3c41a"
+          },
+          "dapAn": "am",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ee6a9a92-223a-4630-bb91-43933396629a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What time do you _______ <b><span style=\"color:blue\">(start)</span></b> work?",
+      "yNghia": "Trợ động từ <b>do </b>được đảo lên trước chủ ngữ, động từ <b>start </b><i>(bắt đầu)</i><b> </b>được giữ nguyên. Câu hoàn chỉnh là <b>W</b><b>hat time do you <span style=\"color:red\">start</span> work? </b><i>(Mấy giờ bạn <span style=\"color:red\">bắt đầu </span>làm việc?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6534c81b-7747-4ded-afd8-f2c949c84612"
+          },
+          "dapAn": "start",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6b6bd083-e144-4dff-b6d3-36a571c7abfc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do they _______ <b><span style=\"color:blue\">(drive)</span></b> to the office?",
+      "yNghia": "Trợ động từ <b>Do </b>được đảo lên đầu câu để tạo thành câu hỏi <b>Yes/No</b>, động từ <b>drive </b><i>(lái xe)</i> được giữ nguyên. Câu hoàn chỉnh là <b>Do they <span style=\"color:red\">drive</span> to the office? </b><i>(Họ có <span style=\"color:red\">lái xe </span>tới văn phòng không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "eec4d4b9-e199-4b52-844e-e16bd1b8203a"
+          },
+          "dapAn": "drive",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

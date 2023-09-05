@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_TC_L11/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_TC_L11/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "c9d907d9-918d-4f45-9ce0-5f83b26890f8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Allie",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "87f54bc1-30d9-477b-afbd-8dd70a135902"
+          },
+          "dapAn": "Hey Ellen, what are you doing? Have you finished your tasks?",
+          "phienAm": "/heɪ ˈelən wɒt ɑːr juːˈduːɪŋ/. /hæv juː ˈfɪnɪʃt jɔːr tɑːsks/",
+          "yNghia": "\nNày Ellen, bạn đang làm gì vậy? Bạn đã hoàn thành nhiệm vụ của bạn chưa?",
+          "normal": {
+            "start": "00:00:00.427",
+            "end": "00:00:04.837"
+          },
+          "slow": {
+            "start": "00:00:00.861",
+            "end": "00:00:06.739"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "18dfa487-8c69-44ca-a12a-d6a3d4504ab0"
+          },
+          "dapAn": "That sounds fun! But why did you have this idea?",
+          "phienAm": "/ðæt saʊndz fʌn/. /bʌt waɪ dɪd juː hæv ðɪs aɪˈdɪə/",
+          "yNghia": "\nNghe vui đó! Nhưng tại sao bạn lại có ý tưởng này?",
+          "normal": {
+            "start": "00:00:11.137",
+            "end": "00:00:14.512"
+          },
+          "slow": {
+            "start": "00:00:16.268",
+            "end": "00:00:20.543"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e5ccead2-9d6c-40ee-b53c-79dfbd12f15a"
+          },
+          "dapAn": "Could I give you a few suggestions?",
+          "phienAm": "/kʊd aɪ gɪv juː eɪ fjuː səˈʤesʧənz/",
+          "yNghia": "\nTôi có thể đưa cho bạn một vài gợi ý không?",
+          "normal": {
+            "start": "00:00:23.106",
+            "end": "00:00:25.356"
+          },
+          "slow": {
+            "start": "00:00:31.334",
+            "end": "00:00:34.021"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d568a8aa-8beb-4c88-9450-4c2656a70473"
+          },
+          "dapAn": "Have you ever tried bungee jumping? It is fantastic.",
+          "phienAm": "/hæv juː ˈevər traɪd ˈbʌnʤi ˈʤʌmpɪŋ/. /ɪt ɪz fænˈtæstɪk/",
+          "yNghia": "\nBạn đã bao giờ thử nhảy bungee chưa? Nhảy bungee thật tuyệt vời.",
+          "normal": {
+            "start": "00:00:29.923",
+            "end": "00:00:34.265"
+          },
+          "slow": {
+            "start": "00:00:40.240",
+            "end": "00:00:45.287"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c3f5ae06-8fd3-45e3-99ee-feae28c255b1"
+          },
+          "dapAn": "Yes, I have. It was an unforgettable experience.",
+          "phienAm": "/jes aɪ hæv/. /ɪt wɒz æn ˌʌnfəˈgetəbl ɪksˈpɪərɪəns/",
+          "yNghia": "\nỪ. Đó là một trải nghiệm khó quên.",
+          "normal": {
+            "start": "00:00:42.815",
+            "end": "00:00:46.864"
+          },
+          "slow": {
+            "start": "00:00:57.414",
+            "end": "00:01:02.980"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7c3bab2c-2136-4cd2-a00f-d7d2a3fb1fb7"
+          },
+          "dapAn": "No, it was in Witwatersrand – a beautiful mountain in South Africa.",
+          "phienAm": "/nəʊ ɪt wɒz ɪn wɪtˈwɔːtərsren – eɪ ˈbjuːtəfʊl ˈmaʊntən ɪn saʊθ ˈæfrɪkə/",
+          "yNghia": "\nKhông, ở Witwatersrand - một ngọn núi xinh đẹp ở Nam Phi.",
+          "normal": {
+            "start": "00:00:52.939",
+            "end": "00:00:58.451"
+          },
+          "slow": {
+            "start": "00:01:10.476",
+            "end": "00:01:16.977"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "97e40cc2-638e-45ba-bafc-9dc309d8fffc"
+          },
+          "dapAn": "Yeah, not many people know it, but it is awesome.",
+          "phienAm": "/jeə nɒt ˈmeni ˈpiːpl nəʊ ɪt bʌt ɪt ɪz ˈɔːsəm/",
+          "yNghia": "\nỪ, không nhiều người biết đến ngọn núi ấy, nhưng nó thật tuyệt.",
+          "normal": {
+            "start": "00:01:04.008",
+            "end": "00:01:08.103"
+          },
+          "slow": {
+            "start": "00:01:23.746",
+            "end": "00:01:28.763"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d130dd5a-2dfc-4b4a-83a6-8c44a3640729"
+          },
+          "dapAn": "Have you ever been to Kentucky? It is famous for waterskiing.",
+          "phienAm": "/hæv juː ˈevər biːn tuː kɪnˈtʌki/. /ɪt ɪz ˈfeɪməs fɔːr ˈwɔːtəskiːɪŋ/",
+          "yNghia": "\nBạn đã từng đến Kentucky chưa? Nó nổi tiếng với lướt ván trên nước.",
+          "normal": {
+            "start": "00:01:14.403",
+            "end": "00:01:18.880"
+          },
+          "slow": {
+            "start": "00:01:39.034",
+            "end": "00:01:44.437"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "37745d00-eee3-4be8-bd01-ab5634daab51"
+          },
+          "dapAn": "Yeah! You can also try horse racing.",
+          "phienAm": "/jeə/. /juː kæn ˈɔːlsəʊ traɪ hɔːs ˈreɪsɪŋ/",
+          "yNghia": "\nỪ! Bạn cũng có thể thử đua ngựa.",
+          "normal": {
+            "start": "00:01:24.910",
+            "end": "00:01:27.767"
+          },
+          "slow": {
+            "start": "00:01:52.512",
+            "end": "00:01:56.193"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9a93bf16-7336-4b30-8db2-3da20a8d19d1"
+          },
+          "dapAn": "I have never written one before. However, I will try writing mine soon.",
+          "phienAm": "/aɪ hæv ˈnevər ˈrɪtn wʌn bɪˈfɔːr/. /haʊˈevər aɪ wɪl traɪ ˈraɪtɪŋ maɪn suːn/",
+          "yNghia": "\nTôi chưa bao giờ viết một cái danh sách những việc muốn làm trong đời. Tuy nhiên, tôi sẽ thử viết một cái của mình sớm thôi.",
+          "normal": {
+            "start": "00:01:37.419",
+            "end": "00:01:42.886"
+          },
+          "slow": {
+            "start": "00:02:10.977",
+            "end": "00:02:17.627"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6356c58f-98bb-4452-99c0-7d70bab0c28d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Ellen",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f713cc68-0a95-4bf1-b222-ad4de672dccd"
+          },
+          "dapAn": "Yes, I have. I am writing my bucket list.",
+          "phienAm": "/jes aɪ hæv/. /aɪ æm ˈraɪtɪŋ maɪ ˈbʌkɪt lɪst/",
+          "yNghia": "\nCó, tôi đã hoàn thành rồi. Tôi đang viết danh sách những việc muốn làm trong đời của tôi.",
+          "normal": {
+            "start": "00:00:06.165",
+            "end": "00:00:09.944"
+          },
+          "slow": {
+            "start": "00:00:07.689",
+            "end": "00:00:14.903"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "69406f6f-2359-4ad2-977e-45906a30267d"
+          },
+          "dapAn": "The office has been too familiar to me recently. I really need some changes.",
+          "phienAm": "/ðiː ˈɒfɪs hæz biːn tuː fəˈmɪliər tuː miː ˈriːsntli/. /aɪ ˈrɪəli niːdsʌm ˈʧeɪnʤɪz/",
+          "yNghia": "\nDạo gần đây, tôi đã quá quen thuộc với văn phòng rồi. Tôi thực sự cần một số thứ khác lạ.",
+          "normal": {
+            "start": "00:00:16.041",
+            "end": "00:00:22.026"
+          },
+          "slow": {
+            "start": "00:00:21.983",
+            "end": "00:00:30.488"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5f930423-1989-401e-ab62-01f59589c0f7"
+          },
+          "dapAn": "Okay! That may be helpful for me.",
+          "phienAm": "/əʊˈkeɪ/. /ðæt meɪ biː ˈhelpfʊl fɔːr miː/",
+          "yNghia": "\nĐược chứ! Có thể là nó hữu ích với tôi.",
+          "normal": {
+            "start": "00:00:26.121",
+            "end": "00:00:28.798"
+          },
+          "slow": {
+            "start": "00:00:35.015",
+            "end": "00:00:38.830"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "472be2ae-fecd-4718-9a76-516180277515"
+          },
+          "dapAn": "No, I haven’t. I’d love to but I’m afraid of heights. Have you done it before?",
+          "phienAm": "/nəʊ aɪ hævnt/. /aɪd lʌv tuː bʌt aɪm əˈfreɪd ɒv haɪts/. /hæv juː dʌn ɪt bɪˈfɔːr/",
+          "yNghia": "\nKhông, tôi chưa từng nhảy bungee. Tôi rất thích nhưng tôi sợ độ cao. Trước đây, bạn đã từng nhảy bungee rồi phải không?",
+          "normal": {
+            "start": "00:00:35.008",
+            "end": "00:00:41.667"
+          },
+          "slow": {
+            "start": "00:00:46.341",
+            "end": "00:00:56.301"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5be0b3b2-f3b5-4593-9cc6-fdcc3c55ce8d"
+          },
+          "dapAn": "Where did you do that? Was it in Switzerland?",
+          "phienAm": "/weər dɪd juː duː ðæt/. /wɒz ɪt ɪn ˈswɪtsələnd/",
+          "yNghia": "\nBạn đã nhảy bungee ở đâu? Có phải ở Thụy Sĩ không?",
+          "normal": {
+            "start": "00:00:48.124",
+            "end": "00:00:51.589"
+          },
+          "slow": {
+            "start": "00:01:03.663",
+            "end": "00:01:09.214"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ce6251c8-249e-4e83-b659-4cb22032654c"
+          },
+          "dapAn": "This is the first time I’ve heard that name.",
+          "phienAm": "/ðɪs ɪz ðə fɜːst taɪm aɪv hɜːd ðæt neɪm/",
+          "yNghia": "\nĐây là lần đầu tiên tôi nghe thấy cái tên đó.",
+          "normal": {
+            "start": "00:01:00.544",
+            "end": "00:01:02.928"
+          },
+          "slow": {
+            "start": "00:01:18.209",
+            "end": "00:01:22.707"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a8eaea4b-2830-4fec-ba57-3b21a06fcde8"
+          },
+          "dapAn": "I’d love to have memorable trips like that. But I don’t know where to go.",
+          "phienAm": "/aɪd lʌv tuː hæv ˈmemərəbl trɪps laɪk ðæt/. /bʌt aɪ dəʊnt nəʊ weər tuː gəʊ/",
+          "yNghia": "\nTôi rất muốn có những chuyến đi đáng nhớ như thế. Nhưng tôi không biết phải đi đâu cả.",
+          "normal": {
+            "start": "00:01:08.711",
+            "end": "00:01:13.300"
+          },
+          "slow": {
+            "start": "00:01:29.906",
+            "end": "00:01:37.862"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "257e285f-0ad8-480d-8df5-a2f746582223"
+          },
+          "dapAn": "No, but I’ve heard that there are many green spaces too.",
+          "phienAm": "/nəʊ bʌt aɪv hɜːd ðæt ðeər ɑːr ˈmeni griːn ˈspeɪsɪz tuː/",
+          "yNghia": "\nKhông, nhưng tôi nghe nói rằng ở đó có rất nhiều không gian xanh.",
+          "normal": {
+            "start": "00:01:20.410",
+            "end": "00:01:24.077"
+          },
+          "slow": {
+            "start": "00:01:45.224",
+            "end": "00:01:51.399"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "bc43d16a-d6ca-4731-9bf0-a649da0a1fb0"
+          },
+          "dapAn": "Oh, that could be great. I will add “visit Kentucky” to my bucket list. Do you have a bucket list?",
+          "phienAm": "/əʊ ðæt kʊd biː greɪt/. /aɪ wɪl æd ˈvɪzɪt kenˈtʌki tuː maɪ ˈbʌkɪt lɪst/. /duː juː hæv eɪ ˈbʌkɪt lɪst/",
+          "yNghia": "\nỒ, có thể nó tuyệt vời đấy. Tôi sẽ thêm “ghé thăm Kentucky” vào danh sách những việc muốn làm trong đời của mình. Bạn có một danh sách những việc muốn làm trong đời không?",
+          "normal": {
+            "start": "00:01:28.667",
+            "end": "00:01:36.474"
+          },
+          "slow": {
+            "start": "00:01:57.455",
+            "end": "00:02:09.404"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "08c4d3c5-d915-4848-bd1f-a38eb87eab83"
+          },
+          "dapAn": "You should do that. It will make you excited.",
+          "phienAm": "/juː ʃʊd duː ðæt/. /ɪt wɪl meɪk juː ɪkˈsaɪtɪd/",
+          "yNghia": "\nBạn nên làm điều đó. Nó sẽ khiến bạn thích thú.",
+          "normal": {
+            "start": "00:01:43.921",
+            "end": "00:01:47.183"
+          },
+          "slow": {
+            "start": "00:02:17.716",
+            "end": "00:02:22.347"
+          }
+        }
+      ]
+    }
+  ]
+}

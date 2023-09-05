@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "f083c962-2102-4a9a-bcd0-a8289cc8150a"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "b78f9ac8-5fc7-4c47-ad79-f3510d638114"
+          },
+          "cauHoi": "What did Susana send to confirm her attendance at the wedding?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ab6d74c5-5943-4529-8de4-1d658c48993e"
+              },
+              "dapAn": "A. money",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5e31b044-6e33-41e0-8400-ea1722b22e80"
+              },
+              "dapAn": "B. a gift",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f1f9215e-246b-42f3-abf4-45f7af514c42"
+              },
+              "dapAn": "C. an RSVP",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f8d96ed9-d3fa-4e4b-ab31-79d557b4e3b4"
+              },
+              "dapAn": "D. nothing",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "031d49a2-067e-421a-9002-4b92a5dcb260"
+          },
+          "cauHoi": "How does Jessica feel about the wedding?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f591ce78-3b97-4504-99db-51434d10c299"
+              },
+              "dapAn": "A. excited",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "83306aad-3e4c-4a4f-b16b-68be8c54edfc"
+              },
+              "dapAn": "B. bored",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "dae0b92e-9fc6-44e9-9cdf-f780574f3754"
+              },
+              "dapAn": "C. nothing",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8cd4ceb1-771a-44f6-8c21-bffc5a068a91"
+              },
+              "dapAn": "D. amazed",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "cf1eb939-8879-47b9-81ff-6c0e9441dc3f"
+          },
+          "cauHoi": "What does Susana ask Jessica for advice on in this reading text?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "05d9b330-79e1-4a22-b699-eca9d8eb4787"
+              },
+              "dapAn": "A. her outfit",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "00b987ae-ecaa-4657-838b-9d479165c09a"
+              },
+              "dapAn": "B. wedding gift",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "835543e6-e334-44aa-81e9-cdc795a2b440"
+              },
+              "dapAn": "C. her make-up",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2ebda0e4-25c9-4496-af9e-99f2a96b2796"
+              },
+              "dapAn": "D. her hair",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "54c76c9f-9925-4d8b-ae3b-0e89243e8dac"
+          },
+          "cauHoi": "What does Jessica talk about the weddings formality? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9d2c4670-fa61-4c92-abb4-e91f89b92670"
+              },
+              "dapAn": "A. It’s not very informal.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c06f3aba-5ceb-4db0-8d27-a40806a00944"
+              },
+              "dapAn": "B. It isn’t very formal.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "1d1c9e3b-c713-4e28-bd46-26d1489d9041"
+              },
+              "dapAn": "C. It’s a small party.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "727fadaf-de56-4f12-8aa3-93072c2485d1"
+              },
+              "dapAn": "D. It’s a big party.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Susana:</b></td>\n                        <td>I sent an RSVP to accept Amy's wedding invitation. I'm excited about her wedding!</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jessica:</b></td>\n                        <td>Me too. It's going to be fun!</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Susana:</b></td>\n                        <td>Can you tell me about weddings here? I mean, what should I wear?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jessica:</b></td>\n                        <td>Well, the wedding is outside and not very formal, but people usually dress up.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Susana:</b></td>\n                        <td>OK. I'll wear my new blue dress.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What did Susana send to confirm her attendance at the wedding?</b> <i>(Susana</i> <i>đã gửi gì để xác nhận cô ấy có tham gia đám cưới</i><i>?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b>I sent an RSVP to accept Amy's wedding invitation.</b> <i>(Tôi</i> <i>đã gửi hồi âm đồng ý lời mời đám cưới của Amy</i><i>.</span></i><i>).</i> Nên đáp án là <b><span style=\"color:red\">C. an RSVP</span> </b><i>(hồi âm)</i><i>.</i><br />\n<br />\n<b>2</b><b>.</b> Với câu hỏi <b>How</b> <b>does Jessica feel about the wedding?</b> <b></b><i>(Jessica</i> <i>cảm thấy thế nào về đám cưới?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b>Susana:</b> <b>I'm excited about her wedding! -</b> <b>Jessica:</b> <b>Me too.</b> <i>(</i><i>Susana:</i> <i>Tôi rất háo hức về đám cưới của cô ấy</span></i><i>!</span></i> <i></i><i>- Jessica:</span> </i><i>Tôi cũng thế.</span></i><i>)</i><i>.</i> <i></i>Nên đáp án là <b><span style=\"color:red\">A. excited</span> </b><i>(háo</i> <i>hức)</i><i>.</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>What does Susana ask Jessica for advice on in this reading text?</b> <b></b><i>(Susana</i> <i>xin lời khuyên từ Jessica về điều gì trong bài đọc này</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>I mean, what should I wear?</b> <i>(</i><i>Ý tôi là, tôi nên mặc gì?</span></i><i>).</i> Nên đáp án là <b><span style=\"color:red\">A. her outfit</span> </b><i>(bộ</i> <i>đồ của cô ấy)</i><i>.</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>What does</b> <b></b><b>Jessica talk about the party's formality</b><b>?</b> <b></b><i>(</i><i>Jessica nói gì về hình thức của bữa tiệc?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b>Well, the wedding is outside and not very formal</b><b>...</b> <b></b><i>(</i><i>Chà, đám cưới thì tổ chức ở ngoài trời và không trang trọng lắm....)</span></i><i>.</i> Nên đáp án là <b><span style=\"color:red\">B. It isn't very formal</span></b><b><span style=\"color:red\">.</span></b> <b></b><i>(</i><i>Nó không quá trang trọng</i><i>.</i><i>)</i><i>.</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8b75c7f3-19a3-40d6-a9fc-dd88ef60027e"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "62ff37b5-bbbf-4422-9dca-e78d4dbaf355"
+          },
+          "cauHoi": "What’s Susana worried about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f2a619c5-ed2c-475f-a322-4c6bc527d431"
+              },
+              "dapAn": "A. She could act inappropriately.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a63eb99a-e912-45a1-9991-87c7e4b562df"
+              },
+              "dapAn": "B. She could say something wrong.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "32efc804-96fd-4d56-9e99-c1c5f273dbc5"
+              },
+              "dapAn": "C. She might wear an unsuitable outfit.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7a9f1d33-dcfa-464e-ae0a-1ba7505e042e"
+              },
+              "dapAn": "D. She will forget the direction.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "8e8dbd0b-1ed6-40c3-accf-6ec458998454"
+          },
+          "cauHoi": "What favor did Susana ask Jessica for?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "1ae8771e-1eeb-4094-8b3a-ca6908ac1435"
+              },
+              "dapAn": "A. help with outfit",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a3c029fe-bcf6-4428-bbcd-a45b823edb77"
+              },
+              "dapAn": "B. a lift",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "666a154c-9be9-42a0-a38f-efaf7c423a6e"
+              },
+              "dapAn": "C. help with hair",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1741180b-a4b2-41fa-8a49-6ee8c513eb56"
+              },
+              "dapAn": "D. help with make-up",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f2900513-44bb-4b97-8c6b-93567856663b"
+          },
+          "cauHoi": "Why can’t Susana go to the wedding herself?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ed19e7c4-99a4-4420-a4a4-3bdaed23473a"
+              },
+              "dapAn": "A. She doesn’t have a car.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "211f074a-f13a-4917-ae3a-b4958659256c"
+              },
+              "dapAn": "B. She’s too lazy.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "30c1ce40-9418-416d-9b55-68a1bdbda951"
+              },
+              "dapAn": "C. She doesn’t know the directions.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "23b7c1ca-7f85-4b2f-b259-69116db55ab5"
+              },
+              "dapAn": "D. She might miss the time.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "14b27226-87fc-4f44-a14f-f8b24dad968d"
+          },
+          "cauHoi": "What time will they meet?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b527b56b-0145-4f1a-9de6-527fe78b34e9"
+              },
+              "dapAn": "A. 12 o’clock",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bd77696b-f8b6-439e-8480-7eeb58219071"
+              },
+              "dapAn": "B. 10 o’clock",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9d06084c-68b8-4feb-88cc-9df39dea93a6"
+              },
+              "dapAn": "C. 9 o’clock",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e191a413-bb9e-4686-b9a5-7e8566768ddb"
+              },
+              "dapAn": "D. 7 o’clock",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Susana:</b></td>\n                        <td>Do you have any idea about wedding customs? I'm afraid I might do something inappropriate.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jessica:</b></td>\n                        <td>Don't worry. You just need to show up in the party. It is not too formal.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Susana:</b></td>\n                        <td>Thanks. Could I go to the wedding with you? I don't have a car.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jessica:</b></td>\n                        <td>Sure. Rick and I will give you a ride.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Susana:</b></td>\n                        <td>What time should we meet?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jessica:</b></td>\n                        <td>Let's see. We'll pick you up at 9 o'clock.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What's Susana worried about</b><b>?</b> <i>(</i><i>Susana lo lắng về điều gì?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b>I'm afraid I might do something inappropriate.</b> <i>(</i><i>Tôi sợ tôi có thể làm điều gì đó không phù hợp.</span></i><i>).</i> Nên đáp án là <b><span style=\"color:red\">A. She could act inappropriately.</span> </b><i>(Cô ấy có thể sẽ hành xử không đúng mực.)</i><i>.</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>What favor did Susana ask Jessica for</b><b>?</b> <i>(Susana</i> <i>nhờ Jessica điều gì</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>Rick and I will give you a ride.</b> <i>(Rick</i> <i>và tôi sẽ cho bạn đi nhờ</i><i>.</i><i>).</i> Nên đáp án là <b><span style=\"color:red\">B. a lift</span> </b><i>(đi</i> <i>nhờ)</i><i>.</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>Why can't Susana go to the wedding herself?</b> <i>(</i><i>Sao</i> <i>Susana không thể tự đến đám cưới?),</i> <b></b>câu trong bài đọc liên quan là <b>I don't have a car</b><b>.</b> <b></b><i>(Tôi</i> <i>không có xe hơi.</i><i>)</span></i><i>.</i> Nên đáp án là <b><span style=\"color:red\">A. She doesn't have a car.</span> </b><i>(</i><i>Cô ấy không có xe hơi.)</i><i>.</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>What time will they meet?</b> <i>(Họ</i> <i>sẽ gặp lúc mấy giờ</i><i>?</i><i>)</i><i>,</i> <b></b>câu trong bài đọc liên quan là <b>We'll pick you up at 9 o'clock.</b> <i>(</i><i>Chúng tôi sẽ đón bạn lúc 9 giờ</span></i><i>.</span></i><i>).</i> Nên đáp án là <b><span style=\"color:red\">C. 9 o'clock</span> </b><i>(</i><i>9 giờ)</i><i>.</i><br />",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4c90bc20-2421-4330-b1ca-b89c70024a88"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "863b5a9d-59b4-4e9c-9181-fe426f463509"
+          },
+          "cauHoi": "Who’s the bride?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ae4bcdef-cbde-44ed-b417-bec1c5b181cc"
+              },
+              "dapAn": "A. Joe",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ad5fd9b7-cfb4-45b8-b4be-9732875d770a"
+              },
+              "dapAn": "B. Jane",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "4d28a72c-62e8-4ec4-9507-8c7b69ee4863"
+              },
+              "dapAn": "C. Anna ",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "42f53cd8-b8ac-47cb-9e98-3362ca4781f1"
+              },
+              "dapAn": "D. Amy",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f06e4d28-e527-4718-bb09-714ee6218d71"
+          },
+          "cauHoi": "What is one of the most important customs of any weddings?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d6d35ce0-7267-4bdf-8f81-1063aa399e45"
+              },
+              "dapAn": "A. drinking",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b4858448-4627-49f5-9e66-340bbcc8100a"
+              },
+              "dapAn": "B. eating",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d60c7639-97a6-483f-8eaf-3756e33edb0e"
+              },
+              "dapAn": "C. giving gifts",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bddd02bf-111e-4b41-8a2e-bc800d965426"
+              },
+              "dapAn": "D. giving speeches",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "79b47ddc-f9cc-4547-838e-520dc3b703da"
+          },
+          "cauHoi": "Who’s gonna be giving speeches at the wedding?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d933fed7-e129-448e-9635-6619e5a0d281"
+              },
+              "dapAn": "A. the couple’s dads",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b1509660-3151-4509-9029-1860096714a3"
+              },
+              "dapAn": "B. Anna’s dad",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ec304890-c428-4412-bc1a-c57138f92092"
+              },
+              "dapAn": "C. the couple’s moms",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b2345f55-d2c8-4d44-b6ef-2cfca456d178"
+              },
+              "dapAn": "D. the couple’s best friends",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "6ccab2cb-f04c-4fb2-b0c1-c0da9855ae31"
+          },
+          "cauHoi": "How does Anna feel about giving speeches at the wedding?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f4331472-e80a-46e7-80a9-d0974cf4cba5"
+              },
+              "dapAn": "A. eager",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a7ebc0cd-4148-4fb1-8cac-1ca0a19b771e"
+              },
+              "dapAn": "B. bored",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "dcc1cbf9-b4b0-451d-be73-065aa041d033"
+              },
+              "dapAn": "C. happy",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c057292f-4d4d-4a2a-8ce6-d1d4ff4bb235"
+              },
+              "dapAn": "D. confused",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td>\n                        <td>Happy wedding to my favorite newly married couple, Joe and Jane!</td>\n                        <td> </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Joe:</b></td>\n                        <td>Thank you for coming, Anna! It's our pleasure to have you here with us today.</td>\n                        <td> </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td>\n                        <td>So, who's gonna be the chosen person to be on stage to give speeches on your special day? </td>\n                        <td> </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Joe:</b></td>\n                        <td>Since it is one of the most important customs of any wedding, we have asked our dads to do so.</td>\n                        <td> </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td>\n                        <td>Which means, both your dad and Jane's will be giving speeches?</td>\n                        <td> </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Joe:</b></td>\n                        <td>Of course!</td>\n                        <td> </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td>\n                        <td colspan=\"2\">That sounds exciting. I can't wait any longer!</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Who's the bride?</b> <i>(Ai</i> <i>là cô dâu?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b></b><b>Happy wedding to</b> <b>my favorite newly married couple</b><b>, Joe and Jane!</b> <i>(Chúc mừng ngày vui của cặp đôi mới cưới yêu thích của mình nha, Joe và Jane!).</i> Nên đáp án là <b><span style=\"color:red\">B. Jane</span> </b><i>(Jane)</i><i>.</i><br />\n<b>2</b><b>.</b> Với câu hỏi <b>What is</b> <b>one of</b> <b>the most important custom</b><b>s</b> <b>of any weddings</b><b>?</b> <i>(</i><i>Một trong những phong tục quan trọng nhất trong bất kỳ đám cưới nào là gì</i><i>?</i><i>)</i><i>,</i> <b></b>câu trong bài đọc liên quan là <b>So, who's gonna be the chosen person to be on stage to give speeches on your special day? Since it is one of the most important customs of any weddings,</b> <b>...</b><b>.</b> <b></b><i>(</i><i>Vậy thì, ai sẽ là người được chọn để đọc bài phát biểu trên sân khấu thế? Bởi vì đây là một trong những phong tục quan trọng nhất trong bất kì lễ cưới nào,</i> <i>...</i><i>.</i><i>)</span></i><i>.</i> Nên đáp án là <b><span style=\"color:red\">D. giving</span></b><b> <span style=\"color:red\">speeches</span></b> <b></b><i>(phát biểu</i><i>)</i><i>.</i><br />\n<b>3.</b> Với câu hỏi <b>Who's gonna be giving speeches at the wedding?</b> <i>(Ai</i> <i></i><i>sẽ là người đọc bài phát biểu trên sân khấu?),</i>câu trong bài đọc liên quan là <b>we have asked our dads to do so.</b> <i>(chúng mình đã</i> <i>nhờ hai người bố</i> <i>cùng thực hiện việc này</i><i>.</i><i>).</i> Nên đáp án là <b><span style=\"color:red\">A. the couple's dads</span> </b><i>(bố</i> <i>của cặp đôi)</i><i>.</i><br />\n<b>4.</b> Với câu hỏi <b>How does Anna feel about giving speeches at the wedding?</b> <i>(Anna cảm thấy như thế nào về việc phát biểu trong lễ cưới?</i><i>)</i><i>,</i> <b></b>câu trong bài đọc liên quan là <b>That sounds exciting. I can't wait any longer! <i></i></b><i>(Nghe thú vị thật đó. Mình không thể đợi thêm được nữa rồi!).</i> Nên đáp án là <b><span style=\"color:red\">A. eager</span> </b><i>(háo</i> <i>hức)</i><i>.</i><br />",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "dab838e7-e422-4c9f-b913-9402d27c88df"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "59eabe88-f41d-425c-92dd-ed3f356f466a"
+          },
+          "cauHoi": "Who is the guest speaker?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "1da65bbe-77c4-45eb-ac48-431ce57e2b11"
+              },
+              "dapAn": "A. Helen",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5f931079-2eb5-4df2-82de-40760e439745"
+              },
+              "dapAn": "B. Meghan Trainor",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a3592c29-4689-467b-aab3-21ed0dcf5813"
+              },
+              "dapAn": "C. Jane",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f470a555-4744-4b1b-83d3-75a3068ba2ec"
+              },
+              "dapAn": "D. Amy",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "4fc9b112-7551-4606-9d34-2b4d254f492c"
+          },
+          "cauHoi": "Whose experience are they going to talk about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2dc12486-c4f7-4870-af39-1827ce4a12f0"
+              },
+              "dapAn": "A. the host’s experience",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b9844060-af01-400d-9109-e023dc0d4114"
+              },
+              "dapAn": "B. audiences’ experience",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c96e732a-e43b-4329-a9fb-cd06fa07ac65"
+              },
+              "dapAn": "C. Meghan’s experience",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "0a6607e5-662e-403a-b7e6-4c8aa7f93b3b"
+              },
+              "dapAn": "D. celebrities’ experience",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "8ce1a81b-ed17-4692-a4ea-8624a4240f35"
+          },
+          "cauHoi": "What experience she’s talking about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "31a72af3-d137-4a00-a701-e4a905048ebf"
+              },
+              "dapAn": "A. attending events",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "d5b39209-6e08-4273-9fea-8ca9b0a6b789"
+              },
+              "dapAn": "B. singing",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9bfce184-4f89-4e97-9393-6e9b23b01e17"
+              },
+              "dapAn": "C. acting",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e8251b16-7fa0-4747-8fa9-4b8d3ab339cf"
+              },
+              "dapAn": "D. cooking",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "93041e55-4cb2-4dfd-8e5c-8fe6abfc6fb2"
+          },
+          "cauHoi": "What is the most crucial thing Meghan thinks we have to notice? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2e8ce2af-a341-49ec-996e-5dbd1e175296"
+              },
+              "dapAn": "A. our outfits",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "7f451605-06cf-4f7c-91bd-b5f6b0abd325"
+              },
+              "dapAn": "B. our vehicles",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "70c935f7-32d2-4d74-bb4d-71f2bfec3dbd"
+              },
+              "dapAn": "C. our behaviours",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ac492c7a-12ca-482a-be8b-5dcff1ac7b8c"
+              },
+              "dapAn": "D. our hair",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Welcome back to The Morning Talk with Helen. My name is Meghan Trainor. It’s my honor to be here today as the guest speaker for my favorite talk show. In today’s episode, let me tell you about my personal experience and advice when you attend an event!\nThe first and one of the most important things you must pay attention to is how you dress up and show up on the day of the event. ",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Who is the guest speaker</b><b>?</b> <i>(</i><i>Ai</i> <i>là khách mời?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b></b><b>My name is Meghan Trainor. It's my honor to be here today as the guest speaker for my favorite talk show.</b> <i>(</i><i>Tên tôi là Meghan Trainor. Thật là một vinh dự của tôi khi được ở đây ngày hôm nay với tư cách là khách mời diễn giả cho chương trình trò chuyện mà mình yêu thích</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">B. Meghan Trainor</span></b>.<br />\n<b>2</b><b>.</b> Với câu hỏi <b>Whose experience are they going to talk about?</b> <b></b><i>(Họ sẽ nói về trải nghiệm của ai?</i><i>)</i><i>,</i> <b></b>câu trong bài đọc liên quan là <b>In today's episode,</b> <b>let me tell you</b> <b></b><b>about my personal experience</b> <i>(Trong số ngày hôm nay,</i> <i>hãy để tôi nói</i> <i>về trải nghiệm cá nhân</i><i>)</span></i><i>.</i> Nên đáp án là <b><span style=\"color:red\">C. Meghan's experience</span> </b><i>(trải</i> <i>nghiệm của Meghan)</i><i>.</i><br />\n<b>3.</b> Với câu hỏi <b>What experience she's talking about?</b> <i>(</i><i>Cô ấy định nói đến trải nghiệm gì?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b>let me tell you</b> <b>about my personal experience and advice when you attend an event!</b> <i>(</i><i>hãy để tôi nói</i> <i>về trải nghiệm cá nhân và lời khuyên khi tham dự một sự kiện nhé!).</i> Nên đáp án là <b><span style=\"color:red\">A. attending events</span> </b><i>(tham</i> <i>gia sự kiện)</i><i>.</i><br />\n<b>4.</b> Với câu hỏi <b>What is the most crucial thing Meghan thinks we have to notice?</b> <i>(Meghan</i> <i>nghĩ rằng điều quan trọng nhất chúng ta cần chú ý là gì?)</i> <b></b>câu trong bài đọc liên quan là <b>The first and one of the most important things you must pay attention to is how you dress up and show up on the day of the event.  <i></i></b><i>(</i><i>Điều đầu tiên, cũng là một trong những điều quan trọng nhất mà bạn phải chú ý đó là cách bạn ăn mặc và xuất hiện trong ngày diễn ra sự kiện</i><i>.</i><i>)</i><i>.</i> Nên đáp án là <b><span style=\"color:red\">A. our outfits</span> </b><i>(trang phục</i> <i>của chúng ta</i><i>).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3c996ba7-ffcb-4da1-a5c9-d95e1a84f732"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "f4464fd6-ec13-4367-b523-0914b24ba36d"
+          },
+          "cauHoi": "What would happen if you choose unsuitable outfit?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8d8aa869-6a87-49c9-9338-af1b75ec20da"
+              },
+              "dapAn": "A. being criticized",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "fb4e090e-0521-4ad7-8c0a-f34d3890ec4a"
+              },
+              "dapAn": "B. being noticed",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4f0935ba-6fbf-4436-9a30-448d9bcdab59"
+              },
+              "dapAn": "C. being ignored",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9a63565a-fff8-4acb-97a1-c53588ec9bfa"
+              },
+              "dapAn": "D. being photographed",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "e3129f23-2de0-4828-ae09-86a088c8aa64"
+          },
+          "cauHoi": "Should we wear something too sexy?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2833d2b1-cd4f-4c60-a6b0-809157eef93e"
+              },
+              "dapAn": "A. Yes, we should.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cfb530be-ca6f-40fc-81d9-4ec5d315d6fc"
+              },
+              "dapAn": "B. No, we should not.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3bdecd9c-c4b1-4859-b26a-7e20fe02c5f0"
+              },
+              "dapAn": "C. It depends.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "efac6261-e42e-4aed-8f06-e088dea59ea3"
+              },
+              "dapAn": "D. Yes, we shouldn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "833dfc77-d388-48b5-9157-824c519bb27d"
+          },
+          "cauHoi": "What do we need to be aware of?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f368c375-a520-46ee-8345-e4a158e58b7f"
+              },
+              "dapAn": "A. our attitudes",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "c687f3e9-2d03-4865-aa78-c7b6765e1be3"
+              },
+              "dapAn": "B. our hair",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2532c5b7-12f3-447c-ae6d-10ef8e1ca2c3"
+              },
+              "dapAn": "C. our cars",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "80d768cc-4bd9-42af-9022-30fd8a002def"
+              },
+              "dapAn": "D. our accessories",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "c1a98b38-25e4-4630-bb0c-80c25406e08a"
+          },
+          "cauHoi": "What kind of attitudes should we prepare?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "298944ab-54fe-4e84-827c-f7e55fbe9ed2"
+              },
+              "dapAn": "A. impolite",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4262f465-8191-4ccc-9e1d-ddb6fd836abb"
+              },
+              "dapAn": "B. casual",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f7c960d5-ed3e-4de1-9949-bea30eda1326"
+              },
+              "dapAn": "C. appropriate",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "c4f94481-36da-42a7-a04e-fae7f9307ba9"
+              },
+              "dapAn": "D. positive",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "To avoid being criticized, make sure you choose a suitable outfit. It can highlight your beauty angles but not be too sexy or inappropriate.\nMoreover, you should prepare yourself with an appropriate attitude towards the other guests.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What</b> <b>would happen if you choose unsuitable outfit</b><b>?</b> <b></b><i>(Chuyện gì sẽ xảy ra nếu bạn lựa chọn trang phục không phù hợp</i><i>?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b></b><b>To avoid being criticized, make sure you choose a suitable outfit.</b> <i>(Để tránh việc bị chỉ trích, hãy chắc chắn rằng bạn đã chọn được cho mình một trang phục phù hợp</i><i>.</i><i>)</i><i>.</i> Nên đáp án là <b><span style=\"color:red\">A. being criticized</span> </b><i>(bị chỉ trích)</i><i>.</i><br />\n<b>2</b><b>.</b> Với câu hỏi <b>Should we wear something too sexy?</b> <i>(Chúng ta có nên mặc gì quá hở hang không?</i><i>)</i><i>,</i> <b></b>câu trong bài đọc liên quan là <b>It can highlight your beauty angles but not be too sexy or inappropriate.</b> <i>(</i><i>Trang phục</i> <i>có thể tôn lên đường nét của bạn</i><i>,</i> <i>nhưng không được quá</i> <i>hở hang</i><i>.</i><i>)</i><i>.</i> Nên đáp án là <b><span style=\"color:red\">B. No, we should not</span></b><b><span style=\"color:red\">.</span></b> <b></b><i>(Không.</i><i>)</i><i>.</i><br />\n<b>3.</b> Với câu hỏi <b>What do we need to be aware of?</b> <i>(Chúng</i> <i>ta cần chú ý đến điều gì?</i><i>),</i> <b></b>câu trong bài đọc liên quan là<b>Moreover, you should prepare yourself with an appropriate attitude towards the other guests</b> <i>(Thêm vào đó, bạn nên chuẩn bị cho mình một thái độ thật tốt đối với các khách mời khác).</i> Nên đáp án là <b><span style=\"color:red\">A. our attitudes</span></b> <b></b><i>(</i><i>thái độ của chúng ta</i><i>)</i><i>.</i><br />\n<b>4.</b> Với câu hỏi <b>What kind of attitudes should we prepare?</b> <i>(Chúng</i> <i>ta cần chuẩn bị một thái độ như thế nào?)</i> <b></b>câu trong bài đọc liên quan là <b>Moreover, you should prepare yourself with an appropriate attitude towards the other guests. <i></i></b><i>(Thêm vào đó, bạn nên chuẩn bị cho mình một thái độ thật tốt đối với các khách mời khác.</i><i>)</i><i>.</i> <i></i>Nên đáp án là <b><span style=\"color:red\">C. appropriate</span> </b><i>(</i><i>phù hợp</i> <i></i><i>/ thật tốt)</i><i>.</i><br />",
+      "danhSachDapAn": []
+    }
+  ]
+}

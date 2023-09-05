@@ -1,0 +1,711 @@
+{
+  "dangCauHoi": "P6",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "6d816020-c279-4621-b275-0c7388138374"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để chào hỏi ai đó vào buổi sáng, chúng ta sẽ dùng cấu trúc: <b>Good morning, + tên.</b><br />\nTa có: <b>James </b>là tên. Câu hoàn chỉnh là <span style=\"color:red\"><b>Good morning, James</b></span>. <i>(Chào buổi sáng, James.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3f9613af-8d69-4bbc-b254-5dc8ca27e1a6"
+          },
+          "dapAn": "Good",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5b79e765-49d2-4408-ab9d-f478989dfe2c"
+          },
+          "dapAn": "morning,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "71c65396-8340-4470-befd-5ad89fa3a57e"
+          },
+          "dapAn": "James.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "41d4b5fb-568c-493c-9f9e-aab4cf1ee05c"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả ai đó có việc làm, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + have/has + a job.</b><br />\nTa có: <b>I </b><i>(Tôi)</i> là chủ ngữ ngôi thứ nhất nên động từ theo sau là <b>have </b><i>(có)</i>. Câu hoàn chỉnh là<span style=\"color:red\"> <b>I have a job now!</b></span><i> (Tớ có việc làm rồi này!).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9d48b84f-2734-4896-95c0-99266824f4c8"
+          },
+          "dapAn": "I have",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9d397490-67f8-4ed0-aa67-bdb81f5ca02c"
+          },
+          "dapAn": "a job",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4ecd82c5-e0dc-4151-b0b3-f76613810e66"
+          },
+          "dapAn": "now!",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "60f2f804-77d8-4ccf-8e6e-f1e8d8ff891a"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó làm nghề gì, chúng ta sẽ dùng cấu trúc: <b>What + Động từ to be + Tính từ sở hữu + job?</b><br />\r\nTa có: động từ <i>to be</i> là<b> is</b>, tính từ sở hữu là <b>your </b><i>(của bạn)</i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>What is your job? </b></span><i>(Bạn làm nghề gì thế?)</i>.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "443bb7ff-9db1-4c63-9b73-df30d76f44a6"
+          },
+          "dapAn": "What",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e2ce1ecb-9bcc-4361-a1d3-c65dfa5dcb96"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3909626c-baca-434e-9ac9-49945e4f2a35"
+          },
+          "dapAn": "your",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "094349ef-23a0-4524-817c-ebb23f30bc86"
+          },
+          "dapAn": "job?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3c526880-9b85-4403-ba5e-b50a88951ace"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả ai đó làm nghề gì, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ to be + a/an + nghề nghiệp.</b><br />\nTa có: <b>I</b> <i>(Tôi)</i> là chủ ngữ, <b>am </b>là động từ <i>to be</i>, mạo từ là <b>a </b><i>(một)</i>, tên nghề nghiệp là <b>shop assistant </b><i>(nhân viên bán hàng)</i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>I'm a shop assistant. </b></span><i>(Tớ làm nhân viên bán hàng.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d05bba43-22a5-4387-ab23-c490ffe378c4"
+          },
+          "dapAn": "I'm ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "70ee9a2d-37e5-4a29-b48c-0cd729043897"
+          },
+          "dapAn": "a ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ff0c47a3-69b4-44d6-810e-be085b181da8"
+          },
+          "dapAn": "shop",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7900c12a-ec87-4b23-ad87-1bb7734d1002"
+          },
+          "dapAn": "assistant.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d9be903b-a864-4393-aaac-0850c4afc2e5"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó làm việc ở đâu, chúng ta sẽ dùng cấu trúc: <b>Where + do/does + Chủ ngữ + work?</b><br />\r\nTa có: <b>you </b><i>(bạn) </i>là chủ ngữ nên trợ động từ đi kèm là <b>do</b>. Câu hoàn chỉnh là<b> <span style=\"color:red\">Where do you work?</span></b><i> (Cậu làm ở đâu?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1149d39f-cfea-49cc-a5fb-726c552b051e"
+          },
+          "dapAn": "Where",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b90f667c-9bef-4e72-aaa7-7c6dc4c03c60"
+          },
+          "dapAn": "do",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3b128075-23cf-45c6-b9ef-f9b610e9f3c8"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7c38effb-0b92-4783-9b22-f55fce8574b3"
+          },
+          "dapAn": "work?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4259246e-f276-4b11-a9d7-07a6f1fcc14b"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả ai đó làm việc ở đâu, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + work/works + in + a/an + địa điểm làm việc.</b><br />\nTa có: <b>I </b><i>(Tôi) </i>là chủ ngữ ngôi thứ nhất nên động từ <b>work<i> </i></b><i>(làm việc)</i> được chia ở dạng nguyên thể, nơi làm việc là <b>shopping center </b><i>(trung tâm mua sắm) </i>đi kèm với mạo từ <b>a </b><i>(một)</i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>I work in a shopping center.</b></span> <i>(Tớ làm trong một trung tâm mua sắm.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3f48942c-f02f-47fa-b5dc-9e30e2cba252"
+          },
+          "dapAn": "I work",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1bbcc070-a16b-456b-84c0-2227f41a47a9"
+          },
+          "dapAn": "in a",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4c4b5bc8-1840-4f87-8091-fb03749752a2"
+          },
+          "dapAn": "shopping",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2a3477af-3682-44ae-8958-805d348f5f53"
+          },
+          "dapAn": "center.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "95d2bf36-6a48-4b1a-93c7-2f2eb704ba1b"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó có ảnh chụp của một vật nào đó không, chúng ta sẽ dùng cấu trúc: <b>Do/Does + Chủ ngữ + have a photo of it?</b><br />\nTa có: <b>you </b><i>(bạn)</i> là chủ ngữ ngôi thứ hai nên trợ động từ đi kèm là <b>do</b>. Câu hoàn chỉnh là<span style=\"color:red\"><b> Do you have a photo of it?</b></span><i> (Cậu có ảnh của nó không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "615d636e-5be5-4a64-a185-555e38d8e684"
+          },
+          "dapAn": "Do you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5ee3e551-0dd4-40d2-8d3f-4114ad4d2dbf"
+          },
+          "dapAn": "have ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3637b505-6d5c-43ab-a5e9-ffcf599f836e"
+          },
+          "dapAn": "a photo",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "543722db-19e1-480f-9aeb-7e62088b5333"
+          },
+          "dapAn": "of it?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8618da23-d7dc-45f4-a580-0c0ebeb8ec37"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để cho ai đó xem ảnh của một vật nào đó, chúng ta sẽ dùng cấu trúc: <b>Here + Động từ to be + photos/a photo.</b><br />\nTa có: <b>a photo</b><i> (một tấm ảnh)</i> là danh từ số ít nên động từ <i>to be</i> đi kèm là <b>is</b>. Câu hoàn chỉnh là <span style=\"color:red\"><b>Here is a photo.</b></span> <i>(Ảnh đây.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fe32e413-5fc1-422e-a65a-aa4443c0c48a"
+          },
+          "dapAn": "Here",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dc450602-02e0-4031-ae10-266fc5daef6a"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "59e7c6b4-ad80-40c2-b76b-1eef91d47c75"
+          },
+          "dapAn": "a ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "69dc4d3d-71d6-43d2-be22-f8cff27186e3"
+          },
+          "dapAn": "photo.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "109eb81b-d746-442e-9e6c-09e8cb2e64c2"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để miêu tả vật nào đó, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ to be + Tính từ.</b><br />\r\nTa có:<b> The shopping center<i> </i></b><i>(Trung tâm mua sắm)</i> là chủ ngữ số ít nên động từ <i>to be</i> đi kèm là <b>is</b>, <b>big </b><i>(lớn)</i> là tính từ để miêu tả trung tâm mua sắm. Câu hoàn chỉnh là <span style=\"color:red\"><b>The shopping center is big.</b></span> <i>(Trung tâm mua sắm thật lớn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "01a4241d-ba83-4567-a8f1-1eab40c2f5f1"
+          },
+          "dapAn": "The",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "82fcc702-2561-4cc7-8124-d3065ff668b6"
+          },
+          "dapAn": "shopping",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5b9d8333-fa20-4bf5-a449-3d9b17f5d6c7"
+          },
+          "dapAn": "center",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "17790d35-e338-4c42-9ffd-9e19d8b913e5"
+          },
+          "dapAn": "is big.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e74708bf-1508-4910-8bb4-361d8912a55e"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó có làm việc mỗi ngày hay không, chúng ta sẽ dùng cấu trúc: <b>Do/Does + Chủ ngữ + work + every day?</b><br />\nTa có: <b>you </b><i>(bạn) </i>là chủ ngữ ngôi thứ hai nên trợ động từ đi kèm là <b>Do</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">Do you work every day?</span> </b><i>(Ngày nào cậu cũng đi làm à?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0ede36c2-0b33-4337-8364-0e4b23b3f774"
+          },
+          "dapAn": "Do you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b0b20a4e-d9e4-45d5-91be-34f2080da052"
+          },
+          "dapAn": "work",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4c83a42f-8437-4e42-955f-8e686b6c22df"
+          },
+          "dapAn": "every",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "457489c2-d06e-43a8-8430-63010b464559"
+          },
+          "dapAn": "day?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "41a9f387-1fbb-4250-87cc-81349c46b9d9"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả thời gian đi làm của ai đó, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + work/works + from + Ngày trong tuần + to + Ngày trong tuần.</b><br />\nTa có: <b>I </b><i>(Tôi)</i> là chủ ngữ ngôi thứ nhất nên động từ <b>work </b><i>(đi làm) </i>được chia ở dạng nguyên thể, các ngày trong tuần là <b>Tuesday<i> </i></b><i>(thứ Ba)</i> và <b>Saturday </b><i>(thứ Bảy)</i>. Câu hoàn chỉnh là<b><span style=\"color:red\"> I work from Tuesday to Saturday.</span></b> <i>(Tớ làm từ thứ Ba đến thứ Bảy.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "77856480-4bff-472a-a783-3fb88bc14d37"
+          },
+          "dapAn": "I work",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "68ec4abf-3dfe-4d09-8149-31e721b73743"
+          },
+          "dapAn": "from",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "17406b3d-ba65-4ca9-83e9-5be88e1508f0"
+          },
+          "dapAn": "Tuesday",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3971c987-85fe-4069-b052-9f5f1b6ad483"
+          },
+          "dapAn": "to Saturday.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "16469f32-8562-4f99-8d77-fb2391643e6e"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để miêu tả người nào đó, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ to be + Tính từ.</b><br />\nTa có: <b>You<i> </i></b><i>(Bạn) </i>là chủ ngữ ngôi thứ hai nên động từ <i>to be</i> theo sau là <b>is</b>, tính từ là <b>busy </b><i>(bận rộn)</i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>You are so busy.</b></span> <i>(Cậu bận thật đấy.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "52378c02-9dff-4a2b-ada4-fb224379e51c"
+          },
+          "dapAn": "You",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "59d51efd-2009-43f5-86bc-7e950333855a"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2d56b2a4-9e6d-4aef-bc7d-68645fbe2c78"
+          },
+          "dapAn": "so",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "81e04450-9e3e-4a20-a994-e9866a4df4de"
+          },
+          "dapAn": "busy.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7d39b0ee-6c9b-493d-bc5f-988926862ace"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi chung về người khác, chúng ta sẽ dùng cấu trúc: <b>How about + Chủ ngữ?</b><br />\r\nTa có câu hoàn chỉnh là <b><span style=\"color:red\">How about David?</span></b> <i>(Thế còn David thì sao?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3a926640-794f-4f18-a967-8445a4d8d2dd"
+          },
+          "dapAn": "How",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "73a77683-f4a4-4b3d-b2ef-5a786a1e4e40"
+          },
+          "dapAn": "about",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "aa8ccc29-df43-4fe5-bc61-73acd785a641"
+          },
+          "dapAn": "David?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2239e615-5616-4fca-a0ef-9ed91fe91abe"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi nghề nghiệp của ai đó, chúng ta sẽ dùng cấu trúc: <b>What + do/does + Chủ ngữ + do?</b><br />\nTa có: <b>he </b><i>(cậu ấy) </i>là chủ ngữ ngôi thứ ba số ít nên trợ động từ đi kèm sẽ là <b>does</b>. Câu hoàn chỉnh là <span style=\"color:red\"><b>What does he do?</b> </span><i>(Cậu ấy làm nghề gì?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e63a11f0-a070-433d-a356-a357c7c19d44"
+          },
+          "dapAn": "What",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d0ba487e-07c0-4cf6-bc96-c6a45c76c746"
+          },
+          "dapAn": "does",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "74414fbd-b331-4805-a7b9-b0e87d12ebc9"
+          },
+          "dapAn": "he",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f9e0147e-5f90-489e-a8c3-7517e8cf310f"
+          },
+          "dapAn": "do?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "67a84607-c6ee-4b0a-9dd8-939cde439acd"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả ai đó làm nghề gì, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ to be + a/an + nghề nghiệp.</b><br />\nTa có: <b>He </b><i>(Cậu ấy)</i> là chủ ngữ, <b>is </b>là động từ <i>to be</i>, tên nghề nghiệp là <b>teacher </b><i>(giáo viên)</i> đi kèm với mạo từ <b>a </b><i>(một)</i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>He is a teacher.</b></span><i> (Cậu ấy là một giáo viên.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6eb3ea6f-bd3e-421b-9b60-7870765cf88c"
+          },
+          "dapAn": "He ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5d949d5b-05ca-4b6a-8f5a-3fe5ea71fbd9"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "99eb0f2a-250e-445a-ae23-be9dad054f77"
+          },
+          "dapAn": "a",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "74532598-4612-4acc-97fb-4ed89b2535ba"
+          },
+          "dapAn": "teacher.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ea501909-e7b1-4b2b-8b22-a578e2cd8b8f"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó dạy môn học gì, chúng ta sẽ dùng cấu trúc: <b>What subject + do/does + Chủ ngữ + teach?</b><br />\nTa có: <b>he</b><i> (anh ấy)</i> là chủ ngữ ngôi thứ ba số ít, nên trợ động từ đi kèm là <b>does</b>. Câu hoàn chỉnh là <span style=\"color:red\"><b>What subject does he teach?<i> </i></b></span><i>(Anh ấy dạy môn nào vậy?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5e278283-bd04-4518-ad31-c2e3b063c531"
+          },
+          "dapAn": "What",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0ef28ea6-2a39-468c-b684-4af6a268cc11"
+          },
+          "dapAn": "subject",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e3890658-e5b9-4234-a87f-c3e3cd6ca556"
+          },
+          "dapAn": "does he",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4da9d657-ffbf-4cf9-9544-6d215488d777"
+          },
+          "dapAn": "teach?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "acae6b1f-4825-48d7-8ffe-927e2ad880a3"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả ai đó làm việc gì, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ + Tân ngữ.</b><br />\nTa có: <b>He </b><i>(Cậu ấy)</i> là chủ ngữ ngôi thứ ba số ít nên động từ <b>teach </b><i>(dạy học) </i>sẽ được chia là <b>teaches</b>, tân ngữ là <b>Maths </b><i>(môn Toán)</i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>He teaches Maths.</b></span> <i>(Cậu ấy dạy Toán.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "de0725e7-693b-4a5d-97b4-4befc7886259"
+          },
+          "dapAn": "He",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d5f98393-fb2a-42f3-9942-1442d92ab0e0"
+          },
+          "dapAn": "teaches",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ad85898c-a76a-41e8-b52a-13d58dfb4cec"
+          },
+          "dapAn": "Maths.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3034a68c-ad2f-490b-a712-80fcb84488c0"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để miêu tả người nào đó, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ to be + Tính từ.</b><br />\nTa có: <b>He </b><i>(Cậu ấy)</i> là chủ ngữ ngôi thứ ba số ít nên động từ <i>to be</i> theo sau là <b>is</b>, tính từ là <b>smart </b><i>(thông minh)</i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>He is so smart. </b></span>(<i>Cậu ấy thật thông minh.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f5959218-8d23-4f03-aa10-1685dd7453af"
+          },
+          "dapAn": "He",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "238aa748-95fb-4387-8267-e73540090740"
+          },
+          "dapAn": "is ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cf0386b1-1aad-435e-a794-546cc06cfb22"
+          },
+          "dapAn": "so",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6d26ece1-acd4-4aa2-bde8-fd9468560970"
+          },
+          "dapAn": "smart.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ee4daf0c-64a6-4a5b-9770-175b167c1f84"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả rằng ai đó có việc phải đi, chúng ta dùng cấu trúc: <b>Chủ ngữ + have/has + to go now.</b><br />\r\nTa có: <b>I </b><i>(Tôi)</i> là chủ ngữ ngôi thứ nhất nên động từ <b>have </b><i>(phải)</i> được chia ở dạng nguyên thể. Câu hoàn chỉnh là<b> <span style=\"color:red\"> I have to go now.</span></b> <i>(Tớ phải đi bây giờ đây.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "63890097-8ff8-443d-a73d-0ea60ea71012"
+          },
+          "dapAn": "I ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ff4c58ff-a5c3-404e-9483-bb72d9cb70b2"
+          },
+          "dapAn": "have to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ae19e108-a26a-4c5b-9585-15d987bd347c"
+          },
+          "dapAn": "go",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1db78217-693f-40c8-9d6d-ceba9dd57787"
+          },
+          "dapAn": "now.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4fc962bd-f00d-4ac5-8bfe-1fa07a479043"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để chào tạm biệt ai đó, chúng ta sẽ dùng cấu trúc: <b>See you later!</b><br />\r\nTa có câu hoàn chỉnh là <span style=\"color:red\"><b>See you later!</b></span> <i>(Gặp cậu sau!).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "638ac600-931a-4df3-8807-30c7168c6dcf"
+          },
+          "dapAn": "See",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d5142e74-1ec9-483c-82ef-08940cd9d646"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "569817b3-18bb-42b4-8c32-88c040c1ec4a"
+          },
+          "dapAn": "later!",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

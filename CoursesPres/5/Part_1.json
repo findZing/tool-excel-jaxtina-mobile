@@ -1,0 +1,695 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "VOCABULARY",
+  "videoUrl": "4SKILLS_PRE_S_L5/vocabulary.mp4",
+  "newWords": [
+    {
+      "word": "backpack",
+      "loaiTu": "n",
+      "phatAm": "/ˈbækpæk/",
+      "meaning": "ba lô",
+      "viDu": "The backpack is beautiful. \n(Chiếc ba lô xinh xắn.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/89.backpack.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/89.backpack.png"
+    },
+    {
+      "word": "bicycle",
+      "loaiTu": "n",
+      "phatAm": "/ˈbaɪsɪkl/",
+      "meaning": "xe đạp",
+      "viDu": "This bicycle is old.\n(Chiếc xe đạp này cũ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/90.bicycle.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/90.bicycle.png"
+    },
+    {
+      "word": "camera",
+      "loaiTu": "n",
+      "phatAm": "/ˈkæmrə/",
+      "meaning": "máy ảnh",
+      "viDu": "This camera is small.\n(Chiếc máy ảnh này nhỏ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/91.camera.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/91.camera.png"
+    },
+    {
+      "word": "chair",
+      "loaiTu": "n",
+      "phatAm": "/tʃeər/",
+      "meaning": "ghế",
+      "viDu": "This chair is short.\n(Cái ghế này thấp.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/92.chair.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/92.chair.png"
+    },
+    {
+      "word": "DVD",
+      "loaiTu": "n",
+      "phatAm": "/ˌdiː viː ˈdiː/",
+      "meaning": "đĩa DVD",
+      "viDu": "I watch DVDs sometimes.\n(Thỉnh thoảng tôi xem đĩa DVD.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/93.dvd.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/93.dvd.png"
+    },
+    {
+      "word": "desk",
+      "loaiTu": "n",
+      "phatAm": "/desk/",
+      "meaning": "bàn làm việc, bàn học",
+      "viDu": "The desk is ugly.\n(Chiếc bàn làm việc này xấu.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/94.desk.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/94.desk.png"
+    },
+    {
+      "word": "e-reader",
+      "loaiTu": "n",
+      "phatAm": "/ˈiː riːdər/",
+      "meaning": "máy đọc sách",
+      "viDu": "I have an e-reader.\n(Tôi có một cái máy đọc sách.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/95.e-reader.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/95.e-reader.png"
+    },
+    {
+      "word": "key",
+      "loaiTu": "n",
+      "phatAm": "/kiː/",
+      "meaning": "chìa khóa",
+      "viDu": "This is my key.\n(Đây là chìa khoá của tôi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/96.key.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/96.key.png"
+    },
+    {
+      "word": "beautiful",
+      "loaiTu": "adj",
+      "phatAm": "/ˈbjuːtɪfl/",
+      "meaning": "đẹp",
+      "viDu": "The backpack is beautiful. \n(Chiếc ba lô này đẹp.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/97.beautiful.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/97.beautiful.png"
+    },
+    {
+      "word": "big",
+      "loaiTu": "adj",
+      "phatAm": "/bɪɡ/",
+      "meaning": "to lớn",
+      "viDu": "This shirt is big.\n(Chiếc áo này to.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/98.big.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/98.big.png"
+    },
+    {
+      "word": "modern",
+      "loaiTu": "adj",
+      "phatAm": "/ˈmɒdn/",
+      "meaning": "hiện đại",
+      "viDu": "Her phone is modern.\n(Điện thoại của cô ấy hiện đại.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/99.modern.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/99.modern.png"
+    },
+    {
+      "word": "noisy",
+      "loaiTu": "adj",
+      "phatAm": "/ˈnɔɪzi/",
+      "meaning": "ồn ào",
+      "viDu": "I can't study in a noisy place.\n(Tôi không thể học ở một nơi ồn ào.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/100.noisy.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/100.noisy.png"
+    },
+    {
+      "word": "quiet",
+      "loaiTu": "adj",
+      "phatAm": "/ˈkwaɪət/",
+      "meaning": "yên tĩnh",
+      "viDu": "I study better in a quiet place.\n(Tôi học tốt hơn ở một nơi yên tĩnh.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/102.quiet.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/102.quiet.png"
+    },
+    {
+      "word": "small",
+      "loaiTu": "adj",
+      "phatAm": "/smɔːl/",
+      "meaning": "nhỏ",
+      "viDu": "That shirt is small.\n(Chiếc áo kia nhỏ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/103.small.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/103.small.png"
+    },
+    {
+      "word": "ugly",
+      "loaiTu": "adj",
+      "phatAm": "/ˈʌɡli/",
+      "meaning": "xấu",
+      "viDu": "The desk is ugly.\n(Chiếc bàn làm việc này xấu.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/104.ugly.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/104.ugly.png"
+    }
+  ],
+  "scriptVideo": [
+    {
+      "start": "0:00:51",
+      "end": "0:01:05",
+      "english": "backpack",
+      "subScriptEnglish": " _backpack_ ",
+      "matchedNewWords": [
+        "backpack"
+      ],
+      "vietnamese": "ba lô"
+    },
+    {
+      "start": "0:01:11",
+      "end": "0:01:21",
+      "english": "bicycle",
+      "subScriptEnglish": " _bicycle_ ",
+      "matchedNewWords": [
+        "bicycle"
+      ],
+      "vietnamese": "xe đạp"
+    },
+    {
+      "start": "0:01:27",
+      "end": "0:01:38",
+      "english": "camera",
+      "subScriptEnglish": " _camera_ ",
+      "matchedNewWords": [
+        "camera"
+      ],
+      "vietnamese": "máy ảnh"
+    },
+    {
+      "start": "0:01:42",
+      "end": "0:01:59",
+      "english": "chair",
+      "subScriptEnglish": " _chair_ ",
+      "matchedNewWords": [
+        "chair"
+      ],
+      "vietnamese": "ghế"
+    },
+    {
+      "start": "0:02:04",
+      "end": "0:02:16",
+      "english": "desk",
+      "subScriptEnglish": " _desk_ ",
+      "matchedNewWords": [
+        "desk"
+      ],
+      "vietnamese": "bàn làm việc, bàn học"
+    },
+    {
+      "start": "0:02:22",
+      "end": "0:02:37",
+      "english": "DVD",
+      "subScriptEnglish": " _DVD_ ",
+      "matchedNewWords": [
+        "DVD"
+      ],
+      "vietnamese": "đĩa DVD"
+    },
+    {
+      "start": "0:02:44",
+      "end": "0:02:56",
+      "english": "e-reader",
+      "subScriptEnglish": " _e-reader_ ",
+      "matchedNewWords": [
+        "e-reader"
+      ],
+      "vietnamese": "máy đọc sách"
+    },
+    {
+      "start": "0:03:04",
+      "end": "0:03:11",
+      "english": "key",
+      "subScriptEnglish": " _key_ ",
+      "matchedNewWords": [
+        "key"
+      ],
+      "vietnamese": "chìa khóa"
+    },
+    {
+      "start": "0:03:31",
+      "end": "0:03:33",
+      "english": "beautiful",
+      "subScriptEnglish": " _beautiful_ ",
+      "matchedNewWords": [
+        "beautiful"
+      ],
+      "vietnamese": "đẹp"
+    },
+    {
+      "start": "0:03:38",
+      "end": "0:03:40",
+      "english": "ugly",
+      "subScriptEnglish": " _ugly_ ",
+      "matchedNewWords": [
+        "ugly"
+      ],
+      "vietnamese": "xấu xí"
+    },
+    {
+      "start": "0:03:42",
+      "end": "0:03:47",
+      "english": "beautiful",
+      "subScriptEnglish": " _beautiful_ ",
+      "matchedNewWords": [
+        "beautiful"
+      ],
+      "vietnamese": "đẹp"
+    },
+    {
+      "start": "0:03:48",
+      "end": "0:03:53",
+      "english": "ugly",
+      "subScriptEnglish": " _ugly_ ",
+      "matchedNewWords": [
+        "ugly"
+      ],
+      "vietnamese": "xấu xí"
+    },
+    {
+      "start": "0:04:01",
+      "end": "0:04:21",
+      "english": "The backpack is beautiful and the desk is ugly.",
+      "subScriptEnglish": "The  _backpack__ is  _beautiful__ and the  _desk__ is  _ugly._ ",
+      "matchedNewWords": [
+        "beautiful",
+        "backpack",
+        "desk",
+        "ugly"
+      ],
+      "vietnamese": "Chiếc ba lô xinh xắn và chiếc bàn xấu xí."
+    },
+    {
+      "start": "0:04:30",
+      "end": "0:04:35",
+      "english": "big",
+      "subScriptEnglish": " _big_ ",
+      "matchedNewWords": [
+        "big"
+      ],
+      "vietnamese": "to, lớn"
+    },
+    {
+      "start": "0:04:37",
+      "end": "0:04:39",
+      "english": "small",
+      "subScriptEnglish": " _small_ ",
+      "matchedNewWords": [
+        "small"
+      ],
+      "vietnamese": "nhỏ, bé"
+    },
+    {
+      "start": "0:04:44",
+      "end": "0:04:48",
+      "english": "big",
+      "subScriptEnglish": " _big_ ",
+      "matchedNewWords": [
+        "big"
+      ],
+      "vietnamese": "to, lớn"
+    },
+    {
+      "start": "0:04:48",
+      "end": "0:04:54",
+      "english": "small",
+      "subScriptEnglish": " _small_ ",
+      "matchedNewWords": [
+        "small"
+      ],
+      "vietnamese": "nhỏ, bé"
+    },
+    {
+      "start": "0:05:01",
+      "end": "0:05:11",
+      "english": "This shirt is big and that shirt is small.",
+      "subScriptEnglish": "This  _shirt__ is  _big__ and that  _shirt__ is  _small._ ",
+      "matchedNewWords": [
+        "small",
+        "shirt",
+        "big"
+      ],
+      "vietnamese": "Chiếc áo này to và chiếc áo kia nhỏ."
+    },
+    {
+      "start": "0:05:20",
+      "end": "0:05:23",
+      "english": "modern",
+      "subScriptEnglish": " _modern_ ",
+      "matchedNewWords": [
+        "modern"
+      ],
+      "vietnamese": "hiện đại"
+    },
+    {
+      "start": "0:05:23",
+      "end": "0:05:27",
+      "english": "old",
+      "subScriptEnglish": " _old_ ",
+      "matchedNewWords": [
+        "old"
+      ],
+      "vietnamese": "cũ, cổ xưa"
+    },
+    {
+      "start": "0:05:29",
+      "end": "0:05:35",
+      "english": "modern",
+      "subScriptEnglish": " _modern_ ",
+      "matchedNewWords": [
+        "modern"
+      ],
+      "vietnamese": "hiện đại"
+    },
+    {
+      "start": "0:05:36",
+      "end": "0:05:40",
+      "english": "old",
+      "subScriptEnglish": " _old_ ",
+      "matchedNewWords": [
+        "old"
+      ],
+      "vietnamese": "cũ, cổ xưa"
+    },
+    {
+      "start": "0:05:54",
+      "end": "0:06:05",
+      "english": "Her phone is modern and my phone is old.",
+      "subScriptEnglish": "Her  _phone__ is  _modern__ and my  _phone__ is  _old._ ",
+      "matchedNewWords": [
+        "modern",
+        "phone",
+        "old"
+      ],
+      "vietnamese": "Điện thoại của cô ấy hiện đại và điện thoại của tôi thì cũ kỹ."
+    },
+    {
+      "start": "0:06:19",
+      "end": "0:06:25",
+      "english": "noisy",
+      "subScriptEnglish": " _noisy_ ",
+      "matchedNewWords": [
+        "noisy"
+      ],
+      "vietnamese": "ồn ào"
+    },
+    {
+      "start": "0:06:27",
+      "end": "0:06:31",
+      "english": "quiet",
+      "subScriptEnglish": " _quiet_ ",
+      "matchedNewWords": [
+        "quiet"
+      ],
+      "vietnamese": "yên tĩnh"
+    },
+    {
+      "start": "0:06:33",
+      "end": "0:06:39",
+      "english": "noisy",
+      "subScriptEnglish": " _noisy_ ",
+      "matchedNewWords": [
+        "noisy"
+      ],
+      "vietnamese": "ồn ào"
+    },
+    {
+      "start": "0:06:39",
+      "end": "0:06:44",
+      "english": "quiet",
+      "subScriptEnglish": " _quiet_ ",
+      "matchedNewWords": [
+        "quiet"
+      ],
+      "vietnamese": "yên tĩnh"
+    },
+    {
+      "start": "0:06:46",
+      "end": "0:07:18",
+      "english": "I can't study in a noisy place; I study better in a quiet one.",
+      "subScriptEnglish": "I can't  _study__  _in__ a  _noisy__ place; I  _study__ better  _in__ a  _quiet__  _one._ ",
+      "matchedNewWords": [
+        "quiet",
+        "study",
+        "noisy",
+        "one",
+        "in"
+      ],
+      "vietnamese": "Tôi không thể học ở một nơi ồn ào và tôi học tốt hơn ở một nơi yên tĩnh."
+    }
+  ],
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:03:17.247",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Camera",
+            "_id": {
+              "$oid": "3fd560c5-2d70-49e7-90cf-87f7601eb997"
+            },
+            "yNghia": "Máy ảnh"
+          },
+          {
+            "cauHoi": "E-reader",
+            "_id": {
+              "$oid": "8a4f8c32-19f9-4236-8881-ee32baa1a02b"
+            },
+            "yNghia": "Máy đọc sách"
+          },
+          {
+            "cauHoi": "Desk",
+            "_id": {
+              "$oid": "2594fdba-af2f-4eda-8701-978a8060eb0e"
+            },
+            "yNghia": "Bàn làm việc, bàn học"
+          },
+          {
+            "cauHoi": "DVD",
+            "_id": {
+              "$oid": "203f0370-bc5b-4b7d-ac39-cb8425d47fb9"
+            },
+            "yNghia": "Đĩa DVD"
+          },
+          {
+            "cauHoi": "Backpack",
+            "_id": {
+              "$oid": "5169d0a8-3f5c-47e1-81f1-fea7a4da50fb"
+            },
+            "yNghia": "Ba lô"
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:03:17.247",
+      "timeEnd": "0:07:29.862",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "b2d5b47d-ad42-4977-903a-113cd65125d9",
+                "dapAn": "b"
+              },
+              {
+                "_id": "3c32a2a5-c846-42e8-8158-38b12e951d2e",
+                "dapAn": "e"
+              },
+              {
+                "_id": "86cf64bf-de88-4341-bb78-2bf629d7e82d",
+                "dapAn": "a"
+              },
+              {
+                "_id": "2aaf2c53-4086-4062-8e40-528289c1dbef",
+                "dapAn": "u"
+              },
+              {
+                "_id": "766b32cc-d8db-48f9-a67e-9c3d902826f6",
+                "dapAn": "t"
+              },
+              {
+                "_id": "20231df1-ede9-4f04-b68c-1b0624877f7a",
+                "dapAn": "i"
+              },
+              {
+                "_id": "c0776f9e-0e46-469e-8a1b-f42a13be907a",
+                "dapAn": "f"
+              },
+              {
+                "_id": "d378bfc0-eaf7-435e-be1f-9a923ef9334a",
+                "dapAn": "u"
+              },
+              {
+                "_id": "27d47951-d459-444a-8f01-ced47fca8020",
+                "dapAn": "l"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "e6c3d9f0-791c-4610-a8e8-08750578e056",
+                "dapAn": "b"
+              },
+              {
+                "_id": "36cc2aab-b30e-49c3-bfb3-391cc2d27ee4",
+                "dapAn": "i"
+              },
+              {
+                "_id": "91129ed9-7903-48ff-b323-10798eca066f",
+                "dapAn": "g"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "7a49e479-1e7d-446d-b085-7686d0099b05",
+                "dapAn": "m"
+              },
+              {
+                "_id": "ad041008-6b90-455d-af8b-b15aecef9dad",
+                "dapAn": "o"
+              },
+              {
+                "_id": "3427bd34-32f0-4333-9d29-c9d6fe355f6f",
+                "dapAn": "d"
+              },
+              {
+                "_id": "5c7b74b8-462e-4a9a-994f-e85f2f91eb9e",
+                "dapAn": "e"
+              },
+              {
+                "_id": "ba3a932e-a4bd-4a9d-90da-5875caa5c4f2",
+                "dapAn": "r"
+              },
+              {
+                "_id": "a82a89bd-c46b-45b5-a635-260b4ec6f27a",
+                "dapAn": "n"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "501528aa-8ad8-4a73-a7ae-7e51d66b0829",
+                "dapAn": "n"
+              },
+              {
+                "_id": "12d451e4-e05e-419c-b150-1e552e47d229",
+                "dapAn": "o"
+              },
+              {
+                "_id": "b757bb44-41a4-43f5-91ac-e212089bbcef",
+                "dapAn": "i"
+              },
+              {
+                "_id": "cbdf1235-4ea8-4655-9e02-a58224028324",
+                "dapAn": "s"
+              },
+              {
+                "_id": "835f05fc-5229-4e85-9231-f369c4f1ea86",
+                "dapAn": "y"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "d21261d0-c7a9-4380-a22d-1a0542be9805",
+                "dapAn": "o"
+              },
+              {
+                "_id": "badf9434-28b7-400a-8682-6825cb9729c8",
+                "dapAn": "l"
+              },
+              {
+                "_id": "58b203f3-f718-44aa-9786-7dafa10e3cc2",
+                "dapAn": "d"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "9e010920-5d97-4ff1-b3a9-99e3a65d564b",
+                "dapAn": "q"
+              },
+              {
+                "_id": "761d3f4c-dad0-433c-b3f2-ea0f05051ae4",
+                "dapAn": "u"
+              },
+              {
+                "_id": "68b9f6fb-c4ab-4226-82b0-466cf4a99448",
+                "dapAn": "i"
+              },
+              {
+                "_id": "e78e502b-6342-40e7-bc1e-664f125cec15",
+                "dapAn": "e"
+              },
+              {
+                "_id": "73a4f944-be0e-475a-a42c-655641580711",
+                "dapAn": "t"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "f3c1c417-2a74-4f9f-9170-438434a8b02e",
+                "dapAn": "s"
+              },
+              {
+                "_id": "da40222b-50e5-4aa3-978b-4d75b63dded4",
+                "dapAn": "m"
+              },
+              {
+                "_id": "4c80cbdd-587b-4342-b0a2-798e24164a9c",
+                "dapAn": "a"
+              },
+              {
+                "_id": "ef919fa2-c6de-4e3b-8011-3d07765d249e",
+                "dapAn": "l"
+              },
+              {
+                "_id": "bcd61044-d29d-4c03-b629-288bb8f95bd5",
+                "dapAn": "l"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "b03773b2-3a73-4b68-93ba-2dab939c6334",
+                "dapAn": "u"
+              },
+              {
+                "_id": "dec56cb8-2669-4cd9-a5a9-d25b0db81047",
+                "dapAn": "g"
+              },
+              {
+                "_id": "a14bcb22-bc5a-4032-9d6e-94aeeb60dd85",
+                "dapAn": "l"
+              },
+              {
+                "_id": "45fbd916-8682-4c0b-a7db-ee00070e1dd0",
+                "dapAn": "y"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

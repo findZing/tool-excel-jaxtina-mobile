@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_TC_L18/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_TC_L18/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "da86b455-df2c-4708-9bcf-620cb2ff980c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Lily",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "12a8db6d-7f86-4e6a-9bba-9772f0e40e89"
+          },
+          "dapAn": "Hello everyone. Today I - Lily and Aiden will talk about the future of our homes.",
+          "phienAm": "/həˈləʊ ˈevrɪwʌn/. /təˈdeɪ aɪ - ˈlɪli ænd eɪdn wɪl tɔːk əˈbaʊt ðə ˈfjuːʧər ɒv ˈaʊər həʊmz/",
+          "yNghia": "\nXin chào mọi người. Hôm nay tôi - Lily và Aiden sẽ nói về tương lai của ngôi nhà của chúng ta.",
+          "normal": {
+            "start": "00:00:01.693",
+            "end": "00:00:10.272"
+          },
+          "slow": {
+            "start": "00:00:00.389",
+            "end": "00:00:12.174"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "35669b86-cef5-44dc-9512-7251e1afd163"
+          },
+          "dapAn": "The appliances in our houses, such as air conditioners and heaters, use a lot of energy. What is the solution?",
+          "phienAm": "/ði: əˈplaɪənsɪz ɪn ˈaʊər ˈhaʊzɪz sʌʧ æz eər kənˈdɪʃənərz ænd ˈhiːtərz juːz eɪ lɒt ɒv ˈenəʤi/. /wɒt ɪz ðə səˈluːʃn/",
+          "yNghia": "\nCác thiết bị trong nhà của chúng ta, chẳng hạn như máy điều hòa và máy sưởi, sử dụng rất nhiều năng lượng. Vậy giải pháp là gì?",
+          "normal": {
+            "start": "00:00:17.159",
+            "end": "00:00:26.438"
+          },
+          "slow": {
+            "start": "00:00:20.615",
+            "end": "00:00:35.590"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8a5b1161-66c1-4aec-a0dd-8f3b364f04e8"
+          },
+          "dapAn": "I agree. Here’s a diagram explaining how solar power works.",
+          "phienAm": "/aɪ əˈgriː/. /hɪəz eɪ ˈdaɪəgræm ɪksˈpleɪnɪŋ haʊ ˈsəʊlər ˈpaʊər wɜːks/",
+          "yNghia": "\nTôi đồng ý. Đây là sơ đồ giải thích cách thức hoạt động của năng lượng mặt trời.",
+          "normal": {
+            "start": "00:00:36.418",
+            "end": "00:00:42.138"
+          },
+          "slow": {
+            "start": "00:00:47.453",
+            "end": "00:00:55.465"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ce38b7a8-44a7-4bfd-8c14-ed79cdd7a576"
+          },
+          "dapAn": "Aiden, can you tell us how we can get the electricity?",
+          "phienAm": "/ˈeɪdn kæn juː tel ʌs haʊ wiː kæn get ði: ɪˌlekˈtrɪsəti/",
+          "yNghia": "\nAiden, bạn có thể cho chúng tôi biết làm thế nào chúng ta có thể có điện được không?",
+          "normal": {
+            "start": "00:00:50.425",
+            "end": "00:00:54.219"
+          },
+          "slow": {
+            "start": "00:01:05.928",
+            "end": "00:01:12.774"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fe3a28e8-ba25-4d68-b6e9-371e731b1446"
+          },
+          "dapAn": "But we are using AC or alternating current, not DC.",
+          "phienAm": "/bʌt wiː ɑːr ˈjuːzɪŋ eɪ-siː ɔːr ˈɔːltəneɪtɪŋ ˈkʌrənt nɒt diː-siː/",
+          "yNghia": "\nNhưng chúng ta đang sử dụng AC hay dòng điện xoay chiều chứ không phải DC.",
+          "normal": {
+            "start": "00:01:06.096",
+            "end": "00:01:11.669"
+          },
+          "slow": {
+            "start": "00:01:27.476",
+            "end": "00:01:34.789"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "456be6b1-2f2f-47ba-bea4-aba7fd4a71f7"
+          },
+          "dapAn": "It then sends the electricity to the appliances such as the kitchen stove, the dishwasher, and washing machine.",
+          "phienAm": "/ɪt ðen sendz ði ɪlekˈtrɪsəti tuː ði əˈplaɪənsɪz sʌʧ æz ðə ˈkɪʧɪn stəʊv ðə ˈdɪʃwɒʃər ænd ˈwɒʃɪŋ məˈʃiːn/",
+          "yNghia": "\nSau đó, nó truyền điện đến các thiết bị như bếp lò, máy rửa chén và máy giặt.",
+          "normal": {
+            "start": "00:01:21.999",
+            "end": "00:01:29.411"
+          },
+          "slow": {
+            "start": "00:01:47.391",
+            "end": "00:01:59.721"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e2e9f1b8-974c-4603-a422-c51bc8e54e22"
+          },
+          "dapAn": "That’s right. That way, other houses can use the electricity.",
+          "phienAm": "/ðæts raɪt/. /ðæt weɪ ˈʌðər ˈhaʊzɪz kæn juːz ði: ɪˌlekˈtrɪsəti/",
+          "yNghia": "\nĐúng vậy. Bằng cách đó, những ngôi nhà khác có thể sử dụng điện.",
+          "normal": {
+            "start": "00:01:40.880",
+            "end": "00:01:45.607"
+          },
+          "slow": {
+            "start": "00:02:13.918",
+            "end": "00:02:20.725"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1da37222-609b-4f1a-8a97-da470d1553ad"
+          },
+          "dapAn": "Ah, the grid provides the house with power.",
+          "phienAm": "/ɑː ðə grɪd prəˈvaɪdz ðə haʊs wɪð ˈpaʊər/",
+          "yNghia": "\nÀ, lưới điện sẽ cung cấp điện cho ngôi nhà.",
+          "normal": {
+            "start": "00:01:50.422",
+            "end": "00:01:54.303"
+          },
+          "slow": {
+            "start": "00:02:26.365",
+            "end": "00:02:31.927"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "dff5075f-1238-432d-b107-877d308fbdcd"
+          },
+          "dapAn": "We could also see solar clothes or solar sunglasses.",
+          "phienAm": "/wiː kʊd ˈɔːlsəʊ siː ˈsəʊlər kləʊðz ɔːr ˈsəʊlər ˈsʌnˌglɑːsɪz/",
+          "yNghia": "\nChúng ta cũng có thể thấy quần áo năng lượng mặt trời hoặc kính râm năng lượng mặt trời.",
+          "normal": {
+            "start": "00:02:02.007",
+            "end": "00:02:06.501"
+          },
+          "slow": {
+            "start": "00:02:41.612",
+            "end": "00:02:49.002"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1520225b-60f4-48c0-b4d6-f9de64e70a9e"
+          },
+          "dapAn": "How useful they are!",
+          "phienAm": "/haʊ ˈjuːsfl ðeɪ ɑːr/",
+          "yNghia": "\nChúng thật hữu ích làm sao!",
+          "normal": {
+            "start": "00:02:13.680",
+            "end": "00:02:15.343"
+          },
+          "slow": {
+            "start": "00:02:57.792",
+            "end": "00:03:00.243"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0b14b5e7-1c5c-4c68-931f-06647dce7c59"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Aiden",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2d580850-806e-477f-8e55-c6b1408d2778"
+          },
+          "dapAn": "Thanks, Lily. I’m Aiden. We’d like to focus on energy.",
+          "phienAm": "/θæŋks ˈlɪli/. /aɪm eɪdn/. /wiːd laɪk tuː ˈfəʊkəs ɒn ˈenəʤi/",
+          "yNghia": "\nCảm ơn, Lily. Tôi là Aiden. Chúng tôi muốn tập trung vào nội dung về năng lượng.",
+          "normal": {
+            "start": "00:00:011.322",
+            "end": "00:00:16.283"
+          },
+          "slow": {
+            "start": "00:00:13.186",
+            "end": "00:00:19.331"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "95d060e6-80b0-4f84-a079-c40ffdcaf586"
+          },
+          "dapAn": "In the future, we are going to be using renewable energy such as wind power, wave power and solar power.",
+          "phienAm": "/ɪn ðə ˈfjuːʧər wiː ɑːr ˈgəʊɪŋ tuː biː ˈjuːzɪŋ rɪˈnjuːəbl ˈenəʤi sʌʧ æz wɪnd ˈpaʊər weɪv ˈpaʊər ænd ˈsəʊlər ˈpaʊər/",
+          "yNghia": "\nTrong tương lai, chúng ta sẽ sử dụng năng lượng có thể tái tạo được như năng lượng gió, năng lượng sóng và năng lượng mặt trời.",
+          "normal": {
+            "start": "00:00:27.197",
+            "end": "00:00:35.251"
+          },
+          "slow": {
+            "start": "00:00:36.484",
+            "end": "00:00:46.403"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c237a6e3-5ad5-4559-8a07-e61437702d3b"
+          },
+          "dapAn": "On the roof of the house, we have solar panels. These receive sunlight on sunny days.",
+          "phienAm": "/ɒn ðə ruːf ɒv ðə haʊs wiː hæv ˈsəʊlər ˈpænlz/. /ðiːz rɪˈsiːv ˈsʌnlaɪt ɒn ˈsʌni deɪz/",
+          "yNghia": "\nTrên mái nhà, chúng tôi có các tấm quang năng. Chúng nhận được ánh sáng mặt trời vào những ngày nắng.",
+          "normal": {
+            "start": "00:00:43.130",
+            "end": "00:00:49.725"
+          },
+          "slow": {
+            "start": "00:00:56.788",
+            "end": "00:01:05.189"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3e3b207c-ce8d-4e1e-aea1-ed6b2072d841"
+          },
+          "dapAn": "The light falls on special materials, which create electricity. This electricity is direct current, or DC.",
+          "phienAm": "/ðə laɪt fɔːlz ɒn ˈspeʃl məˈtɪərɪəlz wɪʧ kriːˈeɪt ɪˌlekˈtrɪsəti/. /ðɪs ɪˌlekˈtrɪsəti ɪz dɪˈrekt ˈkʌrənt ɔːr diː-siː/",
+          "yNghia": "\nÁnh sáng chiếu vào những vật liệu đặc biệt, những vật liệu mà tạo ra điện. Điện này là dòng điện một chiều, hay DC.",
+          "normal": {
+            "start": "00:00:55.620",
+            "end": "00:01:04.724"
+          },
+          "slow": {
+            "start": "00:01:14.291",
+            "end": "00:01:25.882"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b00a61b2-f4fd-42de-a983-efe0a3d58d11"
+          },
+          "dapAn": "This electricity goes to the inverter from the solar panels, which changes the DC into AC.",
+          "phienAm": "/ðɪs ɪˌlekˈtrɪsəti gəʊz tuː ði: ɪnˈvɜːtər frɒm ðə ˈsəʊlər ˈpænlz wɪʧ ˈʧeɪnʤɪz ðə diː-siː ˈɪntuː eɪ-siː/",
+          "yNghia": "\nĐiện này đi đến bộ biến tần từ các tấm quang năng, biến đổi DC thành AC.",
+          "normal": {
+            "start": "00:01:12.720",
+            "end": "00:01:20.715"
+          },
+          "slow": {
+            "start": "00:01:36.189",
+            "end": "00:01:45.641"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "bffca127-0252-483d-a748-f4cbb5ef7214"
+          },
+          "dapAn": "Exactly. Sometimes, the system creates a lot of energy and the electrical grid takes the power that the house doesn’t need.",
+          "phienAm": "/ɪgˈzæktli/. /ˈsʌmtaɪmz ðə ˈsɪstəm kriˈeɪts eɪ lɒt ɒv ˈenəʤi ænd ði: ɪˈlektrɪkl grɪd teɪks ðə ˈpaʊər ðæt ðə haʊs ˈdʌznt niːd/",
+          "yNghia": "\nChính xác. Đôi khi, hệ thống tạo ra rất nhiều năng lượng và lưới điện lấy năng lượng mà ngôi nhà không cần.",
+          "normal": {
+            "start": "00:01:30.637",
+            "end": "00:01:39.771"
+          },
+          "slow": {
+            "start": "00:02:00.849",
+            "end": "00:02:12.907"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f3edf98f-1f82-4553-8119-dba87ec7f39b"
+          },
+          "dapAn": "How about on days when there is no sun?",
+          "phienAm": "/haʊ əˈbaʊt ɒn deɪz wen ðeər ɪz nəʊ sʌn/",
+          "yNghia": "\nCòn những ngày không có nắng thì sao?",
+          "normal": {
+            "start": "00:01:46.716",
+            "end": "00:01:49.284"
+          },
+          "slow": {
+            "start": "00:02:22.203",
+            "end": "00:02:25.664"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "cec6f1b0-304c-4872-ae3a-f768feda848c"
+          },
+          "dapAn": "So convenient! In the future, we might see solar windows on buildings.",
+          "phienAm": "/səʊ kənˈviːniənt ɪn ðə ˈfjuːʧər wiː maɪt siː ˈsəʊlər ˈwɪndəʊz ɒn ˈbɪldɪŋz/",
+          "yNghia": "\nThật tiện lợi! Trong tương lai, chúng ta có thể thấy cửa sổ năng lượng mặt trời trên các tòa nhà.",
+          "normal": {
+            "start": "00:01:55.616",
+            "end": "00:02:01.132"
+          },
+          "slow": {
+            "start": "00:02:33.132",
+            "end": "00:02:40.523"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8e1c8e67-108d-4c45-8de9-25f5e01673b1"
+          },
+          "dapAn": "They work like solar panels, creating energy to power your devices.",
+          "phienAm": "/ðeɪ wɜːk laɪk ˈsəʊlər ˈpænlz kriˈeɪtɪŋ ˈenəʤi tuː ˈpaʊər jɔːr dɪˈvaɪsɪz/",
+          "yNghia": "\nChúng hoạt động giống như các tấm quang năng, tạo ra năng lượng để cung cấp năng lượng cho các thiết bị của bạn.",
+          "normal": {
+            "start": "00:02:07.376",
+            "end": "00:02:12.600"
+          },
+          "slow": {
+            "start": "00:02:49.974",
+            "end": "00:02:56.859"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d852c31b-982f-4272-b355-7f23df256b06"
+          },
+          "dapAn": "Sure! We can’t use energy from fossil fuels forever.",
+          "phienAm": "/ʃʊər/. /wiː kɑːnt juːz ˈenəʤi frɒm ˈfɒsl ˈfjuːəl fəˈrevər/",
+          "yNghia": "\nChắc chắn rồi! Chúng ta không thể sử dụng năng lượng từ nhiên liệu hóa thạch mãi được.",
+          "normal": {
+            "start": "00:02:16.189",
+            "end": "00:02:20.041"
+          },
+          "slow": {
+            "start": "00:03:01.176",
+            "end": "00:03:06.388"
+          }
+        }
+      ]
+    }
+  ]
+}

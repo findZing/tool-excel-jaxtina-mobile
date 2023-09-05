@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "0fedd416-0300-460e-a3ef-d0d666e19f28"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Good morning, everyone. My name’s Nancy Rubin. I’m a __________ advisor, and today I’m here to help you look at your options.",
+      "yNghia": "Good morning, everyone. My name's Nancy Rubin. I'm a <span style=\"color:red\">career </span>advisor, and today I'm here to help you look at your options.<br />\n<i>Chào buổi sáng mọi người. Tên tôi là Nancy Rubin. Tôi là cố vấn <span style=\"color:red\">nghề nghiệp </span>và hôm nay tôi ở đây để giúp bạn xem xét các lựa chọn của mình.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4a951e19-2a3c-46b6-9806-7210f6a6ea77"
+          },
+          "dapAn": "career",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7bafd56d-eb7e-4e62-a4f9-6230d879156a"
+          },
+          "dapAn": "financial",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9bac53d8-a95c-4e87-a18f-8ba00c8475b7"
+          },
+          "dapAn": "technical",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_1. Good ... options.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_1. Good ... options.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "adf55def-43f0-47f0-a2a7-abc73948b2a6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Hi, Ms. Rubin. I’m Jack. Could you talk more about a career with __________?",
+      "yNghia": "Hi, Ms. Rubin. I'm Jack. Could you talk more about a career with <span style=\"color:red\">animals</span>?<br />\n<i>Chào cô Rubin. Tôi là Jack. Bạn có thể nói thêm về công việc liên quan đến <span style=\"color:red\">các loài động vật </span>được không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "47c6de25-c0f4-4321-9597-fd031e18684c"
+          },
+          "dapAn": "finance",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "44223f2b-fc18-43fa-bd14-92a5b786a733"
+          },
+          "dapAn": "animals",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d19f1c88-d316-4fc2-beaf-40226e36d66e"
+          },
+          "dapAn": "marketing",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_2. Hi ... animals.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_2. Hi ... animals.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "32f2f93f-5208-4def-bcf5-d86bb65a09af"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Alright, Jack. Are you familiar with some professions, such as ______________ and veterinarians?",
+      "yNghia": "Alright, Jack. Are you familiar with some professions, such as <span style=\"color:red\">zookeepers </span>and veterinarians?<br />\n<i>Được rồi, Jack. Bạn có quen thuộc với một số nghề, chẳng hạn như <span style=\"color:red\">người trông coi vườn thú </span>và bác sĩ thú y không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bf016f77-9408-4b20-8b01-def22e4d35fe"
+          },
+          "dapAn": "zoologist",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b3b212b1-c4ee-4dd8-b36a-b00d4365e7f6"
+          },
+          "dapAn": "dog handler",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e89b8f41-2767-4427-ac2f-210b814ce497"
+          },
+          "dapAn": "zookeepers",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_3. Alright ... veteriarians.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_3. Alright ... veteriarians.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a5cb9e3f-6618-45be-a0ab-805d094aae43"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Of course, you need to enjoy working with animals. More than that, though, you have to be interested in animal _________.",
+      "yNghia": "Of course, you need to enjoy working with animals. More than that, though, you have to be interested in animal <span style=\"color:red\">behavior</span>.<br />\n<i>Tất nhiên, bạn cần thích làm việc với động vật. Tuy nhiên, hơn thế nữa, bạn phải hứng thú với <span style=\"color:red\">hành vi </span>của động vật.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a40d50cb-2790-4e43-87d6-b94aed182bec"
+          },
+          "dapAn": "action",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e890a97f-0a00-45a7-8888-d967f0c3afb8"
+          },
+          "dapAn": "behavior",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4e5988b3-57ca-4f64-a577-22f393fceef1"
+          },
+          "dapAn": "role",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_4. Of ... behavior.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_4. Of ... behavior.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "cdfacaa6-6afe-419e-8db5-51d821476479"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yeah, to do these jobs, you need to know what qualities ____________ are looking for, what exams you need to pass and what experience is required.",
+      "yNghia": "Yeah, to do these jobs, you need to know what qualities <span style=\"color:red\">employers </span>are looking for, what exams you need to pass and what experience is required.<br />\n<i>Vâng, để làm những công việc này, bạn cần biết <span style=\"color:red\">nhà tuyển dụng </span>đang tìm kiếm những phẩm chất gì, bạn cần vượt qua kỳ thi nào và cần có kinh nghiệm gì.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0c13e28f-b95b-4ed2-a95d-1ef0c5f45260"
+          },
+          "dapAn": "entrepreneurs",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e39f4a07-6f44-4d15-942c-8f9e7d9b547c"
+          },
+          "dapAn": "bosses",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1464ba81-5c0f-4351-a391-7d3246ca8810"
+          },
+          "dapAn": "employers",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_5. Yeah ... required.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_5. Yeah ... required.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d2f6f03e-ebc9-475c-924b-5199ddfd5e2e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Sometimes it’s the responsibility of looking after an adult animal that causes ___________ and sometimes there are financial reasons.",
+      "yNghia": "Sometimes it's the responsibility of looking after an adult animal that causes <span style=\"color:red\">problems </span>and sometimes there are financial reasons.<br />\n<i>Đôi khi đó là trách nhiệm chăm sóc một con vật trưởng thành gây ra <span style=\"color:red\">vấn đề </span>và đôi khi có những lý do về mặt tài chính.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f33e0d9c-c0dc-43c6-bf19-0a8d9367632e"
+          },
+          "dapAn": "disadvantages",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b34a4b37-02ed-4778-95f5-9edd9792d9eb"
+          },
+          "dapAn": "problems",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3a7519e1-53c4-429a-ace5-1aa3d5af8d33"
+          },
+          "dapAn": "issues",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_6. Sometimes ... reasons.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_6. Sometimes ... reasons.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "59ea96d4-d7da-4be0-8bca-1013483bf1db"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Okay. Let’s start by looking at a __________ career, and an unusual one.",
+      "yNghia": "Okay. Let's start by looking at a <span style=\"color:red\">familiar </span>career, and an unusual one.<br />\n<i>Được chứ. Hãy bắt đầu bằng cách xem xét một nghề nghiệp <span style=\"color:red\">quen thuộc </span>và một nghề nghiệp khác thường nhé.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "97bae6ab-8e87-4eae-b930-2d7967252e66"
+          },
+          "dapAn": "usual",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9a1123eb-0515-471a-bbea-e2e0e129ee8f"
+          },
+          "dapAn": "familiar",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "892b0564-3b1b-4b67-9e7b-6963af715475"
+          },
+          "dapAn": "favorite",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_7. Okay ... one.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_7. Okay ... one.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "38e18e61-34b3-467a-a895-a16a1bbf3d01"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "All dogs must be microchipped. This means that a small chip – the size of a grain of _________ – is inserted under the dog’s skin.",
+      "yNghia": "All dogs must be microchipped. This means that a small chip – the size of a grain of <span style=\"color:red\">rice </span>– is inserted under the dog's skin.<br />\n<i>Tất cả những con chó phải được gắn vi mạch. Điều này có nghĩa là một con chíp nhỏ - kích thước bằng hạt <span style=\"color:red\">gạo </span>- được đưa vào dưới da của con chó.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "52e6588b-949d-410b-8462-ea89a064aa3b"
+          },
+          "dapAn": "rice",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6856ffb5-8747-4091-b57b-1718955a2a88"
+          },
+          "dapAn": "salt",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e7855e22-5cb6-4f4c-ab7f-a354fc40f782"
+          },
+          "dapAn": "sand",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_8. All... skin.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_8. All... skin.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "eac36155-d658-4625-a721-70a761c31eab"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you know what the main _________ of marine biologists are?",
+      "yNghia": "Do you know what the main <span style=\"color:red\">duties </span>of marine biologists are?<br />\n<i>Bạn có biết <span style=\"color:red\">nhiệm vụ </span>chính của các nhà sinh học biển là gì không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3ddd3af1-e1a1-4549-a566-b1037ad08da6"
+          },
+          "dapAn": "duties",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2b6a5e5d-3fa2-4d73-acd2-cd8513d1a8e4"
+          },
+          "dapAn": "tasks",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "86323c7f-3a73-4119-a3b7-04bb28933954"
+          },
+          "dapAn": "rights",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_9. Do ... are.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_9. Do ... are.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "67b85cb6-c09b-4e6a-8efd-07ba3527fb68"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Exactly, but marine biologists have to be prepared for _______ harsh conditions.",
+      "yNghia": "Exactly, but marine biologists have to be prepared for <span style=\"color:red\">some </span>harsh conditions.<br />\n<i>Chính xác, nhưng các nhà sinh học biển phải được chuẩn bị cho <span style=\"color:red\">một số </span>điều kiện khắc nghiệt.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "58886f17-f554-4a47-8e43-e9c6a4175ee1"
+          },
+          "dapAn": "many",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "796810b1-7dd0-4e62-b5e8-1a4821281f9a"
+          },
+          "dapAn": "some",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "17a32956-916c-48d0-89b0-bc5f39423831"
+          },
+          "dapAn": "several",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_10. Exactly ... conditions.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_10. Exactly ... conditions.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "262fe1c7-e955-4b08-8361-b3d1d01a5a91"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They don’t always work with dolphins in warm ________!",
+      "yNghia": "They don't always work with dolphins in warm <span style=\"color:red\">waters</span>!<br />\n<i>Không phải lúc nào họ cũng làm việc với cá heo ở <span style=\"color:red\">vùng nước </span>ấm!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7832e2fe-c61c-49e7-bf97-8214ef97b347"
+          },
+          "dapAn": "waters",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d6fe9163-5e86-4afc-94aa-eb824e4da560"
+          },
+          "dapAn": "weather",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d2158f04-a98e-4187-ba17-15795b2eb263"
+          },
+          "dapAn": "conditions",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_11. They ... waters.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_11. They ... waters.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "984957cc-72dc-4e1c-a3c5-e7d0f1f02696"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What __________ do I need if I choose this career path?",
+      "yNghia": "What <span style=\"color:red\">qualifications </span>do I need if I choose this career path?<br />\n<i>Tôi cần <span style=\"color:red\">những bằng cấp </span>gì nếu tôi chọn con đường sự nghiệp này?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "493eb2e0-f112-4b7c-a2ff-d99a41e9c2a9"
+          },
+          "dapAn": "experience",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "eb5a160d-5a5a-4d21-862a-9887d493c9ed"
+          },
+          "dapAn": "skills",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "85014ccc-5281-4118-9d9f-4ef142b90334"
+          },
+          "dapAn": "qualifications",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_12. What ... path.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_12. What ... path.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "bed3ec01-8df4-4232-a25d-deb385efc647"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You’ll need a degree in biology or marine biology, and then get a __________ degree.",
+      "yNghia": "You'll need a degree in biology or marine biology, and then get a <span style=\"color:red\">doctoral </span>degree.<br />\n<i>Bạn sẽ cần bằng cấp về sinh học hoặc sinh học biển, sau đó lấy bằng <span style=\"color:red\">tiến sĩ</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9c172798-8d45-49c1-9c8a-fe2be51c2dab"
+          },
+          "dapAn": "engineering",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9b0de29c-6d1d-4d3e-b696-d9b759791de2"
+          },
+          "dapAn": "doctoral",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8a444995-63ec-4f1d-87ca-9e72fdda5489"
+          },
+          "dapAn": "bachelor’s",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_13. You ... degree.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_13. You ... degree.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "bc6ed2c5-1208-4203-98b2-87c58227ae86"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Thank you. You also _________ an unusual career. What is that?",
+      "yNghia": "Thank you. You also <span style=\"color:red\">mention </span>an unusual career. What is that?<br />\n<i>Cảm ơn bạn. Bạn cũng <span style=\"color:red\">đề cập đến </span>một nghề nghiệp khác thường. Đó là nghề gì vậy?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7720c1ae-f140-43f4-bd95-7fb7851c98c5"
+          },
+          "dapAn": "discuss",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f3d9e3fe-2c7f-4d25-8f3a-d21673f4a316"
+          },
+          "dapAn": "mention",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1df6563b-a9e8-4a04-b8c8-b06d76a25bc8"
+          },
+          "dapAn": "talk about",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_14. Thank ...  that.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_14. Thank ...  that.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3a662d70-469d-4d9d-a0a8-0615244f7bf8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The second career I’d like to talk more about is a _________ milker!",
+      "yNghia": "The second career I'd like to talk more about is a <span style=\"color:red\">snake </span>milker!<br />\n<i>Nghề thứ hai mà tôi muốn nói nhiều hơn là nghề nặn nọc <span style=\"color:red\">rắn</span>!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "07f43be3-ca92-407d-824e-802c43c2183c"
+          },
+          "dapAn": "frog",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "87562bcd-1990-4711-80ad-fc08b46153e9"
+          },
+          "dapAn": "fish",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7f7b4118-52fc-47c1-857f-04a7047c9e2f"
+          },
+          "dapAn": "snake",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_15. the ... milker.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_15. the ... milker.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5a005d87-fba4-4296-ac7c-0bd236cf6f4b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Stray animals can also carry diseases. They can pass these diseases on to people or to domestic _________.",
+      "yNghia": "Stray animals can also carry diseases. They can pass these diseases on to people or to domestic <span style=\"color:red\">pets</span>.<br />\n<i>Động vật hoang cũng có thể mang bệnh. Chúng có thể truyền những bệnh này cho người hoặc <span style=\"color:red\">vật nuôi </span>trong nhà.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8e1285e2-974a-4b71-9322-d3f7f633fa93"
+          },
+          "dapAn": "dog",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "540f233e-bead-4571-beb7-458e887c5117"
+          },
+          "dapAn": "pets",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7199dd1a-e7c7-481c-b941-459e1f91b611"
+          },
+          "dapAn": "animals",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_16. Stray ... pets.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_16. Stray ... pets.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d2c1075e-0236-404a-8fd9-0de416f2f418"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "But they have venom, the poison they use to kill the animal they eat. A snake milker takes venom from _________.",
+      "yNghia": "But they have venom, the poison they use to kill the animal they eat. A snake milker takes venom from <span style=\"color:red\">a snake</span>.<br />\n<i>Nhưng chúng có nọc độc, chất độc chúng dùng để giết con vật mà chúng ăn. Người nặn nọc rắn sẽ lấy nọc từ <span style=\"color:red\">con rắn</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "123c2cfa-d012-4d3b-a6bf-aeb3f4995c2f"
+          },
+          "dapAn": "a snake",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d97c12df-d9c8-4784-9a16-a40d76179c7b"
+          },
+          "dapAn": "snakes",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "be99a4f2-6f93-4a99-b8cc-2c2bd4883f25"
+          },
+          "dapAn": "the snake",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_17. But ... snake.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_17. But ... snake.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9b63e661-e073-4317-942d-671532247008"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Oh, this job is very dangerous! I think snake milkers will need a lot of __________ training.",
+      "yNghia": "Oh, this job is very dangerous! I think snake milkers will need a lot of <span style=\"color:red\">practical </span>training.<br />\n<i>Ôi nghề này nguy hiểm lắm! Tôi nghĩ những người nặn nọc rắn sẽ cần được đào tạo <span style=\"color:red\">thực tế </span>rất nhiều.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ad1c62d8-985c-4b06-b124-8894355ddb07"
+          },
+          "dapAn": "extensive",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5b879174-40f0-47c6-8bfd-8a75040c118b"
+          },
+          "dapAn": "basic",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "db90352e-bdf3-4543-a76c-e56bb41cf651"
+          },
+          "dapAn": "practical",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_18. Oh ... training.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_18. Oh ... training.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f22a565e-bca5-46a7-84e5-674d118e3c7a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Besides, they also need a degree in biology, chemistry, or __________.",
+      "yNghia": "Besides, they also need a degree in biology, chemistry, or <span style=\"color:red\">biochemistry</span>.<br />\n<i>Bên cạnh đó, họ cũng cần có bằng cấp về sinh học, hóa học hoặc <span style=\"color:red\">hóa sinh</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "92a4a44d-bb74-4623-a284-4179aa640f2a"
+          },
+          "dapAn": "education",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "11d00ab1-f838-4615-b1aa-b40cc1e43ef4"
+          },
+          "dapAn": "biochemistry",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "819187b3-78aa-43d3-9d62-4e78f97692e7"
+          },
+          "dapAn": "astrology",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_19. Besides ... biochemistry.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_19. Besides ... biochemistry.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a1520b23-9fc5-4786-bb5f-b402ae64b323"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The World Health Organization estimates\nthat there are about _________ million stray dogs \nworldwide.\n",
+      "yNghia": "The World Health Organization estimates that there are about <span style=\"color:red\">200 </span>million stray dogs worldwide.<br />\n<i>Tổ chức Y tế Thế giới ước tính rằng có khoảng <span style=\"color:red\">200 </span>triệu con chó hoang trên toàn thế giới.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ce407a09-bbcf-4aeb-bc2f-8ad5d93a673d"
+          },
+          "dapAn": 100,
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "653bc64b-5c82-4079-998a-72ad1594064b"
+          },
+          "dapAn": 200,
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4e7faf70-9dec-4813-b49f-4d96b2b02a10"
+          },
+          "dapAn": 300,
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L3/sounds/normal/MTC_3_LISTENING_20. The ... worldwide.mp3",
+      "soundSlow": "4SKILLS_MTC_L3/sounds/slow/MTC_3_LISTENING_20. The ... worldwide.mp3"
+    }
+  ]
+}

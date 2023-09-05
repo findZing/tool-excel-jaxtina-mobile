@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L11/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L11/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "ed51a1c8-f185-44c9-b372-e54f2da5d549"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "James",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "13e65cbe-c136-427f-b303-81cd79448f2b"
+          },
+          "dapAn": "Hi. What's your name?",
+          "phienAm": "/haɪ/. /wɒts jɔːr neɪm/",
+          "yNghia": "\nXin chào. Bạn tên là gì?",
+          "normal": {
+            "start": "00:00:01.051",
+            "end": "00:00:02.982"
+          },
+          "slow": {
+            "start": "00:00:00.738",
+            "end": "00:00:03.038"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9ae818ee-5eb9-426e-bbb9-1b789517b503"
+          },
+          "dapAn": "How are you?",
+          "phienAm": "/haʊ ɑːr juː/",
+          "yNghia": " \nBạn khỏe không?",
+          "normal": {
+            "start": "00:00:06.337",
+            "end": "00:00:07.219"
+          },
+          "slow": {
+            "start": "00:00:07.379",
+            "end": "00:00:08.725"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1ac2c264-4b72-4978-873b-68bd7a14b590"
+          },
+          "dapAn": "Where do you live?",
+          "phienAm": "/weər duː juː lɪv/",
+          "yNghia": " \nBạn sống ở đâu?",
+          "normal": {
+            "start": "00:00:10.675",
+            "end": "00:00:11.963"
+          },
+          "slow": {
+            "start": "00:00:13.152",
+            "end": "00:00:14.715"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "605bc417-9a8a-4874-957d-9c6dc2606dff"
+          },
+          "dapAn": "Who do you live with?",
+          "phienAm": "/huː duː juː lɪv wɪð/",
+          "yNghia": " \nBạn sống với ai?",
+          "normal": {
+            "start": "00:00:14.878",
+            "end": "00:00:16.199"
+          },
+          "slow": {
+            "start": "00:00:19.967",
+            "end": "00:00:21.920"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "70b7b3eb-03e0-4b66-874e-dbb019ab2d75"
+          },
+          "dapAn": "Where do you work?",
+          "phienAm": "/weər duː juː wɜːk/",
+          "yNghia": " \nBạn làm việc ở đâu?",
+          "normal": {
+            "start": "00:00:20.029",
+            "end": "00:00:21.452"
+          },
+          "slow": {
+            "start": "00:00:26.608",
+            "end": "00:00:28.779"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d540fae4-0e71-4eda-9499-8b08985f7e2c"
+          },
+          "dapAn": "What time do you get up?",
+          "phienAm": "/wɒt taɪm duː juː get ʌp/",
+          "yNghia": " \nBạn dậy lúc mấy giờ?",
+          "normal": {
+            "start": "00:00:25.417",
+            "end": "00:00:27.247"
+          },
+          "slow": {
+            "start": "00:00:33.597",
+            "end": "00:00:35.811"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "64ec96c6-d948-47cf-8a96-fda72f50504c"
+          },
+          "dapAn": "What do you do after waking up?",
+          "phienAm": "/wɒt duː juː duː ˈɑːftər ˈweɪkɪŋ ʌp/",
+          "yNghia": " \nBạn làm gì sau khi ngủ dậy?",
+          "normal": {
+            "start": "00:00:31.213",
+            "end": "00:00:33.314"
+          },
+          "slow": {
+            "start": "00:00:41.063",
+            "end": "00:00:44.188"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e3277dbd-6eb4-4dae-94c0-65a290033f63"
+          },
+          "dapAn": "What time do you get to work?",
+          "phienAm": "/wɒt taɪm duː juː get tuː wɜːk/",
+          "yNghia": " Mấy giờ bạn đi làm?",
+          "normal": {
+            "start": "00:00:39.278",
+            "end": "00:00:41.278"
+          },
+          "slow": {
+            "start": "00:00:51.654",
+            "end": "00:00:54.258"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "847314f4-4829-4611-8c1f-d57f0a0f2292"
+          },
+          "dapAn": "What do you do after work?",
+          "phienAm": "/wɒt duː juː duː ˈɑːftər wɜːk/",
+          "yNghia": " Bạn làm gì sau khi tan làm?",
+          "normal": {
+            "start": "00:00:46.361",
+            "end": "00:00:48.327"
+          },
+          "slow": {
+            "start": "00:01:00.769",
+            "end": "00:01:03.887"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "810daa95-94e9-4d95-b647-11f22f300c0d"
+          },
+          "dapAn": "What do you do on weekends?",
+          "phienAm": "/wɒt duː juː duː ɒn ˌwiːkˈendz/",
+          "yNghia": " Bạn làm gì vào cuối tuần?",
+          "normal": {
+            "start": "00:00:52.495",
+            "end": "00:00:54.664"
+          },
+          "slow": {
+            "start": "00:01:08.105",
+            "end": "00:01:10.753"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e0f1df9d-626d-464f-b922-c11a9c7b1e67"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Linda",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "22195924-5d49-4fe5-93fe-9ffb3a89391b"
+          },
+          "dapAn": "My name is Linda.",
+          "phienAm": "/maɪ neɪm ɪz ˈlɪndə/",
+          "yNghia": " \nTên tôi là Linda.",
+          "normal": {
+            "start": "00:00:03.728",
+            "end": "00:00:05.626"
+          },
+          "slow": {
+            "start": "00:00:03.776",
+            "end": "00:00:06.381"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ad67cfc5-68a7-441d-b775-9f7b2ca4f8de"
+          },
+          "dapAn": "I'm fine, thanks.",
+          "phienAm": "/aɪm faɪn θæŋks/",
+          "yNghia": " \nTôi khỏe, cảm ơn bạn.",
+          "normal": {
+            "start": "00:00:08.100",
+            "end": "00:00:09.828"
+          },
+          "slow": {
+            "start": "00:00:09.723",
+            "end": "00:00:12.371"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "aed358bf-5733-4e20-9530-cbac06a8b59e"
+          },
+          "dapAn": "I live in London.",
+          "phienAm": "/aɪ lɪv ɪn ˈlʌndən/",
+          "yNghia": " \nTôi sống ở Luân-đôn.",
+          "normal": {
+            "start": "00:00:12.641",
+            "end": "00:00:13.929"
+          },
+          "slow": {
+            "start": "00:00:15.583",
+            "end": "00:00:19.056"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9d7f36e3-09ff-435f-91c6-cafad02abc82"
+          },
+          "dapAn": "I live with my sister.",
+          "phienAm": "/aɪ lɪv wɪð maɪ ˈsɪstər/",
+          "yNghia": " \nTôi sống với chị của tôi.",
+          "normal": {
+            "start": "00:00:16.911",
+            "end": "00:00:18.877"
+          },
+          "slow": {
+            "start": "00:00:22.398",
+            "end": "00:00:25.567"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1d3485fd-9109-4b9c-8e5f-4b4ccc995993"
+          },
+          "dapAn": "I work in a restaurant.",
+          "phienAm": "/aɪ wɜːk ɪn ei ˈrestrɒnt/",
+          "yNghia": " \nTôi làm việc trong một nhà hàng.",
+          "normal": {
+            "start": "00:00:22.062",
+            "end": "00:00:24.028"
+          },
+          "slow": {
+            "start": "00:00:29.256",
+            "end": "00:00:32.295"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e76f95e2-412d-4ef1-b5a5-3e3c1acb982d"
+          },
+          "dapAn": "I get up at 6:00 a.m.",
+          "phienAm": "/aɪ get ʌp æt sɪks eɪ em/",
+          "yNghia": " \nTôi thức dậy lúc 6 giờ sáng.",
+          "normal": {
+            "start": "00:00:28.129",
+            "end": "00:00:30.297"
+          },
+          "slow": {
+            "start": "00:00:36.331",
+            "end": "00:00:40.238"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "63e46404-d2f4-49f1-af06-20639a361fea"
+          },
+          "dapAn": "I brush my teeth, have breakfast and get dressed.",
+          "phienAm": "/aɪ brʌʃ maɪ tiːθ hæv ˈbrekfəst ænd get drest/",
+          "yNghia": " \nTôi đánh răng, ăn sáng và mặc quần áo.",
+          "normal": {
+            "start": "00:00:34.228",
+            "end": "00:00:38.228"
+          },
+          "slow": {
+            "start": "00:00:44.564",
+            "end": "00:00:50.879"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "843ca61c-930f-4a44-8d2b-d558a44192ee"
+          },
+          "dapAn": "I usually get to work at 7:00 a.m.",
+          "phienAm": "/aɪ ˈjuːʒʊəli get tuː wɜːk æt ˈsevn eɪ em/",
+          "yNghia": " Tôi thường đi làm lúc 7 giờ sáng.",
+          "normal": {
+            "start": "00:00:42.187",
+            "end": "00:00:45.277"
+          },
+          "slow": {
+            "start": "00:00:55.287",
+            "end": "00:00:59.901"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a03078b3-49c9-4aa5-8376-24dfb15779cf"
+          },
+          "dapAn": "I always go to the gym.",
+          "phienAm": "/aɪ ˈɔːlweɪz gəʊ tuː ðə ʤɪm/",
+          "yNghia": " Tôi luôn đi đến phòng tập thể dục.",
+          "normal": {
+            "start": "00:00:49.276",
+            "end": "00:00:51.445"
+          },
+          "slow": {
+            "start": "00:01:04.199",
+            "end": "00:01:06.977"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "739284de-1aa5-4018-b404-f763609a3073"
+          },
+          "dapAn": "I sometimes hang out with my friends.",
+          "phienAm": "/aɪ ˈsʌmtaɪmz hæŋ aʊt wɪð maɪ frendz/",
+          "yNghia": " Tôi thỉnh thoảng đi chơi với bạn bè của tôi.",
+          "normal": {
+            "start": "00:00:55.613",
+            "end": "00:00:58.121"
+          },
+          "slow": {
+            "start": "00:01:11.144",
+            "end": "00:01:15.180"
+          }
+        }
+      ]
+    }
+  ]
+}

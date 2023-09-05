@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "13329950-292b-48a0-8f84-ee13e9a66326"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Pension",
+      "yNghia": "Lương hưu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "afb84921-d9d0-4d29-9419-2fde2db73f6c"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Sick pay",
+      "yNghia": "Lương nghỉ ốm",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "59f6d022-74aa-40b0-bd87-38d9ba1b15ab"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Contribution",
+      "yNghia": "Sự đóng góp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3a122799-43ee-4eff-b717-c035fbbc948a"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Contributor",
+      "yNghia": "Người đóng góp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "750fc5b6-206c-488f-a966-1265207c1864"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Charity",
+      "yNghia": "Quỹ từ thiện",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4c18cb01-a7c9-4601-b5ba-5c961c8dd2c8"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Lay off",
+      "yNghia": "Sa thải",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ac2702d3-2242-4d75-8c12-1f056a6afc38"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Give away money",
+      "yNghia": "Quyên góp tiền",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d2e25119-c036-456b-9afd-3e84f3735854"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Instalment",
+      "yNghia": "Thanh toán nhiều lần",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "debce8cb-9f69-4380-a939-76ef59dac8da"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Complaint",
+      "yNghia": "Lời phàn nàn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e566ff93-aa0e-48d3-b051-b25073613141"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Billboard",
+      "yNghia": "Biển quảng cáo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c5193ace-fc41-4f99-a411-ec148989893c"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Advertiser",
+      "yNghia": "Người quảng cáo, nhà quảng cáo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ff32461b-e80d-4400-ae7d-a10ffb2c9cf3"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Cash machine",
+      "yNghia": "Máy rút tiền",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f23b36d0-bd0e-4cce-b291-a295897a3168"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Contactless payment",
+      "yNghia": "Thanh toán không dùng \r\ntiền mặt",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "15b79221-c612-4f4e-afab-71e98a17bf9b"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Come up with a slogan",
+      "yNghia": "Đưa ra phương châm / khẩu hiệu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "91bd8aed-ab03-43b9-ba26-3f4dc184b098"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Promote a product",
+      "yNghia": "Quảng bá sản phẩm",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0b223466-df91-4114-8cae-6dabbcad23fd"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Design a logo",
+      "yNghia": "Thiết kế logo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e070e415-27b3-41a8-88f0-93a6e6a4b365"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Launch the product",
+      "yNghia": "Tung sản phẩm ra thị trường",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "773537ba-c6bf-4f78-9ab9-67541d9bcaad"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Identify the target market",
+      "yNghia": "Xác định thị trường mục tiêu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2ad658fa-00ed-45c1-afaa-ebb5f62a8a2d"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Manage the budget",
+      "yNghia": "Quản lý ngân sách",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c1f3064a-5513-4c7b-81e4-42292e4398ad"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Promote a service",
+      "yNghia": "Quảng bá dịch vụ",
+      "danhSachDapAn": []
+    }
+  ]
+}

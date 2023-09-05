@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P5",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "02b9dc14-e6b2-4f8f-91d3-e3af5ff7d62e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you ___ us how many times you have flown into space?",
+      "yNghia": "<b>Can you </b><b><span style=\"color:red\">tell </span></b><b>us how many times you have flown into space?</b><br />\n<i>Bạn có thể </i><i><span style=\"color:red\">cho </span></i><i>chúng tôi </i><i><span style=\"color:red\">biết </span></i><i>bạn đã bay vào vũ trụ bao nhiêu lần không?</i><br />\n<b>tell </b>là đáp án chính xác vì sau trợ động từ <b>Can</b> là động từ ở dạng nguyên thể.<br />\n<b>tells </b>và <b>told </b>là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "aec99117-8e5a-4513-bbd1-b45fd32bb21e"
+          },
+          "dapAn": "A. tells",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2dafa95b-8083-49fd-a884-74b7494193ab"
+          },
+          "dapAn": "B. tell",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a3b66710-850b-454e-babd-82f7e69b9f32"
+          },
+          "dapAn": "C. told",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\n<br />\nVí dụ:<br />\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\n<br />\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "1d43fa5b-be83-475c-b3c7-57af753669bb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Could you ___ what life is like in zero gravity?",
+      "yNghia": "<b>Could you </b><b><span style=\"color:red\">explain </span></b><b>what life is like in zero gravity?</b><br />\n<i>Bạn có thể </i><i><span style=\"color:red\">giải thích </span></i><i>cuộc sống diễn ra như thế nào trong môi trường không trọng lực không?</i><br />\n<b>explain</b> là đáp án chính xác vì sau trợ động từ <b>Could </b>là động từ ở dạng nguyên thể.<br />\n<b>explained</b> và <b>explaining</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d4cd91d4-f8fc-4e2a-b17e-7613180639ba"
+          },
+          "dapAn": "A. explain",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f4d0eeb3-d446-49df-bd4a-47cefc1180cb"
+          },
+          "dapAn": "B. explained",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f8d140ba-3f02-4b16-8209-3fcbc1a7beb5"
+          },
+          "dapAn": "C. explaining",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "da570975-7df8-44a2-a318-2cb2ea57dc7c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you tell me why you ____ tie yourself to a chair if you want to sit down?",
+      "yNghia": "<b>Can you tell me why you </b><b><span style=\"color:red\">have to</span></b> <b>tie yourself to a chair if you want to sit down?</b><br />\n<i>Bạn có thể cho tôi biết tại sao bạn </i><i><span style=\"color:red\">phải </span></i><i>buộc mình vào ghế nếu bạn muốn ngồi xuống không?</i><br />\n<b>have to</b> là đáp án chính xác vì mệnh đề điều kiện <b>if </b>đang ở dạng hiện tại đơn, vì vậy mệnh đề chính phải ở dạng hiện tại đơn.<br />\n<b>had to</b> và <b>having to</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "db292803-9758-4aff-aeff-87ec083718dd"
+          },
+          "dapAn": "A. having to",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d49ef5f3-23fd-4c95-b426-e48417b0ae88"
+          },
+          "dapAn": "B. had to",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2bb30ff8-7673-4fcc-a6a5-3459c20e02da"
+          },
+          "dapAn": "C. have to",
+          "isCorrect": true
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "41fd4005-2edb-4c10-8e03-cd175263abc1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you think long hair _____ a problem in space?",
+      "yNghia": "<b>Do you think long hair </b><b><span style=\"color:red\">is </span></b><b>a problem in space?</b><br />\n<i>Bạn có nghĩ bộ tóc dài </i><i><span style=\"color:red\">là </span></i><i>một vấn đề trong không gian vũ trụ không?</i><br />\n<b>is </b>là đáp án chính xác sau trước chủ ngữ số ít <b>long hair </b>là động từ to be được chia thành <b>is</b>.<br />\n<b>are</b> và <b>have</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "af89be1c-b40e-4056-8202-e9f2eddc1ebe"
+          },
+          "dapAn": "A. are",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6de2658e-87d7-40fa-824d-d0f65c949e32"
+          },
+          "dapAn": "B. have",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "75c03fd4-dff2-4106-80c9-de00555ba95c"
+          },
+          "dapAn": "C. is",
+          "isCorrect": true
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "ef293574-5c4c-4b73-a595-8cdb2c9c5b09"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you know ____ the US will have space shuttles again in the future?",
+      "yNghia": "<b>Do you know </b><b><span style=\"color:red\">if </span></b><b>the US will have space shuttles again in the future?</b><br />\n<i>Bạn có biết trong tương lai, </i><i><span style=\"color:red\">liệu </span></i><i>Hoa Kỳ sẽ có tàu con thoi trở lại hay không?</i><br />\n<b>if</b> là đáp án chính xác vì đây là câu hỏi gián tiếp và phù hợp về ngữ nghĩa.<br />\n<b>what</b> và <b>who</b> là đáp án sai vì ngữ nghĩa không phù hợp.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9ced7a68-e560-4a7f-9640-0fc632cb4d5e"
+          },
+          "dapAn": "A. if",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8d29b507-10c5-442b-88fe-dbc355561512"
+          },
+          "dapAn": "B. what",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "dd947551-6b7a-4a8c-bad1-bdbd35c2590d"
+          },
+          "dapAn": "C. who",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "0870526e-9507-453e-ba7e-164f9ccef739"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you know ____ they will go, besides the space station?",
+      "yNghia": "<b>Do you know </b><b><span style=\"color:red\">where </span></b><b>they will go, besides the space station?</b><br />\n<i>Bạn có biết ngoài trạm vũ trụ ra thì họ sẽ đi </i><i><span style=\"color:red\">đâu </span></i><i>không?</i><br />\n<b>where</b> là đáp án chính xác vì đây là câu hỏi gián tiếp và vế sau đề cập đến <b>space station </b>là một địa điểm, vì vậy vế trước phải dùng từ để hỏi tương ứng về địa điểm là <b>where</b>. <br />\n<b>what</b> và <b>who</b> là đáp án sai vì ngữ nghĩa không phù hợp.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "156ea615-2a35-4356-81a2-152322a55602"
+          },
+          "dapAn": "A. what",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ada6ff6d-8979-4c7f-876b-d85d6d85841a"
+          },
+          "dapAn": "B. where",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "355707e9-d94a-4c20-94b3-721014f75170"
+          },
+          "dapAn": "C. who",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "cbac1e8b-6146-4769-83d3-d95b8c6d93e6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Could you tell me ____ big the International Space Station is?",
+      "yNghia": "<b>Could you tell me </b><b><span style=\"color:red\">how </span></b><b>big the International Space Station is?</b><br />\n<i>Bạn có thể cho tôi biết Trạm vũ trụ quốc tế lớn </i><i><span style=\"color:red\">như thế nào </span></i><i>không?</i><br />\n<b>how</b> là đáp án chính xác vì đây là câu hỏi gián tiếp và sau <b>how </b>có thể là tính từ để hỏi xem mức độ tính chất của sự vật đó như thế nào.<br />\n<b>who</b> và <b>why</b> là đáp án sai vì ngữ nghĩa và ngữ pháp đều không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "37a07a2f-96ba-416f-9415-275c925db7f0"
+          },
+          "dapAn": "A. how",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "79d2f6f5-2775-4eef-988d-962059d785e5"
+          },
+          "dapAn": "B. who",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6cdf1f32-003a-4715-9cd4-b317004138e8"
+          },
+          "dapAn": "C. why",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "cdf17763-7b39-4ff4-907d-98cb12d70b48"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you explain what astronauts in the ISS ____?",
+      "yNghia": "<b>Can you explain what astronauts in the ISS </b><b><span style=\"color:red\">do</span></b><b>?</b><br />\n<i>Bạn có thể giải thích các phi hành gia trong ISS (trạm không gian quốc tế) </i><i><span style=\"color:red\">làm </span></i><i>những gì không?</i><br />\n<b>do</b> là đáp án chính xác vì sau chủ ngữ số nhiều <b>astronauts in the ISS </b>là động từ ở dạng nguyên thể.<br />\n<b>does</b> và <b>doing</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "322c8d3c-edfb-4e6a-9aa8-5864f1ef601e"
+          },
+          "dapAn": "A. do",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "49201d40-d584-40ee-bb93-8676b3f99aa1"
+          },
+          "dapAn": "B. does",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "25017c5f-6694-4109-9ca2-efbf48fa1144"
+          },
+          "dapAn": "C. doing",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "70bc3b9a-ffe8-4ee5-bab8-47414f8603ab"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____ the ISS will ever return to Earth?",
+      "yNghia": "<b><span style=\"color:red\">Do you think</span></b><b> the ISS will ever return to Earth?</b><br />\n<i><span style=\"color:red\">Bạn có nghĩ </span></i><i>ISS (trạm không gian quốc tế) sẽ quay trở lại Trái đất không?</i><br />\n<b>Do you think</b> là đáp án chính xác vì sau cụm từ này là mệnh đề bày tỏ suy nghĩ của ai đó.<br />\n<b>Do you thinking</b> là đáp án sai vì ngữ pháp không chính xác.<br />\n<b>Do you buy</b> là đáp án sai vì ngữ nghĩa không phù hợp.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4c53cde6-21e9-4345-b8f3-103d06fb11d9"
+          },
+          "dapAn": "A. Do you thinking",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "51f694c1-6b4c-40a6-85e7-dfb8ddc5a43d"
+          },
+          "dapAn": "B. Do you buy",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d277e3c0-8406-454e-9e87-4c09c4343270"
+          },
+          "dapAn": "C. Do you think",
+          "isCorrect": true
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "21a1a88b-9c54-4b4a-abc7-70b13aa0a422"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you tell me why you ____ it’s time to stop exploring space?",
+      "yNghia": "<b>Can you tell me why you </b><b><span style=\"color:red\">think </span></b><b>it's time to stop exploring space?</b><br />\n<i>Bạn có thể cho tôi biết tại sao bạn </i><i><span style=\"color:red\">nghĩ </span></i><i>đã đến lúc ngừng khám phá không gian không?</i><br />\n<b>think</b> là đáp án chính xác vì chủ ngữ ngôi thứ hai <b>you </b>là động từ ở dạng nguyên thể.<br />\n<b>thinking</b> và <b>thinks</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4f71c595-2c5c-41c6-a285-c579c968e3af"
+          },
+          "dapAn": "A. think",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8989195b-ec42-405f-a864-0a08313c9cbc"
+          },
+          "dapAn": "B. thinking",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "014be5c8-69f6-406e-b436-7de207d3f89c"
+          },
+          "dapAn": "C. thinks",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "02bb8f7d-b942-40b9-b95a-25b171914a55"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you know the first person who ____ to outer space?",
+      "yNghia": "<b>Do you know the first person who </b><b><span style=\"color:red\">traveled </span></b><b>to outer space?</b><br />\n<i>Bạn có biết người đầu tiên </i><i><span style=\"color:red\">du hành </span></i><i>vũ trụ không?</i><br />\n<b>traveled</b> là đáp án chính xác vì đây là câu hỏi về sự kiện trong quá khứ nên động từ sau <b>who </b>được chia về dạng quá khứ là <b>traveled</b>.<br />\n<b>traveling</b> và <b>is traveling</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4753486c-5984-434a-b29a-76014cee46ce"
+          },
+          "dapAn": "A. traveling",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f365ed1a-1230-4756-83af-faf2251f0bbb"
+          },
+          "dapAn": "B. is traveling",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8ca2743b-e22f-415c-a27e-6d6cba7d5ba6"
+          },
+          "dapAn": "C. traveled",
+          "isCorrect": true
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "bff36c80-7b4b-4969-b448-d77a24a8d698"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____ whether the first space shuttle was developed in the 1970s?",
+      "yNghia": "<b><span style=\"color:red\">Do you know </span></b><b>whether the first space shuttle was developed in the 1970s? </b><br />\n<i><span style=\"color:red\">Bạn có biết </span></i><i>tàu con thoi đầu tiên được phát triển vào những năm 1970 không?</i><br />\n<b>Do you know</b> là đáp án chính xác vì đây là câu hỏi gián tiếp bắt đầu bằng <b>Do you know </b>để hỏi xem ai đó có biết điều gì không.<br />\n<b>Does you know</b> và <b>Do you known</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4b79f049-0359-435f-948e-a38d021b0b90"
+          },
+          "dapAn": "A. Do you know",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7dbcd420-dafd-4551-8785-bcb978e5a51b"
+          },
+          "dapAn": "B. Does you know",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1c44ccb2-406f-4d76-9c7f-496bde724f9a"
+          },
+          "dapAn": "C. Do you known",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "d0049987-5690-49e9-b9e9-2000a063e7e9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Could you ____ why we need to learn about our universe?",
+      "yNghia": "<b>Could you </b><b><span style=\"color:red\">explain </span></b><b>why we need to learn about our universe?</b><br />\n<i>Bạn có thể </i><i><span style=\"color:red\">giải thích </span></i><i>tại sao chúng ta cần tìm hiểu về vũ trụ không?</i><br />\n<b>explain</b> là đáp án chính xác vì sau trợ động từ <b>Could </b>là động từ ở dạng nguyên thể.<br />\n<b>explaining</b> và <b>to explain</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8ab62d60-e09d-43e3-b83f-91feeaa734dd"
+          },
+          "dapAn": "A. explaining",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b2d29904-0fe9-45b6-86b2-e1019266ad5f"
+          },
+          "dapAn": "B. explain",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1b02eefc-449b-4f40-a521-ff222d91b11e"
+          },
+          "dapAn": "C. to explain",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "1c7b4550-03c5-414b-87fa-493df5237923"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you know when the ISS ____?",
+      "yNghia": "<b>Do you know when the ISS </b><b><span style=\"color:red\">was built</span></b><b>?</b><br />\n<i>Bạn có biết ISS (trạm không gian quốc tế) </i><i><span style=\"color:red\">được xây dựng </span></i><i>khi nào không?</i><br />\n<b>was built</b> là đáp án chính xác vì chủ ngữ là vật tiếp nhận hành động xảy ra trong quá khứ, do vậy động từ được chia về dạng bị động ở quá khứ.<br />\n<b>built</b> và <b>is building</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "00ab9422-56c8-4dde-a6e1-884868ac31c3"
+          },
+          "dapAn": "A. was built",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "49558a52-4acf-42c5-875b-49b8de6b213b"
+          },
+          "dapAn": "B. built",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e35138a0-16b9-4d7c-992c-de417f8d2717"
+          },
+          "dapAn": "C. is building",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "2f49baef-4f2f-4eb2-8150-8e81c66482df"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you know whether ____ in zero gravity makes people taller?",
+      "yNghia": "<b>Do you know whether </b><b><span style=\"color:red\">living </span></b><b>in zero gravity makes people taller?</b><br />\n<i>Bạn có biết </i><i><span style=\"color:red\">sống </span></i><i>trong môi trường không trọng lực có làm con người ta cao hơn không?</i><br />\n<b>living</b> là đáp án chính xác vì từ còn thiếu kết hợp với<b> in zero gravity </b>để đóng vai trò là chủ ngữ, vì vậy từ còn thiếu là danh động từ <b>living</b>.<br />\n<b>lived</b> và <b>live</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7dc68e80-ba06-4121-91c8-2c280ede617c"
+          },
+          "dapAn": "A. live",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f1355e8a-e489-499a-8595-27b62a2e7814"
+          },
+          "dapAn": "B. lived",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9b211b00-532d-4c35-a7b8-ec421fbcff3b"
+          },
+          "dapAn": "C. living",
+          "isCorrect": true
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "cbae1cf5-42fc-4472-94fe-bd4d6abbe502"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you tell me what the problems with space exploration ____?",
+      "yNghia": "<b>Can you tell me what the problems with space exploration </b><b><span style=\"color:red\">are</span></b><b>?</b><br />\n<i>Bạn có thể cho tôi biết những vấn đề của việc thám hiểm không gian vũ trụ </i><i><span style=\"color:red\">là </span></i><i>gì không?</i><br />\n<b>are</b> là đáp án chính xác vì động từ to be tương ứng với chủ ngữ số nhiều <b>the problems with space exploration </b>là <b>are</b>.<br />\n<b>is</b> và <b>does</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cd8b7a1f-52a2-4e7b-bc30-eac3e413b551"
+          },
+          "dapAn": "A. are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "15fdafa0-cf8c-414c-905d-e51495bd9026"
+          },
+          "dapAn": "B. is",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "21839cbb-e641-4cfd-8fee-cc6d310b32b0"
+          },
+          "dapAn": "C. does",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "9f0defd4-bbf2-491f-9158-41e4eda4c16c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you know ____ dangerous viruses might be in space?",
+      "yNghia": "<b>Do you know </b><b><span style=\"color:red\">what </span></b><b>dangerous viruses might be in space?</b><br />\n<i>Bạn có biết những loại vi rút nguy hiểm </i><i><span style=\"color:red\">nào </span></i><i>có thể tồn tại trong không gian vũ trụ không?</i><br />\n<b>what</b> là đáp án chính xác vì ta cần điền một từ để hỏi, và <b>what </b>là đáp án phù hợp về ngữ nghĩa nhất.<br />\n<b>who</b> và <b>whose</b> là đáp án sai vì ngữ nghĩa không phù hợp.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9d1993c8-9afd-4bc7-ad45-bff50bfbe39b"
+          },
+          "dapAn": "A. who",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "960dc9a4-7da6-466c-8296-53357598be99"
+          },
+          "dapAn": "B. what",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a5830ce5-f8ab-41a5-8b8c-8c0640af1ab3"
+          },
+          "dapAn": "C. whose",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "884e2c50-974b-4f7e-8dea-fa64dac9edd4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you know whether ____ become ill from a number of health problems from being in zero gravity for long periods of time?",
+      "yNghia": "<b>Do you know whether </b><b><span style=\"color:red\">astronauts </span></b><b>become ill from a number of health problems from being in zero gravity for long periods of time?</b><br />\n<i>Bạn có biết liệu </i><i><span style=\"color:red\">các phi hành gia </span></i><i>có bị bệnh do một số vấn đề sức khỏe do ở trong tình trạng không trọng lực trong thời gian dài không?</i><br />\n<b>astronauts</b> là đáp án chính xác vì trước cụm động từ <b>become ill </b>là chủ ngữ chỉ người, ở dạng số nhiều.<br />\n<b>astronaut</b> và<b> astronautics</b> là đáp án sai vì chúng đều là danh từ số ít.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e6eaa335-faee-4190-ade8-523a83655173"
+          },
+          "dapAn": "A. astronaut",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2b73353d-9697-4c5b-b69c-e1d4c615cd27"
+          },
+          "dapAn": "B. astronautics",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fb8c07c4-b9cf-4a8a-893e-d2d74a7d3a26"
+          },
+          "dapAn": "C. astronauts",
+          "isCorrect": true
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "ae76e4db-944c-4916-8fc8-a4851fafefe8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you think ____ is very dangerous?",
+      "yNghia": "<b>Do you think </b><b><span style=\"color:red\">being in space </span></b><b>is very dangerous?</b><br />\n<i>Bạn có nghĩ rằng </i><i><span style=\"color:red\">ở trong không gian vũ trụ </span></i><i>là rất nguy hiểm không?</i><br />\n<b>being in space</b> là đáp án chính xác đây là cụm danh động từ đóng vai trò làm chủ ngữ.<br />\n<b>be in space</b> và <b>to be in space</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ab09b230-b77c-4df4-818a-51629ff85f27"
+          },
+          "dapAn": "A. being in space",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f1e15398-0b4b-4779-a9d6-289203f5f73f"
+          },
+          "dapAn": "B. be in space",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bd59c5c6-5548-4cca-b093-09ff6003e321"
+          },
+          "dapAn": "C. to be in space",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "d2fd81a5-d8fb-4dc9-90e9-96749e15c238"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you tell me _____ we should spend our energy and our money on ways to make our lives better here on Earth?",
+      "yNghia": "<b>Can you tell me </b><b><span style=\"color:red\">why you think </span></b><b>we should spend our energy and our money on ways to make our lives better here on Earth?</b><br />\n<i>Bạn có thể cho tôi biết </i><i><span style=\"color:red\">lý do tại sao bạn nghĩ </span></i><i>chúng ta nên dành năng lượng và tiền bạc của mình để làm cho cuộc sống của chúng ta tốt đẹp hơn trên Trái đất này không?</i><br />\n<b>why you think</b> là đáp án chính xác vì đây là câu hỏi gián tiếp với cụm từ <b>why you think</b> để hỏi về suy nghĩ của ai đó.<br />\n<b>why do you think</b> và <b>why think you</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4befcaed-e3b5-4361-bd56-96f3ce53218b"
+          },
+          "dapAn": "A. why you think",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8ebf62b2-abb4-4148-804c-35a1d2c90192"
+          },
+          "dapAn": "B. why do you think",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "343f02ee-a977-42ff-9fb6-70e8270091c7"
+          },
+          "dapAn": "C. why think you",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i><br />\r\n<br />\r\nVí dụ:<br />\r\n<b><span style=\"color:blue\">Can you tell me</span> when the first person travelled into space? </b><br />\r\n<i>Bạn có thể cho tôi biết người đầu tiên du hành vào vũ trụ là vào khi nào không?</i><br />\r\n<br />\r\n<b><span style=\"color:blue\">Do you know</span> if people will live on the Moon?</b><br />\r\n<i>Bạn có biết liệu con người có sống trên mặt trăng không?</i>",
+      "lyThuyetGon": "Câu hỏi gián tiếp được sử dụng trong bối cảnh trang trọng và lịch sự hơn câu hỏi trực tiếp.<br />\r\nCâu hỏi gián tiếp bắt đầu với cụm từ giúp câu hỏi \"nhẹ nhàng\" hơn như:<br />\r\n<b>Do you know ...</b> <i>(Bạn có biết ...?)</i><br />\r\n<b>Can you tell me</b><i> </i><b>...</b><i> (Bạn có thể cho tôi biết ...?)</i><br />\r\n<b>Can you explain ...</b> <i>(Bạn có thể giải thích ...?)</i>"
+    }
+  ]
+}

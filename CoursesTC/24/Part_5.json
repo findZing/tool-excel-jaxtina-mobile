@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "9464af36-25e3-4852-be53-1afdb4b8cc74"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Welcome, Angela. What ____________discovery are you going to tell us today?",
+      "yNghia": "Welcome, Angela. What <span style=\"color:red\">lucky </span>discovery are you going to tell us today?<br />\r\n<i>Chào mừng, Angela. Hôm nay bạn sẽ kể cho chúng tôi khám phá <span style=\"color:red\">may mắn </span>nào thế?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cade32ee-ed4b-4980-a988-4c5e0af5310b"
+          },
+          "dapAn": "new",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3a9e98e7-a9e3-476a-bfa2-47188ed2eeab"
+          },
+          "dapAn": "lucky",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "33ddcc49-e4cf-46c2-b57b-c1a59c046c97"
+          },
+          "dapAn": "unusual",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_1. Welcome ... today.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_1. Welcome ... today.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f50e0c43-702a-48cf-8e1c-a1841d5f603b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’m here today to tell you about this ____________, Ryan.",
+      "yNghia": "I'm here today to tell you about this <span style=\"color:red\">material</span>, Ryan.<br />\r\n<i>Hôm nay tôi sẽ kể cho bạn về <span style=\"color:red\">vật liệu </span>này, Ryan</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5e23f1cb-777e-4ea8-b2ad-5ea8237db0dd"
+          },
+          "dapAn": "substance",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "263065b1-5f8a-4aaa-9e71-cdc81662664c"
+          },
+          "dapAn": "material",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "783cf5a9-e2a5-48ed-9319-f12edf150daa"
+          },
+          "dapAn": "tool",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_2. I_m ... Ryan.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_2. I_m ... Ryan.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a95f890c-55b4-45e1-8a24-402d74766538"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I know that ____________. It’s Velcro.",
+      "yNghia": "I know that <span style=\"color:red\">sound</span>. It's Velcro.<br />\r\n<i>Tôi biết <span style=\"color:red\">âm thanh </span>đó. Đó là băng dính gai.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "61f53a24-c528-44c4-86e9-3abf3a1a529e"
+          },
+          "dapAn": "sound",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8c140ecb-eace-4616-baa2-27490b9aef3c"
+          },
+          "dapAn": "item",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "dc8b1f6b-2bdf-40ab-bd1d-85714fda7f20"
+          },
+          "dapAn": "invention",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_3. I ... velcro.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_3. I ... velcro.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1c607019-efa7-43b5-9e8b-2e6fa1622c8a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That’s right. Did you know that Velcro was invented by a ____________?",
+      "yNghia": "That's right. Did you know that Velcro was invented by a <span style=\"color:red\">dog</span>?<br />\r\n<i>Đúng rồi. Bạn có biết rằng băng dính gai được phát minh bởi một <span style=\"color:red\">con chó </span>không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ceb34d70-28eb-4eaf-b833-059630dbeb9f"
+          },
+          "dapAn": "cat",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ef463617-1547-499f-bd70-33b4733273bb"
+          },
+          "dapAn": "man",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3e603134-917b-4cec-bf49-97a1ced22177"
+          },
+          "dapAn": "dog",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_4. That_s ... dog.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_4. That_s ... dog.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "03545d6e-a48d-4818-aec1-92e35b22d89a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "In the early days, Velcro was made of ____________, but then it was found that nylon worked better.",
+      "yNghia": "In the early days, Velcro was made of <span style=\"color:red\">cotton</span>, but then it was found that nylon worked better.<br />\r\n<i>Trong những ngày đầu, băng dính gai được làm bằng <span style=\"color:red\">sợi bông</span>, nhưng sau đó người ta thấy rằng nylon hoạt động tốt hơn.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3abde291-ea3c-4cee-800a-54081066ed07"
+          },
+          "dapAn": "wool",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "62d66a1b-22d2-4f65-9355-a69d2d507413"
+          },
+          "dapAn": "cotton",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "701f19b6-a29a-4e73-b4a6-24723dda3470"
+          },
+          "dapAn": "silk",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_5. In... better.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_5. In... better.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "88635816-994c-4975-b31a-b89cd6cac141"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Almost. In ____________, Swiss engineer George de Mestral noticed that some plants had stuck to his dog’s fur like glue.",
+      "yNghia": "Almost. In <span style=\"color:red\">1941</span>, Swiss engineer George de Mestral noticed that some plants had stuck to his dog's fur like glue.<br />\r\n<i>Hầu hết. Năm <span style=\"color:red\">1941</span>, kỹ sư người Thụy Sĩ George de Mestral nhận thấy rằng một số cây dính vào lông con chó của ông như keo.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "066500b0-e4e7-4aa9-8bd3-97f01638ac56"
+          },
+          "dapAn": 1941,
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "723f1ee1-e3aa-4812-9a8a-a54b6ac9b65c"
+          },
+          "dapAn": 1945,
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "056592bf-7675-4f49-9737-167408bdd5cb"
+          },
+          "dapAn": 1981,
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_6. Almost ... glue.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_6. Almost ... glue.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a19a0f3a-4c59-4b7f-8c6c-f3856ee404ad"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I know the kind of plant you mean. They’re round and ____________.",
+      "yNghia": "I know the kind of plant you mean. They're round and <span style=\"color:red\">sticky</span>.<br />\r\n<i>Tôi biết loại cây mà bạn muốn nói. Chúng tròn và <span style=\"color:red\">dính</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fefd567f-4163-468b-811e-f190385a77d9"
+          },
+          "dapAn": "small",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2ba8a861-f71b-4a3c-880b-60057a91ff5e"
+          },
+          "dapAn": "thick",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "502be569-6b74-475d-92fa-8db5e832e3c9"
+          },
+          "dapAn": "sticky",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_7. I ... sticky.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_7. I ... sticky.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "da341083-b119-4563-8b6d-2e4289c2a26f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes. They’re called burrs. His dog and his ____________were covered in burrs.",
+      "yNghia": "Yes. They're called burrs. His dog and his <span style=\"color:red\">pants </span>were covered in burrs.<br />\r\n<i>Đúng vậy. Chúng được gọi là gai. Con chó của anh ấy và <span style=\"color:red\">quần </span>của anh ấy được bao phủ bởi gai.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e12deba0-e994-4826-9bb6-4de5261a11d1"
+          },
+          "dapAn": "jeans",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5de347bd-2b78-4259-9e8d-b9cb8e45fde0"
+          },
+          "dapAn": "trousers",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ef298a54-b36c-40cd-a3c2-04b647c05406"
+          },
+          "dapAn": "pants",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_8. Yes ... burrs.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_8. Yes ... burrs.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "91a53f99-6c71-461a-b671-fb60a4fc115a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How was Velcro ____________from that idea?",
+      "yNghia": "How was Velcro <span style=\"color:red\">created </span>from that idea?<br />\n<i>Băng dính gai được <span style=\"color:red\">tạo ra </span>từ ý tưởng đó như thế nào?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c2bc1725-0f98-46bd-b66e-462a18e5faa2"
+          },
+          "dapAn": "created",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "466837a0-e42d-4145-8d82-6eafec283f76"
+          },
+          "dapAn": "made",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a573fe4a-0c46-485a-95df-d06278c88fc1"
+          },
+          "dapAn": "produced",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_9. How ... idea.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_9. How ... idea.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "10483869-91ab-4112-a6a2-8cad59b2d83e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "At the time, ____________were made with buttons and zippers. He wanted to create a new material.",
+      "yNghia": "At the time, <span style=\"color:red\">clothes </span>were made with buttons and zippers. He wanted to create a new material.<br />\r\n<i>Vào thời điểm đó, <span style=\"color:red\">quần áo </span>được sản xuất với nút và khóa kéo. Ông ấy đã muốn tạo ra một vật liệu mới.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "733bb36a-f76a-4d75-a897-1cbe35243471"
+          },
+          "dapAn": "backpack",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "12f4fb13-00f9-4044-aff0-b769ac5f2b6d"
+          },
+          "dapAn": "bag",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f17c56c8-76a4-4cf9-b8d0-2ed97959e397"
+          },
+          "dapAn": "clothes",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_10. At ... materials.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_10. At ... materials.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f1de79ab-80e9-4eff-8f6a-e1018a7a9584"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That’s such an interesting ____________.",
+      "yNghia": "That's such an interesting <span style=\"color:red\">invention</span>.<br />\r\n<i>Đó là một <span style=\"color:red\">phát minh </span>thú vị.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c4fef88b-8037-45a4-8ef2-1a97606050de"
+          },
+          "dapAn": "plan",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "802efac9-0cc7-43a9-aefa-f3357ddaf33e"
+          },
+          "dapAn": "invention",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a75dcb93-ce65-46f0-a07f-892396085957"
+          },
+          "dapAn": "idea",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_11. That_s ... invention.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_11. That_s ... invention.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "eb4267cd-b6b0-445b-a2e1-ff533506fb8b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes. It wasn’t easy, and it took some time to ____________a commercial product.",
+      "yNghia": "Yes. It wasn't easy, and it took some time to <span style=\"color:red\">develop </span>a commercial product.<br />\r\n<i>Đúng vậy. Điều đó thật không dễ dàng và phải mất một thời gian để <span style=\"color:red\">phát triển </span>một sản phẩm thương mại. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c0f6de87-c6e9-4170-94a5-3ce72850a21a"
+          },
+          "dapAn": "produce",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "44dcf96c-49d7-4061-95c0-805b4f120485"
+          },
+          "dapAn": "develop",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c79872f3-77aa-457a-a7a2-9e1bc9db6f5e"
+          },
+          "dapAn": "launch",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_12. Yes ... product.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_12. Yes ... product.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e9bc4ba0-c85d-4e34-980c-606b9e74e0d8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What was ____________used for in those days?",
+      "yNghia": "What was <span style=\"color:red\">it </span>used for in those days?<br />\r\n<i><span style=\"color:red\">Nó </span></i><i>được dùng để làm gì trong những ngày đó?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "25c556c1-fdd6-4c56-bed7-9ac67ef080cc"
+          },
+          "dapAn": "the chemical",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a35b2fe4-d754-400f-853d-10f0a2070803"
+          },
+          "dapAn": "it",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a70a474f-90e4-486e-9e85-182ae4d2bfeb"
+          },
+          "dapAn": "the material",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_13. What ... days.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_13. What ... days.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a446f3f0-c520-4fe9-82ab-dd395ad54db4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It was used on clothes and ____________and became popular in the 1960s.",
+      "yNghia": "It was used on clothes and <span style=\"color:red\">bags </span>and became popular in the 1960s.<br />\r\n<i>Nó được sử dụng trên quần áo và <span style=\"color:red\">túi xách </span>và trở nên phổ biến vào những năm 1960.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c1d8717a-bf30-45cd-b537-16a26237dcf7"
+          },
+          "dapAn": "backpack",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "49761adf-545e-47d7-8f53-004f00f34152"
+          },
+          "dapAn": "bags",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2e58e98a-94e5-45f8-805c-08e8766bea00"
+          },
+          "dapAn": "shoes",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_14. It ... 1960s.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_14. It ... 1960s.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c14070fe-52c8-4908-bd69-8b989bc7f253"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "When did it appear on ____________?",
+      "yNghia": "When did it appear on <span style=\"color:red\">sneakers</span>?<br />\r\n<i>Nó đã xuất hiện trên <span style=\"color:red\">giày thể thao </span>vào thời điểm nào?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1b0b79be-27a8-459f-a30b-9a750f79199d"
+          },
+          "dapAn": "coats",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3b1d2ec0-981f-4523-8626-d003a0435b8f"
+          },
+          "dapAn": "sneakers",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "84a9b55c-dc67-45c8-985f-1674177654cd"
+          },
+          "dapAn": "hats",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_15. When ... sneakers.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_15. When ... sneakers.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "156cb23b-374a-41e1-8d6c-c2913a678e15"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It was first used on ____________sneakers in the 1980s.",
+      "yNghia": "It was first used on <span style=\"color:red\">children's </span>sneakers in the 1980s.<br />\r\n<i>Nó lần đầu tiên được sử dụng trên giày thể thao <span style=\"color:red\">của trẻ em </span>vào những năm 1980.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "aa2c381a-5fe6-43f1-874f-620795869b6e"
+          },
+          "dapAn": "children's",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8f3a4bea-b548-4653-bc3a-9d66fdc18e22"
+          },
+          "dapAn": "adult's",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f2aaf337-6d59-463f-a160-9ace86ecbab1"
+          },
+          "dapAn": "teenager's",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_16. It ... 1980s.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_16. It ... 1980s.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "94949f06-cc08-4816-b58d-12b5de9c7e14"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How about its ____________?",
+      "yNghia": "How about its <span style=\"color:red\">lifecycle</span>?<br />\r\n<i>Thế còn <span style=\"color:red\">vòng đời </span>của nó thì sao?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ae4e8394-4b63-4dc1-819f-f5df42e80bfb"
+          },
+          "dapAn": "benefits",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1710038f-b522-41f8-985a-ea1bba1f3a6f"
+          },
+          "dapAn": "lifecycle",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bd8005bf-f52d-4b69-9e73-e00621506612"
+          },
+          "dapAn": "uses",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_17. How ... lifecycle.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_17. How ... lifecycle.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a56f616d-b92e-4bce-88a6-d759ac05e388"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’m not sure about that. Nylon fasteners can open and close ____________ times.",
+      "yNghia": "I'm not sure about that. Nylon fasteners can open and close <span style=\"color:red\">10,000 </span>times.<br />\r\n<i>Tôi không chắc về điều đó. Chốt nylon có thể mở và đóng <span style=\"color:red\">10.000 </span>lần.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "44675bb4-81bf-49da-9b86-f3fb7abe1491"
+          },
+          "dapAn": 10000,
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e6f22284-6ede-444f-93b6-2766e1bc2cc2"
+          },
+          "dapAn": 5000,
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4d379255-23f5-4ef0-a5ec-d162b05369af"
+          },
+          "dapAn": 20000,
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_18. I_m ... times.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_18. I_m ... times.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "131bdf1b-9a89-424f-afee-f6a26e6399be"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What ____________can Velcro work well on?",
+      "yNghia": "What <span style=\"color:red\">surfaces </span>can Velcro work well on?<br />\r\n<i>Băng dính gai có thể hoạt động tốt trên những <span style=\"color:red\">bề mặt </span>nào?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "17c85a82-02a6-4ed8-a39d-1cf7ae8cfee8"
+          },
+          "dapAn": "surfaces",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "104d60a1-4c79-4b06-a0c2-917703a6d391"
+          },
+          "dapAn": "things",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "684c8a54-d3ae-4d70-9b2e-4058f195c575"
+          },
+          "dapAn": "materials",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_19. What ... on.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_19. What ... on.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "813df96f-65ae-4ec7-95b7-fedafaf768a1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "A lot. Some difficult surfaces are ceramic, ____________ or wood.",
+      "yNghia": "A lot. Some difficult surfaces are ceramic, <span style=\"color:red\">glass </span>or wood.<br />\r\n<i>Nhiều lắm. Một số bề mặt khó là gốm, <span style=\"color:red\">thủy tinh </span>hoặc gỗ.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c2e15b80-3c6d-4c50-84bc-cb01625d2abc"
+          },
+          "dapAn": "plastic",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "77724b70-bfa5-44ca-94f6-4596de920923"
+          },
+          "dapAn": "glass",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5660751e-c41f-4e5d-871c-5eba24015fff"
+          },
+          "dapAn": "stone",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L24/sounds/normal/TC_FINALTEST_LISTENING_20. A ... wood.mp3",
+      "soundSlow": "4SKILLS_TC_L24/sounds/slow/TC_FINALTEST_LISTENING_20. A ... wood.mp3"
+    }
+  ]
+}

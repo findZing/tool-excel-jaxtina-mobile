@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_MTC_L20/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_MTC_L20/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "804873e4-ca4e-4e4b-b5ae-0ef976281137"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Host",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "df9fd444-5e74-4866-afb9-3b4e9ccf3797"
+          },
+          "dapAn": "Hi, would you like to participate in our survey?",
+          "phienAm": "/haɪ wʊd juː laɪk tuː pɑːˈtɪsɪpeɪt ɪn ˈaʊər ˈsɜːveɪ/ ",
+          "yNghia": "\nXin chào, bạn có muốn tham gia vào cuộc khảo sát của chúng tôi không?",
+          "normal": {
+            "start": "00:00:00.323",
+            "end": "00:00:03.816"
+          },
+          "slow": {
+            "start": "00:00:00.512",
+            "end": "00:00:06.150"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a741efee-68c9-40f9-a839-20ffaf2efcd8"
+          },
+          "dapAn": "It’s very straightforward and just about TV talent shows. First, what’s your name?",
+          "phienAm": "/ɪts ˈveri streɪtˈfɔːwəd ænd ʤʌst əˈbaʊt ˌtiːˈviː ˈtælənt ʃəʊz/. /fɜːst wɒts jɔːr neɪm/ ",
+          "yNghia": "\nNó rất đơn giản và chỉ nói về các chương trình tìm kiếm tài năng trên truyền hình thôi. Đầu tiên, tên của bạn là gì nhỉ?",
+          "normal": {
+            "start": "00:00:10.283",
+            "end": "00:00:16.621"
+          },
+          "slow": {
+            "start": "00:00:13.068",
+            "end": "00:00:22.975"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0dba9077-2c1d-4960-90ab-f2e685e95903"
+          },
+          "dapAn": "Garry. Thank you. How often do you watch TV talent shows?",
+          "phienAm": "/gari/. /θæŋk juː/. /haʊ ˈɒfən duː juːwɒʧ ˌtiːˈviː ˈtælənt ʃəʊz/ ",
+          "yNghia": "\nGarry. Cảm ơn bạn. Bạn có thường xuyên xem các chương trình tìm kiếm tài năng trên TV không?",
+          "normal": {
+            "start": "00:00:22.635",
+            "end": "00:00:27.163"
+          },
+          "slow": {
+            "start": "00:00:30.492",
+            "end": "00:00:37.410"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "514ebd7f-f0ff-475c-9d37-17b999ae0ff3"
+          },
+          "dapAn": "So, what’s your opinion of TV talent shows?",
+          "phienAm": "/səʊ wɒts jɔːr əˈpɪnjən ɒv ˌtiːˈviːˈtælənt ʃəʊz/ ",
+          "yNghia": "\nVậy thì ý kiến ​​của bạn về các chương trình tìm kiếm tài năng trên TV là gì?",
+          "normal": {
+            "start": "00:00:33.177",
+            "end": "00:00:36.799"
+          },
+          "slow": {
+            "start": "00:00:44.841",
+            "end": "00:00:50.734"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "70cb787c-0890-4ee6-a5a7-59d2760be058"
+          },
+          "dapAn": "Is there a particular show that is your favorite?",
+          "phienAm": "/ɪz ðeər eɪ pəˈtɪkjʊlər ʃəʊ ðæt ɪz jɔːr ˈfeɪvərɪt/ ",
+          "yNghia": "\nCó chương trình cụ thể nào là chương trình yêu thích của bạn không?",
+          "normal": {
+            "start": "00:00:43.395",
+            "end": "00:00:46.823"
+          },
+          "slow": {
+            "start": "00:00:59.104",
+            "end": "00:01:04.229"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1865483b-6bb8-4b79-ad84-3395c5baf4d9"
+          },
+          "dapAn": "Really? Can you tell more about your sister’s journey in the show?",
+          "phienAm": "/ˈrɪəli/. /kæn juː tel mɔːr əˈbaʊt jɔːr ˈsɪstəz ˈʤɜːni ɪn ðə ʃəʊ/ ",
+          "yNghia": "\nThật vậy không? Bạn có thể kể thêm về hành trình của em gái mình trong chương trình đó không?",
+          "normal": {
+            "start": "00:00:55.360",
+            "end": "00:00:59.628"
+          },
+          "slow": {
+            "start": "00:01:13.282",
+            "end": "00:01:20.201"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c70d101c-5347-48f8-8f7e-4b8e20fba751"
+          },
+          "dapAn": "Do you think some talent shows feature people who aren’t very talented?",
+          "phienAm": "/duː juː θɪŋk sʌm ˈtælənt ʃəʊz ˈfiːʧər ˈpiːpl huː ɑːnt ˈveri ˈtæləntɪd/ ",
+          "yNghia": "\nBạn có nghĩ rằng một số chương trình tìm kiếm tài năng có những người không tài năng lắm không?",
+          "normal": {
+            "start": "00:01:08.036",
+            "end": "00:01:12.821"
+          },
+          "slow": {
+            "start": "00:01:28.656",
+            "end": "00:01:35.745"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2555ebd4-dd8e-43f2-9744-e9db7a65cece"
+          },
+          "dapAn": "But some people do not take it very well. They have some awful comments.",
+          "phienAm": "/bʌt sʌm ˈpiːpl duː nɒt teɪk ɪt ˈveri wel/. /ðeɪ hæv sʌm ˈɔːfʊl ˈkɒments/",
+          "yNghia": "\nNhưng một số người không chấp nhận điều đó cho lắm. Họ có một số bình luận khủng khiếp.",
+          "normal": {
+            "start": "00:01:21.100",
+            "end": "00:01:26.532"
+          },
+          "slow": {
+            "start": "00:01:45.568",
+            "end": "00:01:53.340"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2f8c11be-1137-46a7-848e-dbf32c64ddd5"
+          },
+          "dapAn": "Right. But I think the level of talent in shows today is higher than it used to be.",
+          "phienAm": "/raɪt/. /bʌt aɪ θɪŋk ðə ˈlevl ɒv ˈtælənt ɪn ʃəʊz təˈdeɪ ɪz ˈhaɪər ðæn ɪt juːzd tuː biː/ ",
+          "yNghia": "\nChính xác. Nhưng tôi nghĩ mức độ tài năng trong các chương trình ngày nay cao hơn trước đây.",
+          "normal": {
+            "start": "00:01:34.357",
+            "end": "00:01:40.566"
+          },
+          "slow": {
+            "start": "00:02:02.052",
+            "end": "00:02:12.814"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8c7b7b8f-1999-4a3b-aeff-4b4b43ffac5a"
+          },
+          "dapAn": "Thanks for your time, Garry.",
+          "phienAm": "/θæŋks fɔːr jɔːr taɪm ˈgæri/ ",
+          "yNghia": "\nCảm ơn vì đã dành thời gian cho cuộc khảo sát của chúng tôi, Garry.",
+          "normal": {
+            "start": "00:01:47.680",
+            "end": "00:01:49.361"
+          },
+          "slow": {
+            "start": "00:02:21.696",
+            "end": "00:02:24.942"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0f16e5a3-45d4-495a-aa23-57cba890c388"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Garry",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5d31dd3b-3d8b-4be5-8dc8-cf06bc7ae61a"
+          },
+          "dapAn": "What is it about? I wouldn’t say what I don’t know.",
+          "phienAm": "/wɒt ɪz ɪt əˈbaʊt/. /aɪ ˈwʊdnt seɪ wɒt aɪ dəʊnt nəʊ/ ",
+          "yNghia": "\nNó là về cái gì vậy? Tôi sẽ không nói những gì tôi không biết.",
+          "normal": {
+            "start": "00:00:05.238",
+            "end": "00:00:09.248"
+          },
+          "slow": {
+            "start": "00:00:06.747",
+            "end": "00:00:12.726"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ec02c405-212d-40e2-b4b8-7cb861560f59"
+          },
+          "dapAn": "Garry. I know quite a lot about this kind of TV show.",
+          "phienAm": "/ˈgæri/. /aɪ nəʊ kwaɪt eɪ lɒt əˈbaʊt ðɪs kaɪnd ɒv ˌtiːˈviː ʃəʊ/ ",
+          "yNghia": "\nTôi là Garry. Tôi biết khá nhiều về loại chương trình truyền hình này.",
+          "normal": {
+            "start": "00:00:17.203",
+            "end": "00:00:21.536"
+          },
+          "slow": {
+            "start": "00:00:24.000",
+            "end": "00:00:29.552"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8098a602-f178-4aad-bc59-95622153b403"
+          },
+          "dapAn": "Oh, I really love them. I watch them all the time.",
+          "phienAm": "/əʊ aɪ ˈrɪəli lʌv ðem/. /aɪ wɒʧ ðem ɔːl ðə taɪm/ ",
+          "yNghia": "\nỒ, tôi thực sự yêu thích chúng. Tôi xem chúng mọi lúc.",
+          "normal": {
+            "start": "00:00:28.197",
+            "end": "00:00:32.530"
+          },
+          "slow": {
+            "start": "00:00:38.776",
+            "end": "00:00:44.243"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "31017928-a161-4747-921c-ac9a8f48f698"
+          },
+          "dapAn": "I think there are many great talent shows out there with lots of talented people.",
+          "phienAm": "/aɪ θɪŋk ðeər ɑːr ˈmeni greɪt ˈtælənt ʃəʊz aʊt ðeər wɪð lɒts ɒv ˈtæləntɪd ˈpiːpl/ ",
+          "yNghia": "\nTôi nghĩ rằng có rất nhiều chương trình tìm kiếm tài năng tuyệt vời với rất nhiều người tài năng.",
+          "normal": {
+            "start": "00:00:37.057",
+            "end": "00:00:42.619"
+          },
+          "slow": {
+            "start": "00:00:51.674",
+            "end": "00:00:58.165"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "13615353-14b5-47d2-9042-dd84e0abf912"
+          },
+          "dapAn": "I like the show Dance Off the best. Actually, my sister was on that show.",
+          "phienAm": "/aɪ laɪk ðə ʃəʊ dɑːns ɒf ðə best/. /ˈækʧʊəli maɪ ˈsɪstər wɒz ɒn ðæt ʃəʊ/",
+          "yNghia": "\nTôi thích chương trình Dance Off nhất. Thực ra, em gái tôi đã tham gia chương trình đó.",
+          "normal": {
+            "start": "00:00:47.728",
+            "end": "00:00:53.808"
+          },
+          "slow": {
+            "start": "00:01:05.083",
+            "end": "00:01:12.599"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "bfcf9939-926a-4a7d-a3ab-e8a00243d2dc"
+          },
+          "dapAn": "Yes, she danced with a professional dancer and came in second place.",
+          "phienAm": "/jes  ʃiː dɑːnst wɪð eɪ prəˈfeʃənl ˈdɑːnsər ænd keɪm ɪn ˈsekənd pleɪs/",
+          "yNghia": "\nĐược, em ấy đã nhảy với một vũ công chuyên nghiệp và xếp hạng ở vị trí thứ hai.",
+          "normal": {
+            "start": "00:01:00.728",
+            "end": "00:01:06.095"
+          },
+          "slow": {
+            "start": "00:01:21.311",
+            "end": "00:01:27.631"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "badbc811-3cf1-48e1-8dd6-5532949ca0b5"
+          },
+          "dapAn": "Of course, but that’s OK. I think it’s interesting to hear what the judges say.",
+          "phienAm": "/ɒv kɔːs bʌt ðæts əʊˈkeɪ/. /aɪ θɪŋk ɪts ˈɪntrəstɪŋ tuː hɪər wɒt ðə ˈʤʌʤɪz seɪ/",
+          "yNghia": "\nTất nhiên, nhưng điều đó không sao cả. Tôi nghĩ thật thú vị khi nghe những gì ban giám khảo nói.",
+          "normal": {
+            "start": "00:01:13.856",
+            "end": "00:01:19.871"
+          },
+          "slow": {
+            "start": "00:01:36.600",
+            "end": "00:01:44.543"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b8c1f024-2edf-4f9b-895f-001943c45e0b"
+          },
+          "dapAn": "Yes, they have a bad attitude. It’s very hard to control this problem.",
+          "phienAm": "/jes ðeɪ hæv eɪ bæd ˈætɪtjuːd/. /ɪts ˈveri hɑːd tuː kənˈtrəʊl ðɪs ˈprɒbləm/",
+          "yNghia": "\nĐúng vậy, họ có một thái độ rất xấu. Rất khó để kiểm soát vấn đề này.",
+          "normal": {
+            "start": "00:01:27.890",
+            "end": "00:01:33.323"
+          },
+          "slow": {
+            "start": "00:01:54.450",
+            "end": "00:02:01.283"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "41d56d20-b85a-4a20-b78f-ec1b39e745e3"
+          },
+          "dapAn": "I think so too. These shows are a good method of finding talented people.",
+          "phienAm": "/aɪ θɪŋk səʊ tuː/. /ðiːz ʃəʊz ɑːr eɪ gʊd ˈmeθəd ɒv ˈfaɪndɪŋ ˈtæləntɪd ˈpiːpl/",
+          "yNghia": "\nTôi cũng nghĩ thế. Những chương trình này là một phương pháp tốt để tìm kiếm những người tài năng.",
+          "normal": {
+            "start": "00:01:41.601",
+            "end": "00:01:47.163"
+          },
+          "slow": {
+            "start": "00:02:13.839",
+            "end": "00:02:21.184"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1f377429-3707-46b5-aed9-d002599f6229"
+          },
+          "dapAn": "You’re welcome.",
+          "phienAm": "/jʊər ˈwelkəm/ ",
+          "yNghia": "\nKhông có gì.",
+          "normal": {
+            "start": "00:01:50.396",
+            "end": "00:01:51.625"
+          },
+          "slow": {
+            "start": "00:02:25.711",
+            "end": "00:02:27.077"
+          }
+        }
+      ]
+    }
+  ]
+}

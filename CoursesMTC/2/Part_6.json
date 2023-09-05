@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "21ca2da8-2f7e-4d28-a345-213415ab7e44"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "a3c06e16-0849-4d1e-a1e1-30b59e7f3e49"
+          },
+          "cauHoi": "What does Ellen do for a living?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "99f4c175-557c-4b97-8332-6cc36e410995"
+              },
+              "dapAn": "A. journalist",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9ce4e915-8498-46fb-833d-a41912b75ee0"
+              },
+              "dapAn": "B. worker",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "040b48e6-e45e-4b78-87e9-2856d961be56"
+              },
+              "dapAn": "C. writer",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2a5ff27d-c608-4ba3-b5f4-5ddbbbc71a1a"
+              },
+              "dapAn": "D. A&C",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "18df6dd3-1d56-47ed-abe9-2e2dd3b1ad85"
+          },
+          "cauHoi": "What is the topic of the programme?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2ac93e74-83b4-4c9f-bd3a-1c880a611b7d"
+              },
+              "dapAn": "A. stories of animal",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b7c7ef3c-d41f-4183-8126-f64467962384"
+              },
+              "dapAn": "B. stories of survival",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "12761d74-262f-4f98-9dd6-08c5e8d39e00"
+              },
+              "dapAn": "C. stories of financial",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "48f5c520-c82c-4cf7-82ab-2ed2bd86642c"
+              },
+              "dapAn": "D. stories of sports",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "5a6d9d3e-679c-4889-a38a-b2f7b254f743"
+          },
+          "cauHoi": "Was the Ellen’s book written on her survived tough situations?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6e49438f-2e70-4fb4-8fc3-e4e5d8cdc38e"
+              },
+              "dapAn": "A. Yes, it was written on her situations.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "71a75cc7-03f8-4b84-944b-36a142b27f18"
+              },
+              "dapAn": "B. No, it was.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1e21c14a-c91b-458d-b041-210b6537de28"
+              },
+              "dapAn": "C. No, it was written on other’s situations.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b7431cc7-90e3-4cf6-a912-ac838272eade"
+              },
+              "dapAn": "D. Yes, it wasn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "9aaa4207-f5c6-4d20-b08e-9fa747eaf60d"
+          },
+          "cauHoi": "Why did Ellen come up with the idea to write a book?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6853c1ad-970e-42b9-b1a7-b620e9a9ee08"
+              },
+              "dapAn": "A. Because she read a lot of amazing survival stories.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "29b8971b-b7bd-44c1-9b5e-512a0c943e9f"
+              },
+              "dapAn": "B. Because she travelled to many cities selling amazing survival stories.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "eaefa13f-ac30-41dd-b1b7-0872179efc33"
+              },
+              "dapAn": "C. Because she travelled to many countries and heard a lot of amazing survival stories.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3e8695ea-937a-4ca2-b7ea-27db3e705f18"
+              },
+              "dapAn": "D. Because she travelled to many countries selling amazing survival stories.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Welcome to The Dave Goldstein Podcast. I'm your host, Dave Goldstein. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ellen:</b></td>\n                        <td>Good evening, Dave. I'm Ellen Delgado, a journalist and writer.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Hi, Ms Delgado. Today, we're talking about amazing stories of survival.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ellen:</b></td>\n                        <td>I'm really excited about this topic.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Ellen, have you just written a book on people who have survived tough situations?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ellen:</b></td>\n                        <td>Yes. It was from my real experience when having a chance to meet these people.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Can you tell us more about your book?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ellen:</b></td>\n                        <td>I travelled to many countries and I heard a lot of amazing survival stories. Therefore, I came up with the idea to write a book.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What does Ellen do for a living?</b> <i>(Ellen làm nghề gì?),</i> <b></b>câu trong bài đọc liên quan là <b>I'm Ellen Delgado, a journalist and writer.</b> <i>(Tôi là Ellen Delgado, là một nhà báo và nhà văn.).</i> Nên đáp áp là <b><span style=\"color:red\">D. A&C</span></b>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>What is the topic of the programme?</b> <i>(Chủ đề của chương trình là gì?),</i> <b></b>câu trong bài đọc liên quan là <b>Today, we're talking about amazing stories of survival.</b> <i>(</i><i>Hôm nay, chúng ta đang nói về những câu chuyện tuyệt vời về sự sinh tồn.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">B. stories of survival</span> </b><i>(những câu chuyện sinh tồn)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>Was the Ellen's book written on her survived tough situations?</b> <i>(Có phải cuốn sách của Ellen viết về những tình huống khó khăn mà cô ấy đã sống sót không?),</i> <b></b>câu trong bài đọc liên quan là <b>Yes. It was from my real experience when having a chance to meet these people.</b> <i>(</i><i>Đúng vậy. Đó là từ trải nghiệm thực tế của tôi khi có cơ hội gặp gỡ những người này.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">C. No, it was written on other's situations.</span> </b><i>(Không. Nó được viết dựa trên những tình huống của người khác.)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>Why did Ellen come up with the idea to write a book?</b> <i>(Tại sao Ellen nảy ra ý tưởng viết một cuốn sách?),</i> <b></b>câu trong bài đọc liên quan là <b>I travelled to many countries and I heard a lot of amazing survival stories. Therefore, I came up with the idea to write a book.</b> <i>(</i><i>Tôi đã đi du lịch đến nhiều quốc gia và tôi đã nghe rất nhiều câu chuyện sinh tồn tuyệt vời. Vì vậy, tôi nảy ra ý tưởng viết một cuốn sách</i><i>.).</i> Nên đáp áp là <b><span style=\"color:red\">C. Because she travelled to many countries and heard a lot of amazing survival stories.</span> </b><i>(Vì cô ấy đã</i> <i>du lịch đến nhiều quốc gia và nghe rất nhiều câu chuyện sinh tồn tuyệt vời</i><i>.)</i>.<br />",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "733f1e73-ba0f-4e06-8539-fb8a9802c89f"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "960597eb-0ad7-4992-8e3b-01713ba72964"
+          },
+          "cauHoi": "Where was the woman mentioned in their talk born?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9638313a-fd0b-42c0-9ddf-e332cfd4433c"
+              },
+              "dapAn": "A. Vietnam",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e3aff5c0-c5c2-4c0d-a3bc-643b9117d8c5"
+              },
+              "dapAn": "B. Korea",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f8875186-1176-4e35-9ef5-13d252085778"
+              },
+              "dapAn": "C. Peru",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "8321baca-ad1e-4d7f-a641-756c39bfe2a3"
+              },
+              "dapAn": "D. China",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "27306bb4-af77-4936-b4ee-fddec26e79a5"
+          },
+          "cauHoi": "Where did the lightning hit her plane?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "69bb91c0-65a7-489c-a1e2-e7721a746e12"
+              },
+              "dapAn": "A. ocean",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "630b6144-871a-4a88-ae5a-7bd5e5cd52fd"
+              },
+              "dapAn": "B. airport",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "51110690-842c-4a6f-a0d3-5b177c82ceb5"
+              },
+              "dapAn": "C. sea",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4e9e5ec2-607c-400e-8753-2791c85f7787"
+              },
+              "dapAn": "D. rain forest",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "617bf17f-0eca-4a4a-9082-8880ea9b3842"
+          },
+          "cauHoi": "Did she survive after the falling?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7ec1e693-764f-4e90-ad0d-b7a8e5740e9e"
+              },
+              "dapAn": "A. Yes, she did.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b7b9ab61-a902-4131-99fa-07187027b620"
+              },
+              "dapAn": "B. Yes, she didn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f1d08ec6-83f8-42b0-8479-16f03114f69b"
+              },
+              "dapAn": "C. No, she did.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "12e1c609-97a7-4ae8-be3a-6d9223ee1f4f"
+              },
+              "dapAn": "D. No, she didn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "05167471-3394-4fd3-a0b6-7315c3b69b6e"
+          },
+          "cauHoi": "Did she write an autobiography after that?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3b3feab9-d074-4b9b-bc11-31297f7a1dd5"
+              },
+              "dapAn": "A. No, she didn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "204fe33d-9cb9-4f84-9edf-f8aaf38c5c47"
+              },
+              "dapAn": "B. Yes, she did.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "31306e3f-5127-4073-bdc4-300c5d17d009"
+              },
+              "dapAn": "C. No, she did.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1fdf6b2c-1461-48af-aa64-8f7cf5573c63"
+              },
+              "dapAn": "D. Yes, she didn’t.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Is there any story from your book that you want to share with our audience?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ellen:</b></td>\n                        <td>Yeah. I met a very brave woman, Juliane Koepcke, who was born in Lima, Peru. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>What happened to her?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ellen:</b></td>\n                        <td>In 1971, she was flying over the Amazonian rain forest when lightning hit the plane.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>That's so terrible! And then ....</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ellen:</b></td>\n                        <td>The plane broke up at a height of 3200 meters, and Juliane fell all that way in her seat!</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>But she survived, didn't she?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ellen:</b></td>\n                        <td>Yes. Luckily, once she crash-landed, she found a stream and followed it. After nine days, she was discovered.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>What happened to her after that?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ellen:</b></td>\n                        <td>She wrote her autobiography, ‘When I Fell from the Sky', about her story of survival. </td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Where was the woman mentioned in their talk born?</b> <i>(Người phụ nữ được nhắc đến trong cuộc nói chuyện của họ sinh ra ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>I met a very brave woman, Juliane Koepcke, who was born in Lima, Peru.</b> <i>(</i><i>Tôi đã gặp một phụ nữ rất dũng cảm là Juliane Koepcke, cô ấy sinh ra ở Lima, Peru</i><i>.).</i> Nên đáp áp là <b><span style=\"color:red\">C. Peru</span> </b><i>(Pê-ru.)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>Where did the lightning hit her plane?</b> <i>(Máy bay của cô ấy bị sét đánh tại đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>In 1971, she was flying over the Amazonian rain forest when lightning hit the plane.</b> <i>(</i><i>Năm 1971, cô ấy đang bay qua rừng nhiệt đới Amazon thì bị sét đánh trúng máy bay</i><i>.).</i> Nên đáp áp là <b><span style=\"color:red\">D. rain forest</span> </b><i>(rừng nhiệt đới)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>Did she survive after the falling?</b> <i>(Cô ấy có sống sót sau khi rơi không?),</i> <b></b>câu trong bài đọc liên quan là <b>Host: But she survived, didn't she? / Ellen: Yes.</b> <i>(Người dẫn chương trình: Nhưng cô ấy đã sống sót, phải không? / Ellen: Vâng.).</i> Nên đáp áp là <b><span style=\"color:red\">A. Yes, she did.</span> </b><i>(Có.)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>Did she write an autobiography after that?</b> <i>(Sau đó cô ấy có viết tự truyện không?),</i> <b></b>câu trong bài đọc liên quan là <b>She wrote her autobiography, ‘When I Fell from the Sky', about her story of survival.</b> <i>(</i><i>Cô ấy đã viết cuốn tự truyện ‘Khi tôi rơi từ trên trời xuống', kể về câu chuyện sinh tồn của mình.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">B. Yes, she did.</span> </b><i>(Có.)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "65d89c43-00b8-4fb6-9df4-529b85bc6a57"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "1b99f100-fe5b-421d-89fb-1f1529709f8b"
+          },
+          "cauHoi": "How many people went into the cave in Thailand?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f5f26011-e922-471e-91a3-e32eb6a3bc50"
+              },
+              "dapAn": "A. 11",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4f2cf1de-a0e1-4c7b-a6d5-89a5ac13fe8f"
+              },
+              "dapAn": "B. 12",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d2438730-92ac-4635-9f55-fecc519a8f99"
+              },
+              "dapAn": "C. 13",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "36824b81-14f1-49a0-b692-a7d003ed17a2"
+              },
+              "dapAn": "D. 14",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "524f6f23-2b6a-4e47-89ad-abe434f19abc"
+          },
+          "cauHoi": "How many days were they in there?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "e7295158-a528-428d-b21c-22ec8410113b"
+              },
+              "dapAn": "A. 7",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6e8e2739-e998-4e55-b6f8-d85a75dd9357"
+              },
+              "dapAn": "B. 8",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2ffd8478-c6fa-40b1-b47b-cd79ce64ca7b"
+              },
+              "dapAn": "C. 9",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f2a0acf3-a80d-44cc-a912-6ed786f362bf"
+              },
+              "dapAn": "D. 10",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "61100a0b-d981-4484-8855-4104d1907b9e"
+          },
+          "cauHoi": "Who found them?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ad4e15b0-9f43-45a5-ad86-a24bbff5a443"
+              },
+              "dapAn": "A. the polices",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "431981fd-743e-4663-b0db-88350214cee2"
+              },
+              "dapAn": "B. the divers",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "2f06c9a7-b753-41c5-8c6b-0537b46cf945"
+              },
+              "dapAn": "C. the friends",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "08f1d7be-f95b-4e67-97ec-46ca4aa08ce7"
+              },
+              "dapAn": "D. a stranger",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "87805139-8f16-4e0e-a255-c0a37515753e"
+          },
+          "cauHoi": "Did they succeed in getting out?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "567340c0-68d6-4a91-9385-77331b361237"
+              },
+              "dapAn": "A. Yes, they did.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "ddc569ea-2426-42f6-a799-7a929389904a"
+              },
+              "dapAn": "B. Yes, they didn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "09b8224b-4e2c-44df-a90f-aa11f82f1155"
+              },
+              "dapAn": "C. No, they did.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8333d9ad-7b92-494f-b320-5d5d9ab9b369"
+              },
+              "dapAn": "D. No, they didn’t.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "In 2018, 12 teenagers and their football coach went into a cave in Thailand. It started to rain and they couldn't go out because of the water. They were in there for nine days without food or light. They drank water from the cave walls! The divers found them after a long search, but they still had problems. The water made it very difficult to get the boys out and most of them couldn't swim. In the end, the divers succeeded in getting all the boys out, but it was not easy.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>How many people went into the cave in Thailand?</b> <i>(Có bao nhiêu người đã vào hang động ở Thái Lan?),</i> <b></b>câu trong bài đọc liên quan là <b>In 2018, 12 teenagers and their football coach went into a cave in Thailand.</b> <i>(Năm 2018, 12 thiếu niên và huấn luyện viên bóng đá của họ đã đi vào một hang động ở Thái Lan.).</i> Nên đáp áp là <b><span style=\"color:red\">C. 13</span></b>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>How many days were they in there?</b> <i>(Họ đã ở đó bao nhiêu ngày?),</i> <b></b>câu trong bài đọc liên quan là <b>They were in there for nine days without food or light.</b> <i>(Họ đã ở trong đó chín ngày mà không có thức ăn hay ánh sáng.).</i> Nên đáp áp là <b><span style=\"color:red\">C. 9</span></b>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>Who found them?</b> <i>(Ai đã tìm thấy họ?),</i> <b></b>câu trong bài đọc liên quan là <b>The divers found them after a long search, but they still had problems.</b> <i>(Những người thợ lặn đã tìm thấy họ sau một thời gian dài tìm kiếm, nhưng họ vẫn còn gặp vấn đề.).</i> Nên đáp áp là <b><span style=\"color:red\">B. the divers</span> </b><i>(những người thợ lặn)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>Did they succeed in getting out?</b> <i>(Họ có thoát ra ngoài thành công không?),</i> <b></b>câu trong bài đọc liên quan là <b>In the end, the divers succeeded in getting all the boys out, but it was not easy.</b> <i>(Cuối cùng, những người thợ lặn đã thành công trong việc đưa tất cả các cậu bé ra ngoài, nhưng điều đó không hề dễ dàng.).</i> Nên đáp áp là <b><span style=\"color:red\">A. Yes, they did.</span> </b><i>(Có.)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0ebd0ec6-695f-4c06-b513-25b0d35f249e"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "4d6202d8-241d-4363-aece-b8d284522911"
+          },
+          "cauHoi": "Is he interested in being stuck in a dark cave?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "4e641b3c-50d1-4cd2-a44d-c7f7c7b00692"
+              },
+              "dapAn": "A. No, he isn’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "39a74fc2-fe10-4903-9e2a-d0a630185a0a"
+              },
+              "dapAn": "B. No, he is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "61077074-5e0d-4c57-a706-be005cc7a9e3"
+              },
+              "dapAn": "C. Yes, he isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "330cd1d0-b489-48dc-bdc4-4f860a697ca6"
+              },
+              "dapAn": "D. Yes, he is.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "a3607095-824f-4e46-a842-4909821de58e"
+          },
+          "cauHoi": "What do you need to be to survive when stuck in a dark cave?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "feabf3e1-7234-4772-99f0-49e0665a18cd"
+              },
+              "dapAn": "A. silent",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7b70372f-1cd7-461b-b9b8-5f007ce165c1"
+              },
+              "dapAn": "B. calm",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f6a459d3-9727-45ad-8213-6679c24778bf"
+              },
+              "dapAn": "C. independent",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "37e50c71-d6e7-48da-93b5-1d057caba13e"
+              },
+              "dapAn": "D. B&C",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "5e69dfaa-4df6-49df-8b25-8e0d121c38a2"
+          },
+          "cauHoi": "Does he think the boys and the divers who rescued them are brave?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "db52c9ad-cdfc-4572-a1b3-d3627b1147b3"
+              },
+              "dapAn": "A. Yes, he doesn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4ce1ac5a-db26-4b6a-8624-62eb78cd03b4"
+              },
+              "dapAn": "B. Yes, he does.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "95b0f564-05dd-4530-a573-cad60f1a1bd3"
+              },
+              "dapAn": "C. No, he doesn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a83ef8df-670e-4eef-aa96-12335a6e1d10"
+              },
+              "dapAn": "D. No, he does.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "0ba59578-de52-43b9-a392-a364eb1a5df6"
+          },
+          "cauHoi": "Are the people in the story creative to find a solution to the problem?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "698b5c01-6c7d-4529-b512-dbbb44419d7e"
+              },
+              "dapAn": "A. Yes, they aren’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ad86e83a-9197-4688-8360-37067a232e0a"
+              },
+              "dapAn": "B. No, they are.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "57190a1f-1db7-4ed1-bd17-7c897a96ccfa"
+              },
+              "dapAn": "C. Yes, they are.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "302a324f-044d-4a1a-a91a-121c87ab18b2"
+              },
+              "dapAn": "D. No, they aren’t.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "I hate the idea of being stuck in a dark cave! I would be very scared. You need to be calm and independent to survive like the teenagers and their football coach who stuck in the cave in 2018. I think the boys were really brave, and so were the divers who rescued them. They had to be creative to find a solution to the problem, but they did it. If you're curious, search online and read the full story.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Is he interested in being stuck in a dark cave?</b> <i>(Anh ấy có thích bị mắc kẹt trong hang tối không?),</i> <b></b>câu trong bài đọc liên quan là <b>I hate the idea of ​​being stuck in a dark cave!</b> <i>(Tôi ghét bị mắc kẹt trong hang tối!).</i> Nên đáp áp là <b><span style=\"color:red\">A. No, he isn't.</span> </b><i>(Không.)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>What do you need to be to survive when stuck in a dark cave?</b> <i>(Bạn cần phải làm gì để sống sót khi bị mắc kẹt trong hang tối?),</i> <b></b>câu trong bài đọc liên quan là <b>You need to be calm and independent to survive in a situation like the teenagers and their football coach stuck in the cave in 2018.</b> <i>(Bạn cần bình tĩnh và tự lập để sinh tồn trong tình huống giống như những thiếu niên và huấn luyện viên bóng đá của họ mắc kẹt trong hang động năm 2018.).</i> Nên đáp áp là <b><span style=\"color:red\">D. B&C</span></b>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>Does he think the boys and the divers who rescued them are brave?</b> <i>(Anh ấy có nghĩ những cậu bé và những người thợ lặn đã giải cứu họ dũng cảm không?),</i> <b></b>câu trong bài đọc liên quan là <b>I think the boys were really brave, and so were the divers who rescued them.</b> <i>(Tôi nghĩ các chàng trai đã thực sự dũng cảm, và những người thợ lặn đã giải cứu họ cũng vậy.).</i> Nên đáp áp là <b><span style=\"color:red\">B. Yes, he does.</span> </b><i>(Có.)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>Are the people in the story creative to find a solution to the problem?</b> <i>(Những người trong câu chuyện có sáng tạo để tìm ra giải pháp cho vấn đề không?),</i> <b></b>câu trong bài đọc liên quan là <b>They had to be creative to find a solution to the problem, but they did it.</b> <i>(Họ phải sáng tạo để tìm ra giải pháp cho vấn đề, nhưng họ đã làm được.).</i> Nên đáp áp là <b><span style=\"color:red\">C. Yes, they are.</span> </b><i>(Có.)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0dd7c87f-f3b6-4794-97c0-9128d6c87820"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "9e7bdf82-1b50-45b8-8d0e-a57173be9445"
+          },
+          "cauHoi": "Is staying where you are the best survival strategy?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ac03021e-f8ea-41c3-8353-c98d964bc842"
+              },
+              "dapAn": "A. Yes, it isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "94b3ba88-d4b2-4247-8808-3c01bb471a7c"
+              },
+              "dapAn": "C. No, it is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d5bb41ec-ad79-45db-8082-926d901c4e58"
+              },
+              "dapAn": "B. Yes, it is.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "5d6685ca-1513-4b51-b55d-cf53ad241b33"
+              },
+              "dapAn": "D. No, it isn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "b94960fa-621f-42d6-9dde-e9148c7febe5"
+          },
+          "cauHoi": "Should people set off to try to reach the town?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "17a76cd2-8ef4-4ce5-9c40-3401d2f3d19a"
+              },
+              "dapAn": "A. No, they shouldn’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "bb2894c1-462c-486e-a859-2eff66f43ecf"
+              },
+              "dapAn": "B. No, they should.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8c3460a2-bc24-4b60-b111-caffadc22961"
+              },
+              "dapAn": "C. Yes, they shouldn’t",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7a6a33a9-17cb-4eae-9b2d-7aff399ca84b"
+              },
+              "dapAn": "D. Yes, they should.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "210f2b47-bc86-483c-8e9d-e4346096f098"
+          },
+          "cauHoi": "What is not useful?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "14f62118-d6c4-4318-9d0f-68c85adf471a"
+              },
+              "dapAn": "A. the map of the area",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a3caee13-87dc-4175-ae61-e1d30b6d27de"
+              },
+              "dapAn": "B. radio",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2c375f4b-62b5-448f-8f1b-ec55916fb54e"
+              },
+              "dapAn": "C. water",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "abcf4843-1a5b-4376-9340-88d1ffe2bf8e"
+              },
+              "dapAn": "D. A&B",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "35d5d0e4-fc07-4baa-9bde-da31097bce8e"
+          },
+          "cauHoi": "What is useful when the temperature drops at night",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3d81455d-55b6-48fa-8ba0-a356e2df870c"
+              },
+              "dapAn": "A. food",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c5fb3305-d244-42d3-9a7a-5a6c520ae049"
+              },
+              "dapAn": "B. radio",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "60dd7499-ebb9-4493-844b-1b6e5c66e219"
+              },
+              "dapAn": "C. clothes",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "555b2a1c-b5dc-4d2b-815d-e0ce12abbe28"
+              },
+              "dapAn": "D. smartphone",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "The best survival strategy is to stay where you are. Each pilot flies a light plan before taking off, and so rescuers will follow that when the plane doesn't arrive at your destination. The worst strategy is to set off to try to reach the town. You would be unlikely to get there before becoming exhausted.  Therefore, the map of the area is not very useful. The radio is also unlikely to be much help, because you can only receive a signal. The clothes will be useful when the temperature drops at night. ",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Is staying where you are the best survival strategy?</b> <i>(Ở yên vị trí của bạn có phải là chiến lược sinh tồn tốt nhất?),</i> <b></b>câu trong bài đọc liên quan là <b>The best survival strategy is to stay where you are.</b> <i>(Chiến lược sinh tồn tốt nhất là ở yên vị trí của bạn.).</i> Nên đáp áp là <b><span style=\"color:red\">B. Yes, it is.</span> </b><i>(Có.)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>Should people set off to try to reach the town?</b> <i>(Mọi người có nên khởi hành để cố gắng đến được thị trấn không?),</i> <b></b>câu trong bài đọc liên quan là <b>The worst strategy is to set off to try to reach the town.</b> <i>(Chiến lược tồi tệ nhất là khởi hành để cố gắng đến được thị trấn.).</i> Nên đáp áp là <b><span style=\"color:red\">A. No, they shouldn't.</span> </b><i>(Không.)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>What is not useful?</b> <i>(Cái gì không hữu ích?),</i> <b></b>câu trong bài đọc liên quan là <b>Therefore, the map of the area is not very useful. The radio is also unlikely to be much help, because you can only receive a signal.</b> <i>(Do đó, bản đồ của khu vực không phải là hữu ích lắm. Đài cũng khó có thể giúp ích được nhiều vì bạn chỉ có thể nhận được một tín hiệu.).</i> Nên đáp áp là <b><span style=\"color:red\">D. A&B</span></b>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>What is useful when the temperature drops at night?</b> <i>(Cái gì hữu ích khi nhiệt độ giảm vào ban đêm?),</i> <b></b>câu trong bài đọc liên quan là <b>The clothes will be useful when the temperature drops at night.</b> <i>(Quần áo sẽ hữu ích khi nhiệt độ giảm vào ban đêm.).</i> Nên đáp áp là <b><span style=\"color:red\">C. clothes</span> </b><i>(quần áo)</i>.",
+      "danhSachDapAn": []
+    }
+  ]
+}

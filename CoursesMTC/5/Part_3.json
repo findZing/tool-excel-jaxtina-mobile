@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0_1",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "a2b7ec9f-ace5-4daa-ad60-673aa1134d51"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Humanity",
+      "yNghia": "Lòng nhân đạo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2a6f8e5d-4ca9-4f87-8869-f07c6be65ff0"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Machine",
+      "yNghia": "Máy móc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "767dec10-7084-4fc6-8cf7-fc1db0f162c1"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Application",
+      "yNghia": "Ứng dụng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0d3c7761-502d-4aa9-95f2-cab46f221a27"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "E-payment",
+      "yNghia": "Thanh toán trực tuyến",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a8e59800-4914-4e0a-86ba-dbe57f1db56f"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Researcher",
+      "yNghia": "Nhà nghiên cứu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6f850368-f58e-4c9f-b041-c4b0efed87ed"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Intelligence",
+      "yNghia": "Trí tuệ, sự thông minh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0662f249-c4b4-408e-ae63-a0d787abd058"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Artificial",
+      "yNghia": "Nhân tạo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1f9f155c-9a16-43ee-810c-0229e90860f8"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Complicated",
+      "yNghia": "Phức tạp, rắc rối",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "be2305b2-d13a-4491-aeae-31099bba29a8"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Cognitive dissonance",
+      "yNghia": "Bất hòa nhận thức",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4ca37c08-ae49-4dc3-9278-357cfd18c1f0"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Problem solving",
+      "yNghia": "Giải quyết vấn đề",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "dd6679b3-6302-479b-b5b9-2973a63eacca"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Computer system",
+      "yNghia": "Hệ thống máy tính",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "33abfd70-275f-4559-8557-527eae252550"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Data analysis",
+      "yNghia": "Phân tích số liệu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "34c9e42f-b33c-487e-b87e-f9beda07a9d9"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Automated process",
+      "yNghia": "Quy trình tự động",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2316b842-c029-48d5-9069-7bcfaea6cad3"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Facial recognition",
+      "yNghia": "Nhận diện khuôn mặt",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5ac52ff5-26eb-4e68-8d97-59e57ec0f39e"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Take actions",
+      "yNghia": "Hành động",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e30df3f1-9c02-476c-bc42-accb1e96442d"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Contribute to",
+      "yNghia": "Đóng góp cho cái gì",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b98ea116-8c46-4e36-b769-c2100a20ac5b"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Communicate with",
+      "yNghia": "Giao tiếp với ai",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "56b8b123-64f0-4649-bfdc-12519d88f6d3"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Confirmation bias",
+      "yNghia": "Thiên kiến xác nhận",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2fdf0414-338e-48cb-8aa0-531aa600b3b4"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Make an effort to",
+      "yNghia": "Cố gắng làm điều gì",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5f324a4a-340b-4d5d-8ddf-52e61e1a7272"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Health profession",
+      "yNghia": "Ngành y tế",
+      "danhSachDapAn": []
+    }
+  ]
+}

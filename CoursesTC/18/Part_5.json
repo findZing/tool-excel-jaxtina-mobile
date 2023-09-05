@@ -1,0 +1,176 @@
+{
+  "dangCauHoi": "P2",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "cc9eb498-e2a4-4976-92d2-bcaa2dc70aac"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_TC_L18/sounds/normal/TC_18_LISTENING_Listening 1.mp3",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Barney:</b></td>\n                        <td>Hey, Jane. <span style=\"color:red\">I learned many things in my Electrical Engineering class today.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Này, Jane. Tôi đã học được nhiều thứ trong lớp Kỹ thuật điện của tôi ngày hôm nay.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Jane:</b></td>\n                        <td>Oh really? <span style=\"color:red\">What did you learn?</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Ồ vậy ư? Bạn đã học được gì?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Barney:</b></td>\n                        <td>I learned about inverters, electric current, and utility meters. </td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi đã học về bộ biến tần, dòng điện và đồng hồ đo điện.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Jane:</b></td>\n                        <td><span style=\"color:red\">That sounds interesting.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Điều đó nghe có vẻ thú vị.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Barney:</b></td>\n                        <td>Yeah. Those concepts are quite new and exciting to me.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Ừ. Những khái niệm đó khá mới mẻ và thú vị đối với tôi.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Jane:</b></td>\n                        <td><span style=\"color:red\">Can you explain a bit more?</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Bạn có thể giải thích thêm một chút không?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Barney:</b></td>\n                        <td>For example, an inverter is an electronic device or part of a circuit that changes direct current to alternating current.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Ví dụ: bộ biến tần là một thiết bị điện tử hoặc một phần của mạch biến đổi dòng điện một chiều thành dòng điện xoay chiều.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Jane:</b></td>\n                        <td><span style=\"color:red\">What about electric current?</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Còn dòng điện thì sao?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Barney:</b></td>\n                        <td>Electric current is the flow of electricity in an electronic circuit.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Dòng điện là một dòng chạy trong mạch điện.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Jane:</b></td>\n                        <td>I don't really get it. How about utility meters?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi không hiểu lắm. Còn đồng hồ điện thì sao?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Barney:</b></td>\n                        <td>They are quite common. You use a utility meter to monitor the consumption of water, gas, or electricity.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Chúng khá phổ biến. Bạn sử dụng nó để theo dõi mức tiêu thụ nước, gas hoặc điện.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Jane:</b></td>\n                        <td>Did you learn how we generate electricity or direct the flow of a current?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Bạn đã được học về cách chúng ta tạo ra điện hoặc điều hướng dòng điện chưa?</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Barney:</b></td>\n                        <td>No. I think the instructor will cover next week. </td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Chưa. Tôi nghĩ giảng viên sẽ giảng những cái đó vào tuần tới.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Jane:</b></td>\n                        <td>This topic is so hard. I don't think I can study that major.<br />\n                        Chủ đề này thật khó. Tôi không nghĩ tôi có thể học được chuyên ngành này.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Barney:</b></td>\n                        <td>But you are good at French. I don't think I can study French.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Nhưng bạn giỏi tiếng Pháp. Tôi không nghĩ là tôi có thể học tiếng Pháp.</td>\n                </tr>\n        </tbody>\n</table>\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3e4da9ef-e310-43af-a594-df08e705776a"
+          },
+          "dapAn": "I learned many things in my Electrical Engineering class today.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "15418490-d311-428a-b483-9e30081ec71a"
+          },
+          "dapAn": "What did you learn?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ea7e41f8-4a24-4c4c-bde4-be6ede6b57b5"
+          },
+          "dapAn": "That sounds interesting.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "16939524-8d32-4113-8dd0-9cbd9ac6a6b6"
+          },
+          "dapAn": "Can you explain a bit more?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3a0d4590-69af-4e2f-8197-71a314cdd0cb"
+          },
+          "dapAn": "What about electric current?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9c2cfe8d-f40c-40e2-ae1d-2d4d21105851"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_TC_L18/sounds/normal/TC_18_LISTENING_Listening 2.mp3",
+      "yNghia": "Living space is one basic housing factor that purchasers will examine before buying a house. The quality of living space affects housing prices. <span style=\"color:red\">In </span><span style=\"color:red\">Hong Kong</span><span style=\"color:red\">, buildable</span> <span style=\"color:red\">space is limited due to government planning policy.</span> This limitation has led to a compact design solution for housing developments. Hong Kong is one of the most densely populated areas in the world. Urban space is at a high cost. <span style=\"color:red\">As a result, there are always arguments in favour of and against compact</span> <span style=\"color:red\">urban form.</span> A large number of residents can share the common space and facilities within mass housing estates. <span style=\"color:red\">However, a high concentration of residents also results in a very congested environment.</span> Home buyers are willing to pay for attributes such as more ﬂoor area, provision of smart equipment, and access to natural lighting. <span style=\"color:red\">T</span><span style=\"color:red\">hey are also forced to pay for common space and facilities that have to be shared</span> <span style=\"color:red\">with other household</span><span style=\"color:red\">s. Moreover, they are not allowed to convert their houses without governmental permission.</span><br />\r\n<br />\r\nKhông gian sống là một điểm cơ bản mà người mua sẽ xem xét trước khi mua nhà. Chất lượng không gian sống ảnh hưởng đến giá nhà đất. Tại Hồng Kông, không gian có thể xây dựng bị hạn chế do chính sách quy hoạch của chính phủ. Hạn chế này đã dẫn đến một giải pháp thiết kế mật độ cao và nhỏ gọn để phát triển nhà ở. Hồng Kông là một trong những khu vực đông dân cư nhất trên thế giới. Không gian đô thị ở mức cao. Kết quả là luôn có những tranh luận ủng hộ và phản đối hình thức đô thị nhỏ gọn. Một số lượng lớn cư dân có thể chia sẻ không gian và cơ sở vật chất chung trong các khu nhà ở tập thể. Tuy nhiên, mật độ dân cư đông đúc cũng dẫn đến không gian tắc nghẽn. Người mua nhà sẵn sàng trả tiền để có được các tiện ích như diện tích sàn nhiều hơn, cung cấp thiết bị thông minh và tiếp cận với ánh sáng tự nhiên. Nhưng họ cũng buộc phải trả tiền cho không gian chung và các cơ sở phải được chia sẻ với các hộ gia đình khác. Và họ không được phép chuyển đổi nhà của họ mà không có sự cho phép của chính phủ.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f99aca86-c2ae-413b-9c78-40a5d5a35b58"
+          },
+          "dapAn": "In Hong Kong, buildable space is limited due to government planning policy.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ae39112e-7524-4f26-a8ab-6de49b45a002"
+          },
+          "dapAn": "As a result, there are always arguments in favour of and against compact urban form.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ee5e86d1-7415-47b2-a733-52ed6508180c"
+          },
+          "dapAn": "However, a high concentration of residents also results in a very congested environment.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "776cf263-edd7-4e77-befd-2d6b0fe18d9a"
+          },
+          "dapAn": "They are also forced to pay for common space and facilities that have to be shared with other households.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "41bab518-c9ca-4ad3-88ea-c8c56d3a0c03"
+          },
+          "dapAn": "Moreover, they are not allowed to convert their houses without governmental permission.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "073209f1-53c2-4cf0-a997-2146006c878b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_TC_L18/sounds/normal/TC_18_LISTENING_Listening 3.mp3",
+      "yNghia": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Lily:</b></td>\r\n\t\t\t<td>Hello everyone. Today I - Lily and Aiden will talk about the future of our homes.<br />\r\n\t\t\tXin chào mọi người. Hôm nay tôi - Lily và Aiden sẽ nói về tương lai của ngôi nhà của chúng ta.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Aiden:</b></td>\r\n\t\t\t<td>Thanks, Lily. I'm Aiden. <span style=\"color:red\">We'd like to focus on energy.</span><br />\r\n\t\t\tCảm ơn, Lily. Tôi là Aiden. Chúng tôi muốn tập trung vào nội dung về năng lượng.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Lily:</b></td>\r\n\t\t\t<td>The appliances in our houses, such as air conditioners and heaters, use a lot of energy. <span style=\"color:red\">What is the solution?</span><br />\r\n\t\t\tCác thiết bị trong nhà của chúng ta, chẳng hạn như máy điều hòa và máy sưởi, sử dụng rất nhiều năng lượng. Vậy giải pháp là gì?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Aiden:</b></td>\r\n\t\t\t<td>In the future, we are going to be using renewable energy such as wind power, wave power and solar power.<br />\r\n\t\t\tTrong tương lai, chúng ta sẽ sử dụng năng lượng có thể tái tạo được như năng lượng gió, năng lượng sóng và năng lượng mặt trời.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Lily:</b></td>\r\n\t\t\t<td>I agree. <span style=\"color:red\">Here's a diagram explaining how solar power works.</span><br />\r\n\t\t\t Tôi đồng ý. Đây là sơ đồ giải thích cách thức hoạt động của năng lượng mặt trời.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Aiden:</b></td>\r\n\t\t\t<td>On the roof of the house, we have solar panels. <span style=\"color:red\">These receive sunlight on sunny days.</span><br />\r\n\t\t\tTrên mái nhà, chúng tôi có các tấm quang năng. Chúng nhận được ánh sáng mặt trời vào những ngày nắng.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Lily:</b></td>\r\n\t\t\t<td>Aiden, can you tell us how we can get the electricity?<br />\r\n\t\t\tAiden, bạn có thể cho chúng tôi biết làm thế nào chúng ta có thể có điện được không?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Aiden:</b></td>\r\n\t\t\t<td><span style=\"color:red\">The light falls on special materials, which create electricity.</span> This electricity is direct current, or DC.<br />\r\n\t\t\tÁnh sáng chiếu vào những vật liệu đặc biệt, những vật liệu mà tạo ra điện. Điện này là dòng điện một chiều, hay DC.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Lily:</b></td>\r\n\t\t\t<td>But we are using AC or alternating current not DC.<br />\r\n\t\t\tNhưng chúng ta đang sử dụng AC hay dòng điện xoay chiều chứ không phải DC.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Aiden:</b></td>\r\n\t\t\t<td><span style=\"color:red\">This electricity goes to the inverter from the solar panels, which changes the DC into AC.</span><br />\r\n\t\t\tĐiện này đi đến biến tần từ các tấm quang năng, biến đổi DC thành AC.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Lily:</b></td>\r\n\t\t\t<td>It then sends the electricity to the appliances such as the kitchen stove, the dishwasher, and washing machine.<br />\r\n\t\t\tSau đó, nó truyền điện đến các thiết bị như bếp lò, máy rửa chén và máy giặt.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Aiden:</b></td>\r\n\t\t\t<td>Exactly. <span style=\"color:red\">Sometimes, the system creates a lot of energy and the electrical grid takes the power that the house doesn't need. </span><br />\r\n\t\t\tChính xác. Đôi khi, hệ thống tạo ra rất nhiều năng lượng và lưới điện lấy năng lượng mà ngôi nhà không cần.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Lily:</b></td>\r\n\t\t\t<td>That's right. <span style=\"color:red\">That way, other houses can use the electricity.</span><br />\r\n\t\t\tĐúng vậy. Bằng cách đó, những ngôi nhà khác có thể sử dụng điện.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Aiden:</b></td>\r\n\t\t\t<td>How about on days when there is no sun?<br />\r\n\t\t\tCòn những ngày không có nắng thì sao?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Lily:</b></td>\r\n\t\t\t<td><span style=\"color:red\">Ah, the grid provides the house with power.</span><br />\r\n\t\t\tÀ, lưới điện sẽ cung cấp điện cho ngôi nhà.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Aiden:</b></td>\r\n\t\t\t<td>So convenient! In the future, we might see solar windows on buildings.<br />\r\n\t\t\tThật tiện lợi! Trong tương lai, chúng ta có thể thấy cửa sổ năng lượng mặt trời trên các tòa nhà.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Lily:</b></td>\r\n\t\t\t<td><span style=\"color:red\">We could also see solar clothes or solar sunglasses.</span><br />\r\n\t\t\tChúng ta cũng có thể thấy quần áo năng lượng mặt trời hoặc kính râm năng lượng mặt trời.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Aiden:</b></td>\r\n\t\t\t<td>They work like solar panels, creating energy to power your devices.<br />\r\n\t\t\tChúng hoạt động giống như các tấm quang năng, tạo ra năng lượng để cung cấp năng lượng cho các thiết bị của bạn.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Lily:</b></td>\r\n\t\t\t<td>How useful they are!<br />\r\n\t\t\tChúng thật hữu ích làm sao!</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Aiden:</b></td>\r\n\t\t\t<td>Sure! We can't use energy from fossil fuels forever.<br />\r\n\t\t\tChắc chắn rồi! Chúng ta không thể sử dụng năng lượng từ nhiên liệu hóa thạch mãi được.</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3e9d483f-bbbd-4d23-bad5-97b6619df974"
+          },
+          "dapAn": "We’d like to focus on energy.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6fb547c4-621e-43f0-bde8-f205890f585f"
+          },
+          "dapAn": "What is the solution?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ce503256-c6e1-472a-91a1-5eab4d3ac825"
+          },
+          "dapAn": "Here’s a diagram explaining how solar power works.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "72b3347a-98f2-4003-807d-a2f3b5cd7d65"
+          },
+          "dapAn": "These receive sunlight on sunny days.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3c4a5718-ce64-41ba-9b71-5fc1b2a68bad"
+          },
+          "dapAn": "The light falls on special materials, which create electricity.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d2f7dc47-45f0-481e-b517-bfe43a0308f1"
+          },
+          "dapAn": "This electricity goes to the inverter from the solar panels, which changes the DC into AC.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "734f2bc1-c3bd-456e-a8c5-74b77230029f"
+          },
+          "dapAn": "Sometimes, the system creates a lot of energy and the electrical grid takes the power that the house doesn’t need.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "91bb6bcf-6c19-4b49-a8cb-cb62667a1ee2"
+          },
+          "dapAn": "That way, other houses can use the electricity.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f3c994f5-dabc-4de6-82d1-9d473b8ee58c"
+          },
+          "dapAn": "Ah, the grid provides the house with power.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "72b3f421-7530-4c1e-8331-d19407530c36"
+          },
+          "dapAn": "We could also see solar clothes or solar sunglasses.",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

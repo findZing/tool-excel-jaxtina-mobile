@@ -4,8 +4,8 @@ const { v4: uuidv4, v4 } = require("uuid");
 
 // const pathLesson = "/Users/manhnguyenhuu/Desktop/Jaxtina/jax2/app/screens/Courses/assets/data/4SKILLS_PRE_S/lessons/"
 //Đường dẫn nơi lưu trữ file
-const pathLesson = "./CourseMTC/";
-//Lesson Cần Update | Để trống thì update toàn bộ lesson
+const pathLesson = "./CoursesMTC/";
+//Lesson Cần Update | Để trống thì update toàn   bộ lesson
 const lessonNeedUpdate = [];
 //Dạng Cần Update | Để trống thì update toàn bộ dạng
 const dangNeedUpdate = [];
@@ -123,6 +123,7 @@ function writeFileJson(data, folderName, index) {
 }
 
 function getDangBaiHoc(cacDangBaiHoc, dang, ten) {
+
   if (dang.toLowerCase() == "test") {
     // console.log(ten)
     if (ten.toLowerCase().includes("mini test")) {
@@ -306,6 +307,8 @@ for (lesson of _4Skills) {
                 cauHoi: doc["Nội dung"],
                 yNghia: doc["Giải thích"],
                 danhSachDapAn: DanhSachDapAn,
+                lyThuyetDu: doc["Nội dung ngữ pháp đầy đủ"], 
+                lyThuyetGon: doc["Nội dung ngữ pháp tóm tắt"]
               });
               normalQuestionIndex = DanhSachCauHoi.length - 1;
             }

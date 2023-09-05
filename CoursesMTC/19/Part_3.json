@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0_1",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "9464d935-a2bd-4480-8027-cb5d160a6ae7"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Contest",
+      "yNghia": "Cuộc thi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c8d2242b-c01d-4bf3-8617-66b58d932dbc"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Contestant",
+      "yNghia": "Người dự thi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b1a195af-aad0-4362-b5b2-4e761e7ae7af"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Audition",
+      "yNghia": "Phần thi, phần biểu diễn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f76aa30b-a6c1-4126-a56f-dfb10e10542e"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Entertainer",
+      "yNghia": "Nghệ sĩ biểu diễn (để giải trí)",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "fde17542-1edd-428f-bed5-75b1bce25418"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Judge",
+      "yNghia": "Giám khảo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "dbcff568-c8be-4864-8a01-9eb7aaf3384e"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Acrobat",
+      "yNghia": "Diễn viên xiếc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "08d4f0ee-561c-417d-b2b0-f868f88d1cfc"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Ventriloquist",
+      "yNghia": "Người nói tiếng bụng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c1a6d41f-d7bd-4fb6-8adf-b1aaaadebfb4"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Trophy",
+      "yNghia": "Chiếc cúp (cho người chiến thắng)",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2829fd70-a4f7-4793-8e70-b12ab65bd1eb"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Amateur",
+      "yNghia": "Nghiệp dư",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a837cc6f-9fa5-4b6d-90eb-3d732d629a70"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Music producer",
+      "yNghia": "Nhà sản xuất âm nhạc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d75d9633-7c31-4809-b4fd-25e68af208c8"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Dream big",
+      "yNghia": "Có mục tiêu, hy vọng và hoài bão lớn lao",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b24299c2-239b-46ed-92f2-61cacea77757"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Turn down",
+      "yNghia": "Từ chối",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "462bb524-4774-4800-97af-a50ca1bfba71"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Come back",
+      "yNghia": "Quay trở lại",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "428c64de-afe8-4e15-917b-ff482188b8dd"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Be hungry for success",
+      "yNghia": "Khao khát thành công",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "df06ee75-8521-48d8-b3a8-5e054fd4fe81"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Across the planet",
+      "yNghia": "Khắp thế giới",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "65746f4f-a848-4517-90e4-9c6edd071cd1"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Performance",
+      "yNghia": "Phần trình diễn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2bf9ca1f-1aff-4214-805e-c54059cf04cb"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Wheelchair dancer",
+      "yNghia": "Vũ công ngồi trên xe lăn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d9934b60-8e19-48f3-a66a-d8ae46a19b92"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Act",
+      "yNghia": "Tiết mục, phần diễn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4c46fbbf-b3ee-49ac-b033-3f094560b2ee"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Audition-based show",
+      "yNghia": "Chương trình dựa trên buổi thử giọng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "29421461-8a01-4930-9c26-154d3e667e92"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Look for",
+      "yNghia": "Tìm kiếm",
+      "danhSachDapAn": []
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+  {
+    "dangCauHoi": "P7",
+    "elementType": "WRITING",
+    "danhSachCauHoi": [
+      {
+        "_id": {
+          "$oid": "d3d8b8fc-7b86-44b2-b83b-b83cd5889b7d"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "There _______<b><span style=\"color:blue\"> (be)</span></b> a brush in the cup.",
+        "yNghia": "<b>a brush</b> là cụm danh từ số ít, nên sau <b>There </b>sẽ là động từ <i>to be</i><b> is</b>. Câu hoàn chỉnh là <b>There <span style=\"color:red\">is </span>a brush in the cup. </b><i>(Có một cái bàn chải trong cốc.).</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "ef1b833d-88f9-4c14-ad4d-fb3699432f3a"
+            },
+            "dapAn": "is",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "75724827-f448-40ad-8412-1450bf2fde61"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "There _______<span style=\"color:blue\"><b> (be)</b></span> some cases on the shelf behind you.",
+        "yNghia": "<b>some cases</b> là cụm danh từ số nhiều, nên sau <b>There </b>sẽ là động từ <i>to be</i> <b>are</b>. Câu hoàn chỉnh là <b>There <span style=\"color:red\">are </span>some cases on the shelf behind you.</b> <i>(Có một vài cái túi đựng máy tính ở trên giá đằng sau bạn.).</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "81575c8d-5f14-416f-8301-641d932b9005"
+            },
+            "dapAn": "are",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "cab69690-a08e-4a4a-91a8-1cf43abb1ce1"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "I have three _______<span style=\"color:blue\"><b> (notebook)</b></span>.",
+        "yNghia": "<b>three </b>là số nhiều nên <b>notebook </b>phải đổi sang dạng số nhiều bằng cách thêm \"<b>s</b>\" vào sau, ta được <b>notebooks</b>. Câu hoàn chỉnh là<b> I have three <span style=\"color:red\">notebooks</span>.</b> <i>(Tôi có 3 <span style=\"color:red\">cuốn sổ ghi chú</span>.).</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "80a933df-34c3-467c-8b22-2f855b0deaf4"
+            },
+            "dapAn": "notebooks",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "1fd18dd8-7b5d-464a-b056-7328aab2a14d"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "My sister wants to buy a _______ <b><span style=\"color:blue\">(laptop)</span></b>.",
+        "yNghia": "Sau mạo từ <b>a </b>là danh từ số ít nên danh từ <b>laptop </b>được giữ nguyên. Câu hoàn chỉnh là <b>My sister wants to buy a <span style=\"color:red\">laptop</span>.</b> <i>(Em gái tôi muốn mua một cái <span style=\"color:red\">máy tính xách tay</span>.).</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "f0b98fa2-dab1-453c-94a4-5cd9ed8ea388"
+            },
+            "dapAn": "laptop",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "50995a7e-4a0f-4b8e-8201-acf5920c5d73"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "There <span style=\"color:blue\"><b>_______ (be) </b></span>two beds in here.",
+        "yNghia": "<b>two beds </b>là cụm danh từ số nhiều, nên sau <b>There </b>sẽ là <b>are</b>. Câu hoàn chỉnh là <b>There <span style=\"color:red\">are </span>two beds in here.</b> <i>(Có hai cái giường ở đây.).</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "62ce1026-ce6f-4975-9e9b-74e1a21b05f2"
+            },
+            "dapAn": "are",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "bb5d9364-dfd4-483e-a741-1e9a9afd3848"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "My backpack _______ <span style=\"color:blue\"><b>(be) </b></span>quite small.",
+        "yNghia": "<b>backpack </b>là danh từ số ít, nên động từ<i> to be </i>theo sau sẽ là <b>is</b>. Câu hoàn chỉnh là <b>My backpack <span style=\"color:red\">is </span>quite small.</b> <i>(Ba lô của tôi khá nhỏ.).</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "0cc2c380-7555-4c98-ad06-3bacf6122dae"
+            },
+            "dapAn": "is",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "f4b2741f-d328-470b-8e90-a97d51da8aae"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "There is a phone on the desk and there _______ <span style=\"color:blue\"><b>(be) </b></span>a tablet on the bed.",
+        "yNghia": "<b>a tablet</b> là cụm danh từ số ít, nên sau <b>There </b>sẽ là <b>is</b>. Câu hoàn chỉnh là<b> ... there <span style=\"color:red\">is </span>a tablet on the bed. </b><i>(... có một cái máy tính bảng ở trên giường.)</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "828e851a-8ece-4dc4-8595-2c06d34e4593"
+            },
+            "dapAn": "is",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "ed4d973b-83f6-41f7-af04-24a6a8506374"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "There _______ <b><span style=\"color:blue\">(be) </span></b>some cards on the table. Maybe my ID card is there too.",
+        "yNghia": "<b>some cards</b> là cụm danh từ số nhiều, nên sau <b>There </b>sẽ là <b>are</b>. Câu hoàn chỉnh là <b>There <span style=\"color:red\">are </span>some cards on the table</b>. <i>(Có vài cái thẻ trên bàn.)</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "491a4610-1494-4aae-bda0-903b714ee205"
+            },
+            "dapAn": "are",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "39c3a313-f4cd-4f06-9503-104703faf4e1"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "There are five _______ <span style=\"color:blue\"><b>(umbrella)</b></span> in front of my house.",
+        "yNghia": "<b>five </b>là số nhiều nên <b>umbrella </b>phải đổi sang dạng số nhiều bằng cách thêm \"<b>s</b>\" vào sau danh từ, ta được <b>umbrellas</b>. Câu hoàn chỉnh là <b>There are five <span style=\"color:red\">umbrellas </span>in front of my house.</b> <i>(Có năm cái <span style=\"color:red\">ô </span>trước cửa nhà tôi.)</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "ac53d6e4-3b03-4165-8de4-91698f0f16b5"
+            },
+            "dapAn": "umbrellas",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "4bae2c78-5284-41a3-8e7b-6fea81a48cb5"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "I have one backpack and two _______<b><span style=\"color:blue\"> (bag)</span></b>.",
+        "yNghia": "<b>two </b>là số nhiều nên <b>bag </b>phải đổi sang dạng số nhiều bằng cách thêm \"<b>s</b>\" vào sau danh từ, ta được <b>bags</b>. Câu hoàn chỉnh là <b>I have one backpack and two <span style=\"color:red\">bags</span>. </b><i>(Tôi có một chiếc ba lô và hai cái <span style=\"color:red\">túi</span>.)</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "bbf8b31b-1464-47b8-a63d-b4625c7304fa"
+            },
+            "dapAn": "bags",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "016f59b6-83c0-4963-81fc-2b6d71d101c7"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "The _______ <b><span style=\"color:blue\">(cat)</span></b> is sleeping on the table.",
+        "yNghia": "Động từ to be <b>is </b>theo sau danh từ số ít nên <b>cat </b>được giữ nguyên. Câu hoàn chỉnh là <b>The <span style=\"color:red\">cat </span>is sleeping on the table.</b> <i>(<span style=\"color:red\">Con mèo </span>đang ngủ trên một cái bàn.)</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "6e35beb9-82e2-4e47-8932-cbc3cd6f9609"
+            },
+            "dapAn": "cat",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "a9d8d875-3d56-4068-be3f-474cdbd681f1"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "There are two _______ <b><span style=\"color:blue\">(watch)</span></b> on the desk.",
+        "yNghia": "<b>two </b>là số nhiều nên <b>watch</b> phải đổi sang dạng số nhiều bằng cách thêm \"<b>es</b>\", ta được <b>watches</b>. Câu hoàn chỉnh là <b>There are two <span style=\"color:red\">watches </span>on the desk. </b><i>(Có hai cái <span style=\"color:red\">đồng hồ</span> trên bàn.)</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "d7f7a943-d87c-49d8-920f-b634f756bda3"
+            },
+            "dapAn": "watches",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "081abe1d-c048-4925-bff5-71af7288d0ff"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "There are four _______ <b><span style=\"color:blue\">(laptop)</span></b> here.",
+        "yNghia": "<b>four </b>là số nhiều nên danh từ <b>laptop </b>phải đổi sang dạng số nhiều bằng cách thêm \"<b>s</b>\" vào sau danh từ, ta được <b>laptops</b>. Câu hoàn chỉnh là <b>There are four <span style=\"color:red\">laptops</span> here. </b><i>(Có bốn cái <span style=\"color:red\">máy tính xách tay</span> ở đây.)</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "ef431edf-70e7-4d83-a6d9-78ef9533d716"
+            },
+            "dapAn": "laptops",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "43dfacb5-c189-4078-876d-85fba949d1ce"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "There _______ <span style=\"color:blue\"><b>(be) </b></span>a laptop case inside my backpack.",
+        "yNghia": "<b>a laptop case</b> là cụm danh từ số ít, nên sau <b>There </b>sẽ là động từ<i> to be </i><b>is</b>. Câu hoàn chỉnh là <b>There <span style=\"color:red\">is</span> a laptop case inside my backpack. </b><i>(Có một cặp đựng máy tính xách tay trong ba lô của tôi.)</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "9cb6a6a9-fd66-4ca0-9e84-27da0b4ac293"
+            },
+            "dapAn": "is",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "bc9c062e-fad3-4c94-b38b-c16c9a3687c8"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "There _______<b><span style=\"color:blue\"> (be)</span></b> an ID card and a transit card on the table.",
+        "yNghia": "<b>a pen</b> là cụm danh từ số ít, nên sau <b>There </b>sẽ là động từ<i> to be</i> <b>is</b>. Câu hoàn chỉnh là <b>There <span style=\"color:red\">is </span>an ID card and a transit card on the table. </b><i>(Có một cái thẻ căn cước và một cái thẻ quá cảnh ở trên bàn.)</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "226a12aa-458f-4d08-9edb-c45d92a19283"
+            },
+            "dapAn": "is",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "3d7ced87-fdd7-4105-b7bd-f82a79acc407"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "There _______ <span style=\"color:blue\"><b>(be) </b></span>a wallet and two phones under the umbrella.",
+        "yNghia": "<b>a wallet</b> là cụm danh từ số ít, nên sau <b>There </b>sẽ là động từ<i> to be</i> <b>is</b>. Câu hoàn chỉnh là <b>There <span style=\"color:red\">is </span>a wallet and two phones under the umbrella.<i> </i></b><i>(Có một cái ví tiền và hai cái điện thoại ở dưới cái ô.)</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "8bf735f2-51e2-4e66-b11c-345d8aa8076b"
+            },
+            "dapAn": "is",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "1f426f17-6acc-4729-a904-fef7ef94f4ec"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "There _______ <b><span style=\"color:blue\">(be) </span></b>two brushes and an e-reader near the window.",
+        "yNghia": "<b>two brushes </b>là cụm danh từ số nhiều, nên sau <b>There </b>sẽ là động từ <i>to be</i> <b>are</b>. Câu hoàn chỉnh là <b>There <span style=\"color:red\">are </span>two brushes and an e-reader near the window.</b> <i>(Có hai bàn chải và một cái máy đọc sách điện tử gần cửa sổ.)</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "976ddd06-012a-4d7b-9432-e705718bb8ad"
+            },
+            "dapAn": "are",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "406b8e32-1618-4fa5-841c-5d9ef091b85f"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "My husband has a laptop and two _______ <b><span style=\"color:blue\">(phone)</span></b>.",
+        "yNghia": "<b>two</b> là số nhiều nên danh từ <b>phone </b>phải đổi sang dạng số nhiều bằng cách thêm \"<b>s</b>\" vào sau, ta được <b>phones</b>. Câu hoàn chỉnh là <b>My husband has a laptop and two <span style=\"color:red\">phones</span>. </b><i>(Chồng tôi có một cái máy tính xách tay và hai chiếc <span style=\"color:red\">điện thoại</span>.)</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "e55562fc-1efa-4cc2-bd19-5e4229358935"
+            },
+            "dapAn": "phones",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "7823688d-3933-4cd6-bb92-d0800f5de525"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "There _______<b><span style=\"color:blue\"> (be)</span></b> five keys and two wallets on the desk near the door.",
+        "yNghia": "<b>five keys </b>là cụm danh từ số nhiều, nên sau <b>There </b>sẽ là động từ <i>to be</i> <b>are</b>. Câu hoàn chỉnh là <b>There <span style=\"color:red\">are </span>five keys and two wallets on the desk near the door. </b><i>(Có 5 cái chìa khóa và 2 cái ví tiền trên bàn gần cánh cửa.)</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "cbedfe32-43f1-497d-ba55-00383fd8391b"
+            },
+            "dapAn": "are",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "c42cb474-dc78-4f02-add2-c1b6f85c75c3"
+        },
+        "cauHoiNho": [],
+        "cauHoi": "There _______ <span style=\"color:blue\"><b>(be) </b></span>two laptops and there are three laptop cases.",
+        "yNghia": "<b>two laptops</b> là cụm danh từ số nhiều, nên sau <b>There </b>sẽ là động từ <i>to be</i> <b>are</b>. Câu hoàn chỉnh là <b>There <span style=\"color:red\">are </span>two laptops and there are three laptop cases.</b> <i>(Có 2 máy tính xách tay và có 3 cặp đựng máy tính xách tay.)</i>",
+        "danhSachDapAn": [
+          {
+            "_id": {
+              "$oid": "487adb02-fd0e-4edb-af1d-b6ad600e4d6a"
+            },
+            "dapAn": "are",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  }

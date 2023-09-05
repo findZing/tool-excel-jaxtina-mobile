@@ -1,0 +1,378 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_TC_L17/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_TC_L17/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "db2e400d-09be-42b9-b1c7-b5191986c291"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Bill",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "04eafc2d-c8a7-4fb6-a2f0-7eb12cea98c3"
+          },
+          "dapAn": "I’m going to start apartment hunting after graduation. How about you?",
+          "phienAm": "/aɪm ˈgəʊɪŋ tuː stɑːt əˈpɑːtmənt ˈhʌntɪŋ ˈɑːftərˌɡrædʒuˈeɪʃn/. /haʊ əˈbaʊt juː/",
+          "yNghia": "\nTôi sẽ bắt đầu tìm căn hộ để ở sau khi tốt nghiệp. Còn bạn thì sao?",
+          "normal": {
+            "start": "00:00:00.915",
+            "end": "00:00:06.134"
+          },
+          "slow": {
+            "start": "00:00:01.331",
+            "end": "00:00:07.514"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e14ab9f1-bbcc-4530-9372-873fa0d754e5"
+          },
+          "dapAn": "But if you don’t find a job, you won’t be able to afford it.",
+          "phienAm": "/bʌt ɪf juː dəʊnt faɪnd eɪ ʤɒb juː wəʊnt biː ˈeɪbl tuː əˈfɔːd ɪt/",
+          "yNghia": "\nNhưng nếu bạn không tìm được việc làm, bạn sẽ không đủ khả năng chi trả.",
+          "normal": {
+            "start": "00:00:16.304",
+            "end": "00:00:20.663"
+          },
+          "slow": {
+            "start": "00:00:22.543",
+            "end": "00:00:28.321"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "35ec3208-6b9c-433e-87d4-43d0a1d60da1"
+          },
+          "dapAn": "You could live with a friend. My brother and a couple of friends rent an apartment together.",
+          "phienAm": "/juː kʊd lɪv wɪð eɪ frend/. /maɪ ˈbrʌðər ænd eɪˈkʌpl ɒv frendz rent æn əˈpɑːtmənt təˈgeðər/",
+          "yNghia": "\nBạn có thể sống với một người bạn. Anh trai tôi và một vài người bạn cùng nhau thuê một căn hộ.",
+          "normal": {
+            "start": "00:00:27.281",
+            "end": "00:00:33.362"
+          },
+          "slow": {
+            "start": "00:00:37.494",
+            "end": "00:00:45.465"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ad121738-c07d-4c05-8bda-703415a63631"
+          },
+          "dapAn": "Yep. My brother is doing the same.",
+          "phienAm": "/jep/. /maɪ ˈbrʌðər ɪz ˈduːɪŋ ðə seɪm/",
+          "yNghia": "\nChuẩn rồi. Anh trai tôi cũng đang làm như vậy.",
+          "normal": {
+            "start": "00:00:40.626",
+            "end": "00:00:43.424"
+          },
+          "slow": {
+            "start": "00:00:52.637",
+            "end": "00:00:56.075"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6aeec150-aa4f-4314-a8e9-634282214477"
+          },
+          "dapAn": "You may find something cheap outside the city. But then you have the problem of travelling to work.",
+          "phienAm": "/juː meɪ faɪnd ˈsʌmθɪŋ ʧiːp aʊtsaɪd ðə ˈsɪti/. /bʌt ðen juː hæv ðə ˈprɒbləm ɒv ˈtrævlɪŋ fɔːr wɜːk/",
+          "yNghia": "\nBạn có thể tìm thấy một cái gì đó giá rẻ bên ngoài thành phố. Nhưng lúc đó bạn sẽ gặp vấn đề với việc đi lại tới chỗ làm.",
+          "normal": {
+            "start": "00:00:49.612",
+            "end": "00:00:55.532"
+          },
+          "slow": {
+            "start": "00:01:05.339",
+            "end": "00:01:13.988"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f0b76f40-4f04-43d9-801e-edd43bef19ed"
+          },
+          "dapAn": "If I find a good job, I might rent a studio apartment downtown.",
+          "phienAm": "/ɪf aɪ faɪnd eɪ gʊd ʤɒb aɪ maɪt rent eɪ ˈstjuːdɪə ʊəˈpɑːtmənt ˈdaʊntaʊn/",
+          "yNghia": "\nNếu tôi tìm được một công việc tốt, tôi có thể thuê một căn hộ nhỏ ở khu trung tâm thành phố.",
+          "normal": {
+            "start": "00:00:59.029",
+            "end": "00:01:04.087"
+          },
+          "slow": {
+            "start": "00:01:18.492",
+            "end": "00:01:24.711"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "993fe127-da86-44e1-8d61-926169a0f437"
+          },
+          "dapAn": "Exactly what I want. I’d like to be downtown.",
+          "phienAm": "/ɪgˈzæktli wɒt aɪ wɒnt/. /aɪd laɪk tuː biːˈdaʊntaʊn/",
+          "yNghia": "\nChính xác những gì tôi muốn. Tôi muốn ở trung tâm thành phố.",
+          "normal": {
+            "start": "00:01:12.078",
+            "end": "00:01:15.737"
+          },
+          "slow": {
+            "start": "00:01:36.756",
+            "end": "00:01:41.653"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "92a19eca-b817-434a-b220-9b363dc6635a"
+          },
+          "dapAn": "I think I might ask my brother to live with me!",
+          "phienAm": "/aɪ θɪŋk aɪ maɪt ɑːsk maɪ ˈbrʌðər tuː lɪv wɪð miː/",
+          "yNghia": "\nTôi nghĩ rằng tôi có thể đề nghị anh trai tôi sống với tôi!",
+          "normal": {
+            "start": "00:01:23.297",
+            "end": "00:01:26.257"
+          },
+          "slow": {
+            "start": "00:01:51.161",
+            "end": "00:01:55.128"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "06fd4534-b1db-4a68-b881-b6ec9e088595"
+          },
+          "dapAn": "I will definitely miss them! But they could come and see me.",
+          "phienAm": "/aɪ wɪl ˈdefɪnətli mɪs ðem/. /bʌt ðeɪ kʊd kʌm ænd siː miː/",
+          "yNghia": "\nTôi chắc chắn sẽ nhớ họ! Nhưng họ có thể đến gặp tôi.",
+          "normal": {
+            "start": "00:01:32.902",
+            "end": "00:01:36.669"
+          },
+          "slow": {
+            "start": "00:02:03.635",
+            "end": "00:02:09.140"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6a60e91d-feb7-4650-919f-610b64bf7ef1"
+          },
+          "dapAn": "Well, I want to have a hall and a balcony. I will relax on the couch on the balcony every night after work.",
+          "phienAm": "/wel aɪ wɒnt tuː hæv eɪ hɔːl ænd eɪ ˈbælkəni/. /aɪwɪl rɪˈlæks ɒn ðə kaʊʧ ɒn ðə ˈbælkəni ˈevri naɪt ˈɑːftər wɜːk/",
+          "yNghia": "\nÀ, tôi muốn có sảnh và ban công. Tôi sẽ thư giãn trên chiếc ghế sofa ngoài ban công mỗi tối sau giờ làm việc.",
+          "normal": {
+            "start": "00:01:45.090",
+            "end": "00:01:53.350"
+          },
+          "slow": {
+            "start": "00:02:20.291",
+            "end": "00:02:31.693"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9e11cf96-3263-493f-8d96-6b20572e92ae"
+          },
+          "dapAn": "Exactly! I will also buy some modern appliances if I can.",
+          "phienAm": "/ɪgˈzæktli/. /aɪ wɪl ˈɔːlsəʊ baɪ sʌm ˈmɒdən əˈplaɪənsɪz ɪf aɪ kæn/",
+          "yNghia": "\nĐúng vậy! Tôi cũng sẽ mua một số thiết bị hiện đại nếu tôi có thể.",
+          "normal": {
+            "start": "00:02:00.103",
+            "end": "00:02:05.054"
+          },
+          "slow": {
+            "start": "00:02:40.486",
+            "end": "00:02:46.920"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "70fefed2-40d6-4048-9afa-5cd2d2a3187c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Ashley",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ab1a3eb9-d3d5-46b4-b15c-6c03b84c266a"
+          },
+          "dapAn": "Uhm, I want to find a job in finance, so maybe I’ll live in an apartment near the financial district.",
+          "phienAm": "/əm aɪ wɒnt tuː faɪnd eɪ ʤɒb ɪn faɪˈnæns səʊˈmeɪbiː aɪl lɪv ɪn æn əˈpɑːtmənt nɪər ðə faɪˈnænʃəl ˈdɪstrɪkt/",
+          "yNghia": "\nỪm, tôi muốn tìm một công việc trong lĩnh vực tài chính, vì vậy có lẽ tôi sẽ sống trong một căn hộ gần khu tài chính.",
+          "normal": {
+            "start": "00:00:07.426",
+            "end": "00:00:15.228"
+          },
+          "slow": {
+            "start": "00:00:08.436",
+            "end": "00:00:21.409"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6c7f2b06-4da4-4baa-85b9-8b88dc317b66"
+          },
+          "dapAn": "Yes. I might still be at home with my mom and dad.",
+          "phienAm": "/jes/. /aɪ maɪt stɪl biː æt həʊm wɪð maɪ mɒm ænd dæd/",
+          "yNghia": "\nĐúng. Tôi có thể vẫn ở nhà với bố mẹ tôi.",
+          "normal": {
+            "start": "00:00:21.793",
+            "end": "00:00:25.560"
+          },
+          "slow": {
+            "start": "00:00:29.455",
+            "end": "00:00:36.529"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "72045ce0-a4c7-4898-abc7-4315fa093b31"
+          },
+          "dapAn": "That’s right. I can share the bills and the chores.",
+          "phienAm": "/ðæts raɪt/. /aɪ kæn ʃeər ðə bɪlz ænd ðə ʧɔːz/",
+          "yNghia": "\nĐúng rồi. Tôi có thể chia sẻ các hóa đơn và công việc nhà.",
+          "normal": {
+            "start": "00:00:34.922",
+            "end": "00:00:39.012"
+          },
+          "slow": {
+            "start": "00:00:45.867",
+            "end": "00:00:51.680"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "befbfacb-2070-4f1a-a976-948e454c99bf"
+          },
+          "dapAn": "I’d like to have roommates, but renting is so expensive.",
+          "phienAm": "/aɪd laɪk tuː hæv ˈruːmmeɪts bʌt ˈrentɪŋ ɪz səʊ ɪkˈspensɪv/",
+          "yNghia": "\nTôi muốn có bạn cùng phòng, nhưng tiền thuê quá đắt.",
+          "normal": {
+            "start": "00:00:44.232",
+            "end": "00:00:48.913"
+          },
+          "slow": {
+            "start": "00:00:57.387",
+            "end": "00:01:04.936"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4c05bffa-b665-44f5-bd48-e6bfb30b16a5"
+          },
+          "dapAn": "What about you?",
+          "phienAm": "/wɒt əˈbaʊt juː/",
+          "yNghia": "\nThế còn bạn thì sao?",
+          "normal": {
+            "start": "00:00:56.931",
+            "end": "00:00:58.061"
+          },
+          "slow": {
+            "start": "00:01:15.311",
+            "end": "00:01:17.276"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b4f39d91-be19-487a-8555-1a19324220b3"
+          },
+          "dapAn": "It’s so convenient because you’d be close to all the restaurants and places to go.",
+          "phienAm": "/ɪts səʊ kənˈviːniənt bɪˈkɒz juːd biː kləʊs tuː ɔːl ðə ˈrestrɒnts ænd ˈpleɪsɪz tuː gəʊ/",
+          "yNghia": "\nThật tiện lợi vì bạn sẽ ở gần tất cả các nhà hàng và địa điểm có thể tới.",
+          "normal": {
+            "start": "00:01:05.083",
+            "end": "00:01:10.383"
+          },
+          "slow": {
+            "start": "00:01:26.141",
+            "end": "00:01:35.148"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e737aa9a-a587-4adb-9337-d87ce8ee29ad"
+          },
+          "dapAn": "That sounds great, but you might get lonely living alone.",
+          "phienAm": "/ðæt saʊndz greɪt bʌt juː maɪt get ˈləʊnli ˈlɪvɪŋ əˈləʊn/",
+          "yNghia": "\nĐiều đó nghe có vẻ tuyệt vời, nhưng bạn có thể cảm thấy cô đơn khi sống một mình.",
+          "normal": {
+            "start": "00:01:16.759",
+            "end": "00:01:21.441"
+          },
+          "slow": {
+            "start": "00:01:43.154",
+            "end": "00:01:50.124"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6c160569-c404-42aa-b7b0-b26b9e6e7e34"
+          },
+          "dapAn": "Good idea! Won’t you miss living with your family?",
+          "phienAm": "/gʊd aɪˈdɪə/. /wəʊnt juː mɪs ˈlɪvɪŋ wɪð jɔːrˈfæməli/",
+          "yNghia": "\nÝ tưởng hay đó! Bạn sẽ không nhớ lúc sống với gia đình của bạn hay sao?",
+          "normal": {
+            "start": "00:01:27.414",
+            "end": "00:01:31.207"
+          },
+          "slow": {
+            "start": "00:01:56.701",
+            "end": "00:02:02.277"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "226eb408-9f2c-4852-ba9c-d3bfff5f3f50"
+          },
+          "dapAn": "I think you can ask your brother what it’s like. So what is your ideal apartment?",
+          "phienAm": "/aɪ θɪŋk juː kæn ɑːsk jɔːr ˈbrʌðər wɒt ɪts laɪk/. /səʊ wɒt ɪz jɔːr aɪˈdɪəl əˈpɑːtmənt/",
+          "yNghia": "\nTôi nghĩ bạn có thể hỏi anh trai của bạn xem nó như thế nào. Vậy căn hộ lý tưởng của bạn là gì?",
+          "normal": {
+            "start": "00:01:37.934",
+            "end": "00:01:43.906"
+          },
+          "slow": {
+            "start": "00:02:09.926",
+            "end": "00:02:19.219"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5f80e1c6-1b74-4662-850e-cdce2f65cccc"
+          },
+          "dapAn": "It would be even more wonderful if you had a cup of coffee.",
+          "phienAm": "/ɪt wʊd biː ˈiːvən mɔːr ˈwʌndəfʊl ɪf juː hæd eɪkʌp ɒv ˈkɒfi/",
+          "yNghia": "\nSẽ càng tuyệt vời hơn nếu bạn có một tách cà phê.",
+          "normal": {
+            "start": "00:01:54.695",
+            "end": "00:01:58.462"
+          },
+          "slow": {
+            "start": "00:02:33.516",
+            "end": "00:02:39.343"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d440f8a5-868d-4be9-af80-f629d9bdc845"
+          },
+          "dapAn": "You can discuss this with your brother.",
+          "phienAm": "/juː kæn dɪsˈkʌs ðɪs wɪð jɔːr ˈbrʌðər/",
+          "yNghia": "\nBạn có thể thảo luận điều này với anh trai của bạn.",
+          "normal": {
+            "start": "00:02:06.695",
+            "end": "00:02:08.551"
+          },
+          "slow": {
+            "start": "00:02:47.242",
+            "end": "00:02:49.887"
+          }
+        }
+      ]
+    }
+  ]
+}

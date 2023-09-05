@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "e00fd724-66a1-42d1-b903-ef478fc47796"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Welcome to the show, Gerri Garcia, an advertising ____________ for one of the most successful advertising companies.",
+      "yNghia": "Welcome to the show, Gerri Garcia, an advertising <span style=\"color:red\">executive </span>for one of the most successful advertising companies.<br />\n<i>Chào mừng đến với chương trình, Gerri Garcia, <span style=\"color:red\">giám đốc </span>quảng cáo của một trong những công ty quảng cáo thành công nhất.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bade3905-bb58-4f4f-9adc-9e5c2ee5e063"
+          },
+          "dapAn": "director",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f4fd2d0a-a25e-4158-a295-89eb2f50f372"
+          },
+          "dapAn": "executive ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "211a5ab8-2b99-416e-9a3f-c03b2364e407"
+          },
+          "dapAn": "manager",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_1. Welcome ... companies.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_1. Welcome ... companies.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3ef2d039-ec8b-4760-a145-4bda917e8317"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Hello everyone. I’m very glad to be here to talk about ____________ advertising.",
+      "yNghia": "Hello everyone. I'm very glad to be here to talk about <span style=\"color:red\">false </span>advertising.<br />\n<i>Xin chào tất cả mọi người. Tôi rất vui khi được ở đây để nói về quảng cáo <span style=\"color:red\">sai sự thật</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "279421c5-07b8-4931-a1b0-efebb2e9c063"
+          },
+          "dapAn": "true ",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "beb9b6a3-b34c-427f-b3bd-41ef422a8355"
+          },
+          "dapAn": "false ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "31fbcc9f-258a-40dd-981e-4dd631467f20"
+          },
+          "dapAn": "new",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_2. Hello ... advertising.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_2. Hello ... advertising.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c578ed4f-cd29-4352-b659-66b78ee8476c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Thanks for joining us, Gerri. We also want to know what we can do to avoid its ____________.",
+      "yNghia": "Thanks for joining us, Gerri. We also want to know what we can do to avoid its <span style=\"color:red\">tricks</span>.<br />\n<i>Cảm ơn vì đã tham gia cùng chúng tôi, Gerri. Chúng tôi cũng muốn biết những gì chúng tôi có thể làm để tránh <span style=\"color:red\">những mánh khóe </span>của nó.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "eae2ed8d-7170-4be6-9cca-d6979365ca68"
+          },
+          "dapAn": "traps",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "33af597d-d18a-4b59-9921-fa8bbec46215"
+          },
+          "dapAn": "tricks",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a0160868-9272-4e41-8970-1264f2e3670b"
+          },
+          "dapAn": "situations",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_3. Thanks ... tricks.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_3. Thanks ... tricks.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "01d281a3-bda0-41a7-969c-4fc1ccafca4a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Thank you for having me today. I’m ____________ to share my experience.",
+      "yNghia": "Thank you for having me today. I'm <span style=\"color:red\">willing </span>to share my experience.<br />\n<i>Cảm ơn bạn đã mời tôi tới ngày hôm nay. Tôi <span style=\"color:red\">sẵn sàng </span>chia sẻ kinh nghiệm của mình.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "655bc590-542c-45d6-8e38-e80e67c20924"
+          },
+          "dapAn": "happy",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2b43e438-7da9-4902-82d9-a61b60a4be7b"
+          },
+          "dapAn": "excited",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "53d2fa07-90ea-41a3-9de6-fed95d85c2ec"
+          },
+          "dapAn": "willing",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_4. Thank ... experiences.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_4. Thank ... experiences.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "93d80b16-22ae-49ce-b902-0d4adce58e73"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Tell us what your biggest ____________ about false advertising is.",
+      "yNghia": "Tell us what your biggest <span style=\"color:red\">concern </span>about false advertising is.<br />\n<i>Hãy cho chúng tôi biết <span style=\"color:red\">mối quan tâm </span>lớn nhất của bạn về quảng cáo sai sự thật là gì.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "aee1730d-1d3a-4e2f-950f-2f6ddfd1cd32"
+          },
+          "dapAn": "concern",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "53d3c485-189c-4d64-8d95-160ac1222a5c"
+          },
+          "dapAn": "event",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b466ed48-e64b-467c-9d3d-a078ac047b90"
+          },
+          "dapAn": "problem",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_5. Tell ... is.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_5. Tell ... is.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "995517d3-a404-45b5-83e7-0de4aa556660"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Without a doubt, they’re advertisements for health products and ____________.",
+      "yNghia": "Without a doubt, they're advertisements for health products and <span style=\"color:red\">services</span>.<br />\n<i>Không còn nghi ngờ gì nữa, đó là quảng cáo cho các sản phẩm và <span style=\"color:red\">dịch vụ </span>y tế.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ebeefb89-a8a8-4dc7-b60f-24ae47e8e2da"
+          },
+          "dapAn": "slogan",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d82217a7-71ea-462c-8ea1-ebda48393612"
+          },
+          "dapAn": "billboard",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d54bc486-5cb1-4f96-9e26-990f5099e01d"
+          },
+          "dapAn": "services",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_6. Without ... services.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_6. Without ... services.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e5dc9dfb-2dfc-4760-87f2-10170642fb87"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Please, can you explain ____________?",
+      "yNghia": "Please, can you explain <span style=\"color:red\">more</span>?<br />\n<i>Bạn có thể vui lòng giải thích <span style=\"color:red\">thêm </span>được không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c2893967-5e35-4fda-9820-718dd94665c3"
+          },
+          "dapAn": "that",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bf82e6b9-6ff4-42b8-9f70-f09dec96861a"
+          },
+          "dapAn": "more",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1fb71aac-ce35-4527-b263-5c053ec99dce"
+          },
+          "dapAn": "in detail",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_7. Please ... more.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_7. Please ... more.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6f77f0a0-9553-45dc-b91b-c2fab1ff937a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "False advertising in this field is ____________ because it could be harmful to our health.",
+      "yNghia": "False advertising in this field is <span style=\"color:red\">terrible </span>because it could be harmful to our health.<br />\n<i>Quảng cáo sai trong lĩnh vực này là <span style=\"color:red\">rất khủng khiếp</span> vì nó có thể gây hại cho sức khỏe của chúng ta.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "761764d8-8f10-4a2b-9ba5-4e1da5e3ed09"
+          },
+          "dapAn": "unpleasant",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b6f6e9b5-a445-4b62-a684-c4913db4bf6b"
+          },
+          "dapAn": "disagreeable",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "92390025-7862-487b-ad75-b04c56c68ba9"
+          },
+          "dapAn": "terrible",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_8. False ... health.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_8. False ... health.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e04e4764-6e95-41a5-8ea5-7f9b5546282c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There’re many food products making claims that seem true, but you don’t really see any ____________.",
+      "yNghia": "There're many food products making claims that seem true, but you don't really see any <span style=\"color:red\">proof</span>.<br />\n<i>Có nhiều thực phẩm đưa ra những tuyên bố có vẻ đúng, nhưng bạn không thực sự trông thấy bất kỳ <span style=\"color:red\">bằng chứng </span>nào.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "22ce67d5-2399-4823-b465-3d2702a29463"
+          },
+          "dapAn": "evidence",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b80493e7-2e25-40ff-9827-df82004ac710"
+          },
+          "dapAn": "proof",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6fb8c540-d971-4b99-a3c3-265a2961ba0f"
+          },
+          "dapAn": "documents",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_9. There ... proof.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_9. There ... proof.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "104298d5-9d24-42d3-b5aa-6be11f00d542"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes, that’s ____________ because there isn’t any!",
+      "yNghia": "Yes, that's <span style=\"color:red\">probably </span>because there isn't any!<br />\n<i>Vâng, đó <span style=\"color:red\">có thể </span>là vì không có!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cb0831e5-7c00-41b6-82dd-e2fb356dd46b"
+          },
+          "dapAn": "maybe",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b09e87ec-2ec5-4a32-9837-1c2f30014e79"
+          },
+          "dapAn": "probably",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f48016c4-8373-4c72-b3bc-0fe396879b14"
+          },
+          "dapAn": "perhaps",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_10. yes ... any.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_10. yes ... any.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "fb523972-9239-42ab-bb92-9fc8ecce5743"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I think many weight loss ____________ are believed, even though there isn’t any evidence.",
+      "yNghia": "I think many weight loss <span style=\"color:red\">claims </span>are believed, even though there isn't any evidence.<br />\n<i>Tôi nghĩ rằng nhiều <span style=\"color:red\">tuyên bố </span>giảm cân được tin tưởng, mặc dù không có bất kỳ bằng chứng nào.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "916660e1-e276-4f24-8b0f-94ffe93b78f8"
+          },
+          "dapAn": "statement",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "25447e0d-9d4c-48ee-a657-cc001e238e05"
+          },
+          "dapAn": "claims",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3fd709a6-8635-48ba-b3ea-339e0a57adb4"
+          },
+          "dapAn": "machine",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_11. I ... evidence.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_11. I ... evidence.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ebfcb592-6475-4409-8fc8-d846fbda989d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There’re also companies that ____________ food for kids making false claims.",
+      "yNghia": "There're also companies that <span style=\"color:red\">produce </span>food for kids making false claims.<br />\n<i>Cũng có những công ty <span style=\"color:red\">sản xuất</span> thức ăn cho trẻ em tuyên bố sai sự thật.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3a236680-4410-4f9c-9765-cffb1a9a8724"
+          },
+          "dapAn": "produce",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d376d255-92c0-48aa-ac7f-44288b661b56"
+          },
+          "dapAn": "manufacture",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7ac85aca-090c-41bd-be4a-90f1a63ca7e1"
+          },
+          "dapAn": "mass-produce",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_12. There ... claims.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_12. There ... claims.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6cae7c4f-38ea-4690-b837-4916e680ee08"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you know any ____________ like that?",
+      "yNghia": "Do you know any <span style=\"color:red\">companies </span>like that?<br />\n<i>Bạn có biết <span style=\"color:red\">công ty </span>nào như vậy không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "daae3436-a02e-4ee3-a33d-e5f206c3108d"
+          },
+          "dapAn": "firms",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7a7fc54a-001e-4aea-8250-8ed1be3b43e8"
+          },
+          "dapAn": "companies",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "03e81316-d78c-4e55-bfba-ff0bbb01cbb2"
+          },
+          "dapAn": "businesses",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_13. Do ... that.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_13. Do ... that.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "610ee044-6e01-435d-9ed8-c1b69db28870"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Kellogg’s put a claim that their ____________ could fight colds and the flu more easily.",
+      "yNghia": "Kellogg's put a claim that their <span style=\"color:red\">cereal </span>could fight colds and the flu more easily.<br />\n<i>Kellogg tuyên bố rằng <span style=\"color:red\">ngũ cốc </span>của họ có thể chống cảm lạnh và cúm dễ dàng hơn.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8fabacf0-ac06-4333-aee7-0e121d5541f2"
+          },
+          "dapAn": "medicine",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6e703ebd-1e9b-4dd4-a4d4-6ceb5dd6901b"
+          },
+          "dapAn": "cereal",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a630278d-8af9-4a35-8a35-ab75df19d9f9"
+          },
+          "dapAn": "milk",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_14. Kellogg ... cereal.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_14. Kellogg ... cereal.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "8144fa9d-4f7d-48fb-84e9-b96ea18c6c70"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Goodness. These false claims must ____________ companies, right?",
+      "yNghia": "Goodness. These false claims must <span style=\"color:red\">hurt </span>companies, right?<br />\n<i>Chúa ơi. Những tuyên bố sai này chắc hẳn là <span style=\"color:red\">làm hại </span>các công ty, phải không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b2f76a1d-1669-4fdf-9a65-1dd58d674020"
+          },
+          "dapAn": "harm",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4326fc20-8b25-4814-9ae5-944c4191dd9d"
+          },
+          "dapAn": "hurt",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "928b2608-c872-4e79-91e1-7edd64a6c901"
+          },
+          "dapAn": "injure",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_15. Goodness ... right.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_15. Goodness ... right.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "7a3ea3aa-103a-4b01-8926-87780e4e49ba"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes. Another example, Activia Yogurt lost a ____________ over false claims.",
+      "yNghia": "Yes. Another example, Activia Yogurt lost a <span style=\"color:red\">lawsuit </span>over false claims.<br />\n<i>Đúng. Một ví dụ khác, Activia Yogurt đã thua <span style=\"color:red\">kiện </span>vì tuyên bố sai sự thật.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "51fc905d-a209-4e1c-8231-ad26df45331f"
+          },
+          "dapAn": "case",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "46b86a8b-0523-461a-80b0-ccc0b8405d99"
+          },
+          "dapAn": "lawsuit",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7d90e20c-8dbd-4e4e-b365-5bd8de18db0b"
+          },
+          "dapAn": "trial",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_16. Yes ... claims.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_16. Yes ... claims.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "90088d9f-08f5-46fb-bbc1-a714d57cb113"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’ve eaten that yogurt ____________ of times!",
+      "yNghia": "I've eaten that yogurt <span style=\"color:red\">plenty </span>of times!<br />\n<i>Tôi đã ăn món sữa chua đó <span style=\"color:red\">rất nhiều </span>lần rồi!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9ec18d1e-cb44-467b-a7e2-322044fc1b9d"
+          },
+          "dapAn": "a lot",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "347c11a6-7ab1-4635-8277-5e693908d2a5"
+          },
+          "dapAn": "plenty",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "70c0da66-eae7-480e-9fe0-ce7592c55b04"
+          },
+          "dapAn": "lots",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_17. I_ve ... times.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_17. I_ve ... times.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9cf28263-fc29-4ae7-a797-96d6c72f3ab4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "So, look at those ____________ carefully!",
+      "yNghia": "So, look at those <span style=\"color:red\">labels </span>carefully!<br />\n<i>Vì vậy, hãy nhìn vào <span style=\"color:red\">những nhãn dán </span>đó một cách cẩn thận!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9b4612b9-ffa5-4c3b-a4c0-d7118acd856d"
+          },
+          "dapAn": "labels",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "03d8a3ed-9212-4d3e-8678-f76e07a54953"
+          },
+          "dapAn": "tags",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bbc9c669-4aed-4876-b48a-542c8a5e5021"
+          },
+          "dapAn": "tickets",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_18. So ... carefully.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_18. So ... carefully.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9ca3bdab-36ae-4d3d-800a-d224088de79b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There were three identical purchases of $500 at the ____________ on the same day.",
+      "yNghia": "There were three identical purchases of $500 at the <span style=\"color:red\">supermarket </span>on the same day.<br />\n<i>Có ba lần mua hàng trị giá 500 đô la giống hệt nhau tại <span style=\"color:red\">siêu thị </span>trong cùng một ngày.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3e488e6f-379b-446b-bd90-36215cf1bee9"
+          },
+          "dapAn": "shop",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c80b7e37-47f5-4b87-9728-9cee0bc6631d"
+          },
+          "dapAn": "supermarket",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "72e15d3d-041f-4fa7-8cb0-84c70f46236d"
+          },
+          "dapAn": "mall",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_19. There ... day.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_19. There ... day.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "dadf9c2e-8db1-47bd-be18-7e07b0f03707"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That’s really ____________, especially because I didn’t go to the supermarket on that day.",
+      "yNghia": "That's really <span style=\"color:red\">weird</span>, especially because I didn't go to the supermarket on that day.<br />\n<i>Điều đó thực sự <span style=\"color:red\">kỳ lạ</span>, đặc biệt là vì tôi đã không đi siêu thị vào ngày hôm đó.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e20a26f9-5907-4a11-acec-67c5d65f9319"
+          },
+          "dapAn": "weird",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e66f6b70-c4f6-4ff4-84d6-520e3538a84e"
+          },
+          "dapAn": "unusual",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fbc4d193-7528-4a07-86ef-29d821800c69"
+          },
+          "dapAn": "strange",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L24/sounds/normal/MTC_FINALTEST_LISTENING_20. That_s ... day.mp3",
+      "soundSlow": "4SKILLS_MTC_L24/sounds/slow/MTC_FINALTEST_LISTENING_20. That_s ... day.mp3"
+    }
+  ]
+}

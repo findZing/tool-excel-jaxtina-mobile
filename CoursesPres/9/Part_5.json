@@ -1,0 +1,866 @@
+{
+  "dangCauHoi": "P9Cham1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "c080b4eb-2427-41f5-86be-1036ab9a7d81"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "bc6e4646-8191-4729-a329-dada97ccc58c"
+          },
+          "cauHoi": "What does the speaker do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d108c18d-e37b-43f6-9cde-3cf7308a1d91"
+              },
+              "dapAn": "A. a shop assistant",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "289081d6-dfd1-44a6-85f7-a7fcb6c60358"
+              },
+              "dapAn": "B. a police officer",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5f72fe46-49e7-4324-86d6-c7a5846dc16e"
+              },
+              "dapAn": "C. a lawyer",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "adb5aff2-5de7-4215-a02e-859f817a1d00"
+              },
+              "dapAn": "D. a pilot",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "I'm a shop assistant.<br />\n<i>Tôi là một nhân viên bán hàng.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L9/sounds/normal/PRES_9_LISTENING_1. I_m ... assistant.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f365848f-aab5-48d9-82b0-66b817de3cb2"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "d5d6a6ce-dbeb-40bb-bd48-254ae602bb66"
+          },
+          "cauHoi": "Where does the speaker work?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "78c8a6dd-47a0-4174-bf2e-c693c0dac5ec"
+              },
+              "dapAn": "A. at home",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ef1d3583-64a5-4058-a592-cff4cac6a403"
+              },
+              "dapAn": "B. in a shopping center",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "5fc7c3b0-200e-46d7-a853-cf973b881745"
+              },
+              "dapAn": "C. in hospital",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "10fc1d1a-cbf0-40f8-95de-44fca443bee0"
+              },
+              "dapAn": "D. at school",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "I work in a big shopping center.<br />\r\n<i>Tôi làm việc tại một trung tâm mua sắm lớn.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L9/sounds/normal/PRES_9_LISTENING_2. I ... center.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c5dd1848-0e5f-43b8-aa3b-91eef484c8ce"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "191c603a-0d5d-4b56-8604-6dac8e843f03"
+          },
+          "cauHoi": "How is the store?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "1128bdf3-5793-481b-9ae6-11fcd6d169f1"
+              },
+              "dapAn": "A. nice",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1f92a63c-7b1b-47a0-b663-25884b679075"
+              },
+              "dapAn": "B. small",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "23e688a5-436f-4787-b63a-1022b6d71877"
+              },
+              "dapAn": "C. big",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0f6ef3dc-be4e-469e-8c94-67dc6daf69a3"
+              },
+              "dapAn": "D. big and nice",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "yNghia": "This is a big store. It is nice.<br />\r\n<i>Đây là một cửa hàng lớn. Nó đẹp lắm.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L9/sounds/normal/PRES_9_LISTENING_3. This ... nice.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5a94351a-3c0c-4a91-b473-2be71b19ea5a"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "b8b69fb7-8cd6-40c0-a471-76eadbbc7035"
+          },
+          "cauHoi": "When does the speaker work?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "bffcd60c-4902-4c44-b670-128f484300c8"
+              },
+              "dapAn": "A. from Monday to Saturday",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "da024265-b1d8-4325-a776-7a47a3689f5e"
+              },
+              "dapAn": "B. from Monday to Sunday",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "23ed4357-bfd7-4bff-b97e-619b35340ef6"
+              },
+              "dapAn": "C. from Tuesday to Sunday ",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8bbc5aa4-d213-46ab-870c-f473403e4bc6"
+              },
+              "dapAn": "D. from Tuesday to Saturday",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "yNghia": "I work from Tuesday to Saturday.<br />\r\n<i>Tôi làm việc từ thứ Ba đến thứ Bảy.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L9/sounds/normal/PRES_9_LISTENING_4. I ... Saturday.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5c04c438-f3cf-4e31-903f-9cf806798759"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "d058e1cb-3345-47a9-b979-050008537b92"
+          },
+          "cauHoi": "How many days a week does Jenny go to work?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "be182dd1-b114-4652-ade1-2679ff13a0e7"
+              },
+              "dapAn": "A. 5",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "1512e936-8cab-4c16-88cc-73d04a4ac1a1"
+              },
+              "dapAn": "B. 6",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8ad2035c-cd13-4caf-9d00-fd60d5bcca3f"
+              },
+              "dapAn": "C. 7",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1844017a-486d-4829-9ef3-3f64ff019a72"
+              },
+              "dapAn": "D. 8",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "Jenny works from Monday to Friday.<br />\r\n<i>Jenny làm việc từ thứ Hai đến thứ Sáu.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L9/sounds/normal/PRES_9_LISTENING_5. Jenny ... Friday.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5e9c7044-edb0-4105-ae7f-042565b57d10"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "158a61bd-30c3-4a4c-847a-8dfe9a8ab6fd"
+          },
+          "cauHoi": "Maria is so ______.",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "e1421c2c-2931-4c78-a264-421e020b39f9"
+              },
+              "dapAn": "A. free",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1c784bd4-6604-418f-9c4e-43d3f0959fe4"
+              },
+              "dapAn": "B. busy",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "0ab0c595-c1f1-429c-8816-e8fea66a4175"
+              },
+              "dapAn": "C. nice",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "93e6402a-0743-4234-85ea-9a0076ec9bba"
+              },
+              "dapAn": "D. big",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "I guess Maria is so busy right now.<br />\r\n<i>Tôi đoán Maria rất bận ngay lúc này.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L9/sounds/normal/PRES_9_LISTENING_6. I ... now.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f444415b-4c54-4806-81cc-7d44829828a8"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "85d6ed9b-dddd-457c-841f-dcf08bd5436f"
+          },
+          "cauHoi": "What does David do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "15852ad4-1c1c-4a8e-924c-53ac334dc494"
+              },
+              "dapAn": "A. a manager",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3fbc1c62-f9bb-431f-87ea-588fecc92f74"
+              },
+              "dapAn": "B. a teacher",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f5b7c5eb-887d-42b4-b251-89d167572b12"
+              },
+              "dapAn": "C. a waiter",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cf9eb3ad-a510-4174-bcd0-b3e4de8f10b1"
+              },
+              "dapAn": "D. a writer",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "David is a teacher.<br />\r\n<i>David là một giáo viên.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L9/sounds/normal/PRES_9_LISTENING_7. David ... teacher.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b0e57632-95d6-4129-8973-abfb0fca7b7a"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "237d3934-2749-49f3-9b1c-a3ebb28022a2"
+          },
+          "cauHoi": "What does he teach?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ffd4b1b8-8ceb-4f9a-be27-8d8fc97fc80b"
+              },
+              "dapAn": "A. Maths",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "8594ea70-a8eb-41cf-a262-dd08b52a8009"
+              },
+              "dapAn": "B. History",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "840e34ed-5740-4271-b382-1e0963dba46f"
+              },
+              "dapAn": "C. Music",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "05f79011-448e-4859-aaf1-158244ee0d30"
+              },
+              "dapAn": "D. Arts",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "He teaches Maths.<br />\r\n<i>Cậu ấy dạy môn Toán.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L9/sounds/normal/PRES_9_LISTENING_8. He ... Maths.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6d1d7dde-506e-432b-80ce-65ec991a566a"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "0ab617b0-4e70-4565-96ac-c0fd204057d8"
+          },
+          "cauHoi": "David is so _______.",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2b77c66a-4988-49dd-aa5f-235f50ef681f"
+              },
+              "dapAn": "A. big",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4a3ec49d-258a-4254-a8a5-a0dc91fbff7a"
+              },
+              "dapAn": "B. rich",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5f8e87a0-4cd9-4bce-a6b1-613651acc35d"
+              },
+              "dapAn": "C. smart",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "ac8c4b2e-5eea-48dd-bdbe-ff7c6608448a"
+              },
+              "dapAn": "D. nice",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "He is so smart.<br />\n<i>Cậu ấy thật thông minh.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L9/sounds/normal/PRES_9_LISTENING_9. He ... smart.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c06450c1-39de-4886-9231-53284b6faf05"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "ffb64728-184b-4cf6-8dab-ee649a1a7ad3"
+          },
+          "cauHoi": "Where does the speaker work?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "72aad5ab-be7c-4183-a567-c6a8e8851cc7"
+              },
+              "dapAn": "A. a restaurant",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "276890c9-9349-4964-a6fe-614a6951ef82"
+              },
+              "dapAn": "B. a school",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ad4ddf3b-6702-4990-8d99-2332f84b4faa"
+              },
+              "dapAn": "C. a coffee shop",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "ef2e108c-7db7-44a6-9619-437f1a0ea98e"
+              },
+              "dapAn": "D. a hospital",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "I'm a waiter. I work at a coffee shop.<br />\r\n<i>Tôi là một nam nhân viên phục vụ. Tôi làm việc ở một quán cà phê.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L9/sounds/normal/PRES_9_LISTENING_10. Im ... shop.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f2daa1c7-8178-4def-952e-51f637c24f53"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "107180f3-6d14-452f-8929-6b4ccdb84070"
+          },
+          "cauHoi": "Who is the speaker?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8050a40b-9025-4f2b-a79d-59dc59673561"
+              },
+              "dapAn": "A. a journalist",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2bd42c1b-1bf3-4e66-81f1-ec08e6d68c3f"
+              },
+              "dapAn": "B. an engineer",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "672b7a76-4867-4478-8bb1-a7de4a077aac"
+              },
+              "dapAn": "C. a scientist",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "213341be-5874-4974-94c0-8b153c18576d"
+              },
+              "dapAn": "D. a photographer",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "yNghia": "I like taking pictures. I'm a photographer.<br />\r\n<i>Tôi thích chụp ảnh. Tôi là một thợ ảnh.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L9/sounds/normal/PRES_9_LISTENING_11. I ... photographer.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "946c0018-291b-4053-bde6-0343640dca48"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "0ba47fd8-9a34-453c-8025-1b0b0713f770"
+          },
+          "cauHoi": "What does the speaker do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "89dd1b04-f4dd-4f65-8b11-17a735958830"
+              },
+              "dapAn": "A. a waitress",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f9ef262c-d960-496c-ad49-9f5e059f1d37"
+              },
+              "dapAn": "B. a receptionist",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "1df4589e-f521-4562-a0fb-9087c765ab48"
+              },
+              "dapAn": "C. a doctor",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b287e8b7-295b-47d7-b707-800ef4149af2"
+              },
+              "dapAn": "D. a police officer",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "1bf34df8-584f-4f39-b331-9fec9da8c2d7"
+          },
+          "cauHoi": "How does he feel about his job?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2cefb196-dd35-4eca-b934-4c75e2659990"
+              },
+              "dapAn": "A. He likes his job.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "47a28cb6-5dcc-4390-af55-a258db4a83f7"
+              },
+              "dapAn": "B. He doesn’t like his job.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2fe4bef6-82d9-492a-b0c4-83710d75958d"
+              },
+              "dapAn": "C. He hates his job. ",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5467782a-384b-4e3f-ade1-71d211809a8c"
+              },
+              "dapAn": "D. He hates interesting people.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "73298a5d-b79b-4d36-9f67-2a17988e673f"
+          },
+          "cauHoi": "How is his job?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c5f6a125-ee7c-453f-bceb-46f1ece74590"
+              },
+              "dapAn": "A. tired",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2d2e224c-7be0-4263-beb4-c7cbdf8099d1"
+              },
+              "dapAn": "B. boring ",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "68eb0e16-a2af-4336-b6cb-6ab4ae492200"
+              },
+              "dapAn": "C. fun",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3dc7df92-3008-42bc-a03a-97879ec5bb73"
+              },
+              "dapAn": "D. interesting",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "yNghia": "I am a receptionist. I like my job. It is really interesting. I can meet a lot of interesting people.<br />\r\n<i>Tôi là một lễ tân. Tôi thích công việc của mình. Nó rất thú vị. Tôi có thể gặp nhiều người thú vị.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L9/sounds/normal/PRES_9_LISTENING_12. I ... people.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "0f138d03-45c4-4afb-925b-f577287c5e5f"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "8be01364-01aa-417f-96ba-3a16b34c5695"
+          },
+          "cauHoi": "Who is the speaker?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "5c722d15-9134-4322-9e3d-f77442c02035"
+              },
+              "dapAn": "A. a receptionist",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "35a78413-22fc-4910-9528-0153f8f9b64d"
+              },
+              "dapAn": "B. an engineer",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e0632505-fe57-4d97-809f-4e75d222103e"
+              },
+              "dapAn": "C. a teacher",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "118bc239-71a5-46aa-b370-6907d98fad13"
+              },
+              "dapAn": "D. a driver",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "7dfe9f73-9846-47ed-9fdb-a492498f55d1"
+          },
+          "cauHoi": "What does he like?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2286decf-9b15-4254-b8ee-9cbfc2304fd7"
+              },
+              "dapAn": "A. teaching children",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "8abf5cfe-f3aa-4f4c-9619-4c2a478312be"
+              },
+              "dapAn": "B. teaching old people",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9dff714e-0568-48aa-99b0-bb93952058af"
+              },
+              "dapAn": "C. drawing",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4248df2f-2e3f-4480-a3fc-ceed527fb770"
+              },
+              "dapAn": "D. writing a novel",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "9c6fcbc0-422f-44da-9553-c1ae0195912c"
+          },
+          "cauHoi": "What does the speaker want to do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "134fb21b-f137-4c6f-a31a-d11b9a2fcc55"
+              },
+              "dapAn": "A. draw a picture",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "65581470-caef-45f6-b711-3dbd66d82961"
+              },
+              "dapAn": "B. make much money",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "27428dbc-b3a6-45b0-a654-f241e035c0d0"
+              },
+              "dapAn": "C. buy a house",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "88503a41-fa29-415a-90a3-22bec38f3615"
+              },
+              "dapAn": "D. write a book",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "yNghia": "I am an English teacher. I like teaching children. One day I hope to write a book about my work.<br />\r\n<i>Tôi là một giáo viên tiếng Anh. Tôi thích dạy trẻ em. Một ngày nào đó tôi hi vọng mình sẽ viết được một cuốn sách về công việc của mình.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L9/sounds/normal/PRES_9_LISTENING_13. I ... work.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a582ece8-0dd5-4d1a-beaa-fafc5cbfe858"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "89b77d3b-7d58-4725-9e3c-ec9625e416ff"
+          },
+          "cauHoi": "What does the speaker do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "0d0e9735-7820-4ca8-b85d-37e2cb160557"
+              },
+              "dapAn": "A. a pilot",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "d28bf40a-e228-4d48-84fa-78f35d04248b"
+              },
+              "dapAn": "B. a manager",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "05ed98db-80e3-4145-8422-8f4b7ede0ef0"
+              },
+              "dapAn": "C. a doctor",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "991a35e1-b483-4766-a2e4-74263e85a3cb"
+              },
+              "dapAn": "D. a nurse",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "909665ad-2635-418b-8678-69e9cc9f7709"
+          },
+          "cauHoi": "How is his job?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "e6dc9af9-1359-4b63-9690-5292394988a5"
+              },
+              "dapAn": "A. boring",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c6a6ad54-ae5d-4eae-93f1-a0994e2dc248"
+              },
+              "dapAn": "B. interesting",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "01355405-394a-437a-aff3-c986d63fac60"
+              },
+              "dapAn": "C. fun",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e2c9f05f-86e9-436c-aa8d-2b8bb968225e"
+              },
+              "dapAn": "D. lonely",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "e88bc426-2175-4db5-a516-dd478e6543de"
+          },
+          "cauHoi": "What does he like doing?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "61592f98-22d9-4df8-97b9-3834efa6447c"
+              },
+              "dapAn": "A. traveling and flying",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a4404184-e582-408e-b6dd-c96295ff6fc5"
+              },
+              "dapAn": "B. uniform",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a2be32b7-201a-4799-b158-1d20d9b8710d"
+              },
+              "dapAn": "C. driving",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f7172284-0eae-4833-ba1f-81ad32072644"
+              },
+              "dapAn": "D. Both A&B are correct",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "I'm a pilot. It's an interesting job. I love traveling and flying. I visit many countries every year. I like my uniform.<br />\r\n<i>Tôi là một phi công. Nó là một công việc thú vị. Tôi yêu thích đi du lịch và bay. Hàng năm tôi đi đến nhiều đất nước. Tôi thích đồng phục của mình.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L9/sounds/normal/PRES_9_LISTENING_14. Im ... uniform.mp3"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "2e43bd5d-9e36-4a80-b432-bd6b96b4fce4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Welcome to our <b>(1) _____</b> day at Rashford Zoo. Let's start with a very interesting topic.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\n                        <td>What is that <b>(2) _____</b>?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>It is about the <b>(3) _____</b> we do at the zoo.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\n                        <td>Yeah, I'm <b>(4) _____</b> to hear about it.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Welcome to our <b>(1)</b> <b><span style=\"color:red\">open</span> </b> day at Rashford Zoo. Let's start with a very interesting topic.<br />\n                        <i>Chào mừng đến với ngày <span style=\"color:red\">mở</span>  cửa của chúng tôi tại Sở thú Rashford. Hãy bắt đầu với một chủ đề rất thú vị</i><i> nhé</i><i>.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\n                        <td>What is that <b>(2) <span style=\"color:red\">topic</span> </b>?<br />\n                        <i><span style=\"color:red\">Chủ đề </span> </i><i>đó là gì?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>It is about the <b>(3) <span style=\"color:red\">work</span> </b> we do at the zoo.<br />\n                        <i>Đó là về <span style=\"color:red\">công việc </span> chúng tôi làm ở sở thú.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\n                        <td>Yeah, I'm <b>(4) <span style=\"color:red\">excited</span> </b> to hear about it.<br />\n                        <i>Ồ</i><i>, tôi rất <span style=\"color:red\">hào hứng </span> khi nghe về nó.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "open",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8d04665f-ea40-43d1-b0de-dc392d5b4cdf"
+          }
+        },
+        {
+          "dapAn": "topic",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ea7ad507-da35-4e09-a16b-3a16f7c3bebe"
+          }
+        },
+        {
+          "dapAn": "work",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "099c8159-c9b6-4d4a-8e6d-17d25b54a30d"
+          }
+        },
+        {
+          "dapAn": "excited",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a8d289f9-ca2c-4956-8e85-75bbd02b8b68"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ac3770a1-89f8-408f-abd7-3d9e66cbc498"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\n                        <td>I see a lot of posters around the zoo. What message do they <b>(1) _____</b>?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>We want to <b>(2) _____</b> people about the dangers some animals face in the wild.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\n                        <td>Besides, zookeepers also organize some <b>(3) _____</b> sessions, don't they?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Yes, they will talk about the <b>(4) _____</b>  to animals' habitats and what we can do to help.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\n                        <td>I see a lot of posters around the zoo. What message do they <b>(1) <span style=\"color:red\">convey</span> </b>?<br />\n                        <i>Tôi thấy rất nhiều áp phích xung quanh sở thú. </i><i>Chúng</i><i> <span style=\"color:red\">truyền tải </span> thông điệp gì?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>We want to <b>(2) <span style=\"color:red\">educate</span> </b> people about the dangers some animals face in the wild.<br />\n                        <i>Chúng tôi muốn <span style=\"color:red\">giáo dục </span> mọi người về sự nguy hiểm mà một số loài động vật phải đối mặt trong tự nhiên.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\n                        <td>Besides, zookeepers also organize some <b>(3) <span style=\"color:red\">free-talk</span> </b> sessions, don't they?<br />\n                        <i>Bên cạnh đó, những người trông coi vườn thú cũng tổ chức một số buổi trò chuyện </i><i>tự do</i><i> phải không?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Yes, they will talk about the <b>(4) <span style=\"color:red\">threats</span> </b> to animals' habitats and what we can do to help.<br />\n                        <i>Đúng vậy</i><i>, họ sẽ nói về <span style=\"color:red\">các mối đe dọa </span> đối </i><i>tới </i><i>môi trường sống của động vật và chúng ta có thể làm gì để giúp đỡ.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "convey",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "85739e47-b5a5-4fc4-bd4c-4e87c9270c3e"
+          }
+        },
+        {
+          "dapAn": "educate",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f88960b0-dad9-436e-a577-e12e09d1218b"
+          }
+        },
+        {
+          "dapAn": "free-talk",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "bdb94cc4-1ede-4968-9fad-b6c9aac7f09f"
+          }
+        },
+        {
+          "dapAn": "threats",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a51bec60-ae2d-48c9-9c64-d694f4903d44"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "baa8824b-4de2-40b7-94f5-cabf94be3be3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Joyce and Ted <b>(1) _____</b> some money and created the Henter-Joyce company. They invented a <b>(2) _____</b> of computer software called JAWS (Job Access With Speech) which helps <b>(3) _____</b> people read the text on their computer screens. The program turns text into speech or <b>(4) _____</b>, the writing system for blind people.",
+      "yNghia": "Joyce and Ted <b>(1) </b><b><span style=\"color:red\">invested</span> </b> some money and created the Henter-Joyce company. They invented a <b>(2) </b><b><span style=\"color:red\">piece</span> </b> of computer software called JAWS (Job Access With Speech) which helps <b>(3) </b><b><span style=\"color:red\">blind</span> </b> people read the text on their computer screens. The program turns text into speech or <b>(4) </b><b><span style=\"color:red\">braille</span> </b>, the writing system for blind people.<br />\r\n<i>Joyce </i><i>và Ted </i><i><span style=\"color:red\">đã đầu tư </span> </i><i>một số tiền và thành lập công ty Henter-Joyce. Họ đã phát minh ra một phần mềm máy tính gọi là JAWS (Truy cập </i><i>vào </i><i>công việc bằng giọng nói) giúp người <span style=\"color:red\">mù</span>  đọc văn bản trên màn hình máy tính của họ. Chương trình</i><i> đó</i><i> biến văn bản thành lời nói hoặc <span style=\"color:red\">chữ nổi</span> , hệ thống chữ viết dành cho người mù.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "invested",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "9da7e36c-b32c-4c6c-94e2-af520d295a8f"
+          }
+        },
+        {
+          "dapAn": "piece",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e250369f-b18a-486d-b8e0-4a38d54ad845"
+          }
+        },
+        {
+          "dapAn": "blind",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "1a354b28-5fab-4c46-9042-8c8db9fd2a19"
+          }
+        },
+        {
+          "dapAn": "braille",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e576748e-d3a8-4678-9019-bf8bea778960"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ce3766b0-b665-450d-8ffc-dafee94ef529"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Milena Wisniak has spent all her teenage years on the professional tennis <b>(1) _____</b>, playing matches around the world from Sydney, Australia, to Wimbledon in London. She spends all her free time <b>(2) _____</b> and practising. As a result, she has very few friends of her <b>(3) _____</b> age and can't do the fun things her friends usually <b>(4) _____</b>.",
+      "yNghia": "Milena Wisniak has spent all her teenage years on the professional tennis <b>(1) </b><b><span style=\"color:red\">circuit</span> </b>, playing matches around the world from Sydney, Australia, to Wimbledon in London. She spends all her free time <b>(2) </b><b><span style=\"color:red\">training</span> </b> and practising. As a result, she has very few friends of her <b>(3) </b><b><span style=\"color:red\">own</span> </b> age and can't do the fun things her friends usually <b>(4) </b><b><span style=\"color:red\">do</span> </b>.<br />\n<i>Milena Wisniak đã dành cả tuổi thanh xuân của mình cho quần vợt chuyên nghiệp, chơi các trận đấu trên khắp thế giới từ Sydney, Australia, đến Wimbledon ở London. Cô ấy dành tất cả thời gian rảnh của mình để <span style=\"color:red\">tập luyện </span> và luyện tập. Kết quả là, cô ấy có rất ít bạn bè cùng tuổi và không thể làm những điều thú vị mà bạn bè cô ấy thường <span style=\"color:red\">làm</span> .</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "circuit",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f633033d-9488-41a5-b1a8-df7f92d7a17f"
+          }
+        },
+        {
+          "dapAn": "training",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "59c16a01-6557-4a6c-b8bb-ee7ba4a2fe2d"
+          }
+        },
+        {
+          "dapAn": "own",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "b96b60a9-06a9-47f7-8456-f55673aeafcb"
+          }
+        },
+        {
+          "dapAn": "do",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a4a4366f-ec5b-48cb-b58c-cb4554ab0b50"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a39150e7-3651-4e77-ab5c-68bf43c808ec"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My job as a <b>(</b><b>1) </b><b>_____</b> photographer takes me all over the world. My main interest is in recording endangered <b>(</b><b>2) </b><b>_____</b> before they disappear. I've taken shots of <b>(3</b><b>) </b><b>_____</b> in the Arctic. That was dangerous because they aren't at all <b>(</b><b>4) </b><b>_____</b>, cuddly creatures! They are real killers.",
+      "yNghia": "My job as a <b>(</b><b>1) <span style=\"color:red\">wildlife</span> </b> photographer takes me all over the world. My main interest is in recording endangered <b>(</b><b>2) <span style=\"color:red\">species</span> </b> before they disappear. I've taken shots of <b>(3</b><b>) <span style=\"color:red\">bears</span> </b> in the Arctic. That was dangerous because they aren't at all <b>(</b><b>4) <span style=\"color:red\">cute</span> </b>, cuddly creatures! They are real killers.<br />\n<i>Công việc của tôi là một nhiếp ảnh gia về <span style=\"color:red\">động vật hoang dã </span> đưa tôi đi khắp thế giới. Mối quan tâm chính của tôi là ghi lại <span style=\"color:red\">các loài </span> có nguy cơ tuyệt chủng trước khi chúng biến mất. Tôi đã chụp <span style=\"color:red\">gấu </span> ở Bắc Cực. Điều đó thật nguy hiểm vì chúng hoàn toàn không phải là những sinh vật <span style=\"color:red\">dễ thương</span>  đáng yêu! Chúng là những kẻ sát nhân.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "wildlife",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "4637e040-b625-43fb-829c-87beca164b8a"
+          }
+        },
+        {
+          "dapAn": "species",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "11320279-430c-4245-975f-92242739cf5c"
+          }
+        },
+        {
+          "dapAn": "bears",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "1e04e565-ed96-4eaf-9109-861114ddf9b8"
+          }
+        },
+        {
+          "dapAn": "cute",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "9412217c-3835-4948-92a5-4d7188561e03"
+          }
+        }
+      ]
+    }
+  ]
+}

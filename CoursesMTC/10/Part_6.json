@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "c1530467-9f59-45b6-b87a-a542cd790642"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "f2105c5b-fa3d-4721-9cdb-25b7ac3082a0"
+          },
+          "cauHoi": "How many important revolutions mentioned in the last lesson are there?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6c7a09cb-469e-454f-807c-82861ee0afbf"
+              },
+              "dapAn": "A. 2",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "05cb50b7-1ddf-49d1-82b3-265410e47734"
+              },
+              "dapAn": "B. 3",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4eedae2e-4640-45cd-966d-91c314c11417"
+              },
+              "dapAn": "C. 4",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "70ce3b71-4634-42ed-beba-4adec2963c31"
+              },
+              "dapAn": "D. 5",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "c7fc5801-f4b3-4195-a67e-43b91cff0061"
+          },
+          "cauHoi": "What revolution that is mentioned in the reading changed the world forever?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "16b5c164-158d-4df9-8f10-afa33c56de7c"
+              },
+              "dapAn": "A. Russian Revolution",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "68aed325-3497-487a-af73-3e86db9d8a71"
+              },
+              "dapAn": "B. Industrial Revolution",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "d1b1a025-b787-41d2-b3b1-eb9658558aa7"
+              },
+              "dapAn": "C. French Revolution",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b0776ad2-bac7-4b42-9c8d-7ce296d76e59"
+              },
+              "dapAn": "D. Cultural Revolution",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "9471b55e-27b0-439b-b7ff-84bc42b59528"
+          },
+          "cauHoi": "When did the mentioned revolution change the world?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "189f6b46-6012-40b5-91e8-6da04939b97c"
+              },
+              "dapAn": "A. by the end of the 19th century",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "667ebb19-a4c0-4230-9ae7-8b5df986a992"
+              },
+              "dapAn": "B. middle of the 19th century",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6bcecc12-0c17-4e26-bfe2-88f39e3ba826"
+              },
+              "dapAn": "C. by the end of the 20th century",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2dec8e28-157b-448a-895c-a5b84ceb56da"
+              },
+              "dapAn": "D. by the end of the 21th century",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "483ce05b-e343-4fea-a0d6-b77262c1993d"
+          },
+          "cauHoi": "Are communications and transportation two enormous changes that happened between 1900 to 1920?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "159bef32-21f3-42f3-88e9-daaa1bb56005"
+              },
+              "dapAn": "A. Yes, it is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5e360f09-ed66-4ab2-a492-3d0a6010eded"
+              },
+              "dapAn": "B. No, they aren’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0bd31410-0b48-40c1-97a8-34e18370d50c"
+              },
+              "dapAn": "C. Yes, they are.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "64f7316c-42d2-4df2-b831-0009b02415b2"
+              },
+              "dapAn": "D. No, they are.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Teacher:</b></td>\n                        <td>Leo, what are the two important revolutions that we mentioned in the last lesson?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Leo:</b></td>\n                        <td>They are the Industrial Revolution and the Digital Revolution.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Teacher:</b></td>\n                        <td>Very good! Can you tell me more about the Industrial Revolution?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Leo:</b></td>\n                        <td>By the end of the 19th century, it had changed the world forever.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Teacher:</b></td>\n                        <td>What are two enormous changes that happened between 1900 to 1920?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Leo:</b></td>\n                        <td>I'm not sure about that. I think they are communications and transportation.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>How many important revolutions mentioned in the last lesson are there?</b> <i>(Có bao nhiêu cuộc cách mạng quan trọng được nhắc đến trong bài trước?),</i> <b></b>câu trong bài đọc liên quan là <b>Leo, what are the two important revolutions that we mentioned in the last lesson?</b> <i>(Leo, hai cuộc cách mạng quan trọng mà chúng ta đã đề cập trong bài học trước là gì?).</i> Nên đáp áp là <span style=\"color:red\"><b>A. 2</b></span>.<br />\n<b>2.</b> Với câu hỏi <b>What revolution that is mentioned in the reading changed the world forever?</b> <i>(Cuộc cách mạng nào được nhắc đến trong bài đọc đã thay đổi thế giới mãi mãi?),</i> <b></b>câu trong bài đọc liên quan là <b>Teacher: Very good! Can you tell me more about the Industrial Revolution? / Leo: By the end of the 19th century, it had changed the world forever.</b> <b><i></i></b><i>(Giáo viên: Rất tốt! Em có thể cho tôi biết thêm về cuộc Cách mạng Công nghiệp không? / Leo: Vào cuối thế kỷ 19, nó đã thay đổi thế giới mãi mãi.).</i> Nên đáp áp là <span style=\"color:red\"><b>B. Industrial Revolution</b></span> <i>(Cách mạng Công nghiệp)</i>.<br />\n<b>3.</b> Với câu hỏi <b>When did the mentioned revolution change the world?</b> <i>(Cuộc cách mạng được nhắc đến đã thay đổi thế giới khi nào?),</i> <b></b>câu trong bài đọc liên quan là <b>Teacher: Very good! Can you tell me more about the Industrial Revolution? / Leo: By the end of the 19th century, it had changed the world forever.</b> <b><i></i></b><i>(Giáo viên: Rất tốt! Em có thể cho tôi biết thêm về cuộc Cách mạng Công nghiệp không? / Leo: Vào cuối thế kỷ 19, nó đã thay đổi thế giới mãi mãi.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. by the end of the 19th century</b></span> <i>(vào cuối thế kỷ 19)</i>.<br />\n<b>4.</b> Với câu hỏi <b>Are communications and transportation two enormous changes that happened between 1900 to 1920?</b> <i>(Thông tin liên lạc và giao thông vận tải có phải là hai thay đổi to lớn xảy ra trong khoảng thời gian từ 1900 đến 1920 không?),</i> <b></b>câu trong bài đọc liên quan là <b>Teacher: What are two enormous changes that happened between 1900 to 1920? / Leo: ... I think they are communications and transportation. / Teacher: That's right.</b> <b><i></i></b><i>(Giáo viên: Hai thay đổi to lớn đã xảy ra từ năm 1900 đến năm 1920 là gì? / Leo: ... Em nghĩ rằng chúng là thông tin liên lạc và giao thông vận tải. / Giáo viên: Đúng rồi.).</i> Nên đáp áp là <span style=\"color:red\"><b>C. Yes, they are.</b></span> <i>(Đúng vậy.)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "fbea3241-62b2-4a92-a39a-d379717d9db5"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "f6cc06cb-43a7-4a2f-88f9-79958b33ea7c"
+          },
+          "cauHoi": "What is the change of transportation?\n",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "4ae5d476-34fc-4790-ad46-82b283c83bef"
+              },
+              "dapAn": "A. the electric trams",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "7d3127f8-c600-41e6-b3ae-12d7eee14a2a"
+              },
+              "dapAn": "B. the locomotive trains",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "11ee12d7-12c2-48a2-9be2-2ca55f40a65d"
+              },
+              "dapAn": "C. the double decker trams",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2f69b353-f379-4fda-90fc-150e2bcb12c6"
+              },
+              "dapAn": "D. mountain railways",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ab5d1123-c371-40b3-9e0a-6910a140103e"
+          },
+          "cauHoi": "Where did the electric trams appear?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "1524c76c-5127-4fb2-83ad-e199dc0708ec"
+              },
+              "dapAn": "A. in Paris",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8b8829d4-5307-4ac5-9b18-49b702bad705"
+              },
+              "dapAn": "B. in London",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "210e471a-8f09-4f26-948e-743ff3891541"
+              },
+              "dapAn": "C. in Hongkong",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bebe558e-13c1-4908-83d0-d1f4be9c7f67"
+              },
+              "dapAn": "D. in Scotland",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "814df5f0-0583-4e88-8ac8-feafa2794d61"
+          },
+          "cauHoi": "What makes the teacher not believe?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "cbc191f4-ce1a-45d8-9a69-10dabd58a127"
+              },
+              "dapAn": "A. The electric trams are so strong.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "27f48441-31f4-428d-96e3-80206e2e90a8"
+              },
+              "dapAn": "B. The electric trams are so old.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f2bff067-8417-4b22-a33d-b720f71e6c37"
+              },
+              "dapAn": "C. The electric trams are so expensive.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e80553db-9f8c-48a8-a472-13bbeafc5942"
+              },
+              "dapAn": "D. The electric trams appeared so early.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "fd17a927-0a4a-4c07-9180-675dd62565f6"
+          },
+          "cauHoi": "When did the Digital Revolution occur?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "258e4127-e43a-4280-a12c-65ccded140db"
+              },
+              "dapAn": "A. the first two decades of the 20th century",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "98e176e8-1ed1-4b57-bd45-9cc20011bc9f"
+              },
+              "dapAn": "B. the first two decades of the 20th century",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "20bf9761-bd19-47c0-84c5-a76fef237da3"
+              },
+              "dapAn": "C. the first two years of the 21st century",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2d1f22df-9ad1-4ef6-acac-6e3fcc6f2cf4"
+              },
+              "dapAn": "D. the first two decades of the 21st century",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                                                <td style=\"vertical-align: top;\"><b>Teacher:</b></td>\n                        <td>Can you say something about the changes of transportation?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Leo:</b></td>\n                        <td>The electric trams in London by 1897. I can't believe they appeared so early.</td>\n                </tr>\n                <tr>\n                                                <td style=\"vertical-align: top;\"><b>Teacher:</b></td>\n                        <td>I agree. What about the Digital Revolution?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Leo:</b></td>\n                        <td>It occurred in the first two decades of the 21st century.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What is the change of transportation?</b> <i>(Phương tiện giao thông đã có thay đổi gì?),</i> <b></b>câu trong bài đọc liên quan là <b>Teacher: Can you say something about the changes of transportation? - Leo: The electric trams in London by 1897.</b> <i>(Giáo viên: Em hãy nêu đôi nét về sự thay đổi đối với các phương tiện giao thông? / Leo: Xe điện xuất hiện ở London vào năm 1897 ạ.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. the electric trams</b></span> <i>(xe điện)</i>.<br />\n<b>2.</b> Với câu hỏi <b>Where did the electric trams appear?</b> <i>(Xe điện đã xuất hiện ở đâu?),</i> <b>The electric trams in London by 1897.</b> <i>(Xe điện xuất hiện ở London vào năm 1897.).</i> Nên đáp áp là <span style=\"color:red\"><b>B. in London</b></span> <i>(ở Luân Đôn)</i>.<br />\n<b>3.</b> Với câu hỏi <b>What makes the teacher not believe?</b> <i>(Điều gì khiến giáo viên không tin được?),</i> <b></b>câu trong bài đọc liên quan là <b>Leo: The electric trams in London by 1897. I can't believe they appeared so early. - Teacher: I agree.</b> <i>(Leo: Xe điện xuất hiện ở London vào năm 1897 ạ. Em không thể tin rằng chúng lại xuất hiện sớm như vậy. - Giáo viên: Tôi đồng ý.).</i> Nên đáp áp là <span style=\"color:red\"><b>D. The electric trams appeared so early.</b></span> <i>(Xe điện xuất hiện rất sớm.)</i>.<br />\n<b>4.</b> Với câu hỏi <b>When did the Digital Revolution occur?</b> <i>(Cuộc cách mạng số diễn ra khi nào?),</i> <b></b>câu trong bài đọc liên quan là <b>It occurred in the first two decades of the 21st century.</b> <i>(Nó xảy ra trong hai thập kỷ đầu tiên của thế kỷ 21.).</i> Nên đáp áp là <span style=\"color:red\"><b>D. the first two decades of the 21st century</b></span> <i>(hai thập kỷ đầu tiên của thế kỷ 21)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "81efc31a-4511-4141-b800-92f758320b01"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "cfae0ce7-eddc-48fd-ae74-ef3a02531419"
+          },
+          "cauHoi": "What kind of pollution was very bad 20 years ago?\n",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3eaf29ac-13d3-41b4-bea0-e1d4f0042cef"
+              },
+              "dapAn": "A. air pollution\n",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e2513c90-8137-4351-adac-17536d2904e5"
+              },
+              "dapAn": "B. water pollution",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0cf1c10a-9421-4eb7-99bb-f71cff9530e5"
+              },
+              "dapAn": "C. A&B",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "dcd4c831-096d-4212-be75-d207ad60a1f2"
+              },
+              "dapAn": "D. none of them",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "e0a9bb44-bb5a-415c-826e-0a27df84251e"
+          },
+          "cauHoi": "Who has created strong anti-pollution laws?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "40e98641-655e-4bfb-8dab-8b59662bf0e2"
+              },
+              "dapAn": "A. the company",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "635d9068-fb7d-4a63-9459-70042d238758"
+              },
+              "dapAn": "B. the president",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2daef05f-310d-4e94-9e82-ee6bf38a19ce"
+              },
+              "dapAn": "C. the government",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "abdb57f6-8ed6-4a5e-888f-6fd9d9d9f5b3"
+              },
+              "dapAn": "D. the Prince",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "8a622df1-c663-43b6-aac3-837942d396ce"
+          },
+          "cauHoi": "Did the companies that pollute the air or water have to pay big fines?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "505f4919-6d62-4696-b238-e9e659348e2f"
+              },
+              "dapAn": "A. Yes, they didn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1b59abdf-0e4f-46e1-ac9d-77d8d8fd6b61"
+              },
+              "dapAn": "B. Yes, they did.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "9ef0bdea-24f2-4560-9a46-fa6a09a75903"
+              },
+              "dapAn": "C. No, they did.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "38de71b9-3a36-4ea2-b2c4-9e7b35f554f3"
+              },
+              "dapAn": "D. No, they didn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "84292108-9ac7-4e2e-aba6-b9fc1d462b20"
+          },
+          "cauHoi": "Have new parks and other green spaces been built in the city?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a9041062-34c2-43d9-9792-2ae64aa6f68f"
+              },
+              "dapAn": "A. Yes, they have.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "8a006cbc-47f9-4219-8b52-d734bb235d3f"
+              },
+              "dapAn": "B. Yes, they haven’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1e191ebd-6962-4c8a-a2e7-0e470a753651"
+              },
+              "dapAn": "C. No, they haven’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9b26c783-3854-49f6-9799-171354ca1403"
+              },
+              "dapAn": "D. No, they have.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Twenty years ago, air pollution was terrible in big cities, and water pollution was very bad, too. The government has given tax breaks to industries that moved to new locations, and they have created strong anti-pollution laws. Companies that pollute the air or water have to pay big fines. My city has built new parks and other green spaces, and it has created new pollution laws for vehicles.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What kind of pollution was very bad 20 years ago?</b> <i>(Cách đây 20 năm, loại ô nhiễm nào rất tồi tệ?),</i> <b></b>câu trong bài đọc liên quan là <b>Twenty years ago, air pollution was terrible in big cities, and water pollution was very bad, too.</b> <i>(Hai mươi năm trước, ô nhiễm không khí rất khủng khiếp ở các thành phố lớn và ô nhiễm nước cũng rất tồi tệ.).</i> Nên đáp áp là <span style=\"color:red\"><b>C. A&B</b></span>.<br />\n<b>2.</b> Với câu hỏi <b>Who has created strong anti-pollution laws?</b> <i>(Ai đã tạo ra luật chống ô nhiễm mạnh mẽ?),</i> <b></b>câu trong bài đọc liên quan là <b>The government has given tax breaks to industries that moved to new locations, and they have created strong anti-pollution laws.</b> <i>(Chính phủ đã giảm thuế cho các ngành công nghiệp chuyển đến địa điểm mới và họ đã tạo ra luật chống ô nhiễm mạnh mẽ.).</i> Nên đáp áp là <span style=\"color:red\"><b>C. the government</b></span> <i>(chính phủ)</i>.<br />\n<b>3.</b> Với câu hỏi <b>Did the companies that pollute the air or water have to pay big fines?</b> <i>(Các công ty gây ô nhiễm không khí hoặc nước có phải nộp khoản tiền phạt lớn không?),</i> <b></b>câu trong bài đọc liên quan là <b>Companies that pollute the air or water have to pay big fines.</b> <i>(Các công ty gây ô nhiễm không khí hoặc nước phải nộp khoản tiền phạt lớn.).</i> Nên đáp áp là <span style=\"color:red\"><b>B. Yes, they did.</b></span> <i>(Đúng vậy.)</i>.<br />\n<b>4.</b> Với câu hỏi <b>Have new parks and other green spaces been built in the city?</b> <i>(Các công viên mới và không gian xanh khác đã được xây dựng trong thành phố phải không?),</i> <b></b>câu trong bài đọc liên quan là <b>My city has built new parks and other green spaces, and it has created new pollution laws for vehicles.</b><br />\n<i>(Thành phố của tôi đã xây dựng các công viên mới và các không gian xanh khác, và họ đã đưa ra luật chống ô nhiễm mới đối với các phương tiện giao thông.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. Yes, they have.</b></span> <i>(Đúng vậy.)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e7291aee-9e1e-48aa-8b43-2bedef7d2269"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "928dd37a-c310-4b83-bcac-a96056f0e0b8"
+          },
+          "cauHoi": "When did the first commercial telephone company open?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "5d57b3ac-eeab-45cd-b626-cee7fcad034d"
+              },
+              "dapAn": "A. in 1874",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9524115a-2895-4c72-9fbc-6db69f06e76d"
+              },
+              "dapAn": "B. in 1875",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "635c1a2c-e605-4e8e-ab17-b1cf8cd45694"
+              },
+              "dapAn": "C. in 1877",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "261d8d90-c145-4c7a-a4ba-587cb5d3a3e4"
+              },
+              "dapAn": "D. in 1878",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "5ed30b9c-0b16-4c14-8e92-a5c7a394ab9f"
+          },
+          "cauHoi": "Had the telephone become widely available to the public in 1878?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2b2d74a6-4b14-4932-9ffe-15a4424d4db0"
+              },
+              "dapAn": "A. No, it hadn’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "00676937-123e-4447-ace2-522da9e09116"
+              },
+              "dapAn": "B. Yes, it hadn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ec1a420b-7155-4a92-8ab4-393a34f3664b"
+              },
+              "dapAn": "C. No, it had.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e9b3d4eb-d47b-47cc-9d01-8328b5355aa6"
+              },
+              "dapAn": "D. Yes, it had.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "8f19152c-383b-4886-bba6-318358fa3557"
+          },
+          "cauHoi": "Where did electric taxis appear by 1897?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "39f2f67b-6c7d-49af-934e-ef2c1230d685"
+              },
+              "dapAn": "A. in New York",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d97c7770-d68f-4d8b-b47a-2e93ea0d2f56"
+              },
+              "dapAn": "B. in Hongkong",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "14a63f70-ccff-42ec-9cd2-46f1451749f8"
+              },
+              "dapAn": "C. in Italia",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ecbadc19-5097-4fc3-b8a0-46d003d68e6b"
+              },
+              "dapAn": "D. in London",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "df6869f7-948f-4d89-82ac-57723010c2aa"
+          },
+          "cauHoi": "When did automobiles become available to ordinary people?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3d45cfb2-7b91-4874-ad93-6f22a7b8719e"
+              },
+              "dapAn": "A. in the 20th century",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3ce7cd8d-dbb1-4dc8-87e8-4a9e24e0e293"
+              },
+              "dapAn": "B. in 1990",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3320a152-07d9-4d53-9a6f-e9e5aa4af468"
+              },
+              "dapAn": "C. in the 21st century",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2fa91abf-c7c3-44d4-98bf-6e1e1755baac"
+              },
+              "dapAn": "D. in 1999",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "The first commercial telephone company opened in 1878, but at the beginning of the 20th century, the telephone had not yet become widely available to the public. Most surprisingly, there were electric taxis in London by 1897, but automobiles became available to ordinary people with the invention of the assembly line in the 20th century.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>When did the first commercial telephone company open?</b> <i>(Công ty điện thoại thương mại đầu tiên mở cửa vào năm nào?),</i> <b></b>câu trong bài đọc liên quan là <b>The first commercial telephone company opened in 1878, ...</b> <i>(Công ty điện thoại thương mại đầu tiên mở cửa vào năm 1878, ...).</i> Nên đáp áp là <span style=\"color:red\"><b>D. in 1878</b></span> <i>(vào năm 1878.)</i>.<br />\n<b>2.</b> Với câu hỏi <b>Had the telephone become widely available to the public in 1878?</b> <i>(Có phải điện thoại đã trở nên phổ biến rộng rãi cho công chúng vào năm 1878?),</i> <b></b>câu trong bài đọc liên quan là <b>The first commercial telephone company opened in 1878, but at the beginning of the 20th century, the telephone had not yet become widely available to the public.</b> <i>(Công ty điện thoại thương mại đầu tiên mở cửa vào năm 1878, nhưng vào đầu thế kỷ 20, điện thoại vẫn chưa được phổ biến rộng rãi cho mọi người.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. No, it hadn't.</b></span> <i>(Không.)</i>.<br />\n<b>3.</b> Với câu hỏi <b>Where did electric taxis appear by 1897?</b> <i>(Vào năm 1897, taxi điện xuất hiện ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>Most surprisingly, there were electric taxis in London by 1897, ...</b> <i>(Đáng ngạc nhiên nhất là đã có taxi điện xuất hiện ở London vào năm 1897, ...).</i> Nên đáp áp là <span style=\"color:red\"><b>D. in London</b></span> <i>(ở Luân Đôn)</i>.<br />\n<b>4.</b> Với câu hỏi <b>When did automobiles become available to ordinary people?</b> <i>(Ô tô đã trở nên phổ biến đối với những người bình thường khi nào?),</i> <b></b>câu trong bài đọc liên quan là <b>.... but automobiles became available to ordinary people with the invention of the assembly line in the 20th century.</b> <i>(... nhưng với việc phát minh ra dây chuyền lắp ráp vào thế kỷ 20 thì ô tô đã trở nên phổ biến đối với cả những người bình thường.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. in the 20th century</b></span> <i>(vào thế kỷ 20)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b9add44e-eeee-480d-9191-94c907ae95be"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "7f7845f6-d68e-4eee-a888-788949b8e37b"
+          },
+          "cauHoi": "What changed enormously from the close of the 20th century to the first decades of the 21st century?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f84725cd-bc8d-45db-92da-f800a836a6e5"
+              },
+              "dapAn": "A. gene technology",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4384a932-1df2-4ef0-b1f1-74023de748b4"
+              },
+              "dapAn": "B. entertainment technology",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "26c0abb1-b9e5-45b1-a4fe-2b40836cdd87"
+              },
+              "dapAn": "C. military technology",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "47833787-ac6a-435f-9f79-9a41441a9094"
+              },
+              "dapAn": "D. software technology",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "74cef17d-c7fa-48b7-846e-f737192904fc"
+          },
+          "cauHoi": "What was invented in 2002?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "aa570ae2-5aa3-4e94-b65b-88033e42850c"
+              },
+              "dapAn": "A. wireless headsets",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "199b2b74-1858-4620-891a-fbe7041cda02"
+              },
+              "dapAn": "B. e-readers",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9afbd926-11ff-4a0a-8a92-5a0e6237785a"
+              },
+              "dapAn": "C. YouTube",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0b4bf8cf-f13a-4e11-b54d-d9d7c64b306b"
+              },
+              "dapAn": "D. internet radio",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ad8fc754-3a5e-46cb-a260-d1ea9998d2a1"
+          },
+          "cauHoi": "When the internet radio was invented?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d8362e61-c2f1-4097-8970-7636916a3943"
+              },
+              "dapAn": "A. in 2005",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "6307d0da-6c6e-43ff-92ea-00264f8767f4"
+              },
+              "dapAn": "B. in 2015",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4ebef252-41f0-4ab9-97a3-c3d967ec1f88"
+              },
+              "dapAn": "C. in 1995",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "96409057-ea4a-4222-9875-1524fdd29cbe"
+              },
+              "dapAn": "D. in 2001",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "67eed450-1e6f-496d-8a69-dc95dd28d8df"
+          },
+          "cauHoi": "Were virtual reality headsets invented in 2005?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b9d9966c-4ca6-4ec8-8010-30b89023f4b0"
+              },
+              "dapAn": "A. Yes, it was.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8f4dbf3a-9859-431d-ae0e-761eb117b904"
+              },
+              "dapAn": "B. No, it was.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1e484f97-9b88-4190-8804-778a8744a874"
+              },
+              "dapAn": "C. No, it wasn’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a45376ed-9f7d-40a8-9b83-58e1792d0134"
+              },
+              "dapAn": "D. Yes, it wasn’t.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Entertainment technology changed enormously from the close of the 20th century to the first decades of the 21st century. Some of the major 21st-century inventions so far have been wireless headsets in 2002, YouTube and internet radio in 2005, e-readers in 2007, and virtual reality headsets in 2016. It is hard to imagine where digital technology will take us by the end of the 21st century!",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What changed enormously from the close of the 20th century to the first decades of the 21st century?</b> <i>(Từ cuối thế kỷ 20 đến những thập kỷ đầu tiên của thế kỷ 21, điều gì đã thay đổi mạnh mẽ?),</i> <b></b>câu trong bài đọc liên quan là <b>Entertainment technology changed enormously from the close of the 20th century to the first decades of the 21st century.</b> <i>(Công nghệ giải trí đã thay đổi rất nhiều từ cuối thế kỷ 20 đến những thập kỷ đầu tiên của thế kỷ 21.).</i> Nên đáp áp là <span style=\"color:red\"><b>B. entertainment technology</b></span> <i>(công nghệ giải trí)</i>.<br />\n<b>2.</b> Với câu hỏi <b>What was invented in 2002?</b> <i>(Cái gì được phát minh vào năm 2002?),</i> <b></b>câu trong bài đọc liên quan là <b>Some of the major 21st-century inventions so far have been wireless headsets in 2002, YouTube and internet radio in 2005, e-readers in 2007, and virtual reality headsets in 2016.</b> <i>(Một số phát minh quan trọng của thế kỷ 21 cho đến nay là tai nghe không dây vào năm 2002, YouTube và đài phát thanh internet vào năm 2005, máy đọc sách điện tử vào năm 2007 và tai nghe thực tế ảo vào năm 2016.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. wireless headsets</b></span> <i>(tai nghe không dây)</i>.<br />\n<b>3.</b> Với câu hỏi <b>When the internet radio was invented?</b> <i>(Đài phát thanh internet được phát minh khi nào?),</i> <b></b>câu trong bài đọc liên quan là <b>Some of the major 21st-century inventions so far have been wireless headsets in 2002, YouTube and internet radio in 2005, e-readers in 2007, and virtual reality headsets in 2016.</b> <i>(Một số phát minh quan trọng của thế kỷ 21 cho đến nay là tai nghe không dây vào năm 2002, YouTube và đài phát thanh internet vào năm 2005, máy đọc sách điện tử vào năm 2007 và tai nghe thực tế ảo vào năm 2016.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. in 2005</b></span> <i>(vào năm 2005)</i>.<br />\n<b>4.</b> Với câu hỏi <b>Were virtual reality headsets invented in 2005?</b> <i>(Tai nghe thực tế ảo được phát minh vào năm 2005 phải không?),</i> <b></b>câu trong bài đọc liên quan là <b>Some of the major 21st-century inventions so far have been wireless headsets in 2002, YouTube and internet radio in 2005, e-readers in 2007, and virtual reality headsets in 2016.</b> <i>(Một số phát minh quan trọng của thế kỷ 21 cho đến nay là tai nghe không dây vào năm 2002, YouTube và đài phát thanh internet vào năm 2005, máy đọc sách điện tử vào năm 2007 và tai nghe thực tế ảo vào năm 2016.).</i> Nên đáp áp là <span style=\"color:red\"><b>C. No, it wasn't.</b></span> <i>(Không.)</i>.",
+      "danhSachDapAn": []
+    }
+  ]
+}

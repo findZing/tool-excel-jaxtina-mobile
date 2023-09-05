@@ -1,0 +1,335 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "Grammar",
+  "videoUrl": "4SKILLS_PRE_S_L19/grammar.mp4",
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:01:07",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P1",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Her husband ________.",
+            "_id": "1661e5aa-8a8f-41a3-a96e-8b4dc6e976a2",
+            "soundCauhoi": "4SKILLS_PRE_S_L19/sounds/video-practice/1.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "washes the dishes",
+                "_id": "aed0f77c-798c-4341-a078-8e303266a920"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "cleans the house",
+                "_id": {
+                  "$oid": "fcf38aea-75a8-447b-bedb-99e62bed30ee"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "does the laundry",
+                "_id": {
+                  "$oid": "7f5676e3-16ed-4c31-ae3b-5448d6e4be05"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "His brother ________.",
+            "_id": "c486918a-4f69-49f7-84eb-98ec20f5bb22",
+            "soundCauhoi": "4SKILLS_PRE_S_L19/sounds/video-practice/2.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "washes the dishes",
+                "_id": "9d272fb2-2a60-4b2a-8392-bafd84b86138"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "cleans the house",
+                "_id": {
+                  "$oid": "7700abd6-6d5e-4331-942a-ec363026c08f"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "does the laundry",
+                "_id": {
+                  "$oid": "3ec4bf77-1bd0-495f-b584-216a1173bfcf"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "She ________.",
+            "_id": "1ec11679-7fd6-472b-af1c-aae1cf42a0ba",
+            "soundCauhoi": "4SKILLS_PRE_S_L19/sounds/video-practice/3.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "washes the dishes",
+                "_id": "7a5e2ddd-2222-41ad-be6d-e12e1a19efbd"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "cleans the house",
+                "_id": {
+                  "$oid": "0e027064-c949-459a-9bc2-084c37f6abc4"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "makes dinner",
+                "_id": {
+                  "$oid": "7a66b4cc-0d39-4c30-8a46-cee30444080b"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "His son _______.",
+            "_id": "adfc103c-8d11-4b35-a396-3c099ca037a2",
+            "soundCauhoi": "4SKILLS_PRE_S_L19/sounds/video-practice/4.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "washes the dishes",
+                "_id": "8f02fa50-3d27-44c3-b907-d87e1a5905df"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "cleans the house",
+                "_id": {
+                  "$oid": "c057fc49-98e6-4148-8e2c-23996f107ba0"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "makes dinner",
+                "_id": {
+                  "$oid": "b2551ca3-1eed-41c0-9750-0b53323562ba"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:01:07",
+      "timeEnd": "0:13:08",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "1b06e9d7-eb3b-4e65-9f47-9d22b2303d82",
+                "dapAn": "They"
+              },
+              {
+                "_id": "525cb0b1-90ef-4606-a61d-940dbd1935b7",
+                "dapAn": "aren't"
+              },
+              {
+                "_id": "69e455be-0e1a-42c3-a514-76493f6f1e73",
+                "dapAn": "doing"
+              },
+              {
+                "_id": "3c6e7852-1244-4aaf-ba1a-130741eef498",
+                "dapAn": "their"
+              },
+              {
+                "_id": "c5e9dc3d-bf38-40f3-8fe4-37c05dcb0fd7",
+                "dapAn": "homework."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "f30cb089-5599-45a3-b71a-3f09a1e88d59",
+                "dapAn": "She is not"
+              },
+              {
+                "_id": "6bbec756-0c85-4486-aa29-1455f0b3470f",
+                "dapAn": "watching"
+              },
+              {
+                "_id": "74a1b609-fced-432f-ba41-b4dcb487e28b",
+                "dapAn": "a movie."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "f1e256fc-23a0-41f7-888a-d72e37af1fa3",
+                "dapAn": "The girls"
+              },
+              {
+                "_id": "dca93a44-288e-4561-a4e7-32c2152801cf",
+                "dapAn": "are"
+              },
+              {
+                "_id": "5ea80162-c600-484e-9e50-e90224f6c377",
+                "dapAn": "getting"
+              },
+              {
+                "_id": "0282b845-5639-4705-8d10-7b56509b506d",
+                "dapAn": "coffee."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "2b550592-08d0-4b8d-8854-70cf217f7a52",
+                "dapAn": "It's"
+              },
+              {
+                "_id": "da19b050-749e-4889-8289-e7307c8bb4eb",
+                "dapAn": "raining"
+              },
+              {
+                "_id": "49fbdca7-f88a-416e-839d-ace4b0cf9ff4",
+                "dapAn": "today."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "2939f3c6-06e5-42b4-bb49-1d4260896bf0",
+                "dapAn": "I'm"
+              },
+              {
+                "_id": "da0e1a1d-a1fd-4b89-823f-4a9e2c342063",
+                "dapAn": "not"
+              },
+              {
+                "_id": "e57bbc36-a8e4-46ff-abb3-6654c1153d70",
+                "dapAn": "having"
+              },
+              {
+                "_id": "8eb49589-7f79-4d91-b4eb-8a72584add94",
+                "dapAn": "fun."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:13:08",
+      "timeEnd": "0:15:58",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P5",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Do you like coffee ________ tea? I drink five cups of coffee every day.",
+            "_id": "5eacad94-0563-43fe-af45-c57a70110f9b",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "and",
+                "_id": "3b45f42b-5927-451e-bcc5-88d15c231cc3"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "because",
+                "_id": {
+                  "$oid": "5b986aa0-5fa8-4aef-a83c-e8cda3dcb543"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "or",
+                "_id": {
+                  "$oid": "703a4eaf-4c17-4ce9-98d3-2f179521c738"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "Reserve a table, ________ the restaurant is very busy.",
+            "_id": "b546e796-6c2a-48e3-8824-0dbced19bce1",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "and",
+                "_id": "d9ed11ad-b0aa-4897-8649-850cc72cb6a9"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "because",
+                "_id": {
+                  "$oid": "e58741b7-5044-44a6-a3ce-9d6a98b433d8"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "or",
+                "_id": {
+                  "$oid": "462956f5-9684-413a-a906-d7063bb83679"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "Go to the museum, ________ go to the park. They are both great!",
+            "_id": "64fee466-809c-4fe7-b9dc-3b6da11d1d7a",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "and",
+                "_id": "89aae58f-e159-40d5-8a4f-00b8688a0e98"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "because",
+                "_id": {
+                  "$oid": "29a8c379-f297-4fc9-909e-48afb842fcd1"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "or",
+                "_id": {
+                  "$oid": "e078645d-c354-4a69-a63b-c944876cc7a9"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "noiDungVideo": [
+    {
+      "timeEnd": "0:01:07",
+      "noiDung": "<b><span style=\"color:red\">Simple present tense: Questions with <i>who</i> as subject <i>(Thì hiện tại đơn: Câu hỏi với chủ ngữ ‘who')</i></span></b><br />\n<b>Function <i>(Cách dùng)</i></b><br />\nCâu hỏi chủ ngữ với từ để hỏi <b><i>Who</i></b> là câu hỏi khi muốn biết chủ thể của hành động.<br />\n<br />\n<b>Form <i>(Cấu trúc)</i></b> \n<table>\n        <tbody>\n                <tr>\n                        <td><b>Who washes</b> the dishes in your family?</td>\n                </tr>\n                <tr>\n                        <td>I <b>do</b>. / My sister <b>does</b>.</td>\n                </tr>\n                <tr>\n                        <td>We <b>do</b>. / My grandparents <b>do</b>.</td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<b>Note <i>(Ghi chú)</i></b><br />\nLuôn chia động từ ngôi thứ ba khi <b><i>who</i></b> làm chủ ngữ trong câu hỏi."
+    },
+    {
+      "timeEnd": "0:13:08",
+      "noiDung": "<b><span style=\"color:red\">Present progressive tense <i>(Thì hiện tại tiếp diễn)</i></span></b><br />\n<b>Function <i>(Cách dùng)</i></b><br />\nChúng ta sử dụng thì hiện tại tiếp diễn để nói về một hành động đang xảy ra ngay tại thời điểm hiện tại.<br />\n<br />\n<b>Form <i>(Cấu trúc)</i></b>\n<table>\n        <tbody>\n                <tr>\n                        <td colspan=\"3\"><b>Statements</b><br />\n                        <b><i>(Câu khẳng định / phủ định)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>Pronoun</b><br />\n                        <b><i>(Đại từ nhân xưng)</i></b></td>\n                        <td><b>To be ( + / - )</b></td>\n                        <td><b>+ <i>-ing</i> (regular verb)</b><br />\n                        <b><i>+ -ing (động</i></b> <b><i>từ quy tắc)</i></b></td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">I</td>\n                        <td><b>am (‘m)</b></td>\n                        <td rowspan=\"6\"><b>reading</b> a book.<br />\n                        <b>watching</b> a movie.<br />\n                        eating.</td>\n                </tr>\n                <tr>\n                        <td><b>am (‘m) not</b></td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">He / She / It</td>\n                        <td><b>is (‘s)</b></td>\n                </tr>\n                <tr>\n                        <td><b>is not (isn't)</b></td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">You / We / They</td>\n                        <td><b>are</b></td>\n                </tr>\n                <tr>\n                        <td><b>are not (aren't)</b></td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<b>Đối với các động từ bất quy tắc</b> <b>(<i>irregular verbs</i>):</b><br />\n- Khi các động từ kết thúc bằng phụ âm – nguyên âm – phụ âm: nhân đôi phụ âm cuối cùng trước đuôi –ing (Ví dụ: swim - swim<b>ming</b>, get - get<b>ting</b>)<br />\n- Khi các động từ kết thúc bằng chữ -e: bỏ chữ -e và thêm đuôi –ing (Ví dụ: have - hav<b>ing</b>, write - writ<b>ing</b>)<br />\n<i>* Note: Thì hiện tại tiếp diễn trong các tài liệu hiện hành có 2 cách gọi: <b>Present Progressive tense</b> và <b>Present Continuous tense</b>.</i>"
+    },
+    {
+      "timeEnd": "0:15:58",
+      "noiDung": "<b><span style=\"color:red\">Combining sentences with <i>or</i> and <i>because (Nối câu sử dụng or và because)</i></span></b><b><span style=\"color:red\"></span> </b><br />\n<b>Function <i>(Cách dùng)</i></b><br />\nChúng ta sử dụng từ <b><i>or</i></b> để đưa ra sự lựa chọn giữa ít nhất 2 sự vật hoặc sự việc cho người đối diện. Chúng ta sử dụng từ <b><i>because</i></b> để đưa ra lý do, nguyên nhân dẫn đến hành động hoặc sự việc được nhắc đến.<br />\n<br />\n<b>Form <i>(Cấu trúc)</i></b><br />\n \n<table>\n        <tbody>\n                <tr>\n                        <td><b><i>Or</i></b></td>\n                </tr>\n                <tr>\n                        <td>Noun (1) + <b>or</b> + Noun (2)<br />\n                        <i>(Danh từ 1 + or + Danh từ 2)</i><br />\n                        Ví dụ: Do you want a cup of tea <b>or</b> coffee?</td>\n                </tr>\n                <tr>\n                        <td><b><i>Because</i></b></td>\n                </tr>\n                <tr>\n                        <td>Sentence (1) + <b>because</b> + sentence (2)<br />\n                        <i>(Câu 1 + because + câu 2)</i><br />\n                        Ví dụ: I play football <b>because</b> it is healthy.</td>\n                </tr>\n        </tbody>\n</table>"
+    }
+  ]
+}

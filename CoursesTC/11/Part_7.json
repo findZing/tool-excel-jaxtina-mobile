@@ -1,0 +1,970 @@
+{
+  "dangCauHoi": "P6",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "d48bfca4-a79b-452d-af10-8137daaa088d"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu hỏi về hành động xảy ra ở quá khứ và còn tiếp diễn ở hiện tại, ta dùng cấu trúc câu hỏi <b>Yes/No</b> ở thì Hiện tại hoàn thành: <b>Have/Has + Chủ ngữ + Động từ (quá khứ phân từ) + Tân ngữ</b>. Ta có: <b>you</b> <i>(Bạn) </i>là chủ ngữ, <b>finished</b> <i>(đã hoàn thành)<em> </em></i>là động từ (quá khứ phân từ), <b>your tasks </b><i>(nhiệm vụ của bạn)</i><i> </i>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">Have you finished your tasks? </span></b><i>(Bạn đã hoàn thành nhiệm vụ của bạn chưa?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "39f4f063-2b44-4113-9897-ae91d0521cda"
+          },
+          "dapAn": "Have",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e597570d-a37b-47df-ae52-e07b17af914c"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "27cfc832-2b68-4e78-8731-83e729af9100"
+          },
+          "dapAn": "finished",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ab12085a-9304-44d2-8d4a-319c460decc1"
+          },
+          "dapAn": "your",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "916e59aa-a398-4e34-8de3-5e4810aa38fe"
+          },
+          "dapAn": "tasks?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "83768788-212a-44d5-9977-387fa0ad97fc"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả hành động đang xảy ra ở hiện tại ta dùng cấu trúc câu ở thì Hiện tại tiếp diễn:<b> Chủ ngữ + am/is/are + Động từ (-ing) + Tân ngữ</b>. Ta có: theo sau chủ ngữ <b>I</b> <i>(Tôi)</i><i> </i>là động từ to be <b>am</b>. Tiếp theo là động từ đuôi -ing <b>writing </b><i>(đang viết), </i><b>my bucket list </b><i>(danh sách những việc muốn làm trong đời của tôi)</i><i> </i>là tân ngữ<i>. </i>Câu hoàn chỉnh là <b><span style=\"color:red\">I am writing my bucket list. </span></b><i>(Tôi đang viết danh sách những việc muốn làm trong đời của tôi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a26b1157-1a95-4d56-bf66-2becc8b3b3ab"
+          },
+          "dapAn": "I",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "62c7c88a-35a6-4b73-9d30-3e4e75a970f8"
+          },
+          "dapAn": "am",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "012b728d-cd6e-4e4c-88fb-a8860e11602b"
+          },
+          "dapAn": "writing",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "279548b2-6bca-4dd6-ae13-97661c3d6021"
+          },
+          "dapAn": "my",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c851ba85-39e8-40d4-b6db-088992128298"
+          },
+          "dapAn": "bucket",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "20ed92d3-ac40-4cd2-a03a-08668673926b"
+          },
+          "dapAn": "list.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "34aeb82d-0c38-47c4-b5b7-ed7f7a9f4e1e"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu hỏi về hành động đã xảy ra và kết thúc ở quá khứ, ta dùng cấu trúc câu hỏi với từ để hỏi ở thì quá khứ đơn:<b> Why + did + chủ ngữ + Động từ (nguyên thể) + Tân ngữ</b>. Ta có: sau chủ ngữ <b>you </b><i>(bạn)</i> là động từ <b>have</b> <i>(có)</i> ở dạng nguyên thể, <b>this idea </b><i>(</i><i>ý tưởng này) </i>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">Why did you have this idea?</span></b> <i>(Tại sao bạn lại có ý tưởng này?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "15a46592-f054-410d-b651-857b1304dacf"
+          },
+          "dapAn": "Why",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6c9c4b9e-97c2-41bc-834a-e937de81b7ad"
+          },
+          "dapAn": "did",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e3a6c434-e39f-46ab-b284-11bfc9fc3e9d"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "498cd28a-648a-4999-975e-d57b6d4641c1"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "35de3bfc-0fae-4edb-9a94-631d55972d51"
+          },
+          "dapAn": "this",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f19a5d63-48de-4b8e-845c-6b2de53a5850"
+          },
+          "dapAn": "idea?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "083c31e7-ae96-4d4d-88c4-467612ed1dae"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ý kiến đối phương việc mình đưa cái gì đó cho họ, ta dùng cấu trúc:<b> Could I give you + Lượng từ + Danh từ</b>. Ta có sau tân ngữ <b>you </b><i>(bạn)</i><i> </i>là lượng từ <b>a few </b><i>(một vài) </i>đứng trước danh từ <b>suggestions </b><i>(gợi ý).</i> Câu hoàn chỉnh là <b><span style=\"color:red\">Could I give you a few suggestions? </span></b><i>(Tôi có thể đưa cho bạn một vài gợi ý không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1f677855-733b-4ef9-b7ab-8ec590d951f2"
+          },
+          "dapAn": "Could",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "541854f9-2f8d-4fc7-b4c4-dfb56166c8e4"
+          },
+          "dapAn": "I",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3e46cae9-32d6-410b-b582-eefdffe7f7de"
+          },
+          "dapAn": "give",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "39896e7f-275d-4583-89e2-7b0e353d8372"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4b2ee111-7810-4386-83b2-9ab8630668db"
+          },
+          "dapAn": "a few",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6529dedc-3565-4a87-8398-41f42cee8854"
+          },
+          "dapAn": "suggestions?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "515ef957-5010-4176-a7f6-ba476a70dde3"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi về việc ai đó đã từng làm gì chưa, ta dùng cấu trúc câu hỏi <b>Yes/No</b> ở thì Hiện tại hoàn thành với <b>ever</b>: <b>Have/Has + Chủ ngữ + ever + Động từ (quá khứ phân từ) + Tân ngữ</b>. Ta có: <b>you</b> <i>(Bạn)</i><i> </i>là<b> </b>chủ ngữ, và <b>tried</b> <i>(thử)</i><i> </i>là động từ ở dạng quá khứ phân từ, <b>bungee jumping </b><i>(nhảy bungee)</i><i> </i>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">Have you ever tried bungee jumping? </span></b><i>(Bạn đã bao giờ thử nhảy bungee chưa?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "45d30d57-2166-4e9c-a51d-e7b04a7d7ef8"
+          },
+          "dapAn": "Have",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "70cb6aa6-0dd2-43fa-a0dd-925ecaf5aebe"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6e2029a2-542b-448b-b680-0f9a6125c655"
+          },
+          "dapAn": "ever",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c615019b-d94e-4026-814b-ac56d1131e12"
+          },
+          "dapAn": "tried",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "92c12808-feed-4018-8734-d0652983c336"
+          },
+          "dapAn": "bungee",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5a4b6dea-9efb-4e57-83fe-588a20c106f9"
+          },
+          "dapAn": "jumping?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3a4d97ec-290f-404d-88e8-ea86f0798970"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả hành động đã xảy ra và kết thúc ở quá khứ ta dùng cấu trúc câu ở thì quá khứ đơn:<b> Chủ ngữ + Động từ to be (quá khứ đơn) + Bổ ngữ</b>. Ta có sau chủ ngữ <b>It</b> <i>(</i><i>Đó) </i>là động từ to be ở dạng quá khứ đơn <b>was </b><i>(</i><i>là)</i>, <b>an unforgettable experience </b><i>(</i><i>một trải nghiệm khó quên) </i>là bổ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">It was an unforgettable experience. </span></b><i>(Đó là một trải nghiệm khó quên.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9c0b97e4-0e17-4317-968c-a6c7b9eaf344"
+          },
+          "dapAn": "It",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "af5c5ef6-22d1-4482-bb0d-7ce554f2d51f"
+          },
+          "dapAn": "was",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "454ed427-860a-4adb-9a8c-8660ff733d9e"
+          },
+          "dapAn": "an",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2f6607e3-3e40-4c26-96d9-aca0982ba922"
+          },
+          "dapAn": "unforgettable",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a02d5124-141e-4647-92de-060fdfbb3e3a"
+          },
+          "dapAn": "experience.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "83f73953-8c66-4536-835f-67df5bcbe88c"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu hỏi về hành động đã xảy và kết thúc ở quá khứ ra ta dùng cấu trúc câu hỏi với từ để hỏi ở thì quá khứ đơn:<b> Where + did + Chủ ngữ + Động từ (nguyên thể) + Tân ngữ</b>. Ta có: Sau chủ ngữ ngôi thứ hai <b>you </b><i>(</i><i>Bạn) </i>là động từ <b>do </b><i>(</i><i>làm) </i>ở dạng nguyên thể, <b>that </b><i>(</i><i>điều đó) </i>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">Where did you do that? </span></b><i>(Bạn đã làm điều đó ở đâu?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "637401d5-f805-40f4-9dff-88db44471a53"
+          },
+          "dapAn": "Where",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c01740ad-25bc-4b02-b226-badf0886d9a5"
+          },
+          "dapAn": "did",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "71e77c76-7061-459f-8097-93f780e77635"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b775c969-d7c2-4a95-b2d3-5d09fbdc75e1"
+          },
+          "dapAn": "do",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c93aabc7-ca4c-4f2f-8149-e583924389c4"
+          },
+          "dapAn": "that?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6fc493c9-1a41-4fae-9b62-4e224e008433"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng đây là lần đầu ai đó làm việc gì, ta dùng cấu trúc thì hiện tại hoàn thành:<b> This is the first time + Chủ ngữ + have / has + Động từ (quá khứ phân từ) + Tân ngữ</b>. Ta có: chủ ngữ là <b>I </b><i>(</i><i>tôi) </i>đi cùng với trợ động từ<b> have </b>được viết tắt<b> </b>là<b> I've</b>. Tiếp theo là động từ ở dạng quá khứ phân từ <b>heard </b><i>(</i><i>nghe thấy</i><i>)</i>, cuối cùng là tân ngữ<i> </i><b>that name </b><i>(</i><i>cái tên đó)</i><i>.</i> Câu hoàn chỉnh là <b><span style=\"color:red\">This is the first time I've heard that name. </span></b><i>(Đây là lần đầu tiên tôi nghe thấy cái tên đó.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b393963e-1fa3-47f7-96ca-a23f98412552"
+          },
+          "dapAn": "This",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ccf07c08-c98a-4ec7-b754-57bd599a7c2e"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "05792ce8-aa56-4c17-a8c6-27e4885dbbb1"
+          },
+          "dapAn": "the first time",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ecbc55d0-084d-4a72-912d-9480a2b8c136"
+          },
+          "dapAn": "I've",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7654717a-9cf7-4578-b5b7-b15c85cb6e83"
+          },
+          "dapAn": "heard",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a365cb79-23f6-4daf-accb-3727ee8353c2"
+          },
+          "dapAn": "that name.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "92c33fb6-e1b9-445d-a276-f08d6a498fed"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả ai / cái gì nổi tiếng về/với điều gì, ta dùng cấu trúc:<b> Chủ ngữ + am/is/are + famous for + Danh từ</b>. Ta có: sau chủ ngữ ngôi <b>It </b><i>(</i><i>Nó) </i>là động từ to be<b> is</b>. Tiếp theo là danh từ<b> waterskiing </b><i>(</i><i>lướt ván trên nước)</i><i>. </i>Câu hoàn chỉnh là <b><span style=\"color:red\">It is famous for waterskiing. </span></b><i>(Nó nổi tiếng với lướt ván trên nước.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f1bbc8aa-526c-4d34-9b5a-0e6c940cba87"
+          },
+          "dapAn": "It",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "56f17ef5-be7a-4edc-b0b4-41ec9030ea1b"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b58745d1-1640-4816-8066-2aceb08d56b1"
+          },
+          "dapAn": "famous",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4aeb842f-54b2-479b-ab2c-ce4c3419c793"
+          },
+          "dapAn": "for",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f9f674c1-84e7-4f77-ba4f-86a5057cc609"
+          },
+          "dapAn": "waterskiing.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2cb2204d-b197-4bb8-b57a-779ebcd41797"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả ai đó có thể làm gì, ta dùng cấu trúc:<b> Chủ ngữ + can + Động từ (nguyên thể) + Tân ngữ</b>. Ta có:<b> You</b> <i>(</i><i>Bạn) </i>là chủ ngữ và động từ <b>try</b> <i>(</i><i>thử) </i>ở dạng nguyên thể, <b>horse racing </b><i>(</i><i>đua ngựa) </i>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">You can try horse racing. </span></b><i>(Bạn có thể thử đua ngựa.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "dfbb9b8c-be68-40a8-8bef-7f42959c66fa"
+          },
+          "dapAn": "You",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8cdb7349-ed2f-4735-8066-dff801da02af"
+          },
+          "dapAn": "can",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6975b77a-f0d3-4592-8f76-bb8139ddcad5"
+          },
+          "dapAn": "try",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "39b0f875-404d-4c41-b14e-7a28dcee9106"
+          },
+          "dapAn": "horse",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d242d436-25cb-4dbf-868a-e1dfe6f659a3"
+          },
+          "dapAn": "racing.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "755ae3f5-8d17-4424-afd1-2a4db5ade5f5"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu hỏi về hành động xảy ra ở hiện tại, ta dùng cấu trúc câu hỏi Yes/No ở thì hiện tại đơn: <b>Do/Does + Chủ ngữ + Động từ (nguyên thể) + Tân ngữ</b>. Ta có: <b>you</b> <i>(</i><i>b</i><i>ạn) </i>là<b> </b>chủ ngữ, sau chủ ngữ là động từ <b>have </b><i>(</i><i>có) </i>ở dạng nguyên thể, <b>a bucket list </b><i>(</i><i>một danh sách những việc muốn làm trong đời) </i>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">Do you have a bucket list? </span></b><i>(Bạn có một danh sách những việc muốn làm trong đời không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "990eeb51-1cd7-456b-b1f8-ca5ed5738597"
+          },
+          "dapAn": "Do",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d3c256ee-a6aa-4165-9c6f-f83eb76bb594"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "42eda3f9-2201-4f5f-b95d-0dac674fa44e"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3a90e36d-7498-4b6e-b6e1-5d36842f9c9a"
+          },
+          "dapAn": "a",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ca6f6708-289b-46ce-a4f8-75c31bd0288b"
+          },
+          "dapAn": "bucket",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "74ec5151-a789-4f17-b35e-03bd3df09280"
+          },
+          "dapAn": "list?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ee5491c9-b15c-4d47-b640-87233f9bf95d"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về việc ai đó chưa từng làm gì, ta dùng cấu trúc câu ở thì hiện tại hoàn thành với <b>never</b>: <b>Chủ ngữ + have/has + never + Động từ (quá khứ phân từ) + Tân ngữ + Trạng ngữ</b>. Ta có: <b>I </b><i>(</i><i>Tôi) </i>là chủ ngữ, và <b>written</b> <i>(</i><i>viết) </i>là động từ ở dạng quá khứ phân từ, <b>one </b><i>(</i><i>một cái) </i>là tân ngữ. Trạng ngữ <b>before </b><i>(</i><i>trước đây)</i> đứng cuối câu. Câu hoàn chỉnh là <b><span style=\"color:red\">I have never written one before. </span></b><i>(Tôi chưa bao giờ viết một cái nào trước đây.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7b3e3217-b0ad-4e99-b2fa-f4b7774c50bc"
+          },
+          "dapAn": "I",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b3d50f3e-1e42-4ce1-8a50-0fd513c74e04"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1f668985-a0d2-4001-a2ac-06e4f6a053cf"
+          },
+          "dapAn": "never",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "692b2650-92f9-4a1d-8062-54cc892743c5"
+          },
+          "dapAn": "written",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "53e32605-d4e0-44ca-8124-ac94eb381672"
+          },
+          "dapAn": "one",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "65c988e0-b49b-425f-b3ec-c8c8743e7b4b"
+          },
+          "dapAn": "before.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "07046eac-520c-4b05-bc5d-a1b3f7ac185e"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả phỏng đoán về điều gì sẽ xảy ra trong tương lai, ta dùng cấu trúc câu ở thì tương lai đơn:<b> Chủ ngữ + will + Động từ (nguyên thể) + Tân ngữ + Tính từ</b>. Ta có: <b>It</b> <i>(</i><i>Nó) </i>là chủ ngữ, và động từ <b>make </b><i>(khiến)</i><i> </i>ở dạng nguyên thể, <b>you</b> <i>(bạn)</i><i> </i>là tân ngữ, <b>excited </b><i>(</i><i>thích thú) </i>là tính từ.<b> </b>Câu hoàn chỉnh là <b><span style=\"color:red\">It will make you excited. </span></b><i>(Nó sẽ khiến bạn thích thú.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ae872afe-e330-496a-933a-91a6250ad1fb"
+          },
+          "dapAn": "It",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c7ce4c15-9b08-4d75-874c-c5561868ebbf"
+          },
+          "dapAn": "will",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "083b426e-9d89-496a-aa50-7f0d495535e1"
+          },
+          "dapAn": "make",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8e874740-2929-47d4-af0f-02ffe7727d58"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "01c97272-f3ee-4429-9ce9-c81dfdb5c79b"
+          },
+          "dapAn": "excited.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "09d4cf0d-87db-4093-b5f4-fd9039613e1e"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về việc ai đó chưa từng làm gì, ta dùng cấu trúc câu ở thì hiện tại hoàn thành với <b>never</b>: <b>Chủ ngữ + have/has + never + Động từ (quá khứ phân từ) + Tân ngữ</b>. Ta có: <b>I</b> <i>(</i><i>Tôi) </i>là chủ ngữ và <b>eaten</b> <i>(</i><i>ăn) </i>là động từ<b> </b>ở dạng quá khứ phân từ, <b>an exotic food </b><i>(</i><i>một món ăn kỳ lạ) </i>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">I have never eaten an exotic food. </span></b><i>(Tôi chưa bao giờ ăn một món ăn kỳ lạ.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a8a1f932-7c9d-45e2-b4ed-7cd1ecf40d03"
+          },
+          "dapAn": "I",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b5b771b9-6b1f-4b73-af67-44249718c83c"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fefb77e1-2c66-4df9-85df-9aea8ffce975"
+          },
+          "dapAn": "never",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fc78c2b2-13b2-4350-834b-84fe1cd50b98"
+          },
+          "dapAn": "eaten",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "80223ce6-6183-4716-9e58-a47c84aacd0a"
+          },
+          "dapAn": "an",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "affe116f-835f-431f-951f-80490fc9b05f"
+          },
+          "dapAn": "exotic food.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2a819114-17f6-4b09-9cc8-96a995c937ce"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi về việc ai đó đã từng làm gì chưa, ta dùng cấu trúc câu hỏi Yes/No ở thì hiện tại hoàn thành với <b>ever</b>: <b>Have/Has + Chủ ngữ + ever + Động từ (quá khứ phân từ) + Tân ngữ</b>. Ta có: <b>you</b> <i>(</i><i>Bạn) </i>là chủ ngữ, và <b>gone</b> <i>(</i><i>đi) </i>là động từ ở dạng quá khứ phân từ, <b>rock climbing </b><i>(</i><i>leo núi) </i>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">Have you ever gone rock climbing? </span></b><i>(Bạn đã bao giờ đi leo núi chưa?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d62c3cf6-06e9-4385-9692-193289c1b47b"
+          },
+          "dapAn": "Have",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8a7d0552-e46a-4b4f-9c5a-297aa884c488"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "325992f4-6b30-4f74-9bf8-ddbf473ddd20"
+          },
+          "dapAn": "ever",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "575af078-7cf4-4771-8d14-ab11284ffee2"
+          },
+          "dapAn": "gone",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9b8f2233-a456-40a2-b799-a2167b3c52de"
+          },
+          "dapAn": "rock",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f2c6f757-de76-4148-bb62-c52886a6536b"
+          },
+          "dapAn": "climbing?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4d23fb41-915e-4987-bb0a-0f24c3649ed2"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả về hành động đã xảy ra và còn có ảnh hưởng và ý nghĩa tới hiện tại ta dùng cấu trúc câu ở thì hiện tại hoàn thành: <b>Chủ ngữ +has/have + Động từ (quá khứ phân từ) + Tính từ</b>. Ta có: <b>Some of the changes </b><i>(</i><i>Một số thay đổi) </i>là chủ ngữ và <b>been</b> <i>(</i><i>là) </i>là động từ ở dạng quá khứ phân từ, <b>good </b><i>(</i><i>tốt</i><i>) </i>là tính từ. Câu hoàn chỉnh là <b><span style=\"color:red\">Some of the changes have been good. </span></b><i>(Một số thay đổi là tốt.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5584a04a-6c3d-49bd-9fda-8630359dbd60"
+          },
+          "dapAn": "Some",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "30e93b4e-e8b8-42af-92c5-a28ff9b9ccd7"
+          },
+          "dapAn": "of",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e7481593-8605-4a02-bc0f-0cddb9c92e1e"
+          },
+          "dapAn": "the changes",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "09a037b0-31c9-4e95-9a08-7aae35b75be2"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b4832de0-b88f-4968-90c9-18bbc1722f30"
+          },
+          "dapAn": "been",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "28bf2b06-055f-4644-9f50-70c65e1a95a7"
+          },
+          "dapAn": "good.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0aee4087-59fa-414b-8d27-c53a9e38b6cd"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả về hành động đã xảy ra và còn có ảnh hưởng và ý nghĩa tới hiện tại ta dùng cấu trúc câu ở thì hiện tại hoàn thành: <b>Chủ ngữ + has/have + Động từ (quá khứ phân từ) + Tân ngữ</b>. Ta có: chủ ngữ <b>They </b><i>(</i><i>Họ) </i>và trợ động từ <b>have</b> và được viết tắt là <b>They've</b>. Tiếp theo là động từ ở dạng quá khứ phân từ <b>destroyed </b><i>(</i><i>phá hủy), </i><b>several parks </b><i>(</i><i>một số công viên) </i>là tân ngữ<i>. </i>Câu hoàn chỉnh là <b><span style=\"color:red\">They've destroyed several parks. </span></b><i>(Họ đã phá hủy một số công viên.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "efa8337b-7307-4a33-88a4-a619d28881c2"
+          },
+          "dapAn": "They've",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f648fa97-66e7-45fa-848c-c28a103b32f5"
+          },
+          "dapAn": "destroyed",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "727f85d1-d3da-4b07-a7b5-60d8bf9e4617"
+          },
+          "dapAn": "several",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0c1008d1-7802-4cc8-a413-f4d2ec3a3ecc"
+          },
+          "dapAn": "parks.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2e93c3b4-022a-4751-aa3f-abba035b67b1"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả về hành động đã xảy ra và còn có ảnh hưởng và ý nghĩa tới hiện tại ta dùng cấu trúc câu ở thì hiện tại hoàn thành: <b>Chủ ngữ + have/has + Động từ (quá khứ phân từ) + Tân ngữ</b>. Ta có: chủ ngữ <b>They </b><i>(</i><i>Họ) </i>và trợ động từ <b>have</b> và được viết tắt là <b>They've</b>. Tiếp theo là <b>taken out </b><i>(</i><i>loại bỏ) </i>động từ ở dạng quá khứ phân từ, <b>a lot of bike lanes </b><i>(</i><i>rất nhiều làn đường dành cho xe đạp) </i>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">They've taken out a lot of bike lanes. </span></b><i>(Họ đã loại bỏ rất nhiều làn đường dành cho xe đạp.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a83a13d2-7896-4c83-8b9c-15925a37678b"
+          },
+          "dapAn": "They've",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b90cfbf8-268e-4ac0-93dc-74594d9dca25"
+          },
+          "dapAn": "taken",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e150712b-2575-4d54-a0a2-186d070a35fc"
+          },
+          "dapAn": "out",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f80369cb-a546-4c83-a4d5-6bc5ad7cc443"
+          },
+          "dapAn": "a lot of",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ff201ad7-0868-4b55-9137-3556ee3d0f4a"
+          },
+          "dapAn": "bike",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b12821ee-2f25-43ae-b8a9-d83149773c34"
+          },
+          "dapAn": "lanes.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7b42c8ae-ada3-443e-8019-24caeefa2a5a"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả về hành động đã xảy ra và còn có ảnh hưởng và ý nghĩa tới hiện tại ta dùng cấu trúc câu ở thì hiện tại hoàn thành: <b>Trạng ngữ + Chủ ngữ + have/has + Động từ (quá khứ phân từ) + Tân ngữ + Trạng ngữ</b>. Ta có: đứng đầu là trạng ngữ <b>Finally </b><i>(</i><i>Cuối cùng)</i>. Tiếp theo là<b> </b>chủ ngữ <b>they </b><i>(</i><i>họ)</i>, và trợ động từ <b>have</b> và được viết tắt là <b>they've</b>. Tiếp theo là động từ ở dạng quá khứ phân từ <b>banned </b><i>(</i><i>cấm), </i><b>food trucks </b><i>(</i><i>xe bán đồ ăn lưu động) </i>là tân ngữ, <b>in the city center </b><i>(</i><i>ở trung tâm thành phố) </i>là trạng ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">Finally, they've banned food trucks in the city center. </span></b><i>(Cuối cùng, họ đã cấm xe bán đồ ăn lưu động ở trung tâm thành phố.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "84e72dd4-1f58-425f-a514-35a079dcf0bf"
+          },
+          "dapAn": "Finally,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "255ffaff-d1a1-414f-aa99-d290291fb4c8"
+          },
+          "dapAn": "they've",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2b30f7a4-9bc2-47d7-b5ac-25bb8d417a50"
+          },
+          "dapAn": "banned",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "aa401913-3b46-49a2-aa3f-35461039b7ad"
+          },
+          "dapAn": "food trucks",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b2cedbaa-a45a-4f6a-a01d-bde325ffc04a"
+          },
+          "dapAn": "in the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9b0cdc91-33c8-4df1-bfa1-6d16af3d2e57"
+          },
+          "dapAn": "city center.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "90d82012-5d2e-4bcf-a24a-29e8fe867389"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả về hành động đã không xảy ra trong quá khứ ta dùng cấu trúc ở thì quá khứ đơn:<b> Chủ ngữ + didn't + Động từ (nguyên thể) + Tân ngữ + Trạng ngữ</b>. Ta có: <b>We</b> <i>(</i><i>chúng tôi) </i>là chủ ngữ và động từ <b>have</b> <i>(</i><i>có) </i>ở dạng nguyên thể, <b>many vehicles </b><i>(</i><i>nhiều phương tiện) </i>là tân ngữ. Trạng ngữ <b>in the past</b> <i>(</i><i>Trước đây) </i>đứng cuối câu. Câu hoàn chỉnh là <b><span style=\"color:red\">We didn't have many vehicles in the past. </span></b><i>(Trước đây chúng tôi không có nhiều phương tiện.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5b648f2c-466e-438b-831c-ad1ed18719e1"
+          },
+          "dapAn": "We",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6f4f6630-b7f5-4843-8f68-49ea6aedcbb7"
+          },
+          "dapAn": "didn't",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "aa9db08e-ee46-4692-8a31-66e2c4b15d08"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fe5b0bf3-f6f5-4cc1-8461-84c96e822ecb"
+          },
+          "dapAn": "many",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3093f333-0cc2-46e0-a022-ebcf5abaa944"
+          },
+          "dapAn": "vehicles",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "68248392-e363-40a0-a863-073ff4924d8f"
+          },
+          "dapAn": "in the past.",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

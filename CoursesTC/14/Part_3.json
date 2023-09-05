@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "1339ea5d-54cb-453c-aaaa-662bd885735f"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Employability",
+      "yNghia": "Khả năng \n được nhận làm việc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a77a7969-4551-4d33-b67a-800e02f773f7"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Diploma",
+      "yNghia": "Chứng chỉ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9c295988-e61e-40ed-b216-7adb639111f1"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Millennial",
+      "yNghia": "Những người sinh ra trong giai đoạn 1981-1996",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3d7519e1-32ca-46ea-a655-d9b77f4c7cc6"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Sculpture",
+      "yNghia": "Tác phẩm điêu khắc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "62f54df5-7991-4e2d-a4ac-f30962a9880d"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Complication",
+      "yNghia": "Sự phức tạp, sự rắc rối",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7e1b4fc1-62bb-4c94-8333-a811fb162f57"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Intrapersonal skill",
+      "yNghia": "Kỹ năng hướng nội\n của mỗi cá nhân",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ab039f27-2147-4501-97e4-dac026c1bef6"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Interpersonal skill",
+      "yNghia": "Kỹ năng tương tác xã hội",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0995b172-9a9d-410f-afe2-6538f30ae97d"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Ordinary people",
+      "yNghia": "Người bình thường",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a5c6ecc3-8c80-41a3-a809-1a3e563b22e6"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Master’s degree",
+      "yNghia": "Bằng thạc sĩ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "88e7f0f3-2f98-4cd1-9fdd-1e12d7244f59"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Cognitive skill",
+      "yNghia": "Kỹ năng tư duy",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "20a4c796-3c47-4658-a53c-ffa11569fa60"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Participate in",
+      "yNghia": "Tham gia",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c38e092c-82a4-4ba2-9d6d-0fed46725716"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Interact with",
+      "yNghia": "Tương tác với",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "48db0d5b-4a91-4ad4-9a44-94f3480ea74d"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Build a model",
+      "yNghia": "Xây dựng mô hình",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "356160ed-5c8e-4d8e-8d39-cd0136a1c102"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Fly a kite",
+      "yNghia": "Thả diều",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1c46bec6-2a0a-45e9-a16b-194239e2ec15"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Make things with clay",
+      "yNghia": "Làm đồ từ đất sét",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "50319d67-4f77-4540-8dfb-63076af5256b"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Do puzzles",
+      "yNghia": "Giải đố",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "20ba6cdf-04cb-4e2a-aece-aac49c8c0612"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Board game",
+      "yNghia": "Trò chơi bàn cờ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a9870513-8530-4796-822a-ce4789699e62"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Jump rope",
+      "yNghia": "Nhảy dây",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4d59dfcb-b3c1-46b7-a3a7-5aff92fba024"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Inner child",
+      "yNghia": "\"Đứa trẻ\" bên trong",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f38b556e-ff11-4201-a10f-ef66ed19920c"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Creative",
+      "yNghia": "Sáng tạo",
+      "danhSachDapAn": []
+    }
+  ]
+}

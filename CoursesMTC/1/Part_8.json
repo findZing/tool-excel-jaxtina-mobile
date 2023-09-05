@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_MTC_L1/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_MTC_L1/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "cd19c159-573d-4bee-9ccd-2334be871122"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Linda",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1661e2b2-035e-4306-b72b-7ad0de396d43"
+          },
+          "dapAn": "Are you free now?",
+          "phienAm": "/ɑːr juː friː naʊ/",
+          "yNghia": " \nBây giờ bạn có rảnh không?",
+          "normal": {
+            "start": "00:00:00.162",
+            "end": "00:00:01.159"
+          },
+          "slow": {
+            "start": "00:00:00.631",
+            "end": "00:00:02.425"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a75620b8-6f96-4362-ae01-510e9c317cd4"
+          },
+          "dapAn": "Can I ask you some questions about technology?\n",
+          "phienAm": "/kæn aɪ ɑːsk juː sʌm ˈkwesʧənz əˈbaʊt tekˈnɒləʤi/",
+          "yNghia": "\nTôi có thể hỏi bạn một số câu hỏi về công nghệ không?",
+          "normal": {
+            "start": "00:00:04.496",
+            "end": "00:00:07.346"
+          },
+          "slow": {
+            "start": "00:00:07.648",
+            "end": "00:00:12.694"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f4c2ed08-ab6a-4205-86aa-217691da5d90"
+          },
+          "dapAn": "The first question: What is special about technology?\n",
+          "phienAm": "/ðə fɜːst ˈkwesʧən wɒt ɪz ˈspeʃəl əˈbaʊt tekˈnɒləʤi/",
+          "yNghia": "\nCâu hỏi đầu tiên: Công nghệ có gì đặc biệt?",
+          "normal": {
+            "start": "00:00:11.008",
+            "end": "00:00:15.063"
+          },
+          "slow": {
+            "start": "00:00:16.755",
+            "end": "00:00:23.023"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f2db8fa5-ffd1-41c5-b923-a5117e6f95f0"
+          },
+          "dapAn": "Can you give some examples of that?\n",
+          "phienAm": "/kæn juː gɪv sʌm ɪgˈzɑːmplz ɒv ðæt/",
+          "yNghia": "\r\nBạn có thể đưa ra một số ví dụ về điều đó?",
+          "normal": {
+            "start": "00:00:19.118",
+            "end": "00:00:21.366"
+          },
+          "slow": {
+            "start": "00:00:29.330",
+            "end": "00:00:33.036"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "29f8060a-bda0-4f88-b458-01966e480b9f"
+          },
+          "dapAn": "I totally agree with you. We don't have to spend much time doing that.\n",
+          "phienAm": "/aɪ ˈtəʊtli əˈgriː wɪð juː/. /wiː dəʊnt hæv tuː spend mʌʧ taɪm ˈdu:ɪŋ ðæt/",
+          "yNghia": "\nTôi hoàn toàn đồng ý với bạn. Chúng ta không phải mất nhiều thời gian để làm điều đó.",
+          "normal": {
+            "start": "00:00:27.646",
+            "end": "00:00:32.165"
+          },
+          "slow": {
+            "start": "00:00:41.985",
+            "end": "00:00:49.554"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "139d2ef3-0d80-4742-9178-dd52a6ce049d"
+          },
+          "dapAn": "It has been the greatest scientific achievement of the decade.\n",
+          "phienAm": "/ɪt hæz biːn ðə ˈgreɪtɪst ˌsaɪənˈtɪfɪk əˈʧiːvmənt ɒv ðə ˈdekeɪd/",
+          "yNghia": " \nĐó là thành tựu khoa học vĩ đại nhất của thập kỷ.",
+          "normal": {
+            "start": "00:00:40.693",
+            "end": "00:00:44.772"
+          },
+          "slow": {
+            "start": "00:01:01.026",
+            "end": "00:01:09.344"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "59acc13e-bd8f-4c9e-a479-480ebc1590ef"
+          },
+          "dapAn": "Do you know how disabled people use technology?\n",
+          "phienAm": "/duː juː nəʊ haʊ dɪsˈeɪbld ˈpiːpl juːz tekˈnɒləʤi ",
+          "yNghia": "\nBạn có biết người khuyết tật sử dụng công nghệ như thế nào không?",
+          "normal": {
+            "start": "00:00:46.440",
+            "end": "00:00:49.499"
+          },
+          "slow": {
+            "start": "00:01:11.710",
+            "end": "00:01:16.874"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2bab9630-7a46-465d-ada6-8d11dec97dc5"
+          },
+          "dapAn": "Do you know Hugh Herr, co-director of the MIT Center for Extreme Bionics?\n",
+          "phienAm": "/duː juː nəʊ hjuː he kəʊ-dɪˈrektər ɒv ði em-aɪ-tiː ˈsentə fɔːr ɪksˈtriːm baɪˈɒnɪks/",
+          "yNghia": "\nBạn có biết Hugh Herr, đồng giám đốc của Trung tâm Extreme Bionics MIT không?",
+          "normal": {
+            "start": "00:00:53.787",
+            "end": "00:00:59.464"
+          },
+          "slow": {
+            "start": "00:01:23.773",
+            "end": "00:01:32.525"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f83a7f90-9245-4a76-91b9-a636aefacb3b"
+          },
+          "dapAn": "He designed and developed new bionic legs after losing both of his legs.\n",
+          "phienAm": "/hiː dɪˈzaɪnd ænd dɪˈveləpt njuː baɪˈɒnɪk legz ˈɑːftər ˈluːzɪŋ bəʊθ ɒv hɪz legz/",
+          "yNghia": "\nAnh ấy đã thiết kế và phát triển đôi chân sinh học mới sau khi mất cả hai chân.",
+          "normal": {
+            "start": "00:01:03.334",
+            "end": "00:01:08.340"
+          },
+          "slow": {
+            "start": "00:01:38.517",
+            "end": "00:01:46.875"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4c0fc44a-ec52-4829-a289-d2912ba5cde2"
+          },
+          "dapAn": "You're right. Thank you for your help.\n",
+          "phienAm": "/jʊər raɪt/. /θæŋk juː fɔːr jɔːr help/ ",
+          "yNghia": "\nBạn đúng. Cảm ơn sự giúp đỡ của bạn.",
+          "normal": {
+            "start": "00:01:15.593",
+            "end": "00:01:17.795"
+          },
+          "slow": {
+            "start": "00:01:56.770",
+            "end": "00:02:00.160"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3df64afa-64e3-475c-bb44-82ae7c5cd5f4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Mike",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1a731609-dbdd-4456-a475-81907c73a60b"
+          },
+          "dapAn": "Yes, I am. What do you need?\n",
+          "phienAm": "/jes aɪ æm/. /wɒt duː juː niːd/",
+          "yNghia": " \nTôi có. Bạn cần gì?",
+          "normal": {
+            "start": "00:00:01.576",
+            "end": "00:00:04.218"
+          },
+          "slow": {
+            "start": "00:00:03.587",
+            "end": "00:00:06.978"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d8f9bf4b-89bb-43dc-a5a1-e4a9baaa658a"
+          },
+          "dapAn": "Sure. I will tell you what I know.\n",
+          "phienAm": "/ʃʊər/. /aɪ wɪl tel juː wɒt aɪ nəʊ/",
+          "yNghia": "\nChắc chắn rồi. Tôi sẽ cho bạn biết những gì tôi biết.",
+          "normal": {
+            "start": "00:00:07.879",
+            "end": "00:00:10.567"
+          },
+          "slow": {
+            "start": "00:00:12.970",
+            "end": "00:00:16.242"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a16ccab2-7fc6-4194-bf95-6f11ccb28e57"
+          },
+          "dapAn": "I think technology improves our quality of life.\n",
+          "phienAm": "/aɪ θɪŋk tekˈnɒləʤi ɪmˈpruːvz aʊər ˈkwɒlɪti ɒv laɪf/ ",
+          "yNghia": " \nTôi nghĩ rằng công nghệ cải thiện chất lượng cuộc sống của chúng ta.",
+          "normal": {
+            "start": "00:00:15.619",
+            "end": "00:00:18.748"
+          },
+          "slow": {
+            "start": "00:00:23.851",
+            "end": "00:00:28.503"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "62555d93-c3b9-4927-bfa5-f3485b2fe304"
+          },
+          "dapAn": "It eliminates routine chores, for example, washing machines and dishwashers.\n",
+          "phienAm": "/ɪt ɪˈlɪmɪneɪts ruːˈtiːn ʧɔːz, fɔːr ɪgˈzɑːmpl ˈwɒʃɪŋ məˈʃiːnz ænd ˈdɪʃˌwɒʃəz/",
+          "yNghia": "\nNó loại bỏ các công việc thường ngày, chẳng hạn như máy giặt và máy rửa chén.",
+          "normal": {
+            "start": "00:00:21.922",
+            "end": "00:00:27.160"
+          },
+          "slow": {
+            "start": "00:00:34.179",
+            "end": "00:00:40.684"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2780d253-0a88-48c1-9840-6e43d03275f6"
+          },
+          "dapAn": "Moreover, thanks to technology, we're able to communicate easily with friends and family from a far distance.\n",
+          "phienAm": "/mɔːˈrəʊvər θæŋks tuː tekˈnɒləʤi wɪər ˈeɪbl tuː kəˈmjuːnɪkeɪt ˈiːzɪli wɪð frendz ænd ˈfæmɪli frɒm eɪ fɑːr ˈdɪstəns/  ",
+          "yNghia": "\nHơn nữa, nhờ công nghệ, chúng ta có thể liên lạc dễ dàng với bạn bè và gia đình từ xa.",
+          "normal": {
+            "start": "00:00:32.559",
+            "end": "00:00:40.299"
+          },
+          "slow": {
+            "start": "00:00:50.264",
+            "end": "00:01:00.198"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e247679d-826c-42d7-b714-c1f8c2db9275"
+          },
+          "dapAn": "Exactly!\n",
+          "phienAm": "/ɪgˈzæktli/",
+          "yNghia": "\r\nChính xác!",
+          "normal": {
+            "start": "00:00:45.073",
+            "end": "00:00:45.977"
+          },
+          "slow": {
+            "start": "00:01:09.975",
+            "end": "00:01:11.079"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "78cd4aab-df35-4ae3-8eab-9675f1bf1f24"
+          },
+          "dapAn": "It depends on their individual needs and preferences.\n",
+          "phienAm": "/ɪt dɪˈpendz ɒn ðeər ˌɪndɪˈvɪdjʊəl niːdz ænd ˈprefərənsɪz/",
+          "yNghia": "\nNó phụ thuộc vào nhu cầu và sở thích cá nhân của họ.",
+          "normal": {
+            "start": "00:00:50.102",
+            "end": "00:00:53.462"
+          },
+          "slow": {
+            "start": "00:01:17.899",
+            "end": "00:01:22.669"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "cf34f1dd-1643-4870-a612-493c1071a824"
+          },
+          "dapAn": "I haven't heard that name before. What did he do?\n",
+          "phienAm": "/aɪ hævnt hɜːd ðæt neɪm bɪˈfɔːr/. /wɒt dɪd hiː duː/",
+          "yNghia": "\nTôi chưa từng nghe cái tên đó trước đây. Anh ấy đã làm gì?",
+          "normal": {
+            "start": "00:00:59.742",
+            "end": "00:01:02.639"
+          },
+          "slow": {
+            "start": "00:01:33.353",
+            "end": "00:01:37.729"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1e7b102d-4ffe-4fbc-a5f8-868321a368cd"
+          },
+          "dapAn": "He is amazing! Through the use of technology, we are changing the world that is accessible to us.\n",
+          "phienAm": "/hiː ɪz əˈmeɪzɪŋ/. /θruː ðiː juːz ɒv tekˈnɒləʤi wiː ɑːr ˈʧeɪnʤɪŋ ðə wɜːld ðæt ɪz əkˈsesəbl tuː ʌs/",
+          "yNghia": "\nAnh ấy thật tuyệt! Thông qua việc sử dụng công nghệ, chúng ta đang thay đổi thế giới mà chúng ta có thể tiếp cận được.",
+          "normal": {
+            "start": "00:01:08.896",
+            "end": "00:01:15.292"
+          },
+          "slow": {
+            "start": "00:01:47.821",
+            "end": "00:01:55.981"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "70523019-575a-46f2-aac9-2a54956dd557"
+          },
+          "dapAn": "No problem.\n",
+          "phienAm": "/nəʊ ˈprɒbləm/",
+          "yNghia": "\nKhông vấn đề gì.",
+          "normal": {
+            "start": "00:01:18.420",
+            "end": "00:01:19.069"
+          },
+          "slow": {
+            "start": "00:02:00.949",
+            "end": "00:02:01.816"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P7",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "3dbfff42-80d6-4e65-a793-221bbec69f12"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I see <b><span style=\"color:blue\">(I) </span></b>___________ as someone who is very independent, but I would like to have more friends.",
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít, đại từ phản thân đi kèm là <b>myself</b>. Câu hoàn chỉnh là <b>I see <span style=\"color:red\">myself </span>as someone who is very independent, but I would like to have more friends. </b><i>(Tôi tự nhìn nhận <span style=\"color:red\">bản thân tôi </span>là một người rất độc lập nhưng tôi muốn có thêm bạn bè.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b1545f1d-65d3-477b-91dd-dabcfc136273"
+          },
+          "dapAn": "myself",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c6190de1-cc0e-4c6b-b2be-613f7f04f9c2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I can't help you guys with the Spanish exam, sorry! You have to do it <b><span style=\"color:blue\">(you) </span></b>___________.",
+      "yNghia": "<b>You guys </b>là chủ ngữ ngôi thứ hai số nhiều, đại từ phản thân đi kèm là <b>yourselves</b>. Câu hoàn chỉnh là <b>I can't help you guys with the Spanish exam, sorry! You have to do it <span style=\"color:red\">yourselves</span>. </b><i>(Mình không thể giúp các bạn với bài kiểm tra tiếng Tây Ban Nha được, xin lỗi nhé!<span style=\"color:red\"> Tự</span> <span style=\"color:red\">bản</span><span style=\"color:red\"> thân các bạn </span>phải làm thôi.). </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "26e9514d-9c99-4d4e-97a7-9d6c5b28a3ea"
+          },
+          "dapAn": "yourselves",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7f8e6069-1537-4013-9305-29d52b64b7a2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Oh, no! What happened to my cell phone? It just turned <b><span style=\"color:blue\">(it) </span></b>___________ off!",
+      "yNghia": "<b>It</b> là chủ ngữ ngôi thứ ba số ít, đại từ phản thân đi kèm là <b>itself</b>. Câu hoàn chỉnh là <b>Oh, no! What happened to my cell phone? It just turned <span style=\"color:red\">itself </span>off! </b><i>(Ôi không! Có chuyện gì xảy ra với điện thoại của tôi vậy? Nó vừa <span style=\"color:red\">tự </span>tắt.). </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6f94fb23-3558-4225-811e-5c5374dca75a"
+          },
+          "dapAn": "itself",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b32cd256-732d-4cdf-9b5c-7554d2181529"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What job do you see <b><span style=\"color:blue\">(you) </span></b>___________ doing five years from now?",
+      "yNghia": "<b>You</b> là chủ ngữ ngôi thứ hai số ít hoặc số nhiều, đại từ phản thân đi kèm là <b>yourself</b><b>/yourselves</b>. Câu hoàn chỉnh là <b>What job do you see </b><b><span style=\"color:red\">yourself </span></b><b><span style=\"color:red\">/ yourselves</span></b><b> </b><b>doing five years from now? </b><i>(Bạn nhìn thấy <span style=\"color:red\">bản thân bạn </span>sẽ làm công việc gì trong năm năm nữa?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "62a48431-6990-41c9-85b3-f4ab19d220a2"
+          },
+          "dapAn": "yourself/ yourselves",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3409f9fb-02de-4fb9-8986-ffd0580c5751"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They didn't get anyone's help starting the company. They did all the work <b><span style=\"color:blue\">(they) </span></b>___________.",
+      "yNghia": "<b>They</b> là chủ ngữ ngôi thứ ba số nhiều, đại từ phản thân đi kèm là <b>themselves</b>. Câu hoàn chỉnh là <b>They didn't get anyone's help starting the company. They did all the work <span style=\"color:red\">themselves</span>. </b><i>(Họ đã không cần sự giúp đỡ của ai trong việc khởi nghiệp công ty. Họ <span style=\"color:red\">đã tự </span>làm tất cả các công việc.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "11b285c5-91de-4f0c-8fca-a86e8a28ee0e"
+          },
+          "dapAn": "themselves",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d73fa86e-a019-4a85-922a-b3e32d68a7f6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Don't do her homework for her. She has to work it out <b><span style=\"color:blue\">(she) </span></b>___________, or she'll never learn.",
+      "yNghia": "<b>She</b> là chủ ngữ ngôi thứ ba số ít, đại từ phản thân đi kèm là <b>herself</b>. Câu hoàn chỉnh là <b>Don't do her homework for her. She has to work it out </b><b><span style=\"color:red\">herself</span></b>, <b>or she'll never learn. </b><i>(Đừng làm bài tập về nhà cho cô ấy. Cô ấy cần phải <span style=\"color:red\">tự </span>làm, hoặc cô ấy sẽ không bao giờ học được gì.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "70037bfe-0af8-4115-9441-6971aa378651"
+          },
+          "dapAn": "herself",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "892e79df-436e-4c09-8fef-4b462e1fe192"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I don't want to use a catering service to plan the neighborhood barbecue. Let's plan it <b><span style=\"color:blue\">(we) </span></b>___________.",
+      "yNghia": "<b>Let's </b>là viết tắt của <b>Let us</b>, nên đại từ phản thân đi kèm là <b>ourselves</b>. Câu hoàn chỉnh là <b>I don't want to use a catering service to plan the neighborhood barbecue. Let's plan it <span style=\"color:red\">ourselves</span>. </b><i>(Tôi không muốn dùng dịch vụ tiệc theo yêu cầu cho khu phố. <span style=\"color:red\">Tự chúng ta </span>hãy lên kế hoạch đi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cb9600c9-c93f-47ac-b415-7f6f7522049f"
+          },
+          "dapAn": "ourselves",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "63d2816e-91a4-4c79-9545-0bf5e09c19f9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I thought Ben was talking to <b><span style=\"color:blue\">(he) </span></b>___________, but then I realized he was on his cell phone!",
+      "yNghia": "<b>Ben </b>là chủ ngữ số ít, đại từ phản thân đi kèm là <b>himself</b>. Câu hoàn chỉnh là <b>I thought Ben was talking to <span style=\"color:red\">himself</span>, but then I realized he was on his cell phone! </b><i>(Tôi đã nghĩ là Ben đang <span style=\"color:red\">tự </span>nói chuyện, nhưng rồi tôi nhận ra anh ấy đang nói chuyện điện thoại.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7b7a3fc2-afd4-4b2c-aeb4-413e7ad09382"
+          },
+          "dapAn": "himself",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "eade1a4c-e6b5-427f-9f99-d7e6d28c3d8c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The way we see <b><span style=\"color:blue\">(we) </span></b>___________ may depend on the groups we belong to.",
+      "yNghia": "<b>We </b>là chủ ngữ ngôi thứ nhất số nhiều, nên đại từ phản thân đi kèm là <b>ourselves</b>. Câu hoàn chỉnh là<b> The way we see <span style=\"color:red\">ourselves </span>may depend on the groups we belong to. </b><i>(Cách mà chúng ta nhìn nhận <span style=\"color:red\">bản thân </span>có thể phụ thuộc vào những hội nhóm mà chúng ta thuộc về.). </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "edf98267-fa26-4ef3-bfce-c5ff3f19cf6d"
+          },
+          "dapAn": "ourselves",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e880f00e-1ab4-4289-b152-60d0364900a9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "For example, if you have a large social life, you probably consider <b><span style=\"color:blue\">(you) </span></b>___________ to be friendly and confident.",
+      "yNghia": "<b>You </b>trong câu này vừa có thể là chủ ngữ ngôi thứ hai số ít hoặc số nhiều, đại từ phản thân đi kèm là <b>yourself</b>/<b>yourselves</b>. Câu hoàn chỉnh là <b>For example, if you have a large social life, you probably consider </b><b><span style=\"color:red\">yourself</span></b><span style=\"color:red\">/<b>yourselves </b></span><b>to be friendly and confident.</b><i> (Ví dụ, nếu bạn có quan hệ xã hội rộng, bạn có thể <span style=\"color:red\">tự</span> coi <span style=\"color:red\">bản thân </span>là một người thân thiện và tự tin.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "effcb3aa-47e2-4828-abd8-8bfba29e648c"
+          },
+          "dapAn": "yourself/ yourselves",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "da5ffd06-e317-4254-b8a9-6866dc5ab43a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "People who belong to a sport club may think of <b><span style=\"color:blue\">(they) </span></b>___________ as good members of a team.",
+      "yNghia": "<b>People</b> là chủ ngữ ngôi thứ ba số nhiều, đại từ phản thân đi kèm là <b>themselves</b>. Câu hoàn chỉnh là <b>People who belong to a sport club may think of <span style=\"color:red\">themselves </span>as good members of a team. </b><i>(Những người trong một câu lạc bộ thể thao có thể <span style=\"color:red\">tự </span>cho rằng bọn họ là những thành viên tốt trong đội.). </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "de57f62e-17fd-4c0f-91b1-49f0cccd0c4d"
+          },
+          "dapAn": "themselves",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "032592ab-cf48-45bc-ab1c-b07a78115185"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Someone who join a community of purpose may achieve something that he or she can't achieve by <b><span style=\"color:blue\">(he) </span></b>___________ or<b><span style=\"color:blue\">(she) </span></b>___________.",
+      "yNghia": "<b>Someone </b>là chủ ngữ ngôi thứ ba số ít, đại từ phản thân đi kèm là <b>herself, himself</b>. Câu hoàn chỉnh là <b>Someone who join a community of purpose may achieve something that he or she can't achieve by </b><b><span style=\"color:red\">herself </span></b><b>or </b><b><span style=\"color:red\">himself</span></b><b>. </b><i>(<span style=\"color:#202124\">Một người nào đó tham gia vào một cộng đồng chung</span> <span style=\"color:#202124\">mục đích có thể đạt được điều gì đó mà </span><span style=\"color:red\">bản thân</span> <span style=\"color:red\">cô ấy/anh ấy </span><span style=\"color:#202124\">không thể đạt được.)</span><span style=\"color:#202124\">.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5fe10eaa-0de0-4b6d-a4ec-a44261d12696"
+          },
+          "dapAn": "herself, himself",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "62b9530a-ef1e-4b16-b255-4137d47cabff"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We <b><span style=\"color:blue\">(we) </span></b>___________ should keep plastics in the recycle bin.",
+      "yNghia": "<b>We </b>là chủ ngữ ngôi thứ nhất số nhiều, nên đại từ phản thân đi kèm là <b>ourselves</b>. Câu hoàn chỉnh là<b> We <span style=\"color:red\">ourselves</span> should keep plastics in the recycle bin.</b> <i>(<span style=\"color:red\">Bản thân </span>chúng ta nên để đồ nhựa vào thùng rác tái chế.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "07f147d8-9e12-4223-b611-87990cb53d46"
+          },
+          "dapAn": "ourselves",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ef49f9e4-c9dd-4390-a566-ea2df4b7837b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you introduce <b><span style=\"color:blue\">(you) </span></b>___________ in three different languages?",
+      "yNghia": "<b>You </b>trong câu này là chủ ngữ ngôi thứ thứ nhất số ít, đại từ phản thân đi kèm là <b>yourself</b>. Câu hoàn chỉnh là <b>Can you introduce <span style=\"color:red\">yourself </span>in three different languages? </b><i>(Bạn có thể giới thiệu <span style=\"color:red\">bản thân </span>bằng ba thứ tiếng khác nhau được không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b52ab8ff-d22d-4bac-b625-68e498da6c6b"
+          },
+          "dapAn": "yourself",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "58700368-3482-40d6-9e53-356401b7f77f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How can we change<b><span style=\"color:blue\">(we) </span></b>___________ to better protect the environment?",
+      "yNghia": "<b>We </b>là chủ ngữ ngôi thứ thứ nhất số nhiều, nên đại từ phản thân đi kèm là <b>ourselves</b>. Câu hoàn chỉnh là<b> How can we change <span style=\"color:red\">ourselves </span>to better protect the environment? </b><i>(Chúng ta có thể thay đổi <span style=\"color:red\">bản thân </span>bằng cách nào để bảo vệ môi trường tốt hơn?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "112c8be0-663d-48b1-9b0a-212620f8e4f4"
+          },
+          "dapAn": "ourselves",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "07369b7b-b08a-4419-9086-8089b2efd968"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "John and Alan, I am not going to do homework for you. You have to do it <b><span style=\"color:blue\">(you) </span></b>___________.",
+      "yNghia": "<b>John and Alan</b> là chủ ngữ ngôi thứ hai số nhiều, đại từ phản thân đi kèm là <b>yourselves</b>. Câu hoàn chỉnh là <b>John and Alan, I am not going to do the homework for you. You have to do it <span style=\"color:red\">yourselves</span>. </b><i>(John và Alan, tớ sẽ không làm bài tập về nhà cho các cậu, các cậu sẽ phải <span style=\"color:red\">tự </span>làm nó.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c2586466-ebf8-4783-b1a4-5a214f8e8022"
+          },
+          "dapAn": "yourselves",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "efd71990-9274-43bf-b31e-cee301641a53"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Nancy and Leila were making a lot of noise <b><span style=\"color:blue\">(they) </span></b>___________.",
+      "yNghia": "<b>The students</b> là chủ ngữ ngôi thứ ba số nhiều, đại từ phản thân đi kèm là <b>themselves.</b> Câu hoàn chỉnh là <b>The students were so noisy. Even Nancy and Leila were making a lot of noise <span style=\"color:red\">themselves</span>. </b><i>(Mấy đứa học sinh ồn quá. Kể cả Nancy và Leila <span style=\"color:red\">tự chúng </span>cũng gây ra rất nhiều tiếng ồn).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "87e240c4-50f1-489f-9e67-44fd1350ee08"
+          },
+          "dapAn": "themselves",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b6c2b85b-d9c6-45fe-a5fb-936c602b4c9d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Did the children behave <b><span style=\"color:blue\">(they) </span></b>___________?",
+      "yNghia": "<b>The children</b> là chủ ngữ ngôi thứ ba số nhiều, đại từ phản thân đi kèm là <b>themselves.</b> Câu hoàn chỉnh là<b> Did the children behave <span style=\"color:red\">themselves</span>? </b><i>(Bọn trẻ đã cư xử đúng mực chứ?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "932d351c-8fea-4771-abe7-41f6b25b80fc"
+          },
+          "dapAn": "themselves",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9c0a91a9-7767-43a9-90db-639c9bff58c6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I caught sight of <b><span style=\"color:blue\">(I) </span></b>___________ in the mirror.",
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít, đại từ phản thân đi kèm là<b> myself. </b>Câu hoàn chỉnh là <b>I caught sight of <span style=\"color:red\">myself </span>in the mirror. </b><i>(Tôi <span style=\"color:red\">tự</span> thấy <span style=\"color:red\">mình </span>trong gương.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "402fd8af-34ed-4299-b60f-691db9474d38"
+          },
+          "dapAn": "myself",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4ffd0f43-272a-4e27-80c1-20ef6d48ca8d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Did the two of you do this job by <b><span style=\"color:blue\">(you) </span></b>___________?",
+      "yNghia": "<b>The two of you</b> là chủ ngữ ngôi thứ hai số nhiều, đại từ phản thân đi kèm là <b>yourselves</b>. Câu hoàn chỉnh là <b>Did the two of you do this job by <span style=\"color:red\">yourselves</span>?</b> <i>(Hai bạn có <span style=\"color:red\">tự </span>làm công việc này không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8e180338-b784-40b4-98cf-afece8a6bcfa"
+          },
+          "dapAn": "yourselves",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

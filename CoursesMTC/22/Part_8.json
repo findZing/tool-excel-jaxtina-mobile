@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_MTC_L22/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_MTC_L22/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "3f05b6b7-415f-479f-b63d-4aeee2b9310d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Maria",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e4e59a0f-94a9-481a-887a-fb41a777c065"
+          },
+          "dapAn": "Maxi, I’ve tried to pay for our flights to Vietnam, but it says I’ve got no money in my account.",
+          "phienAm": "/ˈmæksi aɪv traɪd tuː peɪ fɔːr ˈaʊər flaɪts tuː ˌvjetˈnɑːm bʌt ɪt sez aɪv gɒt nəʊ ˈmʌni ɪn maɪ əˈkaʊnt/",
+          "yNghia": "\nMaxi, tôi đã cố thanh toán cho các chuyến bay của chúng tôi đến Việt Nam, nhưng thông báo cho biết tôi không có tiền trong tài khoản.",
+          "normal": {
+            "start": "00:00:00.404",
+            "end": "00:00:07.744"
+          },
+          "slow": {
+            "start": "00:00:00.649",
+            "end": "00:00:12.501"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "cd4d5d94-6870-466d-a63f-567f5ba84a21"
+          },
+          "dapAn": "I remember what I bought. I don’t believe it!",
+          "phienAm": "/aɪ rɪˈmembər wɒt aɪ bɔːt/. /aɪ dəʊnt bɪˈliːv ɪt/",
+          "yNghia": "\nTôi nhớ những gì tôi đã mua. Tôi không tin điều đó!",
+          "normal": {
+            "start": "00:00:15.691",
+            "end": "00:00:19.597"
+          },
+          "slow": {
+            "start": "00:00:22.277",
+            "end": "00:00:28.073"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3cce9d80-bfbf-48d1-af0f-877d00578fea"
+          },
+          "dapAn": "Look at the screen! It says I’ve made all these purchases with my debit card.",
+          "phienAm": "/lʊk æt ðiː skriːn/. /ɪt sez aɪv meɪd ɔːl ðiːz ˈpɜːʧəsɪz wɪð maɪ ˈdebɪt kɑːd/",
+          "yNghia": "\nNhìn vào màn hình này! Nó nói rằng tôi đã thực hiện tất cả các giao dịch mua này bằng thẻ ghi nợ của mình.",
+          "normal": {
+            "start": "00:00:26.061",
+            "end": "00:00:31.920"
+          },
+          "slow": {
+            "start": "00:00:35.210",
+            "end": "00:00:43.342"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ddf6209a-6008-4918-97d7-0e0496a197a4"
+          },
+          "dapAn": "But according to my bank, there were three identical purchases of $500 at the supermarket on Monday.",
+          "phienAm": "/bʌt əˈkɔːdɪŋ tuː maɪ bæŋk ðeər wɜːr θriː aɪˈdentɪkəl ˈpɜːʧəsɪz ɒv ˌfaɪv ˈhʌndrəd ˈdɒlər æt ðiː ˈsuːpəˌmɑːkɪt ɒn ˈmʌndeɪ/",
+          "yNghia": "\nNhưng theo ngân hàng của tôi, đã có ba giao dịch mua trị giá 500 đô la giống hệt nhau tại siêu thị vào thứ Hai.",
+          "normal": {
+            "start": "00:00:38.385",
+            "end": "00:00:45.254"
+          },
+          "slow": {
+            "start": "00:00:50.653",
+            "end": "00:01:00.775"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "13cf9801-fe5d-4ad2-8657-f58ccfac8e56"
+          },
+          "dapAn": "That’s right. I think someone’s got my account details.",
+          "phienAm": "/ðæts raɪt/. /aɪ θɪŋk ˈsʌmwʌnz gɒt maɪ əˈkaʊnt ˈdiːteɪlz/",
+          "yNghia": "\nĐúng rồi. Tôi nghĩ ai đó đã có thông tin tài khoản của tôi.",
+          "normal": {
+            "start": "00:00:50.911",
+            "end": "00:00:54.480"
+          },
+          "slow": {
+            "start": "00:01:09.382",
+            "end": "00:01:14.919"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1c1ad12e-26b5-446e-952b-945edfa624cd"
+          },
+          "dapAn": "Yes, that’s because you left your card in the ATM!",
+          "phienAm": "/jes ðæts bɪˈkɒz juː left jɔːr kɑːd ɪn ðiː eɪ tiː em/",
+          "yNghia": "\nỪ, đó là bởi vì bạn đã để quên thẻ của mình trong máy ATM!",
+          "normal": {
+            "start": "00:01:00.877",
+            "end": "00:01:04.514"
+          },
+          "slow": {
+            "start": "00:01:23.614",
+            "end": "00:01:28.458"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "537edde2-066e-4779-8cc0-9f5d548a0165"
+          },
+          "dapAn": "What do you think we should do?",
+          "phienAm": "/wɒt duː juː θɪŋk wiː ʃʊd duː/",
+          "yNghia": "\nBạn nghĩ gì chúng ta nên làm gì?",
+          "normal": {
+            "start": "00:01:13.807",
+            "end": "00:01:15.625"
+          },
+          "slow": {
+            "start": "00:01:38.796",
+            "end": "00:01:41.392"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ee501ab4-0069-4603-80d8-37212787f256"
+          },
+          "dapAn": "Good idea. I’m sure they’ll see that it’s impossible.",
+          "phienAm": "/gʊd aɪˈdɪə/. /aɪm ʃʊər ðeɪl siː ðæt ɪts ɪmˈpɒsəbl/",
+          "yNghia": "\nÝ tưởng hay. Tôi chắc họ sẽ thấy rằng điều đó là không thể.",
+          "normal": {
+            "start": "00:01:21.955",
+            "end": "00:01:25.323"
+          },
+          "slow": {
+            "start": "00:01:49.351",
+            "end": "00:01:54.455"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7772fdca-c404-46e2-bcae-9cb2624b04d6"
+          },
+          "dapAn": "But it’s a lot of money. I think we could pay by credit card.",
+          "phienAm": "/bʌt ɪts eɪ lɒt ɒv ˈmʌni/. /aɪ θɪŋk wiː kʊd peɪ baɪ ˈkredɪt kɑːd/",
+          "yNghia": "\nNhưng đó là rất nhiều tiền. Tôi nghĩ chúng ta có thể thanh toán bằng thẻ tín dụng.",
+          "normal": {
+            "start": "00:01:33.471",
+            "end": "00:01:38.522"
+          },
+          "slow": {
+            "start": "00:02:03.971",
+            "end": "00:02:09.768"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "12272c9a-df8b-4e56-b7e3-4553411dd0c4"
+          },
+          "dapAn": "OK. Maybe we might get a discount on the vacation with the credit card anyway.",
+          "phienAm": "/əʊˈkeɪ/. /ˈmeɪbiː wiː maɪt get eɪ ˈdɪskaʊnt ɒn ðə vəˈkeɪʃən wɪð ðə ˈkredɪt kɑːd ˈenɪweɪ/",
+          "yNghia": "\nĐược rồi. Có lẽ chúng ta có thể được giảm giá trong kỳ nghỉ bằng thẻ tín dụng.",
+          "normal": {
+            "start": "00:01:46.333",
+            "end": "00:01:52.529"
+          },
+          "slow": {
+            "start": "00:02:18.203",
+            "end": "00:02:25.729"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ddd9a5b1-473e-4a20-b697-a884eb38ebcd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Maxi",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "618a64d8-a8c3-440c-a812-f8f7f2769b30"
+          },
+          "dapAn": "Really? If you used that app I told you about, that kind of thing wouldn’t happen.",
+          "phienAm": "/ˈrɪəli/. /ɪf juː juːzd ðæt æp aɪ təʊld juː əˈbaʊt ðæt kaɪnd ɒv θɪŋ ˈwʊdnt ˈhæpən/",
+          "yNghia": "\nCó thật không? Nếu bạn sử dụng ứng dụng mà tôi đã nói với bạn, điều đó sẽ không xảy ra.",
+          "normal": {
+            "start": "00:00:08.957",
+            "end": "00:00:14.546"
+          },
+          "slow": {
+            "start": "00:00:13.669",
+            "end": "00:00:21.109"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f7c7b969-37c9-4008-8a87-95a1675ec537"
+          },
+          "dapAn": "The app helps you manage your money and see how much you’re spending.",
+          "phienAm": "/ðiː æp helps juː ˈmænɪʤ jɔːr ˈmʌni ænd siː haʊ mʌʧ jʊər ˈspendɪŋ/",
+          "yNghia": "\nỨng dụng giúp bạn quản lý tiền của mình và xem số tiền bạn đang chi tiêu.",
+          "normal": {
+            "start": "00:00:20.607",
+            "end": "00:00:25.051"
+          },
+          "slow": {
+            "start": "00:00:28.722",
+            "end": "00:00:34.345"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "15d3f10f-eb20-417d-918d-9dbc76e944c5"
+          },
+          "dapAn": "Well, you bought a lot of stuff by contactless payment. ",
+          "phienAm": "/wel juː bɔːt eɪ lɒt ɒv stʌf baɪ ˈkɒntæktləs ˈpeɪmənt/",
+          "yNghia": "\nChà, bạn đã mua rất nhiều thứ bằng cách thanh toán bằng thẻ hoặc chuyển khoản.",
+          "normal": {
+            "start": "00:00:33.132",
+            "end": "00:00:37.173"
+          },
+          "slow": {
+            "start": "00:00:44.381",
+            "end": "00:00:49.658"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9bd33529-e18f-4c1a-971f-2d0fd18c16b0"
+          },
+          "dapAn": "That’s really weird, because you didn’t go to the supermarket on that day.",
+          "phienAm": "/ðæts ˈrɪəli wɪəd bɪˈkɒz juː dɪdnt gəʊ tuː ðə ˈsuːpəˌmɑːkɪt ɒn ðæt deɪ/",
+          "yNghia": "\nĐiều đó thực sự kỳ lạ, bởi vì bạn đã không đi siêu thị vào ngày hôm đó.",
+          "normal": {
+            "start": "00:00:45.995",
+            "end": "00:00:50.035"
+          },
+          "slow": {
+            "start": "00:01:01.942",
+            "end": "00:01:08.388"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a89c6302-7b67-4052-adcc-9b382eaf1df2"
+          },
+          "dapAn": "Maybe they have. Do you remember when that happened to me last year?",
+          "phienAm": "/ˈmeɪbiː ðeɪ hæv/. /duː juː rɪˈmembər wen ðæt ˈhæpənd tuː miː lɑːst jɪər/",
+          "yNghia": "\nCó thể đấy. Bạn có nhớ năm ngoái điều tương tự cũng xảy ra với tôi không?",
+          "normal": {
+            "start": "00:00:55.557",
+            "end": "00:01:00.137"
+          },
+          "slow": {
+            "start": "00:01:16.303",
+            "end": "00:01:22.619"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4d22edaf-0d78-46f6-8ce0-fbc3e2d838f1"
+          },
+          "dapAn": "Nobody even needed to steal my personal identification number, but my money was stolen.",
+          "phienAm": "/ˈnəʊbədi ˈiːvən ˈniːdɪd tuː stiːl maɪ ˈpɜːsnl aɪˌdentɪfɪˈkeɪʃən ˈnʌmbər bʌt maɪ ˈmʌni wɒz ˈstəʊlən/",
+          "yNghia": "\nThậm chí không ai cần đánh cắp số nhận dạng cá nhân của tôi, nhưng tiền của tôi lại bị đánh cắp.",
+          "normal": {
+            "start": "00:01:05.793",
+            "end": "00:01:11.921"
+          },
+          "slow": {
+            "start": "00:01:29.669",
+            "end": "00:01:37.542"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e272c717-7d65-42f4-9eb3-270da9100d13"
+          },
+          "dapAn": "I think you need to call the bank now and report those payments.",
+          "phienAm": "/aɪ θɪŋk juː niːd tuː kɔːl ðiː bæŋk naʊ ænd rɪˈpɔːt ðəʊz ˈpeɪmənts/",
+          "yNghia": "\nTôi nghĩ bạn cần gọi cho ngân hàng ngay bây giờ và báo cáo các khoản thanh toán đó.",
+          "normal": {
+            "start": "00:01:16.703",
+            "end": "00:01:20.609"
+          },
+          "slow": {
+            "start": "00:01:42.560",
+            "end": "00:01:48.140"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4d480968-1274-4271-be07-814a9b001fa7"
+          },
+          "dapAn": "They’re normally very helpful with this kind of thing. Now we could pay by cash.",
+          "phienAm": "/ðeər ˈnɔːməli ˈveri ˈhelpfʊl wɪð ðɪs kaɪnd ɒv θɪŋ/. /naʊ wiː kʊd peɪ baɪ kæʃ/",
+          "yNghia": "\nHọ thường rất hữu ích trong việc này. Bây giờ chúng ta có thể thanh toán bằng tiền mặt.",
+          "normal": {
+            "start": "00:01:26.939",
+            "end": "00:01:32.394"
+          },
+          "slow": {
+            "start": "00:01:55.580",
+            "end": "00:02:03.106"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d8d2ed3d-b429-4028-a00d-a8d3a20ab45d"
+          },
+          "dapAn": "At least then we don’t have to pay for it all at the same time like using a debit card.",
+          "phienAm": "/æt liːst ðen wiː dəʊnt hæv tuː peɪ fɔːr ɪt ɔːl æt ðə seɪm taɪm laɪk ˈjuːzɪŋ eɪ ˈdebɪt kɑːd/",
+          "yNghia": "\nÍt nhất thì chúng ta không phải trả tiền cho tất cả cùng một lúc như sử dụng thẻ ghi nợ.",
+          "normal": {
+            "start": "00:01:39.464",
+            "end": "00:01:45.727"
+          },
+          "slow": {
+            "start": "00:02:10.200",
+            "end": "00:02:17.424"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "15cf770d-abb6-4083-ae6e-a8ce190f4d76"
+          },
+          "dapAn": "Yes. How annoying, though.",
+          "phienAm": "/jes/. /haʊ əˈnɔɪɪŋ ðəʊ/",
+          "yNghia": "\nĐúng. Mặc dù cũng hơi phiền thật.",
+          "normal": {
+            "start": "00:01:53.472",
+            "end": "00:01:56.031"
+          },
+          "slow": {
+            "start": "00:02:26.724",
+            "end": "00:02:29.146"
+          }
+        }
+      ]
+    }
+  ]
+}

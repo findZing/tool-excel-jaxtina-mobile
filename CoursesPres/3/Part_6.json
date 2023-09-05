@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "12b9ffc0-4736-4eac-b6b2-82f2308e90d5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td><b>Mr. Taylor:</b></td>\n                        <td>Good <b>(1)</b> ______! Welcome to class! I <b>(2) </b>______ Mr. Taylor. What's your name?</td>\n                </tr>\n                <tr>\n                        <td><b>Maria: </b></td>\n                        <td>Good morning. <b>(3)</b> ______ to meet you, Mr. Taylor. <b>(4)</b> ______ am Maria.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td><b>Mr. Taylor:</b></td>\n                        <td>Good <b>(1) <span style=\"color:red\">morning</span> </b>! Welcome to class! I <b>(2)</b> <b><span style=\"color:red\">am </span> </b>Mr. Taylor. What's your name?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Chào <span style=\"color:red\">buổi sáng</span> ! Chào mừng tới lớp học. Tôi <span style=\"color:red\">là </span> Taylor. Tên của bạn là gì?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\n                        <td>Good morning. <b>(3)</b> <b><span style=\"color:red\">Nice </span> </b>to meet you, Mr. Taylor. <b>(4)</b> <b><span style=\"color:red\">I </span> </b>am Maria.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Chào buổi sáng. <span style=\"color:red\">Rất vui </span> khi được gặp ông, Taylor. <span style=\"\"color:red\"\">Tôi </span> là Maria.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "morning",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "97a91002-7481-4f47-8cfd-f15de42ed7b5"
+          }
+        },
+        {
+          "dapAn": "am ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "b16da8c8-31ad-4f45-b4d3-61dcfc77f033"
+          }
+        },
+        {
+          "dapAn": "Nice",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f03890ac-09d6-40d3-8645-9d45f980de1d"
+          }
+        },
+        {
+          "dapAn": "I",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e698e7ec-715b-47d9-87ac-47689ddfb6f8"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "52f253f1-e218-44e6-9816-2d4529b0528c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td><b>Maria:</b></td>\n                        <td>This<b> (1) </b>______ Peter.</td>\n                </tr>\n                <tr>\n                        <td><b>John:</b></td>\n                        <td>Nice to<b> (2)</b> ______ you, Pedro.</td>\n                </tr>\n                <tr>\n                        <td><b>Maria:</b></td>\n                        <td>No. His<b> (3)</b> ______ isn't Pedro. His name is Peter.</td>\n                </tr>\n                <tr>\n                        <td><b>John:</b></td>\n                        <td>Peter! <b>(4)</b> ______. Nice to meet you!</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td><b>Maria:</b></td>\n                        <td>This <b>(1)</b> <span style=\"color:red\"><b>is </b></span> Peter.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Đây <span style=\"color:red\">là </span> Peter.</i></td>\n                </tr>\n                <tr>\n                        <td><b>John:</b></td>\n                        <td>Nice to <b>(2)</b> <span style=\"color:red\"><b>meet</b></span>  you, Pedro.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Rất vui khi được <span style=\"color:red\">gặp </span> bạn, Pedro.</i></td>\n                </tr>\n                <tr>\n                        <td><b>Maria:</b></td>\n                        <td>No. His <b>(3)</b> <span style=\"color:red\"><b>name </b></span> isn't Pedro. His name is Peter.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Không. <span style=\"color:red\">Tên </span> của anh ấy không phải là Pedro. Tên của anh ấy là Peter.</i></td>\n                </tr>\n                <tr>\n                        <td><b>John:</b></td>\n                        <td>Peter! <b>(4)</b> <b><span style=\"color:red\">Sorry</span> </b>. Nice to meet you!</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Peter! <span style=\"color:red\">Xin lỗi</span> . Rất vui khi được gặp bạn.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "is",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "313dc10e-1ee5-41fa-a396-78eff8597167"
+          }
+        },
+        {
+          "dapAn": "meet",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ae30c16e-8a2c-47aa-bad4-9b3b30043353"
+          }
+        },
+        {
+          "dapAn": "name",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "67b5473e-c2d9-4afb-a7dc-f8d07b6d3703"
+          }
+        },
+        {
+          "dapAn": "Sorry",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "3791197b-b4ac-4071-a527-7e2adfb5c231"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a2de0385-5c5f-4fb3-b612-e75a9f6b5768"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>Hi, Hayden.<b> (1)</b> <b>______</b> are you?</td>\n                </tr>\n                <tr>\n                        <td><b>Hayden:</b></td>\n                        <td>I'm <b>(2) </b>______, thanks.</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td><b>(3)</b> ______ you free this Sunday?</td>\n                </tr>\n                <tr>\n                        <td><b>Hayden:</b></td>\n                        <td>What<b> (4) </b>______ your plan?</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>I think we can go to the cinema<i>.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>Hi, Hayden. <b>(1)</b> <b><span style=\"color:red\">How </span> </b>are you?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Chào, Hayden. Cậu <span style=\"color:red\">khỏe không</span> ?</i></td>\n                </tr>\n                <tr>\n                        <td><b>Hayden:</b></td>\n                        <td>I'm <b>(2)</b> <b><span style=\"color:red\">fine</span> </b>, thanks.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Tớ <span style=\"color:red\">khỏe</span> , cảm ơn cậu.</i></td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td><b>(3)</b> <b><span style=\"color:red\">Are </span> </b>you free this Sunday?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Chủ nhật này cậu có rảnh không?</i></td>\n                </tr>\n                <tr>\n                        <td><b>Hayden:</b></td>\n                        <td>What <b>(4)</b> <b><span style=\"color:red\">is </span> </b>your plan?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Cậu có kế hoạch gì?</i></td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>I think we can go to the cinema.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Tớ nghĩ chúng ta có thể tới rạp chiếu phim</i>.</td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "How",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a3541595-3828-4984-9695-3c7efac529b6"
+          }
+        },
+        {
+          "dapAn": "fine",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ac71b3d6-3353-4039-9095-a174b8dafdd4"
+          }
+        },
+        {
+          "dapAn": "Are",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "92c6e3f2-3931-4f68-b55d-d48d1d846f75"
+          }
+        },
+        {
+          "dapAn": "is",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f323e9ab-f318-4d71-b5de-fa2c0596ff50"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1889f7d4-a5e5-4ba6-abdc-f80b074dbffa"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><b>Rosie:</b></td>\r\n\t\t\t<td>Hello, I <b>(1) </b>______ Rosie. What's your<b> (2)</b> ______?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td><b>Eva:</b></td>\r\n\t\t\t<td>Hi, Rosie.<b> (3)</b> ______ name's Eva.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td><b>Rosie:</b></td>\r\n\t\t\t<td>How do you <b>(4) </b>______ that?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td><b>Eva:</b></td>\r\n\t\t\t<td>E-V-A</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td><b>Rosie:</b></td>\n                        <td>Hello, I<b> (1) <span style=\"color:red\">am </span> </b>Rosie. What's your <b>(2)</b> <b><span style=\"color:red\">name</span> </b>?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Xin chào, tôi <span style=\"color:red\">là </span> Rosie. Bạn <span style=\"color:red\">tên </span> gì?</i></td>\n                </tr>\n                <tr>\n                        <td><b>Eva:</b></td>\n                        <td>Hi, Rosie. <b>(3)</b> <b><span style=\"color:red\">My </span> </b>name's Eva.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Xin chào, Rosie. Tên <span style=\"color:red\">của tôi </span> là Eva.</i></td>\n                </tr>\n                <tr>\n                        <td><b>Rosie:</b></td>\n                        <td>How do you <b>(4)</b> <b><span style=\"color:red\">spell </span> </b>that?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Bạn <span style=\"color:red\">đánh vần</span>  từ đó như thế nào?</i></td>\n                </tr>\n                <tr>\n                        <td><b>Eva:</b></td>\n                        <td>E-V-A</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>E-V-A</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "am",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2ca39872-0ef0-4153-a285-8f4163f654ed"
+          }
+        },
+        {
+          "dapAn": "name",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c6da2237-2e5e-4253-8a05-1ee761b40940"
+          }
+        },
+        {
+          "dapAn": "My",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "855e3809-ceb2-42d4-80f5-a06fed302faf"
+          }
+        },
+        {
+          "dapAn": "spell",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6ff0f37a-ea96-4c3b-857f-85465d886ab9"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8540c1b4-387d-4215-8830-c6ab2696826e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>So, you <b>(1)</b> ______ the first child in your family.</td>\n                </tr>\n                <tr>\n                        <td><b>Hayden:</b></td>\n                        <td>That's right.<b> (2) </b>______ about you?</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>I <b>(3)</b> ______ an only child. What is your father's name?</td>\n                </tr>\n                <tr>\n                        <td><b>Hayden:</b></td>\n                        <td><b>(4) </b>______ name is Joe.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><b>Linda:</b></td>\r\n\t\t\t<td>So, you <b>(1)</b> <b><span style=\"color:red\">are </span> </b>the first child in your family.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td> </td>\r\n\t\t\t<td><i>Vậy, cậu <span style=\"color:red\">là </span> con cả trong gia đình cậu.</i></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td><b>Heydan:</b></td>\r\n\t\t\t<td>That's right. <b>(2) <span style=\"color:red\">What </span> </b>about you?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td> </td>\r\n\t\t\t<td><i>Đúng vậy. Còn cậu thì sao?</i></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td><b>Linda:</b></td>\r\n\t\t\t<td>I <b>(3) <span style=\"color:red\">am </span> </b>an only child. What is your father's name?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td> </td>\r\n\t\t\t<td><i>Tớ <span style=\"color:red\">là </span> con một. Bố của cậu tên là gì thế?</i></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td><b>Hayden:</b></td>\r\n\t\t\t<td><b>(4) <span style=\"color:red\">His </span> </b>name is Joe.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td> </td>\r\n\t\t\t<td><i>Tên <span style=\"color:red\">của ông ấy</span>  là Joe.</i></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "are",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a666c52c-1871-49ea-a5d4-847d0fc88772"
+          }
+        },
+        {
+          "dapAn": "What",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "58319a86-bba7-4f6f-b1fa-8b6c790f2c9f"
+          }
+        },
+        {
+          "dapAn": "am",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "02bcf752-7ffd-4625-9b54-3ea2fb7987a1"
+          }
+        },
+        {
+          "dapAn": "His",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6ec2e14d-d089-4752-94e6-e0558673229c"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P9Cham1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "6d3877a2-7e64-46fe-8149-afe7574740d3"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "8e396eb6-7072-4b0a-8b71-5faeeab4df29"
+          },
+          "cauHoi": "Is asking someone to train with you a bad idea?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d40916f6-9c00-4a71-b065-dcd79af7aa7c"
+              },
+              "dapAn": "A. No, it’s a good idea.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "9f4e9cc0-768a-4e11-b993-3f83df204c1f"
+              },
+              "dapAn": "B. No, it’s a bad idea.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8395d6cb-51aa-4a0f-9848-bdb5d7e1be28"
+              },
+              "dapAn": "C. Yes, it’s a good idea.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "06ad5b3b-66e5-48f9-8b83-d6c8190a4461"
+              },
+              "dapAn": "D. Yes, it’s a very bad idea.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f83ee653-c288-40c5-9361-c67c3a8cdc09"
+          },
+          "cauHoi": "What will happen if someone trains with you?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "521620dd-85fd-4b2c-a830-325759f21b24"
+              },
+              "dapAn": "A. There’re more motions.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "074cb39c-1e6b-4d4a-9f4a-4b53a1fc346a"
+              },
+              "dapAn": "B. There’s more motivation.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "41d403b6-fa9c-43a0-8aea-3d2e34a4234d"
+              },
+              "dapAn": "C. There’re more actions.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0ff5d122-332e-45d3-aff7-aef9bf62a917"
+              },
+              "dapAn": "D. There’re more notifications.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "93a4c075-40d3-4a3b-b6b4-e9c91f9deef1"
+          },
+          "cauHoi": "Does Simon like sports?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6dc5c01b-9f4c-45ea-81e5-480bdd8227bc"
+              },
+              "dapAn": "A. No. he doesn’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "804d81b9-40da-443d-a4cc-4f1d8a8cf709"
+              },
+              "dapAn": "B. No. he does.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d24d324f-daba-4d0c-8816-cf2668a057c5"
+              },
+              "dapAn": "C. Yes. he doesn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f5eae1c0-d5c6-4b67-ba7a-adb205ff61cd"
+              },
+              "dapAn": "D. Yes. he does.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "3c66bdf2-93db-4c3a-ad8a-24e2cf9a9ab0"
+          },
+          "cauHoi": "What does the speaker suggest that man do now?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a55c817b-32dc-424e-8c76-a7f361dab23d"
+              },
+              "dapAn": "A. finding someone to train with",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "152b82f2-a827-4445-93b7-cdce2d2d519b"
+              },
+              "dapAn": "B. finding someone to talk with",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "654605a4-e322-4117-b0fa-51f369f0d6ec"
+              },
+              "dapAn": "C. finding someone to run with",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fa7ddbaa-96db-4b34-822f-ee9f2e3f5c5e"
+              },
+              "dapAn": "D. finding someone to swim with",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "It would not be a bad idea if you asked someone to train with you. That way, there's more motivation! It's a shame that your brother Simon doesn't like sports. If he did, it would help you a lot. Anyway, you should find someone to train with you now.<br />\r\n<br />\r\n<i>Mời ai đó tập luyện cùng mình là một ý tưởng không tồi. Bằng cách đó, bạn có nhiều động lực để luyện tập hơn! Thật tiếc khi anh trai Simon của bạn không thích thể thao. Nếu anh ấy thích thể thao, điều đó sẽ giúp ích cho bạn rất nhiều. Dù sao thì bạn nên tìm một người nào đó để luyện tập với bạn ngay bây giờ thôi.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_TC_L19/sounds/normal/TC_19_LISTENING_Listening 1.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ef79180a-56e3-4bca-be3f-5904135eddd4"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "0e9dc9c5-4a93-432a-981a-1694c319f7ee"
+          },
+          "cauHoi": "Can a small change make a big difference?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "4d0340f5-9a6b-45c0-85f2-37032c2992c6"
+              },
+              "dapAn": "A. Not really.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "dcf8dc1b-d0a0-469e-99ed-abb9d89b922c"
+              },
+              "dapAn": "B. Not mentioned.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e8375c0b-46e7-4bb0-af07-8db0e9f4cf97"
+              },
+              "dapAn": "C. No, it cannot.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7bcbc51c-3b57-4523-96d2-aea863d58484"
+              },
+              "dapAn": "D. Yes, it can.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "25fa1ee7-12fd-4e6e-adf5-14e068598f73"
+          },
+          "cauHoi": "Why the speaker doesn’t go to the gym?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3582ddfc-ccae-46a6-b086-1ec8f26e768f"
+              },
+              "dapAn": "A. Because he doesn’t have a car.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3263f7aa-79d4-4ee3-97ef-3007818a31e3"
+              },
+              "dapAn": "B. Because he doesn’t have time.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "cd19df0d-2484-4db8-82a3-b729d9457bcd"
+              },
+              "dapAn": "C. Because he doesn’t have money.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "09d10148-3d2c-4319-ab17-74154c251faa"
+              },
+              "dapAn": "D. Because he doesn’t have effort.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "3630015b-0670-4832-b8b9-6b1c4db23051"
+          },
+          "cauHoi": "How does he go to college?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2e5e06d4-947b-430c-99b4-9de787fefd40"
+              },
+              "dapAn": "A. by bike",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2dd6a0af-cd77-47ef-8bdc-93651aa91e8e"
+              },
+              "dapAn": "B. by bus",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b75b9e1b-fd55-4af5-9d5e-a81bf3bde485"
+              },
+              "dapAn": "C. by car",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "69964e2d-8e7c-4dc3-8d1d-f7de60b1fe41"
+              },
+              "dapAn": "D. by train",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "0dd9c0c4-a576-44aa-9d0c-e476814ce9d6"
+          },
+          "cauHoi": "What did he decide to do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "fa356dda-b92c-48e0-97fc-b24b0c72c6fc"
+              },
+              "dapAn": "A. parking his car far away from the building",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "54f32267-d88c-439f-955e-9abb695dcd64"
+              },
+              "dapAn": "B. walking the rest of the way",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ed04c87b-2bad-407d-8fc5-6c1591ad0377"
+              },
+              "dapAn": "C. getting much exercise",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "028fe257-ca6d-4143-a090-25795ac3333e"
+              },
+              "dapAn": "D. A&B",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "yNghia": "A small change can make a big difference! I wanted to get in shape, but I didn't have time to go to the gym. I drove to college every day, so I didn't get much exercise. One day, I decided to park my car far away from the building I needed to go to on campus, and I walked the rest of the way.<br />\r\n<br />\r\n<i>Một thay đổi nhỏ có thể tạo ra sự khác biệt lớn! Tôi muốn lấy lại vóc dáng, nhưng tôi không có thời gian đến phòng tập thể dục. Tôi lái xe đến trường đại học mỗi ngày, vì vậy tôi không tập thể dục nhiều. Hôm nọ, tôi quyết định đỗ xe cách xa tòa nhà mà tôi cần đến trong khuôn viên trường học, và tôi đi bộ nốt quãng đường còn lại.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_TC_L19/sounds/normal/TC_19_LISTENING_Listening 2.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "25c0b80d-367e-44cb-b8a7-5acce1ca5d98"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "cc7805a0-2f24-4511-8e32-5ef92b32f256"
+          },
+          "cauHoi": "Did the speaker walk a little longer day by day? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "495f18ec-6557-41dc-9b6e-b52f62a7f415"
+              },
+              "dapAn": "A. Yes, he didn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e4777f68-1c45-4321-9006-3f101c0ac3d2"
+              },
+              "dapAn": "B. No, he didn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4867ee45-db07-4510-aebe-4da3098242aa"
+              },
+              "dapAn": "C. No, he did.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6c3d43ae-db64-4ac9-b101-7602d7a1f5a9"
+              },
+              "dapAn": "D. Yes, he did.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "b35288ae-fc2a-42d2-a0c3-863adc1480f7"
+          },
+          "cauHoi": "What did he feel after a month?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b01f01a9-93f8-4ea4-9f4c-8b64f14c2ee2"
+              },
+              "dapAn": "A. He felt more tired.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8bdb94d8-1b5a-4e53-a095-e30e2ddadd90"
+              },
+              "dapAn": "B. He felt difficult.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "18456ff5-4e12-4108-807a-be919e184832"
+              },
+              "dapAn": "C. He felt worse.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "096ad163-60d1-4b4a-b131-f9fe9a624e58"
+              },
+              "dapAn": "D. He felt better.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "328a94db-59ed-478d-98e2-dfd209242a0a"
+          },
+          "cauHoi": "What did people ask him?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ae4364c8-ba38-433c-9118-064373027e32"
+              },
+              "dapAn": "A. whether he was going to the gym.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d765dfc3-be38-411f-ae97-ab58d88fb3df"
+              },
+              "dapAn": "B. whether he was eating out.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "aa3a6ab7-0643-44f1-ba7a-142b5045d77f"
+              },
+              "dapAn": "C. whether he was working out.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b54a830f-7ac6-43f1-9154-862a169c3e68"
+              },
+              "dapAn": "D. whether he was going out.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "984f8bc1-b54e-4520-bc3d-71f7d32af528"
+          },
+          "cauHoi": "According to him, should people try walking a little more?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6a92be49-e1bd-43a4-883b-94dc0350feff"
+              },
+              "dapAn": "A. Yes, they should.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f484c093-7365-474a-8a4d-5e7f194572aa"
+              },
+              "dapAn": "B. No, they should.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "32390e89-c8ff-4c26-ab83-fd69c1ba7bb5"
+              },
+              "dapAn": "C. Yes, they shouldn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e04f3dd2-cb72-4694-8383-5a30c3fd859f"
+              },
+              "dapAn": "D. No, they shouldn’t.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "Each week, I walked a little longer. After a month, I started to feel better. After two months, people started to ask me if I was working out! There are always ways to get more exercise into your life. You should try walking a little more.<br />\n<br />\n<i>Mỗi tuần, tôi đi bộ một quãng đường dài hơn. Sau một tháng, tôi bắt đầu cảm thấy tốt hơn. Sau hai tháng, mọi người bắt đầu hỏi tôi có tập thể dục không! Luôn có nhiều cách để tập thể dục nhiều hơn trong cuộc sống của bạn. Bạn nên thử đi bộ nhiều hơn một chút.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_TC_L19/sounds/normal/TC_19_LISTENING_Listening 3.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "aeddb78a-8eaa-4c0c-8fa8-c78fa57aa6f8"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "1af29428-baf3-4f89-8971-752080a6ea5e"
+          },
+          "cauHoi": "How much time is left until the game?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "1efbbcfa-51e2-496c-99ea-662097e8cc1d"
+              },
+              "dapAn": "A. 3 weeks",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "627c09eb-d3e9-4988-9d4e-e0bde45c88a9"
+              },
+              "dapAn": "B. 2 weeks",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "ac7f50b3-78c7-4867-8b82-b597f4035d3c"
+              },
+              "dapAn": "C. 5 weeks",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "dbfc236d-838f-4771-98e0-53fc15d99e67"
+              },
+              "dapAn": "D. 4 weeks",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "9ad4ce26-b9e4-46a2-9125-3a7d57ddcac1"
+          },
+          "cauHoi": "What is the problem mentioned in the talk?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "e21f3b0d-bc1f-4b8f-8a39-1c8c3c665779"
+              },
+              "dapAn": "A. There is a lot of grass on the walls.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7665e99e-212a-4806-91d8-10fa88e92289"
+              },
+              "dapAn": "B. There is a lot of rocks on the ground.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3d13dd4e-5089-47f2-9582-7f2ce419c9a9"
+              },
+              "dapAn": "C. There is a lot of grass on the ground.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "17f0d714-9ccf-46e8-8784-7bcdb5b292de"
+              },
+              "dapAn": "D. There is a lot of ice on the ground.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ae0f4425-a022-448f-abbc-bfbe07f23bb6"
+          },
+          "cauHoi": "What is the effect of the mentioned problem?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8b68f9ee-3f71-46c1-8fbe-efa13a9a4340"
+              },
+              "dapAn": "A. It can make trainers sprained their ankle.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "14b62109-7419-403e-a5b6-31a675da1c92"
+              },
+              "dapAn": "B. It can make trainers break their arms.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7bcb1106-b557-48a6-9c19-ee139349ff87"
+              },
+              "dapAn": "C. It can make trainers break their legs.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5d686e39-9918-44c3-8e48-c808467dd5c7"
+              },
+              "dapAn": "D. It can make trainers break their toes.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "d40b0621-288c-41a9-a496-1ff08006a356"
+          },
+          "cauHoi": "Did the speaker suggest the other stop training?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ef80f38f-3df2-490d-a5e7-791a341c0206"
+              },
+              "dapAn": "A. No, he didn’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "9c13da4b-f4ff-48c2-aef6-a85b4f83d888"
+              },
+              "dapAn": "B. Yes, he did.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "28c42092-fbe9-41ff-9514-6e4856c8cc56"
+              },
+              "dapAn": "C. No, he did.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "afa8bd8b-3f44-4c42-8d73-9efa1eee474d"
+              },
+              "dapAn": "D. Yes, he does.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "I know there are only two weeks until the game, but I wouldn't do too much training if I were you,<br />\r\nespecially as it's winter now. The problem is that there is a lot of ice on the ground and if you sprained your ankle, you would not be able to train for days. So try and take it easy and do a little at a time.<br />\r\n<br />\r\n<i>Tôi biết rằng chỉ còn hai tuần nữa là đến trận đấu, nhưng nếu tôi là bạn, tôi sẽ không tập luyện quá nhiều, đặc biệt là bây giờ là mùa đông. Vấn đề là có rất nhiều băng trên mặt đất và nếu bạn bị bong gân mắt cá chân, bạn sẽ không thể tập luyện trong nhiều ngày. Vì vậy, hãy cố gắng thư giãn và tập luyện từng chút một.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_TC_L19/sounds/normal/TC_19_LISTENING_Listening 4.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "91f0f500-ab4e-4a8f-9ec0-6813b9e11db9"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "a1c6c2a0-102e-455c-aa78-c7798dcbfc11"
+          },
+          "cauHoi": "Is what you eat important?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d5716012-d345-4f8d-be1c-58eccb1c946c"
+              },
+              "dapAn": "A. Not really.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b68b232b-19cd-42de-9492-aa9f2971f113"
+              },
+              "dapAn": "B. No, it isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d03f1865-81aa-4a1a-95fa-8affee6697f2"
+              },
+              "dapAn": "C. Yes, it isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d1601312-43bd-44db-b09f-8a058f115768"
+              },
+              "dapAn": "D. Yes, it is.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "57167067-a93e-4701-9445-cb3f1859608e"
+          },
+          "cauHoi": "What does the speaker suggest?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8510ab20-b27f-4327-b1d5-cf7eae671c5d"
+              },
+              "dapAn": "A. add some fruit",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "81f3f837-c09e-4808-bd2b-d9cad5030918"
+              },
+              "dapAn": "B. add some carbohydrates",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "0d835be2-bef9-4d10-94f1-e5917c7f3ccb"
+              },
+              "dapAn": "C. add some sugar",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8fe10515-a1ca-403a-b666-3d6a58c890c9"
+              },
+              "dapAn": "D. add some meat",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "c40a2387-308c-4f68-8450-b0dc1489f455"
+          },
+          "cauHoi": "What do you eat nearly every day?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2021bace-d35f-4f8f-bcb5-9854bb8be86a"
+              },
+              "dapAn": "A. coca",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "925cff73-c3d7-41af-aec3-3af78df3d3e6"
+              },
+              "dapAn": "B. salt",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bc07afcc-18c8-4321-a296-387a2967bd0f"
+              },
+              "dapAn": "C. wine",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ce7a510d-a17c-413f-8fb7-a4c6bbbcdd14"
+              },
+              "dapAn": "D. meat",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "bce7dc87-bc57-431d-8318-3cf0b473fd31"
+          },
+          "cauHoi": "What is contained in pasta that gives energy?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f5560f12-76b8-4095-a745-7da334efddb1"
+              },
+              "dapAn": "A. protein",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0441c636-dbc9-44fa-99ad-5d72d103c8df"
+              },
+              "dapAn": "B. carbohydrates",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "370ce80c-c0b1-464e-9ff8-3e611e45dc76"
+              },
+              "dapAn": "C. glucose",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "aed5ff30-9b61-47cf-a23b-f30c9ea83bf3"
+              },
+              "dapAn": "D. fat",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "The important thing to think about is what you eat. I know you eat meat nearly every day, but it would be great if you changed what you eat a bit. If you added some pasta to your meals, the carbohydrates would give you a lot of energy.<br />\n <br />\n<i>Những gì bạn ăn là điều quan trọng cần suy nghĩ. Tôi biết bạn ăn thịt hầu như mỗi ngày, nhưng sẽ thật tuyệt nếu bạn thay đổi những gì bạn ăn một chút. Nếu bạn thêm một ít mì ống vào bữa ăn của mình, tinh bột sẽ cung cấp cho bạn rất nhiều năng lượng.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_TC_L19/sounds/normal/TC_19_LISTENING_Listening 5.mp3"
+    }
+  ]
+}

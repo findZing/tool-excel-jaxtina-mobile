@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "Grammar",
+  "videoUrl": "4SKILLS_PRE_S_L10/grammar.mp4",
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:00:47",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P1",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "I’m a student. I ____________ languages.",
+            "_id": "ea1f329d-369b-4fb6-9d78-3a2f51c5d45a",
+            "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/video-practice/1.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "study",
+                "_id": "824db348-15b1-4dbd-95b8-1a52bf82e843"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "studies",
+                "_id": {
+                  "$oid": "dc5a4428-cb33-463d-8c12-c4d64b56b561"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "studying",
+                "_id": {
+                  "$oid": "017b7f31-67a6-4232-8f59-4a5c482dc4e9"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "I ____________ English, French, and Spanish.",
+            "_id": "bc16bb6b-ae45-44ef-a6a1-340971a0a66e",
+            "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/video-practice/2.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "speak",
+                "_id": "abac98a7-76bf-4fed-a512-b6cb8ee5afcc"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "speaks",
+                "_id": {
+                  "$oid": "62d207a0-17a9-47c7-bb10-235b2cc9ca13"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "don’t speak",
+                "_id": {
+                  "$oid": "bb604832-e708-48b8-a948-302caa1b3be9"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "I ____________ Chinese.",
+            "_id": "91f72203-c9f3-44b6-b655-3690d32015cf",
+            "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/video-practice/3.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "speak",
+                "_id": "9cdb8f22-a2d2-4d93-bbf1-d461512410bb"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "don’t speak",
+                "_id": {
+                  "$oid": "5b0db793-bf58-4660-9979-52ec84258ea5"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "speaks",
+                "_id": {
+                  "$oid": "49435a59-9bcb-4cf5-8689-8e6b93801bc6"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "I ____________ a job.",
+            "_id": "5fc93556-0fa3-4754-a129-49533e286a25",
+            "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/video-practice/4.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "have",
+                "_id": "c0c3d846-1688-4a94-9880-6d3ef1ae537f"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "has",
+                "_id": {
+                  "$oid": "919baffb-e75f-415a-a7d2-2d856627da3e"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "don’t have",
+                "_id": {
+                  "$oid": "b1995e29-dbe4-44ca-9b91-ac6ac4cf949a"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "I ____________ with her parents and her grandfather.",
+            "_id": "ddc9afd2-10b4-44ae-861f-e5266b842063",
+            "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/video-practice/5.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "don’t live",
+                "_id": "0de88261-d319-49fd-be64-7a12297e86f1"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "live",
+                "_id": {
+                  "$oid": "efe46502-307c-4b69-887c-028257719ce8"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "lives",
+                "_id": {
+                  "$oid": "1b223d6d-5fa9-49e4-b3d7-a8d211f8b026"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "My brother doesn’t live in Lima. He ____________ in the UK.",
+            "_id": "0411f3ce-af6e-47d5-8f74-f5ee5ed00656",
+            "soundCauhoi": "4SKILLS_PRE_S_L10/sounds/video-practice/6.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "doesn’t work",
+                "_id": "12185692-3f05-4858-9fce-80701b479c21"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "works",
+                "_id": {
+                  "$oid": "692204b1-86b2-4ec9-98b6-cce02e1975bf"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "work",
+                "_id": {
+                  "$oid": "cda4c9ca-e858-4623-a828-874dc43a59b3"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:00:47",
+      "timeEnd": "0:04:36",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P5",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "I go to work by bus _______ the morning.",
+            "_id": "9bdf7d30-473d-424a-9a9a-fe4f12151d69",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "in",
+                "_id": "6abe8abe-db6a-40b4-9bd0-fbe4f0fae7f5"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "on",
+                "_id": {
+                  "$oid": "ffbfc344-f523-4421-b5b4-964893f9080a"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "at",
+                "_id": {
+                  "$oid": "c5c3d336-0d0a-40b0-9cf0-84984e8fa679"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "I start work _______ 7.00 a.m. I work in an office.",
+            "_id": "fc4477d3-c833-4b78-9205-9b16c1198e71",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "in",
+                "_id": "5cc267ff-6526-4f3b-9896-2c7b852f4275"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "on",
+                "_id": {
+                  "$oid": "2e647758-9c71-413a-b73c-1d61904d7499"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "at",
+                "_id": {
+                  "$oid": "76b0705a-66e7-4420-9b24-279516da2963"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "I go to college _______ Wednesday and on Thursday.",
+            "_id": "f9cd5af6-be30-434a-88e6-570737bf0f49",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "in",
+                "_id": "bfe06276-1e75-42ad-a501-561897d50c49"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "on",
+                "_id": {
+                  "$oid": "2666aa1d-f01e-447e-a6d0-f9b454ce0c7d"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "at",
+                "_id": {
+                  "$oid": "7c2b986a-cc73-4e74-95e8-1546cc36a990"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "The class is _______ the evening.",
+            "_id": "6dcaeb91-1713-40f2-9d3f-584c6b166e06",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "in",
+                "_id": "6438bcf2-87dc-4b83-9ed8-7246159e0603"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "on",
+                "_id": {
+                  "$oid": "45c76194-757a-4b7f-b311-62c78cec0772"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "at",
+                "_id": {
+                  "$oid": "822b5d43-d762-4b2a-880a-1d93289476f4"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "It starts _______ 6.00 p.m. and ends at 8.00 p.m.",
+            "_id": "f4e48cfa-a4fb-427a-8836-71da539e7412",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "in",
+                "_id": "b34dac14-82ba-4bc1-bcc2-3a6106ff068b"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "on",
+                "_id": {
+                  "$oid": "d964a840-80af-46fa-a49b-4583aafde31b"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "at",
+                "_id": {
+                  "$oid": "ec65cf99-825e-4720-87fb-f5e2dd9aebf0"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "I study _______ the weekend.",
+            "_id": "9899815f-2afe-4610-a498-ce6a1ef83ee9",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "on",
+                "_id": "023d6cab-734e-4164-99f7-55019d5094ad"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "at",
+                "_id": {
+                  "$oid": "15ad9315-fc13-4a65-bb52-b7ca59968d0d"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "both are correct",
+                "_id": {
+                  "$oid": "2d13f015-da05-4d79-98eb-8693a73efb92"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "noiDungVideo": [
+    {
+      "timeEnd": "0:00:47",
+      "noiDung": "<b><span style=\"color:red\">Present simple tense <i>(Thì hiện tại đơn)</i><br />\n1. Function <i>(Cách dùng)</i> & Affirmative form <i>(Dạng khẳng định)</i></span></b><br />\n<b>Function <i>(Cách dùng)</i></b> <br />\nThì hiện tại đơn mô tả: <br />\n+ Một thói quen hay hành động lặp đi lặp lại<br />\n+ Chân lý, sự thật hiển nhiên<br />\n<br />\n<b>Form <i>(Cấu trúc):</i></b> <b>A</b><b>ffirmative</b> <b><i>(Khẳng định)</i></b>\n<table>\n        <tbody>\n                <tr>\n                        <td><b>Subjective Pronouns</b><br />\n                        <b><i>(Đại từ chủ ngữ)</i></b></td>\n                        <td><b>Verb</b><br />\n                        <b><i>(Động từ)</i></b></td>\n                        <td> </td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">I / we / you / they</td>\n                        <td><b>go</b></td>\n                        <td>to college.</td>\n                </tr>\n                <tr>\n                        <td><b>like</b></td>\n                        <td>my job.</td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">He / she / it</td>\n                        <td><b>likes</b></td>\n                        <td>his / her job.</td>\n                </tr>\n                <tr>\n                        <td><b>goes</b></td>\n                        <td>to work by bus.</td>\n                </tr>\n                <tr>\n                        <td colspan=\"3\">Add <b><i>-s</i></b> to regular verbs. (thêm <i>-s</i> cho động từ thông thường)<br />\n                        Add <b><i>-es</i></b> to verbs ending with <i>-o, -sh, -ch</i> (thêm <i>-es</i> cho động từ có đuôi <i>-o, -sh, -ch</i>)</td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<b><span style=\"color:red\">2. Negative form <i>(Dạng phủ định)</i></span></b>\n\n<table>\n        <tbody>\n                <tr>\n                        <td><b>Subject Pronouns</b><br />\n                        <b><i>(Đại từ chủ ngữ)</i></b></td>\n                        <td><b>Verb</b><br />\n                        <b><i>(Động từ)</i></b></td>\n                        <td> </td>\n                </tr>\n                <tr>\n                        <td>I / we / you / they</td>\n                        <td><b>don't work</b></td>\n                        <td>in a coffee shop.</td>\n                </tr>\n                <tr>\n                        <td>He / she / it</td>\n                        <td><b>doesn't speak</b></td>\n                        <td>Spanish.</td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<b><span style=\"color:red\">3. Yes/No question <i>(Câu nghi vấn)</i></span></b><br />\n<b><i>-</i></b> <b>Yes/No question <i>(Câu nghi vấn)</i></b>\n\n<table>\n        <tbody>\n                <tr>\n                        <td><b>Do</b></td>\n                        <td>you / we / they</td>\n                        <td><b>work</b> on Saturday?</td>\n                </tr>\n                <tr>\n                        <td><b>Does</b></td>\n                        <td>he / she / it</td>\n                        <td><b>speak</b> Chinese?</td>\n                </tr>\n        </tbody>\n</table>\n <br />\n<b>-</b> <b>Short answer <i>(Câu trả lời ngắn)</i></b><br />\n+ <b>Affirmative</b> <i>(Khẳng định)</i>\n\n<table>\n        <tbody>\n                <tr>\n                        <td rowspan=\"2\">Yes,</td>\n                        <td>I / we / you / they</td>\n                        <td><b>do.</b></td>\n                </tr>\n                <tr>\n                        <td>he / she / it</td>\n                        <td><b>does.</b></td>\n                </tr>\n        </tbody>\n</table>\n<br />\n+ <b>Negative</b> <i>(Phủ định)</i>\n\n<table>\n        <tbody>\n                <tr>\n                        <td rowspan=\"2\">No,</td>\n                        <td>I / we / you / they</td>\n                        <td><b>don't.</b></td>\n                </tr>\n                <tr>\n                        <td>he / she / it</td>\n                        <td><b>doesn't.</b></td>\n                </tr>\n        </tbody>\n</table>"
+    },
+    {
+      "timeEnd": "0:04:36",
+      "noiDung": "<b><span style=\"color:red\">Prepositions of time <i>(Giới từ chỉ thời gian)</i></span></b><br />\n<b><span style=\"color:red\">1. In</span></b><br />\n<b>Months <i>(tháng)</i></b>: in January / in April<br />\n<b>Seasons <i>(mùa)</i></b>: in spring / in winter<br />\n<b>Years <i>(năm)</i></b>: in 1984 / in 2015<br />\n<b>Centuries <i>(thế kỷ)</i></b>: in the 20th century<br />\n<b>Times of day <i>(thời điểm trong ngày)</i></b>: in the morning / in the evening<br />\n<b>Longer periods of time <i>(giai đoạn thời gian)</i></b>: in the past / in the 1990s / in the holidays<br />\n<br />\n<b><span style=\"color:red\">2. On</span></b><br />\n<b>Days of the week <i>(ngày trong tuần)</i></b>: on Monday<br />\n<b>Days + parts of days <i>(ngày + thời điểm trong ngày)</i></b>: on Tuesday afternoon / on Saturday mornings<br />\n<b>Dates <i>(ngày trong lịch)</i></b>: on November 22nd<br />\n<b>Special days <i>(ngày đặc biệt)</i></b>: on my birthday / on New Year's Eve<br />\n<b>Exceptions <i>(ngoại lệ)</i></b>: on the weekend<br />\n<br />\n<b><span style=\"color:red\">3. At</span></b><br />\n<b>Clock times <i>(giờ đồng hồ)</i></b>: <i></i>at 7.30 a.m. / at 5 o'clock<br />\n<b>Festivals <i>(ngày lễ)</i></b>: at Christmas / at Easter<br />\n<b>Exceptions <i>(ngoại lệ)</i></b>: at night / at the weekend"
+    }
+  ]
+}

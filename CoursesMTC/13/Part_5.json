@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "aa39e586-12a1-4e9d-8799-401f65794f59"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’m Emma Watson, and our topic today is ____________’s remorse.",
+      "yNghia": "I'm Emma Watson, and our topic today is <span style=\"color:red\">buyer</span>'s remorse. <br />\n<i>Tôi là Emma Watson, và chủ đề của chúng ta hôm nay là sự hối hận của <span style=\"color:red\">người mua hàng</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0d9ea938-c325-4e1b-9548-837c1f7b0cc3"
+          },
+          "dapAn": "seller",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "573d7e31-e10e-40a9-8699-c1d89a3858d3"
+          },
+          "dapAn": "buyer",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ea557901-f2ef-4fe9-ad49-9296b79be76b"
+          },
+          "dapAn": "customer",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_1. I_m ... remorse.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_1. I_m ... remorse.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6d3ef13a-b412-4c10-9133-9b165be0c42a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Hello, Emma. This topic is very ____________ and I’d love to share about it.",
+      "yNghia": "Hello, Emma. This topic is very <span style=\"color:red\">interesting</span> and I'd love to share about it.<br />\n<i>Xin chào, Emma. Chủ đề này rất </i><i><span style=\"color:red\">thú vị </span></i><i>và tôi muốn chia sẻ về nó.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6c2fd11e-aec0-407c-b68f-170e4e709ce9"
+          },
+          "dapAn": "worrying",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "16a2885b-00c3-40e2-9ff3-98fd564cd881"
+          },
+          "dapAn": "interesting",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1642f304-c5f9-4732-9093-12a7dbb12cdc"
+          },
+          "dapAn": "fascinating",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_2. Hello ... it.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_2. Hello ... it.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f2d52680-1538-4ea3-a54c-047838f5ed72"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Steven, is there anything that you really wish you hadn’t ____________?",
+      "yNghia": "Steven, is there anything that you really wish you hadn't <span style=\"color:red\">bought</span>?<br />\n<i>Steven, có thứ gì mà bạn thực sự ước mình đã không </i><i><span style=\"color:red\">mua </span></i><i>không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6693be4b-66c5-4731-80d7-7aaa21edfc89"
+          },
+          "dapAn": "bought",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "541bc6c4-354d-4ed9-9213-b6cc0429e215"
+          },
+          "dapAn": "done",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f8e56e1a-d65c-4621-b410-9c46cb0284c5"
+          },
+          "dapAn": "said",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_3. Steven ... bought.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_3. Steven ... bought.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "29255545-6105-44cd-96f8-3c072beaa832"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____________ of things. My worst decision was to get a swimming pool.",
+      "yNghia": "<span style=\"color:red\">Tons</span> of things. My worst decision was to get a swimming pool.<br />\n<i><span style=\"color:red\">Rất nhiều </span></i><i>thứ. Quyết định tệ nhất của tôi là có một cái bể bơi.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8625e042-0a70-4b21-9a41-1434fcf28660"
+          },
+          "dapAn": "Tons",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4cd13c75-33c4-49a8-9908-d627aa67c4b0"
+          },
+          "dapAn": "Lots",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fe899b14-806d-4720-9108-364fd0eb7f72"
+          },
+          "dapAn": "A lot",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_4. tons ... pool.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_4. tons ... pool.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e539f8ea-2e25-46cb-9181-b7962ea1371c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’m so ____________ about the reason for your remorse?",
+      "yNghia": "I'm so <span style=\"color:red\">curious</span> about the reason for your remorse? <br />\n<i>Tôi rất </i><i><span style=\"color:red\">tò mò </span></i><i>về lý do hối hận của bạn?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a611df3b-e28b-4239-a9fa-bc32edf60362"
+          },
+          "dapAn": "excited",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "97440dde-f132-4ded-a9c6-4ac4042a71dc"
+          },
+          "dapAn": "curious",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e1962450-19aa-45d4-a6f0-9df1ab5b60e2"
+          },
+          "dapAn": "interested",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_5. I_m ... remorse.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_5. I_m ... remorse.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9a6d7a5b-259a-45a3-98cb-f3e467e043d9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We don’t have time to use the pool, and taking care of it is very ____________.",
+      "yNghia": "We don't have time to use the pool, and taking care of it is very <span style=\"color:red\">expensive</span>.<br />\n<i>Chúng tôi không có thời gian để sử dụng hồ bơi và việc chăm sóc nó rất </i><i><span style=\"color:red\">tốn kém</span></i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1ade47b8-7896-4a5b-b871-58af6a5b9563"
+          },
+          "dapAn": "expensive",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e1fbdb86-2752-4782-9608-eaa8e1796e68"
+          },
+          "dapAn": "time-consuming",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "34116509-3217-41f2-9ade-d3d85f2a30e1"
+          },
+          "dapAn": "tiring",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_6. We ... expensive.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_6. We ... expensive.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "72741061-b152-4de7-b557-6a326c0f5c77"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Just a few ____________ after buying it. We definitely wasted our money!",
+      "yNghia": "Just a few <span style=\"color:red\">months</span> after buying it. We definitely wasted our money!<br />\n<i>Chỉ vài </i><i><span style=\"color:red\">tháng</span></i><i> sau khi mua nó. Chúng tôi chắc chắn đã lãng phí tiền của chúng tôi!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b84c16b9-baf7-473a-abe3-31e7a1fded06"
+          },
+          "dapAn": "days",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "af5662a5-4422-4254-ba5c-7d6a0524240e"
+          },
+          "dapAn": "months",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3e0be312-68e2-49fa-9dce-91275279d16e"
+          },
+          "dapAn": "weeks",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_7. Just ... money.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_7. Just ... money.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5f4b2821-882a-4262-a17d-15bfcddd1620"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I can understand why you might ____________ that. Any other regrets, Steven?",
+      "yNghia": "I can understand why you might <span style=\"color:red\">regret </span>that. Any other regrets, Steven?<br />\n<i>Tôi có thể hiểu tại sao bạn có thể </i><i><span style=\"color:red\">hối tiếc </span></i><i>điều đó. Còn điều gì hối tiếc không, Steven?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8750c62e-f666-45d8-8202-b666a6015a93"
+          },
+          "dapAn": "regret",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5abef4da-97f2-4e1d-a311-6d14d844fe03"
+          },
+          "dapAn": "say",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "83559a10-b1ab-4cc6-8d97-40e738ba9ff2"
+          },
+          "dapAn": "think about",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_8. I ... Steven.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_8. I ... Steven.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a501e900-31c8-4765-92ac-a2d65b1e3e1b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Well, I bought several expensive pieces of ____________ equipment. Guess how often I use them?",
+      "yNghia": "Well, I bought several expensive pieces of <span style=\"color:red\">exercise </span>equipment. Guess how often I use them?<br />\n<i>Chà, tôi đã mua một vài món thiết bị </i><i><span style=\"color:red\">tập thể dục</span> </i><i>đắt tiền. Đoán xem tôi có thường xuyên sử dụng chúng không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1d8e4482-093b-4442-9d0e-bf868c858305"
+          },
+          "dapAn": "digital",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f3dc3ca0-6183-4dcd-bd88-65b208e82e28"
+          },
+          "dapAn": "exercise",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "11969697-b429-4d26-89b6-cb7887fbb187"
+          },
+          "dapAn": "household",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_9. Well ... them.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_9. Well ... them.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "eae6b444-e6ad-4af2-bba0-03ed42af1d03"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____________ a lot of money on exercise equipment I almost never use.",
+      "yNghia": "I <span style=\"color:red\">spent </span>a lot of money on exercise equipment I almost never use. <br />\n<i>Tôi đã <span style=\"color:red\">chi </span>rất nhiều tiền cho các thiết bị tập thể dục mà tôi hầu như không bao giờ sử dụng.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fc4aa85a-0e25-4573-a759-f8bfcbdfde7b"
+          },
+          "dapAn": "spent",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "89a78370-4cc6-447a-8e35-e714cea41f88"
+          },
+          "dapAn": "wasted",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e6129ca1-e516-49d2-a797-84fe04626532"
+          },
+          "dapAn": "saved",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_10. I ... use.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_10. I ... use.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "14a96a95-d00d-4798-bdae-ad546e83d959"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You should have ____________ the result before buying it.",
+      "yNghia": "You should have <span style=\"color:red\">looked into</span> the result before buying it.<br />\n<i>Bạn nên <span style=\"color:red\">xem xét </span>kết quả trước khi mua nó.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0591360d-9a33-4246-8b52-99cb2428f7dd"
+          },
+          "dapAn": "looked into",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7e2793ab-14d8-4802-b0dc-2ecf5ec4749c"
+          },
+          "dapAn": "thought about",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "28b49f1d-5efa-4cb5-b4c5-17e232338d18"
+          },
+          "dapAn": "considered",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_11. You ... it.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_11. You ... it.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "36b29e3e-aae8-4c40-95cd-19395afe978a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It’s not the ____________ blunder that I made.",
+      "yNghia": "It's not the <span style=\"color:red\">last</span> blunder that I made. <br />\n<i>Đó không phải là sai lầm <span style=\"color:red\">cuối cùng</span> mà tôi mắc phải.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fa40da63-cd0e-46cd-9e84-2384a23c0884"
+          },
+          "dapAn": "only",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f8dbf3b9-ce36-4a24-8539-c0f0763f0826"
+          },
+          "dapAn": "first",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "afe7adef-2feb-4f1a-898e-e57b0f38adf4"
+          },
+          "dapAn": "last",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_12. It_s ... made.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_12. It_s ... made.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f4f48861-f796-471e-91af-2238870898ea"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Well, my wife and I were ____________ to buy a vacation home in Florida and we said yes.",
+      "yNghia": "Well, my wife and I were <span style=\"color:red\">offered</span> to buy a vacation home in Florida and we said yes.<br />\n<i>Ừ thì, tôi và vợ được <span style=\"color:red\">đề nghị</span> mua một ngôi nhà nghỉ dưỡng ở Florida và chúng tôi đã đồng ý. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "98f369e4-9baf-45c1-8b7d-d324cb210a2e"
+          },
+          "dapAn": "asked",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "73007a08-9a0b-4a99-85b7-2f8fca7f526f"
+          },
+          "dapAn": "offered",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7bb75859-7f43-48b3-bd16-30275f5b3f7a"
+          },
+          "dapAn": "about",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_13. Well ... yes.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_13. Well ... yes.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "0d9a1a3c-f213-40fb-8bbe-4db3c9157371"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It might be ____________ to always go to the same place.",
+      "yNghia": "It might be <span style=\"color:red\">boring</span> to always go to the same place.  <br />\n<i>Cứ đi tới một nơi mãi cũng </i><span style=\"color:red\"><i>chán</i></span><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e5ffa396-07fa-45a7-81ff-6f836bcf26e2"
+          },
+          "dapAn": "fun",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f064eab2-2d38-4708-be27-c7da7e66294b"
+          },
+          "dapAn": "nice",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bba24802-202e-4997-a071-6de8ac730450"
+          },
+          "dapAn": "boring",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_14. It ... place.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_14. It ... place.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f1aa1c51-7f25-4848-b385-723ccaeccb8b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Exactly. We finally sold it for much less than we ____________, so we lost a lot of money.",
+      "yNghia": "Exactly. We finally sold it for much less than we <span style=\"color:red\">paid</span>, so we lost a lot of money. <br />\n<i>Chính xác. Cuối cùng chúng tôi đã bán nó với giá thấp hơn nhiều so với số tiền chúng tôi <span style=\"color:red\">trả</span>, vì vậy chúng tôi đã mất rất nhiều tiền.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ce511e18-6c24-46c6-a430-381c06a38d3e"
+          },
+          "dapAn": "paid",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "edc067c7-897b-4cba-9043-dfa2ad37354e"
+          },
+          "dapAn": "earned",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "921afb60-b0d3-4603-8b5d-cf636bc6c1c6"
+          },
+          "dapAn": "had",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_15. Exactly ... money.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_15. Exactly ... money.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2efcdbe2-b46c-4852-9dbf-05e1fdb219d5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Well, my husband and I decided to buy a ____________ home in Florida.",
+      "yNghia": "Well, my husband and I decided to buy a <span style=\"color:red\">vacation</span> home in Florida. <br />\n<i>Chà, chồng tôi và tôi quyết định mua một căn nhà để<span style=\"color:red\"> </span></i><i><span style=\"color:red\">nghỉ dưỡng</span> </i><i>ở Florida.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "30da3c82-cb0b-41d3-aeb1-bd9e8ea883d4"
+          },
+          "dapAn": "vacation",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "19f0982e-4353-4197-a75a-d0d219b9c9c4"
+          },
+          "dapAn": "holiday",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0c4aa0dc-65da-44be-b627-72dddf2edc89"
+          },
+          "dapAn": "big",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_16. Well ... Florida.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_16. Well ... Florida.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6745340e-88d2-46d2-9494-f888a057483e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "But they can be expensive, and when you have one, you really don’t want to spend ____________ going on vacation in other places.",
+      "yNghia": "But they can be expensive, and when you have one, you really don't want to spend <span style=\"color:red\">money </span>going on vacation in other places. <br />\n<i>Nhưng chúng có thể đắt đỏ, và khi bạn có một căn như vậy, bạn sẽ không thật sự muốn tiêu <span style=\"color:red\">tiền </span>vào kì nghỉ ở nơi nào khác nữa. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ef7a04bd-a657-4009-8bd3-f81d65d8f053"
+          },
+          "dapAn": "time",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4a43017a-9077-4afb-9db0-4251b37771d3"
+          },
+          "dapAn": "money",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "edd25414-3dfe-4d63-a6e0-d4e41120c3b2"
+          },
+          "dapAn": "energy",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_17. But ... places.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_17. But ... places.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9bfc2edd-3add-40f1-a0d5-d4b052bb098e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It can be boring to always go to the same place, but it’s very hard to ____________ a vacation home.",
+      "yNghia": "It can be boring to always go to the same place, but it's very hard to <span style=\"color:red\">sell </span>a vacation home. <br />\n<i>Cứ đi mãi đến một nơi có thể chán thật, nhưng cũng rất khó để <span style=\"color:red\">bán </span>được một căn nhà để nghỉ dưỡng.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "46ba6d84-d071-42fe-b68d-bf005fedad2e"
+          },
+          "dapAn": "sell",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ff3f487a-f654-4524-a0a0-73ebfd02ba8d"
+          },
+          "dapAn": "buy",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "23b6e7d2-3ef6-4cbc-be5d-e8b91392a181"
+          },
+          "dapAn": "have",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_18. It ... home.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_18. It ... home.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "284d1730-b4a7-4ea7-a6d6-63ccc33e2c45"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I bought an expensive ____________ computer, but I don’t use it very much because I almost always use my laptop.",
+      "yNghia": "I bought an expensive <span style=\"color:red\">desktop </span>computer, but I don't use it very much because I almost always use my laptop. <br />\n<i>Tôi có mua một cái máy tính <span style=\"color:red\">bàn </span>rất đắt, nhưng tôi chẳng dùng nó nhiều lắm bởi vì tôi gần như toàn dùng máy tính xách tay của tôi. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c358c6ce-7caa-4a30-9fda-ea7cb58668d1"
+          },
+          "dapAn": "desktop",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "099146bb-a4b9-49e6-8a8c-af7e8d4ad5d0"
+          },
+          "dapAn": "personal",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5f28f13e-c560-4960-a3e7-b44165d4fefc"
+          },
+          "dapAn": "portable",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_19. I ... laptop.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_19. I ... laptop.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5b5c25ca-a168-4d86-9e9d-03b3f327ca1f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Most people now say they use only a laptop, or even just a ____________.",
+      "yNghia": "Most people now say they use only a laptop, or even just a <span style=\"color:red\">tablet</span>. <br />\n<i>Gần như tất cả mọi người bây giờ đều nói rằng họ chỉ sử dùng máy tính xách tay, hoặc là chỉ dùng một <span style=\"color:red\">máy tính bảng</span>.  </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bc5e0a79-9d43-4963-8c21-a02da976134d"
+          },
+          "dapAn": "tablet",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f876c047-5033-4303-9274-4929c2f26f73"
+          },
+          "dapAn": "ipad",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ccf0f0c0-0bb5-4c98-864b-c2c7a63cc721"
+          },
+          "dapAn": "smarphone",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L13/sounds/normal/MTC_13_LISTENING_20. Most ... tablet.mp3",
+      "soundSlow": "4SKILLS_MTC_L13/sounds/slow/MTC_13_LISTENING_20. Most ... tablet.mp3"
+    }
+  ]
+}

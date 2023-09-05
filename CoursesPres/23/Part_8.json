@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L23/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L23/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "576c0473-615a-4759-8bcc-ed4c6d037283"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Mike",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "de3c3cd3-4cea-4c77-bbd6-2fb667a16205"
+          },
+          "dapAn": "Look! These are some pictures of my family.",
+          "phienAm": "/lʊk/. /ðiːz ɑːr sʌm ˈpɪkʧərz ɒv maɪ ˈfæmɪli/",
+          "yNghia": "\nNhìn này! Đây là một vài bức ảnh của gia đình tớ.",
+          "normal": {
+            "start": "00:00:00.039",
+            "end": "00:00:03.386"
+          },
+          "slow": {
+            "start": "00:00:00.447",
+            "end": "00:00:04.530"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3d34d1c1-57fc-435d-b9cb-79c23cba6670"
+          },
+          "dapAn": "That’s my grandmother. She’s young in this picture.",
+          "phienAm": "/ðæts maɪ ˈgrænmʌðər/. /ʃiːz jʌŋ ɪn ðɪs ˈpɪkʧər/",
+          "yNghia": "\nĐó là bà của tớ. Bà còn trẻ trong bức ảnh này.",
+          "normal": {
+            "start": "00:00:10.547",
+            "end": "00:00:14.097"
+          },
+          "slow": {
+            "start": "00:00:14.177",
+            "end": "00:00:18.399"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "49a71626-0f2e-43d8-8b27-893c974be9d7"
+          },
+          "dapAn": "And the boy in that picture is my brother.",
+          "phienAm": "/ænd ðə bɔɪ ɪn ðæt ˈpɪkʧər ɪz maɪ ˈbrʌðər/",
+          "yNghia": "\nVà cậu bé trong bức ảnh này là em trai của tớ.",
+          "normal": {
+            "start": "00:00:16.846",
+            "end": "00:00:19.760"
+          },
+          "slow": {
+            "start": "00:00:22.789",
+            "end": "00:00:26.145"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e9f764c9-c4c7-4e01-a443-87bc4191babc"
+          },
+          "dapAn": "Yeah, I think he likes the bike in the picture.",
+          "phienAm": "/jeə aɪ θɪŋk hiː laɪks ðə baɪk ɪn ðə ˈpɪkʧər/",
+          "yNghia": "\nỪ, tớ nghĩ em ấy thích chiếc xe đạp trong bức ảnh.",
+          "normal": {
+            "start": "00:00:22.633",
+            "end": "00:00:25.854"
+          },
+          "slow": {
+            "start": "00:00:29.528",
+            "end": "00:00:33.415"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9dcd1fb0-210d-467c-8f94-5abdd102da2c"
+          },
+          "dapAn": "My sister. She looks sad because of the rain.",
+          "phienAm": "/maɪ ˈsɪstər/. /ʃiː lʊks sæd bɪˈkəz ɒv ðə reɪn/",
+          "yNghia": "\nChị tớ. Chị ấy buồn bởi vì trời mưa.",
+          "normal": {
+            "start": "00:00:30.348",
+            "end": "00:00:33.754"
+          },
+          "slow": {
+            "start": "00:00:40.462",
+            "end": "00:00:44.712"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "65c5af28-6d55-4f17-993b-ff2230ef78a2"
+          },
+          "dapAn": "Yes, they are. They’re tired from working.",
+          "phienAm": "/jes ðeɪ ɑːr/. /ðeər ˈtaɪəd frɒm ˈwɜːkɪŋ/",
+          "yNghia": "\nĐúng vậy. Họ đang mệt mỏi vì làm việc.",
+          "normal": {
+            "start": "00:00:37.899",
+            "end": "00:00:41.223"
+          },
+          "slow": {
+            "start": "00:00:50.221",
+            "end": "00:00:54.443"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "619e1b1b-c2c9-43a4-b53e-b29bfdd66ead"
+          },
+          "dapAn": "Yeah. And that man is my grandfather.",
+          "phienAm": "/jeə/. /ænd ðæt mæn ɪz maɪ ˈgrændfɑːðər/",
+          "yNghia": "\nỪ. Và người đàn ông đó là ông của tớ.",
+          "normal": {
+            "start": "00:00:45.430",
+            "end": "00:00:48.364"
+          },
+          "slow": {
+            "start": "00:01:00.399",
+            "end": "00:01:04.258"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ab3f083e-e700-4e09-8e2c-dc47b3db866e"
+          },
+          "dapAn": "He looks sad. I think he misses us.",
+          "phienAm": "/hiː lʊks sæd/. /aɪ θɪŋk hiː ˈmɪsɪz ʌs/",
+          "yNghia": "\nÔng có vẻ buồn. Tớ nghĩ ông nhớ chúng tớ.",
+          "normal": {
+            "start": "00:00:52.181",
+            "end": "00:00:55.177"
+          },
+          "slow": {
+            "start": "00:01:10.186",
+            "end": "00:01:13.905"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "40b8d437-e184-43c8-b1e0-6c045ba4b206"
+          },
+          "dapAn": "It’s me. I think I’m hungry in that picture.",
+          "phienAm": "/ɪts miː/. /aɪ θɪŋk aɪm ˈhʌŋgri ɪn ðæt ˈpɪkʧər/",
+          "yNghia": "\nLà tớ. Tớ nghĩ tớ đang đói trong bức ảnh đó.",
+          "normal": {
+            "start": "00:01:01.040",
+            "end": "00:01:04.532"
+          },
+          "slow": {
+            "start": "00:01:23.328",
+            "end": "00:01:27.383"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "170a2125-c4f1-482e-86b1-8ed0ea0e2fc7"
+          },
+          "dapAn": "A bit. Let’s go out for dinner.",
+          "phienAm": "/eɪ bɪt/. /lets gəʊ aʊt fɔːr ˈdɪnər/",
+          "yNghia": "\nMột chút. Cùng ra ngoài ăn tối đi.",
+          "normal": {
+            "start": "00:01:06.606",
+            "end": "00:01:09.027"
+          },
+          "slow": {
+            "start": "00:01:30.738",
+            "end": "00:01:33.646"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9f1ee4bd-3e26-47f0-bab2-63175b45c721"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Nina",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c3ce78e0-6759-4e97-97d8-f81db246b40c"
+          },
+          "dapAn": "Wow! Who is this woman? She looks very happy.",
+          "phienAm": "/waʊ/. /huː ɪz ðɪs ˈwʊmən/. /ʃiː lʊks ˈveri ˈhæpi/",
+          "yNghia": "\nỒ! Người phụ nữ này là ai vậy? Cô ấy trông rất hạnh phúc.",
+          "normal": {
+            "start": "00:00:04.186",
+            "end": "00:00:09.624"
+          },
+          "slow": {
+            "start": "00:00:05.313",
+            "end": "00:00:13.450"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ca0e221d-628b-4ccb-88a8-abce32101bdf"
+          },
+          "dapAn": "She’s beautiful.",
+          "phienAm": "/ʃiːz ˈbjuːtɪfl/",
+          "yNghia": "\nBà thật đẹp.",
+          "normal": {
+            "start": "00:00:14.692",
+            "end": "00:00:16.067"
+          },
+          "slow": {
+            "start": "00:00:19.210",
+            "end": "00:00:21.699"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f932d4c0-a2c1-45d6-9263-09b33c2982d2"
+          },
+          "dapAn": "He looks excited.",
+          "phienAm": "/hiː lʊks ɪkˈsaɪtɪd/",
+          "yNghia": "\nEm ấy trông rất hào hứng.",
+          "normal": {
+            "start": "00:00:20.560",
+            "end": "00:00:21.935"
+          },
+          "slow": {
+            "start": "00:00:26.592",
+            "end": "00:00:28.969"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fd5bbaa5-05ed-44cd-b167-c194dcbb183a"
+          },
+          "dapAn": "And the girl in this picture? Who is she?",
+          "phienAm": "/ænd ðə gɜːl ɪn ðɪs ˈpɪkʧər/. /huː ɪz ʃiː/",
+          "yNghia": "\nVà cô gái trong bức ảnh này thì sao? Cô ấy là ai?",
+          "normal": {
+            "start": "00:00:26.470",
+            "end": "00:00:29.568"
+          },
+          "slow": {
+            "start": "00:00:34.170",
+            "end": "00:00:39.651"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "81f21a2e-5ca7-4721-b44a-2370140e0ec9"
+          },
+          "dapAn": "Oh, are they your parents?",
+          "phienAm": "/əʊ ɑːr ðeɪ jɔːr ˈpeərənts/",
+          "yNghia": "\nÔ, họ có phải là bố mẹ cậu không?",
+          "normal": {
+            "start": "00:00:34.432",
+            "end": "00:00:37.284"
+          },
+          "slow": {
+            "start": "00:00:45.439",
+            "end": "00:00:49.550"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a83fe19d-294c-46ac-b2c1-087bbbde6649"
+          },
+          "dapAn": "I guess they don’t have much free time.",
+          "phienAm": "/aɪ ges ðeɪ dəʊnt hæv mʌʧ friː taɪm/",
+          "yNghia": "\nTớ đoán là họ không có nhiều thời gian rảnh.",
+          "normal": {
+            "start": "00:00:42.106",
+            "end": "00:00:44.609"
+          },
+          "slow": {
+            "start": "00:00:55.310",
+            "end": "00:00:59.476"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5236eb6b-e2e7-4bd4-9a54-ee6385bb1290"
+          },
+          "dapAn": "Oh, he’s sitting on the swing.",
+          "phienAm": "/əʊ hiːz ˈsɪtɪŋ ɒn ðə swɪŋ/",
+          "yNghia": "\nỒ, ông ấy đang ngồi trên xích đu.",
+          "normal": {
+            "start": "00:00:49.288",
+            "end": "00:00:51.401"
+          },
+          "slow": {
+            "start": "00:01:05.013",
+            "end": "00:01:09.123"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "be34f2c8-0774-4919-969a-8f561307fc18"
+          },
+          "dapAn": "I see. And who is that boy with all the cookies?",
+          "phienAm": "/aɪ siː/. /ænd huː ɪz ðæt bɔɪ wɪð ɔːl ðə ˈkʊkiz/",
+          "yNghia": "\nTớ hiểu. Và cậu bé với tất cả những cái bánh quy đó là ai?",
+          "normal": {
+            "start": "00:00:56.059",
+            "end": "00:01:00.532"
+          },
+          "slow": {
+            "start": "00:01:14.744",
+            "end": "00:01:22.294"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "024aaf5e-134d-4e3f-80ba-37b565cf5c36"
+          },
+          "dapAn": "Are you hungry now?",
+          "phienAm": "/ɑːr juː ˈhʌŋgri naʊ/",
+          "yNghia": "\nBây giờ cậu có đói không?",
+          "normal": {
+            "start": "00:01:04.882",
+            "end": "00:01:06.175"
+          },
+          "slow": {
+            "start": "00:01:27.914",
+            "end": "00:01:30.095"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "82494d7d-5952-46c6-9587-b9e5094409aa"
+          },
+          "dapAn": "That’s a good idea.",
+          "phienAm": "/ðæts eɪ gʊd aɪˈdɪə/",
+          "yNghia": "\nÝ hay đó.",
+          "normal": {
+            "start": "00:01:09.449",
+            "end": "00:01:10.716"
+          },
+          "slow": {
+            "start": "00:01:33.982",
+            "end": "00:01:36.387"
+          }
+        }
+      ]
+    }
+  ]
+}

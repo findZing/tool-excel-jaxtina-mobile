@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_TC_L20/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_TC_L20/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "c002ee28-b434-40d9-a1cc-244665c9fb5c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Jake",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3e18774f-83f4-4f47-9686-7ff8697056cd"
+          },
+          "dapAn": "How is your living situation, Ivy?",
+          "phienAm": "/haʊ ɪz jɔːr ˈlɪvɪŋ ˌsɪtjʊˈeɪʃən ˈaɪvi/",
+          "yNghia": "\nTình hình cuộc sống của bạn thế nào, Ivy?",
+          "normal": {
+            "start": "00:00:00.515",
+            "end": "00:00:03.010"
+          },
+          "slow": {
+            "start": "00:00:00.760",
+            "end": "00:00:03.861"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8b01b1ff-0bc3-45c5-8633-dde90e1dfb17"
+          },
+          "dapAn": "What’s wrong?",
+          "phienAm": "/wɒts rɒŋ/",
+          "yNghia": "\nCó chuyện gì vậy?",
+          "normal": {
+            "start": "00:00:12.754",
+            "end": "00:00:13.704"
+          },
+          "slow": {
+            "start": "00:00:18.191",
+            "end": "00:00:19.478"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b5625a3b-e4e2-4971-b89d-c3d40f05ee21"
+          },
+          "dapAn": "Oh, that’s terrible. What are you going to do about that?",
+          "phienAm": "/əʊ ðæts ˈterəbl/. /wɒt ɑːr juː ˈgəʊɪŋ tuː duː əˈbaʊt ðæt/",
+          "yNghia": "\nỒ, thật kinh khủng. Bạn sẽ làm gì về điều đó?",
+          "normal": {
+            "start": "00:00:18.338",
+            "end": "00:00:22.299"
+          },
+          "slow": {
+            "start": "00:00:27.550",
+            "end": "00:00:32.990"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "226ed545-2681-4f09-b657-a42fdaeb105d"
+          },
+          "dapAn": "You could talk to your roommates about sharing the bills.",
+          "phienAm": "/juː kʊd tɔːk tuː jɔːr ˈruːmmeɪts əˈbaʊt ˈʃeərɪŋ ðə bɪlz/",
+          "yNghia": "\nBạn có thể nói chuyện với bạn cùng phòng về việc chia sẻ hóa đơn.",
+          "normal": {
+            "start": "00:00:28.161",
+            "end": "00:00:31.330"
+          },
+          "slow": {
+            "start": "00:00:43.343",
+            "end": "00:00:48.315"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2a210d22-3d76-47f7-ac7c-d8a7585b4a8c"
+          },
+          "dapAn": "I think you should move. It’s terrible to live with roommates who are irresponsible.",
+          "phienAm": "/aɪ θɪŋk juː ʃʊd muːv/. /ɪts ˈterəbl tuː lɪv wɪð ˈruːmmeɪts huː ɑːrˌɪrɪsˈpɒnsəbl/",
+          "yNghia": "\nTôi nghĩ bạn nên chuyển nhà thôi. Thật tồi tệ khi sống với những người bạn cùng phòng vô trách nhiệm.",
+          "normal": {
+            "start": "00:00:37.667",
+            "end": "00:00:42.578"
+          },
+          "slow": {
+            "start": "00:00:58.259",
+            "end": "00:01:05.220"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5e7d3cd8-e491-4fb9-9049-69bd216783f6"
+          },
+          "dapAn": "There’s a studio apartment near my work. The neighborhood is quite nice.",
+          "phienAm": "/ðeəz ei ˈstjuːdɪəʊ əˈpɑːtmənt nɪə maɪ wɜːk/. /ðə ˈneɪbəhʊd ɪz kwaɪt naɪs/",
+          "yNghia": "\nCó một căn hộ nhỏ gần nơi làm việc của tôi. Khu phố khá đẹp.",
+          "normal": {
+            "start": "00:00:47.767",
+            "end": "00:00:52.480"
+          },
+          "slow": {
+            "start": "00:01:13.409",
+            "end": "00:01:20.837"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1257a0de-7d7b-49f9-8e94-a9fda0a9e92c"
+          },
+          "dapAn": "I can help you if you like. I guess moving might not take very long.",
+          "phienAm": "/aɪ kæn help juː ɪf juː laɪk/. /aɪ ges ˈmuːvɪŋ maɪt nɒt teɪk ˈveri lɒŋ/",
+          "yNghia": "\nTôi có thể giúp bạn nếu bạn muốn. Tôi cho rằng việc di chuyển sẽ không mất nhiều thời gian.",
+          "normal": {
+            "start": "00:00:58.183",
+            "end": "00:01:02.817"
+          },
+          "slow": {
+            "start": "00:01:29.611",
+            "end": "00:01:35.870"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e7f3e2bf-265e-4fba-b09c-35c7fee4742c"
+          },
+          "dapAn": "Let’s see. You have a bed and a couch.",
+          "phienAm": "/lets siː/. /juː hæv ei bed ænd ei kaʊʧ/",
+          "yNghia": "\nĐể xem nào. Bạn có một chiếc giường và một chiếc sofa.",
+          "normal": {
+            "start": "00:01:09.511",
+            "end": "00:01:13.195"
+          },
+          "slow": {
+            "start": "00:01:45.580",
+            "end": "00:01:50.435"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6fe21088-1933-4da8-afb5-214dd1ba81ae"
+          },
+          "dapAn": "Well, I think they will have to find a new couch soon!",
+          "phienAm": "/wel aɪ θɪŋk ðeɪ wɪl hæv tuː faɪnd ei njuː kaʊʧ suːn/",
+          "yNghia": "\nChà, tôi nghĩ họ sẽ phải tìm một chiếc sofa mới sớm thôi!",
+          "normal": {
+            "start": "00:01:18.740",
+            "end": "00:01:22.423"
+          },
+          "slow": {
+            "start": "00:01:57.688",
+            "end": "00:02:02.718"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5f2b3ba0-2c54-462d-b73c-a8ddc728b883"
+          },
+          "dapAn": "You’re welcome.",
+          "phienAm": "/jʊər ˈwelkəm/",
+          "yNghia": "\nKhông có chi.",
+          "normal": {
+            "start": "00:01:31.533",
+            "end": "00:01:32.365"
+          },
+          "slow": {
+            "start": "00:02:15.908",
+            "end": "00:02:17.108"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e312eaa8-c7fa-4282-942f-1b07f9da4f01"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Ivy",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a2866ff5-753c-4442-b49f-1d31d1895a98"
+          },
+          "dapAn": "I’m getting along with my roommates. They’re fine about sharing chores, but not good at sharing the bills.",
+          "phienAm": "/aɪm ˈgetɪŋ əˈlɒŋ wɪð maɪ ˈruːmmeɪts/. /ðeər faɪn əˈbaʊt ˈʃeərɪŋ ʧɔːz bʌt nɒt gʊd æt ˈʃeərɪŋ ðə bɪlz/",
+          "yNghia": "\nTôi khá hòa thuận với bạn cùng phòng. Họ biết chia sẻ việc nhà, nhưng với việc chia sẻ hóa đơn thì không.",
+          "normal": {
+            "start": "00:00:03.882",
+            "end": "00:00:11.763"
+          },
+          "slow": {
+            "start": "00:00:05.147",
+            "end": "00:00:17.548"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f1f1c92f-5301-4b86-bb8f-ba265fb10979"
+          },
+          "dapAn": "They don’t pay on time. It’s pretty irritating!",
+          "phienAm": "/ðeɪ dəʊnt peɪ ɒn taɪm/. /ɪts ˈprɪti ˈɪrɪteɪtɪŋ/",
+          "yNghia": "\nHọ không trả tiền đúng hạn. Điều đó khá khó chịu!",
+          "normal": {
+            "start": "00:00:14.179",
+            "end": "00:00:17.506"
+          },
+          "slow": {
+            "start": "00:00:20.648",
+            "end": "00:00:26.848"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fa669d88-5bd5-4f1b-8044-e7383421532f"
+          },
+          "dapAn": "I can’t look for another place to live. I’m too busy with school.",
+          "phienAm": "/aɪ kɑːnt lʊk fɔːr əˈnʌðə pleɪs tuː lɪv/. /aɪm tuː ˈbɪzi wɪð skuːl/",
+          "yNghia": "\nTôi không thể tìm một nơi khác để sống. Tôi quá bận rộn ở trường.",
+          "normal": {
+            "start": "00:00:23.210",
+            "end": "00:00:27.329"
+          },
+          "slow": {
+            "start": "00:00:34.394",
+            "end": "00:00:42.524"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "97254657-c4de-4786-8a11-2021a0efeaf4"
+          },
+          "dapAn": "Yes, I have done that already. But they still do that.",
+          "phienAm": "/jes aɪ hæv dʌn ðæt ɔːlˈredi/. /bʌt ðeɪ stɪl duː ðæt/",
+          "yNghia": "\nCó chứ, tôi đã làm điều đó rồi. Nhưng họ vẫn như vậy.",
+          "normal": {
+            "start": "00:00:32.716",
+            "end": "00:00:36.043"
+          },
+          "slow": {
+            "start": "00:00:49.368",
+            "end": "00:00:56.621"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7dc9f7f9-9146-46ef-8718-01300dd02b00"
+          },
+          "dapAn": "Yeah. Where do you think I should move?",
+          "phienAm": "/jeə/. /weə duː juː θɪŋk aɪ ʃʊd muːv/",
+          "yNghia": "\nỪ. Bạn nghĩ tôi nên chuyển đi đâu?",
+          "normal": {
+            "start": "00:00:43.489",
+            "end": "00:00:46.856"
+          },
+          "slow": {
+            "start": "00:01:06.331",
+            "end": "00:01:12.005"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f34fbc7f-1247-4ab1-aad0-0c3f57ae22e4"
+          },
+          "dapAn": "Really? I think I could afford a studio apartment.",
+          "phienAm": "/ˈrɪəli/. /aɪ θɪŋk aɪ kʊd əˈfɔːd ei ˈstjuːdɪəʊ əˈpɑːtmənt/",
+          "yNghia": "\nThật sao? Tôi nghĩ rằng tôi có thể mua một căn hộ nhỏ.",
+          "normal": {
+            "start": "00:00:53.549",
+            "end": "00:00:57.312"
+          },
+          "slow": {
+            "start": "00:01:21.715",
+            "end": "00:01:28.383"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3c18ec84-fa5f-46ab-b8e6-c262d68a706d"
+          },
+          "dapAn": "Yeah. I don’t have much stuff. Just some necessary things.",
+          "phienAm": "/jeə/. /aɪ dəʊnt hæv mʌʧ stʌf/. /ʤʌst sʌm ˈnesɪsəri θɪŋz/",
+          "yNghia": "\nỪ. Tôi không có nhiều đồ đạc. Chỉ cần một số thứ cần thiết.",
+          "normal": {
+            "start": "00:01:04.124",
+            "end": "00:01:08.600"
+          },
+          "slow": {
+            "start": "00:01:36.806",
+            "end": "00:01:44.410"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6854d49a-a75f-4903-a578-206f036c7e42"
+          },
+          "dapAn": "My roommates definitely use the couch more than I do!",
+          "phienAm": "/maɪ ˈruːmmeɪts ˈdefɪnɪtli juːz ðə kaʊʧ mɔːr ðæn aɪ duː/",
+          "yNghia": "\nBạn cùng phòng của tôi chắc chắn sử dụng ghế sofa nhiều hơn tôi!",
+          "normal": {
+            "start": "00:01:14.264",
+            "end": "00:01:17.908"
+          },
+          "slow": {
+            "start": "00:01:51.137",
+            "end": "00:01:56.694"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9bcca1bf-f9be-4779-9ca7-d9ac7cf8fd5d"
+          },
+          "dapAn": "Yes, I will take it away. Thanks a lot for your help. I’m starting to feel better already.",
+          "phienAm": "/jes aɪ wɪl teɪk ɪt əˈweɪ/. /θæŋks ei lɒt fɔːr jɔːr help/. /aɪm ˈstɑːtɪŋ tuː fiːl ˈbetər ɔːlˈredi/",
+          "yNghia": "\nĐúng vậy, tôi sẽ mang nó đi. Cảm ơn sự giúp đỡ của bạn. Tôi bắt đầu cảm thấy tốt hơn rồi.",
+          "normal": {
+            "start": "00:01:23.255",
+            "end": "00:01:30.780"
+          },
+          "slow": {
+            "start": "00:02:04.005",
+            "end": "00:02:14.885"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8d927800-bbe8-48a0-a5bb-66dcb9ee2469"
+          },
+          "dapAn": "Thanks again, Jake.",
+          "phienAm": "/θæŋks əˈgen dʒeɪk/",
+          "yNghia": "\nCảm ơn lần nữa nhé, Jake.",
+          "normal": {
+            "start": "00:01:33.276",
+            "end": "00:01:34.464"
+          },
+          "slow": {
+            "start": "00:02:17.831",
+            "end": "00:02:19.732"
+          }
+        }
+      ]
+    }
+  ]
+}

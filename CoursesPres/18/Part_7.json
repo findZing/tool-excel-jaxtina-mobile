@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P7",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "47b34c4b-55a2-4496-9d7e-1e11fa47bfb2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How ____ <b><span style=\"color:blue\">(be)</span></b> you?",
+      "yNghia": "<b>you </b>là chủ ngữ ngôi thứ hai nên động từ <i>to be </i>được sử dụng sẽ là <b>are</b>.<i> </i>Câu hoàn chỉnh là <b>How <span style=\"color:red\">are </span>you?</b> <i>(Cậu khỏe không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "23f200c8-3e3a-4a20-a8e6-cc734aa32cc9"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "17d24b59-de32-4d5d-9e7b-66de01d730b4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <b><span style=\"color:blue\">(be)</span></b> good.",
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít, nên động từ <i>to be</i> theo sau sẽ là <b>am</b>. Câu hoàn chỉnh là <b>I</b><b><span style=\"color:red\"> am</span> good.</b> <i>(Tớ khỏe.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5637ed4d-34f4-4217-8b4c-0cbed1af8f7d"
+          },
+          "dapAn": "am",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ed28fb7a-0b75-4827-b12c-e24b19a3e112"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Where ____ <b><span style=\"color:blue\">(be)</span></b> you going?",
+      "yNghia": "<b>you </b>là chủ ngữ ngôi thứ hai nên động từ <i>to be </i>được sử dụng sẽ là <b>are</b>.<i> </i>Câu hoàn chỉnh là <b>Where <span style=\"color:red\">are </span>you going?</b> <i>(Cậu đang đi đâu thế?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bb3cd634-c6c2-411e-962d-3f540cc2575b"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "fbd134d0-e528-446a-bf4b-acf9afa461f5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I'm going to the ____________ <b><span style=\"color:blue\">(shop)</span></b> mall to buy something.",
+      "yNghia": "Ta có cụm danh từ <b>shopping mall</b> mang nghĩa là \"trung tâm mua sắm\".<b> </b>Câu hoàn chỉnh là <b>I'm going to the <span style=\"color:red\">shopping </span>mall to buy something.</b> <i>(Tớ đang tới trung tâm mua sắm để mua cái gì đó.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d34ea864-aed1-4226-be07-5a3ebf1efcca"
+          },
+          "dapAn": "shopping",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e365bb39-40a0-441c-8053-12ff25eb51fc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <b><span style=\"color:blue\">(be)</span></b> free now.",
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít, nên động từ <i>to be</i> theo sau sẽ là <b>am</b>. Câu hoàn chỉnh là <b>I <span style=\"color:red\">am </span>free now.</b> <i>(Giờ tớ đang rảnh.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7cc391a5-4b11-4dd7-8d36-69fcb97b9ea7"
+          },
+          "dapAn": "am",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9bf5d920-207f-4390-8fbb-932ac42ab993"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can I ____ <b><span style=\"color:blue\">(go) </span></b>with you?",
+      "yNghia": "Sau trợ động từ <b>Can</b>, động từ chính được giữ nguyên. Câu hoàn chỉnh là <b>Can I <span style=\"color:red\">go </span>with you?</b> <i>(Tớ <span style=\"color:red\">đi</span> với cậu được không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a81fa867-8076-47df-98da-9f73a69c2de8"
+          },
+          "dapAn": "go",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d966c603-d51e-4e83-ab2d-191c7f6d98cd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What ____ <b><span style=\"color:blue\">(be)</span></b> you going to buy?",
+      "yNghia": "<b>y</b><b>ou </b>là chủ ngữ ngôi thứ hai, nên động từ <i>to be</i> theo sau sẽ là <b>are</b>. Câu hoàn chỉnh là <b>What <span style=\"color:red\">are </span>you going to buy? </b><i>(Cậu định mua gì thế?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d3268562-abdd-40e4-a6c0-8032440f9911"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d16216f9-ff61-4e0b-a782-25a91698f343"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I am going to ____ <b><span style=\"color:blue\">(buy)</span></b> a broom.",
+      "yNghia": "Sau <b>be going to</b>, động từ được giữ nguyên.<b> </b>Câu hoàn chỉnh là <b>I am going to <span style=\"color:red\">buy </span>a broom. </b><i>(Tớ định <span style=\"color:red\">mua</span> một cái chổi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4ab2b79b-afc6-4f0c-b034-8687d50c2996"
+          },
+          "dapAn": "buy",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f9a21c81-56ec-4186-b660-79b74c5e96c6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Will you ____ <b><span style=\"color:blue\">(clean)</span></b> your house today?",
+      "yNghia": "Sau <b>Will</b>, động từ <b>clean</b> được giữ nguyên dạng. Câu hoàn chỉnh là <b>Will you <span style=\"color:red\">clean </span>your house today? </b><i>(Cậu sẽ <span style=\"color:red\">lau</span> nhà vào hôm nay à?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "870fae43-ce01-4821-a302-269aad6835d6"
+          },
+          "dapAn": "clean",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2c9ac8c7-9672-4576-8e4b-c106b6fd0a26"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <b><span style=\"color:blue\">(have) </span></b>lots of time to do household chores.",
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít, nên động từ theo sau sẽ là <b>have</b>. Câu hoàn chỉnh là <b>I <span style=\"color:red\">have </span>lots of time to do household chores. </b><i>(Tớ <span style=\"color:red\">có</span> rất nhiều thời gian để làm việc nhà.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "26f04c90-4578-4846-94a8-f4bc3e84202e"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c5063202-8caf-4d73-afa8-5ade8fd831a0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You ____ <b><span style=\"color:blue\">(be) </span></b>so hard-working.",
+      "yNghia": "<b>You </b>là chủ ngữ ngôi thứ hai, nên động từ <i>to be</i> theo sau sẽ là <b>are</b>. Câu hoàn chỉnh là <b>You <span style=\"color:red\">are </span>so hard-working. </b><i>(Cậu thật chăm chỉ.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a1c43aab-025b-40b1-9b58-a6109d58d20e"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7c55b963-7630-4bd7-9bf6-fac8fe69f41e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you often ____ <b><span style=\"color:blue\">(do)</span></b> housework at home?",
+      "yNghia": "Câu hỏi về thói quen nên động từ <b>do</b> được giữ nguyên.<b> </b>Câu hoàn chỉnh là <b>Do you often <span style=\"color:red\">do </span>housework at home? </b><i>(Cậu có thường <span style=\"color:red\">làm</span> việc nhà không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "78e8601c-8630-4bee-9d50-27b99f790594"
+          },
+          "dapAn": "do",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "229c74ee-56b4-47c5-9cb6-882d44626bf8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What kind of housework do you often ____ <b><span style=\"color:blue\">(do)</span></b>?",
+      "yNghia": "Câu hỏi về thói quen nên động từ <b>do</b> được giữ nguyên.<b> </b>Câu hoàn chỉnh là <b>What kind of housework do you often </b><b><span style=\"color:red\">do</span></b><b>? </b><i>(Cậu thường <span style=\"color:red\">làm</span> loại việc nhà nào?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f8a7d988-9642-449e-8388-4155db651296"
+          },
+          "dapAn": "do",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "da5689cf-ca5a-46f5-8518-156ad618539f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I usually ____ <b><span style=\"color:blue\">(wash)</span></b> the dishes and do the laundry.",
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít, nên động từ <b>wash</b> được giữ nguyên. Câu hoàn chỉnh là <b>I usually </b><b><span style=\"color:red\">wash</span></b><b> </b><b>the dishes and do the laundry. </b><i>(Tớ thường <span style=\"color:red\">rửa</span> bát và giặt quần áo.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ef4c8c03-6e71-4903-99b2-0d63a0c84f17"
+          },
+          "dapAn": "wash",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e34e251f-4530-4b97-815b-ee97fdfd7947"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Who ____ <b><span style=\"color:blue\">(take)</span></b> out the garbage?",
+      "yNghia": "Ta chia động từ ngôi thứ ba khi <b>who</b> làm chủ ngữ trong câu hỏi. Câu hoàn chỉnh là <b>Who </b><b><span style=\"color:red\">takes</span></b> <b>out the garbage? </b><i>(Thế ai đổ rác?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ff7f16f8-a23f-433c-bd9d-44cf0aae33c2"
+          },
+          "dapAn": "takes",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f4940bc0-4b34-4d64-bc03-da3e404d4374"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My __________ <b><span style=\"color:blue\">(young)</span></b> brother does.",
+      "yNghia": "Ta có cụm <b>younger brother </b>mang nghĩa là \"em trai\". Câu hoàn chỉnh là <b>My </b><b><span style=\"color:red\">younger </span></b><b>brother does. </b><i>(Em trai tớ làm.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "32f501bd-765c-4caa-8661-1dc0f777ff37"
+          },
+          "dapAn": "younger",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64fad600-19cb-4267-8bd0-12f848b51af7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I sometimes ____ <b><span style=\"color:blue\">(go)</span></b> shopping for food with my mom.",
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít, nên động từ <b>go </b>được giữ nguyên. Câu hoàn chỉnh là <b>I sometimes <span style=\"color:red\">go </span>shopping for food with my mom. </b><i>(Thỉnh thoảng tớ <span style=\"color:red\">đi</span> mua đồ ăn cùng mẹ tớ.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0ba0a193-1e6e-4f90-8e60-b03f16ec0e26"
+          },
+          "dapAn": "go",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9513754b-5f09-432a-b7e4-fc0deb7a7db6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I also wash the ____ <b><span style=\"color:blue\">(dish)</span></b> after meals.",
+      "yNghia": "Ta có cụm động từ <b>wash the dishes</b> mang nghĩa là \"rửa bát\". Câu hoàn chỉnh là <b>I also wash the <span style=\"color:red\">dishes </span>after meals. </b><i>(Tớ cũng rửa bát sau các bữa ăn nữa.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4be8c401-0292-4a26-8dbb-3306e5856907"
+          },
+          "dapAn": "dishes",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "80fa4184-d49c-4abc-8949-5b71ba79c982"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Who ____<b> <span style=\"color:blue\">(do)</span> </b>the laundry?",
+      "yNghia": "Ta chia động từ ngôi thứ ba khi <b>who</b> làm chủ ngữ trong câu hỏi. Câu hoàn chỉnh là <b>Who <span style=\"color:red\">does </span>the laundry? </b><i>(Ai giặt quần áo?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fc499900-0959-4925-8759-9383fc0420d7"
+          },
+          "dapAn": "does",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c312fe80-ec70-4770-bfd8-1d0b1374d341"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Mrs. Rand ____ <b><span style=\"color:blue\">(go)</span></b> shopping.",
+      "yNghia": "<b>Mrs. Rand </b>là chủ ngữ ngôi thứ ba số ít, nên động từ <b>go </b>sẽ được thêm \"es\" thành <b>goes</b>. Câu hoàn chỉnh là <b>Mrs. Rand <span style=\"color:red\">goes</span> shopping. </b><i>(Bà Rand <span style=\"color:red\">đi</span> mua sắm.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "14b2238e-3746-472d-a70c-239cc0afae76"
+          },
+          "dapAn": "goes",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

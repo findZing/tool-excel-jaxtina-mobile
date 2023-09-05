@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "0b226012-b084-47d9-ae08-5a894c945a69"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Playground",
+      "yNghia": "Sân chơi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "fd12a1a2-621a-4c98-b599-15dc4d389b7f"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Condominium",
+      "yNghia": "Chung cư có các căn hộ thuộc sở hữu riêng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "fc3901ff-1b5f-46d4-be6b-f6825a25d7ae"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Snorkelling",
+      "yNghia": "Lặn biển (với ống thở)",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f0ca57cf-6694-455a-8dfa-54913940178f"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Scuba diving",
+      "yNghia": "Lặn biển \n (với bình dưỡng khí)",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "152a7f3b-ee44-4d70-804e-e83579f99ff0"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Waterskiing",
+      "yNghia": "Lướt ván trên nước",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "759167b0-2415-445e-ba06-bcbd757ba3ed"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Sunset",
+      "yNghia": "Hoàng hôn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "65729dd2-97aa-44e0-97ce-858812566404"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Achieve",
+      "yNghia": "Đạt được",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "89ef829d-3139-48b6-b147-ff90e4fe1fd1"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Realistic",
+      "yNghia": "Mang tính thực tế",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7c8f90c1-c502-4a92-bb21-93a942640e22"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Bungee jumping",
+      "yNghia": "Nhảy bungee (trò chơi \n cảm giác mạnh \n nhảy từ nơi có độ cao lớn)",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "65819902-2cf2-46ba-84ee-b87ae35e5156"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Green space",
+      "yNghia": "Không gian xanh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "21463f39-0cc3-4077-a6d1-d6c731f296f8"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Bike lane",
+      "yNghia": "Làn đường cho xe đạp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8b132c08-ba85-4ee9-b9e6-9e6b278e91eb"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Pedestrian area",
+      "yNghia": "Khu vực đi bộ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2a444611-d4af-46a8-b6f0-acc0af91bb3a"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Bucket list",
+      "yNghia": "Danh sách những việc muốn làm trong đời",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1814b0fd-cd3a-4098-86d6-07fd30cc053b"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Shopping mall",
+      "yNghia": "Trung tâm thương mại",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9ce7fd16-3d9a-4ba4-89b4-f68c647c6a90"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Food truck",
+      "yNghia": "Xe bán đồ ăn lưu động",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0e33e970-ea61-44ae-9be7-fc214b5683c5"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "High-rise building",
+      "yNghia": "Nhà cao tầng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2229e2fa-8131-4bb3-a67d-c59cec85e173"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Walking trail",
+      "yNghia": "Đường mòn đi bộ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7615d3b6-3cce-44c0-aad2-de4eaf5d4596"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Snow skiing",
+      "yNghia": "Trượt tuyết",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "81a37fa9-ae6a-45e6-ad41-a61e99b3b22c"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Helicopter",
+      "yNghia": "Trực thăng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "fcd818bc-9bb6-4441-8058-02f2cf95e41f"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Vehicle",
+      "yNghia": "Phương tiện giao thông",
+      "danhSachDapAn": []
+    }
+  ]
+}

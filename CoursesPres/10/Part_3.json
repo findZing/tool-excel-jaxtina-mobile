@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0_1",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "8bb8b30e-944a-4047-b099-b4114214ce26"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Monday",
+      "yNghia": "Thứ 2",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e0d71aff-6a2d-4670-a2a8-557b08e61c12"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Tuesday",
+      "yNghia": "Thứ 3",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "aa156a11-710e-4900-8451-c5c29a1cc5dc"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Wednesday",
+      "yNghia": "Thứ 4",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c9b3bf3f-c437-49ef-861d-53c9c7c06200"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Thursday",
+      "yNghia": "Thứ 5",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0c700845-bbfb-4a8f-8c31-cfb5edc958b0"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Friday",
+      "yNghia": "Thứ 6",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ad6e46aa-b978-451a-8211-86a390f4006d"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Saturday",
+      "yNghia": "Thứ 7",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "299d8c49-aa43-4549-bd1d-7279d4783092"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Sunday",
+      "yNghia": "Chủ nhật",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "51e8ce6c-9593-463e-b57e-d52e6898e1fc"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "January",
+      "yNghia": "Tháng 1",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4df4cda3-3a34-4a6f-830b-510f34e2a588"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "February",
+      "yNghia": "Tháng 2",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "108ded62-b331-4af0-af47-e534342c3d4a"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "March",
+      "yNghia": "Tháng 3",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3ace84a8-2473-4b1a-bb35-844b6dd0c5f5"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "April",
+      "yNghia": "Tháng 4",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e04307e7-1999-4474-9bec-5c20e7d77002"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "May",
+      "yNghia": "Tháng 5",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2a61dbbc-76de-45dd-b7aa-bd99bf2c4c7b"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "June",
+      "yNghia": "Tháng 6",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ab317a42-0a77-4a24-8bbd-8f456a429ead"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "July",
+      "yNghia": "Tháng 7",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "81b11cf7-ad2d-484b-8ca8-995178edb866"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "August",
+      "yNghia": "Tháng 8",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0490b340-c951-4863-b14f-0a3c08660976"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "September",
+      "yNghia": "Tháng 9",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a32f9a2b-47cf-47b7-b2bc-7b11062b6180"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "October",
+      "yNghia": "Tháng 10",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "fd76340a-0b8e-4227-91dd-700d3a064c4d"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "November",
+      "yNghia": "Tháng 11",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "123dfb28-fe42-4349-aae3-4a3caf32d41c"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "December",
+      "yNghia": "Tháng 12",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "74910055-24e5-4a3d-a04f-a226e20da1d7"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Weekend",
+      "yNghia": "Cuối tuần",
+      "danhSachDapAn": []
+    }
+  ]
+}

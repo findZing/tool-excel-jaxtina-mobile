@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "41bc236e-eda2-4a0e-b6f8-33e7c792709d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I made notes on the things we need to _____.",
+      "yNghia": "I made notes on the things we need to <span style=\"color:red\">do</span>.<br />\r\n<i>Tôi đã ghi chú về những điều chúng ta cần <span style=\"color:red\">làm</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "234a6e4f-4e61-4cae-8623-83de850a14db"
+          },
+          "dapAn": "do",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f2479df0-f02d-4d21-a249-e4658a4e6b22"
+          },
+          "dapAn": "think about",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "38058aa4-e827-49f5-b3e9-f0c881064a94"
+          },
+          "dapAn": "plan",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_1. I ... do.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_1. I ... do.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "de8dcc84-63ca-4e33-866f-a5b6f857ad50"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We _____ that last year.",
+      "yNghia": "We <span style=\"color:red\">tried</span> that last year.<br />\r\n<i>Chúng ta </i><i><span style=\"color:red\">đã thử </span></i><i>điều đó vào năm ngoái.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "61f7e0c3-86c7-4f9b-a230-47b97e88ba1d"
+          },
+          "dapAn": "did",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "cf2321d2-7f32-4a17-ba9d-ed53b168a227"
+          },
+          "dapAn": "planned",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "48627581-ada4-4de9-a0f3-5ce9f6416545"
+          },
+          "dapAn": "tried",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_2. We ... year.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_2. We ... year.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "30c0ca07-c36b-4377-b5c1-3a471e1b66c4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We will plan to ___________ it again this year.",
+      "yNghia": "We will plan to <span style=\"color:red\">organize</span> it again this year.<br />\r\n<i>Chúng ta sẽ lên kế hoạch <span style=\"color:red\">tổ chức </span>lại trong năm nay.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2e7111b1-a565-418f-947d-0e14d6da2715"
+          },
+          "dapAn": "hold",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a3bd48e8-c07f-4843-a1e7-8fdd08e37101"
+          },
+          "dapAn": "organize",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "621040a4-f75a-4178-b7de-934fd12680e0"
+          },
+          "dapAn": "run",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_3. We ... year.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_3. We ... year.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "15d465c5-73f2-419b-bb88-abffcfae3a34"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "But last year we spent a lot of money on ________, and we didn't make any money.",
+      "yNghia": "But last year we spent a lot of money on <span style=\"color:red\">T-shirts</span>, and we didn't make any money.<br />\r\n<i>Nhưng năm ngoái chúng ta đã chi rất nhiều tiền cho <span style=\"color:red\">áo phông</span>, và chúng ta không kiếm được đồng nào.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "73bf7116-bb8d-49c3-a729-b46b8dad03f7"
+          },
+          "dapAn": "Skirts",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "22f82886-fde7-4df2-ab0b-4ba1d4961079"
+          },
+          "dapAn": "Shirts",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "48b40576-3294-4026-aac7-596c5fc4813a"
+          },
+          "dapAn": "T-shirts",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_4. But ... money.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_4. But ... money.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a829b59c-db9d-4a78-9ef7-257484ecad59"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We spent ________ on T-shirts, and we made $153.",
+      "yNghia": "We spent <span style=\"color:red\">$456 </span>on T-shirts, and we made $153.<br />\r\n<i>Chúng ta đã chi <span style=\"color:red\">456 đô la </span>cho áo phông và chúng ta chỉ kiếm được 153 đô la.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a9d13e63-9fa6-4abd-b7f7-6eb77f09c171"
+          },
+          "dapAn": 456,
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2a279e9d-b451-46a2-a1da-9ee4c2f978ef"
+          },
+          "dapAn": 465,
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "44c3004f-4787-4ee8-8818-ab83a5c57070"
+          },
+          "dapAn": 645,
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_5. We ... $153.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_5. We ... $153.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "16bae599-44ba-46f0-983c-51b09d2d0f6c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We can have a raffle or a ________ stand.",
+      "yNghia": "We can have a raffle or a <span style=\"color:red\">popcorn</span> stand.<br />\r\n<i>Chúng ta có thể tổ chức quay xổ số hoặc mở quầy bán <span style=\"color:red\">bỏng ngô</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "772e0828-dee4-4424-a580-3445a70d7ab9"
+          },
+          "dapAn": "sausage",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ecbe3004-2eed-4a4f-9c1e-cb5571833cfc"
+          },
+          "dapAn": "popcorn",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a47cffe9-05ce-437e-99fa-82abc3f70682"
+          },
+          "dapAn": "juice",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_6. We ... stand.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_6. We ... stand.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "16d439c8-e035-41a5-bf5b-f079d083511f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How about we sell ________?",
+      "yNghia": "How about we sell <span style=\"color:red\">cookies</span>?<br />\r\n<i>Bạn nghĩ sao về việc chúng ta bán </i><i><span style=\"color:red\">bánh quy</span></i><i>?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7df5762c-5ba6-457a-bd8f-d205f2cf0736"
+          },
+          "dapAn": "cookies",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b31d0cb1-0f76-4e73-9b9a-8e1d50da72d9"
+          },
+          "dapAn": "candies",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7ba6c701-2a57-4b72-bb67-00d980b9f265"
+          },
+          "dapAn": "food",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_7. How ... cookies.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_7. How ... cookies.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "4cfb5c95-9748-4e98-8c8f-0d3326405186"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I agree but I think we need to focus on _____ things first.",
+      "yNghia": "I agree but I think we need to focus on <span style=\"color:red\">two</span> things first.<br />\r\n<i>Tôi đồng ý nhưng tôi nghĩ trước tiên chúng ta cần tập trung vào </i><i><span style=\"color:red\">hai </span></i><i>điều.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "35477045-6961-442d-aebd-12ac1d8993b6"
+          },
+          "dapAn": "some",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "feb87c01-0531-4708-af0a-ccb90d1eaead"
+          },
+          "dapAn": "three",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "142d1796-ecac-4583-a887-7604b0d1fe66"
+          },
+          "dapAn": "two",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_8. I ... first.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_8. I ... first.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a6ca13c5-303a-4033-950b-186cc3a2335f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I am going to find a few places and we will choose the most suitable one ________ week.",
+      "yNghia": "I am going to find a few places and we will choose the most suitable one <span style=\"color:red\">this</span> week.<br />\r\n<i>Tôi sẽ tìm một vài địa điểm và chúng ta sẽ chọn một địa điểm phù hợp nhất trong tuần </i><i><span style=\"color:red\">này</span></i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e953ed66-6c80-4c59-bb3e-b233f89025aa"
+          },
+          "dapAn": "next",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4724279d-b89b-40ea-8858-2693f8ba5f13"
+          },
+          "dapAn": "this",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "79c2ce91-1235-48d5-8b6d-fd88a13d10f7"
+          },
+          "dapAn": "on",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_9. I ... week.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_9. I ... week.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9bcc7776-e234-4359-a79c-17add86e3e04"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Great. I am going to get more colleagues in our ___________ to join in.",
+      "yNghia": "Great. I am going to get more colleagues in our <span style=\"color:red\">office</span> to join in.<br />\r\n<i>Tuyệt vời. Tôi sẽ rủ thêm nhiều đồng nghiệp trong </i><i><span style=\"color:red\">văn phòng </span></i><i>của chúng ta tham gia.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f52501a7-dfa7-4fe0-bd56-06fc471abf64"
+          },
+          "dapAn": "branch",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bd2c5621-ded6-417a-9021-5757ed465fe5"
+          },
+          "dapAn": "department",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "555f6e8e-2792-4cd3-9e3c-d47ccdb03540"
+          },
+          "dapAn": "office",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_10. Great ... join in.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_10. Great ... join in.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3aa89a9b-fa71-4310-a272-d59d21fbcdc4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Huang Jun does a ___________ show on the streets of Yangzhou, China.",
+      "yNghia": "Huang Jun does a <span style=\"color:red\">puppet</span> show on the streets of Yangzhou, China.<br />\r\n<i>Huang Jun biểu diễn <span style=\"color:red\">múa rối </span>trên đường phố Dương Châu, Trung Quốc.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "788071be-5666-4474-af57-5c6afb792515"
+          },
+          "dapAn": "card",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "36f90f01-779e-4472-b256-16021a417811"
+          },
+          "dapAn": "puppet",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "31f350f2-611e-4ccc-9f0f-e172d222b1f9"
+          },
+          "dapAn": "dog",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_11. Huang ... China.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_11. Huang ... China.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b4bb7d49-893a-48b0-96de-23f9b7fa21e5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Everyone knows exactly how it happened, but there was a problem with the ________ trick and Pierce got serious burns.",
+      "yNghia": "Everyone<b><i> </i></b>knows exactly how it happened, but there was a problem with the <span style=\"color:red\">fire-eating</span> trick and Pierce got serious burns.<br />\r\n<i>Mọi người đều biết chính xác nó đã xảy ra như thế nào, nhưng đã xảy ra sự cố với trò <span style=\"color:red\">nuốt lửa </span>và Pierce bị bỏng nặng.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "03126cca-5ba4-4fab-83b6-290bdabaf389"
+          },
+          "dapAn": "fire-eating",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a7b0d536-8fb3-4249-9f4d-2e6f45806826"
+          },
+          "dapAn": "fire-blowing",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4bf1e8de-868b-4ac2-a83c-aaf318de5e2e"
+          },
+          "dapAn": "fire",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_12. Everyone ... burns.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_12. Everyone ... burns.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9b653d7d-4917-449c-838e-a58e98d7a051"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Michael Jackson's music video for <i>Thriller</i> was about ________ minutes long.",
+      "yNghia": "Michael Jackson's music video for <i>Thriller</i> was about <span style=\"color:red\">thirteen </span>minutes long.<br />\r\n<i>Video âm nhạc Thriller của Michael Jackson dài </i><i><span style=\"color:red\">mười ba </span></i><i>phút.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "dff6c132-f649-4f5b-83c1-bb5efdebc102"
+          },
+          "dapAn": "fourteen",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ae91ae7f-b5af-40c6-92ba-ee3354bdbd01"
+          },
+          "dapAn": "twelve",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a465daee-30d1-47fb-89de-fb989d83919c"
+          },
+          "dapAn": "thirteen",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_13. Michael ... long.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_13. Michael ... long.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ba93ddb6-e85b-4a66-8aff-5c28d1a80d0b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They like to feel comfortable and don't like to ________.",
+      "yNghia": "They like to feel comfortable and don't like to <span style=\"color:red\">take risks</span>.<br />\r\n<i>Họ thích cảm giác thoải mái và không thích <span style=\"color:red\">mạo hiểm</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1ea09b72-5f4f-4bbe-bbf8-3918bb19ddba"
+          },
+          "dapAn": "take risks",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f11fba6a-fc04-48a9-8072-e97c8661320e"
+          },
+          "dapAn": "deal with difficulties",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0c299408-8f51-455c-a732-698e352ad76d"
+          },
+          "dapAn": "make decisions",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_14. They ... risks.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_14. They ... risks.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "57d0c6ba-4cfc-4ea5-a8bc-9c5e627aa5de"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I don't think swimming is as difficult as ________.",
+      "yNghia": "I don't think swimming is as difficult as <span style=\"color:red\">skiing</span>.<br />\r\n<i>Tôi không nghĩ bơi lội khó như </i><i><span style=\"color:red\">trượt tuyết</span></i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3d5c9b33-ee60-4289-855c-b5f7854896d3"
+          },
+          "dapAn": "diving",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5d8380a9-0a89-4a59-af63-b9098f0b9064"
+          },
+          "dapAn": "skiing",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "458d8970-94a2-49f2-a57c-5fe9e2109f43"
+          },
+          "dapAn": "surfing",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_15. I ... skiing.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_15. I ... skiing.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "4baaf91f-39d9-4f64-901d-f8dca8a93d02"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The only time I watch TV is when I watch ________ on the weekend with my friends.",
+      "yNghia": "The only time I watch TV is when I watch <span style=\"color:red\">soccer</span> on the weekend with my friends.<br />\r\n<i>Thời gian duy nhất tôi xem TV là khi tôi xem <span style=\"color:red\">bóng đá </span>vào cuối tuần với bạn bè của tôi.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fc2520ac-7fed-49a0-b614-12c2dfc6898d"
+          },
+          "dapAn": "soccer",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0ce80062-edce-4f75-9d20-eba7733e19fb"
+          },
+          "dapAn": "football",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7a3a2444-368e-4ad4-b63b-5b983dbe49ae"
+          },
+          "dapAn": "basketball",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_16. The ... friends.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_16. The ... friends.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "dec918fc-e873-4680-a803-701f3df014b7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "No one in the band can ___________.",
+      "yNghia": "No one in the band can <span style=\"color:red\">write songs</span>.<br />\r\n<i>Không ai trong ban nhạc có thể <span style=\"color:red\">sáng tác bài hát</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7ba9ddf0-a0f3-476e-935c-7152ac86be71"
+          },
+          "dapAn": "play the piano",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8f340448-74b1-49d6-b88a-7608c78dfe9d"
+          },
+          "dapAn": "play the drums",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e1f4676d-d43b-4fa2-8b84-38b09d5296c3"
+          },
+          "dapAn": "write songs",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_17. No ... songs.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_17. No ... songs.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "69ee1562-5dde-41e5-8e15-38f2454adb4a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "In the past, almost everyone went to the _____.",
+      "yNghia": "In the past, almost everyone went to the <span style=\"color:red\">movies</span>.<br />\r\n<i>Trước đây hầu như ai cũng đi xem phim ở rạp.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "02ab22e0-a210-4c6b-8e29-69b71ae66445"
+          },
+          "dapAn": "restaurants",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "639d35c5-ac00-4149-a7df-63ddd1b0addf"
+          },
+          "dapAn": "movies",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a83716be-9fc3-4b54-8172-94f9f4cc9077"
+          },
+          "dapAn": "concerts",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_18. In ... movies.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_18. In ... movies.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f822e752-11c1-4424-8b13-f6dd750e671f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Everyone thinks I'm an old woman who can't _____.",
+      "yNghia": "Everyone thinks I'm an old woman who can't <span style=\"color:red\">walk</span>.<br />\r\n<i>Mọi người đều nghĩ tôi là một bà già không thể <span style=\"color:red\">đi lại</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ad1c2f2a-0287-4b65-899e-451922e93745"
+          },
+          "dapAn": "hear",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "beb83518-056c-4a49-8000-9cea1bf84ed3"
+          },
+          "dapAn": "walk",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "56335cf2-987d-4699-8f6f-19a0116c4bd4"
+          },
+          "dapAn": "talk",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_19. Everyone ... walk.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_19. Everyone ... walk.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "24dbd5b1-aae6-4cef-adad-ed6b3d6abfc9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "He's easygoing and very smart, but he is sometimes _____.",
+      "yNghia": "He's easygoing and very smart, but he is sometimes <span style=\"color:red\">rude</span>.<br />\r\n<i>Anh ấy dễ tính và rất thông minh, nhưng đôi khi anh ấy <span style=\"color:red\">thô lỗ</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "87edf64e-3a62-4588-983f-5588f67dd01f"
+          },
+          "dapAn": "rule",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "33af942a-2c38-4af3-9d00-118be1342520"
+          },
+          "dapAn": "impolite",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4868b226-b109-411d-823b-47da1f321495"
+          },
+          "dapAn": "cruel",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L8/sounds/normal/TC_MINITEST2_LISTENING_20. He_s ... rude.mp3",
+      "soundSlow": "4SKILLS_TC_L8/sounds/slow/TC_MINITEST2_LISTENING_20. He_s ... rude.mp3"
+    }
+  ]
+}

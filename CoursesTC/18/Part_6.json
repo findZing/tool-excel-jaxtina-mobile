@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "cdd88827-42a7-44c4-b786-42af1d4e4f89"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ethan:</b></td>\n                        <td>Hello everyone. Today I - Ethan and Aiden will talk about the <b>(1)</b> _______ of our homes.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Aiden:</b></td>\n                        <td>Thanks, Ethan. I'm Aiden. We'd like to <b>(2)</b> _______ on energy.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ethan:</b></td>\n                        <td>The appliances in our houses, such as air conditioners and heaters, use a lot of <b>(3)</b>_______. What is the solution?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Aiden:</b></td>\n                        <td>In the future, we are going to be using <b>(4)</b> _______ energy such as wind power, wave power and solar power.<br />\n                         </td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ethan:</b></td>\n                        <td>Hello everyone. Today I - Ethan and Aiden will talk about the <b>(1) </b><b><span style=\"color:red\">future</span> </b> of our homes.<br />\n                        <i>Xin chào mọi người. Hôm nay tôi - Ethan và Aiden sẽ nói về <span style=\"color:red\">tương lai </span> của ngôi nhà của chúng ta.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Aiden:</b></td>\n                        <td>Thanks, Ethan. I'm Aiden. We'd like to <b>(2) </b><b><span style=\"color:red\">focus</span> </b> on energy.<br />\n                        <i>Cảm ơn, Ethan. Tôi là Aiden. Chúng tôi muốn <span style=\"color:red\">tập trung </span> vào</i><i>nội dung về </i><i>năng lượng.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ethan:</b></td>\n                        <td>The appliances in our houses, such as air conditioners and heaters, use a lot of <b>(3) </b><b><span style=\"color:red\">energy</span> </b>. What is the solution?<br />\n                        <i>Các thiết bị trong nhà của chúng ta, chẳng hạn như máy điều hòa và máy sưởi, sử dụng rất nhiều <span style=\"color:red\">năng lượng</span> . </i><i>Vậy </i><i>giải pháp là gì?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Aiden:</b></td>\n                        <td>In the future, we are going to be using <b>(4) </b><b><span style=\"color:red\">renewable </span> </b>energy such as wind power, wave power and solar power.<br />\n                        <i>Trong tương lai, chúng ta sẽ sử dụng năng lượng </i><i><span style=\"color:red\">có thể </span> </i><i><span style=\"color:red\">tái tạo </span> </i><i>được </i><i>như năng lượng gió, năng lượng sóng và năng lượng mặt trời.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "future",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "4a33d6b7-a3a0-4a9c-960e-c3c916502996"
+          }
+        },
+        {
+          "dapAn": "focus",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "eee9f1eb-b545-41ca-af53-5829a9f978c5"
+          }
+        },
+        {
+          "dapAn": "energy",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f74a37f8-bdbe-44d6-a85f-081d4e84a460"
+          }
+        },
+        {
+          "dapAn": "renewable",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "5d0f5bb0-9fa6-4989-b688-1721ee16f13c"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b7002e4b-c8bd-4e3b-bf8c-1af2f323941e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ethan:</b></td>\n                        <td>I agree. Here's a <b>(1)</b> _______explaining how solar power works.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Aiden:</b></td>\n                        <td>On the roof of the house, we have <b>(2)</b> _______ panels. These receive sunlight on sunny days.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ethan:</b></td>\n                        <td>Aiden, can you tell us how we can <b>(3)</b> _______ the electricity?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Aiden:</b></td>\n                        <td>The light falls on special <b>(4)</b>_______, which create electricity. This electricity is direct current, or DC.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ethan:</b></td>\n                        <td>I agree. Here's a <b>(1) </b><b><span style=\"color:red\">diagram</span> </b>explaining how solar power works.<br />\n                        <i>T</i><i>ôi đồng ý. Đây là <span style=\"color:red\">sơ đồ </span> giải thích cách thức hoạt động của năng lượng mặt trời.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Aiden:</b></td>\n                        <td>On the roof of the house, we have <b>(2) </b><b><span style=\"color:red\">solar</span> </b> panels. These receive sunlight on sunny days.<br />\n                        <i>Trên mái nhà, chúng tôi có các tấm <span style=\"color:red\">quang năng</span> . Chúng nhận được ánh sáng mặt trời vào những ngày nắng.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ethan:</b></td>\n                        <td>Aiden, can you tell us how we can <b>(3) </b><b><span style=\"color:red\">get</span> </b> the electricity?<br />\n                        <i>Aiden, bạn có thể cho chúng tôi biết làm thế nào chúng ta có thể <span style=\"color:red\">có</span>  điện được không?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Aiden:</b></td>\n                        <td>The light falls on special <b>(4) </b><b><span style=\"color:red\">materials</span> </b>, which create electricity. This electricity is direct current, or DC.<br />\n                        <i>Ánh sáng chiếu vào những <span style=\"color:red\">vật liệu</span>  đặc biệt,</i><i> những vật liệu mà</i><i> tạo ra điện. Điện này là dòng điện một chiều, hay DC.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "diagram",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "11811f70-60a9-4f1f-bcb0-a34cd480c76d"
+          }
+        },
+        {
+          "dapAn": "solar",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "bed36bc1-6587-4b9e-9a55-cc6d002a6da5"
+          }
+        },
+        {
+          "dapAn": "get",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c3df3eb6-41cd-47c1-b6b1-68575e5bdf47"
+          }
+        },
+        {
+          "dapAn": "materials",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "b0185481-a98c-4925-9b64-f556338fc8a8"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "70ac0024-5fd9-4ea9-be8f-b791ad075c49"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Aiden:</b></td>\n                        <td>In the future, we might see solar windows on <b>(1)</b>_______.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ethan:</b></td>\n                        <td>We could also see solar clothes or solar <b>(2)</b> _______.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Aiden:</b></td>\n                        <td>They work like solar panels, creating energy to <b>(3)</b>_______ your devices.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ethan:</b></td>\n                        <td>How <b>(4)</b> _______ they are!<br />\n                        Chúng thật hữu ích làm sao!</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Aiden:</b></td>\n                        <td>In the future, we might see solar windows on <b>(1)</b><b><span style=\"color:red\"> buildings</span> </b>.<br />\n                        <i>Trong tương lai, chúng ta có thể thấy cửa sổ năng lượng mặt trời trên <span style=\"color:red\">các tòa nhà</span> .</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ethan:</b></td>\n                        <td>We could also see solar clothes or solar <b>(2) </b><b><span style=\"color:red\">sunglasses</span> </b>.<br />\n                        <i>Chúng t</i><i>a</i><i> cũng có thể thấy quần áo năng lượng mặt trời hoặc <span style=\"color:red\">kính râm </span> năng lượng mặt trời.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Aiden:</b></td>\n                        <td>They work like solar panels, creating energy to <b>(3) </b><b><span style=\"color:red\">power</span> </b>your devices.<br />\n                        <i>Chúng hoạt động giống như các tấm </i><i>quang năng</i><i>, tạo ra năng lượng để cung cấp <span style=\"color:red\">năng lượng </span> cho các thiết bị của bạn.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ethan:</b></td>\n                        <td>How <b>(4) </b><b><span style=\"color:red\">useful</span> </b> they are!<br />\n                        <i>Chúng</i><i> thật</i><i> </i><i><span style=\"color:red\">hữu ích </span> </i><i>làm sao!</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "buildings",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ad7565ec-6cc8-4a64-b557-5c995a5e5fbd"
+          }
+        },
+        {
+          "dapAn": "sunglasses",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c86aba7c-0768-4b4f-afd5-58a3c6e034e7"
+          }
+        },
+        {
+          "dapAn": "power",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "248bad17-c929-4e07-89cb-4adefa591207"
+          }
+        },
+        {
+          "dapAn": "useful ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6b3b669a-1590-452d-9400-da2002ed7041"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "fa185772-edd8-40da-ae73-ad4829584159"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "One way to help your <b>(1)</b> _______ is to get healthy by exercising more and eating better. In one study, people had a better <b>(2)</b> _______ after six weeks of physical training. Some studies found that if you exercise for 10 minutes before thinking about a problem, it improves your problem-solving and decision-making skills. Your <b>(3)</b> _______ is also important. Vitamins and minerals from food – like fish, vegetables, and <b>(4)</b> _______ – help keep your brain healthy.",
+      "yNghia": "One way to help your <b>(1) <span style=\"color:red\">brain</span> </b> is to get healthy by exercising more and eating better. In one study, people had a better <b>(2) <span style=\"color:red\">memory</span> </b> after six weeks of physical training. Some studies found that if you exercise for 10 minutes before thinking about a problem, it improves your problem-solving and decision-making skills. Your <b>(3) <span style=\"color:red\">diet</span> </b> is also important. Vitamins and minerals from food – like fish, vegetables, and <b>(4) </b><b><span style=\"color:red\">nuts</span> </b> – help keep your brain healthy.<br />\n<br />\n<i>Một cách để giúp </i><i><span style=\"color:red\">bộ não </span> </i><i>của bạn khỏe mạnh là tập thể dục nhiều hơn và ăn uống tốt hơn. Trong một nghiên cứu, mọi người có </i><i><span style=\"color:red\">trí nhớ </span> </i><i>tốt hơn sau sáu tuần rèn luyện thể chất. Một số nghiên cứu cho thấy rằng nếu bạn tập thể dục trong 10 phút trước khi nghĩ về một vấn đề, nó sẽ cải thiện kỹ năng giải quyết vấn đề và ra quyết định của bạn. </i><i><span style=\"color:red\">Chế độ ăn uống</span> </i><i> của bạn cũng rất quan trọng. Vitamin và khoáng chất từ ​​thực phẩm – như cá, rau và </i><i><span style=\"color:red\">quả hạch</span> </i><i> – giúp giữ cho bộ não của bạn khỏe mạnh.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "brain",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "4ac52b3b-32d6-40da-8c11-aae3993ead52"
+          }
+        },
+        {
+          "dapAn": "memory",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "69294e08-b061-400f-9cfc-a8294028be7b"
+          }
+        },
+        {
+          "dapAn": "diet",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c8913bf4-a3a5-4063-8485-381b126c1d34"
+          }
+        },
+        {
+          "dapAn": "nuts",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "bc9408b1-0dda-46d6-8f46-b82d46d21e20"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "980c202b-bf8b-41ca-90f0-1f7b54901f0c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "If you <b>(1) </b>_______<b> </b>a new skill, your brain <b>(2)</b> _______. The density of white matter in your brain increases and your neurons work better. However, it has to be an active skill, such as learning the piano. You <b>(3) </b>_______ better if you practice every day. If you<b> </b>do that for a year, you will be <b>(4) </b>_______ at your progress.",
+      "yNghia": "If you <b>(1) </b><b><span style=\"color:red\">learn</span> </b> a new skill, your brain <b>(2)</b> <b><span style=\"color:red\">grows</span> </b>. The density of white matter in your brain increases and your neurons work better. However, it has to be an active skill, such as learning the piano. You <b>(3) <span style=\"color:red\">get</span> </b> better if you practice every day. If you<b> </b>do that for a year, you will be <b>(4) </b><b><span style=\"color:red\">amazed</span> </b> at your progress.<br />\n<br />\n<i>Nếu bạn <span style=\"color:red\">học</span>  một kỹ năng mới, bộ não của bạn <span style=\"color:red\">sẽ</span>  <span style=\"color:red\">phát triển</span> . Mật độ chất trắng trong não của bạn tăng lên và tế bào thần kinh của bạn hoạt động tốt hơn. Tuy nhiên, nó phải là một kỹ năng tích cực, chẳng hạn như học đàn dương cầm. Bạn sẽ tốt hơn nếu bạn luyện tập hàng ngày. Nếu bạn làm điều đó trong một năm, bạn sẽ <span style=\"color:red\">ngạc nhiên </span> về sự tiến bộ của mình.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "learn",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "62d9084b-6081-48a2-b333-ca7b88d4b78e"
+          }
+        },
+        {
+          "dapAn": "geows",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "9c48a7d7-73f2-4ab9-be3c-771ad8dc8694"
+          }
+        },
+        {
+          "dapAn": "get",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a9523945-16c4-48ee-9b4b-7a50858d3fb4"
+          }
+        },
+        {
+          "dapAn": "amazed",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ec5d2bce-dbe9-460c-925e-f152c9080606"
+          }
+        }
+      ]
+    }
+  ]
+}

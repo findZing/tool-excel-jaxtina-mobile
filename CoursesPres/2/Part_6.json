@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "958cbd9e-e3c6-4e10-826d-0590b028249d"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "cd9c8f83-5bef-4569-8134-132eca83f863"
+          },
+          "cauHoi": "Where is Mike from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "5b36a79c-906f-434a-8dbc-96d2f8786250"
+              },
+              "dapAn": "A. the US",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "627e5a5f-425c-400f-aec0-33c4ac224161"
+              },
+              "dapAn": "B. English",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "827b648d-53e8-4d54-bae1-ac6d9d8aa6a0"
+              },
+              "dapAn": "C. Mexico",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "eba0308d-bad3-4eb9-9589-c583ca2a222b"
+              },
+              "dapAn": "D. France",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "13054e70-0250-4233-b3e6-06bc9ceedb94"
+          },
+          "cauHoi": "What is Mike’s first language?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "0d30bc3c-8e81-4106-8bda-ddda2b83d02f"
+              },
+              "dapAn": "A. American",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "44e7f2bc-8b2a-49d6-9ac4-1818230e238d"
+              },
+              "dapAn": "B. English",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "652a476b-d768-4aba-9e06-beb87897e2b3"
+              },
+              "dapAn": "C. Mexican",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "22bb8f2a-8836-423e-917f-80039ba1a49e"
+              },
+              "dapAn": "D. Chinese",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "4ff4949e-2261-490b-a228-6b283b78b281"
+          },
+          "cauHoi": "Where are Alberto and Tino from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "4f315491-7496-456b-860d-603f8899e08b"
+              },
+              "dapAn": "A. the US",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6a4d4335-10ee-4427-9efd-0a8a92f14605"
+              },
+              "dapAn": "B. England",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5353ae5d-562f-4cc0-9b5c-5714949193c7"
+              },
+              "dapAn": "C. Egypt",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "22597f76-d8e8-4d46-8fd3-4249c6c0df08"
+              },
+              "dapAn": "D. Mexico",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "4c580c36-b810-464f-a545-a51399a69238"
+          },
+          "cauHoi": "What is Tino’s nationality?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b275a6f0-a106-422f-89df-718249ca1e79"
+              },
+              "dapAn": "A. American",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5926f051-beec-48b9-8f42-e328320f6bb3"
+              },
+              "dapAn": "B. English",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "887cb57d-5038-45b7-a673-6350aefa190f"
+              },
+              "dapAn": "C. Mexican",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "93fd660d-b302-4295-9410-7e9a83a5e2c8"
+              },
+              "dapAn": "D. Canadian",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Mike is from the US. He’s American. His first language is English. His friends, Alberto and Tino are from Mexico. They are Mexican.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Where is Mike from?</b> <i>(Mike đến từ đâu?)</i>, câu trong bài đọc liên quan là <b>Mike is from the US.</b> <i>(Mike đến từ nước Hoa Kỳ.)</i>. Nên đáp án là <span style=\"color:red\"><b>A. the US</b></span> <i>(nước Hoa Kỳ).</i><br /><br /><b>2.</b> Với câu hỏi <b>What is Mike's first language?</b> (Ngôn ngữ đầu tiên của Mike là gì?), câu trong bài đọc liên quan là <b>His first language is English.</b> <i>(Ngôn ngữ đầu tiên của anh ấy là tiếng Anh.).</i> Nên đáp án là <span style=\"color:red\"><b>B. English <i></i></b></span><i>(tiếng Anh).</i><br /><br /><b>3.</b> Với câu hỏi <b>Where are Alberto and Tino from?</b> <i>(Alberto và Tino đến từ đâu?)</i>, câu trong bài đọc liên quan là <b>Alberto and Tino are from Mexico.</b> <i>(Alberto và Tino đến từ Mê-xi-cô.).</i> Nên đáp án là <span style=\"color:red\"><b>D. Mexico</b></span> <i>(nước Mê-xi-cô.).</i><br /><br /><b>4.</b> Với câu hỏi <b>What is Tino's nationality?</b> <i>(Quốc tịch của Tino là gì?)</i>, câu trong bài đọc liên quan là <b>They are Mexican.</b> <i>(Họ là người Mê-xi-cô.).</i> Nên đáp án là <span style=\"color:red\"><b>C. Mexican</b></span> (người Mê-xi-cô).<br />",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9193770f-f5e1-44b9-b171-be9ca76f592e"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "368e420c-be6c-4d44-9465-099d66e34a6d"
+          },
+          "cauHoi": "Where is Stacy from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2affbf7f-640c-488e-a5fe-450c7e647e1e"
+              },
+              "dapAn": "A. France",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d5665109-67bd-4fbc-a164-2fdb83a01731"
+              },
+              "dapAn": "B. Germany",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a64b2688-ee7c-4001-bf95-53ea1638224f"
+              },
+              "dapAn": "C. Canada",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "7e054183-a325-44cd-9e19-caff5399cfb8"
+              },
+              "dapAn": "D. Mexico",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "7a5503e3-8e91-424e-bedf-fcda7651c93d"
+          },
+          "cauHoi": "What is Stacy’s first language?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "92646d44-2959-41d2-8a8c-5daea51045f4"
+              },
+              "dapAn": "A. Canadian",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "530dda31-103c-4dea-b6b1-9a121aa5a421"
+              },
+              "dapAn": "B. French",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a1568e7b-6055-406b-a142-daecf9f2bc95"
+              },
+              "dapAn": "C. German",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ab68e622-5292-426d-8a6b-90b22b3cd5ee"
+              },
+              "dapAn": "D. English",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "c495bbad-ef8a-4dcf-ada1-5ec3c0e754fd"
+          },
+          "cauHoi": "Where is Stacy’s father from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9a9750fc-2905-4c3c-8a94-df6c1e4826f6"
+              },
+              "dapAn": "A. France",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "fa109ed3-1e43-438c-9254-3002836cc737"
+              },
+              "dapAn": "B. Mexico",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "47e28c35-a4da-4194-9af7-5988e3326e03"
+              },
+              "dapAn": "C. China",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4bafc5cf-ead3-4784-87f4-d074b785f7b3"
+              },
+              "dapAn": "D. Canada",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "13ec0597-15f7-44d6-b47e-685c41b7d329"
+          },
+          "cauHoi": "Where is Stacy’s mother from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "cbf3ce74-a45b-4f95-a5ee-b6ff9647efe6"
+              },
+              "dapAn": "A. France",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6b3ef440-db8f-40e0-9a48-045aa54af2b9"
+              },
+              "dapAn": "B. Mexico",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "d0a5cfcb-825c-471d-afb9-0a7cc2b9b599"
+              },
+              "dapAn": "C. Canada",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9ac04c3c-caaf-4a09-a4ab-8451699a31d1"
+              },
+              "dapAn": "D. Egypt",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "I’m Stacy. I’m from Canada. I’m Canadian and my first language is French. My mom is from Mexico and my dad is from France.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Where is Stacy from?</b> <i>(Stacy đến từ đâu?)</i>, câu trong bài đọc liên quan là <b>I'm Stacy. I'm from Canada.</b> <i>(Tôi là Stacy. Tôi đến từ nước Ca-na-đa.)</i><b>.</b> Nên đáp án là <span style=\"color:red\"><b>C. Canada</b></span> <i>(nước Ca-na-đa).</i><br /><br /><b>2.</b> Với câu hỏi <b>What is Stacy's first language?</b> <i>(Ngôn ngữ đầu tiên của Stacy là gì?)</i>, câu trong bài đọc liên quan là <b>I'm Canadian and my first language is French.</b> <i>(Tôi là người Canada và ngôn ngữ đầu tiên của tôi là tiếng Pháp.)</i>. Nên đáp án là <span style=\"color:red\"><b>B. French</b></span> <i>(tiếng Pháp)</i>.<br /><br /><b>3.</b> Với câu hỏi <b>Where is Stacy's father from?</b> <i>(Bố của Stacy đến từ đâu?)</i>, câu trong bài đọc liên quan là <b>my dad is from France</b> <i>(bố của tôi đến từ nước Pháp).</i> Nên đáp án là <span style=\"color:red\"><b>A. France</b></span> <i>(nước Pháp).</i><br /><br /><b>4.</b> Với câu hỏi <b>Where is Stacy's mother from?</b> <i>(Mẹ của Stacy đến từ đâu?)</i>, câu trong bài đọc liên quan là <b>My mom is from Mexico</b> <i>(Mẹ của tôi đến từ nước Mê-xi-cô).</i> Nên đáp án là <span style=\"color:red\"><b>B. Mexico</b></span> <i>(nước Mê-xi-cô).</i><br />",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "72e3ffca-cab2-4fbd-8a68-9a7b5dcba651"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "d3ee07e2-e4a9-4a1b-ae5a-2cdcdf50c6db"
+          },
+          "cauHoi": "Are Josh and Linda best friends?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ef0408d8-3214-4b1c-b764-65b34c04a68e"
+              },
+              "dapAn": "A. No, they aren’t",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "312f727e-3a1c-4532-b676-e083f0195f7e"
+              },
+              "dapAn": "B. Yes, they are.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "87875b3c-d2f4-4e57-b96f-bf2ab434fdf0"
+              },
+              "dapAn": "C. Yes, they do",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3054cdfc-6920-4d0d-adaf-cf4ded2a25bb"
+              },
+              "dapAn": "D. No, they don’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "e15eeddc-8b31-47cb-8645-3f176fe5a026"
+          },
+          "cauHoi": "Where is Linda from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ba0af2f6-5ed7-4911-ba10-7c58dd7b1da6"
+              },
+              "dapAn": "A. Brazil",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "702ad56c-8974-4e93-ba78-1f67a039647e"
+              },
+              "dapAn": "B. Vietnam",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "abd55f5a-4029-4be9-8e80-9a6eeb59398b"
+              },
+              "dapAn": "C. Germany",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "5c4d030e-22d3-4c3d-a346-ca0f9c57c45d"
+              },
+              "dapAn": "D. Mexico",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "2c975f03-2bec-4f63-bd11-026e5566ada9"
+          },
+          "cauHoi": "Where is Dresden?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8ebbefb3-2c6b-4500-930a-370f358dc404"
+              },
+              "dapAn": "A. Mexico",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4a682f22-3b88-487a-a500-43fb0ffce1f7"
+              },
+              "dapAn": "B. Egypt",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0fdaf079-f413-4b4d-964b-ae988f5b2124"
+              },
+              "dapAn": "C. Germany",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "d3667a4a-5e2c-4b1d-85af-0846f34bc490"
+              },
+              "dapAn": "D. England",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "0b3e3aa9-91ce-4934-b3cc-4eb97caf6c14"
+          },
+          "cauHoi": "What is Linda’s nationality?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9388ad0a-b8ef-4262-b133-f217bfd46e52"
+              },
+              "dapAn": "A. French",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2f065edc-6dd7-4fa1-b617-a6602c13ee45"
+              },
+              "dapAn": "B. German",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "c9c5e359-00d8-4a4a-9de3-421998031a43"
+              },
+              "dapAn": "C. English",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e4e4724f-af17-40e9-b99b-39102f5cec16"
+              },
+              "dapAn": "D. Chinese",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table><tbody><tr><td><b>Josh:</b></td><td>Hi, I'm Josh. Are you new?</td></tr> <tr><td><b>Linda:</b></td><td>Hi, Josh. Yes, I am.</td></tr><tr><td><b>Josh: </b></td><td>Where are you from?</td></tr><tr><td><b>Linda:</b></td><td>I'm from Dresden.</td> </tr><tr><td><b>Josh:</b></td><td>Where is Dresden?</td></tr><tr><td><b>Linda:</b></td><td>It's in Germany.</td></tr><tr><td><b>Josh:</b></td><td>Are you German?</td> </tr><tr><td><b>Linda:</b></td> <td>Yes, I am.</td></tr></tbody></table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Are Josh and Linda best friends?</b> <i>(Josh và Linda có phải là bạn thân không?)</i>, câu trong bài đọc liên quan là <b>Hi, I'm Josh. Are you new? – Hi, Josh. Yes, I am.</b> <i>(Chào, tôi là Josh. Bạn là người mới phải không? – Chào Josh. Đúng vậy.)</i>. Nên đáp án là <span style=\"color:red\"><b>A. No, they aren't.</b></span> <i>(Không, họ không phải là bạn thân.).</i><br /><br /><b>2.</b> Với câu hỏi <b>Where is Linda from?</b> <i>(Linda đến từ đâu?)</i>, câu trong bài đọc liên quan là <b>I'm from Dresden.</b> <i>(Tôi đến từ Dresden.)</i> và <b>It's in Germany.</b> <i>(Ở nước Đức.).</i> Nên đáp án là <b><span style=\"color:red\">C. Germany</span> </b><i>(nước Đức).</i><br /><br /><b>3.</b> Với câu hỏi <b>Where is Dresden? <i></i></b><i>(Dresden ở đâu?)</i>, câu trong bài đọc liên quan là <b>It's in Germany.</b> <i>(Ở nước Đức.).</i> Nên đáp án là <span style=\"color:red\"><b>C. Germany</b></span> (ở nước Đức).<br /><br /><b>4.</b> Với câu hỏi <b>What is Linda's nationality?</b> <i>(Quốc tịch của Linda là gì?)</i>, câu trong bài đọc liên quan là <b>Are you German? – Yes, I am.</b> <i>(Bạn là người Đức à? – Đúng vậy.)</i>. Nên đáp án là <span style=\"color:red\"><b>B. German</b></span> <i>(người Đức).</i><br />",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "52ace82e-7c4e-4e31-b5e1-54d51878b743"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "4196d791-17f0-4726-90e3-c31c13552bd0"
+          },
+          "cauHoi": "What is Linda’s first language?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9e99fbd2-5aa5-4338-b697-58d26cec697a"
+              },
+              "dapAn": "A. German",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b5fa003f-32bf-43e1-bd18-c7322acf02f3"
+              },
+              "dapAn": "B. French",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3e274137-b24f-448b-b6bb-af751263d440"
+              },
+              "dapAn": "C. English",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "048c4019-937f-4fce-91fe-9467e1a5a548"
+              },
+              "dapAn": "D. Chinese",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "2ac67df4-a801-4942-a010-900b0373e96e"
+          },
+          "cauHoi": "Linda speaks ________.",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "06fe80fd-4ea0-4551-9126-a7a72ae3c4f1"
+              },
+              "dapAn": "A. Chinese and German",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4d65190c-711b-40cb-b97d-6a374f73445b"
+              },
+              "dapAn": "B. German and English",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b90e6c04-d6a9-4e8e-a555-3560ba809642"
+              },
+              "dapAn": "C. English and Chinese",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "322ba86c-d7a7-4e33-a1c1-54bf3acf6d0f"
+              },
+              "dapAn": "D. English and Germany",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "89544187-358b-446e-8d75-caaa494a7df4"
+          },
+          "cauHoi": "Where is Josh from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9582bf3c-22dc-4b72-9305-a22700449e61"
+              },
+              "dapAn": "A. Vietnam",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4cb3d7da-e709-4e8f-9475-eac1a201256a"
+              },
+              "dapAn": "B. China",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "34264699-5fbd-4f66-a920-ec62021863d1"
+              },
+              "dapAn": "C. America",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3c197ed3-11fc-4966-bf8b-482b9a60405f"
+              },
+              "dapAn": "D. Germany",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "dc29fa44-2ed1-4785-9a9f-78bb21e8cc70"
+          },
+          "cauHoi": "Where is Beijing?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "cd058461-bde7-436e-97c7-b86659e18899"
+              },
+              "dapAn": "A. Brazil",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f74df9f4-227a-4e34-a26f-4c260c6a0af7"
+              },
+              "dapAn": "B. Egypt",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c2e869c7-d6c6-4d40-8c56-42baddfe42dd"
+              },
+              "dapAn": "C. China",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "86716614-d515-4ff9-968d-122118d0b161"
+              },
+              "dapAn": "D. England",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table><tbody><table><tbody><tr><td><b>Josh:</b></td><td>Is English your first language?</td></tr><tr><td><b>Linda:</b></td><td>No, German. Where are you from?</td></tr><tr><td><b>Josh: </b></td><td>I'm from Beijing.</td></tr><tr><td><b>Linda:</b></td><td>Where's Beijing?</td></tr><tr><td><b>Josh:</b></td><td>It's in China.</td></tr></tbody></table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What is Linda's first language? <i></i></b><i>(Ngôn ngữ đầu tiên của Linda là gì?)</i>, câu trong bài đọc liên quan là <b>Is English your first language? – No, German.</b> <i>(Tiếng Anh là ngôn ngữ đầu tiên của bạn à? – Không, là tiếng Đức.)</i>. Nên đáp án là <span style=\"color:red\"><b>A. German</b></span> <i>(tiếng Đức).</i><br /><b>2.</b> Với câu hỏi <b>Linda speaks ________. (Linda nói ______.)</b>, câu trong bài đọc liên quan là <b>Is English your first language? – No, German. <i></i></b><i>(Tiếng Anh là ngôn ngữ đầu tiên của bạn à? – Không, là tiếng Đức.)</i>. Nên đáp án là <span style=\"color:red\"><b>B. German and English</b></span> <i>(tiếng Đức và tiếng Anh)</i>.<br /><b>3.</b> Với câu hỏi <b>Where is Josh from?</b> <i>(Josh đến từ đâu?)</i>, câu trong bài đọc liên quan là <b>I'm from Beijing.</b> <i>(Tôi đến từ Bắc Kinh.)</i> và <b>It's in China.</b> <i>(Ở nước Trung Quốc.)</i>. Nên đáp án là <span style=\"color:red\"><b>B. China</b></span> <i>(nước Trung Quốc).</i><br /><b>4.</b> Với câu hỏi <b>Where is Beijing?</b> <i>(Bắc Kinh ở đâu?)</i>, câu trong bài đọc liên quan là <b>It's in China.</b> <i>(Ở nước Trung Quốc.).</i> Nên đáp án là <b><span style=\"color:red\">C. China</span></b> <i>(nước Trung Quốc).</i><br />",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "74b9deb1-fcf0-46ea-b8e7-9e78bb35ce40"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "dc8b88fd-f4cc-4109-905b-25ea5d2fbd50"
+          },
+          "cauHoi": "Where is Pammy from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9be3deff-7985-4ccb-9877-1517e7003545"
+              },
+              "dapAn": "A. Germany",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "986a6def-64a2-4014-a571-415e884ce0d7"
+              },
+              "dapAn": "B. America",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "0ff16f9f-62af-405a-9fb9-96f7bbe8056d"
+              },
+              "dapAn": "C. Mexico",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3a8238bb-15c1-4e82-a25f-b0e85ce599e2"
+              },
+              "dapAn": "D. China",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "b742b89f-444e-482e-a339-225af8e65de6"
+          },
+          "cauHoi": "What is Pammy’s nationality?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "5a780ed7-e0fd-4f88-9949-318db8d63da0"
+              },
+              "dapAn": "A. American",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "af7e6b4d-8741-4699-b5d7-ecba6a92e6a9"
+              },
+              "dapAn": "B. Egyptian",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fc9fcbb9-f4b0-47c5-a482-bfd917517dbb"
+              },
+              "dapAn": "C. Vietnamese",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "659eb86b-1f93-4594-811e-796c342c3af8"
+              },
+              "dapAn": "D. German",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "9cace326-6289-4624-a958-37ab340fc7b2"
+          },
+          "cauHoi": "What is Pammy’s first language?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a3d5a15c-a88c-424f-931b-d943cfbc5668"
+              },
+              "dapAn": "A. English",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "af2a554f-cd2f-4332-9337-22d996c514be"
+              },
+              "dapAn": "B. Brazilian",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "549d7980-3702-4443-993b-13f8f85bfe8b"
+              },
+              "dapAn": "C. Mexican",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7d1a932f-f6e9-40ed-8411-e3d71fd25ae4"
+              },
+              "dapAn": "D. German",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "1d53c39b-fed4-41f3-917a-fe0f4dd1fead"
+          },
+          "cauHoi": "Where are Pammy’s friends from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "1d581886-9143-4a56-a80b-8a8a052c0b4a"
+              },
+              "dapAn": "A. Brazil and America",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8cd91620-95f5-4a25-b648-d0f4ac72ee09"
+              },
+              "dapAn": "B. America and Mexico",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c83841d1-d21a-4289-a03a-f952882742b3"
+              },
+              "dapAn": "C. Germany and America",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "56c948c0-b33c-4ca5-a509-1ad6091ae144"
+              },
+              "dapAn": "D. Brazil and Mexico",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Pammy is from America. She’s American. Her first language is English. Her friends are Brazilian and Mexican.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Where is Pammy from?</b> <i>(Pammy đến từ đâu?)</i>, câu trong bài đọc liên quan là <b>Pammy is from America.</b> <i>(Pammy đến từ nước Mỹ.)</i>. Nên đáp án là <span style=\"color:red\"><b>B. America</b></span> <i>(nước Mỹ).</i><br /><br /><b>2.</b> Với câu hỏi <b>What is Pammy's nationality?</b> <i>(Quốc tịch của Pammy là gì?)</i>, câu trong bài đọc liên quan là <b>She's American. <i></i></b><i>(Cô ấy là người Mỹ.).</i> Nên đáp án là <span style=\"color:red\"><b>A. American</b></span> <i>(người Mỹ).</i><br /><br />\n<b>3.</b> Với câu hỏi <b>What is Pammy's first language?</b> <i>(Ngôn ngữ đầu tiên của Pammy là gì?)</i>, câu trong bài đọc liên quan là <b>Her first language is English.</b> <i>(Ngôn ngữ mẹ đẻ của cô ấy là tiếng Anh.)</i>. Nên đáp án là <span style=\"color:red\"><b>A. English</b></span> <i>(tiếng Anh)</i>.<br /><br /><b>4.</b> Với câu hỏi <b>Where are Pammy's friends from? <i></i></b><i>(Các bạn của Pammy đến từ đâu?)</i>, câu trong bài đọc liên quan là <b>Her friends are Brazilian and Mexican.</b> <i>(Các bạn của cô ấy là người Bra-zin và người Mê-xi-cô)</i>. Nên đáp án là <span style=\"color:red\"><b>D. Brazil and Mexico</b></span> <i>(nước Bra-zin và nước Mê-xi-cô)</i>.",
+      "danhSachDapAn": []
+    }
+  ]
+}

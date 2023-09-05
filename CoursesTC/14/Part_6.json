@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "4545feac-807a-47ca-871f-dad8eba8d7e7"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "a7267db6-a154-4a27-81a6-9a0eac8c0f3c"
+          },
+          "cauHoi": "Which of the following adjectives describe some typical abilities?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "4e897f60-74f9-4aa3-902c-243634efb95f"
+              },
+              "dapAn": "A. creative",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "992be2a1-2fad-4cf6-bffd-f4035c64cd1d"
+              },
+              "dapAn": "B. productive",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "dbcdaab9-21eb-4763-a6d6-1fc675b63938"
+              },
+              "dapAn": "C. organized",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a8aa0040-6fcd-45ff-819c-b37f78640a50"
+              },
+              "dapAn": "D. A & C",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "04f77e89-324a-48f3-be7a-0f59d4bc19aa"
+          },
+          "cauHoi": "What does the word “which” in the paragraph refer to?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "33d789a1-9e12-40f2-b92f-f341d3ec21f0"
+              },
+              "dapAn": "A. profile",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d9b80c8a-a0af-42cb-9084-08d29798abc7"
+              },
+              "dapAn": "B. CVs",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "bba820b6-4a95-417c-b5aa-34bea47134f5"
+              },
+              "dapAn": "C. skills",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "852a5477-a7db-4c27-b8dd-2be24f2be744"
+              },
+              "dapAn": "D. typical abilities",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "aa4e9ff6-545f-4fac-ad9f-95bd0b137dc5"
+          },
+          "cauHoi": "What is the skill used when you interact with people with different years of age?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a1a93015-426b-42ef-8ccc-9afe79f95476"
+              },
+              "dapAn": "A. problem-solving skill",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "43e03fa7-cbe6-46c4-9e0c-2be95bbd406d"
+              },
+              "dapAn": "B. cognitive skill",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d09df677-4a00-4c7f-a77c-790f6145f34b"
+              },
+              "dapAn": "C. interpersonal skill",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f5cf66e3-710e-435e-96b6-85f0fefbef29"
+              },
+              "dapAn": "D. cooperative skill",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "b157cb77-6022-424e-b204-a769bac19584"
+          },
+          "cauHoi": "According to the passage, which skill should be applied to solve work-related complication?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2949bc69-7e09-4220-b392-d0cc4f877a16"
+              },
+              "dapAn": "A. critical thinking",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a7249778-4690-4dca-b8e2-8d4b2575d0e6"
+              },
+              "dapAn": "B. communicative skill",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "da2a0abc-373a-4eed-99ad-bf6307b55e03"
+              },
+              "dapAn": "C. cognitive skill",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a876cb9c-c57d-4233-bbe2-d5137c849dac"
+              },
+              "dapAn": "D. teamwork skill",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Besides having some typical abilities such as being creative, organized, just like what any ordinary people do with their CVs, you should include skills which can help your profile stand out among thousands of which the recruiters receive daily; for example, your interpersonal skill - how you interact with people with different years of age, or cognitive skill and how you apply the skill to solve work-related complication.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Which of the following adjectives describe some typical abilities?</b> <i>(Tính từ nào dưới đây miêu tả một số khả năng đặc trưng?),</i> <b></b>câu trong bài đọc liên quan là <b>Besides having some typical abilities such as being creative, organized</b><b>.</b> <i>(</i><i>Bên cạnh việc có các khả năng đặc trưng ví dụ như sáng tạo, có tổ chức</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">D. A & C</span></b> <i>(cả A và C)</i>.<br /> <br /> <b>2.</b> Với câu hỏi <b>What does the word \"which\" in the paragraph refer to?</b> <i>(Từ \"which\" trong đoạn văn đề cập đến điều gì?),</i> <b></b>câu trong bài đọc liên quan là <b>just like what any ordinary people do with their CVs, you should include skills which can help your profile stand out among thousands of which the recruiters receive daily;</b><i>(</i><i>như cách mà một người bình thường đang làm với CV của họ, bạn nên bổ sung thêm các kĩ năng có thể giúp cho hồ sơ của mình nổi bật giữa hàng ngàn hồ sơ mà nhà tuyển dụng nhận được mỗi ngày</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">B. CVs</span></b> <i>(sơ yếu lý lịch)</i>.<br /> <br /> <b>3.</b> Với câu hỏi <b>What is the skill used when you interact with people with different years of age?</b> <i>(Kĩ năng nào được sử dụng khi bạn tương tác với mọi người ở nhiều độ tuổi?),</i> <b></b>câu trong bài đọc liên quan là <b>for example, your interpersonal skill - how you interact with people with different years of age</b> <i>(</i><i>chẳng hạn như kĩ năng tương tác xã hội của bạn – bạn tương tác với mọi người ở nhiều độ tuổi</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">C. interpersonal skill</span></b> <i>(kỹ năng tương tác xã hội)</i>.<br /> <br /> <b>4.</b> Với câu hỏi <b>According to the passage,</b> <b>which skill should be applied to solve work-related complication?</b><i>(Theo như đoạn văn, kỹ năng nào nên được áp dụng để giải quyết rắc rối liên quan đến công việc?),</i> <b></b>câu trong bài đọc liên quan là <b>or cognitive skill and how you apply the skill to solve work-related complication</b><b>.</b> <i>(</i><i>Hoặc là kĩ năng tư duy và cách bạn áp dụng kĩ năng này để giải quyết những rắc rối liên quan đến công việc</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">C. Cognitive skill</span> </b><i>(Kĩ năng tư duy)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "944dd46b-1845-48dd-b5f9-000e123bcec5"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "93bf9efa-f7ea-42bd-aad6-02af7c0b702e"
+          },
+          "cauHoi": "What area did Ariel work in?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f30c4877-b434-43b5-a28d-8f06ed60eac8"
+              },
+              "dapAn": "A. tourism",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "77db7e95-0e70-4b65-b7fa-259f2f1650aa"
+              },
+              "dapAn": "B. sculpture",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "2433f8cd-8360-4b97-a713-ce19ada58aee"
+              },
+              "dapAn": "C. finance",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "64e0e6b8-105b-4640-a8e2-943f9b29d059"
+              },
+              "dapAn": "D. marketing",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ddd769e9-0940-45e5-8984-030f13d63df8"
+          },
+          "cauHoi": "What activity did Ariel participate in last summer?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "18836eea-64c5-469f-b3e3-62983489f357"
+              },
+              "dapAn": "A. a workshop",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b4b50602-2a83-4d3f-bdc6-fc967babe2a5"
+              },
+              "dapAn": "B. a job fair",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2641b51c-3e2a-47c8-9ff3-a48f98132f93"
+              },
+              "dapAn": "C. a contest",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "472e6234-ea93-4de2-bf32-f61aa67758bd"
+              },
+              "dapAn": "D. a marathon",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "7b3e41df-d5df-40b2-8ed0-f1d10209a1b3"
+          },
+          "cauHoi": "What kind of material did Ariel love making things with?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a2d2efca-88af-4938-8ae5-e2b5a91f50f3"
+              },
+              "dapAn": "A. metal",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8c9174f3-c409-4c38-948e-95a38feff10e"
+              },
+              "dapAn": "B. rubber",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b34f70ec-215a-4cbe-b57a-a835f4d51689"
+              },
+              "dapAn": "C. clay",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f7522fee-dd15-43b4-93d6-087352190b8e"
+              },
+              "dapAn": "D. Vietnam",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "4c3d010d-821a-44ef-b340-3d1af867cc35"
+          },
+          "cauHoi": "How did Kayla feel at the end of the conversation?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "601eba92-d0d9-44bf-9756-4ca738f47c06"
+              },
+              "dapAn": "A. bored",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d22736da-a8fa-468a-9efe-5fbfc9c44863"
+              },
+              "dapAn": "B. interested",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f8cf9863-4590-4b77-99a2-d551cdbe4d65"
+              },
+              "dapAn": "C. annoyed",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "02d89031-544d-4525-bb51-abf56ff942d0"
+              },
+              "dapAn": "D. amazed",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Ariel:</b></td>                        <td>How is everything, Kayla?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kayla:</b></td>\n                        <td>Everything's good. How about you?</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Ariel:</b></td>                        <td>Of course! It's all under my control.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kayla:</b></td>\n                        <td>I heard you started your career in sculpture.</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Ariel:</b></td>                        <td>Yes! After having participated in a workshop last summer, I realized I love making things with clay. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kayla:</b></td>\n                        <td>That sounds interesting! </td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What area did Ariel work in?</b> <i>(Arial làm việc trong lĩnh vực nào?),</i> <b></b>câu trong bài đọc liên quan là <b>I heard you started your career in sculpture.</b> <b>Yes!</b> <i>(</i><i>Tớ nghe nói cậu đã bắt đầu sự nghiệp trong ngành tác phẩm điêu khắc. Đúng vậy!</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">B. sculpture</span> </b><i>(tác phẩm điêu khắc)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>What activity did Ariel participate in last summer?</b> <i>(Ariel đã tham gia vào hoạt động gì vào hè vừa rồi?),</i> <b></b>câu trong bài đọc liên quan là <b>After having participated in a workshop last summer, I realized I love making things with clay.</b> <i>(</i><i>Sau khi tham gia một buổi hội thảo về đất sét hè vừa rồi, tớ nhận ra rằng mình rất yêu thích công việc làm đồ từ đất sét.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">A. a workshop</span> </b><i>(một buổi hội thảo)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>What kind of material did Ariel love making things with?</b> <i>(Ariel yêu thích làm đồ từ nguyên liệu gì?),</i> <b></b>câu trong bài đọc liên quan là <b>I realized I love making things with clay.</b> <i>(</i><i>Tớ nhận ra rằng mình rất yêu thích công việc làm đồ từ đất sét.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">C. clay</span> </b><i>(đất sét)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>How did Kayla feel at the end of the conversation?</b> <i>(Kayla cảm thấy như thế nào cuối buổi hội thoại?),</i> <b></b>câu trong bài đọc liên quan là <b>That sounds interesting!</b> <i>(Nghe thú vị quá.).</i> Nên đáp áp là <b><span style=\"color:red\">B. interested</span> </b><i>(thú vị)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "69bcad90-4b3e-4a3b-982f-0d7534ca625d"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "c9539f3e-ddda-44a6-8db4-d4bbcf7093ea"
+          },
+          "cauHoi": "What is the name of the game that Kayla and Ariel used to play?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "fbdaf4df-1d0d-4ae1-8207-e30ced6886a3"
+              },
+              "dapAn": "A. board game",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "c02fdbcb-fa34-484d-b99b-c9398fbfdd65"
+              },
+              "dapAn": "B. football",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fffddaa1-39ba-499a-8f22-fef6abfd8e0f"
+              },
+              "dapAn": "C. volleyball",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e425b382-8955-40ae-9eb1-60daf52dd37b"
+              },
+              "dapAn": "D. tennis",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "c5db29ce-10d7-450f-a14c-9e695dd358c8"
+          },
+          "cauHoi": "Does Kayla remember their favorite after school activities?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9c41fd44-0101-4071-813e-ca1ee63c4afb"
+              },
+              "dapAn": "A. Yes, she is",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "58130c07-e30d-4bd2-aeee-d2f26a54db6d"
+              },
+              "dapAn": "B. No, she doesn’t",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9b1d12bb-4b36-4f38-936d-df56d9b25c7a"
+              },
+              "dapAn": "C. Yes, she does",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f92abbf9-43fb-4f7e-ade6-25beb0773c93"
+              },
+              "dapAn": "D. No, she isn’t",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "26664834-849a-4f36-ba86-b502e7dca2ef"
+          },
+          "cauHoi": "What did they always do when they were children?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "31b3fb1b-d9a3-4b92-86a4-1341b55ed9f6"
+              },
+              "dapAn": "A. flying kites",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "41dfa018-da76-40d1-893a-c3a40a7bbad3"
+              },
+              "dapAn": "B. jumping rope",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "57c99565-5106-4aaa-a938-bff9f665483c"
+              },
+              "dapAn": "C. playing the flute",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "63f99abd-3fd8-4f25-997c-cb93c44872cc"
+              },
+              "dapAn": "D. taking pictures",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "19797048-f7d8-4576-a758-31019b2aa6e6"
+          },
+          "cauHoi": "Are Ariel and Kayla childhood friends?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ae9633aa-d7c9-4006-b21d-7cdf627ffae1"
+              },
+              "dapAn": "A. Yes, they were",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bb3acd60-b6e4-4b2a-86a2-9be302cc1305"
+              },
+              "dapAn": "B. Yes, they are",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "5d1b140c-d8b2-4d12-a0cc-293c4b3fa94f"
+              },
+              "dapAn": "C. No, they aren’t\nD. No, they weren’t",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c0bdbd39-8d93-4311-bfbf-faf146c2a208"
+              },
+              "dapAn": "D. No, they weren’t",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kayla:</b></td>\n                        <td>I still remember us playing board game in your room years ago. Time flies so fast!</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Ariel:</b></td>                        <td>Don't you remember one of our favorite after school activities?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kayla:</b></td>\n                        <td>How can I ever forget? We always spent hours jumping rope when we were kids.</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Ariel:</b></td>                        <td>Good old days. I'm so glad we're still friends, Kayla.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kayla:</b></td>\n                        <td>Me too, Ariel!</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What is the name of the game that Kayla and Ariel used to play?</b><br />\n <i>(Tên của trò chơi mà Kayla và Ariel từng chơi là gì?),</i> <b></b>câu trong bài đọc liên quan là <b></b><b>I still remember us playing board game in your room years ago.</b> <i>(</i><i>Tớ vẫn nhớ nhiều năm trước tụi mình vẫn còn chơi trò chơi bàn cờ trong phòng cậu</i><i>.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">A. board game</span> </b><i>(trò chơi bàn cờ)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>Does Kayla remember their favorite after school activities?</b> <i>(Kayla có nhớ những hoạt động sau giờ học yêu thích của họ không?),</i> <b></b>câu trong bài đọc liên quan là <b>How can I ever forget? We always spent hours jumping rope when we were kids.</b> <i>(</i><i>Sao mà mình có thể quên được? Tụi mình còn dành ra hàng giờ để nhảy dây lúc còn bé cơ mà.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">C. Yes, she does</span> </b><i>(Có)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>What did they always do when they were children?</b> <i>(Họ luôn làm gì khi còn là trẻ con?),</i> <b></b>câu trong bài đọc liên quan là <b>We always spent hours jumping rope when we were kids</b><span style=\"color:red\">.</span> <i>(</i><i>Tụi mình còn dành ra hàng giờ để nhảy dây lúc còn bé cơ mà</i><i>.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">B. jumping rope</span> </b><i>(nhảy dây)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>Are Ariel and Kayla childhood friends?</b> <i>(Ariel và Kayla có phải là bạn từ thời thơ ấu không?),</i> <b></b>câu trong bài đọc liên quan là <b>Good old days. I'm so glad we're still friends, Kayla.</b> <i>(</i><i>Những ngày xưa cũ tuyệt vời. Tớ rất vui vì tụi mình vẫn là bạn, Kayla à</i><i>.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">B. Yes, they are</span> </b><i>(Đúng)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e3167c5f-b7fd-4f2f-9dc5-d3278ebd7627"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "e1d3bf81-34b4-4688-8f55-b6cd01cd4a01"
+          },
+          "cauHoi": "What can people try doing to be kidults?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "33bd898a-a1ae-4857-b46f-2caeb314c08d"
+              },
+              "dapAn": "A. doing puzzles",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "24b6e6f6-fe0c-46b1-a45d-1bbc06d92466"
+              },
+              "dapAn": "B. flying a kite",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "62712e15-4268-483c-80a1-a3927c807cd5"
+              },
+              "dapAn": "C. building models",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "661bf69a-06e5-42bd-8fa5-d80077257f4b"
+              },
+              "dapAn": "D. A & B",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "72c26183-be64-4e6a-ae58-4c6949557875"
+          },
+          "cauHoi": "Are people under considerable pressure with their jobs?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a0bcf594-75a8-4f57-8b8f-7f67fec4c83d"
+              },
+              "dapAn": "A. No, they aren’t",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fcd7abe8-aa87-41e3-b53b-7a7dee11bd36"
+              },
+              "dapAn": "B. No, they weren’t",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "007ce788-8e07-47c7-b0ac-80643dff75fb"
+              },
+              "dapAn": "C. Yes, they are",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "665cb9f5-8c6b-451d-9314-d892abde2c0a"
+              },
+              "dapAn": "D. Yes, they were",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "a5c5311d-1c40-4e7e-89af-970c6f11ab8b"
+          },
+          "cauHoi": "How might people feel when doing puzzles?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7d9a99f1-e597-4948-8d27-c0a826fd37db"
+              },
+              "dapAn": "A. relaxed\r\n",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "0d34369b-950c-4ec6-b6fe-11774ad4d44c"
+              },
+              "dapAn": "B. surprised",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "50eb8375-1568-4bbb-b9c0-929fc0cc61b8"
+              },
+              "dapAn": "C. bored",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "42402847-4c55-465d-97ef-54fddd59bdb8"
+              },
+              "dapAn": "D. curious",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "51d77d24-3422-41b4-b294-1856c80af760"
+          },
+          "cauHoi": "What would James like to get?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c127980a-c17e-4a94-beed-b12392debfcb"
+              },
+              "dapAn": "A. a prize",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f6a41547-cc42-4d8b-820c-fbce2569e039"
+              },
+              "dapAn": "B. a present",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d2192741-1bed-474e-9f06-cc0e57754ea2"
+              },
+              "dapAn": "C. a model",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4afa4df8-3aa9-408c-95c7-a17d1c5ba2c5"
+              },
+              "dapAn": "D. a diploma",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>James:</b></td>\n                        <td>Being a kidult is very easy. You can try doing puzzles, flying a kite, ...</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Carlos:</b></td>\n                        <td>These sound amazing. I have not played them for a long time.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>James:</b></td>\n                        <td>I know that adults are under a lot of pressure with their jobs so these activities could make them feel relaxed.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Carlos:</b></td>\n                        <td>Are you a kidult too, James?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>James:</b></td>\n                        <td>Actually no. It's time for me to gain a diploma and improve my intrapersonal skill.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What can people try doing to be kidults?</b> <i>(Mọi người có thể thử làm gì để làm những người lớn mang trong mình tâm hồn của trẻ con?),</i> <b></b>câu trong bài đọc liên quan là <b>Being a kidult is very easy. You can try doing puzzles, flying a kite,</b> <i>(</i><i>Làm một người lớn mang trong mình tâm hồn của trẻ con thì rất dễ. Câu có thể thử giải đố, thả diều</i><i>.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">D. A & B</span> </b><i>(A & B)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>Are people under considerable pressure with their jobs?</b> <i>(Mọi người có gặp áp lực lớn với công việc của họ không?),</i> <b></b>câu trong bài đọc liên quan là <b>I know that adults are under a lot of pressure with their jobs.</b> <i>(</i><i>Tớ biết rằng người lớn phải chịu rất nhiều áp lực công việc.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">C. Yes, they are</span> </b><i>(Có)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>How might people feel when doing puzzles?</b> <i>(Mọi người có thể cảm thấy như thế nào khi giải đố?),</i>câu trong bài đọc liên quan là <b>These activities could make them feel relaxed.</b> <i>(</i><i>Những hoạt động này có thể giúp họ cảm thấy thư giãn</i><i>.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">A. relaxed</span> </b><i>(thư giãn)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>What would James like to get?</b> <i>(James muốn có gì?),</i> <b></b>câu trong bài đọc liên quan là <b>Good old days. I'm so glad we're still friends, Kayla.</b> <i>(</i><i>Những ngày xưa cũ tuyệt vời. Tớ rất vui vì tụi mình vẫn là bạn, Kayla à</i><i>.</i><i>).</i>Nên đáp áp là <b><span style=\"color:red\">D. a diploma</span> </b><i>(một chứng chỉ)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4788f868-4e34-45f0-9969-30b36c67df90"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "d553bb05-a116-4ea2-9702-6a214a5f3a52"
+          },
+          "cauHoi": "What activity is mentioned in the conversation?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "773f3c75-9d48-42c0-8f52-28323a8e5a99"
+              },
+              "dapAn": "A. using clay to build model",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "85958811-5661-461f-acfb-e470f2fa7ac0"
+              },
+              "dapAn": "B. using wood to build models",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "405cc2e8-a5d5-43fb-bd28-be8ec095eb4c"
+              },
+              "dapAn": "C. riding roller coasters",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "703760d8-1ba5-4a8f-828d-1d7661b218ad"
+              },
+              "dapAn": "D. riding a bike",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "23f76ac2-70d7-42a4-bbd9-90d7b947b865"
+          },
+          "cauHoi": "Does Ariel find building a model with clay helpful?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8dcf796b-37e1-4715-84be-07486ff96314"
+              },
+              "dapAn": "A. No, she doesn’t\nB. Yes, she does",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0afb5555-b7a3-4804-b1fd-2e451a2b2d22"
+              },
+              "dapAn": "B. Yes, she does",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "0ff2ff60-d317-4e99-aa18-68bc680537f0"
+              },
+              "dapAn": "C. Yes, she is",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8c904e08-f46e-45eb-a087-c0c7ab82490b"
+              },
+              "dapAn": "D. No, she isn’t",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "63b73760-aa76-4ed3-8539-4bf9a4524a24"
+          },
+          "cauHoi": "What feeling does Ariel have when sculpturing?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "226d50b7-30ff-4429-b355-55aa9766307c"
+              },
+              "dapAn": "A. peaceful",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "998496bf-e6b6-4ff0-8493-fc21059a3054"
+              },
+              "dapAn": "B. nervous",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1de8b854-4122-4a39-858b-0d8f56a7f42b"
+              },
+              "dapAn": "C. anxious\n",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5f7ab6b5-2e62-4594-8f8c-ea872f7550d7"
+              },
+              "dapAn": "D. satisfied",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "99672cb6-78a8-4932-b5e1-8e46863c3062"
+          },
+          "cauHoi": "How have Ariel and her inner child changed?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "4aed8cb2-293a-4f04-a5ba-9104d8d959ae"
+              },
+              "dapAn": "A. more curious and patient",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3e03453e-e0ea-4a55-b0b2-2dbb83f40770"
+              },
+              "dapAn": "B. more patient and kind",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "97f26235-c991-4ec4-8d5a-b901a5af2115"
+              },
+              "dapAn": "C. more patient and calm",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "2c7df5a6-3900-444a-a0d5-f0bbc6e9ca5b"
+              },
+              "dapAn": "D. more empathetic",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Ariel:</b></td>                        <td>I find using clay to build a model is a perfect activity for me and my inner child.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kayla:</b></td>\n                        <td>How does it help you and your inner child, Ariel?</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Ariel:</b></td>                        <td>I am more patient, calm and I find peace whenever I sculpture.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kayla:</b></td>\n                        <td>Wow, you've changed!</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What activity is mentioned in the conversation?</b> <i>(Hoạt động gì được đề cập đến trong đoạn hội thoại),</i> <b></b>câu trong bài đọc liên quan là <b>I find using clay to build a model is a perfect activity for me and my inner child.</b> <i>(</i><i>Tớ thấy việc dùng đất sét để xây dựng mô hình là một hoạt động hoàn hảo cho tớ và đứa trẻ bên trong của mình</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">A. using clay to build model</span> </b><i>(</i><i>dùng đất sét để xây dựng mô hình</i><i>)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>Does Ariel find building a model with clay helpful?</b> <i>(Ariel có thấy việc xây dựng mô hình bằng đất sét hữu ích không),</i> <b></b>câu trong bài đọc liên quan là <b>I find using clay to build a model is a perfect activity for me and my inner child.</b> <i>(</i><i>Tớ thấy việc dùng đất sét để xây dựng mô hình là một hoạt động hoàn hảo cho tớ và đứa trẻ bên trong của mình</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">B. Yes, she does</span> </b><i>(</i><i>dùng đất sét để xây dựng mô hình</i><i>)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>What feeling does Ariel have when sculpturing?</b> <i>(Ariel có cảm giác gì khi điêu khắc),</i> <b></b>câu trong bài đọc liên quan là <b>I find peace whenever I sculpture.</b> <i>(</i><i>Tớ tìm được bình yên mỗi khi điêu khắc</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">A. peaceful</span> </b><i>(</i><i>yên bình</i><i>)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>How have Ariel and her inner child changed?</b> <i>(Ariel và đứa trẻ bên trong của cô ấy đã thay đổi như thế nào?),</i> <b></b>câu trong bài đọc liên quan là <b>I am more patient, calm</b> <i>(Tớ kiên nhẫn, điềm đạm hơn).</i> Nên đáp áp là <b><span style=\"color:red\">C. more patient and calm</span> </b><i>(</i><i>kiên nhẫn và điềm đạm hơn</i><i>)</i>.",
+      "danhSachDapAn": []
+    }
+  ]
+}

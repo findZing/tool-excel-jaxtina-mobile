@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "d406f09c-6f0b-4430-987d-9646bf8741b2"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Eye",
+      "yNghia": "Mắt",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1654ab84-e555-4c50-8dcd-c7428e33e44c"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Leg",
+      "yNghia": "Chân",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7d736bd1-d745-48f8-9b5e-de7a8bd244de"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Mouth",
+      "yNghia": "Miệng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b3dfa65e-3bba-4ab8-ba24-f35d1fd82a2b"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Slim",
+      "yNghia": "(Người) gầy, mảnh khảnh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "53657ef0-63f6-4431-a921-53c08cf518a8"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Blond",
+      "yNghia": "(Tóc) vàng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "63b2aaa0-9524-4a13-b611-b3fdca333b99"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Dark",
+      "yNghia": "(Màu) tối",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d4b27d92-60b8-40de-8b0c-8abb55a918c6"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Tall",
+      "yNghia": "Cao",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "798d7206-ff5d-4bc3-8703-7fdb0079c36a"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Egg",
+      "yNghia": "Trứng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a8f6ea07-afda-4767-8864-7dc85972b2d4"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Cereal",
+      "yNghia": "Ngũ cốc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0f019ba7-b5b7-4b52-a931-cd9475b31c21"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Fruit",
+      "yNghia": "Hoa quả",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4a074b4d-9df3-44a6-95b3-241febf319a9"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Toast",
+      "yNghia": "Bánh mì nướng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "452d1385-3d1e-4d69-a5e0-896372fd45d4"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Rice",
+      "yNghia": "Cơm",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b2ed3e44-d162-4e77-9898-e379b5e54698"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Vegetable",
+      "yNghia": "Rau",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "084cbb80-ebfc-40bf-aebb-19f1df8364de"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Juice",
+      "yNghia": "Nước hoa quả",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "dcb0367a-1da8-4f88-9b48-2f55c701a15d"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Bored",
+      "yNghia": "Buồn chán",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1a0f9dcb-3ae4-4e0a-adf9-b2d53882905e"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Excited",
+      "yNghia": "Hào hứng, hứng khởi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f8780937-7d3b-47a1-8e1b-4ce4c3ab4fa7"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Happy",
+      "yNghia": "Vui vẻ, hạnh phúc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c22c2a70-5f7a-4508-bb43-bcadd17fd063"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Hungry",
+      "yNghia": "Đói",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "691e1f4a-a274-4bb9-ac69-51f58badba91"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Sad",
+      "yNghia": "Buồn bã, buồn rầu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a7b626b3-8d2c-4008-b890-397c4e614987"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Tired",
+      "yNghia": "Mệt mỏi",
+      "danhSachDapAn": []
+    }
+  ]
+}

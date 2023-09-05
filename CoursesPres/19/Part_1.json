@@ -1,0 +1,586 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "VOCABULARY",
+  "videoUrl": "4SKILLS_PRE_S_L19/vocabulary.mp4",
+  "newWords": [
+    {
+      "word": "sunny",
+      "loaiTu": "adj",
+      "phatAm": "/ˈsʌni/",
+      "meaning": "(trời) nắng đẹp",
+      "viDu": "It’s a sunny day.\n(Hôm nay trời nắng đẹp.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/249.sunny.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/249.sunny.png"
+    },
+    {
+      "word": "windy",
+      "loaiTu": "adj",
+      "phatAm": "/ˈwɪndi/",
+      "meaning": "(trời) có gió",
+      "viDu": "It’s windy today.\n(Hôm nay trời có gió.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/250.windy.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/250.windy.png"
+    },
+    {
+      "word": "snowy",
+      "loaiTu": "adj",
+      "phatAm": "/ˈsnəʊi/",
+      "meaning": "(thời tiết) có tuyết rơi",
+      "viDu": "It's snowy today.\n(Hôm nay trời có tuyết rơi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/251.snowy.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/251.snowy.png"
+    },
+    {
+      "word": "rainy",
+      "loaiTu": "adj",
+      "phatAm": "/ˈreɪni/",
+      "meaning": "(trời) mưa",
+      "viDu": "It’s rainy today.\n(Hôm nay trời mưa.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/252.rainy.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/252.rainy.png"
+    },
+    {
+      "word": "cloudy",
+      "loaiTu": "adj",
+      "phatAm": "/ˈklaʊdi/",
+      "meaning": "(trời) nhiều mây",
+      "viDu": "It’s a cloudy day.\n(Hôm nay trời nhiều mây.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/253.cloudy.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/253.cloudy.png"
+    },
+    {
+      "word": "cool",
+      "loaiTu": "adj",
+      "phatAm": "/kuːl/",
+      "meaning": "mát mẻ",
+      "viDu": "Today is a cool day.\n(Hôm nay trời mát mẻ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/254.cool.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/254.cool.png"
+    },
+    {
+      "word": "freezing",
+      "loaiTu": "adj",
+      "phatAm": "/ˈfriːzɪŋ/",
+      "meaning": "(trời) rất lạnh",
+      "viDu": "It’s freezing today.\n(Hôm nay trời rất lạnh.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/255.freezing.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/255.freezing.png"
+    },
+    {
+      "word": "hot",
+      "loaiTu": "adj",
+      "phatAm": "/hɒt/",
+      "meaning": "nóng bức",
+      "viDu": "It’s hot today.\n(Hôm nay trời nóng bức.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/256.hot.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/256.hot.png"
+    }
+  ],
+  "scriptVideo": [
+    {
+      "start": "0:00:52",
+      "end": "0:00:55",
+      "english": "Household chores",
+      "subScriptEnglish": "Household chores",
+      "matchedNewWords": [],
+      "vietnamese": "Việc nhà"
+    },
+    {
+      "start": "0:01:19",
+      "end": "0:01:22",
+      "english": "Weather",
+      "subScriptEnglish": "Weather",
+      "matchedNewWords": [],
+      "vietnamese": "Thời tiết"
+    },
+    {
+      "start": "0:01:32",
+      "end": "0:01:39",
+      "english": "cool",
+      "subScriptEnglish": " _cool_ ",
+      "matchedNewWords": [
+        "cool"
+      ],
+      "vietnamese": "mát mẻ"
+    },
+    {
+      "start": "0:01:41",
+      "end": "0:01:48",
+      "english": "It’s cool today. - Today is a cool day.",
+      "subScriptEnglish": "It’s  _cool__ today. - Today is a  _cool__ day.",
+      "matchedNewWords": [
+        "cool"
+      ],
+      "vietnamese": "Hôm nay trời mát mẻ."
+    },
+    {
+      "start": "0:01:50",
+      "end": "0:01:59",
+      "english": "It’s cool today.",
+      "subScriptEnglish": "It’s  _cool__ today.",
+      "matchedNewWords": [
+        "cool"
+      ],
+      "vietnamese": "Hôm nay trời mát mẻ."
+    },
+    {
+      "start": "0:01:59",
+      "end": "0:02:11",
+      "english": "Today is a cool day.",
+      "subScriptEnglish": "Today is a  _cool__ day.",
+      "matchedNewWords": [
+        "cool"
+      ],
+      "vietnamese": "Hôm nay trời mát mẻ."
+    },
+    {
+      "start": "0:02:22",
+      "end": "0:02:30",
+      "english": "It’s a sunny day. - It's sunny today.",
+      "subScriptEnglish": "It’s  _a__  _sunny__ day. - It's  _sunny__ today.",
+      "matchedNewWords": [
+        "sunny",
+        "A"
+      ],
+      "vietnamese": "Hôm nay trời nắng đẹp."
+    },
+    {
+      "start": "0:02:33",
+      "end": "0:02:43",
+      "english": "sunny",
+      "subScriptEnglish": " _sunny_ ",
+      "matchedNewWords": [
+        "sunny"
+      ],
+      "vietnamese": "nắng đẹp"
+    },
+    {
+      "start": "0:02:44",
+      "end": "0:02:55",
+      "english": "It's sunny today.",
+      "subScriptEnglish": "It's  _sunny__ today.",
+      "matchedNewWords": [
+        "sunny"
+      ],
+      "vietnamese": "Hôm nay trời nắng đẹp."
+    },
+    {
+      "start": "0:02:56",
+      "end": "0:03:10",
+      "english": "It’s a sunny day.",
+      "subScriptEnglish": "It’s  _a__  _sunny__ day.",
+      "matchedNewWords": [
+        "sunny",
+        "A"
+      ],
+      "vietnamese": "Hôm nay trời nắng đẹp."
+    },
+    {
+      "start": "0:03:21",
+      "end": "0:03:25",
+      "english": "It’s hot today. - It’s a hot day.",
+      "subScriptEnglish": "It’s  _hot__ today. - It’s a  _hot__ day.",
+      "matchedNewWords": [
+        "hot"
+      ],
+      "vietnamese": "Ngày mùa hè nóng bức"
+    },
+    {
+      "start": "0:03:26",
+      "end": "0:03:36",
+      "english": "hot",
+      "subScriptEnglish": " _hot_ ",
+      "matchedNewWords": [
+        "hot"
+      ],
+      "vietnamese": "nóng bức"
+    },
+    {
+      "start": "0:03:36",
+      "end": "0:03:47",
+      "english": "It’s hot today.",
+      "subScriptEnglish": "It’s  _hot__ today.",
+      "matchedNewWords": [
+        "hot"
+      ],
+      "vietnamese": "Hôm nay trời nóng bức."
+    },
+    {
+      "start": "0:03:48",
+      "end": "0:04:00",
+      "english": "It’s a hot day.",
+      "subScriptEnglish": "It’s  _a__  _hot__ day.",
+      "matchedNewWords": [
+        "hot",
+        "A"
+      ],
+      "vietnamese": "Ngày mùa hè nóng bức"
+    },
+    {
+      "start": "0:04:08",
+      "end": "0:04:17",
+      "english": "rainy",
+      "subScriptEnglish": " _rainy_ ",
+      "matchedNewWords": [
+        "rainy"
+      ],
+      "vietnamese": "mưa"
+    },
+    {
+      "start": "0:04:23",
+      "end": "0:04:37",
+      "english": "It’s rainy today.",
+      "subScriptEnglish": "It’s  _rainy__ today.",
+      "matchedNewWords": [
+        "rainy"
+      ],
+      "vietnamese": "Hôm nay trời mưa."
+    },
+    {
+      "start": "0:04:40",
+      "end": "0:04:59",
+      "english": "It’s a rainy day.",
+      "subScriptEnglish": "It’s a  _rainy__ day.",
+      "matchedNewWords": [
+        "rainy"
+      ],
+      "vietnamese": "Hôm nay trời mưa."
+    },
+    {
+      "start": "0:05:10",
+      "end": "0:05:20",
+      "english": "cloudy",
+      "subScriptEnglish": " _cloudy_ ",
+      "matchedNewWords": [
+        "cloudy"
+      ],
+      "vietnamese": "nhiều mây"
+    },
+    {
+      "start": "0:05:24",
+      "end": "0:05:30",
+      "english": "It’s cloudy today. - It’s a cloudy day.",
+      "subScriptEnglish": "It’s  _cloudy__ today. - It’s a  _cloudy__ day.",
+      "matchedNewWords": [
+        "cloudy"
+      ],
+      "vietnamese": "Hôm nay trời nhiều mây."
+    },
+    {
+      "start": "0:05:31",
+      "end": "0:05:42",
+      "english": "It’s cloudy today.",
+      "subScriptEnglish": "It’s  _cloudy__ today.",
+      "matchedNewWords": [
+        "cloudy"
+      ],
+      "vietnamese": "Hôm nay trời nhiều mây."
+    },
+    {
+      "start": "0:05:44",
+      "end": "0:06:00",
+      "english": "It’s a cloudy day.",
+      "subScriptEnglish": "It’s  _a__  _cloudy__ day.",
+      "matchedNewWords": [
+        "cloudy",
+        "A"
+      ],
+      "vietnamese": "Hôm nay trời nhiều mây."
+    },
+    {
+      "start": "0:06:07",
+      "end": "0:06:15",
+      "english": "It’s windy today. - It’s a windy day.",
+      "subScriptEnglish": "It’s  _windy__ today. - It’s a  _windy__ day.",
+      "matchedNewWords": [
+        "windy"
+      ],
+      "vietnamese": "Hôm nay trời có gió."
+    },
+    {
+      "start": "0:06:16",
+      "end": "0:06:28",
+      "english": "windy",
+      "subScriptEnglish": " _windy_ ",
+      "matchedNewWords": [
+        "windy"
+      ],
+      "vietnamese": "có gió"
+    },
+    {
+      "start": "00:06:28.292",
+      "end": "0:06:37",
+      "english": "It’s windy today.",
+      "subScriptEnglish": "It’s  _windy__ today.",
+      "matchedNewWords": [
+        "windy"
+      ],
+      "vietnamese": "Hôm nay trời có gió."
+    },
+    {
+      "start": "0:06:37",
+      "end": "0:06:46",
+      "english": "It’s a windy day.",
+      "subScriptEnglish": "It’s  _a__  _windy__ day.",
+      "matchedNewWords": [
+        "windy",
+        "A"
+      ],
+      "vietnamese": "Hôm nay trời có gió."
+    },
+    {
+      "start": "0:06:57",
+      "end": "0:07:02",
+      "english": "How’s the weather today?",
+      "subScriptEnglish": "How’s the weather today?",
+      "matchedNewWords": [],
+      "vietnamese": "Thời tiết hôm nay thế nào?"
+    },
+    {
+      "start": "0:07:02",
+      "end": "0:07:14",
+      "english": "It’s freezing today. - It’s a freezing day.",
+      "subScriptEnglish": "It’s  _freezing__ today. - It’s a  _freezing__ day.",
+      "matchedNewWords": [
+        "freezing"
+      ],
+      "vietnamese": "Hôm nay trời rất lạnh."
+    },
+    {
+      "start": "0:07:18",
+      "end": "0:07:27",
+      "english": "freezing",
+      "subScriptEnglish": " _freezing_ ",
+      "matchedNewWords": [
+        "freezing"
+      ],
+      "vietnamese": "trời rất lạnh"
+    },
+    {
+      "start": "0:07:28",
+      "end": "0:07:36",
+      "english": "It’s freezing today.",
+      "subScriptEnglish": "It’s  _freezing__ today.",
+      "matchedNewWords": [
+        "freezing"
+      ],
+      "vietnamese": "Hôm nay trời rất lạnh."
+    },
+    {
+      "start": "0:07:37",
+      "end": "0:07:47",
+      "english": "It’s a freezing day.",
+      "subScriptEnglish": "It’s  _a__  _freezing__ day.",
+      "matchedNewWords": [
+        "freezing",
+        "A"
+      ],
+      "vietnamese": "Hôm nay trời rất lạnh."
+    },
+    {
+      "start": "0:07:57",
+      "end": "00:08:12",
+      "english": "snowy",
+      "subScriptEnglish": " _snowy_ ",
+      "matchedNewWords": [
+        "snowy"
+      ],
+      "vietnamese": "trời có tuyết rơi"
+    },
+    {
+      "start": "0:08:18",
+      "end": "0:08:24",
+      "english": "It’s snowy today. - It’s a snowy day.",
+      "subScriptEnglish": "It’s  _snowy__ today. - It’s a  _snowy__ day.",
+      "matchedNewWords": [
+        "snowy"
+      ],
+      "vietnamese": "Hôm nay trời có tuyết rơi."
+    },
+    {
+      "start": "0:08:26",
+      "end": "0:08:38",
+      "english": "It’s snowy today.",
+      "subScriptEnglish": "It’s  _snowy__ today.",
+      "matchedNewWords": [
+        "snowy"
+      ],
+      "vietnamese": "Hôm nay trời có tuyết rơi."
+    },
+    {
+      "start": "0:08:39",
+      "end": "0:08:53",
+      "english": "It’s a snowy day.",
+      "subScriptEnglish": "It’s  _a__  _snowy__ day.",
+      "matchedNewWords": [
+        "snowy",
+        "A"
+      ],
+      "vietnamese": "Hôm nay trời có tuyết rơi."
+    }
+  ],
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:00:59.950",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Wash the dishes",
+            "_id": {
+              "$oid": "03c22e49-e687-4cc5-9c49-2108fb121599"
+            },
+            "yNghia": "Rửa bát"
+          },
+          {
+            "cauHoi": "Clean the house",
+            "_id": {
+              "$oid": "1a490f43-dc94-4d46-907d-8f6182c0de51"
+            },
+            "yNghia": "Lau nhà"
+          },
+          {
+            "cauHoi": "Take out the garbage",
+            "_id": {
+              "$oid": "f2e69f7c-5828-48a6-9d33-03806f25d0c3"
+            },
+            "yNghia": "Đổ rác"
+          },
+          {
+            "cauHoi": "Go shopping",
+            "_id": {
+              "$oid": "89de07aa-4a70-41da-b44c-2d13b5496701"
+            },
+            "yNghia": "Đi mua sắm"
+          },
+          {
+            "cauHoi": "Do the laundry",
+            "_id": {
+              "$oid": "0c54c637-1adc-448e-ae21-831ddb05179c"
+            },
+            "yNghia": "Giặt quần áo"
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:00:59.950",
+      "timeEnd": "0:09:01.912",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "6fda39e4-f3c0-41d1-9055-36f84183d4fb",
+                "dapAn": "s"
+              },
+              {
+                "_id": "f373521e-e5f5-4717-92a3-ba17754acfc1",
+                "dapAn": "u"
+              },
+              {
+                "_id": "0e7cc067-6597-487e-b52a-a13facc6b640",
+                "dapAn": "n"
+              },
+              {
+                "_id": "be6f469d-8176-439f-9d33-23b3b225367c",
+                "dapAn": "n"
+              },
+              {
+                "_id": "fb10ed50-38ae-49f3-a89a-22979ff6d7bd",
+                "dapAn": "y"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "d281f8ca-4150-4f6a-9531-5262634108f7",
+                "dapAn": "s"
+              },
+              {
+                "_id": "55ff79b6-7042-468a-911b-919c0e346ea0",
+                "dapAn": "n"
+              },
+              {
+                "_id": "2f6579b3-bc05-4132-a2f5-6541a6d3700c",
+                "dapAn": "o"
+              },
+              {
+                "_id": "02f4deef-0b62-439a-835b-ef1e219a9800",
+                "dapAn": "w"
+              },
+              {
+                "_id": "437184c2-b092-43de-9f38-b6e48228b245",
+                "dapAn": "y"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "7f9ccbcf-6c73-44cb-b585-d06e606030d5",
+                "dapAn": "c"
+              },
+              {
+                "_id": "0d2b3145-0532-4892-a3e8-a805a5b4a104",
+                "dapAn": "l"
+              },
+              {
+                "_id": "9d3785ed-45ae-4e64-86df-6f02ef7406bd",
+                "dapAn": "o"
+              },
+              {
+                "_id": "6932ebe5-ce77-4238-8797-348526991fd6",
+                "dapAn": "u"
+              },
+              {
+                "_id": "a3537e17-a0ed-4ae2-89df-2d9d25a125a4",
+                "dapAn": "d"
+              },
+              {
+                "_id": "6f694f92-034b-4311-89e4-d4d86702d425",
+                "dapAn": "y"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "9ca8035c-b7ae-423e-8d3f-da7ff3de2238",
+                "dapAn": "r"
+              },
+              {
+                "_id": "11f26b05-57f0-4a1d-8f58-c31cb8d81850",
+                "dapAn": "a"
+              },
+              {
+                "_id": "94e90106-2982-4305-a8b7-06535a6bdd8e",
+                "dapAn": "i"
+              },
+              {
+                "_id": "956b7808-7cf4-426e-a4af-75000b720071",
+                "dapAn": "n"
+              },
+              {
+                "_id": "3f8b8b64-e8b5-406d-96a0-ec5ab64e33d0",
+                "dapAn": "y"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

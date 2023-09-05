@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_MTC_L5/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_MTC_L5/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "aacbfa38-2ee0-4fa2-bd9b-5ab542513f1e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Henry",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0ce9fac7-464e-441a-8a9e-ce53a0d4f623"
+          },
+          "dapAn": "Carmen, are you free? Could you do me a favor?",
+          "phienAm": "/ˈkɑːmən ɑːr juː friː/. /kʊd juː duː miː eɪ ˈfeɪvər/",
+          "yNghia": "\nCarmen, bạn có rảnh không? Bạn có thể làm cho tôi một việc được không?",
+          "normal": {
+            "start": "00:00:00.596",
+            "end": "00:00:04.082"
+          },
+          "slow": {
+            "start": "00:00:00.625",
+            "end": "00:00:05.409"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b31467c1-3253-4372-8a01-b1aa3cb7e8c3"
+          },
+          "dapAn": "I have to write a summary about expert systems.",
+          "phienAm": "/aɪ hæv tuː raɪt eɪ ˈsʌməri əˈbaʊt ˈekspɜːt ˈˈsɪstəm/",
+          "yNghia": "\nTôi phải viết một bản tóm tắt về các hệ thống chuyên gia.",
+          "normal": {
+            "start": "00:00:06.793",
+            "end": "00:00:10.369"
+          },
+          "slow": {
+            "start": "00:00:08.830",
+            "end": "00:00:13.246"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ba5f3c55-5fa5-4640-be93-9fc5e67d1255"
+          },
+          "dapAn": "There is lots of information. I don’t understand much of it.",
+          "phienAm": "/ðeər ɪz lɒts ɒv ˌɪnfəˈmeɪʃən/. /aɪ dəʊnt ˌʌndəˈstænd mʌʧ ɒv ɪt/",
+          "yNghia": "\nCó nhiều thông tin quá. Tôi không hiểu nhiều về nó.",
+          "normal": {
+            "start": "00:00:14.927",
+            "end": "00:00:18.830"
+          },
+          "slow": {
+            "start": "00:00:19.132",
+            "end": "00:00:24.431"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "71067528-b5ec-4e4d-ab7c-27eaa836982f"
+          },
+          "dapAn": "AI is Artificial Intelligence.",
+          "phienAm": "/eɪ aɪ ɪz ˌɑːtɪˈfɪʃl ɪnˈtelɪʤəns/",
+          "yNghia": "\nAI là Trí tuệ nhân tạo.",
+          "normal": {
+            "start": "00:00:24.223",
+            "end": "00:00:26.905"
+          },
+          "slow": {
+            "start": "00:00:31.090",
+            "end": "00:00:34.475"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1f7fca61-eaab-46c9-a91c-63397e4f1b08"
+          },
+          "dapAn": "Got it. How does it work?",
+          "phienAm": "/gɒt ɪt/. /haʊ dʌz ɪt wɜːk/",
+          "yNghia": "\nĐã hiểu. Nó hoạt động như thế nào?",
+          "normal": {
+            "start": "00:00:35.605",
+            "end": "00:00:37.542"
+          },
+          "slow": {
+            "start": "00:00:44.961",
+            "end": "00:00:47.941"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ba47a834-b12d-4255-aed8-d6f4c2364262"
+          },
+          "dapAn": "Is this an automated process? Do I need to do anything?",
+          "phienAm": "/ɪz ðɪs æn ˈɔːtəmeɪtɪd ˈprəʊses/. /duː aɪ niːd tuː duː ˈenɪθɪŋ/",
+          "yNghia": "\nĐây có phải là một quá trình tự động? Tôi có cần làm gì không?",
+          "normal": {
+            "start": "00:00:46.421",
+            "end": "00:00:50.354"
+          },
+          "slow": {
+            "start": "00:00:58.096",
+            "end": "00:01:03.579"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "da1c041c-af8f-4d39-a6e7-0a00ba2bd37d"
+          },
+          "dapAn": "That’s really amazing. Are you using that computer system?",
+          "phienAm": "/ðæts ˈrɪəli əˈmeɪzɪŋ/. /ɑːr juː ˈjuːzɪŋ ðæt kəmˈpjuːtər ˈsɪstɪm/",
+          "yNghia": "\nĐiều đó thực sự tuyệt vời. Bạn có đang sử dụng hệ thống máy tính đó không?",
+          "normal": {
+            "start": "00:00:59.501",
+            "end": "00:01:03.821"
+          },
+          "slow": {
+            "start": "00:01:13.329",
+            "end": "00:01:18.443"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "904955f8-01ef-4df8-9be0-44794accc67b"
+          },
+          "dapAn": "Which area can it deal with?",
+          "phienAm": "/wɪʧ ˈeərɪə kæn ɪt diːl wɪð/",
+          "yNghia": "\nNó có thể sử dụng trong lĩnh vực nào?",
+          "normal": {
+            "start": "00:01:10.972",
+            "end": "00:01:12.700"
+          },
+          "slow": {
+            "start": "00:01:28.009",
+            "end": "00:01:30.143"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0fc617a2-2a52-473d-9cde-b57316e921f1"
+          },
+          "dapAn": "So, maybe human health information will be stored after someone is born. Is that right?",
+          "phienAm": "/səʊ ˈmeɪbiː ˈhjuːmən helθ ˌɪnfəˈmeɪʃn wɪl biː stɔːrd ˈɑːftər ˈsʌmwʌn ɪz bɔːn/. /ɪz ðæt raɪt/",
+          "yNghia": "\nVì vậy, có thể thông tin về sức khỏe con người sẽ được lưu trữ sau khi ai đó được sinh ra. Có đúng không?",
+          "normal": {
+            "start": "00:01:17.944",
+            "end": "00:01:24.201"
+          },
+          "slow": {
+            "start": "00:01:36.030",
+            "end": "00:01:44.382"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4c9bb9a1-de7f-470b-8572-26eafc41893f"
+          },
+          "dapAn": "AI is really a wonderful invention. Thank you very much, I know what to do now.",
+          "phienAm": "/eɪ aɪ ɪz ˈrɪəli eɪ ˈwʌndəfl ɪnˈvenʃn/. /θæŋk juː ˈveri mʌʧ aɪ nəʊ wɒt tuː duː naʊ/",
+          "yNghia": "\nAI thực sự là một phát minh tuyệt vời. Cảm ơn bạn rất nhiều, bây giờ tôi đã biết phải làm gì.",
+          "normal": {
+            "start": "00:01:31.739",
+            "end": "00:01:38.174"
+          },
+          "slow": {
+            "start": "00:01:52.881",
+            "end": "00:02:00.718"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ff2153a1-8e0f-4086-812b-aac5ca8f19c8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Carmen",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4c72d1cb-c700-4d6f-9c2c-f39297e0b40c"
+          },
+          "dapAn": "What’s the problem?",
+          "phienAm": "/wɒts ðə ˈprɒbləm/",
+          "yNghia": "\nCó vấn đề gì vậy?",
+          "normal": {
+            "start": "00:00:04.827",
+            "end": "00:00:05.959"
+          },
+          "slow": {
+            "start": "00:00:06.071",
+            "end": "00:00:07.763"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b3d17fec-ad47-4948-984c-2428e0ab4918"
+          },
+          "dapAn": "Why don’t you use the information on the Internet?",
+          "phienAm": "/waɪ dəʊnt juː juːz ðiː ˌɪnfəˈmeɪʃən ɒn ðiː ˈɪntəˌnet/",
+          "yNghia": "\nTại sao bạn không sử dụng thông tin trên mạng?",
+          "normal": {
+            "start": "00:00:11.233",
+            "end": "00:00:13.884"
+          },
+          "slow": {
+            "start": "00:00:14.165",
+            "end": "00:00:18.581"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2441a0c6-7259-42af-8486-fdc02fb4bab2"
+          },
+          "dapAn": "Alright. Do you know what AI means?",
+          "phienAm": "/ɔːlˈraɪt/. /duː juː nəʊ wɒt eɪ-aɪ miːnz/",
+          "yNghia": "\nĐược rồi. Bạn có biết AI nghĩa là gì không?",
+          "normal": {
+            "start": "00:00:19.397",
+            "end": "00:00:23.508"
+          },
+          "slow": {
+            "start": "00:00:25.056",
+            "end": "00:00:30.722"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "26f1541d-6fdb-4225-b4d0-6eac8f9ea6be"
+          },
+          "dapAn": "Correct. An expert system is a computer program using AI to solve problems.",
+          "phienAm": "/kəˈrekt/. /æn ˈekspɜːt ˈ ˈsɪstəm ɪz eɪ kəmˈpjuːter ˈprəʊgræm ˈjuːzɪŋ eɪ-aɪ tuː sɒlvˈ prɒbləmz/",
+          "yNghia": "\nChính xác. Một hệ thống chuyên gia là một chương trình máy tính sử dụng AI để giải quyết vấn đề.",
+          "normal": {
+            "start": "00:00:27.620",
+            "end": "00:00:34.562"
+          },
+          "slow": {
+            "start": "00:00:35.248",
+            "end": "00:00:43.931"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "709f5f35-adb5-40be-a98f-9fbde541f57f"
+          },
+          "dapAn": "It uses a database of knowledge together with rules to export suggested solutions.",
+          "phienAm": "/ɪt ˈjuːzɪz eɪ ˈdeɪtəbeɪs ɒv ˈnɒlɪʤ təˈgeðər wɪð ruːlz tuː ˈekspɔːt səˈʤestɪd səˈluːʃnz/",
+          "yNghia": "\nNó sử dụng cơ sở dữ liệu kiến thức cùng với các quy tắc để xuất các giải pháp được đề xuất.",
+          "normal": {
+            "start": "00:00:38.644",
+            "end": "00:00:45.467"
+          },
+          "slow": {
+            "start": "00:00:48.714",
+            "end": "00:00:57.029"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e5097ed1-bb51-4ee3-b77b-cb1136a8bc85"
+          },
+          "dapAn": "You only have to import some criteria’s data, then wait until the process finishes.",
+          "phienAm": "/juː ˈəʊnli hæv tuː ˈɪmpɔːt sʌm kraɪˈtɪəriəs ˈdeɪtə ðen weɪt ənˈtɪl ðə ˈprəʊses ˈfɪnɪʃɪz/",
+          "yNghia": "\nBạn chỉ phải nhập dữ liệu của một số tiêu chí, sau đó đợi cho đến khi quá trình kết thúc.",
+          "normal": {
+            "start": "00:00:51.218",
+            "end": "00:00:58.666"
+          },
+          "slow": {
+            "start": "00:01:04.241",
+            "end": "00:01:12.409"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b8de77da-428b-42ba-a14a-311fb48d1c74"
+          },
+          "dapAn": "Of course, it helps me a lot. And many scientists use it, too.",
+          "phienAm": "/ɒv kɔːs ɪt helps miː eɪ lɒt/. /ænd ˈmeni ˈsaɪəntɪsts juːz ɪt tuː/",
+          "yNghia": "\nTất nhiên, nó giúp tôi rất nhiều. Và nhiều nhà khoa học cũng sử dụng nó.",
+          "normal": {
+            "start": "00:01:04.864",
+            "end": "00:01:09.959"
+          },
+          "slow": {
+            "start": "00:01:19.216",
+            "end": "00:01:27.089"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3eb21526-14ca-48e7-842d-921173c09c20"
+          },
+          "dapAn": "This system contributes to the health profession a lot.",
+          "phienAm": "/ðɪs ˈsɪstəm kənˈtrɪbjuːts tuː ðə helθ prəˈfeʃn eɪ lɒt/",
+          "yNghia": "\nHệ thống này đóng góp rất nhiều cho ngành y tế.",
+          "normal": {
+            "start": "00:01:13.385",
+            "end": "00:01:17.139"
+          },
+          "slow": {
+            "start": "00:01:31.063",
+            "end": "00:01:35.147"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "42512438-0a10-4909-a493-c50f4717ee6e"
+          },
+          "dapAn": "Yes! Expert systems help doctors decide what’s wrong with the patients, too.",
+          "phienAm": "/jes/. /ˈekspɜːt ˈsɪstəmz help ˈdɒktəz dɪˈsaɪd wɒts rɒŋ wɪð ðə ˈpeɪʃnts tuː/",
+          "yNghia": "\nĐúng! Các hệ thống chuyên gia cũng giúp các bác sĩ trong việc chuẩn đoán bệnh tình của bệnh nhân.",
+          "normal": {
+            "start": "00:01:24.975",
+            "end": "00:01:30.994"
+          },
+          "slow": {
+            "start": "00:01:45.302",
+            "end": "00:01:52.182"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a9192af0-b946-4a6b-bd12-532d483d30b1"
+          },
+          "dapAn": "If you have any other questions, I will tell you what I know.",
+          "phienAm": "/ɪf juː hæv ˈeni ˈʌðər ˈkwesʧənz aɪ wɪl tel juː wɒt aɪ nəʊ/",
+          "yNghia": "\nNếu bạn có bất kỳ câu hỏi nào khác, tôi sẽ cho bạn biết những gì tôi biết.",
+          "normal": {
+            "start": "00:01:39.336",
+            "end": "00:01:42.465"
+          },
+          "slow": {
+            "start": "00:02:01.528",
+            "end": "00:02:06.016"
+          }
+        }
+      ]
+    }
+  ]
+}

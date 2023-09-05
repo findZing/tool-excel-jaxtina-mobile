@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "70f7dd95-1e46-4176-865a-4aa869a4034f"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "In",
+      "yNghia": "Ở trong",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c4bd0b93-2d50-412e-a352-8977df1bb215"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "On",
+      "yNghia": "Ở trên",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "56dfc830-4fe5-4487-9727-02018cc316bc"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Under",
+      "yNghia": "Ở dưới",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ef3b8bd7-1613-4d67-af2d-c6ffcc8e7cac"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Behind",
+      "yNghia": "Ở phía sau",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "70cd6347-1774-4e34-abf8-ef6e0270ca51"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Between",
+      "yNghia": "Ở giữa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "16d09a04-8a84-4594-ac6b-e4fafd3cd409"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Next to",
+      "yNghia": "Ở cạnh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "815c801f-3e33-4e41-90ab-5fcb557667d1"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "In front of",
+      "yNghia": "Ở phía trước",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ac8c93d0-a40a-459a-bc98-93656b372499"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Eleven",
+      "yNghia": "(Số đếm) 11",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "332f3cbf-b0bb-4bd3-8be5-cebfa004f533"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Twelve",
+      "yNghia": "(Số đếm) 12",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0a70ba60-73a0-4a97-9a63-7ad6802edb8f"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Thirteen",
+      "yNghia": "(Số đếm) 13",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2a0d31c2-35b2-49df-8c8b-463022973ebd"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Fourteen",
+      "yNghia": "(Số đếm) 14",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "38d62167-64b8-4121-8b28-f718e2deff08"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Fifteen",
+      "yNghia": "(Số đếm) 15",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a7f2f76d-8abf-4196-831b-8d43930dec35"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Sixteen",
+      "yNghia": "(Số đếm) 16",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ca86104a-2032-4762-87bd-0b88dbb42bb4"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Eighteen",
+      "yNghia": "(Số đếm) 18",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5b8824ee-4659-43a3-8bb9-671199870dcb"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Twenty",
+      "yNghia": "(Số đếm) 20",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7b2c9690-46b5-48db-8bca-201bd595e307"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Twenty-five",
+      "yNghia": "(Số đếm) 25",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ad724baa-1e1e-42d9-9840-cf40279e695b"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Thirty",
+      "yNghia": "(Số đếm) 30",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f0453502-963d-44cb-a3fa-c0a58091ec9e"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Forty",
+      "yNghia": "(Số đếm) 40",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d3d1a91d-1eab-4188-95b7-3f564c7d30ba"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Fifty",
+      "yNghia": "(Số đếm) 50",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ce96d4f1-1e61-41c4-b6f2-9839da038409"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Eighty",
+      "yNghia": "(Số đếm) 80",
+      "danhSachDapAn": []
+    }
+  ]
+}

@@ -1,0 +1,797 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "VOCABULARY",
+  "videoUrl": "4SKILLS_PRE_S_L10/vocabulary.mp4",
+  "newWords": [
+    {
+      "word": "Monday",
+      "loaiTu": "n",
+      "phatAm": "/ˈmʌndeɪ/",
+      "meaning": "thứ Hai",
+      "viDu": "Yesterday is Monday.\n(Hôm qua là thứ Hai.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/151.monday.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/151.monday.png"
+    },
+    {
+      "word": "Tuesday",
+      "loaiTu": "n",
+      "phatAm": "/ˈtʃuːzdeɪ/",
+      "meaning": "thứ Ba",
+      "viDu": "Today is Tuesday.\n(Hôm nay là thứ Ba.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/152.tuesday.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/152.tuesday.png"
+    },
+    {
+      "word": "Wednesday",
+      "loaiTu": "n",
+      "phatAm": "/ˈwenzdeɪ/",
+      "meaning": "thứ Tư",
+      "viDu": "Tomorrow is Wednesday.\n(Ngày mai là thứ Tư.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/153.wednesday.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/153.wednesday.png"
+    },
+    {
+      "word": "Thursday",
+      "loaiTu": "n",
+      "phatAm": "/ˈθɜːzdeɪ/",
+      "meaning": "thứ Năm",
+      "viDu": "Today is Thursday.\n(Hôm nay là thứ Năm.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/154.thursday.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/154.thursday.png"
+    },
+    {
+      "word": "Friday",
+      "loaiTu": "n",
+      "phatAm": "/ˈfraɪdeɪ/",
+      "meaning": "thứ Sáu",
+      "viDu": "My birthday is on Friday.\n(Sinh nhật của tôi vào thứ Sáu.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/155.friday.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/155.friday.png"
+    },
+    {
+      "word": "Saturday",
+      "loaiTu": "n",
+      "phatAm": "/ˈsætədeɪ/",
+      "meaning": "thứ Bảy",
+      "viDu": "I don't go to school on Saturday.\n(Tôi không đi học vào thứ Bảy.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/156.saturday.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/156.saturday.png"
+    },
+    {
+      "word": "Sunday",
+      "loaiTu": "n",
+      "phatAm": "/ˈsʌndeɪ/",
+      "meaning": "Chủ nhật",
+      "viDu": "I love Sunday.\n(Tôi thích Chủ nhật.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/157.sunday.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/157.sunday.png"
+    },
+    {
+      "word": "January",
+      "loaiTu": "n",
+      "phatAm": "/ˈdʒænjuəri/",
+      "meaning": "tháng 1",
+      "viDu": "January is cold.\n(Tháng 1 lạnh.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/158.january.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/158.january.png"
+    },
+    {
+      "word": "February",
+      "loaiTu": "n",
+      "phatAm": "/ˈfebruəri/",
+      "meaning": "tháng 2",
+      "viDu": "We are very busy in February.\n(Vào tháng 2 chúng tôi rất bận.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/159.february.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/159.february.png"
+    },
+    {
+      "word": "March",
+      "loaiTu": "n",
+      "phatAm": "/mɑːtʃ/",
+      "meaning": "tháng 3",
+      "viDu": "My birthday is in March.\n(Sinh nhật tôi vào tháng 3.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/160.march.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/160.march.png"
+    },
+    {
+      "word": "April",
+      "loaiTu": "n",
+      "phatAm": "/ˈeɪprəl/",
+      "meaning": "tháng 4",
+      "viDu": "I hate April.\n(Tôi ghét tháng 4.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/161.april.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/161.april.png"
+    },
+    {
+      "word": "May",
+      "loaiTu": "n",
+      "phatAm": "/meɪ/",
+      "meaning": "tháng 5",
+      "viDu": "May is my favorite month.\n(Tháng 5 là tháng yêu thích của tôi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/162.may.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/162.may.png"
+    },
+    {
+      "word": "June",
+      "loaiTu": "n",
+      "phatAm": "/dʒuːn/",
+      "meaning": "tháng 6",
+      "viDu": "My birthday is in June.\n(Sinh nhật của tôi vào tháng 6.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/163.june.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/163.june.png"
+    },
+    {
+      "word": "July",
+      "loaiTu": "n",
+      "phatAm": "/dʒuˈlaɪ/",
+      "meaning": "tháng 7",
+      "viDu": "It rains too much in July.\n(Trời mưa rất nhiều vào tháng 7.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/164.july.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/164.july.png"
+    },
+    {
+      "word": "August",
+      "loaiTu": "n",
+      "phatAm": "/ɔːˈɡʌst/",
+      "meaning": "tháng 8",
+      "viDu": "The leaves fall in August.\n(Lá rụng vào tháng 8.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/165.august.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/165.august.png"
+    },
+    {
+      "word": "September",
+      "loaiTu": "n",
+      "phatAm": "/sepˈtembər/",
+      "meaning": "tháng 9",
+      "viDu": "My birthday is in September.\n(Sinh nhật của tôi vào tháng 9.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/166.september.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/166.september.png"
+    },
+    {
+      "word": "October",
+      "loaiTu": "n",
+      "phatAm": "/ɒkˈtəʊbər/",
+      "meaning": "tháng 10",
+      "viDu": "October is my favorite month.\n(Tháng 10 là tháng yêu thích của tôi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/167.october.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/167.october.png"
+    },
+    {
+      "word": "November",
+      "loaiTu": "n",
+      "phatAm": "/nəʊˈvembər/",
+      "meaning": "tháng 11",
+      "viDu": "It's very cold in November.\n(Vào tháng 11, trời rất lạnh.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/168.november.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/168.november.png"
+    },
+    {
+      "word": "December",
+      "loaiTu": "n",
+      "phatAm": "/dɪˈsembər/",
+      "meaning": "tháng 12",
+      "viDu": "December is the last month of the year.\n(Tháng 12 là tháng cuối cùng trong năm.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/169.december.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/169.december.png"
+    }
+  ],
+  "scriptVideo": [
+    {
+      "start": "0:01:01",
+      "end": "0:01:10",
+      "english": "Monday",
+      "subScriptEnglish": " _Monday_ ",
+      "matchedNewWords": [
+        "Monday"
+      ],
+      "vietnamese": "Thứ Hai"
+    },
+    {
+      "start": "0:01:16",
+      "end": "0:01:42",
+      "english": "Tuesday",
+      "subScriptEnglish": " _Tuesday_ ",
+      "matchedNewWords": [
+        "Tuesday"
+      ],
+      "vietnamese": "Thứ Ba"
+    },
+    {
+      "start": "0:01:44",
+      "end": "0:01:58",
+      "english": "Wednesday",
+      "subScriptEnglish": " _Wednesday_ ",
+      "matchedNewWords": [
+        "Wednesday"
+      ],
+      "vietnamese": "Thứ Tư"
+    },
+    {
+      "start": "0:02:00",
+      "end": "0:02:11",
+      "english": "Thursday",
+      "subScriptEnglish": " _Thursday_ ",
+      "matchedNewWords": [
+        "Thursday"
+      ],
+      "vietnamese": "Thứ Năm"
+    },
+    {
+      "start": "0:02:14",
+      "end": "0:02:24",
+      "english": "Friday",
+      "subScriptEnglish": " _Friday_ ",
+      "matchedNewWords": [
+        "Friday"
+      ],
+      "vietnamese": "Thứ Sáu"
+    },
+    {
+      "start": "0:02:27",
+      "end": "0:02:37",
+      "english": "Saturday",
+      "subScriptEnglish": " _Saturday_ ",
+      "matchedNewWords": [
+        "Saturday"
+      ],
+      "vietnamese": "Thứ Bảy"
+    },
+    {
+      "start": "0:02:39",
+      "end": "0:02:52",
+      "english": "Sunday",
+      "subScriptEnglish": " _Sunday_ ",
+      "matchedNewWords": [
+        "Sunday"
+      ],
+      "vietnamese": "Chủ Nhật"
+    },
+    {
+      "start": "0:03:04",
+      "end": "0:03:16",
+      "english": "January",
+      "subScriptEnglish": " _January_ ",
+      "matchedNewWords": [
+        "January"
+      ],
+      "vietnamese": "Tháng 1"
+    },
+    {
+      "start": "0:03:18",
+      "end": "0:03:27",
+      "english": "February",
+      "subScriptEnglish": " _February_ ",
+      "matchedNewWords": [
+        "February"
+      ],
+      "vietnamese": "Tháng 2"
+    },
+    {
+      "start": "0:03:32",
+      "end": "0:03:41",
+      "english": "March",
+      "subScriptEnglish": " _March_ ",
+      "matchedNewWords": [
+        "March"
+      ],
+      "vietnamese": "Tháng 3"
+    },
+    {
+      "start": "0:03:44",
+      "end": "0:03:53",
+      "english": "April",
+      "subScriptEnglish": " _April_ ",
+      "matchedNewWords": [
+        "April"
+      ],
+      "vietnamese": "Tháng 4"
+    },
+    {
+      "start": "0:03:57",
+      "end": "0:04:06",
+      "english": "May",
+      "subScriptEnglish": " _May_ ",
+      "matchedNewWords": [
+        "May"
+      ],
+      "vietnamese": "Tháng 5"
+    },
+    {
+      "start": "0:04:08",
+      "end": "0:04:21",
+      "english": "June",
+      "subScriptEnglish": " _June_ ",
+      "matchedNewWords": [
+        "June"
+      ],
+      "vietnamese": "Tháng 6"
+    },
+    {
+      "start": "0:04:24",
+      "end": "0:04:34",
+      "english": "July",
+      "subScriptEnglish": " _July_ ",
+      "matchedNewWords": [
+        "July"
+      ],
+      "vietnamese": "Tháng 7"
+    },
+    {
+      "start": "0:04:39",
+      "end": "0:04:48",
+      "english": "August",
+      "subScriptEnglish": " _August_ ",
+      "matchedNewWords": [
+        "August"
+      ],
+      "vietnamese": "Tháng 8"
+    },
+    {
+      "start": "0:04:54",
+      "end": "0:05:04",
+      "english": "September",
+      "subScriptEnglish": " _September_ ",
+      "matchedNewWords": [
+        "September"
+      ],
+      "vietnamese": "Tháng 9"
+    },
+    {
+      "start": "0:05:08",
+      "end": "0:05:18",
+      "english": "October",
+      "subScriptEnglish": " _October_ ",
+      "matchedNewWords": [
+        "October"
+      ],
+      "vietnamese": "Tháng 10"
+    },
+    {
+      "start": "0:05:20",
+      "end": "0:05:32",
+      "english": "November",
+      "subScriptEnglish": " _November_ ",
+      "matchedNewWords": [
+        "November"
+      ],
+      "vietnamese": "Tháng 11"
+    },
+    {
+      "start": "0:05:36",
+      "end": "0:05:47",
+      "english": "December",
+      "subScriptEnglish": " _December_ ",
+      "matchedNewWords": [
+        "December"
+      ],
+      "vietnamese": "Tháng 12"
+    },
+    {
+      "start": "0:06:05",
+      "end": "0:06:10",
+      "english": "What time is it?",
+      "subScriptEnglish": "What time is it?",
+      "matchedNewWords": [],
+      "vietnamese": "Cho tôi hỏi bây giờ là mấy giờ rồi?"
+    },
+    {
+      "start": "0:06:26",
+      "end": "0:06:32",
+      "english": "It’s one o'clock.",
+      "subScriptEnglish": "It’s  _one__ o'clock.",
+      "matchedNewWords": [
+        "one"
+      ],
+      "vietnamese": "Bây giờ là 1 giờ."
+    },
+    {
+      "start": "0:07:05",
+      "end": "0:07:20",
+      "english": "It’s one fifteen.",
+      "subScriptEnglish": "It’s  _one__  _fifteen._ ",
+      "matchedNewWords": [
+        "fifteen",
+        "one"
+      ],
+      "vietnamese": "Bây giờ là 1 giờ 15."
+    },
+    {
+      "start": "0:07:20",
+      "end": "0:07:27",
+      "english": "It’s one twenty.",
+      "subScriptEnglish": "It’s  _one__  _twenty._ ",
+      "matchedNewWords": [
+        "twenty",
+        "one"
+      ],
+      "vietnamese": "Bây giờ là 1 giờ 20 phút."
+    },
+    {
+      "start": "0:07:28",
+      "end": "0:07:34",
+      "english": "It’s one thirty",
+      "subScriptEnglish": "It’s  _one__  _thirty_ ",
+      "matchedNewWords": [
+        "thirty",
+        "one"
+      ],
+      "vietnamese": "Bây giờ là 1 giờ 30 phút."
+    },
+    {
+      "start": "0:07:34",
+      "end": "0:07:40",
+      "english": "It’s one forty",
+      "subScriptEnglish": "It’s  _one__  _forty_ ",
+      "matchedNewWords": [
+        "forty",
+        "one"
+      ],
+      "vietnamese": "Bây giờ là 1 giờ 40 phút."
+    },
+    {
+      "start": "0:07:41",
+      "end": "0:07:48",
+      "english": "It’s one forty-five",
+      "subScriptEnglish": "It’s  _one__  _forty-_  _five_ ",
+      "matchedNewWords": [
+        "forty",
+        "five",
+        "one"
+      ],
+      "vietnamese": "Bây giờ là 1 giờ 45 phút."
+    },
+    {
+      "start": "0:07:56",
+      "end": "0:08:01",
+      "english": "It’s noon.",
+      "subScriptEnglish": "It’s noon.",
+      "matchedNewWords": [],
+      "vietnamese": "Bây giờ là 12 giờ trưa."
+    },
+    {
+      "start": "0:08:02",
+      "end": "0:08:08",
+      "english": "It’s midnight",
+      "subScriptEnglish": "It’s midnight",
+      "matchedNewWords": [],
+      "vietnamese": "Bây giờ là 12 giờ đêm."
+    },
+    {
+      "start": "0:08:41",
+      "end": "0:08:47",
+      "english": "eight a.m",
+      "subScriptEnglish": " _eight__ a.m",
+      "matchedNewWords": [
+        "eight"
+      ],
+      "vietnamese": "8 giờ sáng"
+    },
+    {
+      "start": "0:08:47",
+      "end": "0:08:51",
+      "english": "eight p.m",
+      "subScriptEnglish": " _eight__ p.m",
+      "matchedNewWords": [
+        "eight"
+      ],
+      "vietnamese": "8 giờ tối"
+    },
+    {
+      "start": "0:08:56",
+      "end": "0:09:03",
+      "english": "a quarter after",
+      "subScriptEnglish": " _a__ quarter after",
+      "matchedNewWords": [
+        "A"
+      ],
+      "vietnamese": "15 phút hơn"
+    },
+    {
+      "start": "0:09:03",
+      "end": "0:09:11",
+      "english": "It’s a quarter after one",
+      "subScriptEnglish": "It’s  _a__ quarter after  _one_ ",
+      "matchedNewWords": [
+        "one",
+        "A"
+      ],
+      "vietnamese": "Bây giờ là 1 giờ 15 p."
+    },
+    {
+      "start": "0:09:11",
+      "end": "0:09:16",
+      "english": "a quarter to",
+      "subScriptEnglish": " _a__ quarter to",
+      "matchedNewWords": [
+        "A"
+      ],
+      "vietnamese": "15 phút kém"
+    },
+    {
+      "start": "0:09:16",
+      "end": "0:09:23",
+      "english": "a quarter to two",
+      "subScriptEnglish": " _a__ quarter to  _two_ ",
+      "matchedNewWords": [
+        "two",
+        "A"
+      ],
+      "vietnamese": "2 giờ kém 15p."
+    },
+    {
+      "start": "0:09:24",
+      "end": "0:09:31",
+      "english": "half past",
+      "subScriptEnglish": "half past",
+      "matchedNewWords": [],
+      "vietnamese": "mốc thời gian 30 phút"
+    },
+    {
+      "start": "0:09:34",
+      "end": "0:09:41",
+      "english": "It’s half past one.",
+      "subScriptEnglish": "It’s half past  _one._ ",
+      "matchedNewWords": [
+        "one"
+      ],
+      "vietnamese": "Bây giờ là 1 giờ 30 phút."
+    },
+    {
+      "start": "0:09:41",
+      "end": "0:09:48",
+      "english": "twenty after",
+      "subScriptEnglish": " _twenty__ after",
+      "matchedNewWords": [
+        "twenty"
+      ],
+      "vietnamese": "20 phút hơn"
+    },
+    {
+      "start": "0:09:48",
+      "end": "0:09:55",
+      "english": "It’s twenty after one",
+      "subScriptEnglish": "It’s  _twenty__ after  _one_ ",
+      "matchedNewWords": [
+        "twenty",
+        "one"
+      ],
+      "vietnamese": "Bây giờ là 1h 20 phút."
+    },
+    {
+      "start": "0:10:10",
+      "end": "0:10:17",
+      "english": "It’s twenty to two",
+      "subScriptEnglish": "It’s  _twenty__ to  _two_ ",
+      "matchedNewWords": [
+        "twenty",
+        "two"
+      ],
+      "vietnamese": "Bây giờ là 2 giờ kém 20 phút."
+    }
+  ],
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:00:44.326",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Engineer",
+            "_id": {
+              "$oid": "308398e8-f276-4a59-97ae-de3db9d2cc22"
+            },
+            "yNghia": "Kỹ sư xây dựng"
+          },
+          {
+            "cauHoi": "Writer",
+            "_id": {
+              "$oid": "dfe53cf3-85d4-4873-ba43-37fee5963ce1"
+            },
+            "yNghia": "Nhà văn"
+          },
+          {
+            "cauHoi": "Waiter",
+            "_id": {
+              "$oid": "0494f023-d2ba-462a-9904-35be6de04975"
+            },
+            "yNghia": "Nhân viên phục vụ nam"
+          },
+          {
+            "cauHoi": "Scientist",
+            "_id": {
+              "$oid": "a80e9ac8-6e0d-45b2-aee6-f1d159cf4004"
+            },
+            "yNghia": "Nhà khoa học"
+          },
+          {
+            "cauHoi": "Lawyer",
+            "_id": {
+              "$oid": "faf566d2-844c-4aac-8f5d-d54a51338eb3"
+            },
+            "yNghia": "Luật sư"
+          },
+          {
+            "cauHoi": "Photographer",
+            "_id": {
+              "$oid": "87a6a559-880c-49bc-aa04-e485939d311a"
+            },
+            "yNghia": "Thợ ảnh"
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:00:44.326",
+      "timeEnd": "0:05:58.540",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "1cf5494f-7937-4cf6-b118-9dc713a02d19",
+                "dapAn": "New Year's"
+              },
+              {
+                "_id": "d0862d8e-2a48-4ad5-9565-4c4bb5c9a5b5",
+                "dapAn": "Eve takes"
+              },
+              {
+                "_id": "2a004703-af8f-4e5c-a421-e00b2e7afcf4",
+                "dapAn": "place in"
+              },
+              {
+                "_id": "22978548-9953-4f77-8839-026907a6e77c",
+                "dapAn": "January."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "886e001c-8904-442c-b5e8-6955fbf914a4",
+                "dapAn": "February"
+              },
+              {
+                "_id": "d6a4a981-22a7-4b2f-9df2-6ed66e3dc47b",
+                "dapAn": "has"
+              },
+              {
+                "_id": "93ccad0a-641f-495d-988d-8845d5e95de7",
+                "dapAn": "28 days."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "79a2c719-136f-4c69-ba3d-265832deb4c0",
+                "dapAn": "What is"
+              },
+              {
+                "_id": "5deca23b-cfa4-4959-8acc-235ad8d1f4f3",
+                "dapAn": "Black"
+              },
+              {
+                "_id": "5da016d0-b477-4fe9-90bd-590da692dbe0",
+                "dapAn": "Friday?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "4204c517-d982-4c28-aace-9e0188ef20ea",
+                "dapAn": "The"
+              },
+              {
+                "_id": "cec8a34b-6c8d-425d-b09a-2467fbf3f78d",
+                "dapAn": "International"
+              },
+              {
+                "_id": "9e2f57d0-21c7-42b6-9a05-657437e9d6e8",
+                "dapAn": "Women's"
+              },
+              {
+                "_id": "4d611f75-d20b-4fd5-b8ff-e80a370314b7",
+                "dapAn": "day is"
+              },
+              {
+                "_id": "e4a55ad7-9e19-491e-ac67-89257dd85174",
+                "dapAn": "celebrated"
+              },
+              {
+                "_id": "86b9a198-c7de-4809-ac9c-c610fcbe036c",
+                "dapAn": "in March."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "11bcb952-7c88-4537-9b68-797fdff053f7",
+                "dapAn": "The last"
+              },
+              {
+                "_id": "f3c7cc19-1279-41fd-9e2d-78d171966988",
+                "dapAn": "month of"
+              },
+              {
+                "_id": "45fa0bba-b2b6-488d-83b5-5dc5169b8053",
+                "dapAn": "the year"
+              },
+              {
+                "_id": "34a08649-55da-4d22-aa69-4e17ab20126c",
+                "dapAn": "is December."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:05:58.540",
+      "timeEnd": "0:10:26.477",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Half past three",
+            "_id": {
+              "$oid": "dffefa53-21c2-4a81-b02d-be70541af8be"
+            },
+            "yNghia": "3 giờ 30 phút"
+          },
+          {
+            "cauHoi": "Fifteen to five",
+            "_id": {
+              "$oid": "0e7432bf-b16c-4be0-8a9e-0d17dbf5e397"
+            },
+            "yNghia": "4 giờ 45 phút"
+          },
+          {
+            "cauHoi": "A quarter past twelve",
+            "_id": {
+              "$oid": "846427cc-923f-4aff-ae34-4fcdd695cc9e"
+            },
+            "yNghia": "12 giờ 15 phút"
+          },
+          {
+            "cauHoi": "Ten to five",
+            "_id": {
+              "$oid": "02a16186-c6c7-4314-87db-8646c5863238"
+            },
+            "yNghia": "5 giờ kém 10"
+          },
+          {
+            "cauHoi": "Twenty past eleven",
+            "_id": {
+              "$oid": "478155d1-73ee-478a-9016-811a297330be"
+            },
+            "yNghia": "11 giờ 20 phút"
+          },
+          {
+            "cauHoi": "Seven o' clock",
+            "_id": {
+              "$oid": "10f9304b-1865-463c-b090-331aafc76a7c"
+            },
+            "yNghia": "7 giờ"
+          }
+        ]
+      }
+    }
+  ]
+}

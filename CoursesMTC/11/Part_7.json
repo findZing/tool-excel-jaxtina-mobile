@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P7",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "8130313f-5ec8-4a6d-8a20-123aba199327"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I live in a large city <span style=\"color:blue\"><b>(Wh)</b> </span>______ there is a lot of innovation.",
+      "yNghia": "<b>large city</b> là danh từ chỉ nơi chốn, nên mệnh đề quan hệ xác định đứng sau là <b>where</b>. Câu hoàn chỉnh là <b> I live in a large city <span style=\"color:red\">where</span> there is a lot of innovation. </b><i>(Tôi sống ở một thành phố lớn, <span style=\"color:red\">nơi </span>có rất nhiều đổi mới.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0aa67091-4e6e-42e3-b6f4-65bbf58a2788"
+          },
+          "dapAn": "where",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a3ca9ac8-69f2-4468-82e5-d5101a89fb3f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The employee<b> <span style=\"color:blue\">(Wh)</span> </b>______ designs new software is over there.",
+      "yNghia": "<b>The employee</b> là danh từ chỉ người, nên mệnh đề quan hệ xác định đứng sau là <b>who</b>. Câu hoàn chỉnh là <b>The employee <span style=\"color:red\">who </span>designs new software is over there. </b><i>(Bạn nhân viên </i><span style=\"color:red\"><i>người mà </i></span><i>thiết kế phần mềm mới ở đằng kia.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "12db0670-a2df-4ce3-9e57-e341a93ade0c"
+          },
+          "dapAn": "who",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "fb0ea4c2-eb55-451b-bdae-5c0bf29ad557"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "A car <b><span style=\"color:blue\">(Wh)</span></b> ______ drives itself sounds like an amazing idea.",
+      "yNghia": "<b>a car</b> là danh từ chỉ vật, nên mệnh đề quan hệ xác định đứng sau là <b>which</b>. Câu hoàn chỉnh là<b> A car </b><b><span style=\"color:red\">which </span></b><b>drives itself sounds like an amazing idea. </b><i>(Chiếc xe <span style=\"color:red\">mà </span>tự lái là một ý tưởng nghe khá hay.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "91191d00-c4eb-4036-8529-9a19c9edb065"
+          },
+          "dapAn": "which",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "18550769-5a98-4357-aa0b-89698970e164"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That was a time <b><span style=\"color:blue\">(Wh)</span></b> ______ things were much simpler.",
+      "yNghia": "<b>a time </b>là danh từ chỉ thời gian, nên mệnh đề quan hệ xác định đứng sau là <b>when</b>. Câu hoàn chỉnh là<b> That was a time </b><b><span style=\"color:red\">when</span></b><b> things were much simpler.</b><i> (Đó là thời điểm </i><span style=\"color:red\"><i>khi mà </i></span><i>mọi thứ đơn giản hơn nhiều.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0fdf7a63-c5a5-489d-958b-4bfa620a70ee"
+          },
+          "dapAn": "when",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "34b6e409-1ae2-4a6b-b063-e75a38880497"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Miguel works in a factory <b><span style=\"color:blue\">(Wh)</span></b> ______ they make driverless cars.<i> </i>",
+      "yNghia": "<b>in a factory</b> là cụm danh từ chỉ nơi chốn, nên mệnh đề quan hệ xác định đứng sau là <b>where</b>. Câu hoàn chỉnh là<b> Miguel works in a factory </b><b><span style=\"color:red\">where </span></b><b>they make driverless cars.</b><i><span style=\"color:#202124\"> </span>(Miguel làm việc trong một nhà máy </i><span style=\"color:red\"><i>nơi </i></span><i>họ sản xuất ô tô không người lái.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fa9103b3-4c0f-4cc7-bcfe-82e6ff649955"
+          },
+          "dapAn": "where",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4a7ff8a8-97f4-4d47-8e0e-9bb4c2373dda"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you know of a 3-D printer <b><span style=\"color:blue\">(Wh)</span> </b>______ can build a whole house?",
+      "yNghia": "<b>a 3-D printer </b>là danh từ chỉ vật, nên mệnh đề quan hệ xác định đứng sau là <b>which</b>. Câu hoàn chỉnh là<b> Do you know of a 3-D printer </b><b><span style=\"color:red\">which</span></b><b> can build a whole house? </b><i>(Bạn có biết máy in 3D nào </i><span style=\"color:red\"><i>mà </i></span><i>có thể xây dựng cả một ngôi nhà không?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "62ea5def-49fe-4d91-a624-bc6d8a476763"
+          },
+          "dapAn": "which",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a66b6857-f97d-444c-878a-4ca1227e4e19"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "If you want to know more about this invention, you should ask the man <b><span style=\"color:blue\">(Wh)</span></b> ______ invented it.",
+      "yNghia": "<b>the man </b>là danh từ chỉ người, nên mệnh đề quan hệ xác định đứng sau là <b>who</b>. Câu hoàn chỉnh là<b> If you want to know more about this invention, you should ask the man </b><b><span style=\"color:red\">who</span></b><b> invented it. </b><i>(Nếu bạn muốn biết thêm về phát minh này, bạn nên hỏi </i><span style=\"color:red\"><i>người </i></span><i>đã phát minh ra nó. )</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "705a4767-00b7-467f-b472-013c86738073"
+          },
+          "dapAn": "who",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "416c3164-6c91-42d2-8c85-76bb09173b66"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Some bike lanes are a bit narrow. It's better to make lanes <b><span style=\"color:blue\">(Wh)</span></b> ______ there is plenty of space to ride.<i> </i>",
+      "yNghia": "<b>the lane </b>là danh từ chỉ nơi chốn, đằng sau là một mệnh đề hoàn chỉnh, nên mệnh đề quan hệ xác định đứng sau là <b>where</b>. Câu hoàn chỉnh là<b> Some bike lanes are a bit narrow. It's better to make lanes </b><b><span style=\"color:red\">where</span></b><b> there is plenty of space to ride.</b><b><i> </i></b><i>(Một số làn đường dành cho xe đạp hơi hẹp. Tốt hơn hết là nên thêm làn đường </i><span style=\"color:red\"><i>nơi </i></span><i>có nhiều khoảng trống để đi xe.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0af00124-be43-48e5-a02e-25af805d0ef3"
+          },
+          "dapAn": "where",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "542cca6c-2c38-4568-94c1-1677bbf16186"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The time of the day <b><span style=\"color:blue\">(Wh)</span></b> ______ I feel most creative is after an afternoon nap.",
+      "yNghia": "<b>The time of the day </b>là danh từ chỉ thời gian, nên mệnh đề quan hệ xác định đứng sau là <b>when</b>. Câu hoàn chỉnh là<b> The time of the day </b><b><span style=\"color:red\">when</span></b><b> I feel most creative is after an afternoon nap. </b><i>(Khoảng thời gian trong ngày </i><span style=\"color:red\"><i>khi </i></span><i>tôi cảm thấy sáng tạo nhất là sau giấc ngủ trưa.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "87277cf7-abf0-4712-a7fb-32b2f3b1752e"
+          },
+          "dapAn": "when",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ecfcd1a1-4e4e-4938-8a8c-b53139c5a6a3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you remember the museum<b> </b><b><span style=\"color:blue\">(Wh)</span></b> ______ you saw the invention.",
+      "yNghia": "<b>the museum</b> là danh từ chỉ nơi chốn, nên mệnh đề quan hệ xác định đứng sau là <b>wh</b><b>ere</b>. Câu hoàn chỉnh là<b> </b><b>Do you remember the museum </b><b><span style=\"color:red\">where</span></b><b> you saw the invention </b><i>(Bạn có nhớ bảo tàng </i><span style=\"color:red\"><i>nơi </i></span><i>bạn đã thấy phát minh đó không?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2ffa3b55-72f8-484a-ad53-783966f88d4f"
+          },
+          "dapAn": "where",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4ddf97c4-eb4b-48de-bbbe-cd600288d7df"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Think of a creator<b> </b><b><span style=\"color:blue\">(Wh)</span></b> ______ inspires you the most.",
+      "yNghia": "<b>a creator</b> là danh từ người, nên mệnh đề quan hệ xác định đứng sau là <b>who</b>. Câu hoàn chỉnh là<b> </b><b>Think of a creator </b><b><span style=\"color:red\">who</span></b><b> inspires you the most. </b><i>(Hãy nghĩ về một người sáng tạo truyền cảm hứng cho bạn nhiều nhất.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "604e1c2d-4038-4435-89e1-179c648f3e18"
+          },
+          "dapAn": "who",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c5211800-b115-4550-bd5f-598eef0f2ed5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "For me, the 20th century was the century <b><span style=\"color:blue\">(Wh)</span></b> ______ people made the greatest inventions.",
+      "yNghia": "<b>the 20th century </b>là danh từ thời gian, nên mệnh đề quan hệ xác định đứng sau là <b>when</b>. Câu hoàn chỉnh là<b> </b><b>For me, the 20th century was the century <span style=\"color:red\">when</span> people made the greatest inventions. </b><i>(Đối với tôi, thế kỷ 20 là thế kỷ </i><span style=\"color:red\"><i>khi mà </i></span><i>con người tạo ra những phát minh vĩ đại nhất)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "baa53c8f-cfa7-4748-8b17-a5a081b4bca0"
+          },
+          "dapAn": "when",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "beb81dda-be9f-4094-926b-97f2ab5bf5de"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Would you like to have a device <b><span style=\"color:blue\">(Wh)</span></b> ______ can read people's minds.",
+      "yNghia": "<b>a device</b> là danh từ chỉ vật, nên mệnh đề quan hệ xác định đứng sau là <b>which</b>. Câu hoàn chỉnh là<b> </b><b>Would you like to have a device <span style=\"color:red\">which</span> can read people's minds. </b><i>(Bạn có muốn có một thiết bị </i><span style=\"color:red\"><i>mà </i></span><i>có thể đọc được suy nghĩ của mọi người không).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "27b4bdc9-89cb-4f6c-953d-46500b55907a"
+          },
+          "dapAn": "which",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "23f90910-3c5c-4df9-b09e-77f2ffcac082"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Some of us know that scary moment <b><span style=\"color:blue\">(Wh)</span></b> ______ a person steps onto the street accidentally.",
+      "yNghia": "<b>that scary moment</b> là danh từ thời gian, nên mệnh đề quan hệ xác định đứng sau là <b>when</b>. Câu hoàn chỉnh là<b> </b><b>Some </b><b>of us know that scary moment </b><b><span style=\"color:red\">when</span></b><b> a person steps onto the street accidentally. </b><i>(Một số người trong chúng ta biết khoảnh khắc đáng sợ </i><span style=\"color:red\"><i>khi </i></span><i>một người vô tình bước ra đường.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "67a312b7-8aaa-4160-a547-eb51d88dd1e0"
+          },
+          "dapAn": "when",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4929ebce-56e6-42dd-a239-0574d05c6ead"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "If the computer comes to an area <b><span style=\"color:blue\">(Wh)</span></b> ______ there is ice or rainwater, the computer might not \"see\" it.",
+      "yNghia": "<b>an area</b> là danh từ chỉ nơi chốn, nên mệnh đề quan hệ xác định đứng sau là <b>where</b>. Câu hoàn chỉnh là<b> If the computer comes to an area <span style=\"color:red\">where</span> there is ice or rainwater, the computer might not \"see\" it. </b><i>(Nếu máy tính đến khu vực </i><i><span style=\"color:red\">nơi mà</span> </i><i>có băng hoặc nước mưa, máy tính có thể không \"nhìn thấy\" nó.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "71c120e1-e115-4ba1-b827-caa903f904e1"
+          },
+          "dapAn": "where",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "02844686-7f5d-414b-b218-d0ad24f47a56"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "For these reasons and more, it will be difficult to find a person<b> </b><b><span style=\"color:blue\">(Wh)</span></b> ______ trusts a driverless car enough to buy one.",
+      "yNghia": "<b>a person</b> là danh từ chỉ người, nên mệnh đề quan hệ xác định đứng sau là <b>who</b>. Câu hoàn chỉnh là<b>  </b><b>For these reasons and more, it will be difficult to find a person </b><b><span style=\"color:red\">who</span></b><b> trusts a driverless car enough to buy one. </b><i>(Vì những lý do này và hơn thế nữa, sẽ rất khó để tìm được một người đủ tin tưởng vào xe tự lái để mua một chiếc.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "580889a6-66f5-4264-af87-5085f4775713"
+          },
+          "dapAn": "who",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "73a8255f-e001-44b0-a70d-5782f3bc5946"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Was there a time <b><span style=\"color:blue\">(Wh)</span></b> ______ you were disappointed by a new product?",
+      "yNghia": "<b>a time</b> là danh từ chỉ thời gian, nên mệnh đề quan hệ xác định đứng sau là <b>when</b>. Câu hoàn chỉnh là<b> </b><b>Was there a time </b><b><span style=\"color:red\">when</span></b><b> you were disappointed by a new product? </b><i>(Có </i><span style=\"color:red\"><i>khi </i></span><i>nào bạn cảm thấy thất vọng vì một sản phẩm mới không?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3f30905a-1261-4fa6-9a0f-dadb11164b01"
+          },
+          "dapAn": "when",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7fd16e88-59a7-4375-8fc3-3ec695a33a80"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Is there an inventor or innovator <b><span style=\"color:blue\">(Wh)</span></b> ______ is a role model to you?",
+      "yNghia": "<b>an inventor/innovator </b>là danh từ chỉ người, nên mệnh đề quan hệ xác định đứng sau là <b>who</b>. Câu hoàn chỉnh là<b>  </b><b>Is there an inventor or innovator </b><b><span style=\"color:red\">who </span></b><b>is a role model to you? </b><i>(Có nhà phát minh hoặc nhà đổi mới nào là hình mẫu đối với bạn không?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "944d326b-2284-4aeb-985e-f4ea7d786189"
+          },
+          "dapAn": "who",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "94fc03a9-5dcb-43a6-beba-48864d0fbb66"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I understand that there are many people <b><span style=\"color:blue\">(Wh)</span></b> ______ would like to have a driverless car.",
+      "yNghia": "<b>people</b> là danh từ chỉ người, nên mệnh đề quan hệ xác định đứng sau là <b>who</b>. Câu hoàn chỉnh là<b>  </b><b>I understand that there are many people </b><b><span style=\"color:red\">who</span></b><b> would like to have a driverless car. </b><i>(Tôi hiểu rằng có nhiều người muốn có một chiếc xe không người lái.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "91162625-29bb-4d34-82d0-98f9963a0a18"
+          },
+          "dapAn": "who",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0cf5b82b-0cb6-4447-b479-1ddc39b320a7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Valentina, a pioneer for women in that decade <b><span style=\"color:blue\">(Wh)</span></b> ______ was the first woman to travel into space.",
+      "yNghia": "<b>Valentina</b> là danh từ chỉ người, nên mệnh đề quan hệ xác định đứng sau là <b>who</b>. Câu hoàn chỉnh là<b>  </b><b>Valentina, a pioneer for women in that decade </b><b><span style=\"color:red\">who </span></b><b>was the first woman to travel into space. </b><i>(Valentina, người tiên phong cho phụ nữ trong thập kỷ đó, là người phụ nữ đầu tiên du hành vào vũ trụ.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "127f1b73-3b19-4f33-bd29-39fde1926fd1"
+          },
+          "dapAn": "who",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

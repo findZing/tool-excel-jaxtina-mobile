@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "14608469-55fc-411c-a5dd-4b5975eaebb6"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "ad9b6215-c417-421a-ad74-bb70cd31539f"
+          },
+          "cauHoi": "Where is Ms. Martin’s hometown?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "606aa60c-cdf6-417c-bdfb-9da535ccf58a"
+              },
+              "dapAn": "A. London",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "52fca54c-dcb7-48d9-ac9b-366b49bf7d07"
+              },
+              "dapAn": "B. Scotland",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "1fa2ca6c-f96c-4e0d-943a-a972f369ab3a"
+              },
+              "dapAn": "C. New York",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ae515a3a-5f0f-4243-81e7-28e18fe409cf"
+              },
+              "dapAn": "D. Sheffield",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "4aae2840-5602-4917-a85d-4e1b9f1d1896"
+          },
+          "cauHoi": "Which university did Ms. Martin graduate from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a7a6b1c4-a712-4e5e-8686-72e67271d102"
+              },
+              "dapAn": "A. Sheffield University",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "887c1f3e-15b0-41a8-8430-6d6670241a7f"
+              },
+              "dapAn": "B. Bristol University",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c16a53a4-af9f-4ccf-adbd-43b44800feb3"
+              },
+              "dapAn": "C. Glasgow University",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f48fc68b-a27b-4b5b-b202-74eab06b8776"
+              },
+              "dapAn": "D. Southampton University",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "05be08c1-e85d-4416-b4ac-3837cf1d8be1"
+          },
+          "cauHoi": "What was her latest job?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "65819faa-8c83-4086-aff7-8b049daf382d"
+              },
+              "dapAn": "A. teacher",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fbbaf1ef-5b2f-42ac-94ef-093dbd04d9da"
+              },
+              "dapAn": "B. translator",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b31d37d5-4202-4ca3-9536-9e21961cbfa3"
+              },
+              "dapAn": "C. writer",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1a076d43-2376-4779-a238-d0bf983b251f"
+              },
+              "dapAn": "D. singer",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "36bb4536-dbe4-4a58-9581-8c3963115161"
+          },
+          "cauHoi": "How long has she been a translator?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "fe06423c-13e4-40ff-a4d2-eea741c80441"
+              },
+              "dapAn": "A. 1 year\n",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2f9464f2-ca98-4eda-80ee-f6357e122178"
+              },
+              "dapAn": "B. 4 years",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "4732900b-2d92-4465-9629-943803c59fb1"
+              },
+              "dapAn": "C. 6 months",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2bd903b3-1f48-4bbd-bab7-2e65c9fbdb7d"
+              },
+              "dapAn": "D. 2 years",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Sophie:</b></td>\n                        <td>So, tell me about yourself, Ms. Martin.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ms. Martin:</b></td>\n                        <td>I'm from Glasgow, Scotland. I'm 27 years old and I have a degree from Sheffield University.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Sophie:</b></td>\n                        <td>OK. What did you do in your last job?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ms. Martin:</b></td>\n                        <td>I've been working as a translator for a news channel for the last 4 years.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Where is Ms</b><b>.</b> <b>Martin's hometown?</b> <i>(Quê Martin ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>I'm from Glasgow, Scotland</b><b>.</b> <i>(</i><i>Tôi đến từ Glasgow, Scotland.</i></span><i>).</i> Nên đáp án là <span style=\"color:red\"><b>B. Scotland</b></span> <i>(Scotlan</i><i>d</i><i>)</i><i>.</i><br />\n<b>2.</b> Với câu hỏi <b>Which university did Ms</b><b>.</b> <b>Martin graduate from?</b> <i>(Martin tốt nghiệp đại học gì?)</i> <b></b>câu trong bài đọc liên quan là <b>I have a degree from Sheffield University.</b> <i>(</i><i>T</i></span><i>ôi có bằng của Đại học Sheffield.).</i></span> Nên đáp án là <span style=\"color:red\"><b>A. Sheffield University</b></span> <i>(trường đại học Sheffield)</i><i>.</i><br />\n<b>3.</b> Với câu hỏi <b>What was her latest job?</b> <i>(Công việc gần nhất của cô ấy là gì?)</i> câu trong bài đọc liên quan là <b>I've been working as a translator for a news channel for the last 4 years.</b> <i>(</i><i>Tôi đã làm công việc phiên dịch cho một kênh tin tức trong 4 năm qua.</i></span><i>).</i> Nên đáp án là <span style=\"color:red\"><b>B. translator</b></span> <i>(phiên dịch viên)</i><i>.</i><br />\n<b>4.</b> Với câu hỏi <b>How long has she been a translator?</b> <i>(Cô ấy đã làm phiên dịch viên trong bao lâu?),</i> <b></b>câu trong bài đọc liên quan là <b>I've been working as a translator for a news channel for the last 4 years.</b> <b><i></i></b><i>(</i><i>Tôi đã làm công việc phiên dịch viên cho một kênh tin tức trong 4 năm qua.).</i></span> Nên đáp án là <span style=\"color:red\"><b>B. 4 years</b></span> <i>(4 năm)</i><i>.</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "780f2fbf-3a80-4757-a8f6-2c0ccbcf576f"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "d8694512-02b5-4808-9ab9-e33c75082de5"
+          },
+          "cauHoi": "What does Martin think about her communication skill?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "28a292a0-baa0-4aa1-b5ef-80d32e26c68f"
+              },
+              "dapAn": "A. Pretty good",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "9fe197c8-b92f-4e44-82f4-9f14cb764993"
+              },
+              "dapAn": "B. Bad",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e124e31b-5609-48ee-983d-22373ef479b7"
+              },
+              "dapAn": "C. So so",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "da514d4f-ca30-421a-b6f5-33017b0a89a8"
+              },
+              "dapAn": "D. Acceptable",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "fa377a8b-7e40-4a39-8a73-614fe004d66e"
+          },
+          "cauHoi": "Does Martin prefer to work individually or with others?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "905205dd-4943-4e15-a7b5-b76e32a729af"
+              },
+              "dapAn": "A. With others",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "fd6d8c33-2f95-48ed-848a-2ce3f9bbb666"
+              },
+              "dapAn": "B. Individually",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a0ae4971-d1e8-4acd-b7e5-69a01301d8ad"
+              },
+              "dapAn": "C. Both in a team and herself",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7d668681-2e75-4471-9d17-aab80f173627"
+              },
+              "dapAn": "D. None",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "7af8622e-0d20-4b24-a8ee-2a5c49466a1d"
+          },
+          "cauHoi": "What do her friends think about her?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8d22f2b0-12b0-49f4-943f-7480c5219384"
+              },
+              "dapAn": "A. She’s really patient.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e5584ec0-fe4d-41ca-b585-9614822832dd"
+              },
+              "dapAn": "B. She’s impatient sometimes.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "cef92285-0ef6-435b-8dd6-870cbd9b318d"
+              },
+              "dapAn": "C. She’s bad at communicating.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "478ba6f0-db33-4fc9-b202-9e49f12fde54"
+              },
+              "dapAn": "D. She’s quite disorganized.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "783fc41b-97dd-472a-a2d1-cd21d66cab89"
+          },
+          "cauHoi": "What’s she trying to enhance?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "fbe0af39-a9cd-4ca8-9a4e-1a3489f6364b"
+              },
+              "dapAn": "A. her skill",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "aabbb824-64d2-4e24-84cd-0f03696f6572"
+              },
+              "dapAn": "B. her personality",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9c4064fc-0445-42b7-9f1a-35361b63b579"
+              },
+              "dapAn": "C. her living standards",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0a22aa7d-4e69-48db-8f21-cfb9e063acbd"
+              },
+              "dapAn": "D. her patience",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Sophie:</b></td>\n                        <td>What are your strengths?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ms. Martin:</b></td>\n                        <td>I'm quite good at organising and communicating. Besides, I enjoy working in a team.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Sophie:</b></td>\n                        <td>What about your weaknesses?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ms. Martin:</b></td>\n                        <td>My friends say I was impatient sometimes, but I'm trying to improve that.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What does Martin think about her communication skill?</b> <i>(Martin nghĩ gì về khả năng giao tiếp của cô ấy?),</i> <b></b>câu trong bài đọc liên quan là <b>I'm quite good at organising and communicating.</b> <i>(</i><i>Tôi khá giỏi trong việc tổ chức và giao tiếp.</i></span><i>).</i> Nên đáp án là <span style=\"color:red\"><b>A. Pretty good</b></span> <i>(Khá tốt)</i><i>.</i><br />\n<b>2.</b> Với câu hỏi <b>Does Martin prefer to work individually or with others?</b> <i>(Martin thích làm việc một mình hay với người khác?)</i> <b></b>câu trong bài đọc liên quan là <b>Besides, I enjoy working in a team.</b> <i>(</i><i>Bên cạnh đó, tôi thích làm việc theo nhóm.).</i></span> Nên đáp án là <span style=\"color:red\"><b>A. With others</b></span> <i>(Với người khác)</i><i>.</i><br />\n<b>3.</b> Với câu hỏi <b>What do her friends think about her?</b> <i>(Bạn bè cô ấy nghĩ gì?)</i> câu trong bài đọc liên quan là <b>My friends say I was impatient sometimes.</b> <i>(</i><i>Bạn bè của tôi nói rằng đôi khi tôi thiếu kiên nhẫn.</i></span><i>).</i> Nên đáp án là <span style=\"color:red\"><b>B. She's impatient sometimes.</b></span> <i>(Thỉnh thoảng cô ấy mất kiên nhẫn.)</i><i>.</i><br />\n<b>4.</b> Với câu hỏi <b>What's she trying to enhance?</b> <i>(Cô ấy đang cố gắng cải thiện điều gì?),</i> <b></b>câu trong bài đọc liên quan là <b>My friends say I was impatient sometimes, but I'm trying to improve that.</b> <b><i></i></b><i>(</i><i>Bạn bè của tôi nói rằng đôi khi tôi thiếu kiên nhẫn, nhưng tôi đang cố gắng cải thiện điều đó.).</i></span> Nên đáp án là <span style=\"color:red\"><b>D. her patience</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(Tính kiên nhẫn của cô ấy)</i><i>.</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5e1f49b5-52d3-412f-9fe8-302f88f89876"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "e841832d-6c5a-4bb1-b9f0-1013a9b9a9c7"
+          },
+          "cauHoi": "What is the reason why Martin wants to work as a newspaper editor?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6b0677f9-6be3-4fe4-9730-f733c9070f33"
+              },
+              "dapAn": "A. It’s her biggest dream.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "7c654c01-cf1e-4199-b21f-38265b1acfae"
+              },
+              "dapAn": "B. She wants to earn lots of money.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a4f68df2-99a7-4d60-b1f2-18a1a0c66829"
+              },
+              "dapAn": "C. It’s fun.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f1142379-2870-44ff-b2ec-c4489bb0a839"
+              },
+              "dapAn": "D. It’s easy to make money.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "81081f1d-7de5-4846-a55f-c5bc6ff11652"
+          },
+          "cauHoi": "What does Martin love about the job?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "cdf66419-e9e5-4957-a47e-103597ba43ed"
+              },
+              "dapAn": "A. She gets high salaries.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b6fab4a4-d3b8-4104-98bc-f4a1baaf785f"
+              },
+              "dapAn": "B. She can meet lots of celebrities.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "85ab66a1-6d9e-4aa5-85d5-090ddd320d82"
+              },
+              "dapAn": "C. She enjoys editing others’ writings.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "ab908720-62be-4681-b8ac-eace5fc8a077"
+              },
+              "dapAn": "D. Southampton University.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "3bcee8c0-fceb-4a2b-a7d2-4e1647eda589"
+          },
+          "cauHoi": "How much notice does Martin need before starting her work here?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8f43e38e-65a7-4a40-9e32-b8e9a5a5b95a"
+              },
+              "dapAn": "A. 1 week",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4965223c-1cd8-410d-96d6-8c0f1b509b7a"
+              },
+              "dapAn": "B. 1 day",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "21113911-be44-4d02-9ce3-8c96b8e78714"
+              },
+              "dapAn": "C. 2 days",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "60e5ed28-3cae-4373-8910-40562b9a767e"
+              },
+              "dapAn": "D. 2 weeks",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "9b9739f3-7c19-4584-a34a-b13f1f70f7da"
+          },
+          "cauHoi": "When can she start after getting noticed?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a436f111-f87a-4395-94a6-14ab479aa642"
+              },
+              "dapAn": "A. 1 day later",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1aabb29f-42e6-4b6c-87fb-7e3e0d78399e"
+              },
+              "dapAn": "B. 2 days later",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "227415bb-2733-4b42-b75d-b8579a07209a"
+              },
+              "dapAn": "C. right after that",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "9aadc8a1-1bbd-413e-bf1a-4a2175604bae"
+              },
+              "dapAn": "D. 2 years",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Sophie:</b></td>\n                        <td>OK. Can you tell me why you want to work for us?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ms. Martin:</b></td>\n                        <td>Becoming a newspaper editor is my biggest dream. I love to correct what people have written.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Sophie:</b></td>\n                        <td>Alright. If we offer you the job, when can you start?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ms. Martin:</b></td>\n                        <td>I'd need to give two weeks' notice, but I could start immediately after that.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What is the reason why Martin want</b><b>s</b> <b>to work as a newspaper editor?</b> <i>(Tại sao Martin muốn trở thành biên tập viên báo?),</i> <b></b>câu trong bài đọc liên quan là <b>Becoming a newspaper editor is my biggest dream.</b> <i>(</i><i>Trở thành một biên tập viên báo chí là ước mơ lớn nhất của tôi.</i></span><i>).</i> Nên đáp án là <span style=\"color:red\"><b>A. It's her biggest dream.</b></span> <i>(Đó là giấc mơ lớn nhất của cô ấy.)</i><i>.</i><br />\n<b>2.</b> Với câu hỏi <b>What does Martin love about the job?</b> <i>(Martin thích gì trong công việc này?)</i> <b></b>câu trong bài đọc liên quan là <b>I love to correct what people have written.</b> <i>(</i><i>Tôi thích sửa những gì mọi người đã viết.)</i></span> Nên đáp án là <span style=\"color:red\"><b>C. She enjoys editing others' writings.</b></span> <i>(Cô ấy thích sửa bài viết của người khác.)</i><i>.</i><br />\n<b>3.</b> Với câu hỏi <b>How much notice does Martin need before starting her work here?</b> <i>(Martin cần được thông báo trước bao lâu trước khi cô ấy bắt đầu công việc?)</i> câu trong bài đọc liên quan là <b>I'd need to give two weeks' notice</b> <i>(</i><i>Tôi cần báo trước hai tuần.</i></span><i>).</i> Nên đáp án là <span style=\"color:red\"><b>D. 2 weeks</b></span> <i>(2 tuần)</i><i>.</i><br />\n<b>4.</b> Với câu hỏi <b>When can she start after getting noticed?</b> <i>(Bao lâu sau khi được thông báo cô ấy có thể đi làm?),</i> <b></b>câu trong bài đọc liên quan là <b>I'd need to give two weeks' notice, but I could start immediately after that.</b> <b><i></i></b><i>(</i><i>Tôi cần báo trước hai tuần, nhưng tôi có thể bắt đầu ngay sau đó.).</i></span> Nên đáp án là <span style=\"color:red\"><b>C. right after that</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(ngay sau đó)</i><i>.</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "27c168e4-b36e-4474-8562-e25253f4e58b"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "18c4e12b-1b1e-4e7c-9b97-418a9d66abbf"
+          },
+          "cauHoi": "What is Sarah’s job?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f2b5fef1-1a85-42d0-9faa-cb28bb48c721"
+              },
+              "dapAn": "A. Political journalist",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a0a593d9-f2bd-4f79-80de-e012e955ad36"
+              },
+              "dapAn": "B. Investigative journalist",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "2afbb6b8-9532-402b-bb5a-1aba9f4fb4ec"
+              },
+              "dapAn": "C. Political journalist",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0916ea23-c33a-425a-9bbd-bf03730ca7f5"
+              },
+              "dapAn": "D. Crime journalist",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "6da2010f-eb21-4fa5-bbcc-4e7ef0f6a9b7"
+          },
+          "cauHoi": "What job did she use to do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8c060dfd-cf08-4ddf-b418-6f957aaddacb"
+              },
+              "dapAn": "A. Crime Journalism",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4dcd1832-64fe-4508-bc3f-cdc923b7f978"
+              },
+              "dapAn": "B. Investigator",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b2b64567-1181-4e2f-92c0-292231ec7685"
+              },
+              "dapAn": "C. Foreign correspondent",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "7ee5dfa5-3eb5-41d7-8a02-7edff3162cbf"
+              },
+              "dapAn": "D. Capital correspondent",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "b0cf8276-f45f-406c-83a8-affdcf4aadd1"
+          },
+          "cauHoi": "How many times has Smith win Canon Media Awards?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "38044822-c778-4340-9dd1-6f7ab30d9c93"
+              },
+              "dapAn": "A. 1",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2774db5c-9843-49f2-a5b9-223802a4c540"
+              },
+              "dapAn": "B. 2",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "867519c3-c863-4fe1-b8a5-acd1c6d6f710"
+              },
+              "dapAn": "C. 3",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "46ae161b-1e97-4171-8a8e-d1a2f1730c2d"
+              },
+              "dapAn": "D. 4",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "d6268c89-fc42-4123-a94d-f68f7bfac578"
+          },
+          "cauHoi": "Which case did she solve that made her famous?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "e45952a0-8252-4930-bd93-71c9b154cd04"
+              },
+              "dapAn": "A. Watson case",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "64cc8d14-8722-4163-9e3e-87e26cbe11ed"
+              },
+              "dapAn": "B. Canon case",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f7a8d20a-e714-4ee9-a9a9-091d6eb90903"
+              },
+              "dapAn": "C. Potter case",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a76093ae-f1ca-49ab-8966-20d94d105279"
+              },
+              "dapAn": "D. Mark case",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Sarah Smith is an award-winning investigative journalist and former freelance foreign correspondent.  She is currently a senior investigative reporter and a photojournalist for Sand. Smith has won Canon Media Awards three times. She became well-known when she covered the infamous Watson case.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What is Sarah's job?</b> <i>(Công việc của Sarah là gì?),</i> <b></b>câu trong bài đọc liên quan là <b>Sarah Smith is an award-winning investigative journalist.</b> <i>(</i><i>Sarah Smith là một nhà báo điều tra từng đoạt giải thưởng và là cựu phóng viên nước ngoài tự do.</i></span><i>).</i> Nên đáp án là <span style=\"color:red\"><b>B. Investigative journalist</b></span> <i>(Nhà báo điều tra)</i><i>.</i><br />\n<b>2.</b> Với câu hỏi <b>What job did she use to do?</b> <i>(Martin thích gì trong công việc này?)</i> <b></b>câu trong bài đọc liên quan là <b>Sarah Smith is an award-winning investigative journalist and former freelance foreign correspondent</b> <b><i></i></b><i>(</i><i>Sarah Smith là một nhà báo điều tra từng đoạt giải thưởng và là cựu phóng viên thường trực nước ngoài.).</i></span> Nên đáp án là <span style=\"color:red\"><b>C. Foreign correspondent</b></span> <i>(</i><i>phóng viên nước ngoài</i></span><i>)</i><i>.</i><br />\n<b>3.</b> Với câu hỏi <b>How many times has Smith win Canon Media Awards?</b> <i>(Smith đã giành được</i> <i>Giải thưởng Canon Media mấy lần?)</i> câu trong bài đọc liên quan là <b>Smith has won Canon Media Awards three times</b> <b><i></i></b><i>(Smith đã ba lần giành được Giải thưởng Canon Media</i><i>.</i></span><i>).</i> Nên đáp án là <span style=\"color:red\"><b>C. 3</b></span> <i>(3)</i><i>.</i><br />\n<b>4.</b> Với câu hỏi <b>Which case did she solve that made her famous?</b> <b><i></i></b><i>(Vụ án nào cô ấy giải quyết mà khiến cô ấy nổi tiếng?),</i> <b></b>câu trong bài đọc liên quan là <b>She became well-known when she covered the infamous Watson case.</b> <b></b><i>(Cô ấy</i> <i>trở nên nổi tiếng khi cô đưa tin về vụ án Watson khét tiếng.).</i></span> Nên đáp án là <span style=\"color:red\"><b>A. Watson case</b></span> <i>(</i><i>vụ án Watson</i></span><i>)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "867fe82a-5a2a-4126-94cd-85abec903022"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "d853c745-7eae-4c2b-8892-5fbd83afcc61"
+          },
+          "cauHoi": "When did Watson intend to meet Smith?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "91648ab3-cd1f-4295-bd21-c043f25118f2"
+              },
+              "dapAn": "A. In 2019",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bfe4423c-b3af-4465-b9df-f53984ce915c"
+              },
+              "dapAn": "B. In 2015",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "69948736-abad-4d4b-9498-7dda01d608d8"
+              },
+              "dapAn": "C. In 2016",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "eb1c0b84-8266-4b3f-8b66-5b1956137302"
+              },
+              "dapAn": "D. In 2014",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "0a52cff2-d372-46c3-b4e5-3b53321a353a"
+          },
+          "cauHoi": "How was the meeting?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7ac00d65-c7af-4b32-a0b5-f7bf0198f3de"
+              },
+              "dapAn": "A. It went well.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f0d75f21-a8c2-4753-9c37-7db12d38e584"
+              },
+              "dapAn": "B. It got so intense.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c69d8bf1-2c5e-4c5c-96c5-5f3889a6cdb5"
+              },
+              "dapAn": "C. It didn’t happen.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "613f1d88-9bbb-4862-868f-8368127d6352"
+              },
+              "dapAn": "D. It didn’t end well.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "45658c82-d4e3-4b5b-a820-c6acf6339bdf"
+          },
+          "cauHoi": "What was Watson accused of? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "126b1cea-e813-4ac2-893f-0e2995b62a10"
+              },
+              "dapAn": "A. murder",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "cd089fb5-7798-477e-8b9e-4f1ba5d2f392"
+              },
+              "dapAn": "B. robbery",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2b1bbb41-1fe7-4bb7-8fb8-8c16f00abd33"
+              },
+              "dapAn": "C. sexual assault",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7137a8c7-c371-4314-8376-0062b4b72d1d"
+              },
+              "dapAn": "D. pocket-picking",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "550d5047-0da2-4ba8-a185-57ed6b06051d"
+          },
+          "cauHoi": "How long did it take to bring the truth the light?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7e76d9bb-9777-4935-ad33-449efe8a7add"
+              },
+              "dapAn": "A. 6 months",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "407fb4f8-6136-4fe6-98f2-03aacbbe382e"
+              },
+              "dapAn": "B. 3 months",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ee6fc109-18ec-44b6-9c27-5824ab857be3"
+              },
+              "dapAn": "C. 5 years",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "23c78c8b-40ce-4fba-8e24-0c60da223c66"
+              },
+              "dapAn": "D. 1 year",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "In 2014, Watson invited Smith to interview Watson in prison, but that meeting was prevented to occur. Although Watson wasn’t a murderer, it took a year to bring the truth to light. Smith commented on this case, “Journalists have a special role in investigating cases when someone is wrongly punished for crime.”",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>When did Watson intend to meet Smith?</b> <i>(Watson đã định gặp Smith lúc nào?),</i> <b></b>câu trong bài đọc liên quan là <b>In 2014, Watson invited Smith to interview him in prison.</b> <i>(Vào năm 2014, Watson đã mời Smith phỏng vấn anh ta trong tù).</i> Nên đáp án là <span style=\"color:red\"><b>D. In 2014</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(Vào năm 2014)</i><i>.</i><br />\n<b>2.</b> Với câu hỏi <b>How was the meeting?</b> <i>(Buổi gặp diễn ra thế nào?)</i> <b></b>câu trong bài đọc liên quan là <b>But that meeting was prevented to occur.</b> <i>(</i><i>Nhưng cuộc gặp đó đã bị ngăn cản.)</i></span> Nên đáp án là <span style=\"color:red\"><b>C. It didn't happen.</b></span> <i>(Nó đã không diễn ra.)</i><i>.</i><br />\n<b>3.</b> Với câu hỏi <b>What was Watson accused of?</b> <i>(Watson bị buộc tội gì?)</i> câu trong bài đọc liên quan là <b>Although Watson wasn't a murderer</b> <b><i></i></b><i>(Mặc dù Watson không phải kẻ giết người</i><i>.</i></span><i>).</i> Nên đáp án là <span style=\"color:red\"><b>A. murder</b></span> <i>(giết người)</i><i>.</i><br />\n<b>4.</b> Với câu hỏi <b>How long did it take to bring the truth the light?</b> <b><i></i></b><i>(Mất bao lâu để sự thật được mang ra ánh sáng?),</i> <b></b>câu trong bài đọc liên quan là <b>it took a year to bring the truth to light</b> <i>(phải mất một năm để sự thật được mang ra ánh sáng</i><i>).</i></span> Nên đáp án là <span style=\"color:red\"><b>D. 1 year</b></span> <i>(</i><i>1 năm</i></span><i>)</i><i>.",
+      "danhSachDapAn": []
+    }
+  ]
+}

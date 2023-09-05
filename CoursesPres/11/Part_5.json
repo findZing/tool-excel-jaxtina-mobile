@@ -1,0 +1,176 @@
+{
+  "dangCauHoi": "P2",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "222284b5-79e9-4ad8-bff4-be4895a99c5e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_PRE_S_L11/sounds/normal/PRE_S_11_LISTENING_Listening 1.mp3",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td><b>Luke:</b></td>\n                        <td>Hey Amber, are you there?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Này Amber, bạn có ở đó không?</td>\n                </tr>\n                <tr>\n                        <td><b>Amber:</b></td>\n                        <td>Yes, I'm here.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Vâng tôi đây.</td>\n                </tr>\n                <tr>\n                        <td><b>Luke:</b></td>\n                        <td>Hi, how are you?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Xin chào! Bạn khỏe không?</td>\n                </tr>\n                <tr>\n                        <td><b>Amber:</b></td>\n                        <td>I'm not so good.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi không thấy ổn lắm.</td>\n                </tr>\n                <tr>\n                        <td><b>Luke:</b></td>\n                        <td><span style=\"color:red\">What's wrong with you?</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Có chuyện gì với bạn vậy?</td>\n                </tr>\n                <tr>\n                        <td><b>Amber:</b></td>\n                        <td>I have to get up too early today, so I'm tired.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Hôm nay tôi phải dậy quá sớm nên rất mệt.</td>\n                </tr>\n                <tr>\n                        <td><b>Luke:</b></td>\n                        <td>Oh, why? Today is Saturday!</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Ồ, tại sao vậy? Hôm nay là thứ Bảy mà.</td>\n                </tr>\n                <tr>\n                        <td><b>Amber:</b></td>\n                        <td><span style=\"color:red\">I work on weekends. I get up at 5 a.m. to brush my teeth, comb my hair and put on makeup.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi làm việc vào các ngày cuối tuần. Tôi thức dậy lúc 5 giờ sáng để đánh răng, chải đầu và trang điểm.</td>\n                </tr>\n                <tr>\n                        <td><b>Luke:</b></td>\n                        <td>So that you're very beautiful now.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Vì thế mà bây giờ bạn rất đẹp đó.</td>\n                </tr>\n                <tr>\n                        <td><b>Amber:</b></td>\n                        <td><span style=\"color:red\">Thank you! But why are you here today?</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Cảm ơn bạn! Nhưng tại sao bạn lại ở đây hôm nay?</td>\n                </tr>\n                <tr>\n                        <td><b>Luke:</b></td>\n                        <td>Ah, are you free tonight? Would you like to have dinner with me?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>À, tối nay bạn có rảnh không? Bạn có muốn ăn tối với tôi không?</td>\n                </tr>\n                <tr>\n                        <td><b>Amber:</b></td>\n                        <td>I'm so sorry. I can't leave my sister at home alone.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi rất xin lỗi. Tôi không thể để em gái tôi ở nhà một mình.</td>\n                </tr>\n                <tr>\n                        <td><b>Luke:</b></td>\n                        <td>How old is your sister?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Em gái bạn bao nhiêu tuổi?</td>\n                </tr>\n                <tr>\n                        <td><b>Amber:</b></td>\n                        <td><span style=\"color:red\">She is three. She cannot get undressed and take a bath alone.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Em ấy ba tuổi. Em ấy không thể cởi quần áo và tắm một mình.</td>\n                </tr>\n                <tr>\n                        <td><b>Luke:</b></td>\n                        <td><span style=\"color:red\">Oh, I understand. I will watch TV alone tonight.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Ồ, tôi hiểu rồi. Tôi sẽ xem Ti vi một mình tối nay.</td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f47949ef-430f-4b01-8cd9-0ece3ef20108"
+          },
+          "dapAn": "What’s wrong with you?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8f1bf076-6596-4e16-8802-b5d400ea2fcc"
+          },
+          "dapAn": "I work on weekends. I get up at 5 a.m. to brush my teeth, comb my hair and put on makeup.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f9ee9b5f-4396-4ce8-84bc-0e5a412ef04f"
+          },
+          "dapAn": "Thank you! But why are you here today?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "28c274a3-bcba-4e4c-9f92-b32e8417993b"
+          },
+          "dapAn": "She is three. She cannot get undressed and take a bath alone.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3c06eb5b-e805-47e6-b05b-67bd3d3df15b"
+          },
+          "dapAn": "Oh, I understand. I will watch TV alone tonight.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0175f964-3f07-4308-b420-8116ed2d1a35"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_PRE_S_L11/sounds/normal/PRE_S_11_LISTENING_Listening 2.mp3",
+      "yNghia": "<span style=\"color:red\">I always get up at 7:00 a.m.</span> After that, I take a shower and brush my hair. <span style=\"color:red\">Sometimes, I shave my beard too. </span>I usually eat breakfast. <span style=\"color:red\">I rarely drink coffee or tea.</span> I never go to work by bus. I sometimes drive my car. I start work at 8:00 a.m. I'm a doctor. <span style=\"color:red\">I usually eat lunch at noon.</span> I finish work at 9:00 p.m.<span style=\"color:red\"> I often come home late.</span> Then, I have dinner with my family. It is one of my working days. I love my job.<br />\n<br />\nTôi luôn thức dậy lúc 7 giờ sáng. Sau đó tôi đi tắm vòi và chải tóc. Thỉnh thoảng, tôi cũng cạo râu. Tôi thường ăn sáng. Tôi hiếm khi uống cà phê hoặc trà. Tôi không bao giờ đi làm bằng xe buýt. Tôi đôi khi lái xe của tôi. Tôi bắt đầu làm việc lúc 8 giờ sáng. Tôi là một bác sĩ. Tôi thường ăn trưa lúc 12 giờ. Tôi hoàn thành công việc lúc 9 giờ tối. Tôi thường trở về nhà muộn. Sau đó, tôi ăn tối với gia đình của mình. Đó là một trong những ngày làm việc của tôi. Tôi yêu công việc của tôi.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ad42fdb5-9005-4d15-8ad6-005d671a9555"
+          },
+          "dapAn": "I always get up at 7:00 a.m.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "38642d1b-28dd-4310-af28-bf91582c713f"
+          },
+          "dapAn": "Sometimes, I shave my beard too.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "367a37c7-432b-412a-b2a1-2a3abc4552c7"
+          },
+          "dapAn": "I rarely drink coffee or tea.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "20f10f83-0f9f-4585-8691-dd2d7306635b"
+          },
+          "dapAn": "I usually eat lunch at noon.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9f70b5fe-48f7-4ce7-ad09-fb0d6ee2acac"
+          },
+          "dapAn": "I often come home late.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "fd68bbf9-05c2-4380-999d-8909dcd748aa"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_PRE_S_L11/sounds/normal/PRE_S_11_LISTENING_Listening 3.mp3",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td><b>James:</b></td>\n                        <td>Hi. What's your name?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Xin chào. Bạn tên là gì?</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td><span style=\"color:red\">My name is Linda.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tên tôi là Linda.</td>\n                </tr>\n                <tr>\n                        <td><b>James:</b></td>\n                        <td>How are you?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Bạn khỏe không?</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>I'm fine, thanks.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi khỏe, cảm ơn bạn.</td>\n                </tr>\n                <tr>\n                        <td><b>James:</b></td>\n                        <td><span style=\"color:red\">Where do you live?</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Bạn sống ở đâu?</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>I live in London.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi sống ở Luân-đôn.</td>\n                </tr>\n                <tr>\n                        <td><b>James:</b></td>\n                        <td><span style=\"color:red\">Who do you live with?</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Bạn sống với ai?</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>I live with my sister.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi sống với chị của tôi.</td>\n                </tr>\n                <tr>\n                        <td><b>James:</b></td>\n                        <td>Where do you work?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Bạn làm việc ở đâu?</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td><span style=\"color:red\">I work in a restaurant.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi làm việc trong một nhà hàng.</td>\n                </tr>\n                <tr>\n                        <td><b>James:</b></td>\n                        <td>What time do you get up?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Bạn dậy lúc mấy giờ?</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td><span style=\"color:red\">I get up at 6:00 a.m.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi thức dậy lúc 6 giờ sáng.</td>\n                </tr>\n                <tr>\n                        <td><b>James:</b></td>\n                        <td>What do you do after waking up?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Bạn làm gì sau khi ngủ dậy?</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td><span style=\"color:red\">I brush my teeth, have breakfast and get dressed</span>.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi đánh răng, ăn sáng và mặc quần áo.</td>\n                </tr>\n                <tr>\n                        <td><b>James:</b></td>\n                        <td><span style=\"color:red\">What time do you get to work?</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Mấy giờ bạn đi làm?</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>I usually get to work at 7:00 a.m.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi thường đi làm lúc 7 giờ sáng.</td>\n                </tr>\n                <tr>\n                        <td><b>James:</b></td>\n                        <td><span style=\"color:red\">What do you do after work?</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Bạn làm gì sau khi tan làm?</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td>I always go to the gym.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi luôn đi đến phòng tập thể hình.</td>\n                </tr>\n                <tr>\n                        <td><b>James:</b></td>\n                        <td><span style=\"color:red\">What do you do on weekends?</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Bạn làm gì vào cuối tuần?</td>\n                </tr>\n                <tr>\n                        <td><b>Linda:</b></td>\n                        <td><span style=\"color:red\">I sometimes hang out with my friends.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi thỉnh thoảng đi chơi với bạn bè của tôi.</td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "94640a8f-33d6-42b1-8f77-04b5449492ff"
+          },
+          "dapAn": "My name is Linda.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "49f8796e-982b-4107-bbd1-0953dc328a97"
+          },
+          "dapAn": "Where do you live?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2e33028d-2080-418d-9bf9-d53a3e43e2d5"
+          },
+          "dapAn": "Who do you live with?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3a5a2abf-b750-4fe3-888a-4b03231b85a6"
+          },
+          "dapAn": "I work in a restaurant.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d3a6cffe-80aa-4dab-8d3b-547691c1f951"
+          },
+          "dapAn": "I get up at 6:00 a.m.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ab545777-4a90-4609-954c-9a9de767e5c6"
+          },
+          "dapAn": "I brush my teeth, have breakfast and then get dressed.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a1993bf4-ba85-48d9-ba4f-7e1fff6989db"
+          },
+          "dapAn": "What time do you get to work?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5cd34b3f-453d-4503-b004-4ee430e1f323"
+          },
+          "dapAn": "What do you do after work?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bd0d5390-06b8-4a27-bc9a-4f22c867bde7"
+          },
+          "dapAn": "What do you do on weekends?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5f77578a-7e15-4f39-a52a-e0727d1455eb"
+          },
+          "dapAn": "I sometimes hang out with my friends.",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

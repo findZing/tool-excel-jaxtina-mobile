@@ -1,0 +1,718 @@
+{
+  "dangCauHoi": "P6",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "dc86ebd3-fde5-4976-935c-96627cb7d3a1"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả ai đó làm việc gì đó ở thì hiện tại đơn, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ (hiện tại đơn) + Tân ngữ.</b><br />\nTa có: <b>You </b><i>(Bạn)</i> là chủ ngữ, <b>look </b><i>(trông)</i> là động từ, tân ngữ là <b>tired </b><i>(mệt mỏi)</i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>Oh Mary, you look tired.</b></span><i> (Ôi Mary, trông bạn có vẻ mệt mỏi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f0b2833e-4efd-40f0-89cf-2b7d376b7143"
+          },
+          "dapAn": "Oh Mary,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "14d4f1bf-58ea-4aae-b159-eb57b2795e86"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7842fae5-fd3a-4108-89c2-3df7f951d3d3"
+          },
+          "dapAn": "look",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ab0c3f28-57fa-4f79-bd03-f1da3c9e83ac"
+          },
+          "dapAn": "tired.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1052abe0-2a30-436d-8bf5-ddc2ee3ff085"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả một thói quen, chúng ta sẽ dùng cấu trúc: <b>Trạng từ chỉ tần suất + Chủ ngữ + Động từ (hiện tại đơn).</b><br />\nTa có: <b>Sometimes </b><i>(Thỉnh thoảng)</i> là trạng từ chỉ tần suất, <b>I </b><i>(tôi)</i> là chủ ngữ, <b>stay up too late</b> <i>(thức khuya)</i> là cụm động từ. Câu hoàn chỉnh là <span style=\"color:red\"><b>Sometimes, I stay up too late at night.</b></span> <i>(Vâng, thỉnh thoảng tôi thức khuya.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "616ed53d-c9f8-49f0-8a35-5646214d1255"
+          },
+          "dapAn": "Sometimes,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "170d17e1-6847-40ea-ae2b-64c61ee622d9"
+          },
+          "dapAn": "I stay up",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cfac91d6-1f9a-48a7-8ee5-9efec5f189e6"
+          },
+          "dapAn": "too late",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "969ac419-7c4a-40a6-b2f7-c5b3f3eea9a0"
+          },
+          "dapAn": "at night.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6cfa1946-5c42-4056-b826-036cb5e925cd"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó về trạng thái hiện tại, chúng ta sẽ dùng cấu trúc: <b>Động từ to be + Chủ ngữ + Động từ (–ing) + Tân ngữ.</b><br />\nTa có: <b>You </b><i>(Bạn)</i> là chủ ngữ, <b>are </b>là động từ <i>to be</i>, động từ <b>feel </b><i>(cảm thấy)</i> thêm <b>(–ing)</b> thành <b>feeling</b>, tân ngữ là <b>alright </b><i>(ổn)</i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>Are you feeling alright?</b></span> <i>(Bạn có đang thấy ổn không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b8433850-28f6-4b10-8ed9-38811d4cd226"
+          },
+          "dapAn": "Are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bf3d4c6a-2eef-4b6e-b0b0-f4a4c188155c"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "709b6667-ef43-43ff-b08e-f638eae07e18"
+          },
+          "dapAn": "feeling ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fb7a3955-1816-44dc-811a-06077b94c7d8"
+          },
+          "dapAn": "alright?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "dfc62664-6efd-49db-a4f2-93441cd8f4f2"
+      },
+      "cauHoiNho": [],
+      "yNghia": "<b>All I need</b> là chủ ngữ, <b>is </b>động từ <i>to be</i>, <b>some coffee</b> là tân ngữ. Câu hoàn chỉnh là <span style=\"color:red\"><b>All I need is some coffee later.</b></span> <i>(Tí nữa tôi uống chút cà phê là xong.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9ca6cafb-d494-4d2c-aa6a-93f9ba19ca3e"
+          },
+          "dapAn": "All I need",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a7215ba7-e7ce-44ac-b90b-c0272d7822db"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2e55ab7b-6046-48a2-8b87-759079f4d46c"
+          },
+          "dapAn": "some coffee",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f1edc63d-59c0-4066-9034-8831ce846a49"
+          },
+          "dapAn": "later.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "fb92b4a8-4046-41b1-81d8-cec068d1a178"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi về thói quen của ai đó, chúng ta sẽ dùng cấu trúc: <b>Do/Does + Chủ ngữ + Động từ (nguyên thể) + Thời điểm?</b><br />\nTa có: <b>you </b><i>(bạn)</i> là chủ ngữ, trợ động từ đi kèm là <b>Do</b>, <b>get up</b> <i>(thức dậy)</i> là cụm động từ, thời điểm là <b>early every day</b> <i>(sớm mỗi ngày)</i>. Câu hoàn chỉnh là<span style=\"color:red\"><b> Do you get up early every day?</b></span> <i>(Bạn có dậy sớm mỗi ngày không?)</i>.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "56d594a3-2987-465a-8987-b9a948168f34"
+          },
+          "dapAn": "Do you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "414cb431-e871-4ab9-a6e6-e966c58dea30"
+          },
+          "dapAn": "get up",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "502cbe22-b408-4358-a2dd-6127883a8de7"
+          },
+          "dapAn": "early",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cfcd7d14-8cb6-4dd8-8d24-afedd26c15ec"
+          },
+          "dapAn": "every day?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f0274bf2-8c7f-4fe1-ae0e-9b19203e4ade"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả một thói quen, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ (hiện tại đơn) + Thời điểm.</b><br />\nTa có: <b>I </b><i>(Tôi)</i> là chủ ngữ, <b>get up</b> <i>(thức dậy)</i> là động từ, thời điểm là<b> on weekdays </b><i>(vào các ngày trong tuần)</i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>I only get up early on weekdays</b></span><i><span style=\"color:red\"><b>. </b></span>(Tôi chỉ dậy sớm vào các ngày trong tuần.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "876d7134-fd73-46f8-a4a4-a72e60e059a6"
+          },
+          "dapAn": "I only",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5409b350-726e-4cf6-9e8b-ee1e56601299"
+          },
+          "dapAn": "get up",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8edfc735-c79e-4310-ae27-e9967c74354f"
+          },
+          "dapAn": "early on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bb181096-199f-4d32-9644-93caa860f582"
+          },
+          "dapAn": "weekdays.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8b9a0850-0f52-4028-b62f-6c433442764b"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Câu hoàn chỉnh là <span style=\"color:red\"><b>How about on Sundays?</b></span><i> (Còn vào các ngày Chủ nhật thì sao?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6d397708-82f9-43cb-bb69-cf4bf6927bf7"
+          },
+          "dapAn": "How",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b60b767f-2f6b-432e-971a-755bb2299c10"
+          },
+          "dapAn": "about",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bcb1dcc0-d4d6-4492-9300-a43951bb8df1"
+          },
+          "dapAn": "on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4b29881a-4a67-422a-88f0-ad6c3ed53b25"
+          },
+          "dapAn": "Sundays?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a6ee8b44-1290-4a49-8753-ab9481c1dd17"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả ai đó làm việc gì đó ở thì Hiện tại đơn, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ  (hiện tại đơn).</b><br />\nTa có: <b>I </b><i>(Tôi)</i> là chủ ngữ, <b>sleep </b><i>(ngủ)</i> là động từ. Câu hoàn chỉnh là <span style=\"color:red\"><b>Then I sleep late.</b></span><i> (Thì tôi ngủ muộn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "06c0afa9-6d1f-4e61-9dd7-38fe7a1d6687"
+          },
+          "dapAn": "Then I",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "eac9c473-5bc1-4292-835a-22a00ccf558d"
+          },
+          "dapAn": "sleep",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f249fccd-9df1-40c1-bc93-61ec733259d7"
+          },
+          "dapAn": "late.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e0de9ad6-25f2-43a4-a2a1-216048021032"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó làm việc gì vào lúc nào, chúng ta sẽ dùng cấu trúc: <b>Do/Does + Chủ ngữ + Động từ + Thời điểm?</b><br />\nTa có: <b>You </b><i>(Bạn)</i> là chủ ngữ, <b>exercise </b><i>(tập thể dục)</i> là động từ, thời điểm là <b>during the week </b><i>(trong tuần)</i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>Do you exercise during the week?</b></span> <i>(Bạn có tập thể dục trong tuần không?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "02dd2e39-fa33-4862-a372-0f3f0a9bed47"
+          },
+          "dapAn": "Do you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "aa9e97a8-7742-4f8e-bd91-106e725ed31f"
+          },
+          "dapAn": "exercise",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b302f74c-0eca-466d-a4b5-0dcd407b2358"
+          },
+          "dapAn": "during",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ae4f896e-71b8-490e-8244-e412eba026c2"
+          },
+          "dapAn": "the week?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7667a655-b1fd-43ba-b74d-28d94829d8bd"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả một thói quen, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ (hiện tại đơn) + Trạng từ chỉ tần suất.</b><br />\nTa có: <b>I </b><i>(Tôi)</i> là chủ ngữ, <b>swim </b><i>(bơi)</i> là động từ, trạng từ chỉ tần suất là <b>three times a week</b> <i>(ba lần một tuần)</i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>I swim three times a week.</b></span> <i>(Tôi bơi ba lần một tuần.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "028286c8-88f9-4a45-9b77-3db7614813cb"
+          },
+          "dapAn": "I swim",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f388bd04-4942-456a-b768-f635068a4642"
+          },
+          "dapAn": "three times",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9164e98d-ea90-4e98-8d17-03dea03e1246"
+          },
+          "dapAn": "a week.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "dbdbaccb-ce72-4726-a1fd-be9ba8b60397"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Câu hoàn chỉnh là <span style=\"color:red\"><b>What about the weekend?</b></span> <i>(Còn những ngày cuối tuần thì sao?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0ae5187a-ce4a-442b-96b1-0f59dbdfc27c"
+          },
+          "dapAn": "What",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "76da569c-66ce-4170-afdc-f6974a959661"
+          },
+          "dapAn": "about",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "799cc9b8-07e3-4b01-a8da-59b178732b31"
+          },
+          "dapAn": "the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a483fb01-7de2-4685-a192-91969e506320"
+          },
+          "dapAn": "weekend?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f8013043-5ca6-4211-815d-8233510bce30"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó về thời gian làm việc gì đó, chúng ta sẽ dùng cấu trúc: <b>When + do/does + Chủ ngữ + Động từ + Tân ngữ?</b><br />\nTa có: <b>you </b><i>(bạn)</i> là chủ ngữ, <b>see </b><i>(gặp)</i> là động từ, tân ngữ là <b>your friends</b> <i>(các bạn của bạn)</i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>When do you see your friends?</b></span><i> (Bạn gặp bạn bè của bạn khi nào?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bc7a1302-200a-4f38-aad5-3b86ba58af7e"
+          },
+          "dapAn": "When",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fec15e83-7468-4c4d-9259-12fd41d068ef"
+          },
+          "dapAn": "do you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "72ee2145-ff96-41d9-b436-4a6cef9f6df6"
+          },
+          "dapAn": "see your",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e2b55544-781b-461a-84c4-4d1805a58a70"
+          },
+          "dapAn": "friends?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "94e78a54-450a-4580-b690-0694b7eb2e22"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả một thói quen, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ (hiện tại đơn) + Thời điểm.</b><br />\nTa có: <b>I </b><i>(Tôi)</i> là chủ ngữ, <b>see </b><i>(gặp)</i> là động từ, thời điểm là <b>on Fridays</b> <i>(vào các ngày thứ Sáu)</i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>I see friends on Fridays. </b></span><i>(Tôi gặp bạn bè vào các ngày thứ Sáu.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5f9d04bf-c61a-439d-a0ae-8a09bb444b9d"
+          },
+          "dapAn": "I see",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a87f27c7-7ab3-4547-a2fb-5117bba1be01"
+          },
+          "dapAn": "friends",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4a3c6c46-1a76-44e8-b805-8b957e2c3339"
+          },
+          "dapAn": "on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "278efd06-a942-4bdb-a5f6-bd0dfa019be6"
+          },
+          "dapAn": "Fridays.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b6e681e3-aec3-4b1b-a259-b40345b0d096"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả một thói quen, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ (hiện tại đơn) + Thời điểm.</b><br />\nTa có: <b>I </b><i>(Tôi)</i> là chủ ngữ, <b>visit </b><i>(thăm)</i> là động từ, thời điểm là <b>on Sundays</b> <i>(vào các ngày Chủ nhật)</i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>I visit my family on Sundays</b></span>.<i> (Tôi thăm gia đình vào các ngày Chủ nhật.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c57d36b3-91ab-47dc-84e5-3ee92f7614e5"
+          },
+          "dapAn": "I visit",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bf584ad3-d462-44e7-ba79-0056b35cb6e8"
+          },
+          "dapAn": "my family",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7dbc584b-e5c8-4883-b580-f39e8b79bc04"
+          },
+          "dapAn": "on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fe4d08dd-e409-439b-95c1-94d3feacca5e"
+          },
+          "dapAn": "Sundays.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "55253556-588f-44f6-bc2c-14c9d6b81ff2"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó về thời gian làm việc gì đó, chúng ta sẽ dùng cấu trúc: <b>When + do/does + Chủ ngữ + Động từ?</b><br />\nTa có: <b>you </b><i>(bạn)</i> là chủ ngữ, <b>study </b><i>(học)</i> là động từ. Câu hoàn chỉnh là <span style=\"color:red\"><b>When do you study? </b></span><i>(Bạn học lúc nào?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "461b2d34-22a6-4836-b5c6-5514e783b91f"
+          },
+          "dapAn": "When",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6195e3c8-e398-4a37-9a69-5406d4f3bf71"
+          },
+          "dapAn": "do",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7b1c1cee-bf87-42a1-8ac7-ee6ac57456db"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f65d4338-7a81-4c59-864c-ef3fc5bde229"
+          },
+          "dapAn": "study?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c80cfc01-e7b5-446c-9a4f-4cf8a32cf296"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả trạng thái hiện tại của ai đó, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ to be + Tính từ.</b><br />\nTa có: <b>You </b><i>(Bạn)</i> là chủ ngữ, <b>are </b>là động từ <i>to be</i> theo sau, tính từ là <b>busy </b><i>(bận rộn)</i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>You're really busy!</b></span><i> (Bạn thực sự bận rộn!) </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "841448d2-0298-4249-a25d-eee8c62e3065"
+          },
+          "dapAn": "You",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0b275265-d9d1-46de-bc7a-77e401459880"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8730087d-ecd9-459f-9ca1-5f374c7cc941"
+          },
+          "dapAn": "really",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "242fa705-d4e1-4c0c-94c4-8741ba665a43"
+          },
+          "dapAn": "busy!",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "47b84456-d984-4fe9-85f7-34b28291b5eb"
+      },
+      "cauHoiNho": [],
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít nên động từ <b>need </b>không chia. Câu hoàn chỉnh là <span style=\"color:red\"><b>I need to learn from you! </b></span><i>(Tôi cần học hỏi từ bạn!).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ddaa9b7d-88a0-4f64-b73c-87a2729dca2b"
+          },
+          "dapAn": "I need",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "15867403-9452-48fc-8e3a-18d3f9a5f464"
+          },
+          "dapAn": "to learn",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fce84721-322e-439e-a17c-982c32bb7a38"
+          },
+          "dapAn": "from",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "675fb6df-0238-463a-b0ec-5a1cb99f32ee"
+          },
+          "dapAn": "you!",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7707cf78-83e1-41c9-9ac4-fd895d7b2419"
+      },
+      "cauHoiNho": [],
+      "yNghia": "<b>you </b>là chủ ngữ ngôi thứ hai nên trợ động từ được sử dụng tương ứng sẽ là <b>Are</b>. Câu hoàn chỉnh là <span style=\"color:red\"><b>Are you sure? </b></span><i>(Bạn có chắc không?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "734fcb09-507b-452f-af67-acd8838b5588"
+          },
+          "dapAn": "Are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b6217e88-10dd-4cac-99f0-583ea171457a"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9d014b41-5afa-4b8a-b573-81879e21afe0"
+          },
+          "dapAn": "sure?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0d376ca8-f3e8-4264-ab55-bca3e485d476"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả ai đó làm gì đó ở hiện tại, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ (hiện tại đơn).</b><br />\r\nTa có: <b>I</b> <i>(Tôi)</i> là chủ ngữ, <b>have</b> <i>(phải)</i> là động từ. Câu hoàn chỉnh là<span style=\"color:red\"><b> I have to go now.</b></span> <i>(Bây giờ tôi phải đi đây.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ddd7eee5-a47c-4a65-bccd-ac7c5e30a4d4"
+          },
+          "dapAn": "I",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d5a44444-9cdb-4ff7-97ae-dac8f7b1c50d"
+          },
+          "dapAn": "have to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0a4d04c6-571c-4625-8431-ee78b9e37f83"
+          },
+          "dapAn": "go",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "34905c2b-cb5b-465a-87ca-f27aa95a5aaa"
+          },
+          "dapAn": "now.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ce026bf9-41c6-4812-b2c4-98d66c562049"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói lời chào, hẹn gặp lại, ta dùng cấu trúc <b>See + you + trạng từ.</b> Câu hoàn chỉnh là <span style=\"color:red\"><b>See you soon!</b></span> <i>(Hẹn sớm gặp lại bạn!).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "19eed3db-cf23-4844-ad15-9ad021ead16a"
+          },
+          "dapAn": "See",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "01c99c88-c5d4-4e00-9127-b3450f8e127c"
+          },
+          "dapAn": "you ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "84c0c7df-982c-427e-b87e-297eb66dca75"
+          },
+          "dapAn": "soon!",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

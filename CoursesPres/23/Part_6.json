@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "8be4e03f-2775-4a1f-bbaf-f4c8f80ad725"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td> \r\n                        <td>Look! These <b>(1)</b> ________ some pictures of my family.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Nina:</b></td> \r\n                        <td>Wow! Who is this woman? She looks very <b>(2)</b> ________.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td> \r\n                        <td>That's my <b>(3)</b> ________. She's young in this picture.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Nina:</b></td> \r\n                        <td>She <b>(4)</b> ________ beautiful. </td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td>\r\n                        <td>Look! These <b>(1)</b> <b><span style=\"color:red\">are</span> </b> some pictures of my family.<br />\r\n                        <i>Nhìn này! Đây </i><i><span style=\"color:red\">là </span> </i><i>một vài bức ảnh của gia đình tớ.</i></td>\r\n                </tr>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Nina:</b></td>                        <td>Wow! Who is this woman? She looks very <b>(2)</b> <b><span style=\"color:red\">happy</span> </b>.<br />\r\n                        <i>Ồ! Người phụ nữ này là ai vậy? Cô ấy trông rất </i><i><span style=\"color:red\">hạnh phúc</span> </i><i>.</i></td>\r\n                </tr>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Mike:</b></td>                        <td>That's my <b>(3)</b> <b><span style=\"color:red\">grandmother</span> </b>. She's young in this picture.<br />\r\n                        <i>Đó là </i><i><span style=\"color:red\">bà </span> </i><i>của tớ. Bà còn trẻ trong bức ảnh này.</i></td>\r\n                </tr>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Nina:</b></td>                                <td>She <b>(4)</b> <b><span style=\"color:red\">is</span> </b> beautiful. <br />\r\n                        <i>Bà thật đẹp.</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "are ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6af28048-2543-4820-9378-a3860fd166bf"
+          }
+        },
+        {
+          "dapAn": "happy",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "b4b9287e-908c-4222-905d-82ff38103b49"
+          }
+        },
+        {
+          "dapAn": "grandmother",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "802c3ade-e751-4790-869c-c969c00477ef"
+          }
+        },
+        {
+          "dapAn": "is",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "496051ae-fa61-43c5-886d-0830ae40dacd"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f85486dc-9498-4ce6-b2a4-b0e8238d8582"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Nina:</b></td> \r\n                        <td>And the girl in this picture? Who is she?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td> \r\n                        <td>My <b>(1)</b> ________. She looks <b>(2)</b> ________ because of the rain.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Nina:</b></td> \r\n                        <td>Oh, are they your <b>(3)</b> ________?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Mike:</b></td> \r\n                        <td>Yes, they are. They're <b>(4)</b> ________ from working.</td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Nina:</b></td>                                <td>And the girl in this picture? Who is she?<br />\n                        <i>Và cô gái trong bức ảnh này thì sao? Cô ấy là ai?</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Mike:</b></td>                        <td>My <b>(1) </b><b><span style=\"color:red\">sister</span> </b>. She looks <b>(2) </b><b><span style=\"color:red\">sad </span> </b>because of the rain.<br />\n                        <i><span style=\"color:red\">Chị </span> </i><i>tớ. Chị ấy </i><i><span style=\"color:red\">buồn </span> </i><i>bởi vì trời mưa.</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Nina:</b></td>                                <td>Oh, are they your <b>(3) </b><b><span style=\"color:red\">parents</span> </b>?<br />\n                        <i>Ô, họ có phải là </i><i><span style=\"color:red\">bố mẹ </span> </i><i>cậu không?</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Mike:</b></td>                        <td>Yes, they are. They're <b>(4) </b><b><span style=\"color:red\">tired </span> </b>from working.<br />\n                        <i>Đúng vậy. Họ đang </i><i><span style=\"color:red\">mệt mỏi </span> </i><i>vì làm việc.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "sister",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "39103b66-e93f-4b53-9c08-154859b00b02"
+          }
+        },
+        {
+          "dapAn": "sad",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "fed33c37-acfa-4a57-998d-8c250db2a516"
+          }
+        },
+        {
+          "dapAn": "parents",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "396bc27e-4932-48fc-b721-fae326afd464"
+          }
+        },
+        {
+          "dapAn": "tired",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "84e7e798-e522-4462-adf9-c542b495245b"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "833baf34-b848-40ca-b0cd-c13a772c3cbf"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Thank <b>(1)</b> ________ for visiting The Blue Café! Do you like our <b>(2)</b> ________? Does our homemade cake make you <b>(3)</b> ________? Yes? <b>(4)</b> ________ vote for us in the city's Top Coffee Shop competition!",
+      "yNghia": "Thank <b>(1) <span style=\"color:red\">you</span> </b> for visiting The Blue Café! Do you like our <b>(2)</b> <b><span style=\"color:red\">coffee</span> </b>? Does our homemade cake make you <b>(3) <span style=\"color:red\">happy</span> </b>? Yes? <b>(4) <span style=\"color:red\">Please</span> </b> vote for us in the city's Top Coffee Shop competition!<br />\r\n<i>Cảm ơn <span style=\"color:red\">bạn </span> đã đến Quán cà phê The Blue! Bạn có thích <span style=\"color:red\">cà phê </span> của chúng tôi không? Chiếc bánh tự làm của chúng tôi có làm bạn <span style=\"color:red\">vui vẻ </span> không? Có? <span style=\"color:red\">Làm ơn </span> hãy bình chọn cho chúng tôi trong cuộc thi Quán cà phê hàng đầu của thành phố nhé!</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "you",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e21ded5b-408b-467a-85d4-672c178fad02"
+          }
+        },
+        {
+          "dapAn": "coffee",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "1031f7fb-442e-455d-90c7-f393c58c9d77"
+          }
+        },
+        {
+          "dapAn": "happy",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e05048ea-6bca-4403-823d-e856b0785449"
+          }
+        },
+        {
+          "dapAn": "Please",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8c172837-94eb-4230-a37f-e21a1b9b59db"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "65b53765-875e-4e92-a546-143ac0a0b592"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The Blue Café is my favorite coffee <b>(1)</b> ________. The waiters are always <b>(2)</b> ________ and friendly. The coffee is great. It has <b>(3)</b> ________ delicious cakes. It's popular with students because students <b>(4)</b> ________ a 50% discount on Mondays!",
+      "yNghia": "The Blue Café is my favorite coffee <b>(1) <span style=\"color:red\">shop</span> </b>. The waiters are always <b>(2) <span style=\"color:red\">happy</span> </b> and friendly. The coffee is great. It has <b>(3) <span style=\"color:red\">some</span> </b> delicious cakes. It's popular with students because students <b>(4) <span style=\"color:red\">have</span> </b> a 50% discount on Mondays!<br />\r\n<i>Quán cà phê The Blue là <span style=\"color:red\">quán </span> cà phê yêu thích của tôi. Những nhân viên phục vụ thì luôn <span style=\"color:red\">vui vẻ </span> và thân thiện. Cà phê thì rất tuyệt. Nó còn có <span style=\"color:red\">một số </span> loại bánh ngon. Nó phổ biến với học sinh vì học sinh <span style=\"color:red\">được </span> giảm giá 50% vào các ngày thứ Hai.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "shop",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "3b1b4ce8-676b-4bcc-92fc-e02738e5e910"
+          }
+        },
+        {
+          "dapAn": "happy",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "7de283e2-69f0-4b4b-8d89-e633d97d3e9f"
+          }
+        },
+        {
+          "dapAn": "some",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "26e8ff89-41cd-4895-b88e-5a4b4e8c237d"
+          }
+        },
+        {
+          "dapAn": "have",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "16193980-5d8f-4c01-b89a-e9806cc54d6c"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c1c2869c-0af7-49e5-a561-3dc64049519d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Look at this old picture of me and <b>(1)</b> ________ brother. We aren't <b>(2)</b> ________ and slim. We're short and <b>(3) </b>________. We aren't smiling in the photo. I think we're <b>(4)</b> ________ or hungry.",
+      "yNghia": "Look at this old picture of me and <b>(1) <span style=\"color:red\">my</span> </b> brother. We aren't <b>(2) <span style=\"color:red\">tall</span> </b> and slim. We're short and <b>(3) <span style=\"color:red\">heavy</span> </b>. We aren't smiling in the photo. I think we're <b>(4) <span style=\"color:red\">bored</span> </b> or hungry.<br />\r\n<i>Hãy nhìn vào bức ảnh cũ của tôi và anh trai <span style=\"color:red\">tôi</span>  này. Chúng tôi không <span style=\"color:red\">cao </span> và gầy. Chúng tôi thấp và <span style=\"color:red\">nặng</span> . Chúng tôi không cười trong bức ảnh. Tôi nghĩ chúng tôi đang <span style=\"color:red\">chán </span> hoặc đói.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "my",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e2ecefa5-0730-464c-9fb0-e741420b81d7"
+          }
+        },
+        {
+          "dapAn": "tall",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c6309dc3-521b-4fc2-91fb-58175e0a2ae3"
+          }
+        },
+        {
+          "dapAn": "heavy",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "401868f3-bcf4-43d5-9cbe-6e79cb1a70a7"
+          }
+        },
+        {
+          "dapAn": "bored",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "7d294062-3a7b-40df-b434-b5c231481054"
+          }
+        }
+      ]
+    }
+  ]
+}

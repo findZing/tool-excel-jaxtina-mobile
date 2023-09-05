@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L4/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L4/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "7792e08a-002a-4f32-ac09-0b34ad3e1c1d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Mike",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f8ad274f-14a9-4ece-b1a8-d9105f33facd"
+          },
+          "dapAn": "Hi, I’m Mike. What’s your name?\n ",
+          "phienAm": "/haɪ aɪm maɪk/. /wɒts jɔːr neɪm/",
+          "yNghia": "\nXin chào, tôi là Mike. Tên của bạn là gì?",
+          "normal": {
+            "start": "00:00:00.386",
+            "end": "00:00:03.140"
+          },
+          "slow": {
+            "start": "00:00:00.416",
+            "end": "00:00:04.572"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "23200ebc-ebb6-4f1c-9cae-57db1ba6b29a"
+          },
+          "dapAn": "How do you spell your name?\n",
+          "phienAm": "/haʊ duː juː spel jɔːr neɪm/",
+          "yNghia": "\nBạn đánh vần tên bạn như thế nào?",
+          "normal": {
+            "start": "00:00:06.050",
+            "end": "00:00:07.648"
+          },
+          "slow": {
+            "start": "00:00:10.098",
+            "end": "00:00:12.592"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e7d6fd6e-791c-483d-9e50-b07f8efb17fa"
+          },
+          "dapAn": "Are you new?\n",
+          "phienAm": "/ɑːr juː njuː/",
+          "yNghia": "\nBạn là người mới tới phải không?",
+          "normal": {
+            "start": "00:00:11.406",
+            "end": "00:00:12.334"
+          },
+          "slow": {
+            "start": "00:00:19.437",
+            "end": "00:00:20.587"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "aa336368-ef35-4603-8235-5527ee8eb242"
+          },
+          "dapAn": "I’m from Hainan\n",
+          "phienAm": "/aɪm frɒm Hainan/",
+          "yNghia": "\nTôi đến từ tỉnh Hải Nam.",
+          "normal": {
+            "start": "00:00:15.908",
+            "end": "00:00:17.148"
+          },
+          "slow": {
+            "start": "00:00:27.286",
+            "end": "00:00:28.875"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9d780195-927c-4951-8ca3-fa6ba4d3cdc1"
+          },
+          "dapAn": "It’s in China.\n ",
+          "phienAm": "/ɪts ɪn ˈʧaɪnə/",
+          "yNghia": "\nNó ở Trung Quốc.",
+          "normal": {
+            "start": "00:00:19.418",
+            "end": "00:00:20.481"
+          },
+          "slow": {
+            "start": "00:00:32.738",
+            "end": "00:00:34.058"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b7476077-11c9-45d9-81a5-5ed6fa84f95e"
+          },
+          "dapAn": "Yes, I am.",
+          "phienAm": "/jes aɪ æm/",
+          "yNghia": "\nĐúng vậy.",
+          "normal": {
+            "start": "00:00:24.442",
+            "end": "00:00:25.553"
+          },
+          "slow": {
+            "start": "00:00:39.902",
+            "end": "00:00:41.589"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3246f2ec-6236-4274-bb16-8f94ab4e5248"
+          },
+          "dapAn": "Yes, they are my children, Jack and Maya.",
+          "phienAm": "/jes ðeɪ ɑːr maɪ ˈʧɪldrən ʤæk ænd ˈmaɪə/",
+          "yNghia": "\nĐúng, chúng là con của tôi, Jack và Maya.",
+          "normal": {
+            "start": "00:00:29.111",
+            "end": "00:00:32.702"
+          },
+          "slow": {
+            "start": "00:00:46.528",
+            "end": "00:00:51.295"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "65c18b9e-72f5-4480-b95e-70d63d796d7c"
+          },
+          "dapAn": "Jack is five, Maya is eight.",
+          "phienAm": "/ʤæk ɪz faɪv ˈmaɪə ɪz eɪt/",
+          "yNghia": "\nJack năm tuổi, Maya tám tuổi.",
+          "normal": {
+            "start": "00:00:34.902",
+            "end": "00:00:37.581"
+          },
+          "slow": {
+            "start": "00:00:55.012",
+            "end": "00:00:59.388"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "dab838bb-800e-4a3c-a980-9232a2d748e4"
+          },
+          "dapAn": "Thank you.",
+          "phienAm": "/θæŋk juː/",
+          "yNghia": "\nCảm ơn bạn.",
+          "normal": {
+            "start": "00:00:40.173",
+            "end": "00:00:40.849"
+          },
+          "slow": {
+            "start": "00:01:03.276",
+            "end": "00:01:04.033"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7c9fab88-8817-4b18-ab72-8641366bbb9b"
+          },
+          "dapAn": "My phone number is 778-453-226.",
+          "phienAm": "/maɪ fəʊn ˈnʌmbər ɪz ˈsevn ˈsevn eɪt fɔːr faɪv θriː tuː tuː sɪks/",
+          "yNghia": "\nSố điện thoại của tôi là 778-453-226.",
+          "normal": {
+            "start": "00:00:43.667",
+            "end": "00:00:50.284"
+          },
+          "slow": {
+            "start": "00:01:08.923",
+            "end": "00:01:17.041"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6a0a1c37-44ad-4b9f-bb2d-c55f5af1b38e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Jenny",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fbf142e2-851e-4c7a-984a-8c6b38b85a9e"
+          },
+          "dapAn": "My name is Jenny. \n",
+          "phienAm": "/maɪ neɪm ɪz ˈʤeni/",
+          "yNghia": "\nTên của tôi là Jenny.",
+          "normal": {
+            "start": "00:00:03.671",
+            "end": "00:00:05.474"
+          },
+          "slow": {
+            "start": "00:00:05.477",
+            "end": "00:00:09.046"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "12a8304a-3ad2-4f89-9a64-b3341c4fed59"
+          },
+          "dapAn": "J-E-N-N-Y\n ",
+          "phienAm": "/ʤeɪ iː en en waɪ/",
+          "yNghia": "\nJ-E-N-N-Y",
+          "normal": {
+            "start": "00:00:08.244",
+            "end": "00:00:10.868"
+          },
+          "slow": {
+            "start": "00:00:13.423",
+            "end": "00:00:18.435"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6a9d7892-8d75-47e6-985b-b61f2311b490"
+          },
+          "dapAn": "Yes, I am. Where are you from?\n ",
+          "phienAm": "/jes aɪ æm/. /weər ɑːr juː frɒm/",
+          "yNghia": "\nVâng, tôi là người mới. Bạn đến từ đâu?",
+          "normal": {
+            "start": "00:00:12.817",
+            "end": "00:00:15.361"
+          },
+          "slow": {
+            "start": "00:00:21.736",
+            "end": "00:00:26.430"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "644ca90a-6195-4ff7-8b0f-1a8efc8a9aca"
+          },
+          "dapAn": "Where is Hainan?\n ",
+          "phienAm": "/weər ɪz Hainan/",
+          "yNghia": "\nTỉnh Hải Nam ở đâu?",
+          "normal": {
+            "start": "00:00:17.550",
+            "end": "00:00:18.742"
+          },
+          "slow": {
+            "start": "00:00:29.657",
+            "end": "00:00:31.858"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "255aa852-9bd0-4fb3-afee-2414af393208"
+          },
+          "dapAn": "Oh, I see. Are you Chinese?",
+          "phienAm": "/əʊ aɪ siː/. /ɑːr juː ˌʧaɪˈniːz/",
+          "yNghia": "\nỒ, tôi hiểu rồi. Bạn là người Trung Quốc à?",
+          "normal": {
+            "start": "00:00:21.077",
+            "end": "00:00:23.846"
+          },
+          "slow": {
+            "start": "00:00:35.061",
+            "end": "00:00:39.193"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "cefcc670-db62-4fea-8df0-751e6190df56"
+          },
+          "dapAn": "Are they your daughter and son?",
+          "phienAm": "/ɑːr ðeɪ jɔːr ˈdɔːtər ænd sʌn/",
+          "yNghia": "\nHọ là con gái và con trai của bạn à?",
+          "normal": {
+            "start": "00:00:26.030",
+            "end": "00:00:28.338"
+          },
+          "slow": {
+            "start": "00:00:42.224",
+            "end": "00:00:45.745"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9fc4b432-8c40-4c3e-a586-9a3f35083e32"
+          },
+          "dapAn": "How old are they?",
+          "phienAm": "/haʊ əʊld ɑːr ðeɪ/",
+          "yNghia": "\nCác bé bao nhiêu tuổi vậy?",
+          "normal": {
+            "start": "00:00:33.245",
+            "end": "00:00:34.441"
+          },
+          "slow": {
+            "start": "00:00:52.249",
+            "end": "00:00:54.400"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4bda19e6-a0eb-4816-b004-96d9b8f07220"
+          },
+          "dapAn": "They are so cute.",
+          "phienAm": "/ðeɪ ɑːr səʊ kjuːt/",
+          "yNghia": "\nCác bé thật dễ thương.",
+          "normal": {
+            "start": "00:00:38.192",
+            "end": "00:00:39.577"
+          },
+          "slow": {
+            "start": "00:01:00.146",
+            "end": "00:01:02.640"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f254dd1d-969f-4dd2-a665-f7d62ce89850"
+          },
+          "dapAn": "May I get your number, please?",
+          "phienAm": "/meɪ aɪ get jɔːr ˈnʌmbər pliːz/",
+          "yNghia": "\nCho tôi xin số của bạn được không?",
+          "normal": {
+            "start": "00:00:41.239",
+            "end": "00:00:43.087"
+          },
+          "slow": {
+            "start": "00:01:05.011",
+            "end": "00:01:08.068"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a2d7e49f-8351-48c3-9e0f-4cdea342915d"
+          },
+          "dapAn": "Thank you.",
+          "phienAm": "/θæŋk juː/",
+          "yNghia": "\nCảm ơn bạn.",
+          "normal": {
+            "start": "00:00:50.880",
+            "end": "00:00:51.653"
+          },
+          "slow": {
+            "start": "00:01:17.725",
+            "end": "00:01:18.605"
+          }
+        }
+      ]
+    }
+  ]
+}

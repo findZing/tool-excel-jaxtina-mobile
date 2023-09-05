@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "e219353a-0c24-4170-8fde-657de3691d29"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "53f406ef-8605-4080-bfc6-399073d8b795"
+          },
+          "cauHoi": "Where does Sean work at?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f5b3d2e6-915d-4b15-a137-32d43aa1d4d1"
+              },
+              "dapAn": "A. a branding agency",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "261505b0-f424-442c-b50a-d15e5aa56be6"
+              },
+              "dapAn": "B. a travel agency",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "878b873a-5573-43cc-965a-88979861a0ef"
+              },
+              "dapAn": "C. a marketing agency",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "aa7c87aa-bbef-4ac8-b91d-cc13a3e30a1e"
+              },
+              "dapAn": "D. an employment agency",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "0d8cb916-e5ef-40c8-a5c6-a59aea678431"
+          },
+          "cauHoi": "What aspect is he going to talk about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "1158c50e-0b2d-455e-bc40-7fb6b9ba5b49"
+              },
+              "dapAn": "A. networking",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "869fb4fe-bac5-44ef-b339-02011c9ade10"
+              },
+              "dapAn": "B. salary",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "da7afbf7-2e65-4787-af90-fbc3859a201e"
+              },
+              "dapAn": "C. relationships",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1d67eb2e-1a99-4e75-9230-a3d70a3b94fa"
+              },
+              "dapAn": "D. co-workers",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "33725682-deef-435e-93d1-9eb1f3db4215"
+          },
+          "cauHoi": "Whom do you talk to in your networking?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "02b298f9-68e8-4c14-8c8b-dc98875bba95"
+              },
+              "dapAn": "A. People who share the same profession",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "9943db46-14c8-4c9c-9ca8-4850c291092c"
+              },
+              "dapAn": "B. People who share the common interests",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5ebe45e6-95ec-4cb9-9f82-90b1b0ac456f"
+              },
+              "dapAn": "C. Your managers",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "75ddb944-0266-49dc-b576-1478e68cc4a6"
+              },
+              "dapAn": "D. Your friends",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "246ffb2a-abe9-47ce-a550-3bfe76d9b06f"
+          },
+          "cauHoi": "What kind of community can you get if you communicate with people in your field of profession?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "df986345-e563-425e-923c-97e14764fa98"
+              },
+              "dapAn": "A. community of purpose",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "74e0190b-8c45-44c1-9c12-9e722bd47df5"
+              },
+              "dapAn": "B. community of practice",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a296c0ec-9e8d-47fc-a90f-1d05e367213f"
+              },
+              "dapAn": "C. community of interest",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "989f6ac5-177c-4b61-9445-5fe214ba2fce"
+              },
+              "dapAn": "D. community of place",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td>Welcome to the show. Today I'm talking to Sean Johnson, the head of an employment agency and he's going to talk to us about networking. Sean, what is networking?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Sean:</b></td> \n                        <td>Networking is speaking to people in your profession. This gives you a community of practice.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td>Tell us where we can have a network and how.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Sean:</b></td> \n                        <td>If you're working, you can start with your office. Try to speak to everyone. </td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Where does Sean work at?</b> <i>(Sean làm việc ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>Today I'm talking to Sean Johnson, the head of an employment agency.</b> <i>(</i><i>Hôm nay tôi đang nói chuyện với Sean Johnson, người đứng đầu một công ty tuyển dụng</i><i>.</span></i><i>).</i> Nên đáp án là <b><span style=\"color:red\">D. an employment agency</span> </b><i>(một công ty tuyển dụng).</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>What aspect is he going to talk about?</b> <i>(Anh</i> <i>ấy đang định nói về khía cạnh nào?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b>he's going to talk to us about networking</b> <i>(</i><i>anh ấy sẽ nói chuyện với chúng ta về việc xây dựng mạng lưới)</span> </i>Nên đáp án là <b><span style=\"color:red\">A. networking</span> </b><i>(xây dựng mạng lưới).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>Whom do you talk to in your network?</b> <i>(Bạn nói chuyện với ai trong mạng lưới của mình?)</i> câu trong bài đọc liên quan là <b>Networking is speaking to people in your profession. <i></i></b><i>(</i>Xây dựng mạng lưới là nói chuyện với những người trong nghề của bạn<i>.</i></span><i>).</i> Nên đáp án là <b><span style=\"color:red\">A. People who share the same profession</span> </b><i>(Những người cùng nghề).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>What kind of community can you get if you communicate with people in your field of profession?</b> <i>(Kiểu cộng đồng nào mà bạn có thể nhận được khi nói chuyện với những người trong cùng ngành nghề?),</i> <b></b>câu trong bài đọc liên quan là <b>This gives you a community of practice.</b> <i>(</i><i>Điều này mang lại cho bạn một cộng đồng thực hành.)</span> </i>Nên đáp án là <b><span style=\"color:red\">B. community of practice</span> </b><i>(cộng đồng thực hành).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "dbe6d79e-87dc-4e64-a633-4c7871f3615e"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "50b89fdb-0c62-45b8-8459-64d33852fe31"
+          },
+          "cauHoi": "What do you need to do when networking if you haven’t had a job yet?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "5a147a45-ae0a-4fac-b238-06245ba209f9"
+              },
+              "dapAn": "A. contacting your friends.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e4d2111f-134e-44da-9d2e-18f5ff1d89ae"
+              },
+              "dapAn": "B. contacting your family.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "38ceefab-dbf6-459b-8c58-1a629a1e1a74"
+              },
+              "dapAn": "C. looking for contacts in your chosen professional field.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "9ede1ca2-699a-43c4-bc1f-1227d83aaada"
+              },
+              "dapAn": "D. finding contacts in your neighborhood.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "325c0682-232c-424e-8318-fe1be32978f9"
+          },
+          "cauHoi": "Will there be anyone who you have already known that works in the area?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "1cc22fc5-6bfd-4ba5-a2be-403dba7665ed"
+              },
+              "dapAn": "A. No, there won’t be.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "993e6532-50e7-4190-99b3-6fe28ab7bf87"
+              },
+              "dapAn": "B. Yes, there will definitely be.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6088e5a6-3493-40b1-afa3-759b66184d17"
+              },
+              "dapAn": "C. Maybe",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "d296f1f7-3bef-4b4d-90bd-2da2b01b4530"
+              },
+              "dapAn": "D. Yes, there will be.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "de9f3681-21a4-4c9d-bdab-1fe31722c5df"
+          },
+          "cauHoi": "Who can you think about when finding contacts?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "075e2be1-93b6-4fc9-942a-8aa6faa171e9"
+              },
+              "dapAn": "A. childhood friends",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5e47de3c-f097-4a2a-8280-b128e5526788"
+              },
+              "dapAn": "B. college friends",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "6b38f279-759f-49ab-bb78-4d327c47c9ab"
+              },
+              "dapAn": "C. classmates from highschool",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7a824d9b-932c-4462-9075-e3fc317e11f1"
+              },
+              "dapAn": "D. managers at big firms",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "4a41b84b-9a84-4ed6-bf30-da19f43e4311"
+          },
+          "cauHoi": "What might your friends from university help you with?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ba2ffceb-1c6e-4071-bf68-01d499827357"
+              },
+              "dapAn": "A. job-hunting",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "51e92d27-bdcb-4b92-8715-82e14d9223c7"
+              },
+              "dapAn": "B. entertaining",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d0eb9282-acf1-4a42-bd03-f6ec05631f5b"
+              },
+              "dapAn": "C. finding friends",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "902ebc4d-af6c-4ae6-9d83-561e52723a98"
+              },
+              "dapAn": "D. finding contacts",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td>How can you have a network if you don't have a job yet?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Sean:</b></td> \n                        <td>You can start to find contacts in your chosen profession. Maybe you already know someone who works in the area.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td>Who are they? </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Sean:</b></td> \n                        <td>Think about people you knew in college. Maybe they can help you when you are job-hunting. </td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What do you need to do when networking if you haven't had a job yet?</b> <i>(Bạn cần phải làm gì để xây dựng mạng lưới khi chưa có một công việc?),</i> <b></b>câu trong bài đọc liên quan là <b>You can start to find contacts in your chosen profession</b> <i>(Bạn có thể bắt đầu tìm những mối quan hệ trong nghề mà bạn đã chọn.).</i> Nên đáp án là <b><span style=\"color:red\">C. looking for contacts in your chosen professional field</span> </b><i>(tìm</i> <i>những mối quan hệ trong ngành bạn đã chọn</i><i>).</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>Will there be anyone who you have already known that works in the area?</b> <i>(Liệu có ai mà bạn đã biết mà làm việc trong ngành không?),</i> <b></b>câu trong bài đọc liên quan là <b>Maybe you already know someone who works in the area. <i></i></b><i>(Có thể bạn đã biết ai đó mà làm việc trong ngành.</i>) Nên đáp án là <b><span style=\"color:red\">C. Maybe</span> </b><i>(Có thể).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>Who can you think about when finding contacts? </b> <i>(Bạn có thể nghĩ tới ai khi tìm kiếm các mối liên lạc?),</i> <b></b>câu trong bài đọc liên quan là <b>Think about people you knew in college.</b> <i>(Hãy nghĩ về những người bạn biết ở trường đại học.).</i> Nên đáp án là <b><span style=\"color:red\">B. college friends</span> </b><i>(bạn đại học).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>What might your friends from university help you with?</b> <i>(Bạn đại học của bạn có thể giúp gì cho bạn?),</i> <b></b>câu trong bài đọc liên quan là <b>Maybe they can help you when you are job-hunting.</b> <i>(Có lẽ họ có thể giúp bạn khi bạn đang tìm kiếm việc làm</i><i>.</i><i>)</span></i><i>.</i> Nên đáp án là <b><span style=\"color:red\">A. job-hunting</span> </b><i>(tìm kiếm việc làm).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8700ce24-8758-4dcd-8bb1-02a4d53df213"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "49a3c92a-cc3d-42cd-af6a-5fe0989eca19"
+          },
+          "cauHoi": "Is it true that people network online all the time?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "124e90cf-5287-48f8-a90c-f1dddf595471"
+              },
+              "dapAn": "A. No, it's not.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "ecb2933a-a92d-4c74-9fd9-1e3956486cf0"
+              },
+              "dapAn": "B. Yes, it is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cda81cc7-d871-483c-a5f5-a0ef375da100"
+              },
+              "dapAn": "C. No, it is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5d40490f-bd06-4e95-8995-b70b2af715f2"
+              },
+              "dapAn": "D. Yes, it isn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "fb0af3a2-8a41-465f-ac18-d589ad47e3e6"
+          },
+          "cauHoi": "How do people reach companies?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "351acf62-ed43-4789-968d-5726ac32168b"
+              },
+              "dapAn": "A. contacting directly",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "19596db8-a322-4b2b-ac7a-b568c91bb15e"
+              },
+              "dapAn": "B. contacting online",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "162a9dbc-7c40-4fe5-9ee4-6a2a0c2b3e7e"
+              },
+              "dapAn": "C. contacting through friends",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "afe80f8b-90a5-47e4-bf93-4679814837e2"
+              },
+              "dapAn": "D. contacting indirectly",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "72ef3014-15b9-44f6-8d80-2df77dfd70e4"
+          },
+          "cauHoi": "Do we talk to the same partner the whole time in speed networking?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6ee74d52-0c43-4760-a233-1e8b358fa9d7"
+              },
+              "dapAn": "A. Yes, we do.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "473da005-d6da-49c7-9612-d69ded3f1ecd"
+              },
+              "dapAn": "B. No, we don’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b891bd09-86e9-48eb-883b-f4c96c3fbce9"
+              },
+              "dapAn": "C. Yes, we don’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "00dce7de-6bcf-4c34-9659-34c8344a6363"
+              },
+              "dapAn": "D. No, we do.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ee8c7239-cb2f-43b4-91a6-5b0371c56295"
+          },
+          "cauHoi": "Why do we need to change partners in speed working?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "386f440f-ac4a-4abe-8f0a-919b4475cfe3"
+              },
+              "dapAn": "A. to have more fun.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6180ad87-06c7-438c-93ba-fab2ce9802d6"
+              },
+              "dapAn": "B. not to get bored.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e296691f-fad3-47a5-85e3-36225f348c0a"
+              },
+              "dapAn": "C. to create many useful connections.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "fce7221b-e023-473e-a98a-df4fd323eee7"
+              },
+              "dapAn": "D. to make it more interesting.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td>Does all networking happen online?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Sean:</b></td> \n                        <td>Not at all. Some people contact companies directly, ask about opportunities to work as an intern.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td>Good idea. How about speed networking?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Sean:</b></td> \n                        <td>Some companies organize events. You have a few minutes to talk to one person, then everyone changes partners. That way, you can make a lot of useful connections.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Is it true that people network online all the time?</b> <i>(Có phải mọi người luôn luôn xây dựng mạng lưới trực tuyến?),</i> <b></b>câu trong bài đọc liên quan là <b>Does all networking happen online? Not at all.</b> <i>(</i><i>Có phải tất cả các mạng lưới đều diễn ra trực tuyến không? Không hẳn.</span></i><i>).</i> Nên đáp án là <b><span style=\"color:red\">A. No, it isn't.</span></b><b><span style=\"color:red\">.</span></b> <b></b><i>(Không</i><i>.</i><i>).</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>How do people reach companies?</b> <i>(Mọi người tìm đến các công ty như thế nào?),</i> <b></b>câu trong bài đọc liên quan là <b>Some people contact companies directly, ask about opportunities to work as an intern. <i></i></b><i>(</i><i>Một số người còn liên hệ trực tiếp với các công ty, hỏi về cơ hội làm việc với tư cách là thực tập sinh.</span></i>) Nên đáp án là <b><span style=\"color:red\">A. contacting directly</span> </b><i>(liên hệ trực tiếp).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>Do we talk to the same partner the whole time in speed networking?</b> <i>(Chúng ta có nói chuyện với một bạn cặp duy nhất từ đầu đến cuối trong mạng lưới tốc độ không</i><i>?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b>You have a few minutes to talk to one person, then everyone changes partners</b><b>.</b> <b></b><i>(</i><i>Bạn có vài phút để nói chuyện với một người, sau đó mọi người thay đổi bạn cặp</span></i><i>).</i> Nên đáp án là <b><span style=\"color:red\">B. No, we don't</span></b><b><span style=\"color:red\">.</span></b> <b></b><i>(Không</i><i>.</i><i>).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>Why do we need to change partners in speed working?</b> <i>(Tại sao chúng ta cần thay đổi bạn cặp trong mạng lưới tốc độ?),</i> <b></b>câu trong bài đọc liên quan là <b>That way, you can make a lot of useful connections.</b> <i>(</i><i>Bằng cách đó, bạn có thể xây ra nhiều kết nối hữu ích.)</span></i><i>.</i> Nên đáp án là <b><span style=\"color:red\">C. to create many useful connections</span> </b><i>(để tạo nhiều kết nối hữu ích).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "fe13a696-57d4-4fb4-8a6d-69bb3b3b4793"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "eae28506-be08-426f-85ea-3e7780f4e6ee"
+          },
+          "cauHoi": "What position does Thomas work as at Human Resource Department?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3ffdf4e6-d243-405a-b094-b4e352f7bb96"
+              },
+              "dapAn": "A. employee",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "112a1db3-d50e-4d0a-8cb8-f4978e5f7a01"
+              },
+              "dapAn": "B. director",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1b5afc9e-5df8-446c-b729-08adb0d2ff54"
+              },
+              "dapAn": "C. manager",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "4a059815-1d0c-47a2-a520-f6447db7dc50"
+              },
+              "dapAn": "D. founder",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "a9d4573b-9541-45fc-a460-7a42d98e7b88"
+          },
+          "cauHoi": "How long has he been working for the company?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "89a38f2b-f820-47f8-9eda-7b0eec29c9e8"
+              },
+              "dapAn": "A. 9 years",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "dd8699fa-44b2-42c2-b568-7d9a3c9406ff"
+              },
+              "dapAn": "B. 5 years",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c519e0e5-c071-4e4d-9119-13477ddf7a89"
+              },
+              "dapAn": "C. 1 year",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e53f4c4f-5448-498a-b008-ef5c401d2ae2"
+              },
+              "dapAn": "D. 10 years",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "d609e26a-aef0-4b22-8027-e82743d5407e"
+          },
+          "cauHoi": "How many candidates apply for his company each year?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6c22cdc6-9361-49ba-a5b7-f3b744bd4f46"
+              },
+              "dapAn": "A. a few",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e240574b-cfd9-4602-b217-8040d7a64e59"
+              },
+              "dapAn": "B. hundreds or even thousands",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "ae7c72e1-d185-4af7-bc93-b32fe0c3e1f4"
+              },
+              "dapAn": "C. about one hundred",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fbf891ae-1a57-40bd-b667-ab2c5e4eadd4"
+              },
+              "dapAn": "D. nobody",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "c5af933e-cfb4-4b66-903f-380570022467"
+          },
+          "cauHoi": "Who used to be chosen to be working in the company?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3b3124d2-9377-43b5-b701-f733c3cb918c"
+              },
+              "dapAn": "A. only Johnson",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8e28f239-6efb-4459-8260-1e7dcdb144d5"
+              },
+              "dapAn": "B. some of people there",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "88459642-6816-401a-afc5-b9893bcb7b3f"
+              },
+              "dapAn": "C. a few people there",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "281781bb-91dc-4c65-ad73-c716de78bdf7"
+              },
+              "dapAn": "D. all of people there",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "I’m Thomas Johnson. I am a manager of Human Resource Department. I have worked for the company for 10 years. Every year, hundreds and even thousands of candidates apply for our company to job-hunt. All of you here used to be those participants and were luckily chosen. ",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What position does Thomas work as at Human Resource Department?</b> <i>(Thomas giữ chức vụ gì ở Phòng nhân sự?),</i> <b></b>câu trong bài đọc liên quan là <b>I am a manager of Human Resource Department. </b> <i>(Tôi là Thomas Johnson. Tôi là trưởng phòng nhân sự</i><i>.</i><i>).</i> Nên đáp án là <b><span style=\"color:red\">C. manager</span> </b><i>(trưởng phòng).</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>How long has he been working for the company?</b> <i>(Anh ấy đã</i> <i>làm cho công ty đượ</i><i>c</i> <i>bao lâu rồi</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>I have worked for the company for 10 years.</b> <i>(Tôi đã làm việc ở công ty này khoảng 10 năm.</i>) Nên đáp án là <b><span style=\"color:red\">D. 10 years</span> </b><i>(10 năm).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>How many candidates apply for his company each year?</b> <i>(</i><i>Có bao nhiêu thí sinh ứng tuyển vào công ty mỗi năm?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b>Every year, hundreds and even thousands of candidates apply for our company to job-hunt</b> <i>(Hàng năm, có hàng trăm thậm chí hàng ngàn ứng viên nộp đơn vào công ty để tìm việc làm</i><i>.</span></i><i>).</i> Nên đáp án là <b><span style=\"color:red\">B. hundreds or even thousands</span> </b><i>(hàng trăm hoặc thậm chí hàng ngàn).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>Who used to be chosen to be working in the company?</b> <i>(Ai</i> <i>từng được chọn để được làm việc trong công ty</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>All of you here used to be those participants and were luckily chosen.</b> <i>(Tất cả các bạn ở đây cũng đã từng là những người tham gia đó và đã may mắn được chọn</i><i>.)</span></i><i>.</i> Nên đáp án là <b><span style=\"color:red\">D. all of people there <i></i></span></b><i>(tất cả mọi người ở đó).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4a6d30f4-d4b3-4296-9c70-feed5993ef94"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "a0d15484-ff32-4a00-a483-7f1bf34fdd31"
+          },
+          "cauHoi": "What is the example given by the author about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "eda0bea6-aeb9-4a67-a1c3-5041968673c7"
+              },
+              "dapAn": "A. how to talk to people",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c7bed68b-c49b-45a5-b023-1959e806a250"
+              },
+              "dapAn": "B. how to get to know your co-worker",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "d6eca05e-2f53-4de3-a530-0563219869d3"
+              },
+              "dapAn": "C. how to talk to your friend",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "460f5c01-a9c0-429e-9f37-feaaef926818"
+              },
+              "dapAn": "D. how to find contacts",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "3b7e3493-83ce-4265-a9dc-3d444ce3543a"
+          },
+          "cauHoi": "What should you do when talking with your co-workers?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a2205a08-972e-4e91-a647-7ed6b585c998"
+              },
+              "dapAn": "A. Be nice",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a3899606-1347-4f0b-9edf-de154cc59ffa"
+              },
+              "dapAn": "B. Make fun of them",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "eee6f9f2-da25-4929-9f4e-d51ded113363"
+              },
+              "dapAn": "C. Make them feel special",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a2301f8c-cf83-42b8-8bb8-804efbe96830"
+              },
+              "dapAn": "D. Make them feel comfortable",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "a543c798-49b7-4dda-8139-747de83b9609"
+          },
+          "cauHoi": "How do people feel when you make them feel comfortable?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2aa2949b-c235-4599-8c94-cd83a1fe71e4"
+              },
+              "dapAn": "A. Feeling listened to",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8a694900-c922-48cf-877d-c563a54e030c"
+              },
+              "dapAn": "B. Feeling respected",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "25c6ac08-adb3-4daf-b8f7-70ac6bea774e"
+              },
+              "dapAn": "C. Feeling listened to & respected",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "dbeaab4b-c1ed-4ef2-80d8-ddebe562467e"
+              },
+              "dapAn": "D. Feeling nice",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "737dd6cc-8779-43ac-8d0a-fc49f9d2772a"
+          },
+          "cauHoi": "How should you greet your co-workers?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "fd0b23bb-3e6f-4337-bd36-460da780d65a"
+              },
+              "dapAn": "A. cheerfully",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0f0e8cd2-2c5d-4a89-8e81-07b5b5b0e8c4"
+              },
+              "dapAn": "B. nicely",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "73c917c5-6482-4e2d-90fa-ef8f866f8c1e"
+              },
+              "dapAn": "C. with a smile",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "d5c0b383-c2a7-43c0-99f8-68eb1c016ab2"
+              },
+              "dapAn": "D. warmly",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Let me give you a simple example of getting to know new co-workers when you come to the company in the first time. First of all, to talk with them, you should make them feel comfortable. This will make them think that you are listening to them carefully and respectfully. Next, you can give them greetings with a smile, such as “Hi! Nice to see you!”.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What is the example given by the author about?</b> <i>(Ví dụ mà tác giả đưa ra là về cái gì?),</i> <b></b>câu trong bài đọc liên quan là <b>Let me give you a simple example of getting to know new co-workers when you come to the company in the first time</b><b>.</b> <b></b><i>(Để tôi cho các bạn một ví dụ đơn giản về cách làm quen những đồng nghiệp mới khi lần đầu tiên đến công ty</i><i>.</i><i>).</i> Nên đáp án là <b><span style=\"color:red\">B. how to get to know your co-worker</span> </b><i>(làm sao để làm quen những đồng nghiệp của bạn).</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>What should you do when talking with your co-workers?</b> <i>(Bạn nên làm gì khi nói chuyện với đồng nghiệp của mình?),</i> <b></b>câu trong bài đọc liên quan là <b>First of all, to talk with them, you should make them feel comfortable. <i></i></b><i>(Trước tiên, để có thể nói chuyện với họ bạn nên tạo cho họ một cảm giác thoải mái.</i>) Nên đáp án là <b><span style=\"color:red\">D. Make them feel comfortable</span> </b><i>(</i><i>L</i><i>àm họ cảm thấy thoải mái).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>How do people feel when you make them feel comfortable? </b> <i>(Mọi người cảm thấy thế nào khi bạn làm người ta thoải mái</i><i>?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b>This will make them think that you are listening to them carefully and respectfully.</b> <i>(Điều này sẽ làm họ nghĩ rằng bạn đang lắng nghe họ chăm chú và đầy tôn trọng</i><i>.</span></i><i>).</i> Nên đáp án là <b><span style=\"color:red\">C. Feeling listened to & respected</span> </b><i>(</i><i>C</i><i>ảm thấy được lắng nghe và tôn trọng).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>How should you greet your co-workers?</b> <i>(Bạn nên chào đồng nghiệp của mình như thế nào?),</i> <b></b>câu trong bài đọc liên quan là <b>Next, you can give them greetings with a smile, such as \"Hi! Nice to see you!\"</b> <i>(Tiếp theo, bạn phải chào họ bằng nụ cười như là \"Xin chào! Rất vui khi gặp bạn\".</i><i>)</span>.</i> Nên đáp án là <b><span style=\"color:red\">C. with a smile</span> </b><i>(với một nụ cười).</i>",
+      "danhSachDapAn": []
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "7a17dea5-8220-4935-8244-aea6d3229cd5"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Debris",
+      "yNghia": "Mảnh vụn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9b08c4d1-cb30-4307-9a59-0c9d7e689bba"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Crater",
+      "yNghia": "Hố lớn trên mặt đất",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6d5677ba-7608-454e-ba8a-6ef2e34eeb1e"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Extinction",
+      "yNghia": "Sự tuyệt chủng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "433edb3b-02f1-4c6e-a736-77657cdbf6ba"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Herbivore",
+      "yNghia": "Động vật ăn cỏ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "cbecab18-f74a-4bc9-a269-b5b3ffaed04a"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Carnivore",
+      "yNghia": "Động vật ăn thịt",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f5939836-ac67-4003-ac91-9bf5166aa9c8"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Antelope",
+      "yNghia": "Loài linh dương",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e90caa37-22ac-4050-8946-68b3f88ff4ad"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Meteorite",
+      "yNghia": "Thiên thạch",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "bd93a28b-a88a-4f44-a07a-468dce561ed5"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Mammal",
+      "yNghia": "Động vật có vú",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c75c1627-722d-4c1d-8d8c-e42c32ed619a"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Asteroid",
+      "yNghia": "Tiểu hành tinh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e27fce56-5135-4e9e-a9ff-8cb71dc7aa6b"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Tidal wave",
+      "yNghia": "Sóng thủy triều",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d5b799d3-d6d2-4ebc-adeb-e9a241361d53"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Get in touch",
+      "yNghia": "Liên lạc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0c145a81-dc46-499e-be8e-c92ff15e0a7c"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Stay in touch",
+      "yNghia": "Giữ liên lạc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ae5c4ba1-de53-4940-b8e9-89b4ea55001a"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Lose touch",
+      "yNghia": "Mất liên lạc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b6184e00-f437-4dad-bb6b-bdcf855f6886"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Break up with someone",
+      "yNghia": "Chia tay với ai đó",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8641fddd-7c74-49a6-b7a7-67e6e3817315"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Come into contact with",
+      "yNghia": "Tiếp xúc với",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b95d7404-4e4c-41c1-9ebd-726e94bd25a6"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Crash into",
+      "yNghia": "Đâm vào, đập vào",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "960e5aab-ad83-4426-9e60-3c6c4c1d9dd2"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Explosion",
+      "yNghia": "Vụ nổ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2a04dd38-a6d9-4ef0-b491-1a31a98e0352"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Professional regret",
+      "yNghia": "Sự hối tiếc về nghề nghiệp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e53f38e1-8c65-4682-8249-389e2e938c8d"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Survive",
+      "yNghia": "Sống sót",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6131da6f-a03b-4cb0-b109-0f71eb28730a"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Substance",
+      "yNghia": "Chất",
+      "danhSachDapAn": []
+    }
+  ]
+}

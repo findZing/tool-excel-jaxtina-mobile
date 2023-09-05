@@ -1,0 +1,2131 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "VOCABULARY",
+  "videoUrl": "4SKILLS_PRE_S_L1/vocabulary.mp4",
+  "newWords": [
+    {
+      "word": "Excuse me, I have a question.",
+      "loaiTu": "phr",
+      "phatAm": "/ɪkˈskjuːz miːˈaɪ hæv ə ˈkwestʃən/",
+      "meaning": "Thưa Thầy/Cô em có câu hỏi.",
+      "viDu": "A: Excuse me, I have a question.\nB: Okay, ask your question.\n(A: Thưa Cô em có câu hỏi.\nB: Được rồi, em hỏi đi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/1.excuse.me.i.have.a.question.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/1.excuse.me.i.have.a.question.png"
+    },
+    {
+      "word": "Can you write it on the board?",
+      "loaiTu": "phr",
+      "phatAm": "/kæn ju ˈraɪt ˈɪt ˈɒn ðə bɔːd/",
+      "meaning": "Thầy/Cô viết lên bảng được không ạ?",
+      "viDu": "A: Can you write it on the board? \nB: Of course.\n(A: Cô viết lên bảng được không ạ?\nB: Tất nhiên rồi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/2.can.you.write.it.on.the.board.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/2.can.you.write.it.on.the.board.png"
+    },
+    {
+      "word": "We are finished.",
+      "loaiTu": "phr",
+      "phatAm": "/wiː ɑːr ˈfɪnɪʃt/",
+      "meaning": "Chúng em xong bài rồi.",
+      "viDu": "A: We are finished.\nB: Good job. \r\n(A: Chúng em xong bài rồi.\nB: Các em giỏi lắm.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/3.we.are.finished.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/3.we.are.finished.png"
+    },
+    {
+      "word": "I don’t understand.",
+      "loaiTu": "phr",
+      "phatAm": "/aɪ dəʊnt ˌʌndəˈstænd/",
+      "meaning": "Em không hiểu.",
+      "viDu": "A: I don't understand.\nB: Let me explain again.\n(A: Em không hiểu.\nB: Để Thầy giải thích lại một lần nữa nhé.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/4.i.dont.understand.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/4.i.dont.understand.png"
+    },
+    {
+      "word": "I don’t know.",
+      "loaiTu": "phr",
+      "phatAm": "/ˈaɪ dəʊnt ˈnəʊ/",
+      "meaning": "Em không biết.",
+      "viDu": "A: I don't know. \nB: It's okay.\n(A: Em không biết.\nB: Không sao đâu.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/5.i.dont.know.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/5.i.dont.know.png"
+    },
+    {
+      "word": "I don’t know what to do.",
+      "loaiTu": "phr",
+      "phatAm": "/ˈaɪ dəʊnt ˈnəʊ wɒt tu: du:/",
+      "meaning": "Em không biết phải làm gì.",
+      "viDu": "A: I don't know what to do.\nB: I will show you. \n(A: Em không biết phải làm gì.\nB: Thầy sẽ hướng dẫn cho em.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/6.i.dont.know.what.to.do.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/6.i.dont.know.what.to.do.png"
+    },
+    {
+      "word": "How do you spell that?",
+      "loaiTu": "phr",
+      "phatAm": "/ˌhaʊ du: ju spel ðæt/",
+      "meaning": "Từ đó đánh vần thế nào ạ?",
+      "viDu": "A: How do you spell that? \nB: Let me show you.\n(A: Từ đó đánh vần thế nào ạ?\nB: Thầy làm mẫu cho nhé.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/7.how.do.you.spell.that.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/7.how.do.you.spell.that.png"
+    },
+    {
+      "word": "How do you pronounce this?",
+      "loaiTu": "phr",
+      "phatAm": "/ˌhaʊ du: ju: prəˈnaʊns ðɪs/",
+      "meaning": "Từ này phát âm như thế nào ạ?",
+      "viDu": "A: How do you pronounce this? \nB: Listen and repeat after me.\n(A: Từ này phát âm như thế nào ạ?\nB: Nghe thật kĩ và lặp lại theo cô nhé.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/8.how.do.you.pronounce.this.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/8.how.do.you.pronounce.this.png"
+    },
+    {
+      "word": "What does it mean?",
+      "loaiTu": "phr",
+      "phatAm": "/wɒt dʌz ˈɪt miːn/",
+      "meaning": "Câu/Từ này nghĩa là gì ạ?",
+      "viDu": "A: What does it mean? \nB: It means a job.\n(A: Từ này nghĩa là gì ạ?\nB: Từ này có nghĩa là một công việc.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/9.what.does.it.mean.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/9.what.does.it.mean.png"
+    },
+    {
+      "word": "Please say it again.",
+      "loaiTu": "phr",
+      "phatAm": "/pliːz ˈseɪ ˈɪt əˈɡen/",
+      "meaning": "Thầy/Cô làm ơn nhắc lại ạ.\r\n",
+      "viDu": "A: Please say it again. \nB: Okay, listen carefully.\n(A: Thầy làm ơn nhắc lại ạ.\nB: Được rồi, hãy lắng nghe thật kĩ nhé.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/10.please.say.it.again.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/10.please.say.it.again.png"
+    },
+    {
+      "word": "Hello",
+      "loaiTu": "exclamation",
+      "phatAm": "/həˈləʊ/",
+      "meaning": "Xin chào",
+      "viDu": "Hello, what's your name?\n(Xin chào, bạn tên là gì?)",
+      "urlSound": "COURSE_VOCABULARY/sounds/11.hello.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/11.hello.png"
+    },
+    {
+      "word": "Hi",
+      "loaiTu": "exclamation",
+      "phatAm": "/haɪ/",
+      "meaning": "Chào",
+      "viDu": "Hi, my name is Anne.\n(Chào, tôi tên là Anne.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/12.hi.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/12.hi.png"
+    },
+    {
+      "word": "Good morning",
+      "loaiTu": "exclamation",
+      "phatAm": "/ˌɡʊd ˈmɔːnɪŋ/",
+      "meaning": "Chào buổi sáng",
+      "viDu": "A: Good morning!\nB: Hi. How are you today?\n(A: Chào buổi sáng!\nB: Chào. Hôm nay bạn thế nào?)",
+      "urlSound": "COURSE_VOCABULARY/sounds/13.good.morning.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/13.good.morning.png"
+    },
+    {
+      "word": "Good afternoon",
+      "loaiTu": "exclamation",
+      "phatAm": "/ˌɡʊd ɑːftəˈnuːn/",
+      "meaning": "Chào buổi chiều",
+      "viDu": "A: Good afternoon!\nB: Hi!\n(A: Chào buổi chiều!\nB: Chào!)",
+      "urlSound": "COURSE_VOCABULARY/sounds/14.good.afternoon.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/14.good.afternoon.png"
+    },
+    {
+      "word": "How are you?",
+      "loaiTu": "phr",
+      "phatAm": "/ˌhaʊ ɑːr ju:/",
+      "meaning": "Bạn có khỏe không?",
+      "viDu": "A: How are you?\nB: I'm fine, thanks.\n(A: Bạn có khỏe không? \nB: Tôi khỏe, cảm ơn bạn.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/15.how.are.you.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/15.how.are.you.png"
+    },
+    {
+      "word": "I’m fine, thanks.",
+      "loaiTu": "phr",
+      "phatAm": "/aɪm faɪn θæŋks/",
+      "meaning": "Tôi khỏe, cảm ơn bạn.",
+      "viDu": "A: How are you?\nB: I'm fine, thanks.\n(A: Bạn có khỏe không? \nB: Tôi khỏe, cảm ơn bạn.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/16.im.fine.thanks.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/16.im.fine.thanks.png"
+    },
+    {
+      "word": "Nice to meet you.",
+      "loaiTu": "phr",
+      "phatAm": "/naɪs tu: miːt ju:/",
+      "meaning": "Rất vui được gặp bạn.",
+      "viDu": "A: Nice to meet you.\nB: Nice to meet you, too.\n(A: Rất vui được gặp bạn.\nB: Tôi cũng rất vui được gặp bạn.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/17.nice.to.meet.you.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/17.nice.to.meet.you.png"
+    },
+    {
+      "word": "Nice to meet you, too.",
+      "loaiTu": "phr",
+      "phatAm": "/naɪs tu: miːt ju: tuː/",
+      "meaning": "Tôi cũng rất vui được gặp bạn.",
+      "viDu": "A: Nice to meet you.\nB: Nice to meet you, too.\n(A: Rất vui được gặp bạn.\nB: Tôi cũng rất vui được gặp bạn.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/18.nice.to.meet.you.too.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/18.nice.to.meet.you.too.png"
+    },
+    {
+      "word": "Goodbye",
+      "loaiTu": "exclamation",
+      "phatAm": "/ˌɡʊdˈbaɪ/",
+      "meaning": "Tạm biệt",
+      "viDu": "A: Goodbye.\nB: See you.\n(A: Tạm biệt.\nB: Gặp lại bạn sau.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/19.goodbye.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/19.goodbye.png"
+    },
+    {
+      "word": "Good night",
+      "loaiTu": "exclamation",
+      "phatAm": "/ˌɡʊd naɪt/",
+      "meaning": "Chúc ngủ ngon",
+      "viDu": "A: Good night.\nB: Have a sweet dream!\n(A: Chúc ngủ ngon.\nB: Mơ đẹp nhé!)",
+      "urlSound": "COURSE_VOCABULARY/sounds/20.good.night.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/20.good.night.png"
+    },
+    {
+      "word": "See you.",
+      "loaiTu": "phr",
+      "phatAm": "/ˈsi: ju:/",
+      "meaning": "Gặp lại bạn sau.",
+      "viDu": "A: Goodbye.\nB: See you.\n(A: Tạm biệt.\nB: Gặp lại bạn sau.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/21.see.you.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/21.see.you.png"
+    },
+    {
+      "word": "A",
+      "loaiTu": "n",
+      "phatAm": "/eɪ/",
+      "meaning": "chữ A",
+      "viDu": "It is letter A. \n(Đây là chữ A.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/22.a.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/22.a.png"
+    },
+    {
+      "word": "B",
+      "loaiTu": "n",
+      "phatAm": "/biː/",
+      "meaning": "chữ B",
+      "viDu": "It is letter B. \n(Đây là chữ B.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/23.b.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/23.b.png"
+    },
+    {
+      "word": "C",
+      "loaiTu": "n",
+      "phatAm": "/siː/",
+      "meaning": "chữ C ",
+      "viDu": "It is letter C. \n(Đây là chữ C.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/24.c.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/24.c.png"
+    },
+    {
+      "word": "D",
+      "loaiTu": "n",
+      "phatAm": "/diː/",
+      "meaning": "chữ D",
+      "viDu": "It is letter D. \n(Đây là chữ D.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/25.d.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/25.d.png"
+    },
+    {
+      "word": "E",
+      "loaiTu": "n",
+      "phatAm": "/iː/",
+      "meaning": " chữ E",
+      "viDu": "It is letter E. \n(Đây là chữ E.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/26.e.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/26.e.png"
+    },
+    {
+      "word": "F",
+      "loaiTu": "n",
+      "phatAm": "/ef/",
+      "meaning": "chữ F",
+      "viDu": "It is letter F. \n(Đây là chữ F.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/27.f.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/27.f.png"
+    },
+    {
+      "word": "G",
+      "loaiTu": "n",
+      "phatAm": "/dʒiː/",
+      "meaning": "chữ G",
+      "viDu": "It is letter G. \n(Đây là chữ G.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/28.g.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/28.g.png"
+    },
+    {
+      "word": "H",
+      "loaiTu": "n",
+      "phatAm": "/eɪtʃ/",
+      "meaning": "chữ H",
+      "viDu": "It is letter H. \n(Đây là chữ H.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/29.h.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/29.h.png"
+    },
+    {
+      "word": "I",
+      "loaiTu": "n",
+      "phatAm": "/aɪ/",
+      "meaning": " chữ I",
+      "viDu": "It is letter I. \n(Đây là chữ I.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/30.i.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/30.i.png"
+    },
+    {
+      "word": "J",
+      "loaiTu": "n",
+      "phatAm": "/dʒeɪ/",
+      "meaning": "chữ J",
+      "viDu": "It is letter J. \n(Đây là chữ J.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/31.j.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/31.j.png"
+    },
+    {
+      "word": "K",
+      "loaiTu": "n",
+      "phatAm": "/keɪ/",
+      "meaning": "chữ K",
+      "viDu": "It is letter K. \n(Đây là chữ K.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/32.k.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/32.k.png"
+    },
+    {
+      "word": "L",
+      "loaiTu": "n",
+      "phatAm": "/el/",
+      "meaning": "chữ L",
+      "viDu": "It is letter L. \n(Đây là chữ L.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/33.l.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/33.l.png"
+    },
+    {
+      "word": "M",
+      "loaiTu": "n",
+      "phatAm": "/em/",
+      "meaning": "chữ M",
+      "viDu": "It is letter M. \n(Đây là chữ M.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/34.m.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/34.m.png"
+    },
+    {
+      "word": "N",
+      "loaiTu": "n",
+      "phatAm": "/en/",
+      "meaning": "chữ N",
+      "viDu": "It is letter N. \n(Đây là chữ N.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/35.n.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/35.n.png"
+    },
+    {
+      "word": "O",
+      "loaiTu": "n",
+      "phatAm": "/əʊ/",
+      "meaning": " chữ O",
+      "viDu": "It is letter O. \n(Đây là chữ O.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/36.o.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/36.o.png"
+    },
+    {
+      "word": "P",
+      "loaiTu": "n",
+      "phatAm": "/piː/",
+      "meaning": "chữ P",
+      "viDu": "It is letter P. \n(Đây là chữ P)",
+      "urlSound": "COURSE_VOCABULARY/sounds/37.p.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/37.p.png"
+    },
+    {
+      "word": "Q",
+      "loaiTu": "n",
+      "phatAm": "/kjuː/",
+      "meaning": "chữ Q",
+      "viDu": "It is letter Q. \n(Đây là chữ Q.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/38.q.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/38.q.png"
+    },
+    {
+      "word": "R",
+      "loaiTu": "n",
+      "phatAm": "/ɑr/",
+      "meaning": "chữ R",
+      "viDu": "It is letter R. \n(Đây là chữ R.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/39.r.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/39.r.png"
+    },
+    {
+      "word": "S",
+      "loaiTu": "n",
+      "phatAm": "/es/",
+      "meaning": "chữ S",
+      "viDu": "It is letter S. \n(Đây là chữ S.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/40.s.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/40.s.png"
+    },
+    {
+      "word": "T",
+      "loaiTu": "n",
+      "phatAm": "/tiː/",
+      "meaning": "chữ T",
+      "viDu": "It is letter T. \n(Đây là chữ T.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/41.t.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/41.t.png"
+    },
+    {
+      "word": "U",
+      "loaiTu": "n",
+      "phatAm": "/ju/",
+      "meaning": "chữ U",
+      "viDu": "It is letter U. \n(Đây là chữ U.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/42.u.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/42.u.png"
+    },
+    {
+      "word": "V",
+      "loaiTu": "n",
+      "phatAm": "/viː/",
+      "meaning": "chữ V",
+      "viDu": "It is letter V. \n(Đây là chữ V.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/43.v.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/43.v.png"
+    },
+    {
+      "word": "W",
+      "loaiTu": "n",
+      "phatAm": "/ˈdʌbəlju/",
+      "meaning": "chữ W",
+      "viDu": "It is letter W. \n(Đây là chữ W.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/44.w.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/44.w.png"
+    },
+    {
+      "word": "X",
+      "loaiTu": "n",
+      "phatAm": "/eks/",
+      "meaning": "chữ X",
+      "viDu": "It is letter X. \n(Đây là chữ X.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/45.x.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/45.x.png"
+    },
+    {
+      "word": "Y",
+      "loaiTu": "n",
+      "phatAm": "/waɪ/",
+      "meaning": "chữ Y",
+      "viDu": "It is letter Y. \n(Đây là chữ Y.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/46.y.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/46.y.png"
+    },
+    {
+      "word": "Z",
+      "loaiTu": "n",
+      "phatAm": "/zed/",
+      "meaning": "chữ Z",
+      "viDu": "It is letter Z. \n(Đây là chữ Z.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/47.z.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/47.z.png"
+    },
+    {
+      "word": "zero",
+      "loaiTu": "n",
+      "phatAm": "/ˈzɪərəʊ/",
+      "meaning": "(số đếm) 0",
+      "viDu": "Zero plus one is one.\n(0 cộng 1 bằng 1)",
+      "urlSound": "COURSE_VOCABULARY/sounds/48.zero.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/48.zero.png"
+    },
+    {
+      "word": "one",
+      "loaiTu": "n",
+      "phatAm": "/wʌn/",
+      "meaning": "(số đếm) 1",
+      "viDu": "I have one cat.\n(Tôi có một con mèo.)\n",
+      "urlSound": "COURSE_VOCABULARY/sounds/49.one.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/49.one.png"
+    },
+    {
+      "word": "two",
+      "loaiTu": "n",
+      "phatAm": "/tuː/",
+      "meaning": "(số đếm) 2",
+      "viDu": "I have two apples.\n(Tôi có hai quả táo.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/50.two.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/50.two.png"
+    },
+    {
+      "word": "three",
+      "loaiTu": "n",
+      "phatAm": "/θriː/",
+      "meaning": "(số đếm) 3",
+      "viDu": "I have three flowers.\n(Tôi có ba bông hoa.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/51.three.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/51.three.png"
+    },
+    {
+      "word": "four",
+      "loaiTu": "n",
+      "phatAm": "/fɔːr/",
+      "meaning": "(số đếm) 4",
+      "viDu": "I have four books.\n(Tôi có bốn quyển sách.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/52.four.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/52.four.png"
+    },
+    {
+      "word": "five",
+      "loaiTu": "n",
+      "phatAm": "/faɪv/",
+      "meaning": "(số đếm) 5",
+      "viDu": "I have five candies.\n(Tôi có năm cái kẹo.)\n",
+      "urlSound": "COURSE_VOCABULARY/sounds/53.five.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/53.five.png"
+    },
+    {
+      "word": "six",
+      "loaiTu": "n",
+      "phatAm": "/sɪks/",
+      "meaning": "(số đếm) 6",
+      "viDu": "I have six pens.\n(Tôi có sáu cái bút.)\n",
+      "urlSound": "COURSE_VOCABULARY/sounds/54.six.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/54.six.png"
+    },
+    {
+      "word": "seven",
+      "loaiTu": "n",
+      "phatAm": "/ˈsevən/",
+      "meaning": "(số đếm) 7",
+      "viDu": "I have seven balls.\n(Tôi có bảy quả bóng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/55.seven.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/55.seven.png"
+    },
+    {
+      "word": "eight",
+      "loaiTu": "n",
+      "phatAm": "/eɪt/",
+      "meaning": "(số đếm) 8",
+      "viDu": "I have eight cups.\n(Tôi có tám chiếc cốc.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/56.eight.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/56.eight.png"
+    },
+    {
+      "word": "nine",
+      "loaiTu": "n",
+      "phatAm": "/naɪn/",
+      "meaning": "(số đếm) 9",
+      "viDu": "I have nine bananas.\n(Tôi có chín quả chuối.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/57.nine.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/57.nine.png"
+    },
+    {
+      "word": "ten",
+      "loaiTu": "n",
+      "phatAm": "/ten/",
+      "meaning": "(số đếm) 10",
+      "viDu": "I have ten mangoes.\n(Tôi có mười quả xoài.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/58.ten.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/58.ten.png"
+    }
+  ],
+  "scriptVideo": [
+    {
+      "start": "0:00:44",
+      "end": "0:01:05",
+      "english": "Excuse me, I have a question.",
+      "subScriptEnglish": " _Excuse_me,_I_have_a_question._ ",
+      "matchedNewWords": [
+        "Excuse me, I have a question."
+      ],
+      "vietnamese": "Thưa Thầy/Cô em có câu hỏi."
+    },
+    {
+      "start": "0:01:13",
+      "end": "0:01:30",
+      "english": "Can you write it on the board?",
+      "subScriptEnglish": " _Can_you_write_it_on_the_board?_ ",
+      "matchedNewWords": [
+        "Can you write it on the board?"
+      ],
+      "vietnamese": "Thầy/Cô viết lên bảng được không ạ?"
+    },
+    {
+      "start": "0:01:35",
+      "end": "0:01:50",
+      "english": "We are finished.",
+      "subScriptEnglish": " _We_are_finished._ ",
+      "matchedNewWords": [
+        "We are finished."
+      ],
+      "vietnamese": "Chúng em xong bài rồi."
+    },
+    {
+      "start": "0:01:57",
+      "end": "0:02:13",
+      "english": "I don't understand.",
+      "subScriptEnglish": " _I_don't_understand._ ",
+      "matchedNewWords": [
+        "I don’t understand."
+      ],
+      "vietnamese": "Em không hiểu."
+    },
+    {
+      "start": "0:02:24",
+      "end": "0:02:40",
+      "english": "I don't know.",
+      "subScriptEnglish": " _I_don't_know._ ",
+      "matchedNewWords": [
+        "I don’t know."
+      ],
+      "vietnamese": "Em không biết."
+    },
+    {
+      "start": "0:02:42",
+      "end": "0:02:59",
+      "english": "I don't know what to do.",
+      "subScriptEnglish": " _I_don't_know_what_to_do._ ",
+      "matchedNewWords": [
+        "I don’t know what to do."
+      ],
+      "vietnamese": "Em không biết phải làm gì."
+    },
+    {
+      "start": "0:03:03",
+      "end": "0:03:30",
+      "english": "How do you spell that?",
+      "subScriptEnglish": " _How_do_you_spell_that?_ ",
+      "matchedNewWords": [
+        "How do you spell that?"
+      ],
+      "vietnamese": "Từ đó đánh vần thế nào ạ?"
+    },
+    {
+      "start": "0:03:42",
+      "end": "0:04:07",
+      "english": "How do you pronounce this?",
+      "subScriptEnglish": " _How_do_you_pronounce_this?_ ",
+      "matchedNewWords": [
+        "How do you pronounce this?"
+      ],
+      "vietnamese": "Từ này phát âm như thế nào ạ?"
+    },
+    {
+      "start": "0:04:10",
+      "end": "0:04:36",
+      "english": "What does it mean?",
+      "subScriptEnglish": " _What_does_it_mean?_ ",
+      "matchedNewWords": [
+        "What does it mean?"
+      ],
+      "vietnamese": "Câu/Từ này nghĩa là gì ạ?"
+    },
+    {
+      "start": "0:04:38",
+      "end": "0:04:59",
+      "english": "Please say it again.",
+      "subScriptEnglish": " _Please_say_it_again._ ",
+      "matchedNewWords": [
+        "Please say it again."
+      ],
+      "vietnamese": "Thầy/Cô làm ơn nhắc lại ạ."
+    },
+    {
+      "start": "0:05:12",
+      "end": "0:05:16",
+      "english": "Greetings",
+      "subScriptEnglish": "Greetings",
+      "matchedNewWords": [],
+      "vietnamese": "Chào hỏi"
+    },
+    {
+      "start": "0:05:22",
+      "end": "0:05:24",
+      "english": "Hello.",
+      "subScriptEnglish": " _Hello._ ",
+      "matchedNewWords": [
+        "Hello"
+      ],
+      "vietnamese": "Xin chào."
+    },
+    {
+      "start": "0:05:24",
+      "end": "0:05:26",
+      "english": "Hi.",
+      "subScriptEnglish": " _Hi._ ",
+      "matchedNewWords": [
+        "Hi"
+      ],
+      "vietnamese": "Chào."
+    },
+    {
+      "start": "0:05:27",
+      "end": "0:05:29",
+      "english": "Good morning.",
+      "subScriptEnglish": " _Good_morning._ ",
+      "matchedNewWords": [
+        "Good morning"
+      ],
+      "vietnamese": "Chào buổi sáng"
+    },
+    {
+      "start": "0:05:30",
+      "end": "0:05:33",
+      "english": "Good afternoon.",
+      "subScriptEnglish": " _Good_afternoon._ ",
+      "matchedNewWords": [
+        "Good afternoon"
+      ],
+      "vietnamese": "Chào buổi chiều"
+    },
+    {
+      "start": "0:05:36",
+      "end": "0:05:40",
+      "english": "Hello.",
+      "subScriptEnglish": " _Hello._ ",
+      "matchedNewWords": [
+        "Hello"
+      ],
+      "vietnamese": "Xin chào."
+    },
+    {
+      "start": "0:05:45",
+      "end": "0:05:46",
+      "english": "Hi.",
+      "subScriptEnglish": " _Hi._ ",
+      "matchedNewWords": [
+        "Hi"
+      ],
+      "vietnamese": "Chào."
+    },
+    {
+      "start": "0:05:49",
+      "end": "0:05:54",
+      "english": "Hello.",
+      "subScriptEnglish": " _Hello._ ",
+      "matchedNewWords": [
+        "Hello"
+      ],
+      "vietnamese": "Xin chào."
+    },
+    {
+      "start": "0:05:55",
+      "end": "0:06:00",
+      "english": "Hi.",
+      "subScriptEnglish": " _Hi._ ",
+      "matchedNewWords": [
+        "Hi"
+      ],
+      "vietnamese": "Chào."
+    },
+    {
+      "start": "0:06:08",
+      "end": "0:06:12",
+      "english": "Good morning.",
+      "subScriptEnglish": " _Good_morning._ ",
+      "matchedNewWords": [
+        "Good morning"
+      ],
+      "vietnamese": "Chào buổi sáng."
+    },
+    {
+      "start": "0:06:13",
+      "end": "0:06:18",
+      "english": "Good afternoon.",
+      "subScriptEnglish": " _Good_afternoon._ ",
+      "matchedNewWords": [
+        "Good afternoon"
+      ],
+      "vietnamese": "Chào buổi chiều."
+    },
+    {
+      "start": "0:06:21",
+      "end": "0:06:34",
+      "english": "Good morning.",
+      "subScriptEnglish": " _Good_morning._ ",
+      "matchedNewWords": [
+        "Good morning"
+      ],
+      "vietnamese": "Chào buổi sáng."
+    },
+    {
+      "start": "0:06:35",
+      "end": "0:06:47",
+      "english": "Good afternoon.",
+      "subScriptEnglish": " _Good_afternoon._ ",
+      "matchedNewWords": [
+        "Good afternoon"
+      ],
+      "vietnamese": "Chào buổi chiều."
+    },
+    {
+      "start": "0:06:59",
+      "end": "0:07:02",
+      "english": "How are you?",
+      "subScriptEnglish": " _How_are_you?_ ",
+      "matchedNewWords": [
+        "How are you?"
+      ],
+      "vietnamese": "Bạn có khỏe không?"
+    },
+    {
+      "start": "0:07:02",
+      "end": "0:07:07",
+      "english": "I'm fine, thanks.",
+      "subScriptEnglish": " _I'm_fine,_thanks._ ",
+      "matchedNewWords": [
+        "I’m fine, thanks."
+      ],
+      "vietnamese": "Tôi khỏe cảm ơn bạn."
+    },
+    {
+      "start": "0:07:10",
+      "end": "0:07:17",
+      "english": "How are you?",
+      "subScriptEnglish": " _How_are_you?_ ",
+      "matchedNewWords": [
+        "How are you?"
+      ],
+      "vietnamese": "Bạn có khỏe không?"
+    },
+    {
+      "start": "0:07:19",
+      "end": "0:07:25",
+      "english": "I'm fine, thanks.",
+      "subScriptEnglish": " _I'm_fine,_thanks._ ",
+      "matchedNewWords": [
+        "I’m fine, thanks."
+      ],
+      "vietnamese": "Tôi khỏe cảm ơn bạn."
+    },
+    {
+      "start": "0:07:29",
+      "end": "0:07:40",
+      "english": "How are you?",
+      "subScriptEnglish": " _How_are_you?_ ",
+      "matchedNewWords": [
+        "How are you?"
+      ],
+      "vietnamese": "Bạn có khỏe không?"
+    },
+    {
+      "start": "0:07:40",
+      "end": "0:07:53",
+      "english": "I'm fine, thanks.",
+      "subScriptEnglish": " _I'm_fine,_thanks._ ",
+      "matchedNewWords": [
+        "I’m fine, thanks."
+      ],
+      "vietnamese": "Tôi khỏe cảm ơn bạn."
+    },
+    {
+      "start": "0:08:04",
+      "end": "0:08:09",
+      "english": "Nice to meet you.",
+      "subScriptEnglish": " _Nice_to_meet_you._ ",
+      "matchedNewWords": [
+        "Nice to meet you."
+      ],
+      "vietnamese": "Rất vui được gặp bạn."
+    },
+    {
+      "start": "0:08:09",
+      "end": "0:08:14",
+      "english": "Nice to meet you too.",
+      "subScriptEnglish": " _Nice_to_meet_you_too._ ",
+      "matchedNewWords": [
+        "Nice to meet you, too."
+      ],
+      "vietnamese": "Tôi cũng rất vui được gặp bạn."
+    },
+    {
+      "start": "0:08:17",
+      "end": "0:08:23",
+      "english": "Nice to meet you.",
+      "subScriptEnglish": " _Nice_to_meet_you._ ",
+      "matchedNewWords": [
+        "Nice to meet you."
+      ],
+      "vietnamese": "Rất vui được gặp bạn."
+    },
+    {
+      "start": "0:08:23",
+      "end": "0:08:27",
+      "english": "Nice to meet you too.",
+      "subScriptEnglish": " _Nice_to_meet_you_too._ ",
+      "matchedNewWords": [
+        "Nice to meet you, too."
+      ],
+      "vietnamese": "Tôi cũng rất vui được gặp bạn."
+    },
+    {
+      "start": "0:08:29",
+      "end": "0:08:40",
+      "english": "Nice to meet you.",
+      "subScriptEnglish": " _Nice_to_meet_you._ ",
+      "matchedNewWords": [
+        "Nice to meet you."
+      ],
+      "vietnamese": "Rất vui được gặp bạn."
+    },
+    {
+      "start": "0:08:41",
+      "end": "0:08:54",
+      "english": "Nice to meet you too.",
+      "subScriptEnglish": " _Nice_to_meet_you_too._ ",
+      "matchedNewWords": [
+        "Nice to meet you, too."
+      ],
+      "vietnamese": "Tôi cũng rất vui được gặp bạn."
+    },
+    {
+      "start": "0:09:03",
+      "end": "0:09:08",
+      "english": "Goodbye.",
+      "subScriptEnglish": " _Goodbye._ ",
+      "matchedNewWords": [
+        "Goodbye"
+      ],
+      "vietnamese": "Tạm biệt."
+    },
+    {
+      "start": "0:09:08",
+      "end": "0:09:12",
+      "english": "Good night.",
+      "subScriptEnglish": " _Good_night._ ",
+      "matchedNewWords": [
+        "Good night"
+      ],
+      "vietnamese": "Chúc ngủ ngon."
+    },
+    {
+      "start": "0:09:13",
+      "end": "0:09:17",
+      "english": "See you.",
+      "subScriptEnglish": " _See_you._ ",
+      "matchedNewWords": [
+        "See you."
+      ],
+      "vietnamese": "Gặp lại bạn sau."
+    },
+    {
+      "start": "0:09:22",
+      "end": "0:09:48",
+      "english": "Goodbye.",
+      "subScriptEnglish": " _Goodbye._ ",
+      "matchedNewWords": [
+        "Goodbye"
+      ],
+      "vietnamese": "Tạm biệt."
+    },
+    {
+      "start": "0:09:55",
+      "end": "0:10:19",
+      "english": "Good night.",
+      "subScriptEnglish": " _Good_night._ ",
+      "matchedNewWords": [
+        "Good night"
+      ],
+      "vietnamese": "Chúc ngủ ngon."
+    },
+    {
+      "start": "0:10:28",
+      "end": "0:10:50",
+      "english": "See you.",
+      "subScriptEnglish": " _See_you._ ",
+      "matchedNewWords": [
+        "See you."
+      ],
+      "vietnamese": "Gặp lại bạn sau."
+    },
+    {
+      "start": "0:11:11",
+      "end": "0:11:13",
+      "english": "Alphabet",
+      "subScriptEnglish": "Alphabet",
+      "matchedNewWords": [],
+      "vietnamese": "Bảng chữ cái tiếng Anh"
+    },
+    {
+      "start": "0:11:16",
+      "end": "0:11:17",
+      "english": "A",
+      "subScriptEnglish": " _A_ ",
+      "matchedNewWords": [
+        "A"
+      ],
+      "vietnamese": "Chữ A"
+    },
+    {
+      "start": "0:11:17",
+      "end": "0:11:18",
+      "english": "B",
+      "subScriptEnglish": " _B_ ",
+      "matchedNewWords": [
+        "B"
+      ],
+      "vietnamese": "Chữ B"
+    },
+    {
+      "start": "0:11:19",
+      "end": "0:11:20",
+      "english": "C",
+      "subScriptEnglish": " _C_ ",
+      "matchedNewWords": [
+        "C"
+      ],
+      "vietnamese": "Chữ C"
+    },
+    {
+      "start": "0:11:21",
+      "end": "0:11:22",
+      "english": "D",
+      "subScriptEnglish": " _D_ ",
+      "matchedNewWords": [
+        "D"
+      ],
+      "vietnamese": "Chữ D"
+    },
+    {
+      "start": "0:11:23",
+      "end": "0:11:24",
+      "english": "E",
+      "subScriptEnglish": " _E_ ",
+      "matchedNewWords": [
+        "E"
+      ],
+      "vietnamese": "Chữ E"
+    },
+    {
+      "start": "0:11:24",
+      "end": "0:11:25",
+      "english": "F",
+      "subScriptEnglish": " _F_ ",
+      "matchedNewWords": [
+        "F"
+      ],
+      "vietnamese": "Chữ F"
+    },
+    {
+      "start": "0:11:26",
+      "end": "0:11:27",
+      "english": "G",
+      "subScriptEnglish": " _G_ ",
+      "matchedNewWords": [
+        "G"
+      ],
+      "vietnamese": "Chữ G"
+    },
+    {
+      "start": "0:11:28",
+      "end": "0:11:29",
+      "english": "H",
+      "subScriptEnglish": " _H_ ",
+      "matchedNewWords": [
+        "H"
+      ],
+      "vietnamese": "Chữ H"
+    },
+    {
+      "start": "0:11:29",
+      "end": "0:11:31",
+      "english": "I",
+      "subScriptEnglish": " _I_ ",
+      "matchedNewWords": [
+        "I"
+      ],
+      "vietnamese": "Chữ I"
+    },
+    {
+      "start": "0:11:31",
+      "end": "0:11:32",
+      "english": "J",
+      "subScriptEnglish": " _J_ ",
+      "matchedNewWords": [
+        "J"
+      ],
+      "vietnamese": "Chữ J"
+    },
+    {
+      "start": "0:11:33",
+      "end": "0:11:34",
+      "english": "K",
+      "subScriptEnglish": " _K_ ",
+      "matchedNewWords": [
+        "K"
+      ],
+      "vietnamese": "Chữ K"
+    },
+    {
+      "start": "0:11:35",
+      "end": "0:11:36",
+      "english": "L",
+      "subScriptEnglish": " _L_ ",
+      "matchedNewWords": [
+        "L"
+      ],
+      "vietnamese": "Chữ L"
+    },
+    {
+      "start": "0:11:36",
+      "end": "0:11:38",
+      "english": "M",
+      "subScriptEnglish": " _M_ ",
+      "matchedNewWords": [
+        "M"
+      ],
+      "vietnamese": "Chữ M"
+    },
+    {
+      "start": "0:11:38",
+      "end": "0:11:39",
+      "english": "N",
+      "subScriptEnglish": " _N_ ",
+      "matchedNewWords": [
+        "N"
+      ],
+      "vietnamese": "Chữ N"
+    },
+    {
+      "start": "0:11:40",
+      "end": "0:11:41",
+      "english": "O",
+      "subScriptEnglish": " _O_ ",
+      "matchedNewWords": [
+        "O"
+      ],
+      "vietnamese": "Chữ O"
+    },
+    {
+      "start": "0:11:41",
+      "end": "0:11:43",
+      "english": "P",
+      "subScriptEnglish": " _P_ ",
+      "matchedNewWords": [
+        "P"
+      ],
+      "vietnamese": "Chữ P"
+    },
+    {
+      "start": "0:11:43",
+      "end": "0:11:45",
+      "english": "Q",
+      "subScriptEnglish": " _Q_ ",
+      "matchedNewWords": [
+        "Q"
+      ],
+      "vietnamese": "Chữ Q"
+    },
+    {
+      "start": "0:11:45",
+      "end": "0:11:46",
+      "english": "R",
+      "subScriptEnglish": " _R_ ",
+      "matchedNewWords": [
+        "R"
+      ],
+      "vietnamese": "Chữ R"
+    },
+    {
+      "start": "0:11:47",
+      "end": "0:11:48",
+      "english": "S",
+      "subScriptEnglish": " _S_ ",
+      "matchedNewWords": [
+        "S"
+      ],
+      "vietnamese": "Chữ S"
+    },
+    {
+      "start": "0:11:48",
+      "end": "0:11:50",
+      "english": "T",
+      "subScriptEnglish": " _T_ ",
+      "matchedNewWords": [
+        "T"
+      ],
+      "vietnamese": "Chữ T"
+    },
+    {
+      "start": "0:11:50",
+      "end": "0:11:52",
+      "english": "U",
+      "subScriptEnglish": " _U_ ",
+      "matchedNewWords": [
+        "U"
+      ],
+      "vietnamese": "Chữ U"
+    },
+    {
+      "start": "0:11:52",
+      "end": "0:11:53",
+      "english": "V",
+      "subScriptEnglish": " _V_ ",
+      "matchedNewWords": [
+        "V"
+      ],
+      "vietnamese": "Chữ V"
+    },
+    {
+      "start": "0:11:54",
+      "end": "0:11:55",
+      "english": "W",
+      "subScriptEnglish": " _W_ ",
+      "matchedNewWords": [
+        "W"
+      ],
+      "vietnamese": "Chữ W"
+    },
+    {
+      "start": "0:11:56",
+      "end": "0:11:57",
+      "english": "X",
+      "subScriptEnglish": " _X_ ",
+      "matchedNewWords": [
+        "X"
+      ],
+      "vietnamese": "Chữ X"
+    },
+    {
+      "start": "0:11:57",
+      "end": "0:11:59",
+      "english": "Y",
+      "subScriptEnglish": " _Y_ ",
+      "matchedNewWords": [
+        "Y"
+      ],
+      "vietnamese": "Chữ Y"
+    },
+    {
+      "start": "0:11:59",
+      "end": "0:12:00",
+      "english": "Z",
+      "subScriptEnglish": " _Z_ ",
+      "matchedNewWords": [
+        "Z"
+      ],
+      "vietnamese": "Chữ Z"
+    },
+    {
+      "start": "0:12:03",
+      "end": "0:12:11",
+      "english": "Z",
+      "subScriptEnglish": " _Z_ ",
+      "matchedNewWords": [
+        "Z"
+      ],
+      "vietnamese": "Chữ Z"
+    },
+    {
+      "start": "0:12:23",
+      "end": "0:12:29",
+      "english": "A",
+      "subScriptEnglish": " _A_ ",
+      "matchedNewWords": [
+        "A"
+      ],
+      "vietnamese": "Chữ A"
+    },
+    {
+      "start": "0:12:29",
+      "end": "0:12:35",
+      "english": "B",
+      "subScriptEnglish": " _B_ ",
+      "matchedNewWords": [
+        "B"
+      ],
+      "vietnamese": "Chữ B"
+    },
+    {
+      "start": "0:12:36",
+      "end": "0:12:41",
+      "english": "C",
+      "subScriptEnglish": " _C_ ",
+      "matchedNewWords": [
+        "C"
+      ],
+      "vietnamese": "Chữ C"
+    },
+    {
+      "start": "0:12:41",
+      "end": "0:12:46",
+      "english": "D",
+      "subScriptEnglish": " _D_ ",
+      "matchedNewWords": [
+        "D"
+      ],
+      "vietnamese": "Chữ D"
+    },
+    {
+      "start": "0:12:46",
+      "end": "0:12:51",
+      "english": "E",
+      "subScriptEnglish": " _E_ ",
+      "matchedNewWords": [
+        "E"
+      ],
+      "vietnamese": "ChữE"
+    },
+    {
+      "start": "0:12:51",
+      "end": "0:12:55",
+      "english": "F",
+      "subScriptEnglish": " _F_ ",
+      "matchedNewWords": [
+        "F"
+      ],
+      "vietnamese": "Chữ F"
+    },
+    {
+      "start": "0:12:56",
+      "end": "0:13:01",
+      "english": "G",
+      "subScriptEnglish": " _G_ ",
+      "matchedNewWords": [
+        "G"
+      ],
+      "vietnamese": "Chữ G"
+    },
+    {
+      "start": "0:13:01",
+      "end": "0:13:06",
+      "english": "H",
+      "subScriptEnglish": " _H_ ",
+      "matchedNewWords": [
+        "H"
+      ],
+      "vietnamese": "Chữ H"
+    },
+    {
+      "start": "0:13:06",
+      "end": "0:13:11",
+      "english": "I",
+      "subScriptEnglish": " _I_ ",
+      "matchedNewWords": [
+        "I"
+      ],
+      "vietnamese": "Chữ I"
+    },
+    {
+      "start": "0:13:11",
+      "end": "0:13:17",
+      "english": "J",
+      "subScriptEnglish": " _J_ ",
+      "matchedNewWords": [
+        "J"
+      ],
+      "vietnamese": "Chữ J"
+    },
+    {
+      "start": "0:13:17",
+      "end": "0:13:22",
+      "english": "K",
+      "subScriptEnglish": " _K_ ",
+      "matchedNewWords": [
+        "K"
+      ],
+      "vietnamese": "Chữ K"
+    },
+    {
+      "start": "0:13:22",
+      "end": "0:13:27",
+      "english": "L",
+      "subScriptEnglish": " _L_ ",
+      "matchedNewWords": [
+        "L"
+      ],
+      "vietnamese": "Chữ L"
+    },
+    {
+      "start": "0:13:27",
+      "end": "0:13:32",
+      "english": "M",
+      "subScriptEnglish": " _M_ ",
+      "matchedNewWords": [
+        "M"
+      ],
+      "vietnamese": "Chữ M"
+    },
+    {
+      "start": "0:13:32",
+      "end": "0:13:37",
+      "english": "N",
+      "subScriptEnglish": " _N_ ",
+      "matchedNewWords": [
+        "N"
+      ],
+      "vietnamese": "Chữ N"
+    },
+    {
+      "start": "0:13:37",
+      "end": "0:13:42",
+      "english": "O",
+      "subScriptEnglish": " _O_ ",
+      "matchedNewWords": [
+        "O"
+      ],
+      "vietnamese": "Chữ O"
+    },
+    {
+      "start": "0:13:43",
+      "end": "0:13:48",
+      "english": "P",
+      "subScriptEnglish": " _P_ ",
+      "matchedNewWords": [
+        "P"
+      ],
+      "vietnamese": "Chữ P"
+    },
+    {
+      "start": "0:13:48",
+      "end": "0:13:53",
+      "english": "Q",
+      "subScriptEnglish": " _Q_ ",
+      "matchedNewWords": [
+        "Q"
+      ],
+      "vietnamese": "Chữ Q"
+    },
+    {
+      "start": "0:13:53",
+      "end": "0:13:58",
+      "english": "R",
+      "subScriptEnglish": " _R_ ",
+      "matchedNewWords": [
+        "R"
+      ],
+      "vietnamese": "Chữ R"
+    },
+    {
+      "start": "0:13:58",
+      "end": "0:14:03",
+      "english": "S",
+      "subScriptEnglish": " _S_ ",
+      "matchedNewWords": [
+        "S"
+      ],
+      "vietnamese": "Chữ S"
+    },
+    {
+      "start": "0:14:03",
+      "end": "0:14:08",
+      "english": "T",
+      "subScriptEnglish": " _T_ ",
+      "matchedNewWords": [
+        "T"
+      ],
+      "vietnamese": "Chữ T"
+    },
+    {
+      "start": "0:14:09",
+      "end": "0:14:14",
+      "english": "U",
+      "subScriptEnglish": " _U_ ",
+      "matchedNewWords": [
+        "U"
+      ],
+      "vietnamese": "Chữ U"
+    },
+    {
+      "start": "0:14:14",
+      "end": "0:14:19",
+      "english": "V",
+      "subScriptEnglish": " _V_ ",
+      "matchedNewWords": [
+        "V"
+      ],
+      "vietnamese": "Chữ V"
+    },
+    {
+      "start": "0:14:19",
+      "end": "0:14:25",
+      "english": "W",
+      "subScriptEnglish": " _W_ ",
+      "matchedNewWords": [
+        "W"
+      ],
+      "vietnamese": "Chữ W"
+    },
+    {
+      "start": "0:14:25",
+      "end": "0:14:30",
+      "english": "X",
+      "subScriptEnglish": " _X_ ",
+      "matchedNewWords": [
+        "X"
+      ],
+      "vietnamese": "Chữ X"
+    },
+    {
+      "start": "0:14:30",
+      "end": "0:14:36",
+      "english": "Y",
+      "subScriptEnglish": " _Y_ ",
+      "matchedNewWords": [
+        "Y"
+      ],
+      "vietnamese": "Chữ Y"
+    },
+    {
+      "start": "0:14:36",
+      "end": "0:14:41",
+      "english": "Z",
+      "subScriptEnglish": " _Z_ ",
+      "matchedNewWords": [
+        "Z"
+      ],
+      "vietnamese": "Chữ Z"
+    },
+    {
+      "start": "0:14:41",
+      "end": "0:14:46",
+      "english": "Z",
+      "subScriptEnglish": " _Z_ ",
+      "matchedNewWords": [
+        "Z"
+      ],
+      "vietnamese": "Chữ Z"
+    },
+    {
+      "start": "0:14:59",
+      "end": "0:15:03",
+      "english": "Numbers",
+      "subScriptEnglish": "Numbers",
+      "matchedNewWords": [],
+      "vietnamese": "Các chữ số"
+    },
+    {
+      "start": "0:15:11",
+      "end": "0:15:21",
+      "english": "zero",
+      "subScriptEnglish": " _zero_ ",
+      "matchedNewWords": [
+        "zero"
+      ],
+      "vietnamese": "Số 0"
+    },
+    {
+      "start": "0:15:24",
+      "end": "0:15:34",
+      "english": "one",
+      "subScriptEnglish": " _one_ ",
+      "matchedNewWords": [
+        "one"
+      ],
+      "vietnamese": "Số 1"
+    },
+    {
+      "start": "0:15:36",
+      "end": "0:15:45",
+      "english": "two",
+      "subScriptEnglish": " _two_ ",
+      "matchedNewWords": [
+        "two"
+      ],
+      "vietnamese": "Số 2"
+    },
+    {
+      "start": "0:15:47",
+      "end": "0:15:59",
+      "english": "three",
+      "subScriptEnglish": " _three_ ",
+      "matchedNewWords": [
+        "three"
+      ],
+      "vietnamese": "Số 3"
+    },
+    {
+      "start": "0:16:02",
+      "end": "0:16:11",
+      "english": "four",
+      "subScriptEnglish": " _four_ ",
+      "matchedNewWords": [
+        "four"
+      ],
+      "vietnamese": "Số 4"
+    },
+    {
+      "start": "0:16:14",
+      "end": "0:16:25",
+      "english": "five",
+      "subScriptEnglish": " _five_ ",
+      "matchedNewWords": [
+        "five"
+      ],
+      "vietnamese": "Số 5"
+    },
+    {
+      "start": "0:16:26",
+      "end": "0:16:37",
+      "english": "six",
+      "subScriptEnglish": " _six_ ",
+      "matchedNewWords": [
+        "six"
+      ],
+      "vietnamese": "Số 6"
+    },
+    {
+      "start": "0:16:39",
+      "end": "0:16:49",
+      "english": "seven",
+      "subScriptEnglish": " _seven_ ",
+      "matchedNewWords": [
+        "seven"
+      ],
+      "vietnamese": "Số 7"
+    },
+    {
+      "start": "0:16:53",
+      "end": "0:17:03",
+      "english": "eight",
+      "subScriptEnglish": " _eight_ ",
+      "matchedNewWords": [
+        "eight"
+      ],
+      "vietnamese": "Số 8"
+    },
+    {
+      "start": "0:17:05",
+      "end": "0:17:16",
+      "english": "nine",
+      "subScriptEnglish": " _nine_ ",
+      "matchedNewWords": [
+        "nine"
+      ],
+      "vietnamese": "Số 9"
+    },
+    {
+      "start": "0:17:18",
+      "end": "0:17:27",
+      "english": "ten",
+      "subScriptEnglish": " _ten_ ",
+      "matchedNewWords": [
+        "ten"
+      ],
+      "vietnamese": "Số 10"
+    }
+  ],
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:05:07.842",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "a937e4c5-bc44-4ae1-ad1b-665e4b856832",
+                "dapAn": "Can you"
+              },
+              {
+                "_id": "4811b705-033c-431c-b1ff-4306de9af2b5",
+                "dapAn": "write it"
+              },
+              {
+                "_id": "176ea312-fc4a-44ab-9221-60ad44f29d9a",
+                "dapAn": "on the"
+              },
+              {
+                "_id": "095ce6cc-d595-4d09-ba4d-280adfdee79d",
+                "dapAn": "board?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "0da16403-2972-4474-9430-f17b90ffb1e9",
+                "dapAn": "I"
+              },
+              {
+                "_id": "9ea5da4b-62ff-411a-994e-99b580d19ae0",
+                "dapAn": "don't"
+              },
+              {
+                "_id": "7c5573eb-675a-4918-858b-33e00a9ad9e1",
+                "dapAn": "understand."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "3462d8a9-8bf8-4602-9259-f699b808160d",
+                "dapAn": "What"
+              },
+              {
+                "_id": "58e46218-2987-46aa-b4c0-4da610421824",
+                "dapAn": "does"
+              },
+              {
+                "_id": "8aa5189e-4343-40ea-9590-f0e85549bf60",
+                "dapAn": "it"
+              },
+              {
+                "_id": "4cdd58c4-739c-4286-b3d7-4cbfc083812a",
+                "dapAn": "mean?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "5209c339-05ca-474a-b1bd-0b16169318df",
+                "dapAn": "I don't"
+              },
+              {
+                "_id": "caa82c94-e8a1-4d33-908f-ca4baec19cad",
+                "dapAn": "know"
+              },
+              {
+                "_id": "c1da8ecd-1dd2-4745-8829-b0747bdcc761",
+                "dapAn": "what"
+              },
+              {
+                "_id": "fea092b5-a9d5-4af9-91df-d8f2e9f6148a",
+                "dapAn": "to do."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "2cd4bc49-3601-441a-a31f-fcb0dd78b8ae",
+                "dapAn": "How"
+              },
+              {
+                "_id": "a9f9b556-9872-4e1d-9600-8351c8d42532",
+                "dapAn": "do you"
+              },
+              {
+                "_id": "43a18a7f-d055-4d02-afdb-a307f5e458e8",
+                "dapAn": "pronounce"
+              },
+              {
+                "_id": "c88a74d4-b54b-47c5-bf22-a16c353ccf89",
+                "dapAn": "this?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "5b898813-d6dc-4b59-9b18-f1cec85b81a1",
+                "dapAn": "Excuse"
+              },
+              {
+                "_id": "534dd745-adda-4c9d-bc5c-ae21fed2717a",
+                "dapAn": "me, I"
+              },
+              {
+                "_id": "34138f0e-c91d-4c07-958d-115ce517c4d3",
+                "dapAn": "have a"
+              },
+              {
+                "_id": "c75d8042-cd18-45ff-a746-a973a5c7c96e",
+                "dapAn": "question."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "2d866643-e11b-496a-85e8-f175a691dbcb",
+                "dapAn": "Please"
+              },
+              {
+                "_id": "fa2e5df6-9c20-4936-a4dd-71813e3ad7a2",
+                "dapAn": "say"
+              },
+              {
+                "_id": "3a100f6d-0401-4658-a486-4ede8ae8263d",
+                "dapAn": "it"
+              },
+              {
+                "_id": "555604ac-00f2-40ea-8104-f76b08ad156d",
+                "dapAn": "again."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "5c744bc7-a4b5-4532-9418-7027783d332d",
+                "dapAn": "We"
+              },
+              {
+                "_id": "5bb6b021-d729-44cf-a089-9b8f0b31a8b9",
+                "dapAn": "are"
+              },
+              {
+                "_id": "8b474e1e-ccec-4f5f-b288-97775ac58422",
+                "dapAn": "finished."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "640905d9-04e2-4bf6-a295-474a5fa0e03a",
+                "dapAn": "How"
+              },
+              {
+                "_id": "c6b62394-0c4e-4537-8744-3ba259f88543",
+                "dapAn": "do you"
+              },
+              {
+                "_id": "b8411fae-3483-4ae0-ab3d-3fc86451bdcb",
+                "dapAn": "spell"
+              },
+              {
+                "_id": "8bddceae-59fb-415d-b449-494c6cdc9a81",
+                "dapAn": "that?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "50b9fc3f-2dc4-46ad-8f85-b4e99a6f57f9",
+                "dapAn": "I"
+              },
+              {
+                "_id": "267ea22d-dda8-4019-a6e3-6828ed09027e",
+                "dapAn": "don't"
+              },
+              {
+                "_id": "f05af999-1cff-4d84-9686-e000e81fd403",
+                "dapAn": "know."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:05:07.842",
+      "timeEnd": "0:11:06.688",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P5",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "__________ Amelia. How are you?",
+            "_id": "16e78c2d-abe3-476f-b756-442069bbebb2",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "Goodbye",
+                "_id": "45c7c887-c008-455b-a94a-5b5ca8a3ea0d"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "How",
+                "_id": {
+                  "$oid": "dfea2197-b4c0-4f22-91b1-b6b5106fd8ea"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "Hello",
+                "_id": {
+                  "$oid": "d8e16893-4a22-4c81-b4ac-33b5cf00ccd8"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "I’m __________, thanks.",
+            "_id": "1ba120b8-f00a-48bf-b441-ba313ed0bd6a",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "too",
+                "_id": "42a1076a-d7bc-4ae4-b29f-de77052e692b"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "fine",
+                "_id": {
+                  "$oid": "627434ea-b34c-479b-bf76-f725bacd8b3c"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "see",
+                "_id": {
+                  "$oid": "8cbc3be5-98c1-4faf-960a-3116995fbe74"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "__________ you Lenny!",
+            "_id": "300532e2-a4dc-4fe9-9c1f-38e2fed2014e",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "See",
+                "_id": "5e37c25d-43d3-42f3-9a0d-f29f4d2e909f"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "Nice",
+                "_id": {
+                  "$oid": "3655722d-8000-4a33-b068-7c1f2109215b"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "Hello",
+                "_id": {
+                  "$oid": "4bed3e01-ba77-45f2-87d9-a445878b5edc"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "I’m Lorenzo. __________ to meet you.",
+            "_id": "2806ef21-e453-4d69-b51a-b3c84386d296",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "How",
+                "_id": "fdcc0036-8510-467e-aea4-d06e2eac4f1a"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "Goodbye",
+                "_id": {
+                  "$oid": "fcdc4b3f-86ba-420b-94f9-b15657742925"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "Nice",
+                "_id": {
+                  "$oid": "6bf35ca1-581c-49e6-a7f4-0713037d2607"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:11:06.688",
+      "timeEnd": "0:14:56.679",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P1",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "H _",
+            "_id": "2baab972-3b89-484e-9c1a-d7387f754918",
+            "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/video-practice/1. HI.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "I",
+                "_id": "d1213002-6a5d-4a49-9830-8631ec63515f"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "E",
+                "_id": {
+                  "$oid": "92fb5062-d916-43bf-a58c-706347849dde"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "A",
+                "_id": {
+                  "$oid": "d4495919-8fbd-405b-a896-ee340fce5111"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "_ N",
+            "_id": "1c9aaf99-c49d-427f-b816-152527a2d9c1",
+            "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/video-practice/2. FN.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "F",
+                "_id": "54ecfef5-e46e-4538-9c5a-32a8b5ec0908"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "H",
+                "_id": {
+                  "$oid": "48e6ac08-f933-4db9-bfe3-f564701a8a0c"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "S",
+                "_id": {
+                  "$oid": "710237da-8d1c-40bb-a812-af2755750e42"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "_ UY",
+            "_id": "c6260771-4276-44bb-8f10-6edf1cc89845",
+            "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/video-practice/3. AUY.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "H",
+                "_id": "2e9f83c4-500f-4877-9036-5037bf8f7127"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "A",
+                "_id": {
+                  "$oid": "e738f8a8-cb54-4b39-aaa8-a6a45250b745"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "K",
+                "_id": {
+                  "$oid": "41e16dd8-186d-4976-81e9-50174c3760d5"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "B _",
+            "_id": "c439e143-eb35-4cf7-8611-be36970386f7",
+            "soundCauhoi": "4SKILLS_PRE_S_L1/sounds/video-practice/4. BT.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "C",
+                "_id": "7e3e025f-5984-4229-9493-4e21e0ea966b"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "T",
+                "_id": {
+                  "$oid": "973bf3c9-54f8-4e8a-8dd0-8b6d1f51c0c6"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "E",
+                "_id": {
+                  "$oid": "79348c96-c517-44d7-9381-414538b53c7e"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:14:56.679",
+      "timeEnd": "0:17:37.769",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Zero",
+            "_id": {
+              "$oid": "e04c7b06-a450-41b5-b5b4-d39911a45ee5"
+            },
+            "yNghia": "(Số đếm) 0"
+          },
+          {
+            "cauHoi": "One",
+            "_id": {
+              "$oid": "3e007ef4-c722-4826-95bf-767fd7d611a7"
+            },
+            "yNghia": "(Số đếm) 1"
+          },
+          {
+            "cauHoi": "Two",
+            "_id": {
+              "$oid": "e04cd9e1-b59e-457c-b0f4-1d401cf712ca"
+            },
+            "yNghia": "(Số đếm) 2"
+          },
+          {
+            "cauHoi": "Three",
+            "_id": {
+              "$oid": "b7b86905-b180-4099-9282-b224d1120211"
+            },
+            "yNghia": "(Số đếm) 3"
+          },
+          {
+            "cauHoi": "Four",
+            "_id": {
+              "$oid": "69aa6f3b-6fcd-4148-8ab1-a409bfd09d17"
+            },
+            "yNghia": "(Số đếm) 4"
+          },
+          {
+            "cauHoi": "Five",
+            "_id": {
+              "$oid": "0ab445f3-e039-4630-8d8d-3b20d0cf57b0"
+            },
+            "yNghia": "(Số đếm) 5"
+          },
+          {
+            "cauHoi": "Six",
+            "_id": {
+              "$oid": "a6072e1a-cb9b-4bb0-9a2c-aa6584b8bc3c"
+            },
+            "yNghia": "(Số đếm) 6"
+          },
+          {
+            "cauHoi": "Seven",
+            "_id": {
+              "$oid": "f1fc1e96-13d2-4b65-8c1b-db93c45af66c"
+            },
+            "yNghia": "(Số đếm) 7"
+          },
+          {
+            "cauHoi": "Eight",
+            "_id": {
+              "$oid": "2f955b92-440a-44dd-bf56-12b49bd21599"
+            },
+            "yNghia": "(Số đếm) 8"
+          },
+          {
+            "cauHoi": "Nine",
+            "_id": {
+              "$oid": "f542c1a4-b5b7-4ebb-bf17-9e1894ba22ab"
+            },
+            "yNghia": "(Số đếm) 9"
+          },
+          {
+            "cauHoi": "Ten",
+            "_id": {
+              "$oid": "458ac1b0-6178-4876-bfb3-1af264307cfb"
+            },
+            "yNghia": "(Số đếm) 10"
+          }
+        ]
+      }
+    }
+  ]
+}

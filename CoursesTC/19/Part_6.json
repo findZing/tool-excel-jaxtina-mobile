@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "20c700c4-ee5f-467c-a7c5-60427906a0dc"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "f15aba98-6701-41b3-9410-71033810bea5"
+          },
+          "cauHoi": "What do people who aren’t doctor need to help others?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "5bbd34a3-4884-4c5f-9256-cb0ad8971230"
+              },
+              "dapAn": "A. some basic medical knowledge",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "016d816a-7ed1-46be-b580-ab3548f705b0"
+              },
+              "dapAn": "B. some medicine",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7ae03408-e7c1-4a42-bab5-ec4af3b3bd89"
+              },
+              "dapAn": "C. some bandage",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7295f2c3-7c8c-42d8-bb4a-b7e819a697ff"
+              },
+              "dapAn": "D. some food",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "79b0370d-39ac-4db7-9640-aa6e9e77f295"
+          },
+          "cauHoi": "What is needed to notice when helping someone if they break their arm?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "98080051-768a-4dd7-bc94-b899790cd806"
+              },
+              "dapAn": "A. the skills",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "29565724-29a9-4d6d-b987-833c54a79ce8"
+              },
+              "dapAn": "B. specific medical attention",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e3d7e4a2-5064-4e0d-9fd1-e00cb554bc8e"
+              },
+              "dapAn": "C. their head",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3a91f600-ae51-4b48-a5a1-2f9efd71d588"
+              },
+              "dapAn": "D. their legs",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ce6439b8-bf04-41d8-bfac-570654d494e8"
+          },
+          "cauHoi": "May you help the person having a sprained ankle sit up?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "800dd54b-4c65-48fc-b19c-d8773cf8d44a"
+              },
+              "dapAn": "A. Yes, we can.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bd49936a-18ce-4361-bd6c-7aa8171877fa"
+              },
+              "dapAn": "B. No, we may not.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9018d4b7-57b0-4fbb-af5f-1d1a4b359f79"
+              },
+              "dapAn": "C. Yes, we may.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "dee406c7-05a2-4184-95ee-aa06b56a5c1e"
+              },
+              "dapAn": "D. No, we cannot.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "12152d83-9507-4349-b0d4-51ce3e46fdad"
+          },
+          "cauHoi": "Where is the host?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "119b8219-8f71-415e-abb7-10ca324591ed"
+              },
+              "dapAn": "A. at the school",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "31e8adae-02ec-4c2d-9fe5-86e8713ba7fa"
+              },
+              "dapAn": "B. at the hospital",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f5ec335b-2add-4b13-85d8-a90055a0ea4d"
+              },
+              "dapAn": "C. at the clinic",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "78adb848-d3d5-49d4-91ea-e28fea280825"
+              },
+              "dapAn": "D. at the studio",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Hi, everyone. Today we're at the clinic of Dr. Mark Li. Dr. Li, is it possible for people who aren't doctors to help others?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Dr.Li:</b></td>\n                        <td>It's important for people to have some basic medical knowledge. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Do you mean helping someone if they break their arm? </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Dr.Li:</b></td>\n                        <td>If someone breaks their arm, they need specific medical attention. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>I see. How about an injury like a sprained ankle?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Dr.Li:</b></td>\n                        <td>You might help the person sit up, and if that was OK, you'd help them stand.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What do people who aren't doctor need to help others?</b> <i>(Những người không phải là bác sĩ cần gì để giúp đỡ người khác?),</i> <b></b>câu trong bài đọc liên quan là <b>It's important for people to have some basic medical knowledge.</b> <i>(Điều quan trọng là mọi người phải có một số kiến thức y tế cơ bản.).</i> Nên đáp áp là <b><span style=\"color:red\">A. some basic medical knowledge</span> </b><i>(một số kiến thức y tế cơ bản)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>What is needed to notice when helping someone if they break their arm?</b> <i>(Khi giúp đỡ người bị gãy tay cần chú ý điều gì?),</i> <b></b>câu trong bài đọc liên quan là <b>If someone breaks their arm, they need specific medical attention.</b>  <i>(</i><i>Nếu ai đó bị gãy tay, họ cần được chăm sóc y tế cụ thể.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">B. specific medical attention</span> </b><i>(</i><i>chăm sóc y tế cụ thể</i><i>)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>May you help the person having a sprained ankle sit up?</b> <i>(Bạn có thể đỡ người bị bong gân cổ chân ngồi dậy được không?),</i> <b></b>câu trong bài đọc liên quan là <b>You might help the person sit up, and if that was OK, you'd help them stand.</b> <i>(</i><i>Bạn có thể giúp người đó ngồi dậy và nếu điều đó ổn, bạn có thể giúp họ đứng dậy.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">C. Yes, we may.</span> </b><i>(Có.)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>Where is the host?</b> <i>(Người dẫn chương trình dang ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>Hi, everyone. Today we're at the clinic of Dr. Mark Li.</b> <i>(</i>Chào mọi người. Hôm nay, chúng ta đang ở phòng khám của bác sĩ Mark Li<i>).</i> Nên đáp áp là <b><span style=\"color:red\">C. at the clinic.</span> </b><i>(ở phòng khám.)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "bd510424-1291-4438-b732-2c5d79aa0fd0"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "19c50656-be01-4f6d-9a5e-143fbd07a15a"
+          },
+          "cauHoi": "What is the first step to help if someone has a cut?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f01b0d6e-1a81-4907-9d6c-a5993c388c24"
+              },
+              "dapAn": "A. drying the cut",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d1931b87-4231-4a99-80f0-77ef72d9e52d"
+              },
+              "dapAn": "B. touching to the cut",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "49610c9a-ed7b-475e-8b54-6cf5f1b7c025"
+              },
+              "dapAn": "C. washing the hands",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "47a1e3a3-cd63-4875-95cb-cdf8a532db12"
+              },
+              "dapAn": "D. calling doctor",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "5fb5c0ec-00bd-4728-bb11-5e9671ea6692"
+          },
+          "cauHoi": "Why do we need to do that?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d6583e39-1ea3-4d71-8f54-1cdcf0d374a0"
+              },
+              "dapAn": "A. This will reduce pain.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "811cd610-c566-4266-b868-0d5c19299c4a"
+              },
+              "dapAn": "B. It will reduce the chances of being sleepy.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "58cd7ab6-5842-4476-8044-fea6d014d876"
+              },
+              "dapAn": "C. This is easy to do.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7775dc62-6c35-432c-b1d2-2c52e81ed03c"
+              },
+              "dapAn": "D. This will reduce the chances of infection.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "8745b8ac-b512-4ba3-acf2-c073f7e054dc"
+          },
+          "cauHoi": "Can we put a clean bandage on the cut without drying it?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6e02f436-5a64-415f-81a4-f6ae5d91b02b"
+              },
+              "dapAn": "A. No, we can’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "876a0dd9-98bf-44cd-8c2d-a7ab297958b6"
+              },
+              "dapAn": "B. No, we can.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d03ef7f1-ec50-4317-8fd2-a05b0daf3fb9"
+              },
+              "dapAn": "C. Yes, we can’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7d82e589-c86b-4185-a1fd-47c0bd1f3bb5"
+              },
+              "dapAn": "D. Yes, we can.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "13204e8a-743c-42a5-8e47-bd812a4e3c63"
+          },
+          "cauHoi": "Who needs to drink lots of liquids, and stay in bed and rest?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "822d339c-ada8-47f3-9af3-8426bef59fc6"
+              },
+              "dapAn": "A. person having a cut",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cbe4450d-f34c-4343-b351-bbfedabf3303"
+              },
+              "dapAn": "B. person having a fever",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "1897e823-c30b-4f6a-8c1d-8f6961e584c3"
+              },
+              "dapAn": "C. person having a headache",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9e4e21a1-5747-4dfb-8dc7-1cb1888bb7a1"
+              },
+              "dapAn": "D. person having a stomachache",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>What can you do to help if someone has a cut?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Dr.Li:</b></td>\n                        <td>The first thing to do is washing your hands. This will reduce the chances of infection.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Then we can put a clean bandage on the cut, right?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Dr.Li:</b></td>\n                        <td>You need to wash the cut with soap and water and then dry it before doing that.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>What should we do if someone has a fever?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Dr.Li:</b></td>\n                        <td>They need to drink lots of liquids. They should also stay in bed and rest.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What is the first step to help if someone has a cut?</b> <i>(Bước đầu tiên để sơ cứu nếu ai đó bị đứt tay là gì?),</i> <b></b>câu trong bài đọc liên quan là <b>The first thing to do is washing your hands.</b> <i>(</i><i>Điều đầu tiên cần làm là rửa tay.</i><i>).</i>Nên đáp áp là <b><span style=\"color:red\">C. washing the hands</span> </b><i>(</i><i>rửa tay</i><i>)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>Why do we need to do that?</b> <i>(Tại sao chúng ta cần phải làm như vậy?),</i> <b></b>câu trong bài đọc liên quan là <b>This will reduce the chances of infection.</b> <i>(</i><i>Điều này sẽ làm giảm nguy cơ nhiễm trùng.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">D. This will reduce the chances of infection.</span> </b><i>(</i><i>Điều này sẽ làm giảm nguy cơ nhiễm trùng.</i><i>)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>Can we put a clean bandage on the cut without drying it?</b> <i>(Chúng ta có thể băng sạch vết cắt mà không làm khô vết thương được không?),</i> <b></b>câu trong bài đọc liên quan là <b>You need to wash the cut with soap and water and then dry it before doing that.</b> <i>(</i><i>Bạn cần rửa vết cắt bằng xà phòng và nước, sau đó lau khô trước khi thực hiện băng bó.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">A. No, we can't.</span> </b><i>(Không thể.)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>Who needs to drink lots of liquids, and stay in bed and rest?</b> <i>(Ai cần uống nhiều nước, nằm trên giường và nghỉ ngơi?),</i> <b></b>câu trong bài đọc liên quan là <b>Host:</b> <b>So what should we do if someone has a fever? / Dr. Li: They need to drink lots of liquids. They should also stay in bed and rest.</b> <i>(Người dẫn chương trình:</i> <i>Vậy chúng ta nên làm gì nếu ai đó bị sốt? / Bác sĩ Li: Họ cần uống nhiều chất lỏng. Họ cũng nên nằm trên giường và nghỉ ngơi.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">B. person having a fever</span> </b><i>(người bị sốt)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7bedc975-9d2e-4573-a229-7a036b85ba81"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "245c515c-3de2-4b5c-bbbf-d5ee36b309fb"
+          },
+          "cauHoi": "Are there many countries facing serious public health problems?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "662b2dcf-f68f-4e49-b716-6d0fefdc9e77"
+              },
+              "dapAn": "A. Yes, there are.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3e115960-9d96-471b-bc5e-d13f3d6cd0d7"
+              },
+              "dapAn": "B. Yes, there isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ded77153-d8cc-4452-988a-f8c6fabdd986"
+              },
+              "dapAn": "C. No, there isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "65e6aa73-5a24-41e4-b24f-ec27e19727f3"
+              },
+              "dapAn": "D. No, there is",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "dbdb867f-27b6-4826-b7cc-9e4f7a8b4e6d"
+          },
+          "cauHoi": "How many people are obese according to the Organization for Economic Co-operation and Development?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6924bb8a-2da6-4dcc-a808-4c2541727333"
+              },
+              "dapAn": "A. one in two adults and nearly two in six children in the countries",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cbd16f40-6c41-4b3d-ad71-e63ecc105d7f"
+              },
+              "dapAn": "B. one in two adults and nearly one in two children in the countries",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9494bc49-3019-4ed7-9d60-48a0ffe0d30c"
+              },
+              "dapAn": "C. one in two adults and nearly one in six children in the countries",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b84b1040-a1ff-4da2-90b2-d587ddf44654"
+              },
+              "dapAn": "D. one in three adults and nearly one in six children in the countries",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "d9ebdc3e-6f0e-46f9-a108-efed82e46b6d"
+          },
+          "cauHoi": "What is the effect of the public health problem?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "815978b0-1753-43ef-9b2c-92833a4330ec"
+              },
+              "dapAn": "A. putting pressure on hospital",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "86407d59-a019-4341-8f37-9eb3cd3708c7"
+              },
+              "dapAn": "B. putting pressure on health services",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "1ac6af5e-1170-48fb-99f3-283d586c2ab4"
+              },
+              "dapAn": "C. putting pressure on seller services",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8fef79da-d1e9-419c-ab33-c7180a6def74"
+              },
+              "dapAn": "D. putting pressure on food services",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "af5daa82-81e0-4253-aace-3c2838f33ff5"
+          },
+          "cauHoi": "Who are looking at ways of improving public health?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "349a8f79-6fb3-4a00-921c-fdfaddfd2630"
+              },
+              "dapAn": "A. some countries",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "60627532-6033-4127-9ec8-b54201f04242"
+              },
+              "dapAn": "B. two countries",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8f6e0382-b9c6-4027-9fd1-4249a60dac66"
+              },
+              "dapAn": "C. a lot of countries",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0c1c929b-693b-4e04-b703-fe5206dacaff"
+              },
+              "dapAn": "D. three countries",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Many countries face serious public health problems. One example is obesity. According to the Organization for Economic Co-operation and Development, one in two adults and nearly one in six children in its member countries are overweight or obese. That puts pressure on health services. Some countries are looking at ways of improving public health.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Are there many countries facing serious public health problems?</b> <i>(Có nhiều các quốc gia đang đối mặt với các vấn đề sức khỏe cộng đồng nghiêm trọng phải không?),</i> <b></b>câu trong bài đọc liên quan là <b>Many countries face serious public health problems.</b> <i>(Nhiều quốc gia phải đối mặt với những vấn đề sức khỏe cộng đồng nghiêm trọng.).</i> Nên đáp áp là <b><span style=\"color:red\">A. Yes, there are.</span> </b><i>(Có.)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>How many people are obese according to the Organization for Economic Co-operation and Development?</b> <i>(Theo Tổ chức Hợp tác và Phát triển Kinh tế, có bao nhiêu người bị béo phì?),</i> <b></b>câu trong bài đọc liên quan là <b>According to the Organization for Economic Co-operation and Development, one in two adults and nearly one in six children in its member countries are overweight or obese.</b> <i>(Theo Tổ chức Hợp tác và Phát triển Kinh tế, cứ hai người lớn thì có một người và gần một phần sáu trẻ em ở các quốc gia thành viên bị thừa cân hoặc béo phì.).</i> Nên đáp áp là <b><span style=\"color:red\">C. one in two adults and nearly one in six children in the countries</span> </b><i>(hai người lớn thì có một người và gần một phần sáu trẻ em ở các quốc gia)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>What is the effect of the public health problem?</b> <i>(Ảnh hưởng của vấn đề sức khỏe cộng đồng là gì?),</i> <b></b>câu trong bài đọc liên quan là <b>That puts pressure on health services.</b> <i>(Điều đó gây áp lực lên các dịch vụ y tế.).</i> Nên đáp áp là <b><span style=\"color:red\">B. putting pressure on health services</span> </b><i>(Điều đó gây áp lực lên các dịch vụ y tế.)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>Who are looking at ways of improving public health?</b> <i>(Ai đang tìm cách cải thiện sức khỏe cộng đồng?),</i> <b></b>câu trong bài đọc liên quan là <b>Some countries are looking at ways of improving public health.</b> <i>(Một số quốc gia đang tìm cách cải thiện sức khỏe cộng đồng.).</i> Nên đáp áp là <b><span style=\"color:red\">A. some countries</span> </b><i>(một số quốc gia)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "79f78407-c7ac-4119-96bb-329070da3bdb"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "319695cc-e56e-48f3-81fb-fd9ea65cfbb1"
+          },
+          "cauHoi": "Is encouraging people to eat better the best way?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "aaebf231-83c1-4291-a4be-c6b90d728d10"
+              },
+              "dapAn": "A. Yes, it is.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "bc2fd0d2-a5b6-41d2-ba76-3b775bdb089a"
+              },
+              "dapAn": "B. Yes, it was.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9d4beb77-d36f-4672-afea-ee4c3a6ce041"
+              },
+              "dapAn": "C. Yes, it isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "04e807ca-2cea-4270-872d-bb494e45b868"
+              },
+              "dapAn": "D. No, it is.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "76b114e0-6018-43b5-85ef-c129a30ff3f7"
+          },
+          "cauHoi": "Where do they have five-a-day campaigns?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ae73be0b-e930-4980-85d0-238b6b7973e7"
+              },
+              "dapAn": "A. the United States",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "94ec303b-5da1-44fb-baae-58e4d0c1047d"
+              },
+              "dapAn": "B. the United Kingdom",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2db2aea2-f175-463a-b2c6-e1ee13f25178"
+              },
+              "dapAn": "C. Korea",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "95ef3063-8680-477a-b979-a006931e5821"
+              },
+              "dapAn": "D. A&B",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "4eb43e35-f14f-446a-9b9f-9b95e824dfa8"
+          },
+          "cauHoi": "What do many countries have laws about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "5cca0eda-da63-4bbf-b1ff-91d37e603a94"
+              },
+              "dapAn": "A. labels on foot",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9744361b-d4ab-4b7e-bf48-456905cc4221"
+              },
+              "dapAn": "B. labels on food",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "0a8afbdc-9979-4bc0-9c6c-336180dd808b"
+              },
+              "dapAn": "C. labels on snack",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "34012cb7-bab5-4f07-947d-cc42631225a0"
+              },
+              "dapAn": "D. labels on milk",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "1f25c269-8932-4a0b-a979-7e60dfc75cd0"
+          },
+          "cauHoi": "Does the protein amount have to be shown on the labels of food?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b728f557-10f0-49ca-9081-b4274637859a"
+              },
+              "dapAn": "A. Yes, it did.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "be1380c1-ab93-4777-8ebb-19b61e76cd18"
+              },
+              "dapAn": "B. No, it does.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cf2e714b-462f-4c4d-9182-640e977ea59d"
+              },
+              "dapAn": "C. Yes, it does.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "c49bf826-81e7-4643-91ac-4380b516dfe6"
+              },
+              "dapAn": "D. No, it doesn’t.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "The best way to improve people’s health is to encourage them to eat better. Some countries, such as the United States and the United Kingdom, have five-a-day campaigns. They tell people that they should eat five portions of fruit or vegetables each day. Many countries have laws about labels on food. Producers have to show the amount of fat, protein, and carbohydrates in each food.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Is encouraging people to eat better the best way?</b> <i>(Khuyến khích mọi người ăn uống tốt hơn có phải là cách tốt nhất không?),</i> <b></b>câu trong bài đọc liên quan là <b>The best way to improve people's health</b> <b>is to encourage them to eat better.</b> <i>(Cách tốt nhất để cải thiện sức khỏe của mọi người là khuyến khích họ ăn uống tốt hơn.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. Yes, it is.</b></span> <i>(Đúng vậy.)</i>.<br />\r\n<b>2.</b> Với câu hỏi <b>Where do they have five-a-day campaigns?</b> <i>(Họ có các chiến dịch năm ngày một lần ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>Some countries, such as the United States and the United Kingdom, have five-a-day campaigns.</b> <i>(Một số quốc gia, chẳng hạn như Hoa Kỳ và Vương quốc Anh, có các chiến dịch năm ngày một lần.).</i> Nên đáp áp là <span style=\"color:red\"><b>D. A&B</b></span>.<br />\r\n<b>3.</b> Với câu hỏi <b>What do many countries have laws about?</b> <i>(Nhiều quốc gia có luật về điều gì?),</i> <b></b>câu trong bài đọc liên quan là <b>Many countries have laws about labels on food.</b> <i>(Nhiều quốc gia có luật về ghi nhãn thực phẩm.).</i> Nên đáp áp là <span style=\"color:red\"><b>B. labels on food</b></span> <i>(nhãn thực phẩm)</i>.<br />\r\n<b>4.</b> Với câu hỏi <b>Does the protein amount have to be shown on the labels of food?</b> <i>(Có phải ghi hàm lượng chất đạm trên nhãn thực phẩm không?),</i> <b></b>câu trong bài đọc liên quan là <b>Producers have to show the amount of fat, protein, and carbohydrates in each food.</b> <i>(Nhà sản xuất phải chỉ ra lượng chất béo, chất đạm, và Cacbon Hidrat trong mỗi loại thực phẩm.).</i> Nên đáp áp là <span style=\"color:red\"><b>C. Yes, it does.</b></span> <i>(Có.)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "32210ab2-ddf9-4bd8-9e64-61063435b578"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "c2fd1a8a-5e0e-4a11-a00b-f5e3c1a77ef5"
+          },
+          "cauHoi": "What color refers to the food has a small amount of fat, sugar, and salt?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "064da3e3-f268-464a-b5c5-5dfd2f180131"
+              },
+              "dapAn": "A. blue",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4ac4e604-193f-4bd8-864e-49c74ff30898"
+              },
+              "dapAn": "B. green",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "206697ed-94dc-45af-a548-9ff2a75bc8d3"
+              },
+              "dapAn": "C. black",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a4a7f984-6cc8-4e70-8d67-6007a17b4027"
+              },
+              "dapAn": "D. white",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "a20e60e7-d01f-4330-8409-f6084f5e59dc"
+          },
+          "cauHoi": "What amount of fat, sugar, and salt does the food which has yellow labels have?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "623b6a7f-a655-4c7f-bb16-48e5be7fe2c5"
+              },
+              "dapAn": "A. medium",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e77a747b-dea3-4867-89cd-8b4c4cbe9a7f"
+              },
+              "dapAn": "B. small",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "59e16708-9325-4183-a323-55f00f3bb7d5"
+              },
+              "dapAn": "C. high",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "60313e63-631e-4400-a40c-5a1ec899f63e"
+              },
+              "dapAn": "D. very high",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "cf1863e0-e0b0-49fd-ac3d-56a94b91dd5f"
+          },
+          "cauHoi": "Does the food which has red labels have high amount of sugar?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d2cf765c-2e43-487e-ab9a-2538a67758f1"
+              },
+              "dapAn": "A. Yes, it does.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "dc0c1240-4286-4ce5-bd0f-21f79304a5ca"
+              },
+              "dapAn": "B. No, it doesn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "46cedefd-1194-40b5-b503-0ff41e67b0f5"
+              },
+              "dapAn": "C. No, it does.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "99dcdef7-8f8f-4e26-b75b-499566d9a8d1"
+              },
+              "dapAn": "D. Yes, it doesn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "05096cc1-1f32-4588-ba47-5865586f2c3d"
+          },
+          "cauHoi": "Are the labels useful?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d289e656-1a1c-4de9-a0fb-79907722f1cc"
+              },
+              "dapAn": "A. No, they are.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5b2e1294-143f-44db-a34d-277c8bcccea1"
+              },
+              "dapAn": "B. Yes, they aren’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a489850e-54eb-4d39-b83b-2875c30c6d3f"
+              },
+              "dapAn": "C. Yes, they are.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b89167cc-70db-4952-b7f9-cd80531eaeb3"
+              },
+              "dapAn": "D. No, they aren’t.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Some countries have a “traffic light” food system. Green means the food has a small amount of fat, sugar, and salt. Yellow means the food has a medium amount. Red means there’s a high amount of fat, sugar, or salt. The labels help people make better choices.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What color refers to the food has a small amount of fat, sugar, and salt?</b> <i>(Màu gì dùng để chỉ thức ăn có ít chất béo, đường, muối?),</i> <b></b>câu trong bài đọc liên quan là <b>Green means the food has a small amount of fat, sugar, and salt.</b> <i>(Màu xanh lá cây có nghĩa là thực phẩm có một lượng nhỏ chất béo, đường và muối.).</i> Nên đáp áp là <b><span style=\"color:red\">B. green</span> </b><i>(xanh lá cây)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>What amount of fat, sugar, and salt does the food which has yellow labels have?</b> <i>(Thực phẩm dán nhãn vàng chứa bao nhiêu chất béo, đường, muối?),</i> <b></b>câu trong bài đọc liên quan là <b>Yellow means the food has a medium amount.</b> <i>(Màu vàng có nghĩa là thức ăn có lượng vừa phải.).</i> Nên đáp áp là <b><span style=\"color:red\">A. medium</span> </b><i>(vừa phải)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>Does the food which has red labels have high amount of sugar?</b> <i>(Thực phẩm dán nhãn đỏ có nhiều đường không?),</i> <b></b>câu trong bài đọc liên quan là <b>Red means there's a high amount of fat, sugar, or salt.</b> <i>(Màu đỏ dùng để chỉ đồ có nhiều chất béo, đường, hoặc muối.).</i> Nên đáp áp là <b><span style=\"color:red\">A. Yes, it does.</span> </b><i>(Có.)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>Are the labels useful?</b> <i>(Các nhãn có hữu ích không?),</i> <b></b>câu trong bài đọc liên quan là <b>The labels help people make better choices.</b> <i>(Nhãn giúp mọi người đưa ra lựa chọn tốt hơn.).</i> Nên đáp áp là <b><span style=\"color:red\">C. Yes, they are.</span> </b><i>(Có.)</i>.",
+      "danhSachDapAn": []
+    }
+  ]
+}

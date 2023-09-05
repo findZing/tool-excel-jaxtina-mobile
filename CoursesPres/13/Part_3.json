@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "918ca328-7713-420f-a860-6cfe1c56844d"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Park",
+      "yNghia": "Công viên",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "04fd7b2b-776e-47f0-86c9-99aa182e7527"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "ATM",
+      "yNghia": "Máy ATM",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c1da431f-4d7c-4616-8ad5-e6dbe2808b0a"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Hotel",
+      "yNghia": "Khách sạn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1ece5044-a872-42b4-9f08-605633c24238"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Museum",
+      "yNghia": "Bảo tàng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9816bb5c-b93b-4920-ab2f-e6bf0b17e8f2"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Hospital",
+      "yNghia": "Bệnh viện",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2c7300e4-9c57-4743-b1af-96ac91148682"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "University",
+      "yNghia": "Đại học",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "00250954-2c44-4220-8b25-b345d7fce422"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Bookstore",
+      "yNghia": "Hiệu sách",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "62b2ac66-7d30-44c4-8667-14ec55f02b9b"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Restaurant",
+      "yNghia": "Nhà hàng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7c69cca4-aa43-4d94-a94a-25653d4ab9e2"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Bus station",
+      "yNghia": "Bến xe buýt",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8eaccf60-beb0-49ff-9189-8528a8095aca"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Coffee shop",
+      "yNghia": "Quán cà phê",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e3fdbae9-4770-49f7-8c32-7e07b64d4c94"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Buy a book",
+      "yNghia": "Mua quyển sách",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "43d70a2d-b405-498f-8162-5092b91d9903"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Buy a drink",
+      "yNghia": "Mua đồ uống",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "62e8bab6-f3af-4b0b-93eb-7a324a847639"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Eat dinner",
+      "yNghia": "Ăn tối",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5c3a40a3-7539-4674-931d-66d670570247"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Get a bus",
+      "yNghia": "Đi xe buýt",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b4f1059e-0853-4e74-9f41-cf6a0a9476fa"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Get a degree",
+      "yNghia": "Nhận bằng/chứng chỉ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0a163402-388e-413a-8f9b-8dcae3291e15"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Get help",
+      "yNghia": "Nhận giúp đỡ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "667d74f1-cbda-4346-8ab1-59ce809b628f"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Get money",
+      "yNghia": "Nhận tiền",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "aed5a70b-57ba-48cf-9619-1584fbe947a7"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Go for a walk",
+      "yNghia": "Đi bộ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b51f361b-bcc6-49b7-acb4-e9fe85d9c992"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Learn about the past",
+      "yNghia": "Tìm hiểu về quá khứ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "559b794b-cb5f-4d2c-a238-9f8d3e3103f2"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Stay on vacation",
+      "yNghia": "Ở trong kì nghỉ",
+      "danhSachDapAn": []
+    }
+  ]
+}

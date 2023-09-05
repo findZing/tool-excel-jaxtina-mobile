@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "1cd61c9a-cfd9-42d8-bb48-c2a72b3b1043"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Teacher:</b></td>\n                        <td>What do you think about living on Mars?</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Student:</b></td>                        <td>Travelling to Mars is hard, <b>(1) </b>____ Mars is even harder!</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Teacher:</b></td>                        <td>Why do you think that?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Student:</b></td>\n                        <td>First, there are serious <b>(2) </b>____ issues. </td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Teacher:</b></td>                        <td>Can you tell me more?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Student:</b></td>\n                        <td><b>(3) </b>____ on the International Space Station get 10 times more <b>(4) </b>____ than on Earth.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Teacher:</b></td>\n                        <td>What do you think about living on Mars?<br />\n                        <i>Em nghĩ gì về việc sống trên sao Hỏa?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Student:</b></td>\n                        <td>Travelling to Mars is hard, <b>(1) </b><span style=\"color:red\"><b>living</b></span> <span style=\"color:red\"> </span> <span style=\"color:red\"><b>on</b></span>  Mars is even harder!<br />\n                        <i>Du hành lên sao Hỏa đã khó, </i><span style=\"color:red\"><i>sống trên </i></span> <i>sao Hỏa còn khó hơn ạ!</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Teacher:</b></td>\n                        <td>Why do you think that?<br />\n                        <i>Tại sao em nghĩ thế?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Student:</b></td>\n                        <td>First, there are serious <b>(2) </b><span style=\"color:red\"><b>environmental</b></span> <span style=\"color:red\"> </span> issues. <br />\n                        <i>Đầu tiên, có những vấn đề nghiêm trọng về </i><span style=\"color:red\"><i>môi trường </i></span> <i>ạ.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Teacher:</b></td>\n                        <td>Can you tell me more?<br />\n                        <i>Em có thể nói cho tôi biết thêm không?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Student:</b></td>\n                        <td><b>(3) </b><span style=\"color:red\"><b>Astronauts</b></span> <span style=\"color:red\"> </span> on the International Space Station get 10 times more <b>(4) </b><span style=\"color:red\"><b>radiation</b></span> <span style=\"color:red\"> </span> than on Earth.<br />\n                        <span style=\"color:red\"><i>Các phi hành gia </i></span> <i>trên Trạm vũ trụ quốc tế hấp thụ </i><span style=\"color:red\"><i>mức bức xạ </i></span> <i>gấp 10 lần so với ở trên Trái đất.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "living on ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8842e446-41ee-4db1-ad96-b741289f3241"
+          }
+        },
+        {
+          "dapAn": "environmental ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "676fe07e-5c5d-4b59-bf8e-9851cd89fa78"
+          }
+        },
+        {
+          "dapAn": "Astronauts",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c090b85b-9741-4922-882f-29ca0e710ebe"
+          }
+        },
+        {
+          "dapAn": "radation",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c0277dc4-9a88-4497-913d-f592933a181c"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "337f5ef8-e973-4851-8c6b-737060be99b6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Teacher:</b></td>\n                        <td>What about the second problem when living on Mars?</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Student:</b></td>                        <td>It is the effect of <b>(1) </b>____ on the human body.</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Teacher:</b></td>                        <td>People's bones and muscles become <b>(2) </b>____ if they are in low gravity for a long time.</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Student:</b></td>                        <td>It is <b>(3) </b>____ to use weights and do <b>(4) </b>____ to prevent this.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Teacher:</b></td>\n                        <td>What about the second problem when living on Mars?<br />\n                        <i>Còn vấn đề thứ hai khi sống trên sao Hỏa thì sao?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Student:</b></td>\n                        <td>It is the effect of <b>(1) </b><span style=\"color:red\"><b>low gravity</b></span> <span style=\"color:red\"> </span> on the human body.<br />\n                        <i>Đó là ảnh hưởng của </i><span style=\"color:red\"><i>trọng lực thấp </i></span> <i>lên cơ thể con người.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Teacher:</b></td>\n                        <td>People's bones and muscles become <b>(2) </b><span style=\"color:red\"><b>weaker</b></span> <span style=\"color:red\"> </span> if they are in low gravity for a long time.<br />\n                        <i>Xương và cơ bắp của con người trở nên </i><span style=\"color:red\"><i>yếu hơn </i></span> <i>nếu họ ở trong tình trạng không trọng lực trong một thời gian dài.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Student:</b></td>\n                        <td>It is <b>(3)</b> <span style=\"color:red\"><b>necessary</b></span> <span style=\"color:red\"> </span> to use weights and do <b>(4) </b><span style=\"color:red\"><b>heavy exercise</b></span> <span style=\"color:red\"> </span> to prevent this.<br />\n                        <span style=\"color:red\"><i>Cần </i></span> <i>sử dụng tạ và tập </i><span style=\"color:red\"><i>thể dục nặng </i></span> <i>để ngăn chặn điều này.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "low gravity",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "02421ec1-9c6a-4f3d-a0d7-5b07021f0db5"
+          }
+        },
+        {
+          "dapAn": "weaker",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "121acc21-9dd6-4d14-ae7c-59d3c2170725"
+          }
+        },
+        {
+          "dapAn": "necessary",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "4e2bb3f7-71bc-4ab8-9f0a-60a80c85495b"
+          }
+        },
+        {
+          "dapAn": "heavy exercise",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "35e623f5-f8b6-4b58-98ec-42e78263393b"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5263b741-7b4c-425e-bc9a-396d3dfc3739"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Ellen Ochoa, born in Los Angeles, California, in 1958, is the first Hispanic woman <b>(1) </b>____, and her mission in April 1993 made her the first Latina to travel into <b>(2) </b>____. She went on to do three more spaceflights, for a total number of 40 days spent in space. In addition to space travel, Ochoa <b>(3) </b>____ a way to improve <b>(4) </b>____.",
+      "yNghia": "Ellen Ochoa, born in Los Angeles, California, in 1958, is the first Hispanic woman <b>(1) </b><span style=\"color:red\"><b>astronaut</b></span> , and her mission in April 1993 made her the first Latina to travel into <b>(2) </b><span style=\"color:red\"><b>space</b></span> . She went on to do three more spaceflights, for a total number of 40 days spent in space. In addition to space travel, Ochoa <b>(3) </b><span style=\"color:red\"><b>invented</b></span> <span style=\"color:red\"> </span> a way to improve <b>(4) </b><span style=\"color:red\"><b>space exploration</b></span> . <br />\n<i>Ellen Ochoa, sinh ra ở Los Angeles, California, năm 1958, là nữ </i><span style=\"color:red\"><i>phi hành gia </i></span> <i>gốc Tây Ban Nha đầu tiên, và sứ mệnh của cô vào tháng 4 năm 1993 đã khiến cô trở thành người Latinh đầu tiên du hành vào </i><span style=\"color:red\"><i>vũ trụ</i></span> <i>. Cô ấy tiếp tục thực hiện thêm ba chuyến bay vào vũ trụ, tổng cộng là 40 ngày ở trong không gian vũ trụ. Ngoài du hành vũ trụ, Ochoa đã </i><span style=\"color:red\"><i>phát minh ra </i></span> <i>một cách để cải thiện </i><span style=\"color:red\"><i>việc</i></span> <i> </i><span style=\"color:red\"><i>khám phá không gian vũ trụ</i></span> <i>.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "astronauts",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "3d43e632-7196-4f93-91a6-09032bd61c59"
+          }
+        },
+        {
+          "dapAn": "space",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "20168990-0622-491b-a249-73a956315611"
+          }
+        },
+        {
+          "dapAn": "invented",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "22f53938-ac0b-4c13-b884-0cdde2854eff"
+          }
+        },
+        {
+          "dapAn": "space exploration",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "7198e3d3-dd2e-4413-9291-9f0da112852a"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4524a85a-45ae-4cf2-ad8f-9c4d53948ede"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Finlay, born in Cuba in 1833, did research into <b>(1) </b>____, those insects we all know and don't love for their annoying, itchy bites. He <b>(2) </b>____ that they carry the deadly disease yellow fever. Before his discovery, people had no idea where it came from. As a result of his work, communities began <b>(3) </b>____ mosquitos in order to stop the spread of the <b>(4) </b>____.",
+      "yNghia": "Finlay, born in Cuba in 1833, did research into <b>(1)</b> <span style=\"color:red\"><b>mosquitos</b></span> , those insects we all know and don't love for their annoying, itchy bites. He <b>(2) </b><span style=\"color:red\"><b>discovered</b></span> <span style=\"color:red\"> </span> that they carry the deadly disease yellow fever. Before his discovery, people had no idea where it came from. As a result of his work, communities began <b>(3)</b> <span style=\"color:red\"><b>killing off</b></span> <span style=\"color:red\"> </span> mosquitos in order to stop the spread of the <b>(4) </b><span style=\"color:red\"><b>disease</b></span> . <br />\n<i>Ông Finlay, sinh ra ở Cuba vào năm 1833. Ông đã nghiên cứu về </i><span style=\"color:red\"><i>muỗi</i></span> <i>, loài côn trùng mà tất cả chúng ta đều biết và không thích vì những vết cắn ngứa ngáy khó chịu của chúng. Ông </i><span style=\"color:red\"><i>phát hiện ra </i></span> <i>rằng chúng mang căn bệnh sốt vàng da chết người. Trước khi phát hiện ra, mọi người không biết nó đến từ đâu. Nhờ nghiên cứu của anh ấy, cộng đồng bắt đầu </i><span style=\"color:red\"><i>tiêu diệt </i></span> <i>muỗi để ngăn chặn sự lây lan của </i><span style=\"color:red\"><i>dịch bệnh</i></span> <i>.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "mosquitos",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6899ad06-3845-4185-a400-500907baafd3"
+          }
+        },
+        {
+          "dapAn": "discovered ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "97e5e0c2-ebbc-4fbd-86ce-08327c10c303"
+          }
+        },
+        {
+          "dapAn": "killing off ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "213f947e-3af4-4b51-bb6e-01ac9e9992e0"
+          }
+        },
+        {
+          "dapAn": "disease",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "26038b2c-f379-46fa-a123-301f0cd7d575"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "dfbeeb5e-3d20-4422-8d3f-19c9b9a8f8b5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Guillermo Gonzalez Camarena was an inventor of a type of <b>(1) </b>____, which he invented when he was only 17 years old. While he was not the inventor of the color television, his <b>(2) </b>____ television sold particularly well. It took him some years to get his television on the market, and he <b>(3) </b>____ his first set <b>(4) </b>____ for about $1,450.",
+      "yNghia": "Guillermo Gonzalez Camarena was an inventor of a type of <b>(1) </b><span style=\"color:red\"><b>color television</b></span> , which he invented when he was only 17 years old. While he was not the inventor of the color television, his <b>(2) </b><span style=\"color:red\"><b>type</b></span> <span style=\"color:red\"> </span> <span style=\"color:red\"><b>of</b></span> <span style=\"color:red\"> </span> television sold particularly well. It took him some years to get his television on the market, and he <b>(3) </b><span style=\"color:red\"><b>sold</b></span> <span style=\"color:red\"> </span> his first set <b>(4)</b> <span style=\"color:red\"><b>in 1954</b></span> <span style=\"color:red\"> </span> for about $1,450. <br />\n<i>Guillermo Gonzalez Camarena là nhà phát minh ra một loại </i><span style=\"color:red\"><i>ti vi màu </i></span> <i>của riêng ông khi ông mới 17 tuổi. Mặc dù ông không phải là người đầu tiên phát minh ra ti vi màu nhưng </i><span style=\"color:red\"><i>loại </i></span> <i>ti vi do ông phát minh ra đã bán rất chạy. Ông ấy đã phải mất đến vài năm để đưa chiếc ti vi của mình ra thị trường và ông </i><span style=\"color:red\"><i>đã bán </i></span> <i>chiếc ti vi đầu tiên của mình </i><span style=\"color:red\"><i>vào năm 1954 </i></span> <i>với giá khoảng 1.450 đô la.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "color television",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "bbb4d992-264b-480f-be6f-8444001b371e"
+          }
+        },
+        {
+          "dapAn": "type of",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "916d87b1-f121-4757-87b3-ce89f164af23"
+          }
+        },
+        {
+          "dapAn": "sold ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f27f7196-fb96-43df-86f7-368a0cac2aea"
+          }
+        },
+        {
+          "dapAn": "in 1954",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "81237ded-e7b0-4cab-b484-7043115c9af8"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "12c147ac-cfb4-43d5-8dca-ad199ca88841"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "OK. Let’s throw a party. First, the ______________?",
+      "yNghia": "OK. Let's throw a party. First, the <span style=\"color:red\">date</span>?<br />\r\n<i><span style=\"color:#202124\">Được rồi</span></i><i><span style=\"color:#202124\">. Hãy tổ chức một bữa tiệc. Đầu tiên</span></i><i>, ngày </i><i>nào?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8caa0138-1426-4fb1-8881-ff58e03cad2c"
+          },
+          "dapAn": "date",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "54b87b5e-43f1-41c6-a15a-8a08d5c484e8"
+          },
+          "dapAn": "location",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5c7ee5f7-ec85-4a65-afe0-a8207e74710a"
+          },
+          "dapAn": "guest",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_1. OK ... date.mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_1. OK ... date.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9b1289f5-a210-421e-86fb-889a48b9f3eb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Well, the course ends on June 5th, so how about Saturday, ______________?",
+      "yNghia": "Well, the course ends on June 5th, so how about Saturday, <span style=\"color:red\">June 9th</span>?<br />\r\n<i><span style=\"color:#202124\">Chà, khóa học kết thúc vào ngày 5 tháng 6, vậy thứ Bảy, </span></i><i><span style=\"color:red\">ngày 9 tháng 6 </span></i><i><span style=\"color:#202124\">thì sao?</span></i><b><i> </i></b>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8b0e94cb-4d87-42bd-ba1c-2f72033de2e2"
+          },
+          "dapAn": "July 9th",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "34b71631-eef4-456b-8751-196ddf2c2a55"
+          },
+          "dapAn": "June 5th",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d686041b-c92a-42a2-aac4-095bb27e0f70"
+          },
+          "dapAn": "June 9th",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_2. Well ... 9th.mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_2. Well ... 9th.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "8bfc201d-df49-48cd-b204-63b8ef142730"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It’s going to be a ______________ party. Where can we have it?",
+      "yNghia": "It's going to be a <span style=\"color:red\">big </span>party. Where can we have it?<br />\n<i><span style=\"color:#202124\">Đây sẽ là một bữa tiệc </span></i><i><span style=\"color:red\">lớn</span></i><i><span style=\"color:#202124\">. Chúng ta có thể tổ chức nó ở đâu?</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b2603e69-5200-4205-ae3b-688e56e5ecf3"
+          },
+          "dapAn": "big",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4b12f22e-797b-48e6-b1fe-0126061b0e4d"
+          },
+          "dapAn": "small",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9593c8a0-4f59-4ee8-b84f-70367738c76b"
+          },
+          "dapAn": "warm",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_3. It_s ... it.mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_3. It_s ... it.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "784d32d1-206e-4b12-91dc-e976f9d37b47"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "People are thinking about throwing the party in the ______________.",
+      "yNghia": "People are thinking about throwing the party in the <span style=\"color:red\">auditorium</span>.<br />\r\n<i>Mọi người đang suy nghĩ đến việc tổ chức bữa tiệc trong <span style=\"color:red\">khán phòng</span>. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "184ee240-a0ad-48aa-bf01-60b56ac5cb49"
+          },
+          "dapAn": "auditorium",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8d3dd696-ce7e-42e3-97cb-0479cd2cbfc4"
+          },
+          "dapAn": "stadium",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4c9b9d4c-bfbd-4d02-888b-85788adead1d"
+          },
+          "dapAn": "restaurant",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_4. People ... auditorium.mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_4. People ... auditorium.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "43d216ad-cb6e-48a5-801b-35696e48e8d5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The auditorium is in the ______________.",
+      "yNghia": "The auditorium is in the <span style=\"color:red\">institute.</span><br />\r\n<i>Khán phòng ở trong <span style=\"color:red\">viện (học viện).</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8044bc2f-23b5-44af-a16d-5de705c128af"
+          },
+          "dapAn": "institute",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e357e3a6-5d1e-40d7-9fb8-5bc2776ad0d9"
+          },
+          "dapAn": "school",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "81534cc7-1ff2-4974-919c-c032c730eb0e"
+          },
+          "dapAn": "university",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_5. The ... institute.mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_5. The ... institute.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d7e5e9a3-d5da-4504-878c-4ee7d37c7307"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They need to ask the ______________ for permission.",
+      "yNghia": "They need to ask the <span style=\"color:red\">director </span>for permission.<br />\r\n<i>Họ cần phải xin phép<span style=\"color:red\"> giám đốc</span>. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "551f33a2-faf1-4468-b343-47da43afb8f8"
+          },
+          "dapAn": "owner",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "68d4c20b-c8af-4b54-ab87-4aaf4aed5cb5"
+          },
+          "dapAn": "director",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d7f8fc90-e849-4ee0-9efe-d5952c325687"
+          },
+          "dapAn": "manager",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_6. They ... permission..mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_6. They ... permission..mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e698b3e9-afff-4552-a53b-d533bb9fdf79"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’ll bring the music. I can make playlists, along with my big ______________.",
+      "yNghia": "I'll bring the music. I can make playlists, along with my big <span style=\"color:red\">speaker</span>.<br />\r\n<i><span style=\"color:#202124\">Tôi sẽ </span></i><i><span style=\"color:#202124\">lo phần âm nhạc</span></i><i><span style=\"color:#202124\">. Tôi có thể tạo danh sách phát và tôi sẽ mang theo </span></i><i><span style=\"color:red\">loa </span></i><i><span style=\"color:#202124\">lớn</span></i><i><span style=\"color:#202124\">.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d1ba9121-a6bb-4284-911c-962c52400b96"
+          },
+          "dapAn": "speaker",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d4f4527c-3e90-4e38-87c6-80b3c5916e97"
+          },
+          "dapAn": "mic set",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "519f57f8-41f4-43ac-8f89-ecd219705145"
+          },
+          "dapAn": "CD player",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_7. I’ll ... speaker..mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_7. I’ll ... speaker..mp3"
+    },
+    {
+      "_id": {
+        "$oid": "af344f18-177c-4e65-aa01-df44ad368241"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "______________ food is suggested in the party.",
+      "yNghia": "<span style=\"color:red\">Traditional </span>food is suggested in the party.<br />\r\n<i>Đồ ăn</i><i> <span style=\"color:red\">truyền thống </span>được gợi ý trong bữa tiệc. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "77896466-a204-418d-bd73-ce9288f545e1"
+          },
+          "dapAn": "Western",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "cb0d4351-9c54-41f9-b613-b5f602aa8a97"
+          },
+          "dapAn": "Japanese",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fd4ed0ad-24f8-4ca7-a12b-d4713a95ad46"
+          },
+          "dapAn": "Traditional",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_8. Traditional ... party..mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_8. Traditional ... party..mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ccba10c9-ceb2-4227-b94f-4938208761c6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Zara is a ______________.",
+      "yNghia": "Zara is a <span style=\"color:red\">designer</span>.<b> </b><br />\r\n<i>Zara là một <span style=\"color:red\">nhà thiết kế. </span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c6698931-e27c-484f-bc73-a140386484c5"
+          },
+          "dapAn": "designer",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "07b6bbb4-1a18-4792-8246-ce58a8379f67"
+          },
+          "dapAn": "songwriter",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "aee9c6ca-c70b-4150-a2cc-43564ab13b25"
+          },
+          "dapAn": "painter",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_9. Zara ...designer..mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_9. Zara ...designer..mp3"
+    },
+    {
+      "_id": {
+        "$oid": "fc1501ef-7e54-4ee8-83f4-a2355b9b8851"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Now, do we have the ______________ of people who will attend the party?",
+      "yNghia": "Now, do we have the <span style=\"color:red\">number </span>of people who will attend the party?<br />\r\n<i><span style=\"color:#202124\">Bây giờ, chúng ta có </span></i><i><span style=\"color:red\">số lượng </span></i><i><span style=\"color:#202124\">người sẽ tham gia bữa tiệc không?</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6c727501-e812-4f2a-9a60-fb6cef024e33"
+          },
+          "dapAn": "address",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "dd549083-f5e0-4f0e-b6db-1ca8085a1705"
+          },
+          "dapAn": "information",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "45208fe0-c753-4b31-841a-3e55018ae539"
+          },
+          "dapAn": "number",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_10. Now ... party.mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_10. Now ... party.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f7d5faec-8cb7-4b96-b631-60fd98349ab1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I have the information here. This is the list of people who ______________.",
+      "yNghia": "I have the information here. This is the list of people who <span style=\"color:red\">registered</span>. <br />\n<i><span style=\"color:#202124\">Tôi có thông tin ở đây. Đây là danh sách những người </span></i><i><span style=\"color:red\">đã đăng ký</span></i><i><span style=\"color:#202124\">.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "da8c2eca-2449-46ec-90d9-c026717fc89a"
+          },
+          "dapAn": "registered ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0c473b92-eddf-44e9-9e26-069c8c043bde"
+          },
+          "dapAn": "come",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "91f5dd9e-2e35-4ac3-8833-15ce1b7313ff"
+          },
+          "dapAn": "arrive",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_11. I ... registered.mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_11. I ... registered.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2a43a2c3-b0eb-49a1-a15c-73879c33bc2f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Good morning, Ms. Jenkins. Could I talk to you for a ______________?",
+      "yNghia": "Good morning, Ms. Jenkins. Could I talk to you for a <span style=\"color:red\">minute</span>? <br />\r\n<i>Chào buổi sáng, cô Jenkins. Em có thể nói chuyện với cô một </i><i><span style=\"color:red\">chút</span></i><i> </i><i>được không ạ? </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "08591d3d-c453-4add-b20d-3d1a394c1818"
+          },
+          "dapAn": "second",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5946c744-62d8-4f14-a229-7179f9791af0"
+          },
+          "dapAn": "moment",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "44128ee7-8f12-4692-8374-3aa0bac69469"
+          },
+          "dapAn": "minute",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_12. Good ... minute.mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_12. Good ... minute.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "59891a6f-91da-43de-ada6-01b2b219dccd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We’re planning a party for the end of the ______________.",
+      "yNghia": "We're planning a party for the end of the <span style=\"color:red\">course. </span><br />\r\n<i>Bọn em đang lên kế hoạch cho một bữa tiệc cuối </i><i><span style=\"color:red\">khoá</span></i><i>. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2425c2db-eb8f-48b0-b057-64b297901f01"
+          },
+          "dapAn": "semester",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "503d7179-92b5-419c-876c-46263045d53b"
+          },
+          "dapAn": "course",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1c1456ef-b03a-4236-b16f-347b1280e597"
+          },
+          "dapAn": "class",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_13. We ... course.mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_13. We ... course.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c298b504-c994-441d-a1d7-530d457732f6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "May we _______________ the auditorium for it?",
+      "yNghia": "May we <span style=\"color:red\">use </span>the auditorium for it?<br />\r\n<i>Bọn em có thể <span style=\"color:red\">sử dụng </span>khán phòng cho việc này được không ạ? </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3f06d8a6-26f5-42fa-905c-4e3565c3ba34"
+          },
+          "dapAn": "use",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b4a8b2dc-c640-4916-b20d-bdd939855aa5"
+          },
+          "dapAn": "hire",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e9303b32-45a5-44dc-8d85-a90373264bad"
+          },
+          "dapAn": "borrow",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_14. May ... it.mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_14. May ... it.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "018ed811-7e61-40f3-b162-a776a6fedb75"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The party is on ______________, June 9th.",
+      "yNghia": "The party is on <span style=\"color:red\">Saturday</span>, June 9th. <br />\r\n<i>Bữa tiệc diễn ra vào <span style=\"color:red\">Thứ bảy</span>, ngày 9 tháng 6. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e1f05315-a6a2-4b0b-80a3-267184e0a0b7"
+          },
+          "dapAn": "Sunday",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5ba703d0-9445-449d-8587-b1d2b32dc52e"
+          },
+          "dapAn": "Friday",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8251f4c4-5e0d-4dc2-adf3-a85d2020f7d6"
+          },
+          "dapAn": "Saturday",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_15. The .. 9th.mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_15. The .. 9th.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "785ea163-7db3-481c-b064-6167822f2b70"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There is an ______________ in the auditorium on the morning of the ninth.",
+      "yNghia": "There is an <span style=\"color:red\">event</span> in the auditorium on the morning of the ninth.<br />\r\n<i>Có một <span style=\"color:red\">sự kiện </span>ở khán phòng vào buổi sáng của ngày mùng 9. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6e05f7ec-4300-4ac9-95b6-5789692d39f2"
+          },
+          "dapAn": "event",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6c222dd8-ebf6-42c6-a56b-c9013407cf5f"
+          },
+          "dapAn": "activity",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "56587976-c6d0-4ef7-aadd-3ad0faf10361"
+          },
+          "dapAn": "anniversary",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_16. There ... ninth.mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_16. There ... ninth.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a42754fa-93be-4710-b5a0-bfced9274a1f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You may use the auditorium in the ______________.",
+      "yNghia": "You may use the auditorium in the <span style=\"color:red\">evening</span>. <br />\r\n<i>Bọn em có thể sử dụng khán phòng vào <span style=\"color:red\">buổi tối</span>. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fa96c69d-684f-4e45-a4b7-9daa892b03c7"
+          },
+          "dapAn": "afternoon",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "88fdf7f3-38ad-46f6-a675-cd43831ee0ee"
+          },
+          "dapAn": "morning",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "cbe5ac77-a64c-4dfc-87b9-3034bdc32a8f"
+          },
+          "dapAn": "evening",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_17. You ... evening.mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_17. You ... evening.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e67bc836-5692-429f-98c4-8802be6d59db"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You ______________ stay after 10 p.m",
+      "yNghia": "You <span style=\"color:red\">can't </span>stay after 10 p.m<br />\r\n<i>Bọn em <span style=\"color:red\">không thể </span>ở lại sau 10 giờ đâu. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8e91a622-07b4-4589-98e2-fb82f2e52478"
+          },
+          "dapAn": "candies",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "71d3e3fc-7145-4c16-94a6-5fd11f615e64"
+          },
+          "dapAn": "should",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5ab58ea0-c962-491a-bf23-7df8c816e739"
+          },
+          "dapAn": "can't",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_18. You ... 10 p.m.mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_18. You ... 10 p.m.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "85107749-4477-4801-99a0-1cbfdf5967ca"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That’s fine, but can four or five of us stay ______________ 10 to clean up the auditorium?",
+      "yNghia": "That's fine, but can four or five of us stay <span style=\"color:red\">after </span>10 to clean up the auditorium? <br />\r\n<i>Được ạ, nhưng 4 hoặc 5 người chúng em có thể ở lại <span style=\"color:red\">sau </span>10 giờ để dọn dẹp khán phòng được không ạ? </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a0f44dd4-3b2c-4642-87b0-58f10a521839"
+          },
+          "dapAn": "before",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "26df90e0-09f1-4c12-b945-df8a747c5cd8"
+          },
+          "dapAn": "during",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "17b4f016-285f-41b2-a805-17b746c682b9"
+          },
+          "dapAn": "after",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_19. That_s ... auditorium.mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_19. That_s ... auditorium.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "decfc379-8848-4ec8-ac29-2e8dccfbfab0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I think it will be a ______________.",
+      "yNghia": "I think it will be a <span style=\"color:red\">great party</span>.<br />\r\n<i>Em nghĩ đây sẽ là một <span style=\"color:red\">bữa tiệc tuyệt vời </span>ạ.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "832d7891-28cc-4a5b-9e1e-903d62efc43a"
+          },
+          "dapAn": "great party",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "38639fff-80a9-4dd6-bafc-ab6724d73e38"
+          },
+          "dapAn": "great event",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "baa5c081-c793-4aec-bcc1-2b9b7bec685a"
+          },
+          "dapAn": "big celebration",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L9/sounds/normal/TC_9_LISTENING_20. I ... party.mp3",
+      "soundSlow": "4SKILLS_TC_L9/sounds/slow/TC_9_LISTENING_20. I ... party.mp3"
+    }
+  ]
+}

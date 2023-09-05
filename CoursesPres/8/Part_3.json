@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "820a669b-3fd6-4e90-bd4a-6a45ff84abef"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Desk",
+      "yNghia": "Bàn làm việc, bàn học",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b16433f7-fd86-4ebd-8236-0fb863809c6e"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "E-reader",
+      "yNghia": "Máy đọc sách",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "61073b37-ec89-4b1b-b688-462f5ef95b06"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Key",
+      "yNghia": "Chìa khóa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2163fb43-efb8-4075-b01e-20060fabca8c"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Modern",
+      "yNghia": "Hiện đại",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4efa0248-8852-445a-954a-ad94766d90cc"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Noisy",
+      "yNghia": "Ồn ào",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a8021bb2-a7df-47f7-b4c6-cbdf96889ec6"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Quiet",
+      "yNghia": "Yên tĩnh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8d400b50-a65d-4d59-a1c4-249e7698bf85"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Ugly",
+      "yNghia": "Xấu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "92d51996-e4b3-4e4f-aa5e-4517483af406"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Umbrella",
+      "yNghia": "Cây dù",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "bdf258e4-53da-4d0b-8442-e7f6491e4f01"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Notebook",
+      "yNghia": "Sổ ghi chú",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "365fb66a-a3ce-4a67-8e24-7059cf80a3ea"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Wallet",
+      "yNghia": "Ví tiền",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2aa89778-976d-4a5c-aab8-c4265a7fa4dd"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Watch",
+      "yNghia": "Đồng hồ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5135cb46-15b7-467f-bd1b-af5c579608f0"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Laptop case",
+      "yNghia": "Túi/cặp đựng máy tính xách tay",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e681cc7b-49a2-4faf-bd1a-8bac94d47d89"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Transit card",
+      "yNghia": "Thẻ quá cảnh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1f31bcee-30e7-4a4f-87ce-6188dcd98175"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "ID card",
+      "yNghia": "Thẻ căn cước",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4e869768-9be2-46b6-a24d-abb5b5f5d651"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Between",
+      "yNghia": "Ở giữa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "cef8937c-1ad5-456e-a408-8ce5108c2110"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Next to",
+      "yNghia": "Ở cạnh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "84a24d85-265a-41fd-b5e1-5be5a7349103"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "In front of",
+      "yNghia": "Ở phía trước",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "792b56b0-fbcc-4b7e-8a7e-d4192f96fa30"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Twenty-five",
+      "yNghia": "(Số đếm) 25",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a586fe65-9483-4309-b1c5-ed5c0286fe23"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "One hundred",
+      "yNghia": "(Số đếm) 100",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "42e10ae5-745f-46a0-aa2c-efa2626c671a"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "One hundred and one",
+      "yNghia": "(Số đếm) 101",
+      "danhSachDapAn": []
+    }
+  ]
+}

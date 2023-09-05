@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P7",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "c161705c-d848-48d0-ab6c-7d7aea161d1e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What can I ____ <b><span style=\"color:blue\">(get)</span></b> you?",
+      "yNghia": "Vì câu có <b>I </b>là chủ ngữ và động từ khuyết thiếu <b>can </b>nên từ cần điền sẽ là động từ nguyên thể <b>get</b>. Câu hoàn chỉnh là <b>What can I <span style=\"color:red\">get </span>you? </b><i>(Tôi có thể <span style=\"color:red\">giúp </span>gì cho bạn?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5c65f387-5446-43b9-a9d8-d986243515da"
+          },
+          "dapAn": "get",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "89df43e3-8a3c-4ef9-aba5-8b6faeb006df"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____ <b><span style=\"color:blue\">(Can)</span></b> I get a black coffee, please?",
+      "yNghia": "Vì câu có <b>I </b>là chủ ngữ và động từ nguyên thể <b>get </b>nên từ cần điền sẽ là động từ khuyết thiếu <b>can</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">Can </span></b><b>I get a black coffee, please? </b><i>(</i><i>Làm ơn cho tôi một ly cà phê đen được không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0dd868c4-0c77-47a1-96bb-1893055ce1cc"
+          },
+          "dapAn": "Can",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "76a34fd0-4458-4a72-965f-63d3d2adf6f3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What size do you ____ <b><span style=\"color:blue\">(want)</span></b>?",
+      "yNghia": "Vì đây là câu hỏi ở thì hiện tại đơn nên từ cần điền là động từ nguyên thể <b>want</b>. Câu hoàn chỉnh là <b>What size do you <span style=\"color:red\">want</span>?</b> <i>(</i><i>Bạn <span style=\"color:red\">muốn </span>cỡ nào?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4e53333f-1656-416e-b249-2262bcd2e2a0"
+          },
+          "dapAn": "want",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "da545ef6-30f1-4994-8c32-4e8b53d6e0dc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <b><span style=\"color:blue\">(be)</span></b> very tired today.",
+      "yNghia": "Vì <b>I </b>là chủ ngữ ngôi thứ nhất số ít nên động từ <i>to be</i> theo sau sẽ là <b>am</b>. Câu hoàn chỉnh là <b>I <span style=\"color:red\">am</span> very tired today. </b><i>(</i><i>Hôm nay tôi rất mệt.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d42c5e7c-ac28-4ec3-a86b-a546d79fcb81"
+          },
+          "dapAn": "am",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "eb9a0358-c05f-4edf-9360-e99aaa45f54b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you ____ <b><span style=\"color:blue\">(want)</span></b> any other drinks?",
+      "yNghia": "Vì đây là câu hỏi ở thì hiện tại đơn nên từ cần điền là động từ nguyên thể <b>want</b>. Câu hoàn chỉnh là <b>Do you <span style=\"color:red\">want</span> any other drinks? </b><i>(</i><i>Bạn có <span style=\"color:red\">muốn </span>gọi đồ uống nào nữa không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "176c28eb-342f-4cb5-b954-375f7dd81f0b"
+          },
+          "dapAn": "want",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6d7e6590-669e-44ea-978e-47a7315b2090"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "He ______ <b><span style=\"color:blue\">(want)</span></b> an orange juice.",
+      "yNghia": "Vì <b>he</b> là chủ ngữ ngôi thứ ba số ít<b> </b>nên từ cần điền là <b>wants</b>. Câu hoàn chỉnh là <b>He <span style=\"color:red\">wants </span>orange juice. </b><i>(</i><i>Anh ấy <span style=\"color:red\">muốn </span>một ly nước cam.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ed15cf3c-caa2-4084-8b49-0ae65bdb3642"
+          },
+          "dapAn": "wants",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b9eaacc9-e209-4fbd-bed3-4c4cecc93abf"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There ____ <b><span style=\"color:blue\">(be)</span></b> a cup of coffee.",
+      "yNghia": "Vì <b>a</b> <b>cup of coffee </b>là danh từ số ít nên động từ <i>to be</i> đi kèm sẽ là <b>is</b>. Câu hoàn chỉnh là <b>There <span style=\"color:red\">is </span>a cup of coffee. </b><i>(Có một cốc cà phê.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4dcc1e80-6612-4e04-bb50-a59e8820f6c5"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "11376965-927a-4879-b14d-e83676d6c4cd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That ____ <b><span style=\"color:blue\">(be)</span></b> right.",
+      "yNghia": "Vì <b>That </b>là chủ ngữ số ít nên động từ <i>to be</i> theo sau sẽ là <b>is</b>. Câu hoàn chỉnh là <b>That <span style=\"color:red\">is </span>right.</b> <i>(Đúng vậy.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3b136bb5-2a44-43b6-b3fb-8204ead1379d"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e86427e8-6447-4d6b-9443-3b3e57befc84"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____ <b><span style=\"color:blue\">(Be)</span></b> that for here or to go?",
+      "yNghia": "Vì <b>that </b>là chủ ngữ số ít nên động từ <i>to be</i> đi kèm sẽ là <b>is</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">Is</span></b><b> that for here or to go? </b><i>(</i><i>Bạn dùng món đó ở đây hay mang về?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c5a25ae3-6fc7-48ce-a99f-fa433c29ceeb"
+          },
+          "dapAn": "Is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "bdc0291f-f72b-453c-87dd-9b5a19e26ec9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____ <b><span style=\"color:blue\">(Can)</span></b> I get you some food?",
+      "yNghia": "Vì câu có <b>I </b>là chủ ngữ và động từ nguyên thể <b>get </b>nên từ cần điền sẽ là động từ khuyết thiếu <b>Can</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">Can</span></b><b> I get you some food? </b><i>(</i><i>Tôi <span style=\"color:red\">có thể </span>lấy cho bạn một ít thức ăn được không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a6169d66-a432-4479-9f8f-19d7f4104e10"
+          },
+          "dapAn": "Can",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1de7cdd2-ed22-490f-824b-093b9d52463d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____ <b><span style=\"color:blue\">(Be)</span></b> there any soup?",
+      "yNghia": "Vì <b>soup</b><b> </b>là danh từ số ít nên động từ <i>to be</i> đi kèm sẽ là <b>Is</b>. Câu hoàn chỉnh là<b><span style=\"color:red\"> Is </span></b><b>there any soup? </b><i>(</i><i>Bạn có súp không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ff9011cc-ecb0-4747-8eb2-b1b9d57fea02"
+          },
+          "dapAn": "Is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0eb854a4-9d8d-4373-b2e8-9efda3b25237"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We ____ <b><span style=\"color:blue\">(have)</span></b> chicken soup.",
+      "yNghia": "Vì <b>We </b>là chủ ngữ ngôi thứ nhất số nhiều nên từ cần điền sẽ là động từ nguyên thể <b>have</b>. Câu hoàn chỉnh là <b>We </b><b><span style=\"color:red\">have</span></b><b> chicken soup. </b><i>(</i><i>Chúng tôi <span style=\"color:red\">có </span>súp gà.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "60bf4d18-fe69-45aa-98b7-d1c702fffb26"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "32a18a57-eb99-4f5c-9bd5-2a8691f70a3f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <b><span style=\"color:blue\">(have)</span></b> a bowl of chicken soup.",
+      "yNghia": "Vì <b>I </b>là chủ ngữ ngôi thứ nhất số ít nên từ cần điền sẽ là động từ nguyên thể <b>have</b>. Câu hoàn chỉnh là <b>I </b><b><span style=\"color:red\">have </span></b><b>a </b><b>bowl of chicken soup. </b><i>(</i><i>Tôi <span style=\"color:red\">có </span>một bát súp gà.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "09ef57b0-6cf5-4459-af95-49cc808bda98"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b12edb4b-15ed-4a40-9e6c-014334eed0f3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <b><span style=\"color:blue\">(want)</span></b> a sandwich.",
+      "yNghia": "Vì <b>I </b>là chủ ngữ ngôi thứ nhất số ít nên từ cần điền sẽ là động từ nguyên thể <b>want</b>. Câu hoàn chỉnh là <b>I </b><b><span style=\"color:red\">want </span></b><b>a sandwich. </b><i>(</i><i>Tôi <span style=\"color:red\">muốn </span>một cái bánh mì sandwich.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4b5c5a54-1d9b-4200-a07c-5838548ff39b"
+          },
+          "dapAn": "want",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e4c926d2-5e96-4c95-882f-6c594dec66df"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____ <b><span style=\"color:blue\">(Be)</span></b> anything else, sir?",
+      "yNghia": "Vì <b>anything</b><b> </b>là đại từ bất định số ít nên động từ <i>to be</i> đi kèm sẽ là <b>Is</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">Is </span></b><b>there anything else, sir? </b><i>(Còn gì nữa không, thưa ông?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9e2864e2-8480-4e8b-abcf-5bd4a2c45327"
+          },
+          "dapAn": "Is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "fed7e37e-56e3-4b98-9ab1-dbb0ac67ec93"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you ____ <b><span style=\"color:blue\">(have)</span></b> food for children?",
+      "yNghia": "Vì <b>you </b>là chủ ngữ ngôi thứ hai nên từ cần điền sẽ là động từ nguyên thể <b>have</b>. Câu hoàn chỉnh là <b>Do you <span style=\"color:red\">have </span>food for children? </b><i>(</i><i>Bạn <span style=\"color:red\">có </span>đồ ăn cho trẻ em không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "09e12e38-21f3-48ff-9c53-4d82f367dc78"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2ee406e3-9a58-49b0-a9af-79165768b4c1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We ____ <b><span style=\"color:blue\">(have)</span></b> some cookies and chocolate cakes.",
+      "yNghia": "Vì <b>We </b>là chủ ngữ ngôi thứ nhất số nhiều từ nên cần điền sẽ là động từ nguyên thể <b>have</b>. Câu hoàn chỉnh là <b>We <span style=\"color:red\">have </span>some cookies and chocolate cakes. </b><i>(</i><i>Chúng tôi <span style=\"color:red\">có </span>một vài miếng bánh quy và bánh sô-cô-la.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c78b64a5-0030-400e-86ab-5957dc36df27"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "34698f37-f5e7-4f22-825f-1926db9702d2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <b><span style=\"color:blue\">(take)</span></b> a cake to go.",
+      "yNghia": "Vì <b>I </b>là chủ ngữ ngôi thứ nhất số ít nên từ cần điền sẽ là động từ nguyên thể <b>take</b>. Câu hoàn chỉnh là <b>I <span style=\"color:red\">take </span>a cake to go. </b><i>(</i><i>Tôi <span style=\"color:red\">lấy </span>một cái bánh để mang đi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e539d937-75e9-48e5-9be7-95a5c0e5b1bc"
+          },
+          "dapAn": "take",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "cd00b8db-54ba-496e-a231-a6b36c8d0462"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There<b> </b>____<b> <span style=\"color:blue\">(be)</span> </b>a sandwich for breakfast.",
+      "yNghia": "Vì <b>sandwich</b> là danh từ số ít nên động từ <i>to be </i>đi kèm là <b>is</b>. Câu hoàn chỉnh là <b>There <span style=\"color:red\">is</span> a sandwich for breakfast. </b><i>(</i><i>Có một cái bánh sandwich cho bữa sáng.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "687f530c-ff2a-412c-9e2b-273451b7a605"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "445cd9cb-140f-4207-bc2a-826421a635ad"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____ <b><span style=\"color:blue\">(Be)</span></b> there any vegetables?",
+      "yNghia": "Vì <b>vegetables</b> là danh từ số nhiều nên động từ <i>to be </i>đi kèm là <b>are</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">Are </span>there any vegetables?</b> <i>(</i><i>Có chút rau nào không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f08393fe-b2e6-4be0-9933-e7ea83bb6d00"
+          },
+          "dapAn": "Are",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

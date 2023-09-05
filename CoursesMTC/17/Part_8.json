@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_MTC_L17/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_MTC_L17/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "f1475b52-25e2-4299-8daf-eeab150cf28a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Jake ",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bbe61610-d0be-4b2f-acc6-7a316e9b7853"
+          },
+          "dapAn": "Hey Molly, did you read the news about MTC company?",
+          "phienAm": "/heɪ ˈmɒli dɪd juː riːd ðə njuːz əˈbaʊt emtiːsiː ˈkʌmpəni/",
+          "yNghia": "\nNày Molly, bạn đã đọc tin tức về công ty MTC chưa?",
+          "normal": {
+            "start": "00:00:00.419",
+            "end": "00:00:04.258"
+          },
+          "slow": {
+            "start": "00:00:00.000",
+            "end": "00:00:06.206"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b78e3513-d1cf-4273-9f78-b69452cbd747"
+          },
+          "dapAn": "How do you know that? Many people talk about it.",
+          "phienAm": "/haʊ duː juː nəʊ ðæt/. /ˈmeni ˈpiːpl tɔːk əˈbaʊt ɪt/",
+          "yNghia": "\nLàm sao bạn biết điều đó vậy? Nhiều người nói về nó lắm.",
+          "normal": {
+            "start": "00:00:11.866",
+            "end": "00:00:15.845"
+          },
+          "slow": {
+            "start": "00:00:18.529",
+            "end": "00:00:23.316"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2a36ddde-ba4b-4871-9445-eb4383be2620"
+          },
+          "dapAn": "Please, tell me about it. It’s a waste of time reading disinformation.",
+          "phienAm": "/pliːz tel miː əˈbaʊt ɪt/. /ɪts ei weɪst ɒv taɪm ˈriːdɪŋ ˌdɪsˌɪnfəˈmeɪʃn/",
+          "yNghia": "\nNói cho tôi về nó đi. Thật lãng phí thời gian khi đọc thông tin sai lệch.",
+          "normal": {
+            "start": "00:00:23.174",
+            "end": "00:00:28.199"
+          },
+          "slow": {
+            "start": "00:00:32.447",
+            "end": "00:00:39.717"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7c48a069-e4f2-4eb2-856b-ecee679d337b"
+          },
+          "dapAn": "I have to check whether it’s reliable or not?",
+          "phienAm": "/aɪ hæv tuː ʧek ˈweðər ɪts rɪˈlaɪəbl ɔːr nɒt/",
+          "yNghia": "\nTôi phải kiểm tra xem nó có đáng tin cậy hay không à?",
+          "normal": {
+            "start": "00:00:38.739",
+            "end": "00:00:41.741"
+          },
+          "slow": {
+            "start": "00:00:50.444",
+            "end": "00:00:55.054"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6be3a8c7-3fdd-4091-9589-c041d7b81172"
+          },
+          "dapAn": "I got it. I need to check the website, the text. What else?",
+          "phienAm": "/aɪ gɒt ɪt/. /aɪ niːd tuː ʧek ðiː ˈwebˌsaɪt ðiː tekst/. /wɒt els/",
+          "yNghia": "\nTôi hiểu rồi. Tôi cần kiểm tra trang web, văn bản. Còn gì nữa không?",
+          "normal": {
+            "start": "00:00:50.815",
+            "end": "00:00:55.631"
+          },
+          "slow": {
+            "start": "00:01:06.047",
+            "end": "00:01:13.937"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "15de529d-6ac2-4f71-b279-9759cc3e7722"
+          },
+          "dapAn": "OK. I will remember to check the source first.",
+          "phienAm": "/əʊˈkeɪ/. /aɪ wɪl rɪˈmembər tuː ʧek ðiː sɔːs fɜːst/",
+          "yNghia": "\n Được rồi. Tôi sẽ nhớ kiểm tra nguồn đầu tiên.",
+          "normal": {
+            "start": "00:01:05.682",
+            "end": "00:01:09.033"
+          },
+          "slow": {
+            "start": "00:01:24.487",
+            "end": "00:01:29.451"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "bb5085cf-0395-4bde-8824-5d9e958d4c37"
+          },
+          "dapAn": "If they haven’t written anything else for a source I trust, the article could spread fake news, right?",
+          "phienAm": "/ɪf ðeɪ hævnt ˈrɪtn ˈenɪθɪŋ els fɔːr ei sɔːs aɪ trʌst ðiː ˈɑːtɪkl kʊd spred feɪk njuːz raɪt/",
+          "yNghia": "\nNếu họ chưa từng viết gì cho một nguồn mà tôi tin tưởng, thì bài báo có thể lan truyền tin giả, phải không?",
+          "normal": {
+            "start": "00:01:17.339",
+            "end": "00:01:24.529"
+          },
+          "slow": {
+            "start": "00:01:38.051",
+            "end": "00:01:47.271"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4b3c4ade-fd4f-4df9-a979-5e87176c8abd"
+          },
+          "dapAn": "I haven’t thought about it before. You are so careful!",
+          "phienAm": "/aɪ hævnt θɔːt əˈbaʊt ɪt bɪˈfɔːr/. /juː ɑːr səʊ ˈkeəfʊl/",
+          "yNghia": "\nTôi chưa từng nghĩ đến chuyện này bao giờ đấy. Bạn cẩn thận thật!",
+          "normal": {
+            "start": "00:01:35.627",
+            "end": "00:01:39.745"
+          },
+          "slow": {
+            "start": "00:02:01.810",
+            "end": "00:02:06.863"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "773091b2-3b3c-44a0-ae81-5a7085bf4a63"
+          },
+          "dapAn": "Can you be a bit clearer, please?",
+          "phienAm": "/kæn juː biː eɪ bɪt ˈklɪərər pliːz/",
+          "yNghia": "\nBạn nói rõ hơn được không nhỉ?",
+          "normal": {
+            "start": "00:01:45.608",
+            "end": "00:01:47.912"
+          },
+          "slow": {
+            "start": "00:02:14.133",
+            "end": "00:02:17.501"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b3546bd8-17d2-4d93-a499-4ba054ba707e"
+          },
+          "dapAn": "Understood. Thanks for the helpful advice!",
+          "phienAm": "/ˌʌndəˈstʊd/. /θæŋks fɔːr ðə ˈhelpfʊl ədˈvaɪs/",
+          "yNghia": "\nTôi hiểu. Cảm ơn bạn vì lời khuyên hữu ích!",
+          "normal": {
+            "start": "00:01:54.752",
+            "end": "00:01:57.754"
+          },
+          "slow": {
+            "start": "00:02:26.190",
+            "end": "00:02:30.179"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3b7bc7a6-8d08-4b2e-8174-34d5b7846eae"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Molly",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7d0657cc-5a68-4815-9ac7-de8fd1bdeda5"
+          },
+          "dapAn": "Yes, I read it yesterday. I was shocked but I know it’s just a rumor.",
+          "phienAm": "/jes aɪ riːd ɪt ˈjestədeɪ/. /aɪ wɒz ʃɒkt bʌt aɪ nəʊ ɪts ʤʌst eɪ ˈruːmər/",
+          "yNghia": "\nỪ, tôi đã đọc nó ngày hôm qua. Tôi đã bị sốc nhưng tôi biết đó chỉ là một tin đồn.",
+          "normal": {
+            "start": "00:00:04.956",
+            "end": "00:00:10.540"
+          },
+          "slow": {
+            "start": "00:00:07.358",
+            "end": "00:00:17.376"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "88348806-86b0-491b-b4a5-eb1f4c303719"
+          },
+          "dapAn": "I have some steps to find the real stories among the fake news.",
+          "phienAm": "/aɪ hæv sʌm steps tuː faɪnd ðiː rɪəl ˈstɔːriz əˈmʌŋ ðiː feɪk njuːz/",
+          "yNghia": "\nTôi có một số bước để tìm ra những câu chuyện có thật giữa những tin giả.",
+          "normal": {
+            "start": "00:00:16.333",
+            "end": "00:00:22.127"
+          },
+          "slow": {
+            "start": "00:00:24.114",
+            "end": "00:00:31.472"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "bd1250fd-ae7d-486c-9cef-956b429a1aa5"
+          },
+          "dapAn": "Alright. First, find out about the source. Look at the website that the story comes from.",
+          "phienAm": "/ɔːlˈraɪt/. /fɜːst faɪnd aʊt əˈbaʊt ðiː sɔːs/. /lʊk æt ðiː ˈwebˌsaɪt ðæt ðə ˈstɔːri kʌmz frɒm/",
+          "yNghia": "\nĐược rồi. Đầu tiên, hãy tìm hiểu về nguồn. Xem câu chuyện đến từ trang web nào.",
+          "normal": {
+            "start": "00:00:28.688",
+            "end": "00:00:37.902"
+          },
+          "slow": {
+            "start": "00:00:40.515",
+            "end": "00:00:49.646"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "65a86deb-41cb-457d-9e9e-b11e1e7d6e3f"
+          },
+          "dapAn": "Exactly. Then you check the text on the website. It may not be very well written.",
+          "phienAm": "/ɪgˈzæktli/. /ðen juː ʧek ðiː tekst ɒn ðiː ˈwebˌsaɪt/. /ɪt meɪ nɒt biː ˈveri wel ˈrɪtn/",
+          "yNghia": "\nChính xác. Sau đó, bạn kiểm tra văn bản trên trang web. Có thể người ta viết sẽ không hay đâu.",
+          "normal": {
+            "start": "00:00:42.229",
+            "end": "00:00:49.907"
+          },
+          "slow": {
+            "start": "00:00:56.206",
+            "end": "00:01:05.249"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "884a57e0-44dc-46d7-825e-0d53812b038b"
+          },
+          "dapAn": "See if the pictures are clear. If you aren’t sure, research the organization and its history.",
+          "phienAm": "/siː ɪf ðiː ˈpɪkʧəz ɑːr klɪər/. /ɪf juː ɑːnt ʃʊər rɪˈsɜːʧ ðiːˌɔːgənaɪˈzeɪʃən ænd ɪts ˈhɪstəri/",
+          "yNghia": "\nHãy xem hình ảnh có rõ ràng hay không. Nếu bạn không chắc chắn, hãy nghiên cứu tổ chức và lịch sử của nó.",
+          "normal": {
+            "start": "00:00:56.539",
+            "end": "00:01:04.915"
+          },
+          "slow": {
+            "start": "00:01:14.292",
+            "end": "00:01:23.423"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b4c00d52-e309-46d1-82f1-287dec3cdce6"
+          },
+          "dapAn": "Next, look at the authors. Look for proof with their other articles.",
+          "phienAm": "/nekst lʊk æt ðiː ˈɔːθəz/. /lʊk fɔːr pruːf wɪð ðeər ˈʌðər ˈɑːtɪklz/",
+          "yNghia": "\nTiếp theo, hãy nhớ để ý cả các tác giả. Hãy tìm bằng chứng với các bài viết khác của họ.",
+          "normal": {
+            "start": "00:01:10.010",
+            "end": "00:01:16.222"
+          },
+          "slow": {
+            "start": "00:01:30.515",
+            "end": "00:01:36.810"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2b0769c7-1bbe-4784-8f68-d1b180b499be"
+          },
+          "dapAn": "Excellent! The article contains links to other articles and authors. Click on the links and check if the sources are real.",
+          "phienAm": "/ˈeksələnt/. /ðiː ˈɑːtɪkl kənˈteɪnz lɪŋks tuː ˈʌðər ˈɑːtɪklz ænd ˈɔːθəz/. /klɪk ɒn ðiː lɪŋks ænd ʧek ɪf ðiː ˈsɔːsɪz ɑːr rɪəl/",
+          "yNghia": "\nQuá chuẩn! Bài viết sẽ chứa các liên kết đến các bài báo và tác giả khác. Bạn có thể truy cập vào liên kết và kiểm tra xem các nguồn có thật không.",
+          "normal": {
+            "start": "00:01:25.366",
+            "end": "00:01:34.859"
+          },
+          "slow": {
+            "start": "00:01:48.157",
+            "end": "00:02:00.657"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "faa5f6fb-4bfa-47cf-8d83-30662cf3e74e"
+          },
+          "dapAn": "Finally, always question what you read on the Internet.",
+          "phienAm": "/ˈfaɪnəli ˈɔːlweɪz ˈkwesʧən wɒt juː riːd ɒn ðiː ˈɪntəˌnet/",
+          "yNghia": "\nCuối cùng, hãy luôn đặt câu hỏi về những gì bạn đọc trên Internet.",
+          "normal": {
+            "start": "00:01:40.583",
+            "end": "00:01:44.910"
+          },
+          "slow": {
+            "start": "00:02:07.484",
+            "end": "00:02:13.246"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1080a2a7-35a4-473f-ace7-7b66dd126903"
+          },
+          "dapAn": "Some of a story might be accurate, but it may not show the complete picture.",
+          "phienAm": "/sʌm ɒv eɪ ˈstɔːri maɪt biː ˈækjʊrɪt bʌt ɪt meɪ nɒt ʃəʊ ðə kəmˈpliːt ˈpɪkʧər/",
+          "yNghia": "\nCó thể có một số chi tiết thì đúng, nhưng chưa chắc đã nói lên toàn bộ câu chuyện.",
+          "normal": {
+            "start": "00:01:48.749",
+            "end": "00:01:53.775"
+          },
+          "slow": {
+            "start": "00:02:18.122",
+            "end": "00:02:25.392"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4d1e06e6-bb38-43bc-ac71-8624f9c23ca2"
+          },
+          "dapAn": "Don’t mention it.",
+          "phienAm": "/dəʊnt ˈmenʃən ɪt/",
+          "yNghia": "\nKhông có gì đâu mà.",
+          "normal": {
+            "start": "00:01:58.731",
+            "end": "00:01:59.778"
+          },
+          "slow": {
+            "start": "00:02:31.154",
+            "end": "00:02:33.016"
+          }
+        }
+      ]
+    }
+  ]
+}

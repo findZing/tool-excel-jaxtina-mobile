@@ -1,0 +1,931 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "VOCABULARY",
+  "videoUrl": "4SKILLS_PRE_S_L22/vocabulary.mp4",
+  "newWords": [
+    {
+      "word": "egg",
+      "loaiTu": "n",
+      "phatAm": "/eɡ/",
+      "meaning": "trứng",
+      "viDu": "I have some eggs in the fridge.\n(Tôi có vài quả trứng trong tủ lạnh.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/273.egg.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/273.egg.png"
+    },
+    {
+      "word": "cereal",
+      "loaiTu": "n",
+      "phatAm": "/ˈsɪəriəl/",
+      "meaning": "ngũ cốc",
+      "viDu": "My sister eats cereal for breakfast.\n(Chị gái tôi ăn ngũ cốc cho bữa sáng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/274.cereal.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/274.cereal.png"
+    },
+    {
+      "word": "fruit",
+      "loaiTu": "n",
+      "phatAm": "/fruːt/",
+      "meaning": "hoa quả",
+      "viDu": "Fruits are healthy.\n(Hoa quả tốt cho sức khoẻ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/275.fruit.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/275.fruit.png"
+    },
+    {
+      "word": "toast",
+      "loaiTu": "n",
+      "phatAm": "/təʊst/",
+      "meaning": "bánh mì nướng",
+      "viDu": "I eat toast for breakfast.\n(Tôi ăn bánh mì nướng cho bữa sáng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/276.toast.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/276.toast.png"
+    },
+    {
+      "word": "rice",
+      "loaiTu": "n",
+      "phatAm": "/raɪs/",
+      "meaning": "cơm",
+      "viDu": "I eat rice every day.\n(Tôi ăn cơm mỗi ngày.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/277.rice.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/277.rice.png"
+    },
+    {
+      "word": "vegetable",
+      "loaiTu": "n",
+      "phatAm": "/ˈvedʒtəbl/",
+      "meaning": "rau",
+      "viDu": "I usually eat vegetable.\n(Tôi thường ăn rau.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/278.vegetable.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/278.vegetable.png"
+    },
+    {
+      "word": "soup",
+      "loaiTu": "n",
+      "phatAm": "/suːp/",
+      "meaning": "súp",
+      "viDu": "My mother cooks soup very well.\n(Mẹ tôi nấu súp rất ngon.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/279.soup.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/279.soup.png"
+    },
+    {
+      "word": "bread",
+      "loaiTu": "n",
+      "phatAm": "/bred/",
+      "meaning": "bánh mì gối",
+      "viDu": "My brother doesn't like bread.\n(Anh trai tôi không thích bánh mì gối.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/280.bread.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/280.bread.png"
+    },
+    {
+      "word": "sandwich",
+      "loaiTu": "n",
+      "phatAm": "/ˈsænwɪtʃ/",
+      "meaning": "bánh mì sandwich",
+      "viDu": "I love sandwich.\n(Tôi thích bánh mì sandwich.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/281.sandwich.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/281.sandwich.png"
+    },
+    {
+      "word": "pasta",
+      "loaiTu": "n",
+      "phatAm": "/ˈpæstə/",
+      "meaning": "mì Ý",
+      "viDu": "My favorite dish is pasta.\n(Món ăn yêu thích của tôi là mì Ý.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/282.pasta.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/282.pasta.png"
+    },
+    {
+      "word": "chicken",
+      "loaiTu": "n",
+      "phatAm": "/ˈtʃɪkɪn/",
+      "meaning": "thịt gà",
+      "viDu": "Chicken tastes delicious.\n(Thịt gà rất ngon.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/283.chicken.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/283.chicken.png"
+    },
+    {
+      "word": "pizza",
+      "loaiTu": "n",
+      "phatAm": "/ˈpiːtsə/",
+      "meaning": "pizza",
+      "viDu": "My nephew loves pizza.\n(Cháu trai tôi thích pizza.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/284.pizza.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/284.pizza.png"
+    },
+    {
+      "word": "tea",
+      "loaiTu": "n",
+      "phatAm": "/tiː/",
+      "meaning": "trà",
+      "viDu": "I has a cup of tea every morning.\n(Tôi uống một cốc trà mỗi buổi sáng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/285.tea.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/285.tea.png"
+    },
+    {
+      "word": "coffee",
+      "loaiTu": "n",
+      "phatAm": "/ˈkɒfi/",
+      "meaning": "cà phê",
+      "viDu": "My father loves coffee.\n(Bố tôi thích cà phê.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/286.coffee.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/286.coffee.png"
+    },
+    {
+      "word": "milk",
+      "loaiTu": "n",
+      "phatAm": "/mɪlk/",
+      "meaning": "sữa",
+      "viDu": "I drinks a cup of milk every day.\n(Tôi uống một cốc sữa mỗi ngày.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/287.milk.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/287.milk.png"
+    },
+    {
+      "word": "juice",
+      "loaiTu": "n",
+      "phatAm": "/dʒuːs/",
+      "meaning": "nước hoa quả",
+      "viDu": "Juice is good for health.\n(Nước hoa quả tốt cho sức khoẻ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/288.juice.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/288.juice.png"
+    },
+    {
+      "word": "fish",
+      "loaiTu": "n",
+      "phatAm": "/fɪʃ/",
+      "meaning": "cá",
+      "viDu": "I don't like to eat fish.\n(Tôi không thích ăn cá.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/289.fish.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/289.fish.png"
+    },
+    {
+      "word": "breakfast",
+      "loaiTu": "n",
+      "phatAm": "/ˈbrekfəst/",
+      "meaning": "bữa sáng",
+      "viDu": "My breakfast is delicious.\n(Bữa sáng của tôi rất ngon.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/290.breakfast.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/290.breakfast.png"
+    },
+    {
+      "word": "lunch",
+      "loaiTu": "n",
+      "phatAm": "/lʌntʃ/",
+      "meaning": "bữa trưa",
+      "viDu": "I rarely eat lunch at home.\n(Tôi hiếm khi ăn bữa trưa ở nhà.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/291.lunch.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/291.lunch.png"
+    },
+    {
+      "word": "dinner",
+      "loaiTu": "n",
+      "phatAm": "/ˈdɪnər/",
+      "meaning": "bữa tối",
+      "viDu": "I love having dinner with my family\n(Tôi thích ăn bữa tối cùng gia đình.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/292.dinner.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/292.dinner.png"
+    },
+    {
+      "word": "bottled water",
+      "loaiTu": "n.p",
+      "phatAm": "/ˌbɒtld ˈwɔːtər/",
+      "meaning": "nước uống đóng chai",
+      "viDu": "Bottled water is convenient.\n(Nước uống đóng chai rất tiện lợi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/293.bottled.water.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/293.bottled.water.png"
+    }
+  ],
+  "scriptVideo": [
+    {
+      "start": "0:00:40",
+      "end": "0:00:43",
+      "english": "The face and body",
+      "subScriptEnglish": "The face and body",
+      "matchedNewWords": [],
+      "vietnamese": "Khuôn mặt và cơ thể"
+    },
+    {
+      "start": "0:00:53",
+      "end": "0:00:54",
+      "english": "Food",
+      "subScriptEnglish": "Food",
+      "matchedNewWords": [],
+      "vietnamese": "đồ ăn"
+    },
+    {
+      "start": "0:01:05",
+      "end": "0:01:08",
+      "english": "breakfast",
+      "subScriptEnglish": " _breakfast_ ",
+      "matchedNewWords": [
+        "breakfast"
+      ],
+      "vietnamese": "bữa sáng"
+    },
+    {
+      "start": "0:01:09",
+      "end": "0:01:10",
+      "english": "lunch",
+      "subScriptEnglish": " _lunch_ ",
+      "matchedNewWords": [
+        "lunch"
+      ],
+      "vietnamese": "bữa trưa"
+    },
+    {
+      "start": "0:01:12",
+      "end": "0:01:14",
+      "english": "dinner",
+      "subScriptEnglish": " _dinner_ ",
+      "matchedNewWords": [
+        "dinner"
+      ],
+      "vietnamese": "bữa tối"
+    },
+    {
+      "start": "0:01:15",
+      "end": "0:01:23",
+      "english": "breakfast",
+      "subScriptEnglish": " _breakfast_ ",
+      "matchedNewWords": [
+        "breakfast"
+      ],
+      "vietnamese": "bữa sáng"
+    },
+    {
+      "start": "0:01:23",
+      "end": "0:01:29",
+      "english": "lunch",
+      "subScriptEnglish": " _lunch_ ",
+      "matchedNewWords": [
+        "lunch"
+      ],
+      "vietnamese": "bữa trưa"
+    },
+    {
+      "start": "0:01:29",
+      "end": "0:01:36",
+      "english": "dinner",
+      "subScriptEnglish": " _dinner_ ",
+      "matchedNewWords": [
+        "dinner"
+      ],
+      "vietnamese": "bữa tối"
+    },
+    {
+      "start": "0:01:51",
+      "end": "0:02:04",
+      "english": "cereal",
+      "subScriptEnglish": " _cereal_ ",
+      "matchedNewWords": [
+        "cereal"
+      ],
+      "vietnamese": "ngũ cốc"
+    },
+    {
+      "start": "0:02:08",
+      "end": "0:02:10",
+      "english": "toast",
+      "subScriptEnglish": " _toast_ ",
+      "matchedNewWords": [
+        "toast"
+      ],
+      "vietnamese": "bánh mì nướng"
+    },
+    {
+      "start": "0:02:11",
+      "end": "0:02:13",
+      "english": "bread",
+      "subScriptEnglish": " _bread_ ",
+      "matchedNewWords": [
+        "bread"
+      ],
+      "vietnamese": "bánh mì gối"
+    },
+    {
+      "start": "0:02:15",
+      "end": "0:02:16",
+      "english": "sandwich",
+      "subScriptEnglish": " _sandwich_ ",
+      "matchedNewWords": [
+        "sandwich"
+      ],
+      "vietnamese": "bánh mì kẹp"
+    },
+    {
+      "start": "0:02:18",
+      "end": "0:02:28",
+      "english": "toast",
+      "subScriptEnglish": " _toast_ ",
+      "matchedNewWords": [
+        "toast"
+      ],
+      "vietnamese": "bánh mì nướng"
+    },
+    {
+      "start": "0:02:28",
+      "end": "0:02:35",
+      "english": "bread",
+      "subScriptEnglish": " _bread_ ",
+      "matchedNewWords": [
+        "bread"
+      ],
+      "vietnamese": "bánh mì gối"
+    },
+    {
+      "start": "0:02:35",
+      "end": "0:02:46",
+      "english": "sandwich",
+      "subScriptEnglish": " _sandwich_ ",
+      "matchedNewWords": [
+        "sandwich"
+      ],
+      "vietnamese": "bánh mì kẹp"
+    },
+    {
+      "start": "0:03:01",
+      "end": "0:03:05",
+      "english": "rice",
+      "subScriptEnglish": " _rice_ ",
+      "matchedNewWords": [
+        "rice"
+      ],
+      "vietnamese": "cơm"
+    },
+    {
+      "start": "0:03:05",
+      "end": "0:03:08",
+      "english": "egg",
+      "subScriptEnglish": " _egg_ ",
+      "matchedNewWords": [
+        "egg"
+      ],
+      "vietnamese": "trứng"
+    },
+    {
+      "start": "0:03:08",
+      "end": "0:03:11",
+      "english": "soup",
+      "subScriptEnglish": " _soup_ ",
+      "matchedNewWords": [
+        "soup"
+      ],
+      "vietnamese": "súp"
+    },
+    {
+      "start": "0:03:11",
+      "end": "0:03:14",
+      "english": "fish",
+      "subScriptEnglish": " _fish_ ",
+      "matchedNewWords": [
+        "fish"
+      ],
+      "vietnamese": "cá"
+    },
+    {
+      "start": "0:03:14",
+      "end": "0:03:17",
+      "english": "chicken",
+      "subScriptEnglish": " _chicken_ ",
+      "matchedNewWords": [
+        "chicken"
+      ],
+      "vietnamese": "thịt gà"
+    },
+    {
+      "start": "0:03:17",
+      "end": "0:03:21",
+      "english": "vegetable",
+      "subScriptEnglish": " _vegetable_ ",
+      "matchedNewWords": [
+        "vegetable"
+      ],
+      "vietnamese": "rau"
+    },
+    {
+      "start": "0:03:22",
+      "end": "0:03:31",
+      "english": "rice",
+      "subScriptEnglish": " _rice_ ",
+      "matchedNewWords": [
+        "rice"
+      ],
+      "vietnamese": "cơm"
+    },
+    {
+      "start": "0:03:31",
+      "end": "0:03:37",
+      "english": "egg",
+      "subScriptEnglish": " _egg_ ",
+      "matchedNewWords": [
+        "egg"
+      ],
+      "vietnamese": "trứng"
+    },
+    {
+      "start": "0:03:37",
+      "end": "0:03:44",
+      "english": "soup",
+      "subScriptEnglish": " _soup_ ",
+      "matchedNewWords": [
+        "soup"
+      ],
+      "vietnamese": "súp"
+    },
+    {
+      "start": "0:03:44",
+      "end": "0:03:52",
+      "english": "fish",
+      "subScriptEnglish": " _fish_ ",
+      "matchedNewWords": [
+        "fish"
+      ],
+      "vietnamese": "cá"
+    },
+    {
+      "start": "0:03:52",
+      "end": "0:03:59",
+      "english": "chicken",
+      "subScriptEnglish": " _chicken_ ",
+      "matchedNewWords": [
+        "chicken"
+      ],
+      "vietnamese": "thịt gà"
+    },
+    {
+      "start": "0:03:59",
+      "end": "0:04:09",
+      "english": "vegetable",
+      "subScriptEnglish": " _vegetable_ ",
+      "matchedNewWords": [
+        "vegetable"
+      ],
+      "vietnamese": "rau"
+    },
+    {
+      "start": "0:04:15",
+      "end": "0:04:28",
+      "english": "fruit",
+      "subScriptEnglish": " _fruit_ ",
+      "matchedNewWords": [
+        "fruit"
+      ],
+      "vietnamese": "hoa quả"
+    },
+    {
+      "start": "0:04:39",
+      "end": "0:04:42",
+      "english": "pasta",
+      "subScriptEnglish": " _pasta_ ",
+      "matchedNewWords": [
+        "pasta"
+      ],
+      "vietnamese": "mì Ý"
+    },
+    {
+      "start": "0:04:43",
+      "end": "0:04:45",
+      "english": "pizza",
+      "subScriptEnglish": " _pizza_ ",
+      "matchedNewWords": [
+        "pizza"
+      ],
+      "vietnamese": "pizza"
+    },
+    {
+      "start": "0:04:46",
+      "end": "0:04:55",
+      "english": "pasta",
+      "subScriptEnglish": " _pasta_ ",
+      "matchedNewWords": [
+        "pasta"
+      ],
+      "vietnamese": "mì Ý"
+    },
+    {
+      "start": "0:04:55",
+      "end": "0:05:02",
+      "english": "pizza",
+      "subScriptEnglish": " _pizza_ ",
+      "matchedNewWords": [
+        "pizza"
+      ],
+      "vietnamese": "pizza"
+    },
+    {
+      "start": "0:05:13",
+      "end": "0:05:15",
+      "english": "tea",
+      "subScriptEnglish": " _tea_ ",
+      "matchedNewWords": [
+        "tea"
+      ],
+      "vietnamese": "trà"
+    },
+    {
+      "start": "0:05:16",
+      "end": "0:05:18",
+      "english": "coffee",
+      "subScriptEnglish": " _coffee_ ",
+      "matchedNewWords": [
+        "coffee"
+      ],
+      "vietnamese": "cà phê"
+    },
+    {
+      "start": "0:05:20",
+      "end": "0:05:26",
+      "english": "tea",
+      "subScriptEnglish": " _tea_ ",
+      "matchedNewWords": [
+        "tea"
+      ],
+      "vietnamese": "trà"
+    },
+    {
+      "start": "0:05:26",
+      "end": "0:05:33",
+      "english": "coffee",
+      "subScriptEnglish": " _coffee_ ",
+      "matchedNewWords": [
+        "coffee"
+      ],
+      "vietnamese": "cà phê"
+    },
+    {
+      "start": "0:05:45",
+      "end": "0:05:47",
+      "english": "milk",
+      "subScriptEnglish": " _milk_ ",
+      "matchedNewWords": [
+        "milk"
+      ],
+      "vietnamese": "sữa"
+    },
+    {
+      "start": "0:05:47",
+      "end": "0:05:48",
+      "english": "juice",
+      "subScriptEnglish": " _juice_ ",
+      "matchedNewWords": [
+        "juice"
+      ],
+      "vietnamese": "nước hoa quả"
+    },
+    {
+      "start": "0:05:49",
+      "end": "0:05:52",
+      "english": "bottled water",
+      "subScriptEnglish": " _bottled_water_ ",
+      "matchedNewWords": [
+        "bottled water"
+      ],
+      "vietnamese": "nước uống đóng chai"
+    },
+    {
+      "start": "0:05:52",
+      "end": "0:05:55",
+      "english": "milk",
+      "subScriptEnglish": " _milk_ ",
+      "matchedNewWords": [
+        "milk"
+      ],
+      "vietnamese": "sữa"
+    },
+    {
+      "start": "0:05:55",
+      "end": "0:06:01",
+      "english": "juice",
+      "subScriptEnglish": " _juice_ ",
+      "matchedNewWords": [
+        "juice"
+      ],
+      "vietnamese": "nước hoa quả"
+    },
+    {
+      "start": "0:06:02",
+      "end": "0:06:07",
+      "english": "bottled water",
+      "subScriptEnglish": " _bottled_water_ ",
+      "matchedNewWords": [
+        "bottled water"
+      ],
+      "vietnamese": "nước uống đóng chai"
+    },
+    {
+      "start": "0:06:09",
+      "end": "0:06:15",
+      "english": "milk",
+      "subScriptEnglish": " _milk_ ",
+      "matchedNewWords": [
+        "milk"
+      ],
+      "vietnamese": "sữa"
+    },
+    {
+      "start": "0:06:15",
+      "end": "0:06:21",
+      "english": "juice",
+      "subScriptEnglish": " _juice_ ",
+      "matchedNewWords": [
+        "juice"
+      ],
+      "vietnamese": "nước hoa quả"
+    },
+    {
+      "start": "0:06:21",
+      "end": "0:06:31",
+      "english": "bottled water",
+      "subScriptEnglish": " _bottled_water_ ",
+      "matchedNewWords": [
+        "bottled water"
+      ],
+      "vietnamese": "nước uống đóng chai"
+    }
+  ],
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:00:47.375",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "3d9089c6-40b7-4755-ab9a-3ec13ea51098",
+                "dapAn": "e"
+              },
+              {
+                "_id": "39a29bce-e987-41a6-9627-62c736c165ce",
+                "dapAn": "a"
+              },
+              {
+                "_id": "b8c4ba24-6872-4818-9cd4-0290083cb81a",
+                "dapAn": "r"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "6ead048b-d354-4249-9ab7-ecdc89e2385c",
+                "dapAn": "d"
+              },
+              {
+                "_id": "4aab2aaa-dc83-40c6-a9ae-7e4a9ecc1683",
+                "dapAn": "a"
+              },
+              {
+                "_id": "1437d375-0ce0-4815-9fe6-110eda551063",
+                "dapAn": "r"
+              },
+              {
+                "_id": "95ed8de7-684a-4985-87f0-4214281d6bbd",
+                "dapAn": "k"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "fc8e1fa4-b362-44e6-9e8d-4075d4e6749f",
+                "dapAn": "l"
+              },
+              {
+                "_id": "71aedcd8-8dee-4a41-bd92-9678d6fbf938",
+                "dapAn": "e"
+              },
+              {
+                "_id": "3628a11c-3487-488e-99c3-6834972b0b01",
+                "dapAn": "g"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "cdce007e-ee9e-4648-8c61-a1c43f73db64",
+                "dapAn": "n"
+              },
+              {
+                "_id": "8e7b0a4b-7914-44cb-99b9-ecac6e82688c",
+                "dapAn": "o"
+              },
+              {
+                "_id": "4163eb19-165f-462b-a11a-ae5b01582471",
+                "dapAn": "s"
+              },
+              {
+                "_id": "25fa3213-0514-4a65-9915-761efc3b62dd",
+                "dapAn": "e"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "36ee1bc1-517f-417a-a6fc-aa112e0b01e9",
+                "dapAn": "o"
+              },
+              {
+                "_id": "3220dc2f-d1bc-4acb-a668-3c24a1827936",
+                "dapAn": "l"
+              },
+              {
+                "_id": "c929c531-fe3a-4e0d-84d1-cb7fad577d50",
+                "dapAn": "d"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "200ab106-cbda-4ca0-94b3-8049aff83300",
+                "dapAn": "s"
+              },
+              {
+                "_id": "25e1acdf-8a0f-479e-a628-e0af98ab8400",
+                "dapAn": "l"
+              },
+              {
+                "_id": "a926ff4c-e856-4278-8fe0-d2926989b3e1",
+                "dapAn": "i"
+              },
+              {
+                "_id": "b136c4b4-e0eb-4b2d-b66d-a8717a1bf4cd",
+                "dapAn": "m"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "933d2da0-0bdc-431e-9449-278ae31b3b6d",
+                "dapAn": "m"
+              },
+              {
+                "_id": "77231481-a465-4af1-8187-941e384ff4cf",
+                "dapAn": "o"
+              },
+              {
+                "_id": "f5ee9329-8359-4a4d-8a50-180dde4efcb4",
+                "dapAn": "u"
+              },
+              {
+                "_id": "43a91670-94a8-4b4b-a547-87ec92720fbb",
+                "dapAn": "t"
+              },
+              {
+                "_id": "017b3cc2-6ab8-40e0-9bad-63b49c393177",
+                "dapAn": "h"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "e238eb8d-c1e6-4a57-8688-04a0d5f81c8f",
+                "dapAn": "a"
+              },
+              {
+                "_id": "2589976f-ed96-4d97-bf9f-23f033d12e56",
+                "dapAn": "r"
+              },
+              {
+                "_id": "9d9882df-8c8b-4697-8af5-9f8feb1552be",
+                "dapAn": "m"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "05272f5e-cca3-40b5-8e55-6a7f3b0fe6c6",
+                "dapAn": "y"
+              },
+              {
+                "_id": "511ab19a-e80b-4d9e-b970-ca1dc25cdc35",
+                "dapAn": "o"
+              },
+              {
+                "_id": "d0c9d8e9-bf5e-4cbb-a9b5-76be44490556",
+                "dapAn": "u"
+              },
+              {
+                "_id": "fde782fb-7632-4122-be46-532b8e14605f",
+                "dapAn": "n"
+              },
+              {
+                "_id": "217e331f-4428-4aa4-8a43-6f4ce9f6bfb3",
+                "dapAn": "g"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "1d573f7e-3176-4747-84ff-07ab6c0e021f",
+                "dapAn": "h"
+              },
+              {
+                "_id": "ccc17a33-3223-4a14-8a3d-096d357adce0",
+                "dapAn": "e"
+              },
+              {
+                "_id": "898d1851-594b-4b1f-9302-f58b5cbbbc79",
+                "dapAn": "a"
+              },
+              {
+                "_id": "74bd7145-7ea5-489a-ba55-cf44681b351b",
+                "dapAn": "v"
+              },
+              {
+                "_id": "8a02f54a-588c-42f6-afde-9b347143e61d",
+                "dapAn": "y"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:00:47.375",
+      "timeEnd": "0:06:39.543",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Egg",
+            "_id": {
+              "$oid": "b3d03a96-a5e6-4f8d-9a83-2ae0cbd175dc"
+            },
+            "yNghia": "Trứng"
+          },
+          {
+            "cauHoi": "Cereal",
+            "_id": {
+              "$oid": "64fc464b-4943-49ab-848d-17eeb9896c19"
+            },
+            "yNghia": "Ngũ cốc"
+          },
+          {
+            "cauHoi": "Toast",
+            "_id": {
+              "$oid": "03904061-8f23-4a00-aa38-310b577fda13"
+            },
+            "yNghia": "Bánh mì nướng"
+          },
+          {
+            "cauHoi": "Sandwich",
+            "_id": {
+              "$oid": "1caa2197-248d-4773-887d-eceeb69f4ded"
+            },
+            "yNghia": "Bánh mì sandwich"
+          },
+          {
+            "cauHoi": "Vegetables",
+            "_id": {
+              "$oid": "5498c1ff-4944-45c1-a1d9-95fa65cba01c"
+            },
+            "yNghia": "Rau"
+          },
+          {
+            "cauHoi": "Chicken",
+            "_id": {
+              "$oid": "bad401cf-e602-48d4-aa06-7158eb9735ba"
+            },
+            "yNghia": "Thịt gà"
+          },
+          {
+            "cauHoi": "Fish",
+            "_id": {
+              "$oid": "e64bcc7f-76bf-467a-b16a-52002390361f"
+            },
+            "yNghia": "Cá"
+          },
+          {
+            "cauHoi": "Juice",
+            "_id": {
+              "$oid": "6a105105-e86b-410c-9825-f79766a6edbe"
+            },
+            "yNghia": "Nước hoa quả"
+          }
+        ]
+      }
+    }
+  ]
+}

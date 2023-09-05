@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_MTC_L4/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_MTC_L4/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "0608158d-a196-4708-8a2f-b8b673958a52"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Host",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cae9d993-28d6-4286-8ca0-5b9ce01a4a47"
+          },
+          "dapAn": "Welcome to our open day at Rashford Zoo. Let's start with a very interesting topic.\n",
+          "phienAm": "/ˈwelkəm tuː ˈaʊər ˈəʊpən deɪ æt ræʃfɔːd zuː/. /lets stɑːt wɪð eɪ ˈveri ˈɪntrəstɪŋ ˈtɒpɪk/",
+          "yNghia": "\nChào mừng đến với ngày mở cửa của chúng tôi tại Sở thú Rashford. Hãy bắt đầu với một chủ đề rất thú vị nhé.",
+          "normal": {
+            "start": "00:00:00.503",
+            "end": "00:00:06.663"
+          },
+          "slow": {
+            "start": "00:00:00.427",
+            "end": "00:00:10.039"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ef14a40c-d0c3-4960-a872-204367ecaa47"
+          },
+          "dapAn": "It is about the work we do at the zoo.\n",
+          "phienAm": "/ɪt ɪz əˈbaʊt ðə wɜːk wiː duː æt ðə zuː/",
+          "yNghia": "\nĐó là về công việc chúng tôi làm ở sở thú.",
+          "normal": {
+            "start": "00:00:08.738",
+            "end": "00:00:11.755"
+          },
+          "slow": {
+            "start": "00:00:12.902",
+            "end": "00:00:17.814"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b09f27c6-0cc9-49bd-9d15-d155f5ad3068"
+          },
+          "dapAn": "When you visit a zoo, do you see animals from many different types of places?\n",
+          "phienAm": "/wen juː ˈvɪzɪt eɪ zuː<b> </b>duː juː siːˈænɪməlz frɒm ˈmeni ˈdɪfrənt taɪps ɒv ˈpleɪsɪz/",
+          "yNghia": "\nKhi bạn đến thăm sở thú, bạn có thấy động vật đến từ nhiều loại địa điểm khác nhau không?",
+          "normal": {
+            "start": "00:00:15.276",
+            "end": "00:00:21.059"
+          },
+          "slow": {
+            "start": "00:00:22.984",
+            "end": "00:00:31.570"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "73190172-e8d2-4ce4-96d2-556bd3dd0ba0"
+          },
+          "dapAn": "Our duties are providing an environment for each animal that is similar to where they live in the wild.\n",
+          "phienAm": "/ˈaʊər ˈdjuːtiz ɑːr prəˈvaɪdɪŋ æn ɪnˈvaɪrənmənt fɔːr iːʧ ˈænɪməl ðæt ɪz ˈsɪmɪlər tuː weər ðeɪ lɪv ɪn ðə waɪld/",
+          "yNghia": "\nNhiệm vụ của chúng tôi là cung cấp môi trường cho từng loài động vật tương tự như nơi chúng sống trong tự nhiên.",
+          "normal": {
+            "start": "00:00:27.785",
+            "end": "00:00:34.072"
+          },
+          "slow": {
+            "start": "00:00:39.260",
+            "end": "00:00:49.812"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a595c514-0aef-46b1-b47f-1360a704ae1b"
+          },
+          "dapAn": "No, it isn't always possible, but we try to get as close as we can.\n",
+          "phienAm": "/nəʊ ɪt ˈɪznt ˈɔːlweɪz ˈpɒsəbl bʌt wiː traɪ tuː get æz kləʊs æz wiː kæn/",
+          "yNghia": " \nKhông, không phải lúc nào cũng có thể, nhưng chúng tôi cố gắng nhất có thể.",
+          "normal": {
+            "start": "00:00:39.918",
+            "end": "00:00:45.701"
+          },
+          "slow": {
+            "start": "00:00:58.057",
+            "end": "00:01:06.345"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ec5b9a75-3ad5-4253-a96f-1f8d288388c2"
+          },
+          "dapAn": "We want to educate people about the dangers some animals face in the wild.\n",
+          "phienAm": "/wiː wɒnt tuː ˈedʒukeɪt ˈpiːpl əˈbaʊt ðə ˈdeɪnʤəz sʌm ˈænɪməlz feɪs ɪn ðə waɪld/",
+          "yNghia": "\nChúng tôi muốn giáo dục mọi người về sự nguy hiểm mà một số loài động vật phải đối mặt trong tự nhiên.",
+          "normal": {
+            "start": "00:00:52.616",
+            "end": "00:00:58.274"
+          },
+          "slow": {
+            "start": "00:01:15.231",
+            "end": "00:01:23.219"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d3d4833a-35e9-4be1-8dd1-b3be4594c93c"
+          },
+          "dapAn": "Yes, they will talk about the threats to animals' habitats and what we can do to help.\n",
+          "phienAm": "/jes ðeɪ wɪl tɔːk əˈbaʊt ðə θrets tuː ˈænɪməlz ˈhæbɪtæts ænd wɒt wiː kæn duː tuː help/",
+          "yNghia": "\nĐúng vậy, họ sẽ nói về các mối đe dọa đối tới môi trường sống của động vật và chúng ta có thể làm gì để giúp đỡ.",
+          "normal": {
+            "start": "00:01:05.503",
+            "end": "00:01:12.104"
+          },
+          "slow": {
+            "start": "00:01:31.422",
+            "end": "00:01:41.803"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4fd826d8-4571-4d09-b62a-a56fdbca1c6a"
+          },
+          "dapAn": "Together with other zoos, we have animal breeding programs.\n",
+          "phienAm": "/təˈgeðər wɪð ˈʌðər zuːz wiː hæv ˈænɪməl ˈbriːdɪŋ ˈprəʊgræmz/",
+          "yNghia": "\nPhối hợp cùng với các sở thú khác, chúng tôi có các chương trình nhân giống động vật.",
+          "normal": {
+            "start": "00:01:16.944",
+            "end": "00:01:21.784"
+          },
+          "slow": {
+            "start": "00:01:48.254",
+            "end": "00:01:55.217"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "cfb393c2-cb26-481c-8de6-4b45b37b41d8"
+          },
+          "dapAn": "We make sure there are enough animals in zoos to keep the species going.\n",
+          "phienAm": "/wiː meɪk ʃʊər ðeər ɑːr ɪˈnʌf ˈænɪməlz ɪn zuːz tuː kiːp ðə ˈspiːʃiːz ˈgəʊɪŋ/",
+          "yNghia": "\nChúng tôi đảm bảo có đủ động vật trong vườn thú để duy trì các loài.",
+          "normal": {
+            "start": "00:01:25.368",
+            "end": "00:01:30.585"
+          },
+          "slow": {
+            "start": "00:01:59.446",
+            "end": "00:01:06.410"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "adc6fea3-6be0-43ad-be4b-60e5c8818c7c"
+          },
+          "dapAn": "Yes, in some cases, that helps the species to recover.\n",
+          "phienAm": "/jes ɪn sʌm ˈkeɪsɪz ðæt helps ðə ˈspiːʃiːz tuː rɪˈkʌvə/",
+          "yNghia": "\nCó, trong một số trường hợp, điều đó giúp một số loài phục hồi.",
+          "normal": {
+            "start": "00:01:36.243",
+            "end": "00:01:40.895"
+          },
+          "slow": {
+            "start": "00:02:12.732",
+            "end": "00:02:18.671"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "bf98ade2-6c2d-45b5-bf42-7ee699516fb4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Mike",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2fa03a3e-e2da-4796-8290-6c33b9f5c799"
+          },
+          "dapAn": "What is that topic?\n",
+          "phienAm": "/wɒt ɪz ðæt ˈtɒpɪk/",
+          "yNghia": "\r\nChủ đề đó là gì?",
+          "normal": {
+            "start": "00:00:06.915",
+            "end": "00:00:08.298"
+          },
+          "slow": {
+            "start": "00:00:10.595",
+            "end": "00:00:12.261"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "83cebabb-647b-4829-9a4b-80df06a0158e"
+          },
+          "dapAn": "Yeah, I'm excited to hear about it.\n",
+          "phienAm": "/jeə aɪm ɪkˈsaɪtɪd tuː hɪər əˈbaʊt ɪt/",
+          "yNghia": " \nỒ, tôi rất hào hứng khi nghe về nó.",
+          "normal": {
+            "start": "00:00:12.070",
+            "end": "00:00:14.961"
+          },
+          "slow": {
+            "start": "00:00:18.797",
+            "end": "00:00:22.343"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a7268356-9639-4fea-ab33-a41640c8cc01"
+          },
+          "dapAn": "Yes, I do. There are a lot of animals that I've never seen before.\n",
+          "phienAm": "/jes aɪ duː/. /ðeər ɑːr eɪ lɒt ɒv ˈænɪməlz ðæt aɪv ˈnevər siːn bɪˈfɔːr/",
+          "yNghia": "\nCó, tôi có. Có rất nhiều loài động vật mà tôi chưa từng thấy trước đây.",
+          "normal": {
+            "start": "00:00:22.065",
+            "end": "00:00:26.905"
+          },
+          "slow": {
+            "start": "00:00:32.425",
+            "end": "00:00:38.278"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e5a66d7f-b3ab-4b06-abd4-d1f9e196b652"
+          },
+          "dapAn": "You can provide miles of ice and snow for the penguins, can't you?\n",
+          "phienAm": "/juː kæn prəˈvaɪd maɪlz ɒv aɪs ænd snəʊ fɔːr ðə ˈpeŋgwɪnz kɑːnt juː/",
+          "yNghia": "\nBạn có thể cung cấp hàng dặm băng và tuyết cho chim cánh cụt phải không?",
+          "normal": {
+            "start": "00:00:35.015",
+            "end": "00:00:39.101"
+          },
+          "slow": {
+            "start": "00:00:50.966",
+            "end": "00:00:56.562"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "71bd69af-0993-41d8-928f-206165c94091"
+          },
+          "dapAn": "I also see a lot of posters around the zoo. What message do they convey?\n",
+          "phienAm": "/aɪ ˈɔːlsəʊ siː eɪ lɒt ɒv ˈpəʊstəz əˈraʊnd ðə zuː/. /wɒt ˈmesɪʤ duː ðeɪ kənˈveɪ/",
+          "yNghia": "\nTôi cũng thấy rất nhiều áp phích xung quanh sở thú. Chúng truyền tải thông điệp gì?",
+          "normal": {
+            "start": "00:00:46.393",
+            "end": "00:00:51.610"
+          },
+          "slow": {
+            "start": "00:01:07.327",
+            "end": "00:01:14.334"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "cc1e89fb-3a91-459e-80fb-30128a0e488e"
+          },
+          "dapAn": "Besides, zookeepers also organize some free-talk sessions, don't they?\n",
+          "phienAm": "/bɪˈsaɪdz ˈzuːˌkiːpəz ˈɔːlsəʊ ˈɔːgənaɪz sʌm friː-tɔːk ˈseʃənz<b> </b>dəʊnt ðeɪ/",
+          "yNghia": "\nBên cạnh đó, những người trông coi vườn thú cũng tổ chức một số buổi trò chuyện tự do phải không?",
+          "normal": {
+            "start": "00:00:59.594",
+            "end": "00:01:04.246"
+          },
+          "slow": {
+            "start": "00:01:23.903",
+            "end": "00:01:30.653"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "098d8a5e-e2fa-4a16-9a28-ad76ed384e15"
+          },
+          "dapAn": "Do you organize any other programs that help animals?\n",
+          "phienAm": "/duː juː ˈɔːgənaɪz ˈeni ˈʌðər 'prəʊgræmz ðæt help ˈænɪməlz/",
+          "yNghia": "\nBạn có tổ chức bất kỳ chương trình nào khác giúp đỡ động vật không?",
+          "normal": {
+            "start": "00:01:12.984",
+            "end": "00:01:16.315"
+          },
+          "slow": {
+            "start": "00:01:42.999",
+            "end": "00:01:47.399"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "72726084-39d8-43f7-9f45-c232dc58e2a8"
+          },
+          "dapAn": "Can you give more details about them?\n",
+          "phienAm": "/kæn juː gɪv mɔːr ˈdiːteɪlz əˈbaʊt ðem/",
+          "yNghia": "\nBạn có thể cho biết thêm chi tiết về chúng?",
+          "normal": {
+            "start": "00:01:22.602",
+            "end": "00:01:24.613"
+          },
+          "slow": {
+            "start": "00:01:55.858",
+            "end": "00:01:58.507"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "057e005d-e143-4856-bc2b-952212c88e96"
+          },
+          "dapAn": "Do you take animals from zoos and release them into the wild?\n",
+          "phienAm": "/duː juː teɪk ˈænɪməlz frɒm zuːz ænd rɪˈliːs ðem ˈɪntuː ðə waɪld/",
+          "yNghia": "\nBạn có thả động vật từ vườn thú vào tự nhiên không?",
+          "normal": {
+            "start": "00:01:31.340",
+            "end": "00:01:35.551"
+          },
+          "slow": {
+            "start": "00:02:07.136",
+            "end": "00:02:11.835"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5570866e-484b-41db-afd0-5cee69ef604d"
+          },
+          "dapAn": "Great! Thank you for answering my questions. I got more information about the zoos.\n",
+          "phienAm": "/greɪt/. /θæŋk juː fɔːr ˈɑːnsərɪŋ maɪ ˈkwesʧənz/. /aɪ gɒt mɔːr ˌɪnfəˈmeɪʃən əˈbaʊt ðə zuːz/",
+          "yNghia": "\nThật tuyệt vời! Cám ơn vì đã trả lời các câu hỏi của tôi. Tôi đã có thêm thông tin về sở thú.",
+          "normal": {
+            "start": "00:01:42.215",
+            "end": "00:01:47.810"
+          },
+          "slow": {
+            "start": "00:02:19.397",
+            "end": "00:02:26.574"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "c9e509f9-8290-4729-9fd9-233fe837522f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Good afternoon. I’m in Pittsburgh, Pennsylvania. Thanks for inviting me to visit your ____________, Alan.",
+      "yNghia": "Good afternoon. I'm in Pittsburgh, Pennsylvania. Thanks for inviting me to visit your <span style=\"color:red\">hometown</span>, Alan.<br />\r\n<i>Chào buổi chiều. Tôi đang ở Pittsburgh, Pennsylvania. Cảm ơn vì đã mời tôi đến thăm <span style=\"color:red\">quê hương </span>của bạn, Alan.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c67c1de3-9d87-49a0-88e3-2fe02a2f80e7"
+          },
+          "dapAn": "town",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a8a828ac-68bb-4c81-ada6-852997c8d6f8"
+          },
+          "dapAn": "city",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e3fb5a94-a552-4fa4-b3d5-15a8f0722fea"
+          },
+          "dapAn": "hometown",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_1. Good ... Alan.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_1. Good ... Alan.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "91fb1bdb-20ed-49a7-b965-6f85371aedf5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You are welcome. Is it _________ here?",
+      "yNghia": "You are welcome. Is it <span style=\"color:red\">beautiful </span>here?<br />\r\n<i>Không có gì. Ở đây có <span style=\"color:red\">đẹp </span>không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ecb34e2c-fbd6-4a5f-9b2f-1ffe259b8de6"
+          },
+          "dapAn": "stunning",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9d1341c2-512c-4fbb-8799-c26f04977c08"
+          },
+          "dapAn": "beautiful",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ddb89513-5e48-40c6-89fc-2f0b8f1976b5"
+          },
+          "dapAn": "fresh",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_2. You ... here.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_2. You ... here.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "7af50ab1-d389-4b36-8331-3ebb90eb1616"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes, it’s so __________ and clean.",
+      "yNghia": "Yes, it's so <span style=\"color:red\">stunning </span>and clean.<br />\r\n<i>Có, rất <span style=\"color:red\">đẹp </span>và sạch sẽ.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b5e64246-1dd4-4e3c-ac43-c52f182e4216"
+          },
+          "dapAn": "wonderful",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ec88e068-d952-4491-be75-3352db3fc67a"
+          },
+          "dapAn": "spectacular",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a58d64b6-c1ce-4fa8-819f-3b5ad6b537f0"
+          },
+          "dapAn": "stunning",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_3. Ít_s ... clean.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_3. Ít_s ... clean.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "81df3492-f1b9-4180-ab65-93b4c7f1769a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "But it has _________ a lot.",
+      "yNghia": "But it has <span style=\"color:red\">changed </span>a lot.<br />\r\n<i>Nhưng nó đã <span style=\"color:red\">thay đổi </span>rất nhiều rồi.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ac88057e-51c1-466e-af17-c478fd8ccf22"
+          },
+          "dapAn": "changed",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b2975793-1980-455a-9511-30361150d321"
+          },
+          "dapAn": "improved",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b94cf7ef-f9ad-491e-96d6-59af31a21905"
+          },
+          "dapAn": "grew",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_4. But ... a lot.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_4. But ... a lot.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "19cbcdf7-2c85-4c74-bc32-90dadd688183"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Really? _________ has it changed?",
+      "yNghia": "Really? <span style=\"color:red\">How </span>has it changed?<br />\r\n<i>Có thật không? Nó đã thay đổi <span style=\"color:red\">như thế nào</span>?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f408c69a-efd3-4a85-889c-f17883ea7a6f"
+          },
+          "dapAn": "When",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f049518d-d0f3-4e3f-80bf-f817541ec0e8"
+          },
+          "dapAn": "Where",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ffeac70c-f582-4adf-848a-6bc99638821d"
+          },
+          "dapAn": "How",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_5. Really ... changed.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_5. Really ... changed.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3d33e492-50d5-4f26-a8e2-c4cd860d13f8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Pittsburgh was a very industrial city in the past, and it was really _________.",
+      "yNghia": "Pittsburgh was a very industrial city in the past, and it was really <span style=\"color:red\">polluted</span>.<br />\n<i>Pittsburgh trước đây là một thành phố rất công nghiệp và nó bị <span style=\"color:red\">ô nhiễm </span>nặng nề.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ea86747e-38c8-416a-98a2-9916ba847132"
+          },
+          "dapAn": "polluted",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cfac7329-8b45-4643-9d03-27d3020da3c7"
+          },
+          "dapAn": "busy",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bf777fe3-a30d-4737-b0ab-022479de7190"
+          },
+          "dapAn": "crowded",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_6. Pittburgh ... polluted.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_6. Pittburgh ... polluted.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "8aad1dd7-d95c-4fa6-87d1-a9aa00a78f56"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Oh, wow. How long has _________ been this way?",
+      "yNghia": "Oh, wow. How long has <span style=\"color:red\">it </span>been this way?<br />\r\n<i>Ồ. <span style=\"color:red\">Nó </span>đã như vậy bao lâu rồi?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "edd6972c-60f5-473c-bdfe-d2897666d4b3"
+          },
+          "dapAn": "the city",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a10258db-472d-4e2c-9e86-072613839b70"
+          },
+          "dapAn": "it",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8a233a0c-7c1c-43c0-8b81-b9e24a93669a"
+          },
+          "dapAn": "your hometown",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_7. Oh ... way.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_7. Oh ... way.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d2d626f3-e0d4-4b90-a3b5-fff0b7dd2c51"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Since the 1980s, I think. That’s when the factories _________ and the city started to change.",
+      "yNghia": "Since the 1980s, I think. That's when the factories <span style=\"color:red\">closed </span>and the city started to change.<br />\r\n<i>Từ những năm 1980, tôi nghĩ vậy. Đó là khi các nhà máy <span style=\"color:red\">đóng cửa </span>và thành phố bắt đầu thay đổi.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "67dc6f50-759e-407d-9b9c-f9849ca7f1f3"
+          },
+          "dapAn": "bankrupted",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f3a88c07-3217-4fa5-8da7-cafd1d70b6d5"
+          },
+          "dapAn": "opened",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f4dcbc71-549c-4c03-90a3-bfeb244073a2"
+          },
+          "dapAn": "closed",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_8. Since ... change.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_8. Since ... change.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b70948cb-5191-42db-8b62-4095b1e38974"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "So what kinds of ___________ have happened?",
+      "yNghia": "So what kinds of <span style=\"color:red\">changes </span>have happened?<br />\r\n<i>Vậy, <span style=\"color:red\">những thay đổi </span>gì đã diễn ra?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cb48870a-c352-4ede-b4fd-36c829d16ea8"
+          },
+          "dapAn": "issues",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a8b7910f-8dd5-4df9-85b0-33df36f57b27"
+          },
+          "dapAn": "changes",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bc407d01-7c8f-405b-934d-9aeb9be42c25"
+          },
+          "dapAn": "things",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_9. So ,,, happened.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_9. So ,,, happened.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f0aa8618-375e-4f71-975f-1a4e0bfdb4bd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Lots of things. They’ve created a lot of green spaces with walking trails and _______________.",
+      "yNghia": "Lots of things. They've created a lot of green spaces with walking trails and <span style=\"color:red\">playgrounds</span>.<br />\r\n<i>Nhiều thứ lắm. Họ đã tạo ra rất nhiều không gian xanh với những con đường mòn đi bộ và <span style=\"color:red\">sân chơi</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "294b1e3a-68f3-4f54-854c-5ef5ad6ee516"
+          },
+          "dapAn": "playgrounds",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c96cfb3f-50c1-4660-8ee9-49249a1085a9"
+          },
+          "dapAn": "buildings",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9608000c-cf88-4f42-a6fe-b459c46ccbb4"
+          },
+          "dapAn": "malls",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_10. Lots ... playgrounds.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_10. Lots ... playgrounds.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "88d37791-519f-4793-8aee-992045c0fd48"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I see _________ pedestrian areas and bike lanes too.",
+      "yNghia": "I see <span style=\"color:red\">a lot of </span>pedestrian areas and bike lanes too.<br />\r\n<i>Tôi thấy có <span style=\"color:red\">rất nhiều </span>khu vực dành cho người đi bộ và cả làn đường dành cho xe đạp.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2d5a9861-0506-4e05-ab9f-247e16a218ba"
+          },
+          "dapAn": "lots of",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "819dc12c-46d1-4083-8bd3-3091dee3eacb"
+          },
+          "dapAn": "a lot of",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0a1c3902-1a8c-4491-baf0-728034edaacd"
+          },
+          "dapAn": "many",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_11. I ,,, too.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_11. I ,,, too.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1b452454-1c23-44d0-b7e5-3d8817b68484"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes. Now people _________ and bike a lot more.",
+      "yNghia": "Yes. Now people <span style=\"color:red\">walk </span>and bike a lot more.<br />\r\n<i>Đúng vậy. Bây giờ người ta <span style=\"color:red\">đi bộ </span>và đi xe đạp nhiều hơn.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1f1feea9-df7c-41aa-afb7-02f01d3bf81a"
+          },
+          "dapAn": "go jogging",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "550388df-fc96-4bc4-bebd-e196f7749766"
+          },
+          "dapAn": "walk",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ab0283e6-4967-444f-9c65-2179d26bedd9"
+          },
+          "dapAn": "run",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_12. Yes ... more.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_12. Yes ... more.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "7cc92674-63b8-4488-987c-e9af3e606827"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That’s really cool. Hey, what are all those people doing around that _________?",
+      "yNghia": "That's really cool. Hey, what are all those people doing around that <span style=\"color:red\">truck</span>?<br />\r\n<i>Điều đó thực sự tuyệt vời. Này, mọi người đang làm gì xung quanh <span style=\"color:red\">chiếc xe tải </span>đó vậy?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b43a3ab1-59be-4b04-8176-55786e1e14bd"
+          },
+          "dapAn": "car",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "60b9fa7f-849e-4ad3-938e-bc7dc4493142"
+          },
+          "dapAn": "truck",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e14ace6e-bfc9-42e0-9189-cdadc42a070c"
+          },
+          "dapAn": "taxi",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_13. That_s ... truck.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_13. That_s ... truck.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "8d39b603-9577-4bb0-8f23-fad708f290df"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Oh, that’s a food truck. Do you have those in your _________?",
+      "yNghia": "Oh, that's a food truck. Do you have those in your <span style=\"color:red\">city</span>?<br />\r\n<i>Ồ, đó là một chiếc xe bán đồ ăn lưu động. Ở <span style=\"color:red\">thành phố </span>của bạn có những chiếc xe tải đó không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7b46dcbb-f536-4efc-a5b4-9a0fa0d837a0"
+          },
+          "dapAn": "town",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "219d5b50-7133-4280-a180-a4ea1d766f8c"
+          },
+          "dapAn": "country",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "11a32b5a-72c8-40b4-b713-73d3d3703bdc"
+          },
+          "dapAn": "city",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_14. Oh ... city.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_14. Oh ... city.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "746d4bd2-9cc0-466d-a6f3-fb7e71966fcc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "No, we don’t. It’s so _________ to me.",
+      "yNghia": "No, we don't. It's so <span style=\"color:red\">weird </span>to me.<br />\r\n<i>Không, chúng tôi không có. Tôi thấy nó rất <span style=\"color:red\">kỳ lạ</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a0812dca-8217-42bd-8b0f-ca0347cf01c1"
+          },
+          "dapAn": "interesting",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c5c88473-12bc-40e5-ab3c-b18ff052cc64"
+          },
+          "dapAn": "weird",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "17467e76-f988-4c27-8178-dafad9c040df"
+          },
+          "dapAn": "familiar",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_15. No ... me.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_15. No ... me.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "fc6368d4-a55e-49fb-9b65-c0bc591292e7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Food trucks have become very popular in the US. They have a lot of different kinds of _________, and it’s fast and not very expensive.",
+      "yNghia": "Food trucks have become very popular in the US. They have a lot of different kinds of <span style=\"color:red\">food</span>, and it's fast and not very expensive.<br />\r\n<i>Xe bán đồ ăn lưu động đã trở nên rất phổ biến ở Mỹ. Họ có rất nhiều loại <span style=\"color:red\">thức ăn</span> khác nhau, nó rất nhanh và không đắt lắm.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "71b0f129-ab82-41a9-94b2-2a8776bb244c"
+          },
+          "dapAn": "drinks",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9a022ae7-5008-496e-80df-5929b0ca59f2"
+          },
+          "dapAn": "food",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "13c3842d-ca70-4651-9a89-21d72532ad31"
+          },
+          "dapAn": "fruit",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_16. Food ... expensive.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_16. Food ... expensive.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6a326c02-d13b-4e88-a9e2-c28b0fc49ebd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That’s a _________ idea!",
+      "yNghia": "That's a <span style=\"color:red\">great </span>idea!<br />\r\n<i>Đó là một ý tưởng <span style=\"color:red\">tuyệt vời</span>!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ba049dc1-def7-4387-bea6-b36f6befe23e"
+          },
+          "dapAn": "good",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9ece690f-14ca-4986-80ab-bc84c71e38af"
+          },
+          "dapAn": "great",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7708be56-ea3c-4908-86d4-83b413308e09"
+          },
+          "dapAn": "perfect",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_17. That_s ... idea.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_17. That_s ... idea.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "11011177-7cac-437d-a805-fa9fba42c2fa"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That truck has _________ food. Do you want some?",
+      "yNghia": "That truck has <span style=\"color:red\">Chinese </span>food. Do you want some?<br />\r\n<i>Chiếc xe tải đó có đồ ăn <span style=\"color:red\">Trung Quốc</span>. Bạn có muốn ăn một chút không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8d667bf0-89d1-4b67-a2ac-3fe11eba4e0a"
+          },
+          "dapAn": "Chinese",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d4396084-623e-45dc-8004-2e88649f0364"
+          },
+          "dapAn": "Thai",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a2f015ad-9d70-42bd-b6b2-c2f91e03f3f6"
+          },
+          "dapAn": "Korean",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_18. That ... some.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_18. That ... some.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2e289506-457c-481c-a99b-00131359ceb1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yeah, I’m _________! I also love Chinese food.",
+      "yNghia": "Yeah, I'm <span style=\"color:red\">hungry</span>! I also love Chinese food.<br />\r\n<i>Vâng, tôi <span style=\"color:red\">đang đói</span>! Tôi cũng thích đồ ăn Trung Quốc.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ffcb8119-d62f-45c8-a251-aa3613d70e63"
+          },
+          "dapAn": "starving",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f84cbe2c-f8da-4048-bf18-9f90f1885904"
+          },
+          "dapAn": "thirsty",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9ad9275f-6209-4b83-8e3d-38f1e0125705"
+          },
+          "dapAn": "hungry",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_19. Yeah... food.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_19. Yeah... food.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e958e1d6-e7ca-486b-a823-77698da1fe56"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Me too. It’s so _________!",
+      "yNghia": "Me too. It's so <span style=\"color:red\">amazing</span>!<br />\n<i>Tôi cũng thế. Thật <span style=\"color:red\">tuyệt vời</span>!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1726d11f-014c-41ea-bb0b-ddcf9598d6c3"
+          },
+          "dapAn": "great",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "86b09d9d-28d9-4065-a177-538444fe281e"
+          },
+          "dapAn": "fantastic",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2c2201e1-6e6b-4f3e-af0d-726c3dafc71c"
+          },
+          "dapAn": "amazing",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L12/sounds/normal/TC_MIDTERMTEST_LISTENING_20. Me ... amazing.mp3",
+      "soundSlow": "4SKILLS_TC_L12/sounds/slow/TC_MIDTERMTEST_LISTENING_20. Me ... amazing.mp3"
+    }
+  ]
+}

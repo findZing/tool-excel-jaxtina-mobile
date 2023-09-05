@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "c61288f0-b438-4413-9506-861b19147def"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Maxi, I’ve tried to pay for our flights to Vietnam, but it says I’ve got no money in my _________.",
+      "yNghia": "Maxi, I've tried to pay for our flights to Vietnam, but it says I've got no money in my <b><span style=\"color:red\">account</span></b>.<br />\n<i>Maxi, tôi đã cố thanh toán cho các chuyến bay của chúng tôi đến Việt Nam, nhưng thông báo cho biết tôi không có tiền trong <span style=\"color:red\">tài khoản</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d70c4a95-4a9a-421e-a70f-05f99debcbff"
+          },
+          "dapAn": "bank",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "71de7277-4fb7-4b88-ba74-827ead100caa"
+          },
+          "dapAn": "account",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b4084c18-50c0-4b33-80b8-3a8812291a80"
+          },
+          "dapAn": "card",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_1. Maxi ... account.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_1. Maxi ... account.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9e60ef1d-dfbc-4430-a591-416f259d968f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Really? If you used that _________ I told you about, that kind of thing wouldn’t happen.",
+      "yNghia": "Really? If you used that <b><span style=\"color:red\">app</span></b> I told you about, that kind of thing wouldn't happen.<br />\n<i>Có thật không? Nếu bạn sử dụng </i><span style=\"color:red\"><i>ứng dụng </i></span><i>mà tôi đã nói với bạn, điều đó sẽ không xảy ra</i>.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f8ddb036-e857-49b8-9972-b8cec1c0d935"
+          },
+          "dapAn": "app",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0d884452-50ae-4b32-be71-e0b0cee980e9"
+          },
+          "dapAn": "method",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "06c7c82e-d21d-4db8-ada9-50c4f70fdb9e"
+          },
+          "dapAn": "way",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_2. Really ... happen.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_2. Really ... happen.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "29ada028-ccb9-4d4f-9926-3a31e06daf87"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The app helps you __________ your money and see how much you’re spending.",
+      "yNghia": "The app helps you <b><span style=\"color:red\">manage</span></b> your money and see how much you're spending.<br />\n<i>Ứng dụng giúp bạn </i><span style=\"color:red\"><i>quản lý </i></span><i>tiền của mình và xem số tiền bạn đang chi tiêu.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0ead4e98-8e3c-42b0-9f7e-3c04e1ac4919"
+          },
+          "dapAn": "manage",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "92c1ba7d-152a-480f-848f-72ee303fba76"
+          },
+          "dapAn": "control",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6f407fc2-79d5-4d90-89e7-3f4dcc47aa19"
+          },
+          "dapAn": "track",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_3. The ... spending.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_3. The ... spending.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "473915b6-dde8-4f40-a964-157cce294149"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Look at the screen! It says I’ve made all these __________ with my debit card.",
+      "yNghia": "Look at the screen! It says I've made all these <b><span style=\"color:red\">purchases</span></b> with my debit card.<br />\n<i>Nhìn vào màn hình này! Nó nói rằng tôi đã thực hiện tất cả <span style=\"color:red\">các giao dịch mua </span>này bằng thẻ ghi nợ của mình.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2876b701-b3ad-46f5-ac31-251b3e602ca3"
+          },
+          "dapAn": "buyings",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bce4429d-32e0-4244-8de1-5c4eb26d9baf"
+          },
+          "dapAn": "purchases",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1def1b30-8e19-449f-97ad-12ed20e4d76f"
+          },
+          "dapAn": "spendings",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_4. Look ... card.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_4. Look ... card.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a91b5d38-c097-4c04-a6fa-2f9b7991934a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "But according to my bank, there were three identical purchases of $500 at the __________ on Monday.",
+      "yNghia": "But according to my bank, there were three identical purchases of $500 at the <b><span style=\"color:red\">supermarket</span></b> on Monday. <br />\n<i>Nhưng theo ngân hàng của tôi, đã có ba giao dịch mua trị giá 500 đô la giống hệt nhau tại <span style=\"color:red\">siêu thị </span></i><i>vào thứ Hai.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ae034807-e952-4083-9a2e-3e3275fc60aa"
+          },
+          "dapAn": "supermarket",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b6a25874-c1dc-4f60-8a71-a4c217985e0a"
+          },
+          "dapAn": "market",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ab487d03-6dab-49a4-9feb-c63018b31eae"
+          },
+          "dapAn": "store",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_5. But ... Monday.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_5. But ... Monday.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "24a6f2a9-4650-4af0-a71f-f6f0338aa447"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That’s really __________, because you didn’t go to the supermarket on that day.",
+      "yNghia": "That's really <b><span style=\"color:red\">weird</span></b>, because you didn't go to the supermarket on that day.<br />\n<i>Điều đó thực sự </i><span style=\"color:red\"><i>kỳ lạ</i></span><i>, bởi vì bạn đã không đi siêu thị vào ngày hôm đó.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fdeb647a-d99b-472e-b646-dd9c1fd7ef15"
+          },
+          "dapAn": "strange",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fbd2ca73-df7b-4f33-8816-208a221d8b54"
+          },
+          "dapAn": "weird",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0904bc42-ae1e-4ffb-86c6-ccb0c19f050e"
+          },
+          "dapAn": "impossible",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_6. That ... day.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_6. That ... day.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e84530b4-b824-48a4-a93f-183da6f9816a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That’s right. I think someone’s got my __________ details.",
+      "yNghia": "That's right. I think someone's got my <b><span style=\"color:red\">account</span></b> details.<br />\n<i>Đúng rồi. Tôi nghĩ ai đó đã có thông tin <span style=\"color:red\">tài khoản</span> của tôi.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "57e9c6cf-3324-4bde-8613-17858ccd0940"
+          },
+          "dapAn": "personal",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e5f511a1-6ce2-436a-923b-04300bd72672"
+          },
+          "dapAn": "identification",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a1861427-b18f-4107-973e-114deafaf6c6"
+          },
+          "dapAn": "account",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_7. That_s ... details.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_7. That_s ... details.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "7c9eabdf-fe8d-470b-820f-0ab5cc44887a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes, that’s because you left your __________ in the ATM!",
+      "yNghia": "Yes, that's because you left your <b><span style=\"color:red\">card</span></b> in the ATM!<br />\n<i>Ừ, đó là bởi vì bạn đã để quên <span style=\"color:red\">thẻ </span>của mình trong máy ATM!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4c852ef6-1ec6-453c-86bd-afab20b796f5"
+          },
+          "dapAn": "money",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fb41d35d-0fb8-4523-a4ad-e1703aeb33a1"
+          },
+          "dapAn": "card",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5f2da479-0665-4671-a923-473ba19c2bdc"
+          },
+          "dapAn": "information",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_8. Yes ... ATM.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_8. Yes ... ATM.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ca8b476e-6dc3-4df9-b138-2d78cf4d0cc1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Nobody even needed to __________ my personal identification number, but my money was stolen.",
+      "yNghia": "Nobody even needed to <b><span style=\"color:red\">steal </span></b>my personal identification number, but my money was stolen.<br />\n<i>Thậm chí không ai cần </i><i><span style=\"color:red\">đánh cắp</span> </i><i>số nhận dạng cá nhân của tôi, nhưng tiền của tôi lại bị đánh cắp.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1a65c7b7-1aad-400a-a646-1e8d3fec79df"
+          },
+          "dapAn": "take",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b74adaa7-7a11-44a2-8fdf-21d02e8a9a9c"
+          },
+          "dapAn": "steal",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c1f9c3b7-63bd-41c0-bdc3-79d1bce6ca52"
+          },
+          "dapAn": "know",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_9. Nobody ... stolen.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_9. Nobody ... stolen.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "7961f985-a464-424b-a5a2-d29f610b01d0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I think you need to call the bank now and report those __________.",
+      "yNghia": "I think you need to call the bank now and report those <b><span style=\"color:red\">payments</span></b>.<br />\n<i>Tôi nghĩ bạn cần gọi cho ngân hàng ngay bây giờ và báo cáo </i><i><span style=\"color:red\">các khoản thanh toán</span> </i><i>đó.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e7b825e4-7e37-431c-a5b9-f5e54e4a9732"
+          },
+          "dapAn": "payments",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "10ffb2de-8e34-41e7-9368-9567d74c32b9"
+          },
+          "dapAn": "transactions",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d94ee84e-67a0-4937-9ee8-da5011335452"
+          },
+          "dapAn": "issues",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_10. I ... payments.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_10. I ... payments.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c3cc526e-4c91-45b7-ac16-e8f559b63a8b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Good idea. I’m sure they’ll see that it’s __________.",
+      "yNghia": "Good idea. I'm sure they'll see that it's <b><span style=\"color:red\">impossible</span></b>.<br />\n<i>Ý tưởng hay. Tôi chắc họ sẽ thấy rằng điều đó là </i><span style=\"color:red\"><i>không thể</i></span><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b71cf238-3033-409d-8195-b3b85195bfc0"
+          },
+          "dapAn": "impossible",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0cd71400-8973-4b95-b168-151ca48c16fa"
+          },
+          "dapAn": "possible",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2731a555-bef6-412e-bed7-949d9b124507"
+          },
+          "dapAn": "difficult",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_11. Good ... impossible.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_11. Good ... impossible.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "619ff659-12b1-4c5f-a822-0d59a90b6806"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They’re normally very helpful with this kind of thing. Now we could pay by __________.",
+      "yNghia": "They're normally very helpful with this kind of thing. Now we could pay by <b><span style=\"color:red\">cash</span></b>.<br />\n<i>Họ thường rất hữu ích trong việc này. Bây giờ chúng ta có thể thanh toán bằng </i><span style=\"color:red\"><i>tiền mặt</i></span><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "14a29002-d830-498e-aafa-e47bc285aa76"
+          },
+          "dapAn": "smartphones",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6c776d5d-366f-4a73-bc08-80f52f388d89"
+          },
+          "dapAn": "card",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "53e01d4a-2345-458c-80f0-7a036c484361"
+          },
+          "dapAn": "cash",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_12. They_re ...cash.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_12. They_re ...cash.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "65c1b36c-fb86-4e07-a390-b8cbc163b83f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "But it’s a lot of money. I think we could pay by __________ card.",
+      "yNghia": "But it's a lot of money. I think we could pay by <b><span style=\"color:red\">credit </span></b>card. <br />\n<i>Nhưng đó là rất nhiều tiền. Tôi nghĩ chúng ta có thể thanh toán bằng </i><i>thẻ<span style=\"color:red\"> </span></i><span style=\"color:red\"><i>tín dụng</i></span><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "03d147bc-9e75-46ab-a13f-bf8bb810eb2a"
+          },
+          "dapAn": "debit",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "25e364d7-cfab-4f4b-9521-7a3c0b862177"
+          },
+          "dapAn": "virtual",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6a73dcf2-35e7-4c8d-a229-2e7dddfbff18"
+          },
+          "dapAn": "credit",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_13. But ... card.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_13. But ... card.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c067afa1-5b75-4bb6-ab31-be04333497f4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "At least then we don’t have to pay for it all at the same time like using a __________ card.",
+      "yNghia": "At least then we don't have to pay for it all at the same time like using a <b><span style=\"color:red\">debit</span></b> card.<br />\n<i>Ít nhất thì chúng t</i><i>a</i><i> không phải trả tiền cho tất cả cùng một lúc như sử dụng thẻ </i><span style=\"color:red\"><i>ghi nợ</i></span><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3b325659-08e3-4629-a60f-946a8a91261b"
+          },
+          "dapAn": "virtual",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fe2d14ae-4567-4cc2-b02b-54a17b59b53f"
+          },
+          "dapAn": "credit",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2ea47053-0df7-4450-8456-6cd3390f09c4"
+          },
+          "dapAn": "debit",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_14. At ... card.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_14. At ... card.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3e636106-3e4e-44b0-b37b-8a1456472866"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "OK. Maybe we might get a discount on the __________ with the credit card anyway.",
+      "yNghia": "OK. Maybe we might get a discount on the <b><span style=\"color:red\">vacation</span></b> with the credit card anyway.<br />\n<i>Được. Có lẽ chúng ta có thể được giảm giá trong </i><i><span style=\"color:red\">kỳ nghỉ</span> </i><i>với thẻ tín dụng.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4c0c553e-11e5-40e2-8511-6a9e46b6a99e"
+          },
+          "dapAn": "holiday",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "804d589b-5c56-479f-a79a-47ed52b50bf6"
+          },
+          "dapAn": "vacation",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c8550727-51b5-46cb-8c9e-dbcbb09baeb7"
+          },
+          "dapAn": "trip",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_15. OK ... anyway.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_15. OK ... anyway.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "27204e12-3296-44ae-b735-1a0244b096da"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "So, as follow-up to last week’s program about how to make your money go further, we thought we’d ask different people on the street how they __________ their money.",
+      "yNghia": "So, as follow-up to last week's program about how to make your money go further, we thought we'd ask different people on the street how they <b><span style=\"color:red\">manage</span></b> their money. <br />\n<i>Vì vậy, để tiếp nối chương trình tuần trước về cách kiếm tiền nhiều hơn, chúng tôi nghĩ rằng chúng tôi sẽ hỏi những người khác nhau trên phố về cách họ <span style=\"color:red\">quản lý </span>tiền của mình.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d224ca47-29be-429d-88ab-bd045e8c0feb"
+          },
+          "dapAn": "manage",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "211c0e2b-6ffd-4981-9327-a82b7ba50419"
+          },
+          "dapAn": "earn",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1bc63134-c224-4127-9722-68e65b7ccdc3"
+          },
+          "dapAn": "spend",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_16. So ... money.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_16. So ... money.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "513b7cca-b95d-4779-827c-aa62f6dd8762"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I guess I’m part of the genergation that __________ everything through their smartphones.",
+      "yNghia": "I guess I'm part of the genergation that <b><span style=\"color:red\">controls</span></b> everything through their smartphones. <br />\n<i>Tôi đoán mình là một phần của thế hệ mà </i><span style=\"color:red\"><i>kiểm soát </i></span><i>mọi thứ thông qua điện thoại thông minh. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ea98205f-e6cb-4092-9610-76d2dfce6d80"
+          },
+          "dapAn": "does",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b1b7854c-13c2-43d1-b5f1-5f049979c059"
+          },
+          "dapAn": "controls",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f76f9763-3d01-4980-8dab-a439b92876a7"
+          },
+          "dapAn": "works",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_17. I ... smartphones.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_17. I ... smartphones.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5199ec2f-f90d-4905-8958-8497d26d9a98"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I don’t like to borrow money from __________, so I don’t have a credit card.",
+      "yNghia": "I don't like to borrow money from <b><span style=\"color:red\">the bank</span></b>, so I don't have a credit card.  <br />\n<i>Tôi không thích </i><i>vay</i><i> tiền từ <span style=\"color:red\">ngân hàng</span>, nên tôi không có thẻ tín dụng. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ea548c87-57b6-4843-9e57-d8c3a588feb4"
+          },
+          "dapAn": "the bank",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "40a28360-801a-459a-a3f3-70b2d49ae89e"
+          },
+          "dapAn": "friends",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e6ec209b-a935-49da-b92d-54f040442db3"
+          },
+          "dapAn": "family",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_18. I ... card.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_18. I ... card.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c0d49374-3e71-43d0-9d5e-cc7a30ffcc11"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I use my __________ to move money between bank accounts and to make payments to people.",
+      "yNghia": "I use my <b><span style=\"color:red\">phone</span></b> to move money between bank accounts and to make payments to people.<br />\n<i>Tôi dùng </i><span style=\"color:red\"><i>điện thoại </i></span><i>để chuyển tiền qua lại từ các tài khoản ngân hàng và để thanh toán tiền với mọi người. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "60095f4f-916a-4349-8ba7-54b1c086aba2"
+          },
+          "dapAn": "phone",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a9089b3e-48e1-405b-95a6-481fd0587167"
+          },
+          "dapAn": "credit card",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2c0ffe47-3853-4bda-b89f-086e7a56e0ad"
+          },
+          "dapAn": "debit card",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_19. I ... people.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_19. I ... people.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "65edc763-bdcc-4c3c-b3d6-97e1a01bf33a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I have an app that’s really useful for my __________ account – it tells me what I’m spending.",
+      "yNghia": "I have an app that's really useful for my <b><span style=\"color:red\">business </span></b>account – it tells me what I'm spending. <br />\n<i>Tôi có một ứng dụng rất hữu dụng cho tài khoản </i><span style=\"color:red\"><i>kinh doanh</i></span> <i>của tôi – nó cho tôi biết tôi đang tiêu những gì.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a72fade5-1a78-4dbb-9b3b-a4ae5cb0419d"
+          },
+          "dapAn": "business",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e17256db-f027-4702-b3fe-851d937ac78a"
+          },
+          "dapAn": "bank",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "424321d4-918f-4afa-b1a2-9910dc71f382"
+          },
+          "dapAn": "work",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L22/sounds/normal/MTC_22_LISTENING_20. I ... spending.mp3",
+      "soundSlow": "4SKILLS_MTC_L22/sounds/slow/MTC_22_LISTENING_20. I ... spending.mp3"
+    }
+  ]
+}

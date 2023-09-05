@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_MTC_L18/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_MTC_L18/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "4168b66b-ea08-48b6-92ac-12101b615a68"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Sophie",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "31165e0a-4552-4cee-ab1e-2fb34a2c321c"
+          },
+          "dapAn": "Good morning, Ms. Martin. Nice to meet you.",
+          "phienAm": "/gʊd ˈmɔːnɪŋ mis ˈmɑːtɪn/. /naɪs tuː miːt juː/",
+          "yNghia": "\nChào buổi sáng, Martin. Rất hân hạnh được gặp bạn.",
+          "normal": {
+            "start": "00:00:01.022",
+            "end": "00:00:04.487"
+          },
+          "slow": {
+            "start": "00:00:00.524",
+            "end": "00:00:05.090"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "55622b32-42f1-4b49-ae9c-2c0cf14fdd06"
+          },
+          "dapAn": "So, tell me about yourself, Ms. Martin.",
+          "phienAm": "/səʊ tel miː əˈbaʊt jɔːˈself mɪs ˈmɑːtɪn/",
+          "yNghia": "\nBạn có thể giới thiệu về bản thân không, Martin.",
+          "normal": {
+            "start": "00:00:08.861",
+            "end": "00:00:11.644"
+          },
+          "slow": {
+            "start": "00:00:09.731",
+            "end": "00:00:14.222"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "75b0d7c2-c626-41d3-96f3-cbd2d7e657c6"
+          },
+          "dapAn": "OK. What did you do in your last job?",
+          "phienAm": "/əʊˈkeɪ/. /wɒt dɪd juː duː ɪn jɔːr lɑːst ʤɒb/",
+          "yNghia": "\nĐược rồi. Bạn đã làm gì trong công việc gần đây nhất?",
+          "normal": {
+            "start": "00:00:21.186",
+            "end": "00:00:24.537"
+          },
+          "slow": {
+            "start": "00:00:26.423",
+            "end": "00:00:30.914"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1093cdc9-3313-40ff-98c7-40ad0eb23957"
+          },
+          "dapAn": "What are your tasks in that job?",
+          "phienAm": "/wɒt ɑːr jɔːr tɑːsks ɪn ðæt ʤɒb/",
+          "yNghia": "\nNhiệm vụ của bạn trong công việc là gì?",
+          "normal": {
+            "start": "00:00:30.956",
+            "end": "00:00:33.341"
+          },
+          "slow": {
+            "start": "00:00:39.597",
+            "end": "00:00:42.891"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b3147d61-a25f-4c35-b5bb-61eb0dd3cb22"
+          },
+          "dapAn": "What are your strengths?",
+          "phienAm": "/wɒt ɑːr jɔːr streŋθs/",
+          "yNghia": "\nĐiểm mạnh của bạn là gì?",
+          "normal": {
+            "start": "00:00:40.441",
+            "end": "00:00:42.202"
+          },
+          "slow": {
+            "start": "00:00:52.846",
+            "end": "00:00:54.942"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "cb7f8df8-3384-4f32-a07c-1caa245846eb"
+          },
+          "dapAn": "What about your weaknesses?",
+          "phienAm": "/wɒt əˈbaʊt jɔːr ˈwiːknɪsɪz/",
+          "yNghia": "\nCòn điểm yếu của bạn thì sao?",
+          "normal": {
+            "start": "00:00:49.586",
+            "end": "00:00:51.745"
+          },
+          "slow": {
+            "start": "00:01:04.449",
+            "end": "00:01:06.994"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ec8d06cb-a7c2-4943-bfd8-7d1f0e142919"
+          },
+          "dapAn": "OK. Can you tell me why you want to work for us?",
+          "phienAm": "/əʊˈkeɪ/. /kæn juː tel miː waɪ juː wɒnt tuː wɜːk fɔːr ʌs/",
+          "yNghia": "\nĐược rồi. Bạn có thể cho tôi biết tại sao bạn muốn làm việc cho chúng tôi không?",
+          "normal": {
+            "start": "00:00:58.504",
+            "end": "00:00:03.161"
+          },
+          "slow": {
+            "start": "00:01:15.377",
+            "end": "00:01:21.141"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "17bce060-b9cb-43c1-b8ee-aaeb03beb3cd"
+          },
+          "dapAn": "Alright. If we offer you the job, when can you start?",
+          "phienAm": "/ɔːlˈraɪt/. /ɪf wiː ˈɒfə juː ðiː ʤɒb wen kæn juː stɑːt/",
+          "yNghia": "\nĐược rồi. Nếu được nhận công việc, khi nào bạn có thể bắt đầu?",
+          "normal": {
+            "start": "00:00:11.681",
+            "end": "00:00:15.998"
+          },
+          "slow": {
+            "start": "00:01:31.995",
+            "end": "00:01:37.983"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7a5c13c3-289d-4fb1-a385-2fbf3108e22b"
+          },
+          "dapAn": "Finally, Ms. Martin, have you got any questions?",
+          "phienAm": "/ˈfaɪnəli mɪs ˈmɑːtɪn hæv juː gɒt ˈeni ˈkwesʧənz/",
+          "yNghia": " \nCuối cùng, Martin, bạn có câu hỏi nào không?",
+          "normal": {
+            "start": "00:00:22.814",
+            "end": "00:00:26.392"
+          },
+          "slow": {
+            "start": "00:01:47.414",
+            "end": "00:01:52.654"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4d48148c-0e0a-4c8f-b712-b7f5d41df468"
+          },
+          "dapAn": "Thank you very much for coming. We’ll be in touch.",
+          "phienAm": "/θæŋk juː ˈveri mʌʧ fɔːr ˈkʌmɪŋ/. /wiːl biː ɪn tʌʧ/ ",
+          "yNghia": "\nCảm ơn rất nhiều vì đã tới. Chúng ta sẽ giữ liên lạc.",
+          "normal": {
+            "start": "00:00:32.129",
+            "end": "00:00:35.253"
+          },
+          "slow": {
+            "start": "00:02:01.112",
+            "end": "00:02:05.753"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "31c8ba6c-f0ee-4d7d-9f2c-41fa64ec47d9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Ms. Martin",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4055660d-01ce-4cf5-81b9-adef972c0ac4"
+          },
+          "dapAn": "Nice to meet you, too.",
+          "phienAm": "/naɪs tuː miːt juː tuː/",
+          "yNghia": "\nTôi cũng hân hạnh được gặp bạn.",
+          "normal": {
+            "start": "00:00:04.942",
+            "end": "00:00:06.816"
+          },
+          "slow": {
+            "start": "00:00:05.764",
+            "end": "00:00:08.533"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7462587a-fe04-4701-bedc-832b8679267c"
+          },
+          "dapAn": "I’m from Glasgow, Scotland. I’m 27 years old and I have a degree from Sheffield University.",
+          "phienAm": "/aɪm frɒm ˈglɑːzgəʊ ˈskɒtlənd/. /aɪm ˌtwentiˈsevn jɪəz əʊld ænd aɪ hæv eɪ dɪˈgriː frɒm ˈʃefiːld ˌjuːnɪˈvɜːsɪti/",
+          "yNghia": "\nTôi đến từ Glasgow, Scotland. Tôi 27 tuổi và tôi có bằng của Đại học Sheffield.",
+          "normal": {
+            "start": "00:00:13.178",
+            "end": "00:00:20.448"
+          },
+          "slow": {
+            "start": "00:00:14.896",
+            "end": "00:00:25.450"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4962444a-5d9b-4852-ad2c-00f8aa224558"
+          },
+          "dapAn": "I’ve been working as a translator for a news channel for the last 4 years.",
+          "phienAm": "/aɪv biːn ˈwɜːkɪŋ æz eɪ trænsˈleɪtər fɔːr eɪ njuːz ˈʧænl fɔː ðiː lɑːst fɔːr jɪəz/",
+          "yNghia": "\nTôi đã làm công việc phiên dịch viên cho một kênh tin tức trong 4 năm qua.",
+          "normal": {
+            "start": "00:00:25.446",
+            "end": "00:00:30.388"
+          },
+          "slow": {
+            "start": "00:00:31.813",
+            "end": "00:00:39.148"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6e179095-9253-4635-b46c-6a51cb08d4f8"
+          },
+          "dapAn": "My main tasks are translating news articles into English. Sometimes, I edit the news.",
+          "phienAm": "/maɪ meɪn tɑːsks ɑːr trænsˈleɪtɪŋ njuːz ˈɑːtɪklz ˈɪntuː ˈɪŋglɪ/. /ˈsʌmtaɪmz aɪ ˈedɪt ðiː njuːz/",
+          "yNghia": "\nNhiệm vụ chính của tôi là dịch các bài báo sang tiếng Anh. Đôi khi, tôi chỉnh sửa tin tức.",
+          "normal": {
+            "start": "00:00:33.682",
+            "end": "00:00:39.760"
+          },
+          "slow": {
+            "start": "00:00:43.789",
+            "end": "00:00:52.098"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e72e0291-c2e9-48c1-8680-64be41e344df"
+          },
+          "dapAn": "I’m quite good at organising and communicating. Besides, I enjoy working in a team.",
+          "phienAm": "/aɪm kwaɪt gʊd æt ˈɔːgənaɪzɪŋ ænd kəˈmjuːnɪkeɪtɪŋ/. /bɪˈsaɪdz aɪ ɪnˈʤɔɪ ˈwɜːkɪŋ ɪn ei tiːm/",
+          "yNghia": "\nTôi khá giỏi trong việc tổ chức và giao tiếp. Bên cạnh đó, tôi thích làm việc theo nhóm.",
+          "normal": {
+            "start": "00:00:42.770",
+            "end": "00:00:48.791"
+          },
+          "slow": {
+            "start": "00:00:55.466",
+            "end": "00:01:03.476"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "da2e06db-1daa-473e-906b-da3c499a0fa3"
+          },
+          "dapAn": "My friends say I was impatient sometimes, but I’m trying to improve that.",
+          "phienAm": "/maɪ frendz seɪ aɪ wɒz ɪmˈpeɪʃənt ˈsʌmtaɪmz bʌt aɪm ˈtraɪɪŋ tuː ɪmˈpruːv ðæt/",
+          "yNghia": "\nBạn bè của tôi nói rằng đôi khi tôi thiếu kiên nhẫn, nhưng tôi đang cố gắng cải thiện điều đó.",
+          "normal": {
+            "start": "00:00:52.540",
+            "end": "00:00:57.595"
+          },
+          "slow": {
+            "start": "00:01:07.667",
+            "end": "00:01:14.554"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8ddefd86-0318-4771-ac5f-ed412ad8eade"
+          },
+          "dapAn": "Becoming a newspaper editor is my biggest dream. I love to correct what people have written.",
+          "phienAm": "/bɪˈkʌmɪŋ eɪ ˈnjuːzˌpeɪpər ˈedɪtər ɪz maɪ ˈbɪgɪst driːm/. /aɪ lʌv tuː kəˈrekt wɒt ˈpiːpl hæv ˈrɪtn/",
+          "yNghia": "\nTrở thành một biên tập viên báo chí là ước mơ lớn nhất của tôi. Tôi thích sửa những gì mọi người đã viết.",
+          "normal": {
+            "start": "00:00:04.070",
+            "end": "00:00:10.716"
+          },
+          "slow": {
+            "start": "00:01:22.039",
+            "end": "00:01:31.096"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d4456622-d9bf-40ba-9b32-775e1e49da73"
+          },
+          "dapAn": "I’d need to give two weeks’ notice, but I could start immediately after that.",
+          "phienAm": "/aɪd niːd tuː gɪv tuː wiːks ˈnəʊtɪs bʌt aɪ kʊd stɑːt ɪˈmiːdiətli ˈɑːftər ðæt/",
+          "yNghia": "\nTôi cần báo trước hai tuần, nhưng tôi có thể bắt đầu ngay sau đó.",
+          "normal": {
+            "start": "00:00:17.020",
+            "end": "00:00:21.678"
+          },
+          "slow": {
+            "start": "00:01:39.255",
+            "end": "00:01:46.142"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f9db26cf-afae-435e-bf13-223a14a0b9c3"
+          },
+          "dapAn": "No, thanks. I hope I have a chance to be a part of the company.",
+          "phienAm": "/nəʊ θæŋks/. /aɪ həʊp aɪ hæv ei ʧɑːns tuː biː ei pɑːt ɒv ðə ˈkʌmpəni/",
+          "yNghia": "\nKhông, cảm ơn. Tôi hy vọng mình có cơ hội trở thành một phần của công ty.",
+          "normal": {
+            "start": "00:00:26.904",
+            "end": "00:00:31.164"
+          },
+          "slow": {
+            "start": "00:01:53.477",
+            "end": "00:01:59.990"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "aea66e91-f1bf-4919-8115-ab75c2ef0437"
+          },
+          "dapAn": "Thank you. Have a nice day.",
+          "phienAm": "/θæŋk juː/. /hæv eɪ naɪs deɪ/",
+          "yNghia": "\nCảm ơn bạn. Chúc bạn một ngày tốt lành.",
+          "normal": {
+            "start": "00:00:35.821",
+            "end": "00:00:37.752"
+          },
+          "slow": {
+            "start": "00:02:06.128",
+            "end": "00:02:09.646"
+          }
+        }
+      ]
+    }
+  ]
+}

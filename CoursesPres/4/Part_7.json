@@ -1,0 +1,627 @@
+{
+  "dangCauHoi": "P6",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "bb51d357-c2c6-44fd-89f6-0f6a196a3cc6"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để giới thiệu tên của mình, chúng ta dùng cấu trúc: <b>My name is + tên. </b>Ta có câu hoàn chỉnh là<span style=\"color:red\"><b> My name is Jenny.</b> </span><i>(Tên của tôi là Jenny.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8b4ec4e7-cc76-4cd1-b2bd-0bda3b4a4b8e"
+          },
+          "dapAn": "My",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c5245c06-325b-43c0-b1a8-7a08eeeabac8"
+          },
+          "dapAn": "name is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "50581f8c-df37-4955-b455-c37ae2b98387"
+          },
+          "dapAn": "Jenny.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4f217b98-4445-4130-89d8-87547b59c54e"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có <b>his </b><i>(của anh ấy)</i> là tính từ sở hữu, chủ ngữ <b>first language</b> <i>(ngôn ngữ đầu tiên)</i> là chủ ngữ số ít, động từ <i>to be</i> theo sau sẽ là <b>is</b>. Câu hoàn chỉnh là <span style=\"color:red\"><b>His first language is English.</b></span> <i>(Ngôn ngữ đầu tiên của anh ấy là tiếng Anh).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fb3e1904-1ab0-47e2-b4e6-708a48e5b02d"
+          },
+          "dapAn": "His",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e1b6278b-621d-4556-8a74-6a0735a3ed34"
+          },
+          "dapAn": "first language",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4f301147-b1b9-4087-b4d0-9ec99f50aa95"
+          },
+          "dapAn": "is English.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "865b858f-b214-462c-8645-8a9d0a5fe21c"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi tên của ai đó, ta sử dụng cấu trúc: <b>What + động từ to be + tính từ sở hữu + name(s)? </b>Ta có câu hoàn chỉnh là <span style=\"color:red\"><b>What is your name?</b> </span><i>(Tên của bạn là gì?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "58735664-768a-423c-84c0-300afffa8625"
+          },
+          "dapAn": "What is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f98436f0-817d-458b-950c-4e6893823020"
+          },
+          "dapAn": "your",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "415fe51f-4b56-4f87-8a6e-6506e7980d27"
+          },
+          "dapAn": "name?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "cf18f1c7-15b2-400c-8ce3-750df1815d0e"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có động từ<i> to be</i> đi với chủ ngữ <b>you </b>là <b>are</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">Are you new?</span></b> <i>(Bạn là người mới phải không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e2666c93-688f-4ce3-84d6-1570c72a8e1a"
+          },
+          "dapAn": "Are ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bbedfb4b-a7ec-4c04-9d8a-d62b9cabd6d4"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "87986f5c-d5f8-44e4-8093-8a9432b9ce04"
+          },
+          "dapAn": "new?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a28b4d43-282b-42ab-b52d-f79e954402c8"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có từ để hỏi <b>How </b>mang nghĩa là như thế nào. Trợ động từ <b>do </b>được đặt trước chủ ngữ <b>you </b>trong câu hỏi. Câu hoàn chỉnh là <span style=\"color:red\"><b>How do you spell your name?</b></span> <i>(Bạn đánh vần tên bạn như thế nào?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "294d4114-58b9-431d-8f0d-0d7c9a529685"
+          },
+          "dapAn": "How do",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4d8ed1f5-9e2c-4d92-b5e4-9575319cd592"
+          },
+          "dapAn": "you spell",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0ce83275-4071-4fab-8df0-b0865e4c6d2f"
+          },
+          "dapAn": "your name?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f414035a-61ba-43d3-aaa3-e750c70ff6c7"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để giới thiệu tên của mình, ta có thể nói <b>I am + tên</b>. Trong câu này, <b>I am</b> được viết tắt thành <b>I'm</b>. Câu hoàn chỉnh là<b><span style=\"color:red\"> Hi, I'm Mike. </span></b><i>(Xin chào, tôi là Mike.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4cb2a018-bc02-4bae-9ab3-a4b458725661"
+          },
+          "dapAn": "Hi,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "242d20f2-f32e-4990-83eb-0b04b8b1b84a"
+          },
+          "dapAn": "I'm",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "38d519a5-1ac0-4f0f-9331-e20fc4c48e16"
+          },
+          "dapAn": "Mike.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "13969791-c253-42a1-91ae-525ff2c0b506"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có <b>They </b>là chủ ngữ ngôi thứ ba số nhiều nên động từ<i> to be</i> theo sau sẽ là <b>are</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">They are so cute.</span></b><i> (Chúng thật dễ thương.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "07e68731-65c5-47ec-882f-1913024a70f0"
+          },
+          "dapAn": "They are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "53b8f3bc-627e-4fec-90cd-a4585db052a5"
+          },
+          "dapAn": "so",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "618344b2-f324-4f2c-b24b-8597917edf49"
+          },
+          "dapAn": "cute.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9cd1b6e1-b26d-4009-a80a-ee6a7c8f84f6"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó có phải đến từ đâu, chúng ta sử dụng cấu trúc <b>Động từ to be + chủ ngữ + from + tên địa điểm?</b> Câu hoàn chỉnh là <span style=\"color:red\"><b>Are you from London?</b></span> <i>(Bạn đến từ Luân-Đôn phải không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d65d2791-6950-47cb-85ec-1126b9685b67"
+          },
+          "dapAn": "Are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1ff4bbac-24e6-4cba-a18e-c641ce5724b7"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1a56aa4e-b14b-4f33-8369-e9018c3b1664"
+          },
+          "dapAn": "from London?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "527be233-89c4-4afb-8cd0-082c2642e458"
+      },
+      "cauHoiNho": [],
+      "yNghia": "<b>Jack</b> là chủ ngữ số ít nên động từ <i>to be</i> theo sau sẽ là <b>is</b>, sau <b>is </b>là số tuổi của Jack là <b>five</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">Jack is five.</span></b> <i>(Jack 5 tuổi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "053015da-a9ef-4774-9a76-b655c3050c15"
+          },
+          "dapAn": "Jack",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a32c6bc4-8f0d-4d4b-b593-9fd5b4e5a66c"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b6dff1b5-1ed4-4aab-90e3-081d7df8184f"
+          },
+          "dapAn": "five.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "22a5186c-83bb-4327-9c86-a401ad13c9d9"
+      },
+      "cauHoiNho": [],
+      "yNghia": "<b>It </b>là chủ ngữ ngôi thứ ba số ít, động từ<i> to be</i> theo sau sẽ là <b>is</b>.<b> It is </b>được viết tắt thành <b>It's</b>. Để nói ‘ở quốc gia nào' ta dùng <b>in + tên quốc gia</b>. Câu hoàn chỉnh là<b><span style=\"color:red\"> It's in China. </span></b><i>(Nó ở Trung Quốc.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e52e1fab-55c7-4d3f-baa6-fe9df6d393a6"
+          },
+          "dapAn": "It's ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "37345f99-5f22-4dc9-9350-996a72aa971f"
+          },
+          "dapAn": "in",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4592669e-5ae6-400b-b833-c212752f8a8e"
+          },
+          "dapAn": "China.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7a2f9203-019b-4968-9a2b-91c76e122bf9"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó đến từ đâu, ta sử dụng cấu trúc: <b>Where + động từ to be + chủ ngữ + from? </b>Câu hoàn chỉnh là <b><span style=\"color:red\">Where are you from?</span></b><i> (Bạn đến từ đâu?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "456f287b-7364-48fc-849b-e39d03564be8"
+          },
+          "dapAn": "Where",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7d156641-2277-430c-a562-7728dc77c84c"
+          },
+          "dapAn": "are you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "99ebb56e-2f99-4dfa-94a4-fb16a13a76d7"
+          },
+          "dapAn": "from?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "24fe3955-ead5-43b3-b169-5718eb03d1a1"
+      },
+      "cauHoiNho": [],
+      "yNghia": "<b>They </b>là chủ ngữ ngôi thứ ba số nhiều nên động từ<i> to be</i> theo sau sẽ là <b>are</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">They are my children. </span></b><i>(Chúng là con của tôi).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "33978442-7872-4735-a8ee-7e2892420016"
+          },
+          "dapAn": "They are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f0b4764f-cffd-45a5-b8f4-341178610d90"
+          },
+          "dapAn": "my",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "95d00909-52e7-4be4-a8c0-f41726bccd5a"
+          },
+          "dapAn": "children.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "06801a71-1a8a-4f94-a9fd-aa1ed559c212"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả ai đó đến từ nước nào, ta sẽ dùng cấu trúc: <b>Chủ ngữ + động từ to be + from + tên quốc gia. </b>Ta có:<b> I</b> <i>(Tôi)</i> là chủ ngữ, <b>am </b>là động từ <i>to be</i>, tên quốc gia là <b>Italy </b><i>(nước Ý)</i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>I am from Italy. </b></span><i>(Tôi đến từ Ý.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3f3f9b45-73d4-4a62-af1e-fa564612b37a"
+          },
+          "dapAn": "I am",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5009a7fb-9267-4058-abf5-770ffaf7d0ca"
+          },
+          "dapAn": "from",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "04c03f65-f511-4913-a164-7b354babc466"
+          },
+          "dapAn": "Italy.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "06f0ad15-11d5-4506-be6f-0b9997d4839e"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đưa ra đề nghị, ta dùng cấu trúc: <b>May + I + Động từ (Nguyên thể) + tân ngữ + please?</b>.<b> </b>Ta có: <b>get </b><i>(lấy / xin)</i> là động từ ở dạng nguyên thể, <b>your number</b><i> (số của bạn)</i> là tân ngữ. Câu hoàn chỉnh là <span style=\"color:red\"><b>May I get your number, please?</b></span> <i>(Cho tôi xin số của bạn được không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "094c12d0-3761-4b1a-8b04-ee13619ae149"
+          },
+          "dapAn": "May I",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ae52ca97-6158-4b42-abdc-9053e32f31af"
+          },
+          "dapAn": "get your number, ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "27837e13-7a7b-43e3-862e-709fafe29bee"
+          },
+          "dapAn": "please?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f60fbdad-edd9-47c6-9c9b-7ac63a8b7a35"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi tuổi của ai đó, ta sử dụng cấu trúc <b>How old + động từ to be + chủ ngữ</b>? Câu hoàn chỉnh là <b><span style=\"color:red\">How old are they? </span></b><i>(Họ bao nhiêu tuổi?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b16043c7-4284-4fb2-bb27-cfa22c607015"
+          },
+          "dapAn": "How old",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4eb54f6d-02f9-4539-9f9b-2fb84aa6ba20"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4eb14451-57e3-4360-a8c1-be429a9f20c3"
+          },
+          "dapAn": "they?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1bb1b7d0-d98d-4598-b6a5-e543f565ef58"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có <b>they </b>là chủ ngữ ngôi thứ 3 số nhiều, nên động từ<i> to be</i> theo sau sẽ là <b>are</b>. Câu hoàn chỉnh là <span style=\"color:red\"><b>Are they your daughter and son?</b></span> <i>(Họ là con gái và con trai của bạn à?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cb138806-e1e3-4c25-9393-d843c6604830"
+          },
+          "dapAn": "Are they",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "722c56be-4f2a-49ae-b1aa-2296d2b62c4c"
+          },
+          "dapAn": "your",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "706377ab-94e9-4406-9283-7426433a9fdb"
+          },
+          "dapAn": "daughter",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "69f20044-d050-4307-9355-6b58d44df355"
+          },
+          "dapAn": "and son?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "84d92e45-7c6e-4eee-ab8f-a46f817821ec"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để xác nhận thông tin ai đó có phải là người nước nào đó không, ta sử dụng cấu trúc <b>Động từ to be + chủ ngữ + quốc tịch?</b> Câu hoàn chỉnh là <span style=\"color:red\"><b>Are you Chinese?</b></span> <i>(Bạn là người Trung Quốc à?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1fdd59d3-5524-43bd-bf93-0af625a63615"
+          },
+          "dapAn": "Are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "27bef6f4-64ac-4810-96c7-d3c32965434a"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5e1b6dbc-2ff7-4ba5-a4b2-e1947d92c36c"
+          },
+          "dapAn": "Chinese?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f95dda3e-0e07-448a-833c-414fec42ad29"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có <b>My phone number </b><i>(Số điện thoại của tôi) </i>là chủ ngữ ở dạng số ít nên động từ <i>to be</i> theo sau sẽ ở dạng số ít là <b>is</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">My phone number is 778-453-226.</span></b> <i>(Số điện thoại của tôi là 778-453-226.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d0aca53d-eca8-4881-b99c-dbc183910934"
+          },
+          "dapAn": "My",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8ff266b3-5411-4f58-8e3b-9e0147973eb4"
+          },
+          "dapAn": "phone number",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dc9c4018-e4fd-4476-838b-d2cc5750cd54"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "59e2a449-3e85-4002-99b2-2d209ec39a0f"
+          },
+          "dapAn": "778-453-226.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ce36769c-e4f7-4419-a85a-2795904536b5"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi về địa điểm hay vị trí, ta sử dụng từ để hỏi <b>Where</b>, sau từ để hỏi ta dùng động từ <i>to be</i> <b>is </b>tương ứng với chủ ngữ <b>Hainan </b><i>(tỉnh Hải Nam)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">Where is Hainan?</span></b><i> (Tỉnh Hải Nam ở đâu?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ed8cefee-ba7e-4473-bb7a-6251233f4167"
+          },
+          "dapAn": "Where",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "aa2b90b0-b1eb-4c3c-8134-c85ee66f081c"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c5c835a1-0ce0-4607-b251-2d197185d9b4"
+          },
+          "dapAn": "Hainan?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "96d76fce-6d5c-4f2d-a7dd-7877333aebe0"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để giới thiệu về tên của ai đó, ta dùng cấu trúc: <b>Tính từ sở hữu + Danh từ sở hữu + name + is + tên. </b>Ta có <b>his</b><i><b> </b>(của anh ấy)</i>, <b>brother's</b> <i>(của anh trai)</i>. Câu hoàn chỉnh là <span style=\"color:red\"><b>His brother's name is David.</b></span> <i>(Tên của anh trai anh ấy là David.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3a65f79c-7bed-4dbf-a5c1-c5370bda85ab"
+          },
+          "dapAn": "His",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0ee1a5de-39d5-4f8f-8b69-1ba1c9c2e9d8"
+          },
+          "dapAn": "brother's",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "77a00a5a-74b0-43b9-9cdd-e17dc3c4a27b"
+          },
+          "dapAn": "name",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "93b73a86-b66b-45d7-ab09-1ed682853af8"
+          },
+          "dapAn": "is David.",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_TC_L12/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_TC_L12/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "90783fb4-4b71-4590-89ca-22519b6ab93d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Host",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d13e801d-67a7-4723-a147-48eb9ed4f207"
+          },
+          "dapAn": "Good afternoon. I’m in Pittsburgh, Pennsylvania. Thanks for inviting me to visit your hometown, Alan.",
+          "phienAm": "/gʊd ɑːftəˈnuːn/. /aɪm ɪn ˈpɪtsbɜːg ˌpensɪlˈveɪnɪə/. /θæŋks fɔːr ɪnˈvaɪtɪŋ miː tuː ˈvɪzɪt jɔːr ˈhəʊmtaʊn ˈælən/",
+          "yNghia": "\nChào buổi chiều. Tôi đang ở Pittsburgh, Pennsylvania. Cảm ơn vì đã mời tôi đến thăm quê hương của bạn, Alan.",
+          "normal": {
+            "start": "00:00:00.716",
+            "end": "00:00:08.730"
+          },
+          "slow": {
+            "start": "00:00:00.619",
+            "end": "00:00:12.913"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b17120ef-b279-4d81-ae2c-b66a8ecb6bc1"
+          },
+          "dapAn": "Yes, it’s so stunning and clean.",
+          "phienAm": "/jes ɪts səʊ ˈstʌnɪŋ ænd kliːn/",
+          "yNghia": "\nCó, rất đẹp và sạch sẽ.",
+          "normal": {
+            "start": "00:00:13.187",
+            "end": "00:00:15.988"
+          },
+          "slow": {
+            "start": "00:00:19.944",
+            "end": "00:00:24.970"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a48d8309-2363-4611-871f-529a58d8cd07"
+          },
+          "dapAn": "Really? How has it changed?",
+          "phienAm": "/ˈrɪəli/. /haʊ hæz ɪt ʧeɪnʤd/",
+          "yNghia": "\nCó thật không? Nó đã thay đổi như thế nào?",
+          "normal": {
+            "start": "00:00:19.627",
+            "end": "00:00:21.856"
+          },
+          "slow": {
+            "start": "00:00:29.024",
+            "end": "00:00:32.606"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c9d222fd-1213-423a-a92a-de66b42df333"
+          },
+          "dapAn": "Oh, wow. How long has it been this way?",
+          "phienAm": "/əʊ waʊ/. /haʊ lɒŋ hæz ɪt biːn ðɪs weɪ/",
+          "yNghia": "\nỒ. Nó đã như vậy bao lâu rồi?",
+          "normal": {
+            "start": "00:00:29.113",
+            "end": "00:00:32.589"
+          },
+          "slow": {
+            "start": "00:00:42.821",
+            "end": "00:00:46.860"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "40ddb856-eff8-4983-8a99-d7723f3b6e43"
+          },
+          "dapAn": "So what kinds of changes have happened?",
+          "phienAm": "/səʊ wɒt kaɪndz ɒv ˈʧeɪnʤɪz hæv ˈhæpənd/",
+          "yNghia": "\nVậy, những thay đổi gì đã diễn ra?",
+          "normal": {
+            "start": "00:00:40.072",
+            "end": "00:00:42.566"
+          },
+          "slow": {
+            "start": "00:00:57.104",
+            "end": "00:01:01.703"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9c0f7f45-f5f1-442c-9b46-3a1836a7e9bd"
+          },
+          "dapAn": "I see a lot of pedestrian areas and bike lanes too.",
+          "phienAm": "/aɪ siː eɪ lɒt ɒv pəˈdestriən ˈeərɪəz ænd baɪk leɪnz tuː/",
+          "yNghia": "\nTôi thấy có rất nhiều khu vực dành cho người đi bộ và cả làn đường dành cho xe đạp.",
+          "normal": {
+            "start": "00:00:50.683",
+            "end": "00:00:54.322"
+          },
+          "slow": {
+            "start": "00:01:12.302",
+            "end": "00:01:19.908"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3cc98953-902f-4a8d-ba72-5d9129427574"
+          },
+          "dapAn": "That’s really cool. Hey, what are all those people doing around that truck?",
+          "phienAm": "/ðæts ˈrɪəli kuːl/. /heɪ wɒt ɑːr ɔːl ðəʊz ˈpiːpl ˈduːɪŋ əˈraʊnd ðæt trʌk/",
+          "yNghia": "\nĐiều đó thực sự tuyệt vời. Này, mọi người đang làm gì xung quanh chiếc xe tải đó vậy?",
+          "normal": {
+            "start": "00:00:59.331",
+            "end": "00:01:04.503"
+          },
+          "slow": {
+            "start": "00:01:27.028",
+            "end": "00:01:35.312"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b75b1d66-6f23-454e-aee1-a7d19e33eb51"
+          },
+          "dapAn": "No, we don’t. It’s so weird to me.",
+          "phienAm": "/nəʊ wiː dəʊnt/. /ɪts səʊ wɪəd tuː miː/",
+          "yNghia": "\nKhông, chúng tôi không có. Tôi thấy nó rất kỳ lạ.",
+          "normal": {
+            "start": "00:01:10.208",
+            "end": "00:01:13.029"
+          },
+          "slow": {
+            "start": "00:01:42.903",
+            "end": "00:01:48.018"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b0b902ff-b8fd-4a34-a810-27aa915cb209"
+          },
+          "dapAn": "That’s a great idea!",
+          "phienAm": "/ðæts eɪ greɪt aɪˈdɪə/",
+          "yNghia": "\nĐó là một ý tưởng tuyệt vời!",
+          "normal": {
+            "start": "00:01:24.499",
+            "end": "00:01:25.868"
+          },
+          "slow": {
+            "start": "00:02:01.933",
+            "end": "00:02:04.188"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "eb3c03eb-6a21-4acd-9541-e41a262354fc"
+          },
+          "dapAn": "Yeah, I’m hungry! I also love Chinese food.",
+          "phienAm": "/jeə aɪm ˈhʌŋgri/. /aɪ ˈɔːlsəʊ lʌv ˌʧaɪˈniːz fuːd/",
+          "yNghia": "\nVâng, tôi đang đói! Tôi cũng thích đồ ăn Trung Quốc.",
+          "normal": {
+            "start": "00:01:31.020",
+            "end": "00:01:34.537"
+          },
+          "slow": {
+            "start": "00:02:10.998",
+            "end": "00:02:17.012"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f4d3350e-36e0-41e6-99e2-a94d8dbdc8df"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Alan",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "82df3287-2919-4409-afa2-2988ac07d160"
+          },
+          "dapAn": "You are welcome. Is it beautiful here?",
+          "phienAm": "/juː ɑːr ˈwelkəm/. /ɪz ɪt ˈbjuːtɪfl hɪər/",
+          "yNghia": "\nKhông có gì. Ở đây có đẹp không?",
+          "normal": {
+            "start": "00:00:09.241",
+            "end": "00:00:12.206"
+          },
+          "slow": {
+            "start": "00:00:14.151",
+            "end": "00:00:17.939"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "566903b2-5a74-423f-94bc-b8396ac90e85"
+          },
+          "dapAn": "But it has changed a lot.",
+          "phienAm": "/bʌt ɪt hæz ʧeɪnʤd eɪ lɒt/",
+          "yNghia": "\nNhưng nó đã thay đổi rất nhiều rồi.",
+          "normal": {
+            "start": "00:00:16.969",
+            "end": "00:00:18.687"
+          },
+          "slow": {
+            "start": "00:00:25.914",
+            "end": "00:00:28.449"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "851db877-037b-406b-85df-387a68c462b1"
+          },
+          "dapAn": "Pittsburgh was a very industrial city in the past, and it was really polluted.",
+          "phienAm": "/ˈpɪtsbɜːg wɒz eɪ ˈveri ɪnˈdʌstrɪəl ˈsɪti ɪn ðə pɑːst ænd ɪt wɒz ˈrɪəli pəˈluːtɪd/",
+          "yNghia": "\nPittsburgh trước đây là một thành phố rất công nghiệp và nó bị ô nhiễm nặng nề.",
+          "normal": {
+            "start": "00:00:22.735",
+            "end": "00:00:28.316"
+          },
+          "slow": {
+            "start": "00:00:33.859",
+            "end": "00:00:41.745"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "87cd052e-1101-401f-8f30-8b96304665f8"
+          },
+          "dapAn": "Since the 1980s, I think. That’s when the factories closed and the city started to change.",
+          "phienAm": "/sɪns ðə ˌnaɪnˈtiːn ˈeɪtis aɪ θɪŋk/. /ðæts wen ðəˈfæktəriz kləʊzd ænd ðə ˈsɪti ˈstɑːtɪd tuː ʧeɪnʤ/",
+          "yNghia": "\nTừ những năm 1980, tôi nghĩ vậy. Đó là khi các nhà máy đóng cửa và thành phố bắt đầu thay đổi.",
+          "normal": {
+            "start": "00:00:32.998",
+            "end": "00:00:39.152"
+          },
+          "slow": {
+            "start": "00:00:47.744",
+            "end": "00:00:56.014"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fb6f1e0c-44d9-4473-a299-fed658daccb1"
+          },
+          "dapAn": "Lots of things. They’ve created a lot of green spaces with walking trails and playgrounds.",
+          "phienAm": "/lɒts ɒv θɪŋz/. /ðeɪv kriːˈeɪtɪd eɪ lɒt ɒv griːn ˈspeɪsɪz wɪð ˈwɔːkɪŋ treɪlz ænd ˈpleɪgraʊndz/",
+          "yNghia": "\nNhiều thứ lắm. Họ đã tạo ra rất nhiều không gian xanh với những con đường mòn đi bộ và sân chơi.",
+          "normal": {
+            "start": "00:00:43.241",
+            "end": "00:00:49.477"
+          },
+          "slow": {
+            "start": "00:01:02.411",
+            "end": "00:01:11.476"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a3f3033b-cd3d-4074-a19f-77aa1e06e6b2"
+          },
+          "dapAn": "Yes. Now people walk and bike a lot more.",
+          "phienAm": "/jes/. /naʊ ˈpiːpl wɔːk ænd baɪk eɪ lɒt mɔːr/",
+          "yNghia": "\nĐúng vậy. Bây giờ người ta đi bộ và đi xe đạp nhiều hơn.",
+          "normal": {
+            "start": "00:00:54.997",
+            "end": "00:00:58.574"
+          },
+          "slow": {
+            "start": "00:01:21.013",
+            "end": "00:01:25.907"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5d410bae-8523-45cc-ad51-ab7263a7d605"
+          },
+          "dapAn": "Oh, that’s a food truck. Do you have those in your city?",
+          "phienAm": "/əʊ ðæts eɪ fuːd trʌk/. /duː juː hæv ðəʊz ɪn jɔːrˈsɪti/",
+          "yNghia": "\nỒ, đó là một chiếc xe bán đồ ăn lưu động. Ở thành phố của bạn có những chiếc xe tải đó không?",
+          "normal": {
+            "start": "00:01:05.546",
+            "end": "00:01:09.656"
+          },
+          "slow": {
+            "start": "00:01:36.152",
+            "end": "00:01:41.797"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0f3c8896-4322-49dc-bea2-576ed2cac844"
+          },
+          "dapAn": "Food trucks have become very popular in the US. They have a lot of different kinds of food, and it’s fast and not very expensive.",
+          "phienAm": "/fuːd trʌks hæv bɪˈkʌm ˈveri ˈpɒpjʊlər ɪn ðiː juː es/. /ðeɪ hæv eɪ lɒt ɒv ˈdɪfrənt kaɪndz ɒv fuːd ænd ɪts fɑːstænd nɒt ˈveri ɪkˈspensɪv/",
+          "yNghia": "\nXe bán đồ ăn lưu động đã trở nên rất phổ biến ở Mỹ. Họ có rất nhiều loại thức ăn khác nhau, nó rất nhanh và không đắt lắm.",
+          "normal": {
+            "start": "00:01:13.908",
+            "end": "00:01:23.272"
+          },
+          "slow": {
+            "start": "00:01:48.932",
+            "end": "00:02:01.682"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2400264b-7779-4122-9580-1c23e4f78d4d"
+          },
+          "dapAn": "That truck has Chinese food. Do you want some?",
+          "phienAm": "/ðæt trʌk hæz ˌʧaɪˈniːz fuːd/. /duː juː wɒnt sʌm/",
+          "yNghia": "\nChiếc xe tải đó có đồ ăn Trung Quốc. Bạn có muốn ăn một chút không?",
+          "normal": {
+            "start": "00:01:26.625",
+            "end": "00:01:29.855"
+          },
+          "slow": {
+            "start": "00:02:05.441",
+            "end": "00:02:10.173"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "bb0e1dac-ffc4-41e8-9a26-74a1a6e7e5a9"
+          },
+          "dapAn": "Me too. It’s so amazing!",
+          "phienAm": "/miː tuː/. /ɪts səʊ əˈmeɪzɪŋ/",
+          "yNghia": "\nTôi cũng thế. Thật tuyệt vời!",
+          "normal": {
+            "start": "00:01:35.375",
+            "end": "00:01:37.645"
+          },
+          "slow": {
+            "start": "00:02:17.867",
+            "end": "00:02:20.712"
+          }
+        }
+      ]
+    }
+  ]
+}

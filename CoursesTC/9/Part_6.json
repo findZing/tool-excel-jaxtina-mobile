@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "d01bcb5a-9e91-4224-9fa3-3c71c7b0d2f4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td><b>Zara:</b></td>\n                        <td>OK. Let's <b>(1)</b> ______  a party. First, the date?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lucas:</b></td>\n                        <td>Well, the <b>(2)</b> ______  ends on June 5th, so how about Saturday, June 9th?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Zara:</b></td>\n                        <td>That <b>(3)</b> ______  good. It's going to be a big party. Where can we have it?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lucas:</b></td>\n                        <td>What about <b>(4)</b> ______  it in the auditorium here in the institute?</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Zara:</b></td>\n                        <td>OK. Let's <b>(2)</b> <b><span style=\"color:red\">throw</span> </b> a party. First, the date?<br />\n                        <i>Được rồi</span> </i><i>. Hãy </span> </i><i><span style=\"color:red\">tổ chức </span> </i><i>một bữa tiệc. Đầu tiên, </span> </i><i>ngày nào?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lucas:</b></td>\n                        <td>Well, the <b>(2)</b> <b><span style=\"color:red\">course</span> </b> ends on June 5th, so how about Saturday, June 9th?<br />\n                        <i>Chà, </span> </i><i><span style=\"color:red\">khóa học</span> </i><i> kết thúc vào ngày 5 tháng 6, vậy thứ Bảy, ngày 9 tháng 6 thì sao?</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Zara:</b></td>\n                        <td>That <b>(3)</b> <b><span style=\"color:red\">sounds</span> </b> good. It's going to be a big party. Where can we have it?<br />\n                        <i><span style=\"color:red\">Nghe</span> </i><i> ổn đấy. Đây sẽ là một bữa tiệc lớn. Chúng ta có thể tổ chức nó ở đâu?</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lucas:</b></td>\n                        <td>What about <b>(4)</b> <b><span style=\"color:red\">having</span> </b> it in the auditorium here in the institute?<br />\n                        <i><span style=\"color:red\">Tổ chức </span> </i><i>tiệc </i><i>trong khán phòng </span> </i><i>của học</span> </i><i> viện thì sao?</span> </i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "throw ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e6b56c53-dcd4-4b9a-b118-226aad3d4263"
+          }
+        },
+        {
+          "dapAn": "course",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a37571cb-d044-4b5a-affa-bc39c96c0def"
+          }
+        },
+        {
+          "dapAn": "sounds ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f7852d65-6090-4cd7-9f92-84e247bc56d2"
+          }
+        },
+        {
+          "dapAn": "having",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0ffe6c31-67d8-4792-8d05-01a9a333da43"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6692159b-7d69-4ccf-935a-a8562ef8b6de"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Zara:</b></td>\n                        <td>Great. Thanks. What about music, food, and <b>(1)</b> _____?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lucas:</b></td>\n                        <td>I'll bring the music. I can make  <b>(2)</b> _________, and I'll bring my big speakers.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Zara:</b></td>\n                        <td>Awesome. Now, food and drinks?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lucas:</b></td>\n                        <td>Can I make a <b>(3)</b> ________?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Zara:</b></td>\n                        <td>Of course.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lucas:</b></td>\n                        <td>I think we should have traditional food. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Zara:</b></td>\n                        <td>In my opinion, everyone will prefer a <b>(4)</b> _________. It's easier to choose food.</td>\n                </tr>\n        </tbody>\n</table>\n<br />",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Zara:</b></td>\n                        <td>Great. Thanks. What about music, food, and <b>(1)</b> <b><span style=\"color:red\">drinks</span> </b>?<br />\n                        <i>Tuyệt quá. Cảm ơn bạn. Còn âm nhạc, thức ăn và </span> </i><i><span style=\"color:red\">đồ uống </span> </i><i>thì sao?</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lucas:</b></td>\n                        <td>I'll bring the music. I can make  <b>(2) </b><b><span style=\"color:red\">playlists</span> </b>, and I'll bring my big speakers.<br />\n                        <i>Tôi sẽ </span> </i><i>lo phần âm nhạc</span> </i><i>. Tôi có thể tạo </span> </i><i><span style=\"color:red\">danh sách phát </span> </i><i>và tôi sẽ mang theo loa lớn</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Zara:</b></td>\n                        <td>Awesome. Now, food and drinks?<br />\n                        <i>Tuyệt. </i><i>Vậy còn</i><i> thức ăn và đồ uống</i><i> thì sao?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lucas:</b></td>\n                        <td>Can I make a <b>(3)</b><b><span style=\"color:red\">suggestion</span> </b>?<br />\n                        <i>Tôi </span> </i><i><span style=\"color:red\">gợi ý</span> </i><i> được chư?</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Zara:</b></td>\n                        <td>Of course.<br />\n                        <i>Tất nhiên.</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lucas:</b></td>\n                        <td>I think we should have traditional food. <br />\n                        <i>Tôi nghĩ chúng ta nên có </span> </i><i>đồ</span> </i><i>ăn truyền thống.</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Zara:</b></td>\n                        <td>In my opinion, everyone will prefer a <b>(4)</b> <b><span style=\"color:red\">buffet</span> </b>  . It's easier to choose food.<br />\n                        <i>Theo tôi, mọi người sẽ thích</span> </i><i>tiệc buffet</span> </i>hơn. </span> </i><i>Vì dễ chọn đồ ăn hơn.</span> </i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "drinks",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "7749aa37-2697-4083-80a5-fde27726589d"
+          }
+        },
+        {
+          "dapAn": "playlists",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "fed5c5d4-636d-433e-9f7e-b38e458fbe24"
+          }
+        },
+        {
+          "dapAn": "suggestion",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2db1b34c-3ef4-4cb5-a02d-41c0cc44b650"
+          }
+        },
+        {
+          "dapAn": "buffet",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "73bfbdb0-fe09-4169-840a-c18c1837c22b"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c65e5a56-6ab0-4892-bb58-ec0f318d898c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lucas:</b></td>\n                        <td>OK. Next - <b>(1)</b> ______! Zara, you're a designer. Could you design an invitation?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Zara:</b></td>\n                        <td>Sure, no <b>(2)</b> ______.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lucas:</b></td>\n                        <td>Now, do we have the number of people who will <b>(3)</b> ______ the party?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Zara:</b></td>\n                        <td>I have the information here. This is the <b>(4)</b> ______ of people who registered. </td>\n                </tr>\n        </tbody>\n</table>\n<br />",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lucas:</b></td>\n                        <td>OK. Next - <b>(1)</b> <b><span style=\"color:red\">invitations</span> </b>  ! Zara, you're a designer. Could you design an invitation?<br />\n                        <i>Được rồi</span> </i><i>. Tiếp the</span> </i><i>o</i><i> </i><i>- </i><i><span style=\"color:red\">thiệp mời</span> </i><i>! Zara, bạn là một nhà thiết kế. Bạn có thể thiết kế một thiệp mời được không?</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Zara:</b></td>\n                        <td>Sure, no <b>(2)</b> <b><span style=\"color:red\">problem</span> </b>.<br />\n                        <i>Chắc chắn rồi, không thành </span> </i><i><span style=\"color:red\">vấn đề.</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lucas:</b></td>\n                        <td>Now, do we have the number of people who will <b>(3)</b> <b><span style=\"color:red\">attend</span> </b>   the party?<br />\n                        <i>Bây giờ, chúng ta có số lượng người sẽ </span> </i><i><span style=\"color:red\">tham gia</span> </i><i> bữa tiệc không?</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Zara:</b></td>\n                        <td>I have the information here. This is the <b>(4)</b> <b><span style=\"color:red\">list</span> </b>  of people who registered. <br />\n                        <i>Tôi có thông tin ở đây. Đây là </span> </i><i><span style=\"color:red\">danh sách</span> </i><i> những người đã đăng ký.</span> </i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "invitations",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e3ee90c9-17d7-421d-8101-9e36683c4eda"
+          }
+        },
+        {
+          "dapAn": "problem",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f77200ba-6d9b-4ccc-8e5a-4607ce9bb95b"
+          }
+        },
+        {
+          "dapAn": "attend",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "be026f65-8fd2-4089-b448-a999555df3bc"
+          }
+        },
+        {
+          "dapAn": "list",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "b7304b12-734d-45be-b76c-37d25135829c"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c1d6baa7-1b24-4e0f-8a91-302fa50c46f9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Social Events<br />\nIf you are not going to join an event, do not accept the <b>(1)</b> ____.<b> </b>Just simply tell them you have <b>(2)</b> ____<b> </b>that evening and thank them for inviting. <br />\nAt a dinner <b>(3)</b> ____,<b> </b>bringing a small <b>(4)</b> ____<b> </b>is typical, but not in more informal events. <br />",
+      "yNghia": "Social Events\nIf you are not going to join an event, do not accept the <b>(1)</b> <b><span style=\"color:red\">invitation</span> </b><b>. </b>Just simply tell them you have <b>(2)</b> <b><span style=\"color:red\">plans </span> </b>that evening and thank them for inviting.\nAt a dinner <b>(3)</b> <b><span style=\"color:red\">party</span> </b><b>, </b>bringing a small <b>(4)</b> <b><span style=\"color:red\">gift </span> </b>is typical, but not in more informal events.<br />\n<i>Các sự kiện giao lưu xã hội</i>\n<i>Đừng chấp nhận </span> </i><i><span style=\"color:red\">lời mời </span> </i><i>tham dự một sự kiện nếu bạn không định đi. Chỉ cần đơn giản nói rằng bạn đã có </span> </i><i><span style=\"color:red\">kế hoạch</span> </i><i> vào buổi tối hôm đó và cảm ơn họ vì lời mời.</span> </i>\n<i>Trong một </span> </i><i><span style=\"color:red\">bữa tiệc </span> </i><i>tối, </span> </i><i>v</span> </i><i>iệc mang một </span> </i><i><span style=\"color:red\">món quà </span> </i><i>nhỏ là điều bình thường</span> </i><i>,</span> </i><i> nhưng </span> </i><i>đối với các sự kiện thân mật hơn thì không</span> </i><i>.</span> </i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "invitation",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ff6dc4e8-07fb-45ee-8406-30920b7ff660"
+          }
+        },
+        {
+          "dapAn": "plans",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "bbee0862-6305-4a03-a440-806d1c2dd11d"
+          }
+        },
+        {
+          "dapAn": "party",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c551a5fe-5ea5-4f96-9fa4-9d9993f63b1d"
+          }
+        },
+        {
+          "dapAn": "gift",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e095d50d-75ad-4605-bde3-9ce7ca10acdb"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ca6c2604-467a-4868-946f-acef61636753"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You should ask about someone's food preferences to see what they can't or don't like to eat if you want to <b>(1)</b> ____that person out to eat. After that, you can select a <b>(2) </b>____. <br />\nPotluck <b>(3) </b>____<b> </b>are popular in the United States. This is when everyone is expected to bring a large <b>(4)</b> ____<b> </b>to share.",
+      "yNghia": "Food and Restaurants<br />\nYou should ask about someone's food preferences to see what they can't or don't like to eat if you want to <b>(1) </b><b><span style=\"color:red\">invite</span> </b> that person out to eat. After that, you can select <b>(2) </b><b><span style=\"color:red\">restaurant</span> </b>. \nPotluck <b>(3) </b><b><span style=\"color:red\">dinners</span> </b> are popular in the United States. This is when everyone is expected to bring a large <b>(4)</b> <b><span style=\"color:red\">dish</span> </b> to share. <br />\n<i>Đồ ăn và Nhà hàng</span> </i><br />\n<i>Hãy hỏi về sở thích ăn uống của một người xem có món ăn nào mà họ không thể ăn hoặc không thích nếu bạn muốn </span> </i><i><span style=\"color:red\">mời</span> </i><i> người đó đi ăn. Sau đó, bạn mới có thể chọn một </span> </i><i><span style=\"color:red\">nhà hàng</span> </i><i>.</span> </i>\n<i>Những </span> <span style=\"color:red\">bữa tối </span> góp đồ chung thường phổ biến ở Mỹ. Đây là khi mà mọi người mang theo một </span> <span style=\"color:red\">món ăn </span> ngon</span>  để chia sẻ.</span> </i>\n",
+      "danhSachDapAn": [
+        {
+          "dapAn": "invite",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f7816bbf-594b-4fa6-8124-38eb065c96e2"
+          }
+        },
+        {
+          "dapAn": "restaurant",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "4cd5e618-b115-4bdb-82b1-2098c6484145"
+          }
+        },
+        {
+          "dapAn": "dinners",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "b8035885-7dde-4db5-a11f-89961e1eaa1f"
+          }
+        },
+        {
+          "dapAn": "dish ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "3d5bbec9-82e8-454c-bd03-80fc6d3e03b5"
+          }
+        }
+      ]
+    }
+  ]
+}

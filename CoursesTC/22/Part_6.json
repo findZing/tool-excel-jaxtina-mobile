@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "2907c6cc-7850-4aa0-b6b0-ce8be8e6283d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td><b>Nisha</b>: </td>\n                        <td>Hi, how are you, Meher?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Meher:</b></td>\n                        <td>I am fine. How are you? Why are you <b>(1)</b> ____  so worried?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Nisha:</b></td>\n                        <td>I am okay, but I am <b>(2)</b> ____  a bit tense about the environment.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Meher:</b></td>\n                        <td>Yes, there are so many environmental problems that we have to <b>(3)</b> ____.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Nisha:</b></td>\n                        <td>Yeah, I have <b>(4)</b> ____ an article in today's newspaper about plastic pollution.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Nisha:</b></td>\n                        <td>Hi, how are you, Meher?<br />\n                        <i>Xin chào, bạn thế nào, Meher?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Meher:</b></td>\n                        <td>I am fine. How are you? Why are you <b>(1)</b> <span style=\"color:red\"><b>looking</b></span> <span style=\"color:red\"> </span> so worried?<br />\n                        <i>Tôi ổn. Bạn khỏe không? Sao </i></span> <span style=\"color:red\"><i>trông </i></span> <i>bạn lo lắng thế?</i></span> </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Nisha:</b></td>\n                        <td>I am okay, but I am <b>(2)</b> <span style=\"color:red\"><b>feeling</b></span> <span style=\"color:red\"> </span> a bit tense about the environment issues.<br />\n                        <i>Tôi không sao, nhưng tôi </i><span style=\"color:red\"><i>cảm thấy</i></span> <i> hơi căng thẳng với các vấn đề môi trường.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Meher:</b></td>\n                        <td>Yes, there are so many environmental problems that we have to <b>(3)</b> <span style=\"color:red\"><b>cope with</b></span> . <br />\n                        <i>Vâng, có rất nhiều vấn đề về môi trường mà chúng ta phải </i><span style=\"color:red\"><i>đương đầu</i></span> <i>.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Nisha:</b></td>\n                        <td>Yeah, I have <b>(4)</b> <span style=\"color:red\"><b>read</b></span> <span style=\"color:red\"> </span> an article in today's newspaper about plastic pollution.<br />\n                        <i>Vâng, tôi đã </i><span style=\"color:red\"><i>đọc </i></span> <i>một bài báo trên tờ báo ngày nay về ô nhiễm nhựa.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "looking",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "fa32efc0-e918-46cf-9f64-dacb65090be6"
+          }
+        },
+        {
+          "dapAn": "feeling",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "61bb8130-ba6d-4f56-b452-45fbb3c8ed3e"
+          }
+        },
+        {
+          "dapAn": "cope with",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2c8f7538-8dc4-4622-aae2-6de5f9cd6c2e"
+          }
+        },
+        {
+          "dapAn": "read",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f7154a2c-7039-489f-b2f2-629c2ba21545"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b6f25e68-2036-47c2-b6ba-fa512a9290ce"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Nisha:</b></td>\n                        <td colspan=\"3\">Plastic waste is a big threat to the <b>(1)</b> ____ environment. It is <b>(2)</b> ____  wildlife and causing pollution.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Meher:</b></td>\n                        <td colspan=\"3\">Oh God, I never heard about that before. Can you share more <b>(3)</b> ____ with me?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Nisha:</b></td>\n                        <td colspan=\"3\">Yes, of course I can.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Meher:</b></td>\n                        <td colspan=\"3\">Are you talking about the plastics that we are <b>(4)</b> ____ every day?</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Nisha:</b></td>\n                        <td>Plastic waste is a big threat to the <b>(1)</b> <span style=\"color:red\"><b>entire</b></span> <span style=\"color:red\"> </span> environment. It is <b>(2)</b> <span style=\"color:red\"><b>harming</b></span> <span style=\"color:red\"> </span> wildlife and causing pollution.<br />\n                        <i>Rác thải nhựa đang là mối đe dọa lớn đối với </i><span style=\"color:red\"><i>toàn bộ </i></span> <i>môi trường. Nó đang </i><span style=\"color:red\"><i>làm hại </i></span> <i>động vật hoang dã và gây ô nhiễm.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Meher:</b></td>\n                        <td>Oh God, I never heard about that before. Can you share more <b>(3)</b> <span style=\"color:red\"><b>information</b></span> <span style=\"color:red\">  </span> with me?<br />\n                        <i>Chúa ơi, tôi chưa bao giờ nghe nói về điều đó trước đây. Bạn có thể chia sẻ thêm </i><span style=\"color:red\"><i>thông tin </i></span> <i>với tôi không?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Nisha:</b></td>\n                        <td>Yes, of course I can.<br />\n                        <i>Tất nhiên rồi. </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Meher:</b></td>\n                        <td>Are you talking about the plastics that we are <b>(4)</b> <span style=\"color:red\"><b>using</b></span> <span style=\"color:red\"> </span> every day?<br />\n                        <i>Bạn đang nói về nhựa mà chúng ta đang </i><span style=\"color:red\"><i>sử dụng </i></span> <i>hàng ngày phải không?</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "entire",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "269a9268-57db-4db6-9f09-4dc7dbcc2104"
+          }
+        },
+        {
+          "dapAn": "harming",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2c9499b5-b64f-4b87-bb85-22237f8d84fd"
+          }
+        },
+        {
+          "dapAn": "information",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2a019f25-cc5a-4bd7-b3a9-1449d7f6de61"
+          }
+        },
+        {
+          "dapAn": "using",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "9f076778-c5f4-41aa-abe2-a87be0be715c"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b44bee6e-4be2-4dec-875b-a69495894740"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Meher:</b></td>\n                        <td colspan=\"4\">Even <b>(1)</b> ____  straws are plastic, right?</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Nisha:</b></td>\n                        <td colspan=\"4\">Exactly. Do you know what we do with the <b>(2)</b> ____  plastics? </td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Meher:</b></td>                        <td colspan=\"4\">After we throw them away, do they <b>(3)</b> ____? </td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Nisha:</b></td>\n                        <td colspan=\"4\">They stay the same for hundreds of years under the soil and <b>(4)</b> ____ the soil's ability to grow trees and other plants.  </td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Meher:</b></td>\n                        <td>Even <b>(1)</b> <span style=\"color:red\"><b>drinking</b></span> <span style=\"color:red\"> </span> straws are plastic, right?<br />\n                        <i>Ngay cả ống hút cũng bằng nhựa phải không?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Nisha:</b></td>\n                        <td>Exactly. Do you know what we do with the <span style=\"color:red\"><b>waste</b></span> <span style=\"color:red\"> </span> <b>(2)</b> plastics? <br />\n                        <i>Chính xác. Bạn có biết chúng ta làm gì với </i><span style=\"color:red\"><i>rác thải </i></span> <i>nhựa không?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Meher:</b></td>\n                        <td>After we throw them away, do they <b>(3)</b> <span style=\"color:red\"><b>decompose</b></span> ? <br />\n                        <i>Sau khi chúng ta vứt chúng đi, chúng có </i><span style=\"color:red\"><i>bị phân hủy </i></span> <i>không?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Nisha:</b></td>\n                        <td>They stay the same for hundreds of years under the soil and <b>(4) </b><span style=\"color:red\"><b>spoil</b></span> <span style=\"color:red\"> </span> the soil's ability to grow trees and other plants.  <br />\n                        <i>Chúng không thay đổi trong hàng trăm năm dưới đất và </i><span style=\"color:red\"><i>làm hỏng </i></span> <i>khả năng trồng cây và các loại thực vật khác của đất.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "drinking",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "7064e617-b3fa-48ec-8285-eb8923125ea1"
+          }
+        },
+        {
+          "dapAn": "waste",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "9f7fa0ae-1f8c-466d-9495-59bebfd00bea"
+          }
+        },
+        {
+          "dapAn": "decompose",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e24f257d-be80-4aac-a1ed-5510a9e34f8b"
+          }
+        },
+        {
+          "dapAn": "spoil",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "14f74a20-9488-4d42-a577-0db2d0ca81a6"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9ace57f2-d3fc-44d5-9aba-f0cdfdcc1469"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "A problem with plastic bags was recognized by Thato in South Africa, where people throw a lot of <b>(1)</b> ____ away and they end up as trash in the streets. Children frequently bring plain plastic bags to school to carry their <b>(2) </b>____ in. Thato believed she could find solutions for each of these <b>(3) </b>____. She made the decision to use <b>(4) </b>____ plastic bags to make schoolbags. The bags go under the name Repurpose SchoolBags.",
+      "yNghia": "A problem with plastic bags was recognized by Thato in South Africa, where people throw a lot of <b>(1)</b> <span style=\"color:red\"><b>plastic bags</b></span> <span style=\"color:red\"> </span> away and they end up as trash in the streets. Children frequently bring plain plastic bags to school to carry their <b>(2) </b><span style=\"color:red\"><b>books</b></span> <span style=\"color:red\"> </span> in. Thato believed she could find solutions for each of these <b>(3) </b><span style=\"color:red\"><b>problems</b></span> . She made the decision to use <b>(4)</b><span style=\"color:red\"><b> recycled </b></span> plastic bags to make schoolbags. The bags go under the name Repurpose SchoolBags.<br />\n<i>Một vấn đề với túi nhựa đã được phát hiện ra bởi Thato ở Nam Phi, nơi mọi người vứt rất nhiều </i></span> <span style=\"color:red\"><i>túi nhựa </i></span> <i>và chúng trở thành rác trên đường phố. Trẻ em thường mang túi nhựa trơn đến trường để đựng </i></span> <span style=\"color:red\"><i>sách vở</i></span> <i>. Thato tin rằng cô có thể tìm ra giải pháp cho từng </i></span> <span style=\"color:red\"><i>vấn đề </i></span> <i>này. Cô ấy đã quyết định sử dụng túi nhựa </i></span> <span style=\"color:red\"><i>tái chế </i></span> <i>để làm cặp đi học. Những chiếc túi này có tên là Repurpose SchoolBags.</i></span> ",
+      "danhSachDapAn": [
+        {
+          "dapAn": "plastic bags",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ba8dcfe9-7258-4b80-b0d8-a8a65a4f853c"
+          }
+        },
+        {
+          "dapAn": "books",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "89ad4a85-bdd6-4cec-ba5b-746fd403b2d7"
+          }
+        },
+        {
+          "dapAn": "problems",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a8b241ae-8a2d-48fc-8e85-4ff302b7008d"
+          }
+        },
+        {
+          "dapAn": "recycled",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "00f7695b-e84f-4baf-8201-e926b5d2e1d9"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "80046cb2-6a5e-43b3-971c-e69959b074c8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Repurpose SchoolBags were created to benefit <b>(1) </b>____. They have a light, a battery, and a <b>(2) </b>____. The light is powered by the <b>(3)</b> ____ at night after it has been charged throughout the day. It follows that kids can complete their <b>(4) </b>____ when the sun sets. They are no longer required to rush home.",
+      "yNghia": "Repurpose SchoolBags were created to benefit </span> <b>(1) </b></span> <span style=\"color:red\"><b>schoolchildren</b></span> . They have a light, a battery, and a </span> <b>(2) </b></span> <span style=\"color:red\"><b>solar panel</b></span> . The light is powered by the </span> <b>(3)</b></span>  </span> <span style=\"color:red\"><b>battery</b></span>  at night after it has been charged throughout the day. It follows that kids can complete their </span> <b>(4) </b></span> <span style=\"color:red\"><b>homework</b></span>  when the sun sets. They are no longer required to rush home. </span>  <br />\n<i>Repurpose SchoolBags được tạo ra để mang lại lợi ích cho </i></span> <span style=\"color:red\"><i>học sinh</i></span> <i>. Chúng có đèn, pin và </i></span> <span style=\"color:red\"><i>tấm quang năng</i></span> <i>. Đèn được cung cấp bởi </i></span> <span style=\"color:red\"><i>pin</i></span> <i> vào ban đêm sau khi đã được sạc suốt cả ngày. Theo đó, trẻ em có thể hoàn thành </i></span> <span style=\"color:red\"><i>bài tập về nhà </i></span> <i>khi mặt trời lặn. Họ không còn cần phải vội vã về nhà.</i></span> ",
+      "danhSachDapAn": [
+        {
+          "dapAn": "schoolchildren",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "35fa6aac-e437-4aa4-b40d-085e50047ba6"
+          }
+        },
+        {
+          "dapAn": "solar panel",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "02dfc830-67de-487d-a75f-ae7a0114da5a"
+          }
+        },
+        {
+          "dapAn": "battery",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "7035e250-c1a9-4dee-895f-c13cab09b111"
+          }
+        },
+        {
+          "dapAn": "homework",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8763b0ee-b02c-4aa6-85d0-ba597d8cebd7"
+          }
+        }
+      ]
+    }
+  ]
+}

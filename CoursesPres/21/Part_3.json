@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "940de1ab-10f2-4d0f-8a72-ce894b221589"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Eye",
+      "yNghia": "Mắt",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "931b6c0e-ff10-4835-a507-8473c45e778e"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Leg",
+      "yNghia": "Chân",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d587e71c-f6d8-4ef0-96d8-0a0260714a3e"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Mouth",
+      "yNghia": "Miệng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "70415dcd-b34b-468d-9b15-1b91e21ef2da"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Nose",
+      "yNghia": "Mũi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3268042e-d50f-4f44-b3ae-c7509dc4212b"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Ear",
+      "yNghia": "Tai",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3b0a45ab-42bd-4404-9e1b-1783b9998375"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Teeth",
+      "yNghia": "Răng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5e05033a-1dce-4e1a-8ad1-dc01dd50dd92"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Arm",
+      "yNghia": "Cánh tay",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b83b5995-5c31-4e4e-bebb-d0e02ff6e066"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Old",
+      "yNghia": "(Người) già, lớn tuổi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "017f8ffd-07b7-4d1c-9d13-983baf7b74ea"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Slim",
+      "yNghia": "(Người) gầy, mảnh khảnh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "bb00cde9-4605-402b-b74b-990161ec65d9"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Blond",
+      "yNghia": "(Tóc) vàng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "42faef09-064b-4846-bd66-699750600951"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Gray",
+      "yNghia": "Màu xám",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "edac592c-d7d6-41bd-b135-cd29babbc1d5"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Dark",
+      "yNghia": "(Màu) tối",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "18502cb5-89a0-47e3-8b2b-9602bf9f4b9a"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Heavy",
+      "yNghia": "Nặng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1c923bba-7e70-4c3b-bf47-0b3ec3357b1b"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Tall",
+      "yNghia": "Cao",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f45d0858-6b99-426e-9102-59317756c67e"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Young",
+      "yNghia": "(Người) trẻ tuổi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "cdf99470-0823-4f77-b1eb-f887b60cfd08"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Short",
+      "yNghia": "Thấp, lùn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "cee91e3f-ba68-4388-b060-016236cc7c87"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Big",
+      "yNghia": "To",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c4b96e23-5cf7-4fcd-815e-8b421820d6e7"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Green",
+      "yNghia": "(Màu) xanh lá",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "42f2d242-c160-42c0-b1b3-6948ac5ea3af"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Face",
+      "yNghia": "Khuôn mặt",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7284c26a-568a-444f-8f0d-8b23ec190d37"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Body",
+      "yNghia": "Thân hình",
+      "danhSachDapAn": []
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "a7c62cd6-8149-4f5e-b7d4-11781c6eaad5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ellen:</b></td> \n                        <td>So, who <b>(1)</b> ______ the household chores in your family?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Vivian:</b></td> \n                        <td>We all do. My husband washes <b>(2)</b> ______ dishes. My daughter <b>(3)</b> ______ dinner. And I clean the <b>(4)</b> ______.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Ellen:</b></td>                        <td>So, who <b>(1)</b> <b><span style=\"color:red\">does</span> </b><b> </b>the household chores in your family?<br />\r\n                        <i>Vậy, trong gia đình bạn, ai <span style=\"color:red\">làm </span> việc nhà thế?</i></td>\r\n                </tr>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Vivian:</b></td>                        <td>We all do. My husband washes <b>(2)</b> <b><span style=\"color:red\">the </span> </b>dishes. My daughter <b>(3)</b> <b><span style=\"color:red\">makes</span> </b><b> </b>dinner. And I clean the <b>(4)</b> <b><span style=\"color:red\">house</span> </b>.<br />\r\n                        <i>Tất cả gia đình. Chồng mình rửa bát. Con gái mình <span style=\"color:red\">nấu </span> bữa tối. Và mình lau <span style=\"color:red\">nhà</span> .</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "does",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e35dd075-b84c-4a93-bb98-883b7fdf81c8"
+          }
+        },
+        {
+          "dapAn": "the",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "b6cbb91a-7de0-43e7-9d18-fa3bd58eaf39"
+          }
+        },
+        {
+          "dapAn": "makes",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "7844087f-7528-47ca-9475-41f17b369347"
+          }
+        },
+        {
+          "dapAn": "house",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "edb7c1e3-1970-41de-9df2-8cc782aa057b"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a35a07c4-2802-4654-9c20-c8eedd702308"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \n                        <td>Hi, Hayden. <b>(1)</b> ______ are you?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Hayden:</b></td> \n                        <td>I'm good. Where <b>(2)</b> ______ you going?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \n                        <td>I'm going to the <b>(3)</b> ______ mall to buy something. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Hayden:</b></td> \n                        <td>I'm free now. <b>(4)</b> ______ I go with you?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \n                        <td>Yes, of course.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td>\n                        <td>Hi, Hayden. <b>(1)</b> <b><span style=\"color:red\">How</span> </b><b> </b>are you?<br />\n                        <i>Chào Hayden. </i><i>Cậu khỏe không?</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Hayden:</b></td>                        <td>I'm good. Where <b>(2)</b> <b><span style=\"color:red\">are </span> </b>you going?<br />\n                        <i>Tớ khỏe. </i><i>Cậu đang đi đâu thế?</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Linda:</b></td>                        <td>I'm going to the <b>(3)</b> <b><span style=\"color:red\">shopping</span> </b><b> </b>mall to buy something. <br />\n                        <i>Tớ đang tới trung tâm <span style=\"color:red\">mua sắm </span> để mua một số thứ.</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Hayden:</b></td>                        <td>I'm free now. <b>(4)</b> <b><span style=\"color:red\">Can </span> </b>I go with you?<br />\n                        <i>Giờ tớ đang rảnh. </i><i>Tớ <span style=\"color:red\">có thể</span>  đi với cậu được không?</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Linda:</b></td>                        <td>Yes, of course.<br />\n                        <i>Được, đương nhiên rồi.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "How",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "864f3315-4dd8-49be-ba5d-8a2fd634abb2"
+          }
+        },
+        {
+          "dapAn": "are",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d8958bcb-2656-4de9-b49b-c611028d84ff"
+          }
+        },
+        {
+          "dapAn": "shopping",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "768060c6-55bf-49b2-96c6-54f5d35d853d"
+          }
+        },
+        {
+          "dapAn": "Can",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0de7b337-a496-4c6a-8c46-08520209a671"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ede737ab-aaa2-406b-8935-18870003a8da"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Josh:</b></td> \n                        <td>Who does the chores <b>(1)</b> ______ your family?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>John:</b></td> \n                        <td><b>(2)</b> ______ wash the dishes. And my brother <b>(3)</b> ______ the laundry.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Josh:</b></td> \n                        <td>What about your sister?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>John:</b></td> \n                        <td><b>(4)</b> ______ never does chores.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Josh:</b></td>\n                        <td>Who does the chores <b>(1)</b> <b><span style=\"color:red\">in</span> </b><b> </b>your family?<br />\n                        <i>Ai làm việc nhà <span style=\"color:red\">trong </span> gia đình bạn?</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>John:</b></td>\n                        <td><b>(2)</b> <b><span style=\"color:red\">I </span> </b>wash the dishes. And my brother <b>(3)</b><b> <span style=\"color:red\">does</span> </b><b> </b>the laundry.<br />\n                        <i><span style=\"color:red\">Tôi </span> </i><i>rửa bát.</i><b> </b><i>Và em trai tôi <span style=\"color:red\">giặt </span> quần áo.</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Josh:</b></td>\n                        <td>What about your sister?<br />\n                        <i>Thế còn chị của bạn thì sao?</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>John:</b></td>\n                        <td><b>(4)</b> <b><span style=\"color:red\">She </span> </b>never does chores.<br />\n                        <i><span style=\"color:red\">Chị ấy </span> </i><i>không bao giờ làm việc nhà.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "in",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "99f310e0-5ec5-41dc-8cce-e3d724ca0bc6"
+          }
+        },
+        {
+          "dapAn": "I ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "779cf27a-e661-49ee-adf5-6c87720d161f"
+          }
+        },
+        {
+          "dapAn": "does",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0244ef2c-7e3e-4a70-831e-418a43eaf91b"
+          }
+        },
+        {
+          "dapAn": "She",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "88347b2f-1a5c-46c4-a49f-57898c4a85b8"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4c42416e-8897-487a-8288-b8a5ae0af8bb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Josh:</b></td> \n                        <td>Who usually does the chores? <b>(1)</b> ______ or your husband?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>John:</b></td> \n                        <td><b>(2)</b> ______, I do everything.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Josh:</b></td> \n                        <td>Really?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>John:</b></td> \n                        <td>I get up early to <b>(3) </b>______ breakfast. He <b>(4) </b>______.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Josh:</b></td>\n                        <td>Who usually does the chores? <b>(1)</b> <b><span style=\"color:red\">You</span> </b><b> </b>or your husband?<br />\n                        <i>Ai thường làm việc nhà? </i><i><span style=\"color:red\">Bạn </span> </i><i>hay chồng của bạn?</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>John:</b></td>\n                        <td><b>(2)</b> <b><span style=\"color:red\">Me</span> </b>, I do everything.<br />\n                        <i><span style=\"color:red\">Tôi</span> </i><i>, tôi làm tất cả mọi việc.</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Josh:</b></td>\n                        <td>Really?<br />\n                        Thật á?</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>John:</b></td>\n                        <td>I get up early to <b>(3)</b> <b><span style=\"color:red\">make</span> </b> breakfast. He <b>(4)</b><b><span style=\"color:red\"> doesn't</span> </b>.<br />\n                        <i>Tôi dậy sớm để <span style=\"color:red\">làm </span> bữa sáng. Anh ấy thì <span style=\"color:red\">không</span> .</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "You",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "38b40960-a5cb-4142-8fb4-d516cf1e03bb"
+          }
+        },
+        {
+          "dapAn": "Me",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2165db1f-1af2-4d6e-bdd1-3342e875a010"
+          }
+        },
+        {
+          "dapAn": "make",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c16ec62a-bff3-4241-b9a2-572d57dc5438"
+          }
+        },
+        {
+          "dapAn": "doesn't",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "11776a9e-29f9-49f2-b1ca-bf40397115aa"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "908c5ccd-c13f-4c5e-8d33-6e08d49a0394"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \r\n                        <td>Do you often <b>(1)</b> ______ housework at home?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Hayden:</b></td> \r\n                        <td>Yes, I do.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \r\n                        <td>What <b>(2)</b> ______ of housework do you often do?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Hayden:</b></td> \r\n                        <td>I <b>(3)</b> ______ wash the <b>(4)</b> ______ and do the laundry.</td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Linda:</b></td>\r\n                        <td>Do you often <b>(1)</b> <b><span style=\"color:red\">do</span> </b> housework at home?<br />\r\n                        <i>Cậu có thường <span style=\"color:red\">làm </span> việc nhà không?</i></td>\r\n                </tr>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Hayden:</b></td>\r\n                        <td>Yes, I do.<br />\r\n                        <i>Có, tôi có.</i></td>\r\n                </tr>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Linda:</b></td>\r\n                        <td>What <b>(2)</b> <b><span style=\"color:red\">kind</span> </b><b> </b>of housework do you often do?<br />\r\n                        <i>Cậu thường làm <span style=\"color:red\">loại </span> việc nhà nào?</i></td>\r\n                </tr>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Hayden:</b></td>\r\n                        <td>I <b>(3)</b> <b><span style=\"color:red\">usually</span> </b><b> </b>wash the <b>(4)</b> <b><span style=\"color:red\">dishes</span> </b><b> </b>and do the laundry.<br />\r\n                        <i>Tớ <span style=\"color:red\">thường </span> rửa <span style=\"color:red\">bát </span> và giặt quần áo.</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "do",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c4e5f21b-e96f-4603-a534-e9f4ed33882f"
+          }
+        },
+        {
+          "dapAn": "kind",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f30f68a6-90f0-4bee-948e-681adc2778ef"
+          }
+        },
+        {
+          "dapAn": "usually",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "7daff80c-d982-4dd5-a2c3-5a53f3d7efb9"
+          }
+        },
+        {
+          "dapAn": "dishes",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2fc7de22-a527-485a-a2fc-a5b0bddd669a"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "43ca798e-57a5-474d-917e-f586e56c0d5e"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "bd253c2f-11f1-4b67-b4e8-b443807f1cf0"
+          },
+          "cauHoi": "How are the boy’s Friday mornings?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ab65be41-d99d-45b6-8060-239566cba265"
+              },
+              "dapAn": "A. always busy",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "28624d89-ddf0-49c0-a890-6ff0fdfa09fa"
+              },
+              "dapAn": "B. free",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d50ce827-ded3-430e-be9a-b597fd509237"
+              },
+              "dapAn": "C. sometimes busy",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "55fb749d-ea13-4e14-abdb-662471a93c39"
+              },
+              "dapAn": "D. rarely busy",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "5a268990-cb45-4417-839f-78fd9088e7eb"
+          },
+          "cauHoi": "What time does the boy get up on Friday mornings?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "af600969-4d02-4e7f-b63e-e9402ae8eb3a"
+              },
+              "dapAn": "A. 5:00 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6828a4a9-bd98-4732-bb78-6ddb5f6767c7"
+              },
+              "dapAn": "B. 6:00 a.m.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "55acb5d5-2814-428e-8f2d-83b969a494b8"
+              },
+              "dapAn": "C. 7:00 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0f650f30-bcaf-42c0-8fe7-f3eb6f4d163c"
+              },
+              "dapAn": "D. 8:00 a.m.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "78268f70-34ea-40e1-9c4c-4fa6ed99f34e"
+          },
+          "cauHoi": "What time does the boy usually have breakfast on Fridays?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "0d5a4bc5-7545-4c05-931e-c68103c33471"
+              },
+              "dapAn": "A. 5:45 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4216f4d2-7326-4731-8861-3d2c85fdc5b3"
+              },
+              "dapAn": "B. 6:00 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fad07626-249b-4dcc-9328-53f3eac4cd62"
+              },
+              "dapAn": "C. 6:15 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2fcda8c7-e858-4fa1-826c-0b36a5ba1b61"
+              },
+              "dapAn": "D. 6:30 a.m.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "b51cb9f5-45dd-4958-8db8-5c78c37d7569"
+          },
+          "cauHoi": "What drink does the boy always have?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "18098714-ef4e-41e5-9f60-9152d1535e26"
+              },
+              "dapAn": "A. tea",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "afda9fbb-3614-45f5-af3c-2b25143e343b"
+              },
+              "dapAn": "B. latte",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b58472f2-aea1-4f07-a835-8436ea47b214"
+              },
+              "dapAn": "C. coffee",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "87d9d3e8-fa02-481a-a3c2-7f2677817d28"
+              },
+              "dapAn": "D. smoothie",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                       <td style=\"vertical-align: top;\"><b>Teresa:</b></td> \n                        <td>Hi, Christian. How are you?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Christian:</b></td> \n                        <td>Busy! Friday mornings are always busy for me.</td>\n                </tr>\n                <tr>\n                       <td style=\"vertical-align: top;\"><b>Teresa:</b></td> \n                        <td>Really?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Christian:</b></td> \n                        <td>Yes. I get up at 6:00 a.m.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Teresa:</b></td> \n                        <td>So, what time do you have breakfast?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Christian:</b></td> \n                        <td>Well, I usually have breakfast at 6:30 a.m. on Fridays. I always have a lot of coffee!</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>How are the boy's Friday mornings?</b> <i>(Các buổi sáng thứ Sáu của chàng trai như thế nào?)</i>, câu trong bài đọc liên quan là <b>Friday mornings are always busy for me.</b> <i>(Với tôi, các buổi sáng thứ Sáu tôi luôn luôn bận.)</i>. Nên đáp án là <span style=\"color:red\"><b>A. always busy</b></span> <i>(luôn luôn bận)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>What time does the boy get up on Friday mornings?</b> <i>(Chàng trai thức dậy lúc mấy giờ vào các ngày thứ Sáu?)</i>, câu trong bài đọc liên quan là <b>I get up at 6:00 a.m.</b> <i>(Tôi thức dậy vào lúc 6 giờ sáng.).</i> Nên đáp án là <b><span style=\"color:red\">B. 6:00 a.m.</span> </b><i>(6 giờ sáng).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>What time does the boy usually have breakfast on Fridays?</b> <i>(Mấy giờ chàng trai thường ăn sáng vào các ngày thứ Sáu?)</i>, câu trong bài đọc liên quan là <b>I usually have breakfast at 6:30 a.m. on Fridays.</b> <i>(Tôi thường ăn sáng lúc 6 giờ 30 phút sáng vào các ngày thứ Sáu).</i> Nên đáp án là <span style=\"color:red\"><b>D. 6:30 a.m.</b></span> <i>(6 giờ 30 phút sáng).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>What drink does the boy always have?</b> <i>(Chàng trai luôn uống thức uống gì?)</i>, câu trong bài đọc liên quan là <b>I always have a lot of coffee!</b> <i>(Tôi luôn uống cà phê!)</i>. Nên đáp án là <span style=\"color:red\"><b>C. coffee</b></span> <i>(cà phê).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2d61311a-761a-4f40-9dc7-7033d81833fb"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "168dc5ae-6620-418f-b413-362a2c89ebcd"
+          },
+          "cauHoi": "What does Christian do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9cc33c04-4a50-4d53-bd03-f7e080a30a0e"
+              },
+              "dapAn": "A. teacher",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5e63a680-c53b-4f60-b48f-1af1ca6a746c"
+              },
+              "dapAn": "B. chef",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c6cf9458-67f2-4200-a16d-b225f1546f93"
+              },
+              "dapAn": "C. lawyer",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b4587ae5-5892-402e-8ab0-57368fb6226a"
+              },
+              "dapAn": "D. nurse",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "993ba348-142d-4d47-a16e-65ef58f1fb15"
+          },
+          "cauHoi": "Where does Christian work?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a7eab0c1-5c31-4087-a377-a9a27d18e35a"
+              },
+              "dapAn": "A. in a restaurant",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2ec87a13-3864-4643-aab0-3e8b6835f181"
+              },
+              "dapAn": "B. in a court",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "d17b3268-596f-42fe-855b-ae1615398648"
+              },
+              "dapAn": "C. in a hotel",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c213e1b3-3a2d-47bd-86cb-5163a28ffc76"
+              },
+              "dapAn": "D. in a school",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "097030ba-bcd6-4ef7-bb86-b94e743bf6aa"
+          },
+          "cauHoi": "When does Christian usually go to work?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9b6eae67-ba07-4365-b37e-96ae916323df"
+              },
+              "dapAn": "A. 7:15 a.m.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "278d8fcb-53c4-46c6-8547-ef6ad16b5cd0"
+              },
+              "dapAn": "B. 7:30 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b2cd6468-a3a1-49c3-9ad3-61a673e206f0"
+              },
+              "dapAn": "C. 7:45 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c3e66246-b535-4c20-850c-43727c7c46d7"
+              },
+              "dapAn": "D. 8:00 a.m.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f79d960e-6198-407e-951e-d853e92a6c85"
+          },
+          "cauHoi": "What time does Christian start work?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "83c13899-252b-41d9-a6c5-d8728d8884ed"
+              },
+              "dapAn": "A. at around 6:30 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "364a6765-3e53-4d07-a3e5-89878ad9ead9"
+              },
+              "dapAn": "B. at around 7:00 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "215e6975-65f6-4f64-8c48-20b7504d9052"
+              },
+              "dapAn": "C. at around 7:30 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "38973378-8aca-4a85-a06d-dbbabf768496"
+              },
+              "dapAn": "D. at around 8:00 a.m.",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Teresa:</b></td> \n                        <td>What do you do?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Christian:</b></td> \n                        <td>I'm a lawyer.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Teresa:</b></td> \n                        <td>So, you work in the court then?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Christian:</b></td> \n                        <td>Yes, that's right.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Teresa:</b></td> \n                        <td>When do you go to work?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Christian:</b></td> \n                        <td>I usually go to work at 7:15 a.m.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Teresa:</b></td> \n                        <td>What time do you start work?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Christian:</b></td> \n                        <td>Well, I start work at around 8:00 a.m.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What does Christian do?</b> <i>(Christian làm nghề gì?)</i>, câu trong bài đọc liên quan là <b>I'm a lawyer.</b> <i>(Tôi là một luật sư.)</i>. Nên đáp án là <span style=\"color:red\"><b>C. lawyer</b></span> <i>(luật sư).</i><br />\n <br />\n<b>2.</b> Với câu hỏi <b>Where does Christian work?</b> <i>(Christian làm việc ở đâu?)</i>, câu trong bài đọc liên quan là <b>So, you work in the court then? - Yes, that's right.</b> <i>(Vậy bạn làm việc trong tòa án phải không? - Vâng, đúng vậy.).</i> Nên đáp án là <b><span style=\"color:red\">B. in a court</span></b> <i>(trong tòa án).</i><br />\n <br />\n<b>3.</b> Với câu hỏi <b>When does Christian usually go to work?</b> <i>(Christian thường đi làm lúc nào?)</i>, câu trong bài đọc liên quan là <b>I usually go to work at 7:15 a.m.</b> <i>(Tôi thường đi làm lúc 7 giờ 15 phút sáng.).</i> Nên đáp án là <b><span style=\"color:red\">A. 7:15 a.m. <i></i></span></b><i>(7 giờ 15 phút sáng).</i><br />\n <br />\n<b>4.</b> Với câu hỏi <b>What time does Christian start work?</b> <i>(Mấy giờ Christian bắt đầu làm việc?)</i>, câu trong bài đọc liên quan là <b>I start work at around 8.00 a.m. <i></i></b><i>(Tôi bắt đầu công việc vào khoảng 8 giờ sáng.)</i>. Nên đáp án là <span style=\"color:red\"><b>D. at around 8:00 a.m. <i></i></b></span><i>(vào khoảng 8 giờ sáng).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f35891fd-cc54-43c2-820e-6f891ddbd04e"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "00af0824-0743-46c7-bd26-8866a585c945"
+          },
+          "cauHoi": "Who does Gabriel live with?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "0e92e99d-3028-4d7d-84b0-b152784e32ac"
+              },
+              "dapAn": "A. his mom, his dad and his brother",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6a84e151-6344-469b-b1f9-9314fcd453a6"
+              },
+              "dapAn": "B. his grandfather",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "68ba8bf2-4346-495a-81ba-84d05ebae37a"
+              },
+              "dapAn": "C. his mom, his dad and his sister",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "1d51ecdb-bf08-4271-a8f7-73ff76556059"
+              },
+              "dapAn": "D. his friends",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "1cec6c02-4569-48f1-9caa-2db81cf2cfef"
+          },
+          "cauHoi": "What does he do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ff245cee-1089-4447-90c7-f7476b5edc29"
+              },
+              "dapAn": "A. doctor",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9f3226d2-33fb-461d-b35e-b224d5edac81"
+              },
+              "dapAn": "B. writer",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1cfcf18a-6086-49bd-8801-92268f33cf04"
+              },
+              "dapAn": "C. police officer",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "24cf98fd-8280-474a-babf-62b91b80d697"
+              },
+              "dapAn": "D. student",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f1c6a876-e57b-4322-8d6a-a515ad3fd13d"
+          },
+          "cauHoi": "Where does he go to college?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "026f76c7-1e61-4007-979f-e3212bffa96f"
+              },
+              "dapAn": "A. in his city",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8a2540f8-dade-4b03-83ab-3d5fd840d57a"
+              },
+              "dapAn": "B. in his town",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "624bb77f-3828-4361-91eb-802a41c021d6"
+              },
+              "dapAn": "C. in other city",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e2283a72-c217-4e2b-b59b-daac9f4a19f7"
+              },
+              "dapAn": "D. in other town",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "1b75b671-6812-447d-8417-91ae7d67f818"
+          },
+          "cauHoi": "What does he usually do every day?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "32da9603-12c1-4117-b2bf-a246161d4002"
+              },
+              "dapAn": "A. study",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "60da8fca-76a0-4820-a56e-9e88ddedb371"
+              },
+              "dapAn": "B. listen to music",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "75acaa3e-66c4-459c-b90f-c30d8a9476c4"
+              },
+              "dapAn": "C. play soccer",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b2e4332b-2543-430a-8142-20550c4071d3"
+              },
+              "dapAn": "D. drink coffee",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "My name’s Gabriel. I live with my mom, my dad, and my sister. I’m a student. I go to college in my town. I usually study every day.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Who does Gabriel live with?</b> <i>(Gabriel sống với ai?)</i>, câu trong bài đọc liên quan là <b>I live with my mom, my dad, and my sister.</b> <i>(Tôi sống với mẹ, bố và chị tôi.)</i>. Nên đáp án là <span style=\"color:red\"><b>C. his mom, his dad and his sister</b></span> <i>(mẹ, bố và chị gái của anh ấy).</i><br />\n <br />\n<b>2.</b> Với câu hỏi <b>What does he do?</b> <i>(Anh ấy làm nghề gì?</i>), câu trong bài đọc liên quan là <b>I'm a student.</b> <i>(Tôi là một học sinh.).</i> Nên đáp án là <span style=\"color:red\"><b>D. student</b></span> <i>(học sinh).</i><br />\n <br />\n<b>3.</b> Với câu hỏi <b>Where does he go to college?</b> <i>(Anh ấy học đại học ở đâu?)</i>, câu trong bài đọc liên quan là <b>I go to college in my town.</b> <i>(Tôi học đại học ở thị trấn của mình.).</i> Nên đáp án là <span style=\"color:red\"><b>B. in his town</b></span> <i>(ở thị trấn của anh ấy).</i><br />\n <br />\n<b>4.</b> Với câu hỏi <b>What does he usually do every day?</b> <i>(Anh ấy thường làm gì mỗi ngày?)</i>, câu trong bài đọc liên quan là <b>I usually study every day.</b> <i>(Tôi thường học mỗi ngày.).</i> Nên đáp án là <span style=\"color:red\"><b>A. study <i></i></b></span><i>(học).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "02a32c64-6b6a-465c-8b66-6613b655d646"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "fd11fc97-3bd8-4550-be67-a5ccc3b17e2f"
+          },
+          "cauHoi": "Who goes to college with Catherine?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "339fae3d-6f81-43d7-8cef-799dc489d786"
+              },
+              "dapAn": "A. her sister",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a0261336-8e41-4e38-a481-67b3c0f6e8bf"
+              },
+              "dapAn": "B. her brother",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "68797eca-ab3f-41fc-832c-d21ac5313dbc"
+              },
+              "dapAn": "C. her father",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5da12dc3-25c8-4e45-b37f-22391dc9fc7e"
+              },
+              "dapAn": "D. her mother",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "fdf6751d-ec25-4ea5-a01c-3eaf032e9b4c"
+          },
+          "cauHoi": "What does Jenny do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "5475873f-e117-412b-85ff-182ddef3b5e1"
+              },
+              "dapAn": "A. doctor",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "70aa3119-b26f-4a68-a92d-bd99338cfbf2"
+              },
+              "dapAn": "B. teacher",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "01f42445-b4d9-4441-a93a-55f1148c425d"
+              },
+              "dapAn": "C. chef",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a399b7f9-a2e5-44b5-903e-e656ac2a4ec1"
+              },
+              "dapAn": "D. waitress",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "0eac2eb1-0086-4fc5-8ef7-11ad7808d2a1"
+          },
+          "cauHoi": "Which language does Jenny teach?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "818ea05b-577d-4ae0-ba1f-396ee735fb6b"
+              },
+              "dapAn": "A. English",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5054e010-26d1-4d77-8f04-e415f4675a69"
+              },
+              "dapAn": "B. Vietnamese",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "51b107e7-814b-4e7c-b16d-2f8ab9ef0aa9"
+              },
+              "dapAn": "C. German",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "15cc9716-2ee2-4eed-962b-fa5ee3d67b3d"
+              },
+              "dapAn": "D. French",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "6b8a4829-97bd-46eb-98e3-970ce5258a8c"
+          },
+          "cauHoi": "What does she usually drink in the morning?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "19afbea9-5d24-4499-8a4e-d1b76ad0c3a6"
+              },
+              "dapAn": "A. tea",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "116f516b-a57d-40f1-87b0-5364f346d9c5"
+              },
+              "dapAn": "B. latte",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a844cda4-c04c-4eb2-9681-c2aebdb1978c"
+              },
+              "dapAn": "C. coffee",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "34e72593-2fcc-413f-b635-05742c8082e7"
+              },
+              "dapAn": "D. milk",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Hi, I’m Catherine. This is my sister, Jenny. My sister goes to college with me. Her major is law. She’s also a teacher! She teaches French. She usually drinks coffee in the morning but today she drinks tea.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Who goes to college with Catherine?</b> <i>(Ai đi cùng Catherine tới trường đại học?)</i>, câu trong bài đọc liên quan là <b>My sister goes to college with me.</b> <i>(Chị gái tôi đến trường đại học cùng tôi.)</i>. Nên đáp án là <span style=\"color:red\"><b>A. her sister</b></span> <i>(chị gái của cô ấy).</i><br />\n <br />\n<b>2.</b> Với câu hỏi <b>What does Jenny do?</b> <i>(Jenny làm nghề gì?)</i>, câu trong bài đọc liên quan là <b>She's also a teacher!</b> <i>(Cô ấy cũng là một giáo viên.)</i>. Nên đáp án là <span style=\"color:red\"><b>B. teacher</b></span> <i>(giáo viên).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>Which language does Jenny teach?</b> <i>(Jenny dạy ngôn ngữ gì?)</i>, câu trong bài đọc liên quan là <b>She teaches French.</b> <i>(Cô ấy dạy tiếng Pháp.)</i>. Nên đáp án là <span style=\"color:red\"\"><b>D. French</b></span> <i>(tiếng Pháp).</i><br />\n <br />\n<b>4.</b> Với câu hỏi <b>What does she usually drink in the morning?</b> <i>(Cô ấy thường uống gì vào buổi sáng?)</i>, câu trong bài đọc liên quan là <b>She usually drinks coffee in the morning.</b> <i>(Cô ấy thường uống cà phê vào buổi sáng)</i>. Nên đáp án là <b><span style=\"color:red\"\">C. coffee</span></b> <i>(cà phê).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b0b40bd1-d90d-4a8a-be5b-c5fc1a8bca3b"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "3a159dde-e596-454e-a49b-9cb3982c693f"
+          },
+          "cauHoi": "What does the writer’s mom do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a40adff7-79e6-4d8c-b607-3481aa1932b6"
+              },
+              "dapAn": "A. waitress",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "899ab43a-ab83-44b4-9c73-1cc0fc7b7292"
+              },
+              "dapAn": "B. police officer",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f4d0023c-ecdc-4889-9b08-309ffd0d3f45"
+              },
+              "dapAn": "C. chef",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "46968e8c-a721-468b-b5ea-3a09a45ad7e9"
+              },
+              "dapAn": "D. photographer",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "08a5b93a-fd78-4f3a-9af4-31af9afb189c"
+          },
+          "cauHoi": "What time does the writer’s mom go to work?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f8b49484-54f2-4ab5-8b55-03a8d9f78165"
+              },
+              "dapAn": "A. 6:00 a.m.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "42d26a21-6280-40cd-affe-1167d35b09f8"
+              },
+              "dapAn": "B. 7:00 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e2463059-1453-4874-9a5e-09700e53b643"
+              },
+              "dapAn": "C. 8:00 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "55d70fe0-d4e9-4fc2-b896-76b09cd0b935"
+              },
+              "dapAn": "D. 9:00 a.m.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f8e40283-dc02-4755-9405-9bbef87cabdf"
+          },
+          "cauHoi": "What does the writer’s dad do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "89301d78-149f-4498-a93b-0f8e31be84df"
+              },
+              "dapAn": "A. waiter",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2e74f5f3-6671-4cc8-8fd5-3049d2f2f6ff"
+              },
+              "dapAn": "B. police officer",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "934ed7a5-4bbf-4916-b0c0-504edd18b263"
+              },
+              "dapAn": "C. pilot",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4f49093b-0bdd-4209-86cc-ca04d47ba86c"
+              },
+              "dapAn": "D. chef",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "cfa0a3d3-f726-4fde-aef1-d1b6d0f6eb6e"
+          },
+          "cauHoi": "What does the writer’s dad often do on weekends?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b94f1872-ae22-40bc-b27a-e4af80c210cc"
+              },
+              "dapAn": "A. watch TV",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f4558a93-f782-4870-af49-247646ab0fec"
+              },
+              "dapAn": "B. shave",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a43d3c58-6046-4bc2-bde0-93b73c414ac4"
+              },
+              "dapAn": "C. make dinner",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "ec6df5f8-8b74-4461-83f2-f5efce78d833"
+              },
+              "dapAn": "D. play guitar",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "My parents are from France. My mom’s a police officer. She goes to work at 6:00 a.m. She loves her job. My dad is a chef. He works in a hotel. He often makes dinner on weekends.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What does the writer's mom do?</b> <i>(Mẹ của người viết làm nghề gì?)</i>, câu trong bài đọc liên quan là <b>My mom's a police officer.</b> <i>(Mẹ tôi là một cảnh sát.).</i> Nên đáp án là <span style=\"color:red\"><b>B. police officer</b></span> <i>(cảnh sát).</i><br />\r\n <br />\r\n<b>2.</b> Với câu hỏi <b>What time does the writer's mom go to work?</b> <i>(Mẹ của người viết đi làm lúc mấy giờ?</i>), câu trong bài đọc liên quan là <b>She goes to work at 6:00 a.m.</b> <i>(Cô ấy đi làm lúc 6 giờ sáng.).</i> Nên đáp án là <span style=\"color:red\"><b>A. 6:00 a.m. <i></i></b></span><i>(6 giờ sáng).</i><br />\r\n <br />\r\n<b>3.</b> Với câu hỏi <b>What does the writer's dad do?</b> <i>(Bố của người viết làm nghề gì?),</i> câu trong bài đọc liên quan là <b>My dad is a chef.</b> <i>(Bố tôi là một đầu bếp.).</i> Nên đáp án là <span style=\"color:red\"><b>D. chef</b></span> <i>(đầu bếp).</i><br />\r\n <br />\r\n<b>4.</b> Với câu hỏi <b>What does the writer's dad often do on weekends?</b> <i>(Bố của người viết thường làm gì vào những ngày cuối tuần?),</i> câu trong bài đọc liên quan là <b>He often makes dinner on weekends.</b> (<i>Anh ấy thường nấu bữa tối vào các cuối tuần)</i>. Nên đáp án là <span style=\"color:red\"><b>C. make dinner</b></span> <i>(nấu bữa tối).</i>",
+      "danhSachDapAn": []
+    }
+  ]
+}

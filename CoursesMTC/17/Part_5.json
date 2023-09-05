@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "ad04745f-11de-420b-8578-e9f12e324f1a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Hey Molly, did you read the __________ about MTC company?",
+      "yNghia": "Hey Molly, did you read the <span style=\"color:red\"><b>news</b> </span>about MTC company?<br />\n<i>Này Molly, bạn đã đọc </i><i><span style=\"color:red\">tin tức</span> </i><i>về công ty MTC chưa?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "064b6404-9b31-4ab6-9b1c-5e66fa238349"
+          },
+          "dapAn": "news",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7b9daf76-146a-4a42-99fa-da28e9a51582"
+          },
+          "dapAn": "article",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "06e31480-33f7-482c-ba1e-a80bb7c6f936"
+          },
+          "dapAn": "paper",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_1. Hey ... company.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_1. Hey ... company.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b6fc68cc-883e-44be-b089-7218bcc250fd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes, I read it yesterday. I was __________ but I know it’s just a rumor.",
+      "yNghia": "Yes, I read it yesterday. I was <span style=\"color:red\"><b>shocked</b> </span>but I know it's just a rumor.<br />\n<i>Ừ</i><i>, tôi đã đọc nó ngày hôm qua. Tôi đã bị </i><span style=\"color:red\"><i>sốc</i></span><i><span style=\"color:red\"> </span>nhưng tôi biết đó chỉ là một tin đồn.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "34b7ff91-9271-431c-9e62-77b14b179119"
+          },
+          "dapAn": "sad",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f2d26af8-01e8-4b8b-b6a0-533f4d90e698"
+          },
+          "dapAn": "shocked",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bc67be87-76f0-4633-a10f-6a031e09a629"
+          },
+          "dapAn": "surprised",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_2. Yes ... rumor.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_2. Yes ... rumor.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6b251886-d538-4908-ae5b-839ba7d56c08"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I have some steps to find the real __________ among the fake news.",
+      "yNghia": "I have some steps to find the real <span style=\"color:red\"><b>stories</b> </span>among the fake news.<br />\n<i>Tôi có một số bước để tìm ra </i><i><span style=\"color:red\">những câu chuyện</span> </i><i>có thật giữa những tin giả.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c916cd7f-af6c-474b-9ee9-4111e2bdcf71"
+          },
+          "dapAn": "stories",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "22aea6f9-931f-45ba-80b9-06a0e63bc8a0"
+          },
+          "dapAn": "news",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "775d8e73-6cfe-4581-8878-1c9fa9459b05"
+          },
+          "dapAn": "information",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_3. I ... news.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_3. I ... news.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c129e736-6a3f-403d-af71-34c7ce85d3ee"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Please, tell me about it. It’s a waste of __________ reading disinformation.",
+      "yNghia": "Please, tell me about it. It's a waste of <span style=\"color:red\"><b>time</b> </span>reading disinformation.<br />\n<i>Nói cho tôi về nó đi. Thật lãng phí </i><i><span style=\"color:red\">thời gian</span> </i><i>khi đọc thông tin sai lệch.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "15a3ec19-0bf2-40e1-8f94-ce7c03e9c0f6"
+          },
+          "dapAn": "energy",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "57231415-715b-45ab-8fdf-5bb3ccd06d6d"
+          },
+          "dapAn": "time",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d5ff4c2a-81ff-48e4-9a5e-193af18f01ab"
+          },
+          "dapAn": "money",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_4. Please ... disinforrmaion.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_4. Please ... disinforrmaion.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "7faeffe7-eac3-4408-89c9-8d6c5bbd2ed4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Alright. First, find out about the source. Look at the __________ that the story comes from.",
+      "yNghia": "Alright. First, find out about the source. Look at the <span style=\"color:red\"><b>website</b> </span>that the story comes from.<br />\n<i>Được rồi. Đầu tiên, </i><i>hãy </i><i>tìm hiểu về nguồn. Xem câu chuyện đến từ </i><i><span style=\"color:red\">trang web</span> </i><i>nào</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e37abd59-2a02-4255-87cf-650c1cd5ba4d"
+          },
+          "dapAn": "address",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0380e85c-8eec-42c5-9509-b1b553ed6d18"
+          },
+          "dapAn": "author",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bc8cd719-0675-4398-8118-54b4742eb874"
+          },
+          "dapAn": "website",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_5. Alright ... from.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_5. Alright ... from.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c9f177dc-5f7a-4408-a6a7-437686e93b18"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I have to check whether it’s __________ or not?",
+      "yNghia": "I have to check whether it's <span style=\"color:red\"><b>reliable</b> </span>or not?<br />\n<i>Tôi phải kiểm tra xem nó có </i><i><span style=\"color:red\">đáng tin cậy</span> </i><i>hay không à?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cf1e22ff-24a3-4c1f-a049-4fbbae546505"
+          },
+          "dapAn": "reliable",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fd152d3b-c93f-4235-af03-6749508fdee8"
+          },
+          "dapAn": "valid",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2d6c824e-bc2f-4353-92a0-d4b46afb0507"
+          },
+          "dapAn": "real",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_6. I ... not.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_6. I ... not.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "0a97e6a3-74bc-4041-9d00-5d4bb155cc3f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Exactly. Then you check the __________ on the website. It may not be very well written.",
+      "yNghia": "Exactly. Then you check the <span style=\"color:red\"><b>text</b> </span>on the website. It may not be very well written.<br />\n<i>Chính xác. Sau đó, bạn kiểm tra </i><i><span style=\"color:red\">văn bản</span> </i><i>trên trang web. Có thể người ta viết sẽ không hay đâu. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c56de314-4dfa-48b5-96ba-59e97f49d14c"
+          },
+          "dapAn": "aricle",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "490ef8a6-a3dd-4996-9319-5ed4c2709cbc"
+          },
+          "dapAn": "news",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9415006e-71bb-4e7d-9fab-8a00a89adc65"
+          },
+          "dapAn": "text",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_7. Exactly ... written.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_7. Exactly ... written.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "4cd8476b-3196-4af3-988d-34ef19b58bfa"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I got it. I need to check the __________, the text. What else?",
+      "yNghia": "I got it. I need to check the <span style=\"color:red\"><b>website</b></span>, the text. What else?<br />\n<i>Tôi hiểu rồi. Tôi cần kiểm tra </i><span style=\"color:red\"><i>trang web</i></span><i>, văn bản. Còn gì nữa không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "94d246c7-21dc-4431-b986-f19d0b0d2db8"
+          },
+          "dapAn": "website",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0aadfa31-b8cf-444c-97f2-7867d8579d26"
+          },
+          "dapAn": "text",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "09a80044-4ae8-45ce-a2b8-23e3a19412ca"
+          },
+          "dapAn": "source",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_8. I ... else.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_8. I ... else.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "df7da0fb-0c8d-4851-ae24-3d1ec661138c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "See if the pictures are clear. If you aren’t sure, __________ the organization and its history.",
+      "yNghia": "See if the pictures are clear. If you aren't sure, <span style=\"color:red\"><b>research</b> </span>the organization and its history.<br />\n<i>Hãy x</i><i>em hình ảnh có rõ ràng hay không. Nếu bạn không chắc chắn, hãy </i><i><span style=\"color:red\">nghiên cứu</span> </i><i>tổ chức và lịch sử của nó.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a629adbd-0a7a-47f5-ab27-83f0f67fcebf"
+          },
+          "dapAn": "look at",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9f411cc3-2824-4473-aebd-59287820b415"
+          },
+          "dapAn": "check",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3004a15b-7245-4d0f-973a-d490ba0427d3"
+          },
+          "dapAn": "research",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_9. See ... organization.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_9. See ... organization.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c375c8fc-3d3a-4229-a7e1-440c9bcfff24"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "OK. I will remember to check the source __________.",
+      "yNghia": "OK. I will remember to check the source <span style=\"color:red\"><b>first</b></span>.<br />\n<i>Được rồi</i><i>.</i><i> </i><i>T</i><i>ôi sẽ nhớ kiểm tra nguồn </i><span style=\"color:red\"><i>đầu tiên</i></span><i>. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8eaa978e-6283-45cf-8432-ba01145849c5"
+          },
+          "dapAn": "after that",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8052a507-0814-4450-af98-3884d3b9ed86"
+          },
+          "dapAn": "last",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4585f33b-387c-4661-b170-e105020ccfe7"
+          },
+          "dapAn": "first",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_10. Oh ... first.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_10. Oh ... first.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2418d0c8-acc6-4fb9-ace1-d026741755d6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Next, look at the authors. Look for __________ with their other articles.",
+      "yNghia": "Next, look at the authors. Look for <span style=\"color:red\"><b>proof</b> </span>with their other articles.<br />\n<i>Tiếp theo, hãy nhớ để ý cả các tác giả. Hãy tìm </i><i><span style=\"color:red\">bằng chứng</span> </i><i>với các bài viết khác của họ.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4e5a8c06-24f6-4f3b-99c3-1b9e5e85f28c"
+          },
+          "dapAn": "proof",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e0888072-f36e-4542-8b17-4225d5b03edc"
+          },
+          "dapAn": "information",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1d90ab20-992b-42ea-9c05-d37089982c4e"
+          },
+          "dapAn": "source",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_11. Next ... articles.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_11. Next ... articles.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "23e0c662-25be-4af8-a1ee-7ee65d161b1c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "If they haven’t written anything else for a source I trust, the article could spread __________ news, right?",
+      "yNghia": "If they haven't written anything else for a source I trust, the article could spread <span style=\"color:red\"><b>fake</b> </span>news, right?<br />\n<i>Nếu họ chưa từng viết gì cho một nguồn mà tôi tin tưởng, thì bài báo có thể lan truyền tin </i><span style=\"color:red\"><i>giả</i></span><i>, phải không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d5480d41-fc14-419d-8511-156f6ffeb7a9"
+          },
+          "dapAn": "fake",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a11d30b6-25ff-4ef8-b472-67ada1fc0794"
+          },
+          "dapAn": "invalid",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5413a0f0-00c3-4e19-9fdd-cc54672b1cba"
+          },
+          "dapAn": "unreliable",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_12. If ... right.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_12. If ... right.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b7f5cbc2-072c-4c66-9106-83c92f03c02d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Excellent! The article contains __________ to other articles and authors. Click on the links and check if the sources are real.",
+      "yNghia": "Excellent! The article contains <span style=\"color:red\"><b>links</b> </span>to other articles and authors. Click on the links and check if the sources are real.<br />\n<i>Quá chuẩn! Bài viết sẽ chứa </i><i><span style=\"color:red\">các liên kết</span> </i><i>đến các bài báo và tác giả khác. Bạn có thể truy cập vào liên kết và kiểm tra xem các nguồn có thật không.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "da3a40a0-dc5b-44d5-86f5-099a6b112cd7"
+          },
+          "dapAn": "sources",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "054c9c39-1b4b-41b1-acca-53a4ef51c9f8"
+          },
+          "dapAn": "links",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9058a0b9-1737-4fe7-aba7-ac7f953b7b31"
+          },
+          "dapAn": "websites",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_13. Exxcellent ... real.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_13. Exxcellent ... real.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "13142437-b9d7-4bb7-8613-1493ae9de591"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I haven’t thought about it before. You are so __________!",
+      "yNghia": "I haven't thought about it before. You are so <span style=\"color:red\"><b>careful</b></span>!<br />\n<i>Tôi chưa từng nghĩ đến chuyện này bao giờ đấy. Bạn<span style=\"color:red\"> </span></i><span style=\"color:red\"><i>cẩn thận </i></span><i>thật!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "03c696e5-ae85-46ad-a863-8f426fc17897"
+          },
+          "dapAn": "careful",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "958bf42f-f479-4aa9-95bb-7f197ee60534"
+          },
+          "dapAn": "smart",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "511dac62-11cc-4a16-86e3-7743cb860358"
+          },
+          "dapAn": "helpful",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_14. I ... careful.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_14. I ... careful.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9e1cbb16-57a6-407a-b862-e4bb3e332e87"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Finally, always ___________ what you read on the Internet.",
+      "yNghia": "Finally, always <span style=\"color:red\"><b>question</b> </span>what you read on the Internet.<br />\n<i>Cuối cùng, hãy luôn </i><i>đặt <span style=\"color:red\">câu hỏi</span> </i><i>về những gì bạn đọc trên Internet.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b0969143-e4bb-4a78-a9f9-8b21cbdedbc7"
+          },
+          "dapAn": "look at",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5b3b7b29-4a80-45ea-959a-cffc4517cd7f"
+          },
+          "dapAn": "question",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "84100b68-d949-4d1a-a6fa-cf8e05c214d5"
+          },
+          "dapAn": "check",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_15. Finally ... Internet.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_15. Finally ... Internet.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9daa5236-90e4-43d5-b340-6906848e8e49"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Some of a story might be __________, but it may not show the complete picture.",
+      "yNghia": "Some of a story might be <span style=\"color:red\"><b>accurate</b></span>, but it may not show the complete picture.<br />\n<i>Có thể có một số chi tiết thì </i><span style=\"color:red\"><i>đúng</i></span><i>, nhưng chưa chắc đã nói lên toàn bộ câu chuyện. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e7ee2cc0-f133-4b65-bac2-8bcd3198c4f9"
+          },
+          "dapAn": "interesting",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "81fad8f1-6b48-4231-8e98-4fa29eb0d112"
+          },
+          "dapAn": "fake",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b6f31309-fa7f-499f-aa28-c2fa77490668"
+          },
+          "dapAn": "accurate",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_16. Some ... picture.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_16. Some ... picture.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ce4a33d2-2c95-4637-be38-18d4e8916469"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I never buy __________ these days. What’s the point? News is reported so quickly because it changes all the time.",
+      "yNghia": "I never buy <span style=\"color:red\"><b>newspapers</b> </span>these days. What's the point? News is reported so quickly because it changes all the time.<br />\n<i>Hiện tại, t</i><i>ôi không bao giờ mua </i><span style=\"color:red\"><i>b</i><i>á</i><i>o</i></span><i>. Để làm gì cơ chứ? Thời sự được báo cáo cực nhanh vì nó thay đổi liên tục</i><i> mà.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e172e3b5-0659-4fa4-9ee9-1bf91ecd54f5"
+          },
+          "dapAn": "magazines",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "68deb818-7bcd-43d9-95ab-4d670db7d2ab"
+          },
+          "dapAn": "newspapers",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8f2ca6c1-a8d4-442e-9759-44739d526f09"
+          },
+          "dapAn": "books",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_17. I ... time.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_17. I ... time.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3e83dd7b-631d-47c0-9740-e69bacbb7da7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’m not that interested in current __________, but I read news stories online and sometimes I watch news on TV.",
+      "yNghia": "I'm not that interested in current <span style=\"color:red\"><b>affairs</b></span>, but I read news stories online and sometimes I watch news on TV.<br />\n<i>Tôi không quan tâm đến<span style=\"color:red\"> </span></i><i><span style=\"color:red\">các vấn đề</span> </i><i>thời sự lắm, nhưng tôi có đọc tin tức trên mạng và đôi khi tôi cũng xem tin tức trên cả TV. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cc383c53-ac41-4798-8566-9f3458ae937f"
+          },
+          "dapAn": "affairs",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3bb4fbbb-9282-4363-ab80-cb7863e7981b"
+          },
+          "dapAn": "news",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "249a0f3e-839b-40a2-b523-ca91cd10dc4b"
+          },
+          "dapAn": "events",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_18. I_m ... TV.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_18. I_m ... TV.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "77338020-b5ba-44d1-bd8b-75cc4ccb5d32"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I see some news items on ____________, but the majority are human-interested stories.",
+      "yNghia": "I see some news items on <span style=\"color:red\"><b>social media</b></span>, but the majority are human-interested stories.<br />\n<i>Tôi thấy một số mục tin tức trên </i><span style=\"color:red\"><i>mạng xã hội</i></span><i>, nhưng phần lớn là những câu chuyện </i><i>tập trung vào cảm xúc của con người.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fc7a051d-75eb-4d1f-9374-ece8f4da537e"
+          },
+          "dapAn": "the Internet",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2e98105e-b15b-4ca2-9117-0a81135b19a5"
+          },
+          "dapAn": "TV",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "51546f63-b0de-4f83-b9c7-2057db7b6312"
+          },
+          "dapAn": "social media",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_19. I ... stories.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_19. I ... stories.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "7c193855-d151-4958-b419-f75fe9dda602"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’d like to know if anyone here does repost from those __________ in their newsfeed.",
+      "yNghia": "I'd like to know if anyone here does repost from those <span style=\"color:red\"><b>stories</b> </span>in their newsfeed.<i> </i><br />\n<i>Tôi muốn biết xem có ai đăng lại </i><span style=\"color:red\"><i>những câu chuyện</i></span><i><span style=\"color:red\"> </span>đó lên bảng tin của họ không.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5ac5648d-f482-49a9-8223-ef28dc676b71"
+          },
+          "dapAn": "news",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4cb84043-0e22-4366-b4b6-e44ea4276b3e"
+          },
+          "dapAn": "stories",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "33247a47-63a2-4162-862a-5ce9ccc3d8b8"
+          },
+          "dapAn": "events",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L17/sounds/normal/MTC_17_LISTENING_20. I_d ... newsfeed.mp3",
+      "soundSlow": "4SKILLS_MTC_L17/sounds/slow/MTC_17_LISTENING_20. I_d ... newsfeed.mp3"
+    }
+  ]
+}

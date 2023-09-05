@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0_1",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "9f66e2b7-a881-4f60-b2b4-cc6da405b55a"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Hello.",
+      "yNghia": "Xin chào.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e306fc26-268a-4609-8340-181851d722c9"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Nice to meet you.",
+      "yNghia": "Rất vui được gặp bạn.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "cbd66d14-0972-49c4-a982-6ef965413758"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Good morning.",
+      "yNghia": "Chào buổi sáng.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "aeed2f11-978f-4d56-a616-6e1b2a5b0211"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Good afternoon.",
+      "yNghia": "Chào buổi chiều.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b013cf6b-18c6-4998-b3e5-0ad9cc58da95"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "How are you?",
+      "yNghia": "Bạn có khỏe không?",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "aa39ed41-1f8e-46bd-95b9-fa70645217ef"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "I’m fine, thanks.",
+      "yNghia": "Tôi khỏe, cảm ơn bạn.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "30427b4a-485b-4659-80d1-80ac56c914aa"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Goodbye.",
+      "yNghia": "Tạm biệt.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ea5f9dde-7012-47e4-a4f9-38e1e64248aa"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Good night.",
+      "yNghia": "Chúc ngủ ngon.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "39e4feca-3d2c-4fbd-bc6d-26b613c84f16"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "See you.",
+      "yNghia": "Gặp lại bạn sau.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8bf1f7f9-008b-44aa-8fe5-2e9b3bba52b6"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Zero",
+      "yNghia": "(Số đếm) 0",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5d094c78-ef89-42b9-8217-d1ae4722439c"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "One",
+      "yNghia": "(Số đếm) 1",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6c8c4b33-03dd-49da-824c-7f008a483f7d"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Two",
+      "yNghia": "(Số đếm) 2",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "781b700e-71b5-46d5-993b-e8e9343c196f"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Three",
+      "yNghia": "(Số đếm) 3",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f4bbd41e-2d88-457e-b638-373e48d6e780"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Four",
+      "yNghia": "(Số đếm) 4",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2a33d7fb-43bb-4a7c-a070-7ef282946405"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Five",
+      "yNghia": "(Số đếm) 5",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8861eddf-8e7f-44c0-9db3-68dd3a3a35ca"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Six",
+      "yNghia": "(Số đếm) 6",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2a30ee7d-2c30-4930-bd74-2c12e19209e7"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Seven",
+      "yNghia": "(Số đếm) 7",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "95f028a8-5064-48a3-afa4-018e735dad9d"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Eight",
+      "yNghia": "(Số đếm) 8",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "67bd8273-9f97-43bf-a644-468d1d38e862"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Nine",
+      "yNghia": "(Số đếm) 9",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "70d62e2b-e884-417b-92bc-73e99b72103c"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Ten",
+      "yNghia": "(Số đếm) 10",
+      "danhSachDapAn": []
+    }
+  ]
+}

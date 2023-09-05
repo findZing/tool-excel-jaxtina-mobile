@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P7",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "8fc06afd-e65c-45d5-8cdc-c8421efb0e03"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My name ____<b><span style=\"color:blue\"> (be)</span></b> Juno.",
+      "yNghia": "<b>My name</b> là chủ ngữ ngôi thứ ba số ít, nên động từ <i>to be</i> theo sau sẽ là <b>is</b>. Câu hoàn chỉnh là <b>My name <span style=\"color:red\">is </span>Juno.</b><i> (Tên mình <span style=\"color:red\">là </span>Juno.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "00d37548-ca6e-4cdb-9fc1-2b55c4e3b95a"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b2073839-abca-423b-86e6-b9e6bdb0dda6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <span style=\"color:blue\"><b>(be)</b></span> a student.",
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít, nên động từ <i>to be</i> theo sau sẽ là <b>am</b>. Câu hoàn chỉnh là <b>I <span style=\"color:red\">am</span> a student.</b> <i>(Mình <span style=\"color:red\">là </span>một học sinh.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5dbe3c15-5555-4eb3-8e17-6ba97d5eab5b"
+          },
+          "dapAn": "am",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d9f5657b-13b5-42dd-8c5a-90506a9a9c69"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____ <b><span style=\"color:blue\">(be)</span></b> it OK to ask you some questions?",
+      "yNghia": "<b>It </b>là chủ ngữ ngôi thứ ba số ít, nên động từ <i>to be</i> đi kèm sẽ là <b>is</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">Is </span>it OK to ask you some questions?</b> <i>(Mình hỏi bạn một số câu hỏi được không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "11d0a3e3-64bf-49af-99af-0f3634f6a20e"
+          },
+          "dapAn": "Is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "340308c4-b3e2-4580-80b6-5509728ee771"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It ____ <b><span style=\"color:blue\">(be) </span></b>for my homework.",
+      "yNghia": "<b>It </b>là chủ ngữ ngôi thứ ba số ít, nên động từ <i>to be</i> theo sau sẽ là <b>is</b>. Câu hoàn chỉnh là <b>It <span style=\"color:red\">is </span>for my homework. </b><i>(Nó dành cho bài tập về nhà của mình.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "dff87e2b-0ea3-41b2-8e27-91b9b2e5cd20"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ca003045-7b9d-4b8e-9ebb-04f05eee6adf"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What ____ <b><span style=\"color:blue\">(be)</span></b> your name?",
+      "yNghia": "<b>Your name</b> là chủ ngữ số ít, nên động từ <i>to be</i> đi kèm sẽ là <b>is</b>. Câu hoàn chỉnh là <b>What <span style=\"color:red\">is </span>your name? </b><i>(Tên bạn <span style=\"color:red\">là </span>gì thế?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "41b181e6-d58f-4abb-b403-eaafdd2c0165"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e97301ac-1544-4069-85e3-b5274f742c3e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <span style=\"color:blue\"><b>(be)</b></span> Jane.",
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít, nên động từ <i>to be</i> theo sau sẽ là <b>am</b>. Câu hoàn chỉnh là<b> I <span style=\"color:red\">am </span>Jane. </b><i>(Mình <span style=\"color:red\">là </span>Jane.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "60036b3b-0002-4498-83e8-0526e6bedf68"
+          },
+          "dapAn": "am",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "83edfeba-9d10-48fe-89b1-9e641c2dad68"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How ____ <span style=\"color:blue\"><b>(be)</b></span> you?",
+      "yNghia": "<b>You </b>là chủ ngữ ngôi thứ hai, nên động từ<i> to be</i> đi kèm sẽ là <b>are</b>. Câu hoàn chỉnh là <b>How <span style=\"color:red\">are </span>you?</b> <i>(Bạn khỏe không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "31d69407-f732-4f7b-b308-5bbfbc2c6548"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8ec58218-bb56-4e83-9adb-26da3d4b906c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Where ____ <b><span style=\"color:blue\">(be)</span></b> you from?",
+      "yNghia": "<b>You </b>là chủ ngữ ngôi thứ hai, nên động từ <i>to be</i> đi kèm sẽ là <b>are</b>. Câu hoàn chỉnh là <b>Where <span style=\"color:red\">are </span>you from? </b><i>(Bạn đến từ đâu thế?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3e5c4719-902f-40d9-b145-2677e6c9071f"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "91f3f85e-210e-481f-9c3f-0d6bd2836017"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <span style=\"color:blue\"><b>(be) </b></span>from London.",
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít, nên động từ <i>to b</i>e theo sau sẽ là <b>am</b>. Câu hoàn chỉnh là <b>I <span style=\"color:red\">am </span>from London.</b> <i>(Mình đến từ London.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "03f2e16c-1a86-41f6-b5e2-536300cae149"
+          },
+          "dapAn": "am",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "676f8b03-82e0-4866-bb72-c21ce6e300d5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____<span style=\"color:blue\"><b> (be) </b></span>on vacation with Henry.",
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít, nên động từ <i>to be</i> theo sau sẽ là <b>am</b>. Câu hoàn chỉnh là <b>I <span style=\"color:red\">am </span>on vacation with Henry.</b><i><b> </b>(Mình đang trong kì nghỉ với Henry.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "47dbf595-f125-4aa9-8573-8f44ffa1b172"
+          },
+          "dapAn": "am",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "004a2ce2-30e4-4caa-a350-65a6088966ab"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Who ____ <span style=\"color:blue\"><b>(be)</b></span> he?",
+      "yNghia": "<b>He </b>là chủ ngữ ngôi thứ ba số ít, nên động từ <i>to be</i> đi kèm sẽ là <b>is</b>. Câu hoàn chỉnh là <b>Who <span style=\"color:red\">is </span>he?</b> <i>(Cậu ấy <span style=\"color:red\">là </span>ai vậy?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ccf83baa-c473-4dca-ac77-6999ebf933ec"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "48d6ed9d-bded-4652-aaae-4648b15f08d1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "He ____<span style=\"color:blue\"><b> (be)</b></span> my friend.",
+      "yNghia": "<b>He </b>là chủ ngữ ngôi thứ ba số ít, nên động từ <i>to be</i> theo sau sẽ là <b>is</b>. Câu hoàn chỉnh là <b>He <span style=\"color:red\">is </span>my friend.</b><i><b> </b>(Cậu ấy <span style=\"color:red\">là</span> bạn mình.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f75b1532-5fd6-4433-b24a-057c3ceb1b5e"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e0047d9c-509a-4f5f-a655-9b3f2d7c1b6c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____ <span style=\"color:blue\"><b>(be)</b></span> your home in London?",
+      "yNghia": "<b>Your home </b>là chủ ngữ số ít, nên động từ<i> to be</i> đi kèm sẽ là <b>is</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">Is </span>your home in London? </b><i>(Nhà của cậu có ở London không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9540987b-985b-4198-bd19-fc6f88938575"
+          },
+          "dapAn": "Is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1a16e1ef-a90b-4707-b2f2-16cc28c000bc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It ____ <b><span style=\"color:blue\">(be)</span></b> a big and modern apartment.",
+      "yNghia": "<b>It </b>là chủ ngữ ngôi thứ ba số ít, nên động từ <i>to be</i> theo sau sẽ là <b>is</b>. Câu hoàn chỉnh là <b>It <span style=\"color:red\">is </span>a big and modern apartment.</b><i> (Nó <span style=\"color:red\">là </span>một căn hộ lớn và hiện đại.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "59c8e531-37c7-4a78-8512-cb63d6696d16"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1d088fe8-fbfb-47a9-a6ce-faba9f0e17d5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It ____ <b><span style=\"color:blue\">(be) </span></b>quiet. I like it!",
+      "yNghia": "<b>It </b>là chủ ngữ ngôi thứ ba số ít, nên động từ <i>to be</i> theo sau sẽ là <b>is</b>. Câu hoàn chỉnh là <b>It <span style=\"color:red\">is </span>quiet. I like it! </b><i>(Nó yên tĩnh. Mình thích nó!).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f77d7eaf-c37c-46ac-81b5-5397969989b0"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5f04ef02-d470-4241-84bc-7e288a68ce1b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My place ____ <b><span style=\"color:blue\">(be)</span></b> small and noisy.",
+      "yNghia": "<b>My place</b> là chủ ngữ số ít, nên động từ<i> to be</i> theo sau sẽ là <b>is</b>. Câu hoàn chỉnh là <b>My place <span style=\"color:red\">is </span>small and noisy.</b> <i>(Chỗ của mình <span style=\"color:red\">thì </span>nhỏ và ồn ào.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "de76c2b3-648b-4f66-86e0-e56da79ed335"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "aad502da-3722-42e1-ac84-a607876cd4f1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How old ____ <span style=\"color:blue\"><b>(be) </b></span>you?",
+      "yNghia": "<b>You </b>là chủ ngữ ngôi thứ hai, nên động từ<i> to be</i> đi kèm sẽ là <b>are</b>. Câu hoàn chỉnh là <b>How old <span style=\"color:red\">are </span>you?</b> <i>(Bạn bao nhiêu tuổi vậy?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "dc6e3b6d-833c-413f-b641-69554b57d0df"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1122129b-797e-4d49-99d7-1075a08516b7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <span style=\"color:blue\"><b>(be)</b></span> 24 years old.",
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít, nên động từ<i> to be</i> theo sau sẽ là <b>am</b>. Câu hoàn chỉnh là <b>I <span style=\"color:red\">am </span>24 years old. </b><i>(Mình 24 tuổi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "49642e1a-05ca-478a-a654-d15bcc536673"
+          },
+          "dapAn": "am",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a63ff4dd-3f75-4e5e-a1e2-b1aca154da44"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What ____<b><span style=\"color:blue\"> (be)</span></b> your email?",
+      "yNghia": "<b>Your email</b> là chủ ngữ số ít, nên động từ<i> to be</i> đi kèm sẽ là <b>is</b>. Câu hoàn chỉnh là <b>What <span style=\"color:red\">is </span>your email? </b><i>(Thư điện tử của bạn <span style=\"color:red\">là </span>gì?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "be180d23-3a3d-4fdf-bb8b-5b706309871c"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "05986471-dd0f-4ca4-9bc0-a6008f5e0a0d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____<span style=\"color:blue\"><b> (have) </b></span>a great day!",
+      "yNghia": "Câu hoàn chỉnh là <b><span style=\"color:red\">Have </span>a great day!</b> <i>(Chúc bạn một ngày tốt lành!).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "58bf8c9b-9599-41c6-9d57-b9967d2d284e"
+          },
+          "dapAn": "Have",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

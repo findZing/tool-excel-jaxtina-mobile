@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P9Cham1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "99ac523c-9cf9-4cdf-a522-5f562b58d1d2"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "cc22d444-4026-4a76-aee3-85c16bc5b2e6"
+          },
+          "cauHoi": "Is the lighter useful for survival?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ee942058-ef44-4ab3-901c-1d52019287f5"
+              },
+              "dapAn": "A. Yes, it is.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "cece8de1-a78c-4853-ae04-84886540bfb0"
+              },
+              "dapAn": "B. No, it is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "dc85d609-b23f-4998-91ff-b0cf87119944"
+              },
+              "dapAn": "C. Yes, it isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0260194d-a1c8-4411-af7c-d7e896c41dee"
+              },
+              "dapAn": "D. No, it isn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f544c12f-27dd-4215-97b7-476a995d0a38"
+          },
+          "cauHoi": "What will provide you with some energy and are easy to digest?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "af646d68-9b84-4ad2-b3ac-b724b72e5333"
+              },
+              "dapAn": "A. noodles",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ea3271a3-99bc-458b-9fad-78a3d0317beb"
+              },
+              "dapAn": "B. chocolate bars",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a1574f4f-8bd6-479d-94d4-5459a02e5666"
+              },
+              "dapAn": "C. bread",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "866f69f7-199c-4430-b9d0-b87eea17556e"
+              },
+              "dapAn": "D. rice",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "b7f5bee8-5948-43d1-82b9-f6e387e40e13"
+          },
+          "cauHoi": "What is useful for signaling at night",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d1707cf0-5ad7-49eb-8c8c-ecb0582f6593"
+              },
+              "dapAn": "A. flashlight",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a3a79aff-0520-455f-a051-d9ee168ed6f3"
+              },
+              "dapAn": "B. fire",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "07880ae3-e8df-442b-a2a6-c21e3b4d3a4b"
+              },
+              "dapAn": "C. laser",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "255840c6-5f15-417b-8bbc-9fb3d7bdbf24"
+              },
+              "dapAn": "D. white flag",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "e95da92b-395d-46af-8bc1-f5d5f0791a7c"
+          },
+          "cauHoi": "What can be used to reflect the sun to signal to any rescuers?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d88a8e13-7fba-44e9-bab8-2141a2385463"
+              },
+              "dapAn": "A. mirror",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "d9901ee6-a629-4544-9e69-cfb9bd7d6f03"
+              },
+              "dapAn": "B. large screen",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "968daad4-268f-492e-b1fe-7929492a01a8"
+              },
+              "dapAn": "C. white flag",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "467a2cee-c382-4398-8326-2fec34b11b2d"
+              },
+              "dapAn": "D. smartphone",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "There are some things useful for survival. The lighter will make a spark and can be useful to start a fire. The chocolate bars will provide you with some energy and are easy to digest. The flashlight is useful for signaling at night. The container of water is essential for when your get thirsty. The mirror is also extremely important. You can use it to reflect the sun to signal to any rescuers.<br />\n<i>Có một số thứ hữu ích cho sự sinh tồn. Bật lửa sẽ tạo ra tia lửa và có thể hữu ích để châm lửa. Các thanh sô cô la sẽ cung cấp cho bạn một ít năng lượng và chúng dễ tiêu hóa. Đèn pin rất hữu ích để báo hiệu vào ban đêm. Bình đựng nước rất cần thiết khi bạn khát nước. Chiếc gương cũng cực kỳ quan trọng. Bạn có thể sử dụng nó để phản chiếu ánh nắng mặt trời để báo hiệu cho bất kỳ người cứu hộ nào.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_MTC_L2/sounds/normal/MTC_2_LISTENING_Listening 1.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c1e88bc3-afb7-4bed-b80c-513061b0f4ef"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "cf21cca2-6300-414b-95f4-7a4cff82c13a"
+          },
+          "cauHoi": "Can the animals be fast and strong?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "552d17a1-ca73-47ea-a9b5-f2209c02c66d"
+              },
+              "dapAn": "A. No, they can.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e47bf0fe-9756-4d54-ac5c-9a1168f5d17a"
+              },
+              "dapAn": "B. No, they can’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3865909c-a9a1-4110-8d8b-d1491bc21588"
+              },
+              "dapAn": "C. Yes, they can’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2ddbc98a-4baf-4f47-9289-497be60df236"
+              },
+              "dapAn": "D. Yes, they can.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "459ca4f9-4da7-4a86-9f25-a9e78d2c5264"
+          },
+          "cauHoi": "What we need to test animal behavior?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d8fed291-e330-42b2-92ee-b891d4fa40fa"
+              },
+              "dapAn": "A. a standard",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b06b903c-ed4a-44d7-a71a-4a6890e5806a"
+              },
+              "dapAn": "B. a standard way",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "1796b05c-52c1-4360-a3b6-2ac198b06ec1"
+              },
+              "dapAn": "C. a rule",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d66b0ba9-e59e-4a2b-830a-4917c82a7c69"
+              },
+              "dapAn": "D. a method",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "3d80cfe3-3222-461e-b101-aa71d7e93c05"
+          },
+          "cauHoi": "When was the mirror test developed?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f5278c2f-b9eb-4aec-91cf-5de0a8ecb868"
+              },
+              "dapAn": "A. 1968",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "73134286-6fca-4d09-8c47-a6f8f96984a9"
+              },
+              "dapAn": "B. 1969",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f597eccd-ce37-4ca3-bcdd-2e550c4a5379"
+              },
+              "dapAn": "C. 1970",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "7f1d887c-3914-461e-ae48-54663855862a"
+              },
+              "dapAn": "D. 1980",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ca2eaea0-1f2e-4604-91d3-22330ebc55a4"
+          },
+          "cauHoi": "Are animals intelligent?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "aed40338-a088-4f38-b43a-f05a1c16c324"
+              },
+              "dapAn": "A. There is no answer yet.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "7dbb4ff9-cc31-48f2-b03e-2d4d5d01b9dc"
+              },
+              "dapAn": "B. Yes, it is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c1d20ffa-db3b-4272-a427-94412c2324ce"
+              },
+              "dapAn": "C. Yes, they are.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fd64c44d-d0c6-49d2-aa0a-c85336549b70"
+              },
+              "dapAn": "D. No, they aren’t.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "Animals are interesting. They can be cute, they can be fast, and they can be strong. But are they intelligent? That isn't an easy question to answer. Animals all live in different habitats and their behavior is right for that situation. We need a standard way to test animal behavior. The mirror test, developed in 1970 by Dr. Gordon Gallup Jr., gives us that.<br />\n<i>Động vật thật thú vị. Chúng có thể dễ thương, có thể nhanh nhẹn, và có thể mạnh mẽ. Nhưng chúng có thông minh không? Đó không phải là một câu hỏi dễ trả lời. Tất cả các loài động vật đều sống trong những môi trường sống khác nhau và hành vi của chúng phù hợp với hoàn cảnh đó. Chúng ta cần một cách tiêu chuẩn để kiểm tra hành vi của động vật. Bài kiểm tra với gương được Tiến sĩ Gordon Gallup Jr. phát triển vào năm 1970, đã cho chúng ta cách tiêu chuẩn để kiểm tra hành vi của động vật.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_MTC_L2/sounds/normal/MTC_2_LISTENING_Listening 2.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a34cd4ff-1a70-4085-a3cc-48f75374a658"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "c0ccf820-95df-4378-8144-fbaa77477af8"
+          },
+          "cauHoi": "Is there a good chance an animal is intelligent if it passes the mirror test?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "0c2e82df-e490-4cf7-9cda-d19e8474c116"
+              },
+              "dapAn": "A. No, there isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "23fb946b-917e-408d-a68d-02e6c7cb513c"
+              },
+              "dapAn": "B. No, there is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "407e6562-4be6-4ade-8664-3ce1283086a8"
+              },
+              "dapAn": "C. Yes, there isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a2fbb954-ddbf-4ab5-8b31-0547d955828c"
+              },
+              "dapAn": "D. Yes, there is",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "baa7fff1-69cb-4e29-b6af-87186a5da55c"
+          },
+          "cauHoi": "What do give the animal so it goes to sleep?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a4ebaa36-3e69-4686-a30b-20497997b558"
+              },
+              "dapAn": "A. candies",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "35905268-9a52-479c-95b8-bc1c6806cf8a"
+              },
+              "dapAn": "B. vaccine",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c4ee437d-9b49-4880-99d3-d0b9b464dcf3"
+              },
+              "dapAn": "C. clothes",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5b0a9744-4332-44d6-9c61-14919e7af174"
+              },
+              "dapAn": "D. medicine",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "1c0eb47b-870f-4018-bb4e-7caa44b7dd59"
+          },
+          "cauHoi": "Where can they put a colored mark on the animal’s body?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "dcd06fc8-3717-4973-8f62-4dccda8c6725"
+              },
+              "dapAn": "A. hands",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "de2caee9-e87f-44b3-8a98-1eeba1315775"
+              },
+              "dapAn": "B. forehead",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1598600f-2742-465d-9e87-4e63dcdbca62"
+              },
+              "dapAn": "C. ears",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "60a94cdd-1072-47c8-b934-82b056c90bc5"
+              },
+              "dapAn": "D. B&C",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "66c9d919-3cb8-47da-b16f-fc1fb6406cb0"
+          },
+          "cauHoi": "What do they do when the animal wakes up and sees itself in a mirror?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a027a64a-470c-405d-80d0-1723c18c41cc"
+              },
+              "dapAn": "A. watch how it behaves",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "970127ca-d9df-4f7f-b4bc-b8750287c35c"
+              },
+              "dapAn": "B. give it some water",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "67b3b08b-82f6-4dcf-9a34-b1b592ae8f1f"
+              },
+              "dapAn": "C. give it some food",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f19c5891-1b71-4837-980b-158e33ad37ee"
+              },
+              "dapAn": "D. hit it",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "You recognize your own reflection in a mirror, don't you? But does an animal know that it's looking at itself when it looks in a mirror, or does it think it's a different animal? If an animal passes the mirror test, there's a good chance it is intelligent. We give the animal medicine so it goes to sleep. Then, we put a colored mark on the animal's body where it can't see it in a normal way, such as on its forehead or on its ear. When the animal wakes up and sees itself in a mirror, we watch how it behaves.<br />\n<i>Bạn nhận ra hình ảnh phản chiếu của chính mình trong gương, phải không? Nhưng liệu một con vật có biết rằng nó đang nhìn vào chính nó khi soi gương hay nó nghĩ đó là một con vật khác? Nếu một con vật vượt qua bài kiểm tra với gương, rất có thể nó thông minh. Chúng tôi cho con vật uống thuốc để nó đi ngủ. Sau đó, chúng tôi đánh dấu màu lên cơ thể con vật ở những nơi mà nó không thể nhìn thấy theo cách bình thường, chẳng hạn như trên trán hoặc trên tai của nó. Khi con vật thức dậy và nhìn thấy nó trong gương, chúng tôi xem nó có hành vi như thế nào.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_MTC_L2/sounds/normal/MTC_2_LISTENING_Listening 3.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "07a27b1d-292d-43f2-95ad-2bb3f46158ae"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "b1259dc1-58cd-431c-bc6a-5704be47f74f"
+          },
+          "cauHoi": "Does the animal that sees the mark and touches it or tries to remove it pass the mirror test?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "148b68b9-5162-4dbc-ad80-402e9cdfff82"
+              },
+              "dapAn": "A. No, it does.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c17203b0-82e3-483d-a298-ec1db9eee074"
+              },
+              "dapAn": "B. Yes, it does.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a926f933-b391-47c1-81e8-2b5987a20180"
+              },
+              "dapAn": "C. No, it doesn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "20d42190-7cef-4c6c-a9d6-0c38860f7c7b"
+              },
+              "dapAn": "D. Yes, it doesn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "7e44bd94-50c6-4318-a00d-9d65920c04b0"
+          },
+          "cauHoi": "What are the species that passed the test so far?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "160deb74-27f6-46eb-8507-a0333ba46a13"
+              },
+              "dapAn": "A. great apes",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a4c6687c-1d8b-4c82-9f52-9163f7de9fde"
+              },
+              "dapAn": "B. elephants and dolphins",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "dcb0afbf-8c7f-4e16-b509-f90b188d2209"
+              },
+              "dapAn": "C. orcas and Eurasian magpies",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8aa2b157-53e6-42a9-acea-6eccfa1be9f5"
+              },
+              "dapAn": "D. all of them",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "471a2d09-f5fc-4468-ab4f-49aca4067cac"
+          },
+          "cauHoi": "Do some people say that the test only works with animals that mainly use sight to explore the world?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "45d93936-fd72-455e-a3bc-327905bcc357"
+              },
+              "dapAn": "A. Yes, they do.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "47660a42-3d77-4f92-addd-90f80944dbb0"
+              },
+              "dapAn": "B. No, they don’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8e0e4d35-ba74-410d-80eb-8725d9016198"
+              },
+              "dapAn": "C. Yes, they don’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f83e1c57-7a5b-439c-87b0-ac5173b25a33"
+              },
+              "dapAn": "D. Yes, they did.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "d89e6070-ae26-4e47-8390-51436c15a877"
+          },
+          "cauHoi": "Why may it not be a fair test of other animals, such as dogs?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "1b2de048-a403-47ee-a51d-3fe80e51da9f"
+              },
+              "dapAn": "A. Because they use smell or sound more than sight.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "558250b3-0d8b-48de-95f1-5028dc2a9094"
+              },
+              "dapAn": "B. Because they are young.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "49338316-e829-4b69-b3ab-d28c54a761ea"
+              },
+              "dapAn": "C. Because they are unintelligent.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "34c363e8-c366-412c-b32c-0d4c6dd0170a"
+              },
+              "dapAn": "D. Because they are small.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "Animals that pass the mirror test see the colored mark and touch it or try to remove it. So far, the species that have passed the test are great apes (chimpanzees, bonobos, and orangutans), elephants, dolphins, orcas, and Eurasian magpies. Some people say, though, that the test only works with animals that mainly use sight to explore the world, and it may not be a fair test of other animals, such as dogs, who use smell or sound more than sight and fail the test.<br />\n<i>Nếu những con vật nhìn thấy vết màu và chạm vào nó hoặc cố gắng xóa vết màu ấy đi thì chúng vượt qua bài kiểm tra với gương. Cho đến nay, các loài đã vượt qua bài kiểm tra là loài vượn lớn (tinh tinh, tinh tinh lùn và đười ươi), voi, cá heo, cá kình và chim ác là Á-Âu. Tuy nhiên, một số người nói rằng bài kiểm tra chỉ có hiệu quả với những động vật chủ yếu sử dụng thị giác để khám phá thế giới và nó có thể không phải là một bài kiểm tra công bằng đối với những động vật khác, chẳng hạn như chó, những động vật sử dụng khứu giác hoặc âm thanh nhiều hơn thị giác và đã trượt bài kiểm tra.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_MTC_L2/sounds/normal/MTC_2_LISTENING_Listening 4.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "314cbec0-50f4-4f7a-bf69-06a95daffd56"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "bc1a3b96-1409-4b30-a30a-211b29ee78ed"
+          },
+          "cauHoi": "What is the Jascon-4?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "89940f60-1bf8-4de3-ab16-40ed33612d2e"
+              },
+              "dapAn": "A. a small house",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d59bfa8a-9dcd-4d5e-ae42-bef50e9df6c8"
+              },
+              "dapAn": "B. a small rocket",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7a706dfc-2a97-4ae4-93b8-288d155564af"
+              },
+              "dapAn": "C. a small machine",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fc19ec44-9c90-4b76-b122-bfe7b0ee5ea0"
+              },
+              "dapAn": "D. a small boat",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "2d9ccef5-7ea8-4992-931b-fb1b654d3395"
+          },
+          "cauHoi": "Who managed to survive?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8c3c4380-355e-4a7c-802a-01c7136f0422"
+              },
+              "dapAn": "A. the guard",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "460d9a75-c683-494c-853e-9541b7d044f3"
+              },
+              "dapAn": "B. the housewife",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "dfbfcab3-b868-48b5-b033-66ef3bb7c54f"
+              },
+              "dapAn": "C. the ship's cook",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "197ba0e0-0a7e-4bed-bfb0-0162893647fe"
+              },
+              "dapAn": "D. the director",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ffb327fa-9564-4670-b3b3-f7b93788d266"
+          },
+          "cauHoi": "Where did he succeed in finding a pocket of air?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "947f5428-100e-4ac6-8277-6122e23efee6"
+              },
+              "dapAn": "A. in the workshop",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c2bc79ab-1c8c-4021-894e-eeadf9fcc7f2"
+              },
+              "dapAn": "B. in the store",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1fd7c58d-c8a6-4f27-b2f5-4f4803709fae"
+              },
+              "dapAn": "C. in the kitchen",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5a008fb7-a1ff-467a-9227-95b04a572031"
+              },
+              "dapAn": "D. in the engineer's office",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "718432d7-641c-423f-9ba4-404fce925e0a"
+          },
+          "cauHoi": "Finally, who saved him?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a10141e4-55ff-477d-b2c5-973cf2eca952"
+              },
+              "dapAn": "A. the drivers",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a7f450d1-a0ad-467e-8416-b9f0cbf91a38"
+              },
+              "dapAn": "B. the divers",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "43d6c136-3ee6-4a7b-bb0c-e641f320b9ee"
+              },
+              "dapAn": "C. the polices",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e53bfa69-b393-4d39-bc63-7d8052d092cf"
+              },
+              "dapAn": "D. the guards",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "The Jascon-4, a small boat, sank in heavy seas near Nigeria on May 26, 2013. No one thought that there were any survivors. However, one man, Harrison Odjegba Okene, the ship's cook, managed to survive. At a depth of 30 meters, it was completely dark and he couldn't see anything.  He knew that he needed to find a safe space. Time was running out, but luckily, he succeeds in finding a pocket of air in the engineer's office. It can be dangerous in cold water, but he was able to make a small platform from a mattress that kept his upper body out of the water. He was there for three days.  Finally, he was saved by the divers, but he said he would never go to sea again!<br />\n<i>Jascon-4 là một chiếc thuyền nhỏ, bị chìm trong vùng biển động gần Nigeria vào ngày 26 tháng 5 năm 2013. Không ai nghĩ rằng có người sống sót. Tuy nhiên, một người đàn ông, Harrison Odjegba Okene, là đầu bếp của con tàu, đã sống sót. Ở độ sâu 30 mét, trời tối mịt và anh không thể nhìn thấy gì. Anh biết rằng mình cần phải tìm một chỗ an toàn. Thời gian không còn nhiều, nhưng may mắn thay, anh ta đã thành công trong việc tìm kiếm một túi khí trong văn phòng của kỹ sư. Ở trong nước lạnh có thể nguy hiểm, nhưng anh ấy đã có thể làm một cái bệ nhỏ từ một tấm nệm để giữ cho phần thân trên của anh ấy không bị ngập trong nước. Anh ấy đã ở đó trong ba ngày. Cuối cùng, anh ấy đã được các thợ lặn cứu, nhưng anh ấy nói rằng anh ấy sẽ không bao giờ ra biển nữa! </i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_MTC_L2/sounds/normal/MTC_2_LISTENING_Listening 5.mp3"
+    }
+  ]
+}

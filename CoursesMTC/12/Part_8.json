@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_MTC_L12/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_MTC_L12/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "5b71b309-08e9-4145-9eb9-7950a3b0590b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Host",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "24daf937-a774-42e1-970c-fea3e9864848"
+          },
+          "dapAn": "Good afternoon. We’ve got a great show for you today. Our topic is tech fears.",
+          "phienAm": "/gʊd ˈɑːftəˈnuːn/. /wiːv gɒt eɪ greɪt ʃəʊ fɔːr juː təˈdeɪ/. /ˈaʊər ˈtɒpɪk ɪz tek fɪərz/ ",
+          "yNghia": "\nChào buổi trưa. Chúng tôi đã có một chương trình tuyệt vời dành cho bạn ngày hôm nay. Chủ đề của chúng tôi là nỗi sợ công nghệ.",
+          "normal": {
+            "start": "00:00:00.435",
+            "end": "00:00:06.741"
+          },
+          "slow": {
+            "start": "00:00:00.664",
+            "end": "00:00:10.761"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b8be6a81-b0aa-4279-b008-7412bed74bfd"
+          },
+          "dapAn": "Hi, Sofia. So tell us, what scares you the most about technology today?",
+          "phienAm": "/haɪ ˈsəʊfɪə/. /səʊ tel ʌs wɒt skeərz juː ðə məʊst əˈbaʊt tekˈnɒləʤi təˈdeɪ/",
+          "yNghia": "\nXin chào Sofia. Vậy, hãy cho chúng tôi biết, điều gì làm bạn sợ nhất về công nghệ ngày nay?",
+          "normal": {
+            "start": "00:00:15.004",
+            "end": "00:00:20.731"
+          },
+          "slow": {
+            "start": "00:00:22.754",
+            "end": "00:00:30.386"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d7c683ef-9411-4f2e-a353-4c9c90a17ef7"
+          },
+          "dapAn": "So could you tell us the reason for this call, please?",
+          "phienAm": "/səʊ kʊd juː tel ʌs ðə ˈriːzn fɔːr ðɪs kɔːl pliːz/ ",
+          "yNghia": "\nVậy, bạn có thể vui lòng cho chúng tôi biết lý do của cuộc gọi này không?",
+          "normal": {
+            "start": "00:00:29.212",
+            "end": "00:00:32.981"
+          },
+          "slow": {
+            "start": "00:00:42.284",
+            "end": "00:00:47.024"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f69a6df6-68ad-49d4-a30e-84af7273cf5b"
+          },
+          "dapAn": "Absolutely, it would be a person’s worst nightmare.",
+          "phienAm": "/ˈæbsəluːtli ɪt wʊd biː eɪ ˈpɜːsnz wɜːst ˈnaɪtmeər/ ",
+          "yNghia": "\nChắc chắn rồi, đó hẳn sẽ là cơn ác mộng tồi tệ cho ai trải qua.",
+          "normal": {
+            "start": "00:00:40.954",
+            "end": "00:00:44.941"
+          },
+          "slow": {
+            "start": "00:00:57.737",
+            "end": "00:01:02.383"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "15d4476a-56aa-4070-9f75-62d17d70c6b5"
+          },
+          "dapAn": "Can you tell us why you worry so much about that?",
+          "phienAm": "/kæn juː tel ʌs waɪ juː ˈwʌri səʊ mʌʧ əˈbaʊt ðæt/ ",
+          "yNghia": "\nBạn có thể cho chúng tôi biết lý do tại sao bạn lo lắng rất nhiều về điều đó không?",
+          "normal": {
+            "start": "00:00:52.407",
+            "end": "00:00:55.814"
+          },
+          "slow": {
+            "start": "00:01:12.859",
+            "end": "00:01:16.651"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "70aca491-7fb5-4c05-b193-bc236141f2f2"
+          },
+          "dapAn": "You’re afraid that someone will steal information, or even photos, from any of you?",
+          "phienAm": "/jʊər əˈfreɪd ðæt ˈsʌmwʌn wɪl stiːl ˌɪnfəˈmeɪʃən ɔːr ˈiːvən ˈfəʊtəʊz frɒm ˈeni ɒv juː/ ",
+          "yNghia": "\nBạn sợ ai đó sẽ đánh cắp thông tin, thậm chí là ảnh của bất kỳ ai trong số bạn phải không?",
+          "normal": {
+            "start": "00:01:02.265",
+            "end": "00:01:08.426"
+          },
+          "slow": {
+            "start": "00:01:26.132",
+            "end": "00:01:32.863"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "04e5b3aa-95bc-4e2d-9cdd-36a3302f0043"
+          },
+          "dapAn": "Everyone should do that. I suggest changing your passwords frequently.",
+          "phienAm": "/ˈevrɪwʌn ʃʊd duː ðæt/. /aɪ səˈʤest ˈʧeɪnʤɪŋ jɔːr ˈpɑːswɜːdz ˈfriːkwəntli/ ",
+          "yNghia": "\nMọi người nên làm điều đó. Tôi khuyên bạn nên thay đổi mật khẩu của mình thường xuyên.",
+          "normal": {
+            "start": "00:01:17.052",
+            "end": "00:01:22.198"
+          },
+          "slow": {
+            "start": "00:01:42.866",
+            "end": "00:01:48.838"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "95401b70-18db-4131-a9c3-1c38791428e2"
+          },
+          "dapAn": "Understood. However, if you can do it, you will be safer.",
+          "phienAm": "/ˌʌndəˈstʊd. haʊˈevər ɪf juː kæn duː ɪt juː wɪl biː ˈseɪfər/ ",
+          "yNghia": "\nTôi hiểu. Tuy nhiên, nếu bạn làm được điều đó, bạn sẽ an toàn hơn.",
+          "normal": {
+            "start": "00:01:30.172",
+            "end": "00:01:34.956"
+          },
+          "slow": {
+            "start": "00:02:00.452",
+            "end": "00:02:06.236"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "15bc00ed-b56e-483c-8ed2-75b81cbfd8e5"
+          },
+          "dapAn": "Antivirus is a famous program that you can try, or you can also use a Firewall.",
+          "phienAm": "/ˈæntɪˌvaɪrəs ɪz ei ˈfeɪməs ˈprəʊgræm ðæt juː kæn traɪ ɔːr juː kæn ˈɔːlsəʊ juːz eɪ ˈfaɪəwɔːl/ ",
+          "yNghia": "\nAntivirus là một chương trình phần mềm nổi tiếng mà bạn có thể thử hoặc bạn cũng có thể sử dụng Tường lửa.",
+          "normal": {
+            "start": "00:01:41.407",
+            "end": "00:01:48.076"
+          },
+          "slow": {
+            "start": "00:02:15.005",
+            "end": "00:02:23.301"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7a26d9ad-7c57-4775-9505-d3e9b319aa9b"
+          },
+          "dapAn": "Thanks for calling and sharing with us about your worry! We have our next caller.",
+          "phienAm": "/θæŋks fɔːr ˈkɔːlɪŋ ænd ˈʃeərɪŋ wɪð ʌs əˈbaʊt jɔːr ˈwʌri/. /wiː hæv ˈaʊər nekst ˈkɔːlər/ ",
+          "yNghia": "\nCảm ơn vì đã gọi và chia sẻ với chúng tôi lo lắng của bạn! Chúng tôi có người gọi tiếp theo rồi.",
+          "normal": {
+            "start": "00:01:53.802",
+            "end": "00:01:58.948"
+          },
+          "slow": {
+            "start": "00:02:30.364",
+            "end": "00:02:37.190"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b2d8bb8f-f588-4058-8924-dcc5e91543d1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Sofia",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "900350bf-553f-4f53-b0f6-3a1409bdd04c"
+          },
+          "dapAn": "Hello everyone, my name is Sofia Sanchez, and I’m calling from Rolling Hills.",
+          "phienAm": "/heˈləʊ ˈevrɪwʌn maɪ neɪm ɪz ˈsəʊfɪə santʃez ænd aɪm ˈkɔːlɪŋ frɒm ˈrəʊlɪŋ hɪlz/",
+          "yNghia": "\nXin chào mọi người, tên tôi là Sofia Sanchez, và tôi đang gọi từ Rolling Hills.",
+          "normal": {
+            "start": "00:00:07.756",
+            "end": "00:00:13.627"
+          },
+          "slow": {
+            "start": "00:00:11.756",
+            "end": "00:00:21.569"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d9a176e9-ce22-49d7-b498-8d9afd6c07e2"
+          },
+          "dapAn": "I’m actually happy with all the technology nowadays, so I don’t really have a big fear.",
+          "phienAm": "/aɪm ˈækʧʊəli ˈhæpi wɪð ɔːl ðə tekˈnɒləʤi ˈnaʊədeɪz səʊ aɪ dəʊnt ˈrɪəli hæv eɪ bɪg fɪər/ ",
+          "yNghia": "\nThực ra, tôi lại hài lòng với tất cả công nghệ ngày nay, vì vậy tôi không thực sự có một nỗi sợ hãi nào lớn cả.",
+          "normal": {
+            "start": "00:00:21.963",
+            "end": "00:00:28.124"
+          },
+          "slow": {
+            "start": "00:00:31.571",
+            "end": "00:00:41.004"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "62f436d6-e7ba-422a-8bb9-6ce4deb3be5b"
+          },
+          "dapAn": "One thing I do worry about is information theft. It must be awful.",
+          "phienAm": "/wʌn θɪŋ aɪ duː ˈwʌri əˈbaʊt ɪz ˌɪnfəˈmeɪʃən θeft/. /ɪt mʌst biː ˈɔːfʊl/ ",
+          "yNghia": "\nMột điều tôi lo lắng là đánh cắp thông tin. Chắc hẳn là rất tệ.",
+          "normal": {
+            "start": "00:00:34.213",
+            "end": "00:00:40.012"
+          },
+          "slow": {
+            "start": "00:00:47.688",
+            "end": "00:00:56.932"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2a440978-6404-4c9c-9a63-88d0003e3865"
+          },
+          "dapAn": "I can’t imagine when someone breaks into my computer and steals all my data.",
+          "phienAm": "/aɪ kɑːnt ɪˈmæʤɪn wen ˈsʌmwʌn breɪks ˈɪntuː maɪ kəmˈpjuːtər ænd stiːlz ɔːl maɪ ˈdeɪtə/ ",
+          "yNghia": "\nTôi không thể tưởng tượng được khi ai đó đột nhập vào máy tính của tôi và đánh cắp tất cả dữ liệu của tôi.",
+          "normal": {
+            "start": "00:00:46.318",
+            "end": "00:00:51.175"
+          },
+          "slow": {
+            "start": "00:01:03.805",
+            "end": "00:01:12.148"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ffd99f7a-0a3a-4e7d-928e-e5aff98803ee"
+          },
+          "dapAn": "Well, everybody in my house uses wireless devices.",
+          "phienAm": "/wel ˈevrɪbɒdi ɪn maɪ haʊs ˈjuːzɪz ˈwaɪəlɪs dɪˈvaɪsɪz/ ",
+          "yNghia": "\nỪ thì, mọi người trong nhà tôi đều sử dụng thiết bị không dây.",
+          "normal": {
+            "start": "00:00:57.336",
+            "end": "00:01:01.612"
+          },
+          "slow": {
+            "start": "00:01:18.358",
+            "end": "00:01:25.042"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "12a1e34b-48fe-4416-b6a6-ac65838f076e"
+          },
+          "dapAn": "Yes. That’s why we always use strong passwords on all devices.",
+          "phienAm": "/jes/. /ðæts waɪ wiː ˈɔːlweɪz juːz strɒŋ ˈpɑːswɜːdz ɒn ɔːl dɪˈvaɪsɪz/ ",
+          "yNghia": "\nĐúng. Đó là lý do tại sao chúng tôi luôn sử dụng mật khẩu mạnh trên tất cả các thiết bị.",
+          "normal": {
+            "start": "00:01:09.513",
+            "end": "00:01:15.312"
+          },
+          "slow": {
+            "start": "00:01:33.622",
+            "end": "00:01:41.870"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "098dcd00-b6ed-4aa4-94ff-9d201e26b491"
+          },
+          "dapAn": "I’d like to, but it’s really hard to remember them. I have lots of things to keep track of.",
+          "phienAm": "/aɪd laɪk tuː bʌt ɪts ˈrɪəli hɑːd tuː rɪˈmembər ðem/. /aɪ hæv lɒts ɒv θɪŋz tuː kiːp træk ɒv/ ",
+          "yNghia": "\nTôi cũng muốn làm thế, nhưng thật khó để nhớ chúng. Tôi có rất nhiều thứ để theo dõi.",
+          "normal": {
+            "start": "00:01:23.286",
+            "end": "00:01:29.302"
+          },
+          "slow": {
+            "start": "00:01:49.692",
+            "end": "00:01:59.267"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9feada3e-3c79-4e89-befe-4ab650251d0b"
+          },
+          "dapAn": "Do you recommend any software which can help with this problem?",
+          "phienAm": "/duː juː ˌrekəˈmend ˈeni ˈsɒftweər wɪʧ kæn help wɪð ðɪs ˈprɒbləm/ ",
+          "yNghia": "\nBạn có gợi ý phần mềm nào có thể giúp giải quyết vấn đề này không?",
+          "normal": {
+            "start": "00:01:36.188",
+            "end": "00:01:40.392"
+          },
+          "slow": {
+            "start": "00:02:07.752",
+            "end": "00:02:14.057"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4a2edc90-5282-4972-8e3b-4c96c4af413f"
+          },
+          "dapAn": "That’s very helpful for me. Thank you so much.",
+          "phienAm": "/ðæts ˈveri ˈhelpfʊl fɔːr miː/. /θæŋk juː səʊ mʌʧ/ ",
+          "yNghia": "\nHữu ích thật. Cảm ơn bạn rất nhiều.",
+          "normal": {
+            "start": "00:01:49.453",
+            "end": "00:01:52.570"
+          },
+          "slow": {
+            "start": "00:02:24.438",
+            "end": "00:02:29.605"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5101565d-74a5-4a10-b349-f0ad24e88471"
+          },
+          "dapAn": "Okay, goodbye. Wish you a nice day!",
+          "phienAm": "/əʊˈkeɪ ˌɡʊdˈbaɪ/. /wɪʃ juː eɪ naɪs deɪ/ ",
+          "yNghia": "\nĐược rồi, tạm biệt. Chúc bạn một ngày tốt lành!",
+          "normal": {
+            "start": "00:02:00.615",
+            "end": "00:02:03.297"
+          },
+          "slow": {
+            "start": "00:02:38.660",
+            "end": "00:02:42.831"
+          }
+        }
+      ]
+    }
+  ]
+}

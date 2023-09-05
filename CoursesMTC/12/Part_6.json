@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "e0ab15c0-1fa7-4f73-8e0c-5311541adc83"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "0fe97b21-8775-40dd-a048-8cd9feff999d"
+          },
+          "cauHoi": "When does the show start?\n",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "e7e0d13a-440b-4f9b-96f7-3c875d9ff944"
+              },
+              "dapAn": "A. in the morning",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "473ca6d3-fccf-491b-959c-71a995a98595"
+              },
+              "dapAn": "B. in the afternoon",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "c352174a-67c3-4ed6-9677-a4bfdb73116e"
+              },
+              "dapAn": "C. at noon",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3fc8eff7-ce3c-4394-8d3f-1c4b4374ef89"
+              },
+              "dapAn": "D. at night",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "c3874627-fe82-431e-a717-3d9dbcd8bfd2"
+          },
+          "cauHoi": "What is the main topic of the today’s show?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "0b2f2ad8-a123-4c37-acc1-8b946d612965"
+              },
+              "dapAn": "A. technology",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c2a0d206-46a2-4e72-8014-b00b3e7b7694"
+              },
+              "dapAn": "B. fears",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c735e323-dc80-443f-ad02-3a421fcea0c2"
+              },
+              "dapAn": "C. tech fears",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "4bc56c8b-e881-4fae-a71e-98c4daa3b404"
+              },
+              "dapAn": "D. theft",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "da9ed163-7d42-4e68-8676-9ea2e88670e3"
+          },
+          "cauHoi": "Where is the guest calling from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d687b2db-6ec7-4ceb-a2ea-087a7c55a0f8"
+              },
+              "dapAn": "A. New York",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bee31669-5de4-4964-bd55-087fd0044e50"
+              },
+              "dapAn": "B. Rolling Hills",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "4ad9daf7-0379-460c-9cbe-39e359ff4688"
+              },
+              "dapAn": "C. London",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "353efdb1-1702-4890-8a13-34ac6b7036a1"
+              },
+              "dapAn": "D. Tokyo",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "3a269c14-bdb5-402e-a1a0-f9a180b9bc54"
+          },
+          "cauHoi": "Does Sofia have any fears about technology?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "36dd2674-c306-4670-acc3-261d3d9ebdde"
+              },
+              "dapAn": "A. Yes, she does.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "87c47689-1f54-4a7c-a6b9-23959a0ac263"
+              },
+              "dapAn": "B. No, she doesn’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a1f2ad16-4d5a-4b91-bfb6-402707a21dcf"
+              },
+              "dapAn": "C. She doesn’t know yet.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "307014e9-268e-46dd-bb10-0fd5054c0ccc"
+              },
+              "dapAn": "D. She’s confused.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Good afternoon. We've got a great show for you today. Our topic is tech fears.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Sofia:</b></td>\n                        <td>Hello everyone, my name is Sofia Sanchez, and I'm calling from Rolling Hills.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Hi, Sofia. So tell us, what scares you the most about technology today?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Sofia:</b></td>\n                        <td>I'm actually happy with all the technology nowadays, so I don't really have a big fear.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>When does the show start?</b> <i>(Chương trình bắt đầu lúc nào),</i> <b></b>câu trong bài đọc liên quan là <b>Good afternoon.</b> <i>(Chào buổi chiều.).</i> Nên đáp án là <span style=\"color:red\"><b>B. in the afternoon</b></span> <span style=\"color:red\"></span><i>(vào buổi chiều)</i>.<br />\n<b>2.</b> Với câu hỏi <b>What is the main topic of the today's show?</b> <i>(Chủ đề chính của chương trình hôm nay là gì?),</i> <b></b>câu trong bài đọc liên quan là <b>Our topic is tech fears.</b> <i>(Chủ đề của chúng ta là nỗi sợ công nghệ.).</i> Nên đáp án là <span style=\"color:red\"><b>C. tech fears</b></span> <i>(nỗi sợ công nghệ).</i><br />\n<b>3.</b> Với câu hỏi <b>Where is the guest calling from?</b> <i>(Khách mời gọi đến từ đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>My name is Sofia Sanchez, and I'm calling from Rolling Hills.</b> <i>(</i><i>Xin chào mọi người, tên tôi là Sofia Sanchez, và tôi đang gọi từ Rolling Hills.</i></span><i>).</i> Nên đáp án là <span style=\"color:red\"><b>B. Rolling Hills</b></span> <span style=\"color:red\"></span><i>(Rolling Hills).</i><br />\n<b>4.</b> Với câu hỏi <b>Does Sofia have any fears about technology?</b> <i>(Sofia có nỗi sợ về công nghệ nào không?)</i> <b></b>câu trong bài đọc liên quan là <b>I'm actually happy with all the technology nowadays, so I don't really have a big fear.</b> <i>(</i><i>Thực ra, tôi lại hài lòng với tất cả công nghệ ngày nay, vì vậy tôi không thực sự có một nỗi sợ hãi nào lớn cả.</i></span><i>).</i> Nên đáp án là <span style=\"color:red\"><b>B. No, she doesn't.</b></span> <span style=\"color:red\"></span><i>(Cô ấy không có.).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "eecd40bf-5287-4bba-92ca-747890cc0560"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "bc8227fc-72ef-4830-b4ee-197280a341be"
+          },
+          "cauHoi": "What is Sofia worried about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a2147989-ed3c-4284-b0a1-f678d433a8dd"
+              },
+              "dapAn": "A. money robbery",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0c76d625-60ee-4c5d-9b73-8a8dcc75dea3"
+              },
+              "dapAn": "B. information theft",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "60bd57f6-64ff-4dfc-8b5a-3665b1ff7712"
+              },
+              "dapAn": "C. bank robbery",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c8ff4154-2caa-4f92-9843-e1086164a7fd"
+              },
+              "dapAn": "D. armed theft",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "02c2887f-7247-4f3a-bd8e-4600741b154a"
+          },
+          "cauHoi": "Does the host agree with Sofia’s worry? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "eab6c64d-f824-405b-ad9a-ed3ff33e17e8"
+              },
+              "dapAn": "A. No, he doesn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "27263853-88a6-44e7-8a60-e030b2120bdc"
+              },
+              "dapAn": "B. Yes, he does.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "88ee3101-6ff0-4c6a-84d5-c03e7101d11e"
+              },
+              "dapAn": "C. He doesn’t care.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "293aae6e-1a23-4e90-9568-dd6d0686f99f"
+              },
+              "dapAn": "D. He doesn’t understand.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "fba9697d-9863-4cc4-be69-36b3156cdc95"
+          },
+          "cauHoi": "What could be stolen if someone gets access to her computer?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "326b24fc-1061-4f4d-92df-f82bcd83ebcb"
+              },
+              "dapAn": "A. her photos",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "aa7d6494-df79-492b-97e4-6dbd2ff1f8da"
+              },
+              "dapAn": "B. her money",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3f8fd2f7-b8e7-4537-94c6-673642eb86cb"
+              },
+              "dapAn": "C. her information",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ba72a044-1e63-4ae4-a770-5fc295517643"
+              },
+              "dapAn": "D. her data",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "17a4a77a-59d6-4241-b1c9-ad6fff4631aa"
+          },
+          "cauHoi": "Who uses wireless devices in Sofia’s house?\n",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2e5631d8-29db-4f53-ae76-eda824838d51"
+              },
+              "dapAn": "A. only her",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fb118cba-b058-4e6e-9658-73a6dcf26f5a"
+              },
+              "dapAn": "B. her mom",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3138adb5-0574-4255-86e1-294cd7fb0ca1"
+              },
+              "dapAn": "C. her dad",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "85c45506-fba1-42e6-9191-97f5e9a7bf4e"
+              },
+              "dapAn": "D. everybody",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Sofia:</b></td>\n                        <td>One thing I do worry about is information theft. It must be awful.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Absolutely, it would be a person's worst nightmare. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Sofia:</b></td>\n                        <td>I can't imagine when someone breaks into my computer and steals all my data.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Can you tell us why you worry so much about that? </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Sofia:</b></td>\n                        <td>Well, everybody in my house uses wireless devices. </td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What is Sofia worried about?</b> <i>(Sofia lo lắng điều gì?),</i> <b></b>câu trong bài đọc liên quan là <b>One thing I do worry about is information theft.</b> <i>(</i><i>Một điều tôi lo lắng là đánh cắp thông tin</i></span><i>.).</i> Nên đáp án là <span style=\"color:red\"><b>B. information theft</b></span> <span style=\"color:red\"></span><i>(đánh cắp thông tin)</i>.<br />\n<b>2.</b> Với câu hỏi <b>Does the host agree with Sofia's worry?</b> <i>(Người dẫn chương trình có đồng ý với nỗi lo của Sofia không?),</i> <b></b>câu trong bài đọc liên quan là <b>Absolutely, it would be a person's worst nightmare.</b> <b><i></i></b><i>(</i><i>Chắc chắn rồi, đó hẳn sẽ là cơn ác mộng tồi tệ cho ai trải qua.</i></span><i>).</i> Nên đáp án là <span style=\"color:red\"><b>B. Yes, he does.</b></span> <span style=\"color:red\"></span><i>(Anh ấy có.).</i><br />\n<b>3.</b> Với câu hỏi <b>What could be stolen if someone gets access to her computer?</b> <i>(Nếu ai đó vào được máy tính của cô ấy thì cái gì sẽ bị đánh cắp?),</i> <b></b>câu trong bài đọc liên quan là <b>I can't imagine when someone breaks into my computer and steals all my data.</b> <i>(</i><i>Tôi không thể tưởng tượng được khi ai đó đột nhập vào máy tính của tôi và đánh cắp tất cả dữ liệu của tôi</i></span><i>).</i> Nên đáp án là <span style=\"color:red\"><b>D. her data</b></span> <span style=\"color:red\"></span><i>(dữ liệu của cô ấy).</i><br />\n<b>4.</b> Với câu hỏi <b>Who uses wireless devices in Sofia's house?</b> <i>(Ở trong nhà của Sofia, ai sử dụng các thiết bị không dây?)</i> <b></b>câu trong bài đọc liên quan là <b>Well, everybody in my house uses wireless devices.</b>  <i>(</i><i>Ừ thì, mọi người trong nhà tôi đều sử dụng thiết bị không dây.).</i></span> Nên đáp án là <span style=\"color:red\"><b>D. everybody</b></span> <span style=\"color:red\"></span><i>(mọi người).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d88dcae9-e44b-4c59-9293-af696762f628"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "cac4e8d0-b698-4aa4-9e4e-6318b92263a3"
+          },
+          "cauHoi": "What does the speaker worried about driverless car?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2de1b165-51a8-4732-b496-adce7fbb7a63"
+              },
+              "dapAn": "A. its safety",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "10db364b-77a0-47ea-961e-27214cc79499"
+              },
+              "dapAn": "B. its convinience",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6e06ee9e-0cf5-4318-8d7a-b7f1ae9f0b5e"
+              },
+              "dapAn": "C. its price",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "68e72fc0-2ebd-49ad-9d1c-74264c4cc69f"
+              },
+              "dapAn": "D. its benefits",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "82582c74-a053-460f-b570-2af7193b51fb"
+          },
+          "cauHoi": "Where’s there a lot of traffic?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b463367c-d90c-4d78-8954-e96cbb9dceeb"
+              },
+              "dapAn": "A. countrysides",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "11d6d94f-5ed4-4cd3-890b-a59a1b8df927"
+              },
+              "dapAn": "B. rural areas",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b2b31fc1-a38b-4d58-9392-776e4a1ab2df"
+              },
+              "dapAn": "C. capital cities",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "02934daa-9810-479c-9cd9-cd413a3918b7"
+              },
+              "dapAn": "D. big cities",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "2ab3c5fe-0af3-4a86-b9ca-ab8e4f1e31dd"
+          },
+          "cauHoi": "Does the speaker want to let her car drive?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "4845d056-7694-4e28-b873-e6ff1cf676b4"
+              },
+              "dapAn": "A. Yes, she does.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cef79e12-499f-4490-939b-20d90125ecaa"
+              },
+              "dapAn": "B. No, she doesn’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "acc06a94-83b3-4956-93fb-1270f1ee8985"
+              },
+              "dapAn": "C. Sometimes she does.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7a7976c4-17db-461d-9a22-ef548d4f5bb0"
+              },
+              "dapAn": "D. It depends.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "3edc077e-6d1c-4ab0-a554-b9d8ffd22228"
+          },
+          "cauHoi": "What does the speaking think driverless car will have a big impact on?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a5c03313-3d48-4341-9f73-db83a883b800"
+              },
+              "dapAn": "A. technology",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0b5c1a03-be61-42cd-844b-9ac2fbebde38"
+              },
+              "dapAn": "B. science",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "16469606-b9df-44db-b6e1-f233d6d4e0f0"
+              },
+              "dapAn": "C. transportation",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "db0689da-6320-4613-8b74-3dfc3c392b32"
+              },
+              "dapAn": "D. engineering",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Driverless cars are amazing but are those cars going to be safe in big cities, where there is a lot of traffic? I'm worried about that. I guess there are a lot of people who want to read or check their text messages and let their car drive, but not me! Anyway, I think driverless cars will have a huge effect on transportation.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What does the speaker worried about driverless car?</b> <b><i></i></b><i>(Người nói lo lắng điều gì về xe tự lái?),</i> <b></b>câu trong bài đọc liên quan là <b>Driverless cars are amazing but are those cars going to be safe in big cities, where there is a lot of traffic.</b> <i>(Xe tự lái thì tuyệt đấy nhưng liệu chúng có an toàn để đi trong những thành phố lớn nơi có rất nhiều xe cộ đi lại không.).</i> Nên đáp án là <span style=\"color:red\"><b>A. its safety</b></span> <span style=\"color:red\"></span><i>(sự an toàn của nó)</i>.<br />\n<b>2.</b> Với câu hỏi <b>Where's there a lot of traffic?</b> <b><i></i></b><i>(Nơi nào có nhiều xe cộ đi lại?),</i> <b></b>câu trong bài đọc liên quan là <b>but are those cars going to be safe in big cities, where there is a lot of traffic.</b> <i>(nhưng liệu chúng có an toàn để đi trong những thành phố lớn nơi có rất nhiều xe cộ đi lại không).</i> Nên đáp án là <span style=\"color:red\"><b>D. big cities</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(các thành phố lớn.).</i><br />\n<b>3.</b> Với câu hỏi <b>Does the speaker want to let her car drive?</b> <i>(Có phải người nói muốn xe cô ấy tự lái không?),</i> <b></b>câu trong bài đọc liên quan là <b>I guess there are a lot of people who want to read or check their text messages and let their car drive, but not me</b> <i>(Tôi đoán có nhiều người muốn đọc hoặc kiểm tra tin nhắn trong lúc lái xe, và muốn xe họ tự lái, nhưng tôi thì không.).</i> Nên đáp án là <span style=\"color:red\"><b>B. No, she doesn't.</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(Không.).</i><br />\n<b>4.</b> Với câu hỏi Is <b>What does the speaking think driverless car will have a big impact on?</b> <i>(Người nói nghĩ xe tự lái xe có ảnh hưởng lớn tới cái gì?)</i> <b></b>câu trong bài đọc liên quan <b>Anyway, I think driverless cars will have a huge effect on transportation.</b> <i>(Dù sao thì tôi nghĩ xe tự lái xe có ảnh hưởng lớn tới ngành vận tải</i><i>.</i></span><i>).</i> Nên đáp án là <span style=\"color:red\"><b>C. transportation</b></span> <i>(ngành vận tải).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7f4118cb-6436-4b0f-bf50-df5ea9807b12"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "2e1c2cb9-0678-40e3-a131-29eefcedf277"
+          },
+          "cauHoi": "What does the speaker do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2436558b-713a-4a77-a3da-5a142c9f78c7"
+              },
+              "dapAn": "A. model",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8b8abef8-d3b1-4683-a260-ca23d75ea3e2"
+              },
+              "dapAn": "B. photographer",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3cc112bb-a818-458c-a801-94ab9d8955b6"
+              },
+              "dapAn": "C. marketer",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "64a30918-7da5-4455-aa67-b3ce4b6a8f68"
+              },
+              "dapAn": "D. content creator",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "2179515a-b636-43b1-b8b0-20ed65ca7186"
+          },
+          "cauHoi": "What does she think the most interesting invention is?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3a71f1f4-6d45-437f-9071-50e63a6e35af"
+              },
+              "dapAn": "A. camera",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f75f17d3-02a3-4101-9c43-5e884f2ef157"
+              },
+              "dapAn": "B. computer",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3e0818ab-4962-461d-ae4e-5e7ed0efa273"
+              },
+              "dapAn": "C. internet",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9fccd3da-edf7-455c-a544-f976ed95f77f"
+              },
+              "dapAn": "D. car",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "8a7beb27-22d4-48a0-89c8-89a43c3a8cfd"
+          },
+          "cauHoi": "What kind of pictures the camera can take?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b12c1542-44d5-4729-92aa-f5c8a79c613e"
+              },
+              "dapAn": "A. 360-degree",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e0951bad-70c0-4ffb-9cba-1e70134d9991"
+              },
+              "dapAn": "B. 5-D",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c5999fd8-8ea1-419b-863f-27fda49b4905"
+              },
+              "dapAn": "C. 3-D",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a8f63a18-cc59-4089-a505-57f6b3aa6920"
+              },
+              "dapAn": "D. 2-D",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "87c2c001-2883-4365-9392-6ef85e819076"
+          },
+          "cauHoi": "Does it have any impact on her career?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3817439a-b330-4479-95db-de09209455c5"
+              },
+              "dapAn": "A. No, it doesn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7b82dcd2-2168-414f-868e-2c1211b1be4f"
+              },
+              "dapAn": "B. Yes, it does",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b3d7051c-0fb1-492a-93ac-6be26cf5f2a1"
+              },
+              "dapAn": "C. It depends.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5bd0074c-9b37-4399-88e4-b41cc2291bb7"
+              },
+              "dapAn": "D. It does to some extend.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Well, there are a lot of amazing new inventions. I'm a photographer and I think one of the most exciting inventions is a camera that can take 360-degree pictures. I'm really excited because these cameras are totally changing professional photography. I don't know if it's a historic invention, but it's important in my career.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What does the speaker do?</b> <b><i></i></b><i>(Người nói làm nghề gì?),</i> <b></b>câu trong bài đọc liên quan là <b>I'm a photographer.</b> <i>(Tôi là một nhiếp ảnh gia.).</i> Nên đáp án là <span style=\"color:red\"><b>B. photographer</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(nhiếp ảnh gia)</i>.<br />\n<b>2.</b> Với câu hỏi <b>What does she think the most interesting invention is?</b> <b><i></i></b><i>(Cô ấy nghĩ sáng chế thú vị nhất là gì?),</i> <b></b>câu trong bài đọc liên quan là <b>and I think one of the most exciting inventions is a camera that can take 360-degree pictures.</b> <i>(và tôi nghĩ một trong những phát minh thú vị nhất là máy ảnh có thể chụp ảnh 360 độ.)</i> Nên đáp án là <span style=\"color:red\"><b>A. camera</b></span> <i>(chiếc máy ảnh).</i><br />\n<b>3.</b> Với câu hỏi <b>What kind of pictures can the camera take?</b> <b><i></i></b><i>(Chiếc máy ảnh này có thể chụp loại ảnh như thế nào?),</i> <b></b>câu trong bài đọc liên quan là <b>I think one of the most exciting inventions is a camera that can take 360-degree pictures.</b> <i>(Tôi nghĩ một trong những phát minh thú vị nhất là máy ảnh có thể chụp ảnh 360 độ.).</i> Nên đáp án là <span style=\"color:red\"><b>A. 360-degree</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(360 độ).</i><br />\n<b>4.</b> Với câu hỏi Is <b>Does it have any impact on her career?</b> <b><i></i></b><i>(Nó có ảnh hưởng gì công việc của cô ấy không?),</i> <b></b>câu trong bài đọc liên quan là <b>I don't know if it's a historic invention, but it's important in my career.</b> <b><i></i></b><i>(Tôi không biết nó có phải là một sáng chế mang tính lịch sử hay không, nhưng nó rất quan trọng trong công việc của tôi.).</i> <i></i></span>Nên đáp án là <span style=\"color:red\"><b>B. Yes, it does.</b></span> <span style=\"color:red\"><b><i></i></b></span><i>(Có.).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "211fe7af-57b1-4171-a95c-1eeb2e146773"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "e0bbae58-f266-48ee-bb82-c68156dc9abd"
+          },
+          "cauHoi": "When does the show start?\n",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c020d48b-faef-4dfa-be81-77a3c7cca52c"
+              },
+              "dapAn": "A. in the morning",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2f662d96-f8d5-439d-8368-00cac45ce782"
+              },
+              "dapAn": "B. in the evening",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "49439c79-195d-4420-b0c1-78a0ed6f8815"
+              },
+              "dapAn": "C. at noon",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2db9d611-b693-43ba-a11a-a13a898a4c7b"
+              },
+              "dapAn": "D. at night",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "640938b0-0570-4629-8227-7edb23ff6153"
+          },
+          "cauHoi": "Where is the host right now?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "eab55741-182f-46a7-b999-668455b45087"
+              },
+              "dapAn": "A. on a street",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "7432b364-9d61-4d00-abcc-883ca90211b9"
+              },
+              "dapAn": "B. in a pub",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "461f4089-43ed-49f6-a8da-839b0ec1b5be"
+              },
+              "dapAn": "C. in a supermarket",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "86186b63-10d1-4213-869e-c7d697968858"
+              },
+              "dapAn": "D. in a mall",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "1a935e79-65fd-4415-9c93-a11ad92d4680"
+          },
+          "cauHoi": "What does the host ask people about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f4df4d78-f79e-48c4-bf95-584f08de6c52"
+              },
+              "dapAn": "A. their opinion",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "5bf5bf0d-a0ce-49b4-a4c3-3992a4eb6f50"
+              },
+              "dapAn": "B. their hobbies",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b0e5ed9d-3924-4bb1-80a3-f1c4681c95f1"
+              },
+              "dapAn": "C. their jobs",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d963cfd6-d1da-41d3-b072-428b25da3525"
+              },
+              "dapAn": "D. their feelings",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "fe5e1dce-b3dc-4fc0-b9e4-78b4eeac5fd1"
+          },
+          "cauHoi": "What are the opinions about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b62986f6-4c86-4315-8887-86badf76db65"
+              },
+              "dapAn": "A. 21st century inventions",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "8f34aabb-25b0-4c8e-baa0-4408ce01708d"
+              },
+              "dapAn": "B. 21st century technology",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4ba61bb8-cb4b-497a-828a-46fba408b6de"
+              },
+              "dapAn": "C. 20th century technology",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6f52bf2a-f1c7-42ca-8215-a762723e55a5"
+              },
+              "dapAn": "D. 20th century inventions",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Good evening everyone. I'm Melissa Warren and for today's show. I'm on a street where lots of young people hang out on Saturday evenings. I'm going to ask some people their opinions about inventions from the first two decades of the 21st century, and which inventions they think will be considered the most historic in the future.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>When does the show start?</b> <b><i></i></b><i>(Chương trình bắt đầu lúc nào?),</i> <b></b>câu trong bài đọc liên quan là <b>Good evening everyone</b> <i>(Chào buổi tối mọi người.).</i> Nên đáp án là <span style=\"color:red\"><b>B. in the evening</b></span> <span style=\"color:red\"></span><i>(vào buổi tối)</i>.<br />\n<b>2.</b> Với câu hỏi <b>Where is the host right now?</b> <b><i></i></b><i>(Người dẫn chương trình đang ở đâu?)</i> <b></b>câu trong bài đọc liên quan là <b>I'm on a street where lots of young people hang out on Saturday evenings.</b> <i>(Tôi đang ở trên con đường nơi mà rất nhiều người trẻ đi chơi vào các tối thứ Bảy.).</i> Nên đáp án là <span style=\"color:red\"><b>A. on a street</b></span> <i>(trên một con đường).</i><br />\n<b>3.</b> Với câu hỏi <b>What does the host ask people about?</b> <i>(Người dẫn chương trình hỏi mọi người về điều gì?),</i> <b></b>câu trong bài đọc liên quan là <b>I'm going to ask some people their opinions about inventions from the first two decades of the 21st century</b> <i>(Tôi sẽ hỏi mọi người về quan điểm của họ về những sáng chế trong hai thập kỷ đầu của thế kỷ 21.).</i> Nên đáp án là <span style=\"color:red\"><b>A. their opinion</b></span> <i>(quan điểm của họ).</i><br />\n<b>4.</b> Với câu hỏi Is <b>What are the opinions about?</b> <i>(Những quan điểm về điều gì?),</i> <b></b>câu trong bài đọc liên quan <b>I'm going to ask some people their opinions about inventions from the first two decades of the 21st century.</b> <i>(Tôi sẽ hỏi mọi người về quan điểm của họ về những sáng chế trong hai thập kỷ đầu của thế kỷ 21.).</i> Nên đáp án là <span style=\"color:red\"><b>A. 21</b></span><span style=\"color:red\"><b>st</b></span> <span style=\"color:red\"></span><span style=\"color:red\"><b>century inventions</b></span> <i>(những sáng chế của thế kỷ 21).</i>",
+      "danhSachDapAn": []
+    }
+  ]
+}

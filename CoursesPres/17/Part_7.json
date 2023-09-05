@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P7",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "f97f1149-3400-4bb0-8021-b8c9673f81cf"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <b><span style=\"color:blue\">(be)</span></b> Francesca.",
+      "yNghia": "<b>I</b> là chủ ngữ ngôi thứ nhất số ít, nên động từ <i>to be</i> theo sau sẽ là <b>am</b>. Câu hoàn chỉnh là <b>I <span style=\"color:red\">am</span> Francesca.</b> <i>(Mình <span style=\"color:red\">là</span> Francesca.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "96e292b7-f052-4506-b91b-40a4b1096f9c"
+          },
+          "dapAn": "am",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "21665655-ce6d-48da-ba0d-2b9e0b1b5450"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <b><span style=\"color:blue\">(be)</span></b> from New York.",
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít, nên động từ <i>to be</i> theo sau sẽ là <b>am</b>. Câu hoàn chỉnh là <b>I <span style=\"color:red\">am</span> from New York</b><b>.</b> <i>(Mình đến từ New York).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2e73e847-d830-46b7-be41-2cf1a0f6ec79"
+          },
+          "dapAn": "am",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3c3d82d3-3a55-4f9c-b273-f8c962c64e3c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What ____ <b><span style=\"color:blue\">(be)</span></b> your major?",
+      "yNghia": "<b>Your major </b>là chủ ngữ số ít, nên động từ <i>to be</i> theo sau sẽ là <b>is</b>. Câu hoàn chỉnh là <b>What <span style=\"color:red\">is</span> your major.</b> <i>(Chuyên ngành của bạn <span style=\"color:red\">là</span> gì vậy?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fc9e0bfb-5305-44f6-bf97-32490d52a231"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "92d56a1c-8ab3-4b4f-9a3d-8dbe410378b7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I _____ <b><span style=\"color:blue\">(study)</span></b> Art.",
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít, nên động từ theo sau được chia ở dạng nguyên thể là <b>study</b>. Câu hoàn chỉnh là <b>I <span style=\"color:red\">study </span>Art.</b> <i>(Mình <span style=\"color:red\">học</span> ngành Mỹ thuật.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "88ecbb93-b7d5-4e40-9563-0c1356728332"
+          },
+          "dapAn": "study",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ef367ebb-0519-4f50-af01-2166754e57c3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What can you ____ <b><span style=\"color:blue\">(draw)</span></b>?",
+      "yNghia": "Sau<b> can </b>là động từ nguyên thể nên động từ <b>draw </b>được chia ở dạng nguyên thể.<b> </b>Câu hoàn chỉnh là <b>What can you <span style=\"color:red\">draw</span>?</b><i> (Bạn có thể <span style=\"color:red\">vẽ</span> gì vậy?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1dc2ff9d-70ed-4847-9eb7-8dc1d307f9f6"
+          },
+          "dapAn": "draw",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9bd87a6b-de39-4558-97e1-6d814de45ce2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you ____ <b><span style=\"color:blue\">(draw)</span></b> animals?",
+      "yNghia": "Sau<b> can </b>là động từ nguyên thể nên động từ <b>draw </b>được chia ở dạng nguyên thể.<b> </b>Câu hoàn chỉnh là <b>Can you <span style=\"color:red\">draw</span> animals?</b> <i>(Bạn có thể <span style=\"color:red\">vẽ</span> động vật được không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "493408ef-6074-4f8d-b4a0-76aaad83a4d1"
+          },
+          "dapAn": "draw",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a082c20b-13b0-47f3-b6f3-d4ab0145e6ee"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <b><span style=\"color:blue\">(love)</span></b> drawing animals.",
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít, nên động từ theo sau được chia ở dạng nguyên thể là <b>love</b>. Câu hoàn chỉnh là <b>I <span style=\"color:red\">love</span> drawing animals.</b> <i>(Mình <span style=\"color:red\">rất thích</span> vẽ động vật.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "62467734-2157-438a-af34-4841a8bc4a91"
+          },
+          "dapAn": "love",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3c79fc3f-f4fa-4a6c-bb3c-60fc14581be3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you ____ <b><span style=\"color:blue\">(like)</span></b> sports?",
+      "yNghia": "Trong câu hỏi có trợ động từ <b>Do</b> thì động từ được chia ở dạng nguyên thể là <b>like</b>. Câu hoàn chỉnh là <b>Do you <span style=\"color:red\">like</span> sports?</b> <i>(Bạn có <span style=\"color:red\">thích</span> thể thao không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "40c01e2e-e33a-4194-bc5f-d13e6e962226"
+          },
+          "dapAn": "like",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "60cf5492-9a9e-4079-b27b-de5bd2b24096"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you ______ <b><span style=\"color:blue\">(swim)</span></b>?",
+      "yNghia": "Sau<b> can </b>là động từ nguyên thể nên động từ <b>swim </b>được chia ở dạng nguyên thể. Câu hoàn chỉnh là <b>Can you <span style=\"color:red\">swim</span>?</b> <i>(Bạn có thể <span style=\"color:red\">bơi</span> chứ?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "08c1b800-7ca5-43c3-b3e8-4d2e1a8b2e4e"
+          },
+          "dapAn": "swim",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "45714090-05da-400d-bfdb-fded96092d59"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I can't ____ <b><span style=\"color:blue\">(swim)</span></b>, but I can do karate.",
+      "yNghia": "Sau<b> can't </b>là động từ nguyên thể nên động từ <b>swim </b>được chia ở dạng nguyên thể. Câu hoàn chỉnh là <b>I can't</b> <b><span style=\"color:red\">swim</span>, but I can do karate.</b> <i>(</i><i>Mình không biết <span style=\"color:red\">bơi</span>, nhưng mình có thể đánh võ karate.</i><i>).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b9841822-ebac-4b3d-95f9-f53f96777228"
+          },
+          "dapAn": "swim",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8308f5a9-9d91-43db-9e37-58bf8eab1883"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I can't ____ <b><span style=\"color:blue\">(do)</span></b> karate, but I can play soccer.",
+      "yNghia": "Sau<b> can't </b>là động từ nguyên thể nên động từ <b>do </b>được chia ở dạng nguyên thể. Câu hoàn chỉnh là <b>I can't</b> <b><span style=\"color:red\">do</span> karate, but I can play soccer.</b> <i>(Mình không biết đánh võ karate, nhưng mình có thể chơi bóng đá.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "eb4473b8-ac90-46c9-9777-33443ea1c15a"
+          },
+          "dapAn": "do",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "920259a2-b0a9-4e22-afc2-9722978604c1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How often __________ <b><span style=\"color:blue\">(you / play)</span></b> soccer?",
+      "yNghia": "Trong câu hỏi có trợ động từ <b>do</b> thì động từ được chia ở dạng nguyên thể là <b>play</b>. Câu hoàn chỉnh là <b>How often <span style=\"color:red\">do you play</span> soccer?</b> <i>(Bạn có thường <span style=\"color:red\">chơi</span> bóng đá không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6686bc88-bb1b-44fd-bc6b-3f07b6e8a4bd"
+          },
+          "dapAn": "do you play",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "404d3212-6cbc-4e48-bfcd-10e6f4923341"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <b><span style=\"color:blue\">(play)</span></b> soccer once a week.",
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít, nên động từ theo sau được chia ở dạng nguyên thể là <b>play</b>. Câu hoàn chỉnh là <b>I <span style=\"color:red\">play </span>soccer once a week.</b> <i>(Mình <span style=\"color:red\">chơi</span> bóng đá một lần một tuần.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "df0e97f8-5830-4d1f-9315-feebfa427537"
+          },
+          "dapAn": "play",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "83adfc8b-ce19-4d3d-8e52-704757d15c0e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How do you often ____ <b><span style=\"color:blue\">(do)</span></b> karate in your free time?",
+      "yNghia": "Trong câu hỏi có trợ động từ <b>do</b> thì động từ được chia ở dạng nguyên thể là <b>do</b>. Câu hoàn chỉnh là <b>Do you often</b> <b><span style=\"color:red\">do</span> karate in your free time?</b> <i>(Bạn có thường tập võ karate trong thời gian rảnh không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ae95c2f8-d4bc-4b7c-9444-e2763bb73588"
+          },
+          "dapAn": "do",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e4aa904-3608-4d36-9e45-bacc08648bf9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Our college ____ <b><span style=\"color:blue\">(have)</span></b> over 75 sports clubs.",
+      "yNghia": "<b>Our college </b>là chủ ngữ số ít, nên động từ theo sau được chia là <b>has</b>. Câu hoàn chỉnh là <b>Our college <span style=\"color:red\">has</span> over 75 sports clubs.</b> <i>(Trường đại học của chúng ta <span style=\"color:red\">có</span> hơn 75 câu lạc bộ thể thao.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9b07908a-e761-4150-a324-207c6f4ab45a"
+          },
+          "dapAn": "has",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f439caf4-2be8-4c70-9b9c-88c453a5bdda"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____ <b><span style=\"color:blue\">(be)</span></b> you in any sports club?",
+      "yNghia": "<b>you </b>là chủ ngữ ngôi thứ hai, nên động từ <i>to be</i> theo sau sẽ là <b>are</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">Are</span> you in any sports club?</b> <i>(Bạn có tham gia câu lạc bộ thể thao nào không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fbbf82de-d7dd-4e8f-aaa7-78d3d17f82c4"
+          },
+          "dapAn": "Are",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ee0de476-cdd0-49e8-83c9-bc1c48d4a6cf"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <b><span style=\"color:blue\">(be)</span></b> in the Football Club.",
+      "yNghia": "<b>I </b>là chủ ngữ ngôi thứ nhất số ít, nên động từ <i>to be</i> theo sau sẽ là <b>am</b>. Câu hoàn chỉnh là <b>I <span style=\"color:red\">am</span> in the Football Club.</b> <i>(Mình tham gia Câu lạc bộ Bóng đá.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c6f81f36-3e3c-4ede-86c7-b122c3bc0441"
+          },
+          "dapAn": "am",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ce1929ae-25ce-411b-b805-c10fe2345e34"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That ____ <b><span style=\"color:blue\">(be)</span></b> great.",
+      "yNghia": "Sau <b>That </b>là động từ <i>to be</i><b> is. </b>Câu hoàn chỉnh là <b>That</b> <b><span style=\"color:red\">is</span> great.</b> <i>(Tuyệt đó.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e89fe5af-e755-41bf-82bc-1bae983eee57"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "174fae1a-c997-4aaf-8a4c-f9a78d2fea2f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you think I can ____<b> <span style=\"color:blue\">(join)</span> </b>the karate club?",
+      "yNghia": "Sau<b> can </b>là động từ nguyên thể nên động từ <b>join </b>được chia ở dạng nguyên thể. Câu hoàn chỉnh là <b>Do you think I can</b> <b><span style=\"color:red\">join</span> the karate club?</b> <i>(Bạn nghĩ mình có thể <span style=\"color:red\">tham gia</span> câu lạc bộ karate được không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "443e1909-77c8-4917-ac2b-212655efc4fd"
+          },
+          "dapAn": "join",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e2a37369-5a4d-4b48-958a-b31ffe4a3a2c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There ____ <b><span style=\"color:blue\">(be)</span></b> a club for every sport!",
+      "yNghia": "<b>a club</b> là cụm danh từ số ít, nên động từ <i>to be </i>đi kèm là<i> </i><b> is. </b>Câu hoàn chỉnh là <b>There <span style=\"color:red\">is</span> a club for every sport!</b> <i>(Có một câu lạc bộ cho mỗi môn thể thao mà!).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9589dcc3-d55a-4517-9c23-0efac747af57"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

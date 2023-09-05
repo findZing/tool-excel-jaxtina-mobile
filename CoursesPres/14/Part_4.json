@@ -1,0 +1,402 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "Grammar",
+  "videoUrl": "4SKILLS_PRE_S_L14/grammar.mp4",
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:00:56",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "16e6d144-77c0-400d-90a1-2ccdbd0f8b91",
+                "dapAn": "Where"
+              },
+              {
+                "_id": "6f027365-15ac-45ec-9ab6-64642dcd2c7b",
+                "dapAn": "do you"
+              },
+              {
+                "_id": "24f66ce4-5cdc-428e-abff-8b4406c0a8ca",
+                "dapAn": "go in"
+              },
+              {
+                "_id": "d40c021a-2a79-467b-ba99-7df6cf5918f0",
+                "dapAn": "the"
+              },
+              {
+                "_id": "72dd221b-266c-400a-b24e-e3cfffd120e7",
+                "dapAn": "evening?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "930eb197-59b4-49e6-85ce-51398b5391fc",
+                "dapAn": "What do"
+              },
+              {
+                "_id": "146e6ef8-ba3e-4f40-8ee1-7457d8d87e64",
+                "dapAn": "students"
+              },
+              {
+                "_id": "2ba8a2b7-25cb-4223-9173-7c15c378444b",
+                "dapAn": "learn at"
+              },
+              {
+                "_id": "df041327-3200-4a19-8931-8450a41ecc37",
+                "dapAn": "college?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "39e19698-30bd-4687-a456-7db22209ba75",
+                "dapAn": "How much"
+              },
+              {
+                "_id": "cf38ba82-3da3-4266-ac7e-573c79bb3498",
+                "dapAn": "does a"
+              },
+              {
+                "_id": "83e603bc-0a2d-49ec-a206-cf3503ba9197",
+                "dapAn": "course"
+              },
+              {
+                "_id": "50117fbe-cdc3-4d8d-951f-ba67f6cead51",
+                "dapAn": "cost?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "e4b363c4-0d39-4fb4-8d42-7bec0ce5d81c",
+                "dapAn": "When"
+              },
+              {
+                "_id": "2d7ecf6c-3818-4ddf-aee0-f44ca37b9c5d",
+                "dapAn": "do you"
+              },
+              {
+                "_id": "026950c5-7ad0-40b0-a40f-49b0e0f42815",
+                "dapAn": "get to"
+              },
+              {
+                "_id": "a45dffb4-752e-42b4-ad72-203bb377afcd",
+                "dapAn": "work?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "d6aabe71-cfd1-492e-88d8-ff48a630740b",
+                "dapAn": "What does"
+              },
+              {
+                "_id": "629c6b93-5e16-413f-92ff-2e63d913148a",
+                "dapAn": "your"
+              },
+              {
+                "_id": "86ada954-43a3-4643-878f-99704e3dd32a",
+                "dapAn": "family do"
+              },
+              {
+                "_id": "17918be2-5d95-4484-a2cf-4eff2f1a6ed9",
+                "dapAn": "on the"
+              },
+              {
+                "_id": "053ac08b-8678-46d4-bd0d-ad1e79b36f60",
+                "dapAn": "weekend?"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:00:56",
+      "timeEnd": "0:07:17",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P5",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "It’s across from the bookstore. // The correct function: __________",
+            "_id": "dbc6b400-4c2d-4ebb-9c41-b4ab817d9435",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "asking for directions",
+                "_id": "56823dc2-1247-415e-a5ef-ce5383a75111"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "giving directions",
+                "_id": {
+                  "$oid": "d1fdd410-4306-4be4-b4e0-fa824f0dc3d6"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "finishing directions",
+                "_id": {
+                  "$oid": "3370c1cc-003f-4b7c-9968-97b8a50942be"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "Take the first left. // The correct function: __________",
+            "_id": "59bf3a85-014b-41d9-bc06-cc1aece08f9f",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "giving directions",
+                "_id": "53487796-b137-4005-9f9d-2f168056bc5f"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "finishing directions",
+                "_id": {
+                  "$oid": "60d86585-11e4-4a88-8b13-2967b9d12221"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "asking for directions",
+                "_id": {
+                  "$oid": "235087dc-6a6c-47cf-aaef-5434cf63521d"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "Where’s the park? // The correct function: __________",
+            "_id": "cc83b353-9336-4b36-a59e-058906bcfcbd",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "giving directions",
+                "_id": "ac307f4f-8fcf-45d9-9e77-95b234556651"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "finishing directions",
+                "_id": {
+                  "$oid": "ca5c3ddf-78fa-4b84-a514-748df28089f2"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "asking for directions",
+                "_id": {
+                  "$oid": "cfa98673-9c3a-47f0-acf8-56f90a762f5b"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "Excuse me, is the museum near here? // The correct function: __________",
+            "_id": "84186806-01ae-465c-9b94-1234c6aca370",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "giving directions",
+                "_id": "2d160c21-9128-4903-8b2a-3418ccc05d92"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "finishing directions",
+                "_id": {
+                  "$oid": "3f14c809-a773-4d3c-bc41-3fceaf132102"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "asking for directions",
+                "_id": {
+                  "$oid": "606d40a9-7343-4e2d-99df-d80e2d3980d9"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:07:17",
+      "timeEnd": "0:07:26",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "a720f804-ba59-44d8-bc43-5ed35baea07a",
+                "dapAn": "Go"
+              },
+              {
+                "_id": "2efe13fb-6587-43b3-9e13-c451357434c6",
+                "dapAn": "straight"
+              },
+              {
+                "_id": "b4761db6-72a1-42cc-926c-9b97c04b555b",
+                "dapAn": "up this"
+              },
+              {
+                "_id": "91603a7e-5bf1-4266-96db-1657c161a8df",
+                "dapAn": "street."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "76bfa884-80f8-4d01-9929-8291888a1515",
+                "dapAn": "It's"
+              },
+              {
+                "_id": "068819e3-8fdd-4247-a566-16aef111571e",
+                "dapAn": "between"
+              },
+              {
+                "_id": "2945409d-3fde-4b1a-adcd-baf83f8fc227",
+                "dapAn": "the store"
+              },
+              {
+                "_id": "ee19ea35-b52b-41ef-844e-81b70795a1f9",
+                "dapAn": "and the"
+              },
+              {
+                "_id": "34b6066c-bcb5-4216-b848-9358b7190586",
+                "dapAn": "restaurant."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "389d911f-1e12-43d2-bba8-12e2d0e786ea",
+                "dapAn": "Excuse me,"
+              },
+              {
+                "_id": "934f1d4f-d72e-47b6-abdd-056241af71e2",
+                "dapAn": "where is"
+              },
+              {
+                "_id": "90b1d930-c0a6-41bb-9a8c-2a7d78ebc7af",
+                "dapAn": "the"
+              },
+              {
+                "_id": "497cbefd-1a30-4e39-a446-4e2710012305",
+                "dapAn": "bookstore?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "30faa81c-2fa3-430d-8f2a-ddd52cb2de99",
+                "dapAn": "Turn left"
+              },
+              {
+                "_id": "8b2fe371-a917-4772-af33-730daebf19d1",
+                "dapAn": "and take"
+              },
+              {
+                "_id": "652626f2-5058-4a24-a7b1-bb1fa9025236",
+                "dapAn": "the second"
+              },
+              {
+                "_id": "df763db6-830d-4877-9709-c92062ba9093",
+                "dapAn": "right."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "8e277df0-3196-4148-a10c-22b799417cb4",
+                "dapAn": "The coffee"
+              },
+              {
+                "_id": "78f78f25-ba1b-4cb5-b8be-2649d7ad7135",
+                "dapAn": "shop is"
+              },
+              {
+                "_id": "605bd108-830f-4d1e-b3c8-110b9c7de260",
+                "dapAn": "on the"
+              },
+              {
+                "_id": "f27367ee-e70d-48bc-bd9f-08de8c75984b",
+                "dapAn": "corner of"
+              },
+              {
+                "_id": "17e7f20e-c569-4eaf-be78-917034d9a9f2",
+                "dapAn": "Fourth Main."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "602d5751-6675-4abc-9b4d-cc479743ba2b",
+                "dapAn": "The ATM"
+              },
+              {
+                "_id": "585e0752-bbff-4d19-a7a8-fc59e50dcce8",
+                "dapAn": "is across"
+              },
+              {
+                "_id": "d55d73a5-abe7-4304-bcb4-808efbdc0a37",
+                "dapAn": "from the"
+              },
+              {
+                "_id": "fef8c895-600e-401d-b642-8e919d53fd10",
+                "dapAn": "college."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "noiDungVideo": [
+    {
+      "timeEnd": "0:00:57.12",
+      "noiDung": "<span style=\"color:red\"><b>Simple present information questions <i>(Câu hỏi thông tin ở thì hiện tại đơn)</i><br />\n1. Function <i>(Cách dùng)</i></b></span><br />\nChúng ta sử dụng các câu hỏi thông tin ở thì hiện tại đơn để hỏi về một số điều như: <b><i>Where</i></b> để hỏi về một địa điểm, <b><i>What</i></b> để hỏi về một thông tin chung, <b><i>When</i></b> <i></i>để hỏi về thời gian, <b><i>How much</i></b> <i></i>để hỏi về giá cả...<br />\n<br />\n<span style=\"color:red\"><b>2. Form <i>(Cấu trúc)</i></b></span><br />\nChúng ta sử dụng <b><i>do</i></b> cho <i>I / you / we/ they</i>, và <b><i>does</i></b> cho <i>he / she / it.</i>\n<table>\n        <tbody>\n                <tr>\n                        <td><b>Question Word</b><br />\n                        <b><i>(Từ để hỏi)</i></b></td>\n                        <td><b>Do/Does</b></td>\n                        <td><b>Subject</b><br />\n                        <b><i>(Chủ ngữ)</i></b></td>\n                        <td><b>Infinitive verb</b><br />\n                        <b><i>(Động từ nguyên mẫu)</i></b></td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">Where</td>\n                        <td><b>does</b></td>\n                        <td><b>he</b></td>\n                        <td>go?</td>\n                </tr>\n                <tr>\n                        <td><b>do</b></td>\n                        <td><b>I</b></td>\n                        <td>sit?</td>\n                </tr>\n                <tr>\n                        <td>What</td>\n                        <td><b>does</b></td>\n                        <td><b>she</b></td>\n                        <td>visit?</td>\n                </tr>\n                <tr>\n                        <td>When</td>\n                        <td><b>does</b></td>\n                        <td><b>it</b></td>\n                        <td>open?</td>\n                </tr>\n                <tr>\n                        <td>How much</td>\n                        <td><b>do</b></td>\n                        <td><b>they</b></td>\n                        <td>cost?</td>\n                </tr>\n        </tbody>\n</table>"
+    },
+    {
+      "timeEnd": "0:07:17.20",
+      "noiDung": "<b><span style=\"color:red\">Imperatives <i>(Câu mệnh lệnh)</i></span></b><br />\n<b>* Các cách hỏi đường thường gặp</b>:\n<table>\n        <tbody>\n                <tr>\n                        <td colspan=\"4\"><b>Ask for Directions</b><br />\n                        <b><i>(Hỏi xin chỉ dẫn)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>Question Word</b><br />\n                        <b><i>(Từ để hỏi)</i></b></td>\n                        <td><b>Verb</b><br />\n                        <b><i>(Động từ)</i></b></td>\n                        <td><b>Object</b><br />\n                        <b><i>(Tân ngữ)</i></b></td>\n                        <td> </td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">Where</td>\n                        <td rowspan=\"2\">is / ‘s</td>\n                        <td>this park?</td>\n                        <td> </td>\n                </tr>\n                <tr>\n                        <td>the bus station</td>\n                        <td>near here?</td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<b>Function <i>(Cách dùng)</i></b><br />\nChúng ta dùng câu mệnh lệnh để đưa ra chỉ dẫn đến một địa điểm cụ thể. Dùng câu hỏi ở thì hiện tại đơn hoặc câu hỏi với động từ <i>to be</i> để hỏi xin chỉ dẫn, dùng câu với động từ <i>to be</i> để kết thúc chỉ dẫn.<br />\n<br />\n<b>Form <i>(Cấu trúc)</i></b> <br />\nCâu mệnh lệnh không sử dụng chủ ngữ mà bắt đầu bằng động từ chính.\n<table>\n        <tbody>\n                <tr>\n                        <td colspan=\"2\"><b>Give Directions</b><br />\n                        <b><i>(Đưa ra chỉ dẫn)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>Verb</b><br />\n                        <b><i>(Động từ)</i></b></td>\n                        <td><b>Directions</b><br />\n                        <b><i>(Chỉ dẫn)</i></b></td>\n                </tr>\n                <tr>\n                        <td>Go</td>\n                        <td>straight up Main Street.</td>\n                </tr>\n                <tr>\n                        <td>Take</td>\n                        <td>the first left.</td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<table>\n        <tbody>\n                <tr>\n                        <td colspan=\"3\"><b>Finish Directions</b><br />\n                        <b><i>(Kết thúc chỉ dẫn)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>Subject</b><br />\n                        <b><i>(Chủ ngữ)</i></b></td>\n                        <td><b>Verb</b><br />\n                        <b><i>(Động từ)</i></b></td>\n                        <td><b>Directions</b><br />\n                        <b><i>(Chỉ dẫn)</i></b></td>\n                </tr>\n                <tr>\n                        <td>It</td>\n                        <td rowspan=\"2\">is / ‘s</td>\n                        <td>next to the college.</td>\n                </tr>\n                <tr>\n                        <td>The hotel</td>\n                        <td>on the right.</td>\n                </tr>\n        </tbody>\n</table>"
+    },
+    {
+      "timeEnd": "0:07:27.04",
+      "noiDung": null
+    }
+  ]
+}

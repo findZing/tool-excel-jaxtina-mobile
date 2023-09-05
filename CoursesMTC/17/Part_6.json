@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "22ea9caf-39b9-4eb2-8634-82f3d64d73ef"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jane:</b></td>\n                        <td>Hey Molly, did you read the news about MTC company?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Molly:</b></td>\n                        <td>Yes, I read it yesterday. I was shocked but I know it's just a <b>(1) ____</b>.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jane:</b></td>\n                        <td>How do you know that? Many people talk about it.</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Molly:</b></td>                        <td>I have some <b>(2) ____ </b>to find the <b>(3) ____ </b>stories among the fake news.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jane:</b></td>\n                        <td>Please, tell me about it. It's a waste of time reading <b>(4) ____</b>.</td>\n                </tr>\n        </tbody>\n</table>\n",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td>\n                        <table>\n                                <tbody>\n                                        <tr>\n                                                <td style=\"vertical-align: top;\"><b>Jane:</b></td>\n                                                <td>Hey Molly, did you read the news about MTC company?<br />\n                                                <i>Này Molly, bạn đã đọc tin tức về công ty MTC chưa?</i></span> </td>\n                                        </tr>\n                                        <tr>\n                                                <td style=\"vertical-align: top;\"><b>Molly:</b></td>\n                                                <td>Yes, I read it yesterday. I was shocked but I know it's just a <b>(1)</b> <span style=\"color:red\"><b>rumor</b></span> .<br />\n                                                <i>Ừ, tôi đã đọc nó ngày hôm qua. Tôi đã bị sốc nhưng tôi biết đó chỉ là một </i></span> <span style=\"color:red\"><i>tin đồn</i></span> <i>.</i></span> </td>\n                                        </tr>\n                                        <tr>\n<td style=\"vertical-align: top;\"><b>Jane:</b></td>                                                <td>How do you know that? Many people talk about it.<br />\n                                                <i>Làm sao bạn biết điều đó vậy? Nhiều người nói về nó lắm.</i></span> </td>\n                                        </tr>\n                                        <tr>\n<td style=\"vertical-align: top;\"><b>Molly:</b></td>                                                <td>I have some <b>(2)</b> <span style=\"color:red\"><b>steps</b></span>  to find the <b>(3)</b> <span style=\"color:red\"><b>real </b></span> stories among the fake news.<br />\n                                                <i>Tôi có </i></span> <i>một số </i><span style=\"color:red\"><i>bước </i></span> <i>để tìm ra những câu chuyện </i></span> <span style=\"color:red\"><i>có thật </i></span> <i>giữa những </i></span> <i>tin giả</i><i>.</i></span> </td>\n                                        </tr>\n                                        <tr>\n<td style=\"vertical-align: top;\"><b>Jane:</b></td>                                                <td>Please, tell me about it. It's a waste of time reading <b>(4)</b> <span style=\"color:red\"><b>disinformation</b></span> .<br />\n                                                <i>Nói cho tôi về nó đi. Thật lãng phí thời gian khi đọc </i></span> <span style=\"color:red\"><i>thông tin sai lệch</i></span> <i>.</i></td>\n                                        </tr>\n                                </tbody>\n                        </table>\n                        </td>\n                </tr>\n        </tbody>\n</table>\n",
+      "danhSachDapAn": [
+        {
+          "dapAn": "rumor",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "9f842b8d-6889-435e-9207-e985b35559a9"
+          }
+        },
+        {
+          "dapAn": "steps",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ec3fb9a1-67b0-41f2-af2b-fbd71e6d8d79"
+          }
+        },
+        {
+          "dapAn": "real",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c98baa0d-c24e-43c9-a5fe-cf1370044dca"
+          }
+        },
+        {
+          "dapAn": "disinformation",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c9544101-24d3-4b99-934c-d2814c6c3026"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "755f3558-38fd-49c6-9d44-c95c036bfab8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Molly:</b></td>                        <td colspan=\"2\">Alright. First, <b>(1)</b> <b>____</b> about the source. Look at the website that the story <b>(2)</b> <b>____</b>.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jane:</b></td>\n                        <td colspan=\"2\">I have to check whether it's <b>(3)</b> <b>____</b> or not?</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Molly:</b></td>                        <td colspan=\"2\">Exactly. Then you check the text on the website. It may not be very <b>(4)</b> <b>____</b>.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jane:</b></td>\n                        <td colspan=\"2\">I got it. I need to check the website, the text. <br />\n                </tr>\n        </tbody>\n</table>\n",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Molly:</b></td>                        <td>Alright. First, <b>(1)</b> <span style=\"color:red\"><b>find out</b></span> <span style=\"color:red\"> </span> about the source. Look at the website that the story <b>(2)</b> <span style=\"color:red\"><b>comes from</b></span> .<br />\n                        <i>Được rồi. Đầu tiên, hãy </i></span> <span style=\"color:red\"><i>tìm hiểu </i></span> <i>về nguồn. Xem câu chuyện </i></span> <span style=\"color:red\"><i>đến từ </i></span> <i>trang web nào.</i></span> </td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Jane:</b></td>                        <td>I have to check whether it's <b>(3)</b> <span style=\"color:red\"><b>reliable</b></span>  or not?<br />\n                        <i>Tôi phải kiểm tra xem nó có </i></span> <span style=\"color:red\"><i>đáng tin cậy </i></span> <i>hay không à?</i></span> </td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Molly:</b></td>                        <td>Exactly. Then you check the text on the website. It may not be very <b>(4)</b> <span style=\"color:red\"><b>well-written</b></span> .<br />\n                        <i>Chính xác. Sau đó, bạn kiểm tra văn bản trên trang web. Có thể người ta </i></span> <span style=\"color:red\"><i>viết </i></span> <i>sẽ không </i></span> <span style=\"color:red\"><i>hay </i></span> <i>đâu.</i></span> </td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Jane:</b></td>                        <td>I got it. I need to check the website, the text. <br />\n                        <i>Tôi hiểu rồi. Tôi cần kiểm tra trang web, văn bản.</i></span> </td>\n                </tr>\n        </tbody>\n</table>\n",
+      "danhSachDapAn": [
+        {
+          "dapAn": "find out ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "419fdd2a-749a-43e5-bcfb-8fd1e0faf84a"
+          }
+        },
+        {
+          "dapAn": "comes from ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "4f0357fd-38d6-4d5b-bd92-fc44dbb44864"
+          }
+        },
+        {
+          "dapAn": "reliable",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "09a9923e-98f7-467a-807b-63fdf05cfb7f"
+          }
+        },
+        {
+          "dapAn": "well-written",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "eee271bf-dd82-461c-a7ea-fd7dbc293989"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ee8b378b-d5f9-4a7e-a5f2-d2d39b725b80"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Molly:</b></td>                        <td colspan=\"2\">Next, look at the <b>(1)</b>  <b>____</b>. Look for proof with their other articles.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jane:</b></td>\n                        <td colspan=\"2\">If they haven't written anything else for a source I <b>(2)</b> <b>____</b>, the article could spread fake news, right?</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Molly:</b></td>                        <td colspan=\"2\">Excellent! The article <b>(3)</b> <b>____</b> links to other articles and authors. Click on the links and check if the sources are <b>(4)</b> <b>____</b>.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jane:</b></td>\n                        <td colspan=\"2\">I haven't thought about it before. You are so careful!<br />\n                </tr>\n        </tbody>\n</table>\n",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Molly:</b></td>                        <td>Next, look at the <b>(1)</b>  <span style=\"color:red\"><b>authors</b></span> . Look for proof with their other articles.<br />\n                        <i>Tiếp theo, hãy nhớ để ý cả </i></span> <span style=\"color:red\"><i>các tác giả</i></span> <i>. Hãy tìm bằng chứng với các bài viết khác của họ.</i></span> </td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Jane:</b></td>                        <td>If they haven't written anything else for a source I <b>(2)</b> <span style=\"color:red\"><b>trust</b></span> , the article could spread fake news, right?<br />\n                        <i>Nếu họ chưa từng viết gì cho một nguồn mà tôi </i></span> <span style=\"color:red\"><i>tin tưởng</i></span> <i>, thì bài báo có thể lan truyền tin giả, phải không?</i></span> </td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Molly:</b></td>                        <td>Excellent! The article <b>(3)</b> <span style=\"color:red\"><b>contains</b></span> <span style=\"color:red\"> </span> links to other articles and authors. Click on the links and check if the sources are <b>(4)</b> <span style=\"color:red\"><b>real</b></span> .<br />\n                        <i>Quá chuẩn! Bài viết sẽ </i></span> <span style=\"color:red\"><i>chứa </i></span> <i>các liên kết đến các bài báo và tác giả khác. Bạn có thể truy cập vào liên kết và kiểm tra xem các nguồn </i></span> <i>có </i><span style=\"color:red\"><i>thật </i></span> <i>không.</i></span> </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jane:</b></td>\n                        <td>I haven't thought about it before. You are so careful!<br />\n                        <i>Tôi chưa từng nghĩ đến chuyện này bao giờ đấy. Bạn cẩn thận thật!</i></span> </td>\n                </tr>\n        </tbody>\n</table>\n",
+      "danhSachDapAn": [
+        {
+          "dapAn": "authors ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c525ae83-dbab-4b23-8d18-5f497aeb4576"
+          }
+        },
+        {
+          "dapAn": "trust ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d0d819f4-1830-4ae7-a86e-0f8166877c9a"
+          }
+        },
+        {
+          "dapAn": "contains",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "46c17c3e-68d9-47af-a7a9-da0613b0c929"
+          }
+        },
+        {
+          "dapAn": "real ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "1efd7d48-41fe-4b21-997b-2bbb77f3c78f"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8f8d49c0-c755-4c76-bb9a-1f77fb248de9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Due to the impact of 24/7 online new sites, it is not surprising that newspaper sales have decreased and TV news audiences become <b>(1) ____</b> in recent years. It's too <b>(2) ____</b> to say how this will influence how we deliver the news, but given the importance of the <b>(3)</b> <b>____</b>, it is likely to adapt to <b>(4)</b> <b>____</b> development.",
+      "yNghia": "Due to the impact of 24/7 online new sites, it is not surprising that newspaper sales have decreased and TV news audiences become <b>(1) </b><span style=\"color:red\"><b>smaller</b></span> <span style=\"color:red\"> </span> in recent years. It's too <b>(2) </b><span style=\"color:red\"><b>early</b></span> <span style=\"color:red\"> </span> to say how this will influence how we deliver the news, but given the importance of the <b>(3)</b> <span style=\"color:red\"><b>industry</b></span> , it is likely to adapt to <b>(4)</b> <span style=\"color:red\"><b>technological</b></span>  development. <br />\n<i>Do sự ảnh hưởng của các trang web mới trực tuyến 24/7, không có gì ngạc nhiên khi doanh số bán báo giảm và người xem tin tức trên TV cũng </i><span style=\"color:red\"><i>giảm </i></span> <i>đi trong những năm gần đây. Còn quá </i><span style=\"color:red\"><i>sớm </i></span> <i>để nói xem điều này sẽ ảnh hưởng như thế nào đến cách chúng ta cung cấp tin tức, nhưng do tầm quan trọng của </i><span style=\"color:red\"><i>ngành</i></span> <i> này, rất có khả năng  ngành vẫn có thể thích ứng với sự phát triển của </i><span style=\"color:red\"><i>công nghệ</i></span> <i>. </i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "smaller",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ff98490a-20ef-4b8e-9fdc-2e96ce39e9ad"
+          }
+        },
+        {
+          "dapAn": "early ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2982a626-dd4d-44b8-b5f8-1ab6d31cd0d4"
+          }
+        },
+        {
+          "dapAn": "industry",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "852fd4b1-99d3-4137-b657-4ecb6dc05fd5"
+          }
+        },
+        {
+          "dapAn": "technological ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0ca9c8d8-9846-47c0-b371-5a4fe3b2d930"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "234ee541-e27a-4037-8b67-a1c81afa83ac"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I see no point in buying <b>(1)</b> <b>____</b> these days when news is <b>(2)</b> <b>____</b> so quicky because of the frequent change. I do read <b>(3)</b> <b>____</b> articles online and occasionally watch the news on television if there's any \"big\" international event although I'm not really into <b>(4)</b> <b>____</b> affairs.",
+      "yNghia": "I see no point in buying <b>(1)</b> <span style=\"color:red\"><b>newspapers</b></span>  these days when news is <b>(2)</b> <span style=\"color:red\"><b>reported</b></span>  so quicky because of the frequent change. I do read <b>(3)</b> <span style=\"color:red\"><b>news</b></span>  articles online and occasionally watch the news on television if there's any \"big\" international event although I'm not really into <b>(4)</b> <span style=\"color:red\"><b>current</b></span>  affairs. <br />\n<i>Tôi thấy việc mua </i><span style=\"color:red\"><i>báo</i></span> <i> ngày nay thật vô nghĩa trong khi mà tin tức được </i><span style=\"color:red\"><i>đưa</i></span> <i> quá nhanh do sự thay đổi thường xuyên của nó. Tôi có đọc </i><span style=\"color:red\"><i>báo</i></span> <i> trực tuyến và thỉnh thoảng xem tin tức trên truyền hình nếu có chuyện gì đó \"lớn\" đang xảy ra trên thế giới, dù tôi cũng không thực sự quan tâm đến </i><span style=\"color:red\"><i>thời</i></span> <i> sự cho lắm. </i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "newspapers",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a2084c43-1eb8-4c5c-ac06-0631553350d5"
+          }
+        },
+        {
+          "dapAn": "reported",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "bdc8817a-05ae-4ee7-b9a4-997f09d6bbd4"
+          }
+        },
+        {
+          "dapAn": "news",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "866e67d3-e7cd-468f-9372-87b5b21bb0bf"
+          }
+        },
+        {
+          "dapAn": "current",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "347afc8d-d43a-4224-bbf7-3cd8b0d08da2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P7",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "f44fb55f-0a69-4e48-aa45-2ffd9a9b50fc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Fantastic. Thanks, John. How have you _____ <b><span style=\"color:blue\">(</span></b><b><span style=\"color:blue\">be</span></b><b><span style=\"color:blue\">)</span></b> lately? Are you busy?",
+      "yNghia": "<b>Be</b> được chia về dạng quá khứ phân từ để hình thành câu ở thì Hiện tại hoàn thành là <b>Been</b>. Câu hoàn chỉnh là <b>Fantastic. Thanks, John. How </b><b>have</b><b> you</b><b> <span style=\"color:red\">been</span></b><b> </b><b>lately? Are you busy? </b><i>(</i><i>Tuyệt vời. Cảm ơn John. </i><i>Dạ</i><i>o</i><i> này bạn khỏe không</i><i>? Bạn có bận không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "84b973de-2e6e-4e6a-9f1b-bc0927a65a30"
+          },
+          "dapAn": "been",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "aff6c7e7-ece0-4a0a-a6c6-3930e9d8ca22"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Are you planning for any vacations? There are a lot of ________ <b><span style=\"color:blue\">(holiday)</span></b> coming up.",
+      "yNghia": "Sau <b>a lot of</b>, ta dùng danh từ ở dạng số nhiều, danh từ <b>holiday</b> được thêm ‘<b>s</b>' thành <b>holidays</b>. Câu hoàn chỉnh là <b>Are you planning for any vacations? There are a lot of <span style=\"color:red\">holidays </span>coming up. </b><i>(</i><i>Bạn </i><i>có </i><i>đang lên kế hoạch cho </i><i>kì</i><i> nghỉ nào</i><i> không</i><i>? Có rất nhiều <span style=\"color:red\">ngày lễ </span>sắp tới.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "431e1de6-8e98-4865-b830-79fa54682ddf"
+          },
+          "dapAn": "holidays",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0f19b372-df00-4777-8ca1-322f9f49e5e8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We have some official ________ <b><span style=\"color:blue\">(event)</span></b>. Will you get the days off work during these national holidays?",
+      "yNghia": "Sau <b>some</b>, ta dùng danh từ ở dạng số nhiều, danh từ <b>event</b> được thêm ‘<b>s</b>' thành <b>events</b>. Câu hoàn chỉnh là <b>We have some official <span style=\"color:red\">events</span>. Will you get the days off work </b><b>during</b><b> these national holidays? </b><i>(</i><i>Chúng ta có một số <span style=\"color:red\">sự kiện </span>chính thức. Bạn sẽ được nghỉ làm trong những ngày lễ quốc gia này </i><i>phải không</i><i>?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "74809d85-93d1-4139-a610-783c5a097e98"
+          },
+          "dapAn": "events",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c700e45a-956d-4089-ad0c-3ff430eb8f34"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I'm not sure but I will ________ <b><span style=\"color:blue\">(have)</span></b> a day off on Independence Day, Health and Sports Day.",
+      "yNghia": "Sau <b>will</b>, động từ được chia ở dạng nguyên thể, vì vậy, động từ <b>have</b> sẽ được giữ nguyên. Câu hoàn chỉnh là <b>I'm not sure but I will <span style=\"color:red\">have </span>a day off on Independence Day, Health and Sports Day. </b><i>(</i><i>Tôi không chắc nhưng tôi sẽ có một ngày nghỉ vào Ngày Độc lập, Ngày Sức khỏe và Thể thao.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "954f4c09-a49f-45ee-bcef-7b9c59adc063"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "27509ca8-b201-4f09-880f-df7c33852c34"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My company sometimes takes some ________ <b><span style=\"color:blue\">(trip)</span></b> on these days.",
+      "yNghia": "Sau <b>some</b>, ta dùng danh từ ở dạng số nhiều, danh từ <b>trip</b> được thêm ‘<b>s</b>' thành <b>trips</b>. Câu hoàn chỉnh là <b>My company sometimes takes</b><b> some</b><b> </b><b><span style=\"color:red\">trip</span></b><b><span style=\"color:red\">s</span></b><b> </b><b>on these days. </b><i>(</i><i>Tôi cũng thế. Công ty của tôi thỉnh thoảng có </i><i>một vài</i><i> </i><i><span style=\"color:red\">chuyến đi </span></i><i>vào những ngày này.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9c12c31b-963f-4d67-bb6a-4573542c912e"
+          },
+          "dapAn": "trips",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d63a4550-666f-4764-9ca4-cd4c2d7a4d91"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I will eat some special ________ <b><span style=\"color:blue\">(food)</span></b> to celebrate and relax at home.",
+      "yNghia": "Sau <b>some</b>, ta dùng danh từ không đếm được, danh từ <b>food</b> được giữ nguyên. Câu hoàn chỉnh là <b>I will eat some special <span style=\"color:red\">food </span>to celebrate and relax at home. </b><i>(</i><i>Tôi sẽ ăn một số <span style=\"color:red\">món ăn </span>đặc biệt để ăn mừng và thư giãn ở nhà.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a0eac993-0e04-447f-86d0-886d153ddc72"
+          },
+          "dapAn": "food",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7101e8e7-3fde-43ee-b13a-9534db39ed9c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Interesting! I will hang out with a few _____ <b><span style=\"color:blue\">(friend)</span></b>.",
+      "yNghia": "Sau <b>a few</b>, ta dùng danh từ ở dạng số nhiều, danh từ <b>friend</b> được thêm ‘<b>s</b>' thành <b>friends</b>. Câu hoàn chỉnh là <b>Interesting! I will hang out with </b><b>a few</b><b> </b><b><span style=\"color:red\">friends</span></b><b>. </b><i>(</i><i>Thú vị</i><i> quá</i><i>! Tôi sẽ đi chơi với </i><i>một vài <span style=\"color:red\">người bạn</span></i><i>.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2ef2af8a-7f22-4ae9-8645-7a043d327348"
+          },
+          "dapAn": "friends",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "edb465ea-ef2a-43ee-83a5-510d5ac9b91a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It's my son's graduation on the last day in May, so could I ________ <b><span style=\"color:blue\">(get)</span></b> the day off to go to the ceremony?",
+      "yNghia": "Sau <b>could</b>, động từ được giữ ở dạng nguyên thể, vì vậy, <b>get</b> được giữ nguyên. Câu hoàn chỉnh là <b>It's my son's graduation on the last day in May, so could I <span style=\"color:red\">get </span>the day off to go to the ceremony? </b><i>(</i><i>Con trai tôi tốt nghiệp vào ngày cuối cùng của tháng Năm, vậy tôi có thể nghỉ phép để đi dự lễ được không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2f70606c-1119-49d9-9af3-ee5be43f1443"
+          },
+          "dapAn": "get",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "618b0c2d-28c0-45f9-aaa2-e4f4a2e0c05a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I couldn't see the Mona Lisa at the Louvre in Paris, because there were too many ________ <b><span style=\"color:blue\">(</span></b><b><span style=\"color:blue\">person</span></b><b><span style=\"color:blue\">)</span></b> in front of it! I couldn't see anything!",
+      "yNghia": "Sau <b>many</b>, ta dùng danh từ ở dạng số nhiều, danh từ <b>person</b> được chia về dạng số nhiều là <b>people</b>. Câu hoàn chỉnh là <b>I couldn't see the Mona Lisa at the Louvre in Paris, because there were </b><b>too many</b><b> <span style=\"color:red\">people </span>in</b><b> </b><b>front of it! I couldn't see anything!</b><b> </b><i>(</i><i>Tôi không thể nhìn thấy </i><i>tranh </i><i>Mona Lisa tại Louvre ở Pa</i><i>-</i><i>ri, vì có quá nhiều <span style=\"color:red\">người </span>đứng trước nó! Tôi không thể nhìn thấy bất cứ điều gì!</i><i>).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "530d94c2-e9fb-402b-8cbf-fa043cb3ec22"
+          },
+          "dapAn": "people",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8a019130-ef42-494a-9213-267699d2dee3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Don't ________ <b><span style=\"color:blue\">(add)</span></b> too much meat because you have to add the chickpeas, raisins, and olives, too.",
+      "yNghia": "Sau <b>Don't</b>, động từ được giữ ở dạng nguyên thể, vì vậy, <b>add</b> được giữ nguyên. Câu hoàn chỉnh là <b>Don't <span style=\"color:red\">add</span></b><b> </b><b>too much meat because you have to add the</b><b> </b><b>chickpeas, raisins, and olives, too. </b><i>(Đừng <span style=\"color:red\">thêm </span>quá nhiều thịt vì bạn cũng phải thêm hạt đậu gà, nho khô và ô liu.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "eb96badf-7f46-4d8b-a53b-b021bfc5051b"
+          },
+          "dapAn": "add",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ec7cbbf8-0e9b-4410-9d04-88598fce24ea"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They are delicious, but very big, so you may not ________ <b><span style=\"color:blue\">(want)</span></b> to eat too many!",
+      "yNghia": "Sau <b>may</b>, động từ được giữ ở dạng nguyên thể, vì vậy, <b>want</b> được giữ nguyên. Câu hoàn chỉnh là <b>They are delicious, but very big, so you may</b><b> </b><b>not <span style=\"color:red\">want </span>to eat too many! </b><i>(Chúng rất ngon, nhưng rất to nên bạn có thể không <span style=\"color:red\">muốn </span>ăn quá nhiều!).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1142b27e-163f-4952-8444-d75388e9cded"
+          },
+          "dapAn": "want",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "210dbc88-8f46-454a-bba0-9ff5dd21aaf2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They take some boxes of pasteles as a ________ <b><span style=\"color:blue\">(gift)</span></b> to family or friends.",
+      "yNghia": "Sau mạo từ<b> a</b>, ta dùng danh từ ở dạng số ít, danh từ <b>gift</b> được giữ nguyên. Câu hoàn chỉnh là <b>T</b><b>hey take</b><b> </b><b>some boxes of Pasteles as a <span style=\"color:red\">gift </span>to family or friends.</b><br />\r\n<i>(Họ lấy một số hộp Pasteles làm <span style=\"color:red\">quà </span>cho gia đình hoặc bạn bè.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "17dea559-318f-40b2-ba03-2183920c4607"
+          },
+          "dapAn": "gift",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c8ddaaca-b10a-4bcb-8c3d-2183433a58ef"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Make a vegetable dough from green banana flour and fill the dough with some ________ <b><span style=\"color:blue\">(meat)</span></b>.",
+      "yNghia": "Sau <b>some</b>, ta dùng danh từ không đếm được, danh từ <b>meat</b> được giữ nguyên. Câu hoàn chỉnh là <b>Make a vegetable dough from green banana flour</b><b> and</b><b> </b><b>f</b><b>ill the dough with</b><b> </b><b>some <span style=\"color:red\">meat</span>. </b><i>(Làm bột nhào rau củ từ bột chuối xanh và cho một ít <span style=\"color:red\">thịt </span>vào bột.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d8f65fb1-4638-45e8-ba06-6b30df2124c2"
+          },
+          "dapAn": "meat",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5151f05e-37ba-492a-bbc0-eed9822515af"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "In my opinion, there's too much _____ <b><span style=\"color:blue\">(time)</span></b> spent taking selfies.",
+      "yNghia": "Sau <b>much</b>, ta dùng danh từ không đếm được, danh từ <b>time</b> được giữ nguyên. Câu hoàn chỉnh là <b>In my opinion, there's too much <span style=\"color:red\">time </span>spent taking selfies</b><b>.</b><b> </b><i>(Theo tôi, có quá nhiều <span style=\"color:red\">thời gian </span>được dành cho việc chụp ảnh tự sướng.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "dff3facf-2269-419c-9a24-6b7b29f0f21c"
+          },
+          "dapAn": "time",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b7c931e4-11ab-4cdd-89b7-7149f98026bf"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There are a few _____ <b><span style=\"color:blue\">(</span></b><b><span style=\"color:blue\">website</span></b><b><span style=\"color:blue\">)</span></b> that list all these celebrations.",
+      "yNghia": "Sau <b>a few</b>, ta dùng danh từ ở dạng số nhiều, danh từ <b>website</b> được thêm ‘<b>s</b>' thành <b>websites</b>. Câu hoàn chỉnh là <b>There are a few <span style=\"color:red\">websites </span>that list all these celebrations.</b><b> </b><i>(Có một vài <span style=\"color:red\">trang web </span>liệt kê tất cả các lễ kỷ niệm này.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1b6de11a-6df4-429b-b771-f10993038aad"
+          },
+          "dapAn": "websites",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e4b59908-3731-401d-8d5e-d24da1b1bb6e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I'm going to _____ <b><span style=\"color:blue\">(arrange)</span></b> a romantic dinner for my wife for Valentine's Day.",
+      "yNghia": "Sau <b>going to</b>, động từ được giữ ở dạng nguyên thể, vì vậy, động từ <b>arrange</b> được giữ nguyên. Câu hoàn chỉnh là <b>I'm going to <span style=\"color:red\">arrange </span>a romantic dinner for my wife for Valentine's Day. </b><i>(</i><i>Tôi sẽ <span style=\"color:red\">sắp xếp </span>một bữa tối lãng mạn cho vợ tôi vào ngày lễ Tình nhân.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "19f34a12-c335-4b05-8271-9498a0b2dedc"
+          },
+          "dapAn": "arrange",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "25cd76a5-597f-4811-9930-7758585e63bb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Did you _____ <b><span style=\"color:blue\">(receive)</span></b> any gifts for your birthday?",
+      "yNghia": "Sau <b>did</b>, động từ được giữ ở dạng nguyên thể, vì vậy, động từ <b>receive</b> được giữ nguyên. Câu hoàn chỉnh là <b>Did you <span style=\"color:red\">receive </span>any gifts for your birthday? </b><i>(</i><i>Bạn đã <span style=\"color:red\">nhận </span>được bất kỳ món quà nào cho ngày sinh nhật của bạn chưa?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "98cbf126-15e7-4ce3-a895-9cfef94a1952"
+          },
+          "dapAn": "receive",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2495c80a-45ba-4b36-abe8-10fdf5c888d1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My son got a new job with a great company, so tonight we are going to _____ <b><span style=\"color:blue\">(celebrate)</span></b> after work.",
+      "yNghia": "Sau <b>going to</b>, động từ được giữ ở dạng nguyên thể, vì vậy, động từ <b>celebrate</b> được giữ nguyên. Câu hoàn chỉnh là <b>My son got a new job with a great company, so tonight we are going to <span style=\"color:red\">celebrate </span>after work. </b><i>(</i><i>Con trai tôi đã có một công việc mới ở một công ty tuyệt vời, vì vậy tối nay chúng tôi sẽ <span style=\"color:red\">ăn mừng </span>sau giờ làm việc.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d06437d4-63df-4474-ae5a-77377574a42f"
+          },
+          "dapAn": "celebrate",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f74e66e6-444f-4848-b957-e77635680549"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Daria is the president of a multinational company. I am sure she has a lot of _____ <b><span style=\"color:blue\">(money)</span></b>.",
+      "yNghia": "Sau <b>a lot of</b>, ta dùng danh từ không đếm được, danh từ <b>money</b> được giữ nguyên. Câu hoàn chỉnh là <b>Daria is the president of a multinational company. I am sure she has a lot of <span style=\"color:red\">money</span>. </b><i>(</i><i>Daria là chủ tịch của một công ty đa quốc gia. Tôi chắc chắn rằng cô ấy có rất nhiều <span style=\"color:red\">tiền</span>.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b9febf10-b861-4f5e-a092-bd35ed5a2ac2"
+          },
+          "dapAn": "money",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8809b9c7-5eeb-4181-8ac4-782ffc49787a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It's December 28 today, so there's only a few _____ <b><span style=\"color:blue\">(day)</span></b> left until the New Year.",
+      "yNghia": "Sau <b>a few</b>, ta dùng danh từ ở dạng số nhiều, danh từ <b>day</b> được thêm ‘<b>s</b>' thành <b>days</b>. Câu hoàn chỉnh là <b>It's December 28 today, so there's only a few <span style=\"color:red\">days </span>left until the New Year. </b><i>(Hôm nay là ngày 28 tháng Mười hai, vậy là chỉ còn vài <span style=\"color:red\">ngày </span>nữa là đến Tết Dương lịch.</i><i>).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a7e342fb-da1e-4020-978d-7b9579553d8b"
+          },
+          "dapAn": "days",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

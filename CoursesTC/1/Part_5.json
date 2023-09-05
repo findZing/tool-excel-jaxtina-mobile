@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "19bd65db-ff28-4285-85ca-b5582d07801b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you tell me who your _______________ is?",
+      "yNghia": "Can you tell me who your <span style=\"color:red\">role model </span>is?  <br />\r\n<i>Bạn có thể cho tôi biết <span style=\"color:red\">hình mẫu </span>của bạn là ai không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6176cc9e-4607-4df8-bdb0-f2c35759e86d"
+          },
+          "dapAn": "favourite singer",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4cd03574-2fd2-4e9a-9a4a-e11ca7a71aa7"
+          },
+          "dapAn": "role model",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a8bfcb13-ce61-41ed-9b82-b02728e2755a"
+          },
+          "dapAn": "idol",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_1. Can ... is.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_1. Can ... is.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "95b6969d-4ba0-40b2-ab4f-d818c1ae5be6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She is a singer-songwriter and _______________.",
+      "yNghia": "She is a singer – songwriter and <span style=\"color:red\">actress</span>.<br />\r\n<i>Cô ấy là một ca sĩ kiêm nhạc sĩ và <span style=\"color:red\">diễn viên</span></i>.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b3fca8e1-ee38-4e4b-be58-505beca35a61"
+          },
+          "dapAn": "actress",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dc6ee01d-fc8b-4721-82fe-5283284ce2a0"
+          },
+          "dapAn": "dancer",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c5bfe0af-6c14-46ae-9e20-07ffa7435a1b"
+          },
+          "dapAn": "runner",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_2. She ... actress.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_2. She ... actress.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "aae31810-6320-483f-a0fa-6bb35088d247"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you give us some of her _______________ information?",
+      "yNghia": "Can you give us some of her <span style=\"color:red\">personal </span>information?<br />\r\n<i>Bạn có thể cho chúng tôi biết một vài thông ti<span style=\"color:black\">n </span><span style=\"color:red\">cá nhân</span> của cô ấy được không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2a00fbf0-8098-4368-89f7-76178f127416"
+          },
+          "dapAn": "personal",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "daff8191-3015-455e-9808-b4e14a9b8b07"
+          },
+          "dapAn": "private",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6386e7a6-2279-414a-8af0-0821327ad2d1"
+          },
+          "dapAn": "secret",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_3. Can ... information.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_3. Can ... information.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "43b2cb1a-b47a-47ab-bdb7-8d5d2e5e09eb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She was _______________ in Oaxaca, Mexico, in 1968.",
+      "yNghia": "She was <span style=\"color:red\">born</span> in Oaxaca, Mexico, in 1968.<br />\r\n<i>Cô ấy <span style=\"color:red\">sinh ra </span>tại Oaxaca, Mexico, vào năm 1968.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f273c712-12df-4bac-8d35-0dac8bbe681c"
+          },
+          "dapAn": "raised",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6a89f18b-8168-4ad7-b159-680c889bed93"
+          },
+          "dapAn": "born",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9b0cd043-a487-4bf4-abf1-361f391d84b3"
+          },
+          "dapAn": "living",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_4. She ... 1968.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_4. She ... 1968.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6ea90865-e565-4dbf-9f43-94710e0dc51c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How did she start her _______________?",
+      "yNghia": "How did she start her <span style=\"color:red\">career</span>?<br />\r\n<i>Cô ấy bắt đầu <span style=\"color:red\">sự nghiệp </span>của mình như thế nào?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ef64e832-c5b4-4fdf-97fb-c73b2475ed19"
+          },
+          "dapAn": "career",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2083a639-b851-498e-bd94-6ae7337a3aa8"
+          },
+          "dapAn": "job",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9e04bdee-bce5-4b9c-8061-840e2254dfe8"
+          },
+          "dapAn": "business",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_5. How .. caree.MP3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_5. How .. caree.MP3"
+    },
+    {
+      "_id": {
+        "$oid": "fb765713-2ea0-40bc-bb79-bf13179faed1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "At the age of eight, she started singing mariachi songs then became a _______________ singer.",
+      "yNghia": "At the age of eight, she started singing mariachi songs then became a <span style=\"color:red\">professional </span>singer.<br />\r\n<i>Năm 8 tuổi, cô</i><i> ấy</i><i> bắt đầu hát những bài hát</i><i> truyền thống Mexico</i><i> rồi trở thành ca sĩ <span style=\"color:red\">chuyên nghiệp</span><span style=\"color:#202124\">.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2fbede0f-615f-440d-82f9-fa0e43f2c643"
+          },
+          "dapAn": "ballad",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5840d7cf-6b64-496e-8f46-8f14b1f7c842"
+          },
+          "dapAn": "professional",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9b62d0dd-86bc-4f22-9ec1-d8998924a8e8"
+          },
+          "dapAn": "rock",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_6. At ... singer.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_6. At ... singer.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "168cbf91-9b26-4a9c-9233-c2298002cc77"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Lila’s family still live in _______________.",
+      "yNghia": "Lila's family still live in <span style=\"color:red\">Mexico.</span><br />\r\n<i>Gia đình của Lila vẫn sống tại <span style=\"color:red\">Mexico. </span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4f14c80c-6f58-4a59-a6aa-4bbe1038564e"
+          },
+          "dapAn": "Mexico",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3c826c46-fad0-4ec6-92d4-3759af223b41"
+          },
+          "dapAn": "The US",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "944981ca-e540-431b-8e8a-3e8c5a83d7bc"
+          },
+          "dapAn": "Oaxaca",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_7. Lila_s ... Mexico.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_7. Lila_s ... Mexico.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9d476574-26fb-477a-bbbe-a31d95e7c816"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "When she was 14, her family _______________ from Mexico to the US.",
+      "yNghia": "When she was 14, her family <span style=\"color:black\">­­­­­­</span><span style=\"color:red\">emigrated</span> from Mexico to the US.<br />\r\n<i>Năm 14 tuổi, gia đình của cô ấy <span style=\"color:red\">di cư </span>từ Mexico tới Mỹ.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "802a1969-9901-4013-a9e2-1517b4cb765b"
+          },
+          "dapAn": "came",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "08c9b813-a3c9-4b5a-97b2-de90d16c22ae"
+          },
+          "dapAn": "emigrated",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "19e8bc08-b163-4dd6-9239-a90c0360f8de"
+          },
+          "dapAn": "moved",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_8. When ... US.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_8. When ... US.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5b466367-7f87-45c1-95ee-c156de0fefb2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Lila and her mother moved back to Mexico _______________ her father’s death.",
+      "yNghia": "Lila and her mother moved back to Mexico <span style=\"color:red\">after </span>her father's death.<br />\r\n<i>Lila và mẹ cô chuyển về Mexico <span style=\"color:red\">sau </span>khi cha cô mất.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6ba95815-1203-4702-a88e-bf1f154bf75a"
+          },
+          "dapAn": "before",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "036e0fc1-994a-49cd-9425-19c0fb2c136f"
+          },
+          "dapAn": "after",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bfc4ac2d-8c25-4633-822d-11e3d7734539"
+          },
+          "dapAn": "during",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_9. Lila ... death.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_9. Lila ... death.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ac0f8509-87a0-43f2-b691-09c12aa393be"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She has a _______________ named Paul Cohen.",
+      "yNghia": "She has a <span style=\"color:red\">husband </span>named Paul Cohen.   <br />\r\n<i>Cô</i><i> ấy có một <span style=\"color:red\">người chồng </span>tên là Paul Cohen.</i><br />\r\n<b><span style=\"color:black\">1</span></b><b><span style=\"color:black\">1</span></b><b><span style=\"color:black\">.</span></b> Lila and her husband moved <span style=\"color:red\">to </span>Minnesota.<br />\r\n<i>Lila</i><i> và chồng của mình</i><i> chuyển <span style=\"color:red\">tới </span>Minnesota.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7d0c0d3b-aaeb-4fad-b784-dda14586faee"
+          },
+          "dapAn": "husband",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2aafa46d-82ca-4729-8da0-0bc85e53b99e"
+          },
+          "dapAn": "boyfriend",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "546dc788-67d3-42ba-963f-920aac3689c4"
+          },
+          "dapAn": "friend",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_10. She ... Cohen.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_10. She ... Cohen.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5bcfce0c-7f41-4f99-8175-aa7082390a8b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Lila and her husband moved _____ Minnesota.",
+      "yNghia": "Lila and her husband moved <span style=\"color:red\">to </span>Minnesota.<br />\r\n<i>Lila</i><i> và chồng của mình</i><i> chuyển <span style=\"color:red\">tới </span>Minnesota.</i><br />\r\n<b>1</b><b>2</b><b>.</b> She went to the University of Minnesota and she had a <span style=\"color:red\">successful</span> music group called La Trova Serrana.<br />\r\n<i>C</i><i>ô ấy </i><i>đã học ở trường</i><i> Đại học Minnesota và cô ấy đã thành lập một nhóm nhạc <span style=\"color:red\">thành công </span>tên là La Trova Serrana</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8aeae7cc-65e1-4664-a1f0-bbd0744bcfa6"
+          },
+          "dapAn": "to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "db289ac5-f899-44b2-b1a6-716caf8e9ad5"
+          },
+          "dapAn": "back",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b2d3803a-95fa-41fd-85f3-cfe0ad999149"
+          },
+          "dapAn": "from",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_11. Lila ... Minnesota.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_11. Lila ... Minnesota.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "079d0711-f529-4725-9d02-670dbe0d5e9e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She went to the University of Minnesota and she had a _______________  music group called La Trova Serrana.",
+      "yNghia": "She went to the University of Minnesota and she had a <span style=\"color:red\">successful</span> music group called La Trova Serrana.<br />\r\n<i>C</i><i>ô ấy </i><i>đã học ở trường</i><i> Đại học Minnesota và cô ấy đã thành lập một nhóm nhạc <span style=\"color:red\">thành công </span>tên là La Trova Serrana</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3bd6fc85-64eb-4873-b0a4-3c23f6bbf07a"
+          },
+          "dapAn": "male",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "63bc08c3-7ebb-40d3-9481-30b908b04e49"
+          },
+          "dapAn": "female",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bf1edf5f-1885-486f-95de-ff08f056a292"
+          },
+          "dapAn": "successful",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_12. She ... Serrana.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_12. She ... Serrana.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b7cfb005-04ba-401b-a3c7-f7aa9335f3dc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Did she take a role in a movie or just _______________  music?",
+      "yNghia": "Did she take a role in a movie or just <span style=\"color:red\">focus on </span>music?<br />\r\n<i>Cô ấy có tham gia đóng bộ phim nào không hay chỉ <span style=\"color:red\">tập trung vào</span> âm nhạc?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c65f0857-84bc-42cc-9854-49a2307401a6"
+          },
+          "dapAn": "focus on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cbd99e8d-b245-4ae1-807b-7d6a9293efab"
+          },
+          "dapAn": "produce",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c9de0392-9aef-4418-9411-fabecd3a4650"
+          },
+          "dapAn": "interest in",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_13. Did ... music.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_13. Did ... music.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "85b63e33-16e3-421a-b491-aaa8987fa454"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She had a small _____ in the movie Frida.",
+      "yNghia": "She had a small <span style=\"color:red\">role </span>in the movie Frida.<br />\r\n<i>Cô ấy có một <span style=\"color:red\">vai </span>nhỏ trong bộ phim Frida.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4f20534c-64af-44e6-9a2f-c186c75b9b8d"
+          },
+          "dapAn": "role",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "290c7d85-7990-4585-a67e-5545c0fcc2b4"
+          },
+          "dapAn": "part",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "91ac0430-d63f-4b8a-85b7-f88850d74330"
+          },
+          "dapAn": "act",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_14. She ... Frida.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_14. She ... Frida.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "41200d45-2821-4296-bf4d-a3a3b94b60f1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Is there _______________  about Lila that you want to share with us?",
+      "yNghia": "Is there <span style=\"color:red\">anything else </span>about Lila that you want to share with us?<br />\r\n<i>Còn <span style=\"color:red\">điều gì khác </span>về Lila mà bạn muốn chia sẻ với chúng tôi không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b0f9262f-24c4-4a9b-a94c-7ca7a2b7f1d1"
+          },
+          "dapAn": "anything else",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "56d47bda-0ea4-411e-9363-35d1ab14063a"
+          },
+          "dapAn": "any problems",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6e545983-ef96-4a52-b8ee-024915a0d10a"
+          },
+          "dapAn": "any scandals",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_15. Is ... us.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_15. Is ... us.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "04c60982-9e3b-4814-8c25-7e15bb87a728"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There are _____ things that you probably don’t know",
+      "yNghia": "There are <span style=\"color:red\">three </span>things that you probably don't know.<br />\r\n<i>Có <span style=\"color:red\">ba </span>điều mà các bạn có thể không biết.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7c48693f-5842-4025-8e8a-e35659310d80"
+          },
+          "dapAn": "three",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d72eecda-3716-42bd-8736-3f6cafd46810"
+          },
+          "dapAn": "four",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6cb3c5cc-8d50-474a-9f3a-6ec345407ec0"
+          },
+          "dapAn": "five",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_16. There ... know.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_16. There ... know.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "bbe06c8a-2c37-4ada-8b50-24498c0f70a2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Now I’m _______________! What are they?",
+      "yNghia": "Now I'm <span style=\"color:red\">curious</span>! What are they?<br />\r\n<i>Giờ thì tôi <span style=\"color:red\">tò mò </span>rồi đấy. Đó là gì?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6e97ccce-8dde-4854-9b24-97471ba99d26"
+          },
+          "dapAn": "excited",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2657aa8d-2cdb-4073-9ab1-aa0597f07ee4"
+          },
+          "dapAn": "curious",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8af652d8-8a4c-4426-9d3b-53a991fa1508"
+          },
+          "dapAn": "interested",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_17. Now ... they.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_17. Now ... they.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ee16d783-6cd0-4c70-a3d3-071701eebbee"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She has _______________ son.",
+      "yNghia": "She has <span style=\"color:red\">an adopted </span>son.<br />\r\n<i>Cô ấy có <span style=\"color:red\">một </span>đứa con trai <span style=\"color:red\">nuôi</span><span style=\"color:black\">.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "86ec6aac-4275-411d-b6d1-32a59d42de73"
+          },
+          "dapAn": "an adopted",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fc666b77-48ea-40a6-8dd7-34d8d97e9137"
+          },
+          "dapAn": "a beautiful",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ebb51e35-b2f3-4933-89fc-41206a3ccb14"
+          },
+          "dapAn": "a spoiled",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_18. she ... son.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_18. she ... son.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "002ac27e-1334-4998-a599-5e67a425248e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "A ___________ grasshopper was named after her.",
+      "yNghia": "A <span style=\"color:red\">colorful </span>grasshopper was named after her.<br />\r\n<i>Một con châu chấu <span style=\"color:red\">đầy màu sắc </span>đã được đặt tên theo cô ấy.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a4b6b061-2ec9-4ac2-8092-20be98df1361"
+          },
+          "dapAn": "colorful",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "981d9bad-2130-4112-8fe7-e929368d6947"
+          },
+          "dapAn": "beautiful",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ddb7c694-2398-4a61-9359-d26f1acd7c1c"
+          },
+          "dapAn": "small",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_19. A ... her.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_19. A ... her.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "84f11d17-2952-4465-89ad-f6b8faee7d84"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Her _____________ language is Mixtec.",
+      "yNghia": "Her <span style=\"color:red\">native </span>language is Mixtec.<br />\r\n<i>Ngôn ngữ <span style=\"color:red\">mẹ đẻ </span>của cô là Mixtec. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2fe79ff4-6065-423d-b7a9-4ec5875f0e32"
+          },
+          "dapAn": "foreign",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3a9e3e10-9bf6-4e94-ab37-cc914f1367b1"
+          },
+          "dapAn": "favourite",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "43bbc152-e923-48e8-95ee-e764bb74f967"
+          },
+          "dapAn": "native",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L1/sounds/normal/TC_1_LISTENING_20. Her .... Mixtec.mp3",
+      "soundSlow": "4SKILLS_TC_L1/sounds/slow/TC_1_LISTENING_20. Her .... Mixtec.mp3"
+    }
+  ]
+}

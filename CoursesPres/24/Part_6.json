@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "11fa3eea-6b91-472f-a54f-e8a61a75ac06"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "9a1d9eca-e667-4a0e-ac61-90b488a2054c"
+          },
+          "cauHoi": "Whose party is it?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "0baeaea1-1761-4482-a309-c14304cda75c"
+              },
+              "dapAn": "A. Alison’s party",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "97b556e6-e8d1-44f4-877a-f814625da0a9"
+              },
+              "dapAn": "B. Jenny’s party",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a216234a-da36-41a7-9de7-e71b821000de"
+              },
+              "dapAn": "C. John’s party",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "33fc4a2d-4a88-4863-913f-917f6eccbe53"
+              },
+              "dapAn": "D. Nobody",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "fc6adbe6-5067-409f-ba26-93a0fd26456d"
+          },
+          "cauHoi": "Who is John?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "98361d90-2da7-452e-a584-868f50269601"
+              },
+              "dapAn": "A. Jenny’s co-worker",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0832a964-9729-40ed-b28a-3978bc740cfe"
+              },
+              "dapAn": "B. Alison’s co-worker",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "cbb089c8-6b58-48a3-9c56-f0f7af8c01ac"
+              },
+              "dapAn": "C. Alison’s brother",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "68d3560b-6657-42c9-b3a5-da6a1b91a7f1"
+              },
+              "dapAn": "D. Jenny’s brother",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "7b673fe1-d608-4474-b6dc-7c102ee73a41"
+          },
+          "cauHoi": "Who is John standing with?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "341afc17-68c5-4b59-8f64-258109c2b1d0"
+              },
+              "dapAn": "A. Jenny’s co-worker",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3a57781f-ea93-4731-8f0b-08719ca50dc7"
+              },
+              "dapAn": "B. Alison’s co-worker",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ceaab1d5-afa5-49e5-aac2-d433692a4116"
+              },
+              "dapAn": "C. Alison’s brother",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "febb7c4e-588a-498f-82f0-1e96cedae15d"
+              },
+              "dapAn": "D. Jenny’s brother",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "9bf6d256-370e-4b2e-ac08-effe5c75ef87"
+          },
+          "cauHoi": "How is John?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8a5a37e3-8626-44f5-a1cd-1a2ca909ad7d"
+              },
+              "dapAn": "A. tall and heavy",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ab3b7993-be7a-4354-8814-2bc443a7083a"
+              },
+              "dapAn": "B. short and slim",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "12c99bcc-2397-4c88-ac99-23dc4f9c05ab"
+              },
+              "dapAn": "C. tall and slim",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "91134ae5-0d03-4e3c-9160-980ea7d1011e"
+              },
+              "dapAn": "D. short and heavy",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Alison:</b></td> \n                        <td>Welcome to my party, Jenny.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td> \n                        <td>Thank you for inviting me.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Alison:</b></td> \n                        <td>Come and say hello to everyone. John's here, too.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td> \n                        <td>OK. Who's John? Is he your new co-worker? </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Alison:</b></td> \n                        <td>Yes, that's right. He's over there with my brother.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td> \n                        <td>Oh, they’re both tall and slim.</td>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Whose party is it?</b> <i>(Bữa tiệc là của ai?),</i> <b></b>câu trong bài đọc liên quan là <b>Welcome to my party, Jenny.</b><i>(Chào mừng cậu đến bữa tiệc của tớ, Jenny.).</i> Nên đáp áp là <b><span style=\"color:red\">A. Alison's party</span> </b><i>(bữa tiệc của Alison)</i>.<br /> <br /> <b>2.</b> Với câu hỏi <b>Who is John?</b> <i>(John là ai?),</i> <b></b>câu trong bài đọc liên quan là <b>Who's John? Is he your new co-worker? - Yes, that's right.</b> <i>(Ai là John vậy? Anh ấy là đồng nghiệp mới của cậu à? - Ừ, đúng đó.).</i> Nên đáp áp là <b><span style=\"color:red\">B. Alison's co-worker</span> </b><i>(đồng nghiệp của Alison)</i>.<br /> <br /> <b>3.</b> Với câu hỏi <b>Who is John standing with?</b> <i>(John đứng với ai?),</i> <b></b>câu trong bài đọc liên quan là <b>He's over there with my brother.</b> <i>(Anh ấy đang ở đằng kia với anh trai tớ.).</i> Nên đáp áp là <b><span style=\"color:red\">C. Alison's brother</span> </b><i>(anh trai của Alison)</i>.<br /> <br /> <b>4.</b> Với câu hỏi <b>How is John?</b> <i>(John thế nào?),</i> <b></b>câu trong bài đọc liên quan là <b>Oh, they're both tall and slim.</b> <i>(Ồ, họ đều cao và gầy.).</i> Nên đáp áp là <b><span style=\"color:red\">C. tall and slim</span> </b><i>(cao và gầy)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8b22a29e-6ad8-4577-a705-56d313412d51"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "15175545-922e-449b-92b7-efefa8fa6192"
+          },
+          "cauHoi": "How does Jenny look?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c2a92c2d-98a8-4db5-bd25-a1ebc25f84ea"
+              },
+              "dapAn": "A. happy",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "43f2d2bd-2d3d-47d9-ab09-2b613dc44bb4"
+              },
+              "dapAn": "B. hungry",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "947e8916-a5c5-4154-9f52-b7e74854f8ac"
+              },
+              "dapAn": "C. tired",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "0c17a028-f6ed-4f9c-96af-6f57a908e79a"
+              },
+              "dapAn": "D. excited",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "bab1bdf8-a208-4ef6-9673-8377e62671bd"
+          },
+          "cauHoi": "What drink does Alison have?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "000beb49-1c7d-4f41-bb9c-9769a3845075"
+              },
+              "dapAn": "A. orange juice and milk",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c5b15817-fba5-41c9-bbe3-20c517a2dcbe"
+              },
+              "dapAn": "B. tea and wine",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4ea48d31-351d-4edf-be8f-a2b1ca3b9f77"
+              },
+              "dapAn": "C. coffee and wine",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b4ef7fc7-a6d9-4c9f-aff9-92651b4b6f17"
+              },
+              "dapAn": "D. orange juice and wine",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "515f48ac-1561-4fa9-8d2e-c267d18f4d17"
+          },
+          "cauHoi": "Why does Jenny ask for some food?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "737e077c-2a79-4543-8337-69b1c316505d"
+              },
+              "dapAn": "A. She’s hungry.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "2cd97a1f-3b3f-4fab-a828-361734014bc7"
+              },
+              "dapAn": "B. She’s bored.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fe5bd0fa-314c-411a-910d-a83b6ebe4103"
+              },
+              "dapAn": "C. She’s tired.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f6188ca0-1fb2-4576-a294-003a9fedc808"
+              },
+              "dapAn": "D. She’s sad.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "b4e57355-9e98-4de4-8384-0057354645b7"
+          },
+          "cauHoi": "What food does Alison give Jenny?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "392cf3e2-b9e8-474a-a5a3-bd43ee5ccdc5"
+              },
+              "dapAn": "A. eggs",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9e6e9c17-eac3-4478-9bfc-6d9aa1741a29"
+              },
+              "dapAn": "B. cookies",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e43c2e1c-222e-4702-86cb-d2cfd44e04be"
+              },
+              "dapAn": "C. rice",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5fa8312e-bec5-480e-a705-fd5b01111fe2"
+              },
+              "dapAn": "D. sandwiches",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Alison:</b></td>\r\n                        <td>You look a bit tired today. Is everything okay?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td>\r\n                        <td>Don't worry, I'm fine. </td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Alison:</b></td>\r\n                        <td>Do you want a drink? There's some orange juice and wine.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td>\r\n                        <td>Oh, is there any food? I'm hungry.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Alison:</b></td>\r\n                        <td>Yes, come. Take these cookies.</td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>How does Jenny look?</b> <i>(Jenny trông thế nào?),</i> <b></b>câu trong bài đọc liên quan là <b>You look a bit tired today.</b> <i>(Hôm nay nhìn cậu hơi mệt mỏi.).</i> Nên đáp áp là <b><span style=\"color:red\">C. tired</span> </b><i>(mệt mỏi)</i>.<br /> <br /> <b>2.</b> Với câu hỏi <b>What drink does Alison have?</b> <i>(Alison có đồ uống gì?),</i> <b></b>câu trong bài đọc liên quan là <b>There's some orange juice and wine.</b> <i>(Có một ít nước cam và rượu.).</i> Nên đáp áp là <b><span style=\"color:red\">D. orange juice and wine</span> </b><i>(nước cam và rượu)</i>.<br /> <br /> <b>3.</b> Với câu hỏi <b>Why does Jenny ask for some food?</b> <i>(Tại sao Jenny hỏi xin một ít thức ăn?),</i> <b></b>câu trong bài đọc liên quan là <b>Oh, is there any food? I'm hungry.</b> <i>(Ồ, có đồ ăn không? Tớ đói.).</i> Nên đáp áp là <b><span style=\"color:red\">A. She's hungry.</span> </b><i>(Cô ấy đói.)</i>.<br /> <br /> <b>4.</b> Với câu hỏi <b>What food does Alison give Jenny?</b> <i>(Alison đưa đồ ăn gì cho Jenny?),</i> <b></b>câu trong bài đọc liên quan là <b>Take these cookies.</b> <i>(Lấy những cái bánh quy này đi.).</i> Nên đáp áp là <b><span style=\"color:red\">B. cookies</span> </b><i>(bánh quy)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0e612577-1a01-46bd-b2a2-1382ae363e7d"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "7154d685-d999-460a-b313-e8951b2c98b8"
+          },
+          "cauHoi": "Who is Smith?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "08cdf1dd-cba5-4a07-b3b4-df176c7fdf84"
+              },
+              "dapAn": "A. a journalist",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "87ce07d4-a7cf-4931-ab4b-0c5cbfdae558"
+              },
+              "dapAn": "B. a chef",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5af46ada-4b62-4b9a-8b84-37f2e5214d00"
+              },
+              "dapAn": "C. a food scientist",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "c8ee97aa-ed9c-4785-b3e8-3f85d048300c"
+              },
+              "dapAn": "D. a writer",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "7a811d42-5025-41ba-8809-812b52b74782"
+          },
+          "cauHoi": "What does Smith give advice about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a60f231f-d224-4ca4-8ac1-1614d79c890e"
+              },
+              "dapAn": "A. juice ",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9646a414-1b87-402b-8e03-996228763060"
+              },
+              "dapAn": "B. coffee",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "10d630ec-2a69-451a-aa64-d5ec892618e5"
+              },
+              "dapAn": "C. food",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "8ee17378-7a76-4894-8cff-963be561d6dd"
+              },
+              "dapAn": "D. tea",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "343b61a2-3287-4945-ab99-77237932497b"
+          },
+          "cauHoi": "What does Smith also do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "94d07df7-66a9-4058-8435-cb506470fd67"
+              },
+              "dapAn": "A. eating only one kind of foods",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "15a38fed-379a-4ec9-9ae6-b55b97c616b4"
+              },
+              "dapAn": "B. drinking only one kind of drinks",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0d2c2075-84a7-4186-9280-568578c7a1d6"
+              },
+              "dapAn": "C. drinking different drinks",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "20ff52aa-4009-40d8-9391-f88614880b35"
+              },
+              "dapAn": "D. eating different foods",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "90832d5b-3137-468a-81fd-c16a92ac6bb1"
+          },
+          "cauHoi": "What does Smith say about his job?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f271e045-90a3-4b0e-a449-2ddfd761a08c"
+              },
+              "dapAn": "A. It’s great.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "c0b2150b-480d-435b-8232-f4aabdd7d096"
+              },
+              "dapAn": "B. It’s boring.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e3efa2ce-3f68-43e0-bab9-6d997b465ab4"
+              },
+              "dapAn": "C. It’s easy.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c13ad26f-02a6-4194-a623-cb26bccb0fa1"
+              },
+              "dapAn": "D. It’s difficult.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "I’m Smith. I’m a food scientist. I give advice about food - how to make it, and what food is good or bad for the body. I also eat different foods. It’s a great job!",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Who is Smith?</b> <i>(Smith là ai?),</i> <b></b>câu trong bài đọc liên quan là <b>I'm Smith. I'm a food scientist.</b> <i>(Tôi là Smith. Tôi là một nhà khoa học thực phẩm.).</i> Nên đáp áp là <b><span style=\"color:red\">C. a food scientist</span> </b><i>(nhà khoa học thực phẩm)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>What does Smith give advice about?</b> <i>(Smith đưa ra lời khuyên về cái gì?),</i> <b></b>câu trong bài đọc liên quan là <b>I give advice about food.</b> <i>(Tôi đưa ra lời khuyên về thực phẩm.).</i> Nên đáp áp là <b><span style=\"color:red\">C. food</span> </b><i>(thực phẩm)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>What does Smith also do?</b> <i>(Smith cũng làm gì nữa?),</i> <b></b>câu trong bài đọc liên quan là <b>I also eat different foods.</b> <i>(Tôi cũng ăn các loại đồ ăn khác nhau.).</i> Nên đáp áp là <b><span style=\"color:red\">A. eating different foods</span> </b><i>(ăn các loại đồ ăn khác nhau)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>What does Smith say about his job?</b> <i>(Smith nói gì về công việc của anh ấy?),</i> <b></b>câu trong bài đọc liên quan là <b>It's a great job!</b> <i>(Nó là một công việc tuyệt vời!).</i> Nên đáp áp là <b><span style=\"color:red\">A. It's great.</span> </b><i>(Nó tuyệt vời.)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "08b5d69c-4506-4d50-97dd-da4512908913"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "13431c15-2a85-4254-b4b1-471341ca062c"
+          },
+          "cauHoi": "What are customers eating?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ad1de044-c4d0-4d77-9120-63ee11e1e474"
+              },
+              "dapAn": "A. sandwiches",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f5b969fd-961b-4d8e-9b7c-b09e693e6a51"
+              },
+              "dapAn": "B. chicken",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b3c11072-3e6c-4b60-b72b-f75c2df8d697"
+              },
+              "dapAn": "C. cereal",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d77658eb-4f7a-42c9-8bf8-200b56f0ec2d"
+              },
+              "dapAn": "D. pasta",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "149b3d0e-52c6-4e30-a905-6a3004d3755c"
+          },
+          "cauHoi": "What do customers have to choose?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9300a7da-fb90-47dc-a84d-d284464d8472"
+              },
+              "dapAn": "A. their hated sandwiches",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "467b13b1-c246-4d1d-97d7-a6f2d90b46b0"
+              },
+              "dapAn": "B. the famous sandwiches",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3e0b2301-f133-40da-8bec-a99485012a16"
+              },
+              "dapAn": "C. the old sandwiches",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8f36275f-7bbc-485d-b7f8-6865033c9e17"
+              },
+              "dapAn": "D. their favorite sandwiches",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "15f7f7e8-86d4-4c46-8294-2a2af9136895"
+          },
+          "cauHoi": "What does the company do after making the favorite sandwiches?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b24270f2-24f1-478f-8e02-1593ddc7e2fe"
+              },
+              "dapAn": "A. eating the sandwiches",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7083c6db-5ce8-41bf-9858-3d7e6c421e3d"
+              },
+              "dapAn": "B. selling the sandwiches",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "8efec990-ee5e-47bd-8875-e17e475da782"
+              },
+              "dapAn": "C. sending the sandwiches to customers",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5a17f6de-0a8d-422c-85ae-2c46eb5ccc8d"
+              },
+              "dapAn": "D. throwing the sandwiches",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "27ebeb82-2d39-4ebd-a9f7-e4417189ab06"
+          },
+          "cauHoi": "What does the company feel when its customers are happy?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6e5d3fb8-9671-4b20-b690-495442c922e3"
+              },
+              "dapAn": "A. bored",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b6172744-9e13-4940-a236-bc557ecbd1cf"
+              },
+              "dapAn": "B. excited",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3ecf7581-b194-454d-b137-871651326923"
+              },
+              "dapAn": "C. happy",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "4fc89042-2ccd-461d-99bf-6350e9ede14b"
+              },
+              "dapAn": "D. tired",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Our customers are eating our new sandwiches today. Then they choose their favorite sandwiches, we make their favorite sandwiches – and we sell the sandwiches. The customers are happy. We’re happy!",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What are customers eating?</b> <i>(Các khách hàng đang ăn gì?),</i> <b></b>câu trong bài đọc liên quan là <b>Our customers are eating our new sandwiches today.</b> <i>(Hôm nay các khách hàng của chúng tôi đang ăn những chiếc bánh mì sandwich mới.).</i> Nên đáp áp là <b><span style=\"color:red\">A. sandwiches</span> </b><i>(bánh mì sandwich)</i>.<br /> <br /> <b>2.</b> Với câu hỏi <b>What do customers have to choose?</b> <i>(Các khách hàng phải chọn gì?),</i> <b></b>câu trong bài đọc liên quan là <b>Then they choose their favorite sandwiches</b> <i>(Sau đó họ chọn những chiếc bánh mì sandwich yêu thích của họ).</i> Nên đáp áp là <b><span style=\"color:red\">D. their favorite sandwiches</span> </b><i>(những chiếc bánh mì sandwich yêu thích của họ)</i>.<br /> <br /> <b>3.</b> Với câu hỏi <b>What does the company do after making the favorite sandwiches?</b> <i>(Công ty làm gì sau khi làm ra những chiếc bánh mì sandwich được yêu thích?),</i> <b></b>câu trong bài đọc liên quan là <b>we make their favorite sandwiches – and we sell the sandwiches</b> <i>(Chúng tôi làm ra những chiếc bánh mì sandwich yêu thích của họ - và chúng tôi bán chúng).</i> Nên đáp áp là <b><span style=\"color:red\">B. selling the sandwiches</span> </b><i>(bán những chiếc bánh mì sandwich)</i>.<br /> <br /> <b>4.</b> Với câu hỏi <b>What does the company feel when its customers are happy?</b> <i>(Công ty cảm thấy thế nào khi khách hàng hạnh phúc?),</i> <b></b>câu trong bài đọc liên quan là <b>The customers are happy. We're happy!</b> <i>(Các khách hàng hạnh phúc. Chúng tôi cũng hạnh phúc!).</i> Nên đáp áp là <b><span style=\"color:red\">C. happy</span> </b><i>(hạnh phúc)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "52f51149-0e64-4a35-9e3b-97babeaac50e"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "0567bcec-43e1-411d-b592-ce1a6f72226e"
+          },
+          "cauHoi": "Where is the author’s father from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "95ae5ea9-660b-4fba-a7d0-58aba6ab5d43"
+              },
+              "dapAn": "A. America",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8dddae98-efef-45a9-96a7-62513c1e3f76"
+              },
+              "dapAn": "B. Spain",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e60ad4a9-c6a6-4581-afff-4f8d12782b84"
+              },
+              "dapAn": "C. England",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c231cf5f-c778-4d2c-b1e6-efe9621a67c0"
+              },
+              "dapAn": "D. Brazil",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ae1740ba-0c4c-491e-820e-e39f428b8969"
+          },
+          "cauHoi": "What does the father do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "336a61a0-4486-415f-94ce-91b83202bfc6"
+              },
+              "dapAn": "A. a chef",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "22d42652-a1a5-4216-8088-b7a236a12e17"
+              },
+              "dapAn": "B. a waiter",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8cc3a4e9-bd1e-4020-ad6a-7bf0972722c4"
+              },
+              "dapAn": "C. a pilot",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "55eec99e-6134-4ccc-b097-dd8aeb5a8260"
+              },
+              "dapAn": "D. a writer",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "543ecf85-ec6e-42b7-b66a-3791cc2609e5"
+          },
+          "cauHoi": "When does the father finish his work?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "be207d7f-cf39-4b3c-be94-eb1f9fd716df"
+              },
+              "dapAn": "A. 8:00 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "347cf03f-ec0b-49a6-92cd-fe0cd32f3066"
+              },
+              "dapAn": "B. 8:00 p.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d9096658-1d22-41ad-8aa4-a7ca7efbb437"
+              },
+              "dapAn": "C. 11:00 a.m.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0d79e9e9-e267-483c-a72e-bee5ca54eb67"
+              },
+              "dapAn": "D. 11:00 p.m.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "4d51fcfe-f3c6-440a-a36e-b66c10b5f19a"
+          },
+          "cauHoi": "Why is the father always tired?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7b74d2b9-9c29-43d8-9c8b-b7dbc39e5d63"
+              },
+              "dapAn": "A. He rarely cooks.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0eaaea6a-a254-47fa-b975-7893f8a8c379"
+              },
+              "dapAn": "B. He rarely goes home after work.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6493366a-8360-471e-9e62-9d3a0b2f0163"
+              },
+              "dapAn": "C. He rarely has any free time.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "50fb089f-ca10-42a6-bff1-86f4f4f3783d"
+              },
+              "dapAn": "D. He rarely has any work to do.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "My father isn’t from America. He’s from Spain. He is a chef. He starts work at 8:00 a.m. and finishes at about 11:00 p.m. He rarely has any free time. He’s always tired.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Where is the author's father from?</b> <i>(Bố của tác giả đến từ đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>My father isn't from America. He's from Spain.</b> <i>(Bố tôi không đến từ nước Mỹ. Ông đến từ nước Tây Ban Nha.).</i> Nên đáp áp là <b><span style=\"color:red\">B. Spain</span> </b><i>(nước Tây Ban Nha)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>What does the father do?</b> <i>(Người bố làm nghề gì?),</i> <b></b>câu trong bài đọc liên quan là <b>He is a chef.</b> <i>(Ông ấy là một đầu bếp.).</i> Nên đáp áp là <b><span style=\"color:red\">A. a chef</span> </b><i>(một đầu bếp)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>When does the father finish his work?</b> <i>(Khi nào người bố hoàn thành công việc?),</i> <b></b>câu trong bài đọc liên quan là <b>He starts work at 8:00 a.m. and finishes at about 11:00 p.m.</b> <i>(Ông ấy bắt đầu công việc lúc 8 giờ sáng và hoàn thành vào khoảng 11 giờ đêm.).</i> Nên đáp áp là <b><span style=\"color:red\">D. 11:00 p.m.</span> </b><i>(11 giờ đêm)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>Why is the father always tired?</b> <i>(Tại sao người bố luôn cảm thấy mệt mỏi?),</i> <b></b>câu trong bài đọc liên quan là <b>He rarely has any free time. He's always tired.</b> <i>(Ông ấy hiếm khi có thời gian rảnh. Ông ấy luôn thấy mệt mỏi.).</i> Nên đáp áp là <b><span style=\"color:red\">C. He rarely has any free time.</span></b> <i>(Ông ấy hiếm khi có thời gian rảnh.)</i>.",
+      "danhSachDapAn": []
+    }
+  ]
+}

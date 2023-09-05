@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "fd5f17b8-4e48-4144-881a-05c63a66fe4b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Good afternoon. What _____ I get you?",
+      "yNghia": "Good afternoon. What <span style=\"color:red\">can</span> I get you?<br />\r\n<i>Chào buổi chiều. Tôi <span style=\"color:red\">có thể </span>giúp gì cho bạn?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d4c4a078-d6b4-49da-bc42-e392befff3a1"
+          },
+          "dapAn": "do",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "54dfaadb-e2a7-4547-8a33-fff33407b26d"
+          },
+          "dapAn": "will ",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9afac723-41d5-47ca-9c70-bb9d62728441"
+          },
+          "dapAn": "can",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_1. Good ... you.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_1. Good ... you.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "dcd01c76-2664-4d77-b523-9f864cfd8a12"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can I _____ a black coffee, please?",
+      "yNghia": "Can I <span style=\"color:red\">get </span>a black coffee, please?<br />\r\n<i>Làm ơn cho tôi một ly cà phê đen được không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "753f4bf9-35b6-4b27-a73e-2562f76918c8"
+          },
+          "dapAn": "get",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ba1acfa4-3dee-430f-8509-db827610ff14"
+          },
+          "dapAn": "have",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5c89e7ab-fe9d-4fed-ab4f-b2a85f575481"
+          },
+          "dapAn": "drink",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_2. Can ... please.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_2. Can ... please.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ffe1bd0f-d4f3-4329-a5ec-128e7d23165f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What size _____ you want: small, medium or large?",
+      "yNghia": "What size <span style=\"color:red\">do</span> you want: small, medium or large?<br />\r\n<i>Bạn muốn cỡ nào: nhỏ, vừa, hay lớn?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "49bcf876-cf14-4071-89aa-d14537538d55"
+          },
+          "dapAn": "did",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "69a0cc53-b164-470c-9bd8-60b27f9d02bc"
+          },
+          "dapAn": "do ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "908359ef-8c88-4a48-a892-d3a991f9c293"
+          },
+          "dapAn": "will ",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_3. What ... large.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_3. What ... large.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "11d5a080-a509-40ed-bca4-aae2dc32f387"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I _____ very tired today.",
+      "yNghia": "I <span style=\"color:red\">am</span> very tired today.<br />\r\n<i>Hôm nay tôi rất mệt.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e46030fa-a807-4712-b741-5e68a1ec3d0e"
+          },
+          "dapAn": "am ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d65cb354-8399-420d-941c-0a7c8b42ab9f"
+          },
+          "dapAn": "am not",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9d5104e7-7c7d-4ec6-afd6-06cc2dfa8894"
+          },
+          "dapAn": "was",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_4. I ... today.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_4. I ... today.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a79581e6-1c75-4367-8b89-83e1c42a7966"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you _____ any other drinks?",
+      "yNghia": "Do you <span style=\"color:red\">want</span> any other drinks?<br />\r\n<i>Bạn có <span style=\"color:red\">muốn </span>gọi đồ uống nào nữa không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a27d4447-2e81-4099-a52c-6027bf03de81"
+          },
+          "dapAn": "get",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "15fca8a5-6a93-4bdd-a2cc-54981d02a4d8"
+          },
+          "dapAn": "want",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1e9ff19d-4798-43ee-aa69-e1986a8fca79"
+          },
+          "dapAn": "buy",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_5. Do ... drinks.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_5. Do ... drinks.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e4bbf75e-a9c3-4485-a5e7-16eda0d767b5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I want _____ orange juice, please.",
+      "yNghia": "I want <span style=\"color:red\">an </span>orange juice, please.<br />\r\n<i>Làm ơn cho tôi <span style=\"color:red\">một </span>ly nước cam.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7fede736-b7b4-4c6b-8530-2dc0b8ba3adf"
+          },
+          "dapAn": "some",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "39639279-5e11-48d9-8ef6-d8db7a6969e1"
+          },
+          "dapAn": "an",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e05d4a14-4514-442f-84d5-165d3a1f93d1"
+          },
+          "dapAn": "the",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_6. I ... please.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_6. I ... please.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "436ddaa4-d88b-4c13-b18d-3b3876353243"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There's a cup of __________.",
+      "yNghia": "There's a cup of <span style=\"color:red\">coffee</span>.<br />\r\n<i>Có một cốc <span style=\"color:red\">cà phê</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "17430f00-4b9c-48dc-820d-e9ff8402b9eb"
+          },
+          "dapAn": "orange juice",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "99c738b3-2ae3-44a4-a352-695499a5cb73"
+          },
+          "dapAn": "tea",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6cfe3aff-44b0-4995-949e-7b75baf0ea8c"
+          },
+          "dapAn": "coffee",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_7. There_s ... coffee.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_7. There_s ... coffee.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "8c108875-5696-4f2c-ad86-5539c2b42a12"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes, that _____ right.",
+      "yNghia": "Yes, that <span style=\"color:red\">is </span>right.<br />\r\n<i>Đúng vậy.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "86628b68-5b57-461a-ab62-41a11ad326f5"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e3b0c67f-97f0-49d8-9234-2f46e3af222c"
+          },
+          "dapAn": "isn't",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "cab73731-0336-48ce-9c87-5cdf8c6417ea"
+          },
+          "dapAn": "is not",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_8. Yes ... right.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_8. Yes ... right.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "fed11831-3eb3-4493-a35b-c845b61a2e0a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "_____ that for here or to go?",
+      "yNghia": "<span style=\"color:red\">Is</span> that for here or to go?<br />\r\n<i>Bạn dùng món đó ở đây hay mang về?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7ba3e5d0-4b55-4d0c-b8a1-a13092076a1e"
+          },
+          "dapAn": "Is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2af034b8-9c02-4505-98b4-e235159ffb1e"
+          },
+          "dapAn": "Is not",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b9ae7ca3-1503-4b3a-90b0-21417a210f2c"
+          },
+          "dapAn": "Isn't",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_9. Is ... go.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_9. Is ... go.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "49817cae-3005-4020-8dc3-fb7d8ee25058"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "_____ I get you some food?",
+      "yNghia": "<span style=\"color:red\">Can</span> I get you some food?<br />\r\n<i>Tôi <span style=\"color:red\">có thể </span>lấy cho bạn một ít thức ăn được không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fa7559ba-1c58-45cc-83f7-3a1e35f66bcd"
+          },
+          "dapAn": "Could",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "043e9698-54dd-483a-830d-54ebea3f3b69"
+          },
+          "dapAn": "Should",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e7239b24-a502-4dcc-aba4-a51587c9dbab"
+          },
+          "dapAn": "Can",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_10. Can ... food.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_10. Can ... food.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d6763ec5-4672-4785-ac7a-b236305291a7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Is there _____ soup?",
+      "yNghia": "Is there <span style=\"color:red\">any</span> soup? <br />\r\n<i>Có súp không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6d98cec1-9676-4998-8116-2ada85f8f82f"
+          },
+          "dapAn": "some",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d1868063-b7a1-4265-9f56-1474905146c9"
+          },
+          "dapAn": "many",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e1b45fdc-29f7-4624-8135-85efa056e5f6"
+          },
+          "dapAn": "any",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_11. Is ... soup.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_11. Is ... soup.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "62612f67-1c88-47f5-b9cb-dda681ce69a2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We _____ chicken soup.",
+      "yNghia": "We <span style=\"color:red\">have</span> chicken soup. <br />\r\n<i>Chúng tôi <span style=\"color:red\">có </span>súp gà.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "35cda673-bbe5-4afb-b890-e52d54f60607"
+          },
+          "dapAn": "haven't",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ecf2c326-d212-44f6-9ff5-f504a6f0f16f"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f8488c96-88c4-424d-8307-bf6239a7289f"
+          },
+          "dapAn": "have not",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_12. We ... soup.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_12. We ... soup.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "353c4578-993b-4414-bced-97205663de4a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I have _____ bowl of chicken soup.",
+      "yNghia": "I have <span style=\"color:red\">a</span> bowl of chicken soup.<br />\r\n<i>Tôi có <span style=\"color:red\">một </span>bát súp gà.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a7e97727-8e82-4de7-b967-747c527ac449"
+          },
+          "dapAn": "a ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c7ee8043-dc30-4204-8723-0066a8e96809"
+          },
+          "dapAn": "the",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d2f6bf13-1eca-4ef8-8da6-405b36fbf2c2"
+          },
+          "dapAn": "some",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_13. I ... soup.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_13. I ... soup.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "0b3ede0e-f635-4569-ab5c-f4d4915fcce8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I want _____ sandwich.",
+      "yNghia": "I want <span style=\"color:red\">a</span> sandwich. <br />\r\n<i>Tôi muốn <span style=\"color:red\">một </span>cái bánh mì sandwich.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "31774c6c-cbb3-4887-bc76-15f8d7971abf"
+          },
+          "dapAn": "a",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "49a30cda-a8a9-4530-aab1-28abd05b9afe"
+          },
+          "dapAn": "an",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8f93dd3b-504d-4261-b9a1-ae405f84ffff"
+          },
+          "dapAn": "the",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_14. I ... sandwich.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_14. I ... sandwich.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e63b43f8-e751-4811-aa1b-ef160c3e6752"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Is _____ anything else, sir?",
+      "yNghia": "Is <span style=\"color:red\">there</span> anything else, sir? <br />\n<i>Còn gì nữa không, thưa ông?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f4f9a9bb-6bed-4f6d-95e8-cc2d45de763f"
+          },
+          "dapAn": "these",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fb7565b4-5df4-4c0c-85d3-c3d0c41a0197"
+          },
+          "dapAn": "here",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2a54ae67-3ef4-4720-b599-0b80d290d953"
+          },
+          "dapAn": "there",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_15. Is ... sir.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_15. Is ... sir.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3bde094b-58f5-4e56-b2c3-f3529480b10f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "_____ you have food for children?",
+      "yNghia": "<span style=\"color:red\">Do</span> you have food for children?<br />\r\n<i>Bạn có đồ ăn cho trẻ em không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b8d3c58a-026b-4497-a6ac-23e224ff1786"
+          },
+          "dapAn": "Don't",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "26b4217f-2a3a-4224-baa3-785dabe2a8db"
+          },
+          "dapAn": "Do ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fd28e649-7139-4538-9563-b25f9c13860a"
+          },
+          "dapAn": "Did",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_16. Do ... children.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_16. Do ... children.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "98fab841-397c-48fb-9be6-5123e47be735"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We have ______ cookies and chocolate cakes.",
+      "yNghia": "We have <span style=\"color:red\">some</span> cookies and chocolate cakes.<br />\r\n<i>Chúng tôi có <span style=\"color:red\">một vài </span>miếng bánh quy và bánh sô-cô-la.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f186d87b-0732-4701-a590-b6b4911939db"
+          },
+          "dapAn": "ten",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "02ee463b-837e-41f4-84db-23a60694e818"
+          },
+          "dapAn": "many",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f1d7d035-1c3c-4262-968d-bdb8c270bf1c"
+          },
+          "dapAn": "some",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_17. We ... cakes.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_17. We ... cakes.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "cf5bb798-4c26-4ab3-b5fc-dedf3ff1ec74"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I take _____ cake to go.",
+      "yNghia": "I take <span style=\"color:red\">a</span> cake to go.<br />\r\n<i>Tôi lấy <span style=\"color:red\">một </span>cái bánh để mang đi.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "782ac36f-6ed7-40fb-a0e6-1de8fdf95235"
+          },
+          "dapAn": "a ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8d765a7c-aaad-4c83-a480-35d18d41c3ab"
+          },
+          "dapAn": "this",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4d586e3e-df7c-4ce1-9dad-04795acb15df"
+          },
+          "dapAn": "the",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_18. I ... go.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_18. I ... go.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "8c0b8b68-fbca-4705-a02c-f608e52cf800"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There _____ a sandwich for breakfast.",
+      "yNghia": "There <span style=\"color:red\">is</span> a sandwich for breakfast.<br />\r\n<i>Có một cái bánh sandwich cho bữa sáng.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2aec03ec-cc00-4ed5-b45d-25f05299242b"
+          },
+          "dapAn": "was",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e300d18c-1ac4-462d-a7b3-720ff06e626b"
+          },
+          "dapAn": "be",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "af55d2ec-4a0e-4e16-b3a1-611344e10465"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_19. There ... breakfast.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_19. There ... breakfast.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "bb27b85b-20fe-4931-b442-54257e61d4db"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Are there _____ vegetables?",
+      "yNghia": "Are there <span style=\"color:red\">any</span> vegetables?<br />\n<i>Có chút rau <span style=\"color:red\">nào </span>không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "587ebe04-5524-4af4-9941-839c93171681"
+          },
+          "dapAn": "some",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "dc1e29b8-581b-454d-8aea-184c4645318a"
+          },
+          "dapAn": "any",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "921c42af-ac81-45b6-a6d1-8a4a62539f08"
+          },
+          "dapAn": "many",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L22/sounds/normal/PRES_22_LISTENING_20. Are ... vegetables.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L22/sounds/slow/PRES_22_LISTENING_20. Are ... vegetables.mp3"
+    }
+  ]
+}

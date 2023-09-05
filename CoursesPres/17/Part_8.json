@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L17/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L17/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "23f52bbd-6010-466a-a26b-3b74793d0e75"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Francesca",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c523b75c-7da5-4cf4-a9db-d8a2644bdb1e"
+          },
+          "dapAn": "Hello, I'm Francesca.",
+          "phienAm": "/heˈləʊ aɪm frænˈtʃeskə/",
+          "yNghia": " Xin chào, mình là Francesca.",
+          "normal": {
+            "start": "00:00:00.616",
+            "end": "00:00:02.901"
+          },
+          "slow": {
+            "start": "00:00:01.135",
+            "end": "00:00:05.108"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3c811af3-3bda-40b9-9a56-c1565d5cd78e"
+          },
+          "dapAn": "I'm from New York.",
+          "phienAm": "/aɪm frɒm njuː jɔːk/",
+          "yNghia": " Mình đến từ New York.",
+          "normal": {
+            "start": "00:00:09.832",
+            "end": "00:00:11.320"
+          },
+          "slow": {
+            "start": "00:00:13.554",
+            "end": "00:00:15.791"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "73b7abe8-6a5d-43b2-a5b3-a4f734a6b036"
+          },
+          "dapAn": "I study Art.",
+          "phienAm": "/aɪ ˈstʌdi ɑːt/",
+          "yNghia": " Mình học Mỹ thuật.",
+          "normal": {
+            "start": "00:00:14.274",
+            "end": "00:00:16.840"
+          },
+          "slow": {
+            "start": "00:00:20.498",
+            "end": "00:00:22.935"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a8a8eb36-d7b4-4e76-ad00-26d56d3a8bcb"
+          },
+          "dapAn": "Yes, I can.\n",
+          "phienAm": "/jes aɪ kæn/",
+          "yNghia": " Có chứ.",
+          "normal": {
+            "start": "00:00:20.613",
+            "end": "00:00:21.922"
+          },
+          "slow": {
+            "start": "00:00:28.135",
+            "end": "00:00:30.900"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4be4785d-74df-477c-85be-2c54692528b5"
+          },
+          "dapAn": "Yes, I love drawing animals.",
+          "phienAm": "/jes aɪ lʌv ˈdrɔːɪŋ ˈænɪməlz/",
+          "yNghia": " Có, mình rất thích vẽ động vật.",
+          "normal": {
+            "start": "00:00:27.493",
+            "end": "00:00:30.162"
+          },
+          "slow": {
+            "start": "00:00:38.092",
+            "end": "00:00:42.298"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "86d983cc-1e45-4a7e-9cec-6482abc457c9"
+          },
+          "dapAn": "No, I can't. I can't swim, but I can do karate. How about you?",
+          "phienAm": "/nəʊ aɪ kɑːnt/. /aɪ kɑːnt swɪm bʌt aɪ kæn duː kəˈrɑːti/. /haʊ əˈbaʊt juː/",
+          "yNghia": " Không. Mình không thể bơi, nhưng mình có thể đánh võ karate. Còn bạn thì sao?",
+          "normal": {
+            "start": "00:00:35.219",
+            "end": "00:00:43.023"
+          },
+          "slow": {
+            "start": "00:00:48.741",
+            "end": "00:00:58.723"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c1d80f0a-14e5-46fd-895c-976f7c5a3d26"
+          },
+          "dapAn": "Oh really? How often do you play soccer?",
+          "phienAm": "/əʊ ˈrɪəli/. /haʊ ˈɒfn duː juː pleɪ ˈsɒkər/",
+          "yNghia": " Ồ thật sao? Bạn có thường chơi bóng đá không?",
+          "normal": {
+            "start": "00:00:49.158",
+            "end": "00:00:52.418"
+          },
+          "slow": {
+            "start": "00:01:05.534",
+            "end": "00:01:09.974"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "75345841-c9ac-401c-8c0b-f7563c56d3fc"
+          },
+          "dapAn": "Yes, I do it a lot.",
+          "phienAm": "/jes aɪ duː ɪt ə lɒt/",
+          "yNghia": " Có, mình luyện tập rất nhiều.",
+          "normal": {
+            "start": "00:01:01.326",
+            "end": "00:01:03.559"
+          },
+          "slow": {
+            "start": "00:01:20.791",
+            "end": "00:01:24.096"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8a0cde16-d901-44c0-a22a-995db2bf3d4c"
+          },
+          "dapAn": "Are you in any sports clubs?",
+          "phienAm": "/ɑːr juː ɪn ˈeni spɔːts klʌbz/",
+          "yNghia": " Bạn có tham gia câu lạc bộ thể thao nào không?",
+          "normal": {
+            "start": "00:01:10.618",
+            "end": "00:01:12.980"
+          },
+          "slow": {
+            "start": "00:01:32.475",
+            "end": "00:01:35.613"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3e39ce52-8a8e-49a5-9cd7-cb1bf5b92357"
+          },
+          "dapAn": "That's great. Do you think I can join the Karate Club?",
+          "phienAm": "/ðæts greɪt/. /duː juː θɪŋk aɪ kæn ʤɔɪn ðə kəˈrɑːti klʌb/",
+          "yNghia": "\nTuyệt đó. Bạn nghĩ mình có thể tham gia Câu lạc bộ Karate được không?",
+          "normal": {
+            "start": "00:01:17.906",
+            "end": "00:01:22.118"
+          },
+          "slow": {
+            "start": "00:01:42.324",
+            "end": "00:01:47.999"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "eee5198d-a1cf-43b6-aa51-2622a5dd57f2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Ricardo",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fdaa0a05-1727-479f-94e2-c4b5197746d3"
+          },
+          "dapAn": "Hey, Francesca. Welcome to college! Where are you from?",
+          "phienAm": "/heɪ frænˈtʃeskə/. /ˈwelkəm tuː ˈkɒlɪʤ/. /weər ɑːr juː frɒm/",
+          "yNghia": " Chào, Francesca. Chào mừng bạn đến với trường đại học! Bạn đến từ đâu thế?",
+          "normal": {
+            "start": "00:00:04.492",
+            "end": "00:00:08.753"
+          },
+          "slow": {
+            "start": "00:00:06.410",
+            "end": "00:00:12.085"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "46e80b7d-d6f6-4144-9569-1f20886b9314"
+          },
+          "dapAn": "And what's your major?",
+          "phienAm": "/ænd wɒts jɔːr ˈmeɪʤər/",
+          "yNghia": " Chuyên ngành của bạn là gì vậy?",
+          "normal": {
+            "start": "00:00:12.527",
+            "end": "00:00:14.016"
+          },
+          "slow": {
+            "start": "00:00:17.226",
+            "end": "00:00:18.996"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "20d86028-f891-4bca-be18-60923e5d80ed"
+          },
+          "dapAn": "Art? Can you draw?",
+          "phienAm": "/ɑːt/. /kæn juː drɔː/",
+          "yNghia": " Mỹ thuật ư? Bạn có thể vẽ không?",
+          "normal": {
+            "start": "00:00:17.815",
+            "end": "00:00:19.484"
+          },
+          "slow": {
+            "start": "00:00:24.671",
+            "end": "00:00:26.875"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "250e7782-6b14-47c2-85df-8f0178d7c664"
+          },
+          "dapAn": "What can you draw? Can you draw animals?",
+          "phienAm": "/wɒt kæn juː drɔː/. /kæn juː drɔː ˈænɪməlz/",
+          "yNghia": " Bạn có thể vẽ gì vậy? Bạn có thể vẽ động vật không?",
+          "normal": {
+            "start": "00:00:23.052",
+            "end": "00:00:26.106"
+          },
+          "slow": {
+            "start": "00:00:32.383",
+            "end": "00:00:36.556"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b071d234-e67b-40ab-99ca-0c502fb7f091"
+          },
+          "dapAn": "Do you like sports? Can you swim?",
+          "phienAm": "/duː juː laɪk spɔːts/. /kæn juː swɪm/",
+          "yNghia": " Bạn có thích thể thao không? Bạn có thể bơi chứ?",
+          "normal": {
+            "start": "00:00:31.420",
+            "end": "00:00:34.013"
+          },
+          "slow": {
+            "start": "00:00:43.433",
+            "end": "00:00:47.106"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "cf2d8d64-5b65-4ab1-8657-1d66529156cd"
+          },
+          "dapAn": "I can't do karate, but I can play soccer.",
+          "phienAm": "/aɪ kɑːnt duː kəˈrɑːti bʌt aɪ kæn pleɪ ˈsɒkər/",
+          "yNghia": " Mình không biết đánh võ karate, nhưng mình có thể chơi bóng đá.",
+          "normal": {
+            "start": "00:00:44.589",
+            "end": "00:00:47.900"
+          },
+          "slow": {
+            "start": "00:01:00.226",
+            "end": "00:01:04.399"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4aae5c03-fa40-4e21-903c-342fe9f7c31d"
+          },
+          "dapAn": "I play soccer about once a week. Do you often do karate in your free time?",
+          "phienAm": "/aɪ pleɪ ˈsɒkər əˈbaʊt wʌns ə wiːk/. /duː juː ˈɒfn duː kəˈrɑːti ɪn jɔːr friː taɪm/",
+          "yNghia": " Mình chơi bóng đá một lần một tuần. Bạn có thường tập võ karate vào thời gian rảnh không?",
+          "normal": {
+            "start": "00:00:54.138",
+            "end": "00:00:59.888"
+          },
+          "slow": {
+            "start": "00:01:11.510",
+            "end": "00:01:18.954"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0205708a-de3f-440c-b0d2-0b3e252210e9"
+          },
+          "dapAn": "Wow! Our college has over 75 sports clubs.",
+          "phienAm": "/waʊ/. /ˈaʊər ˈkɒlɪʤ hæz ˈəʊvər ˈsevnti faɪv spɔːts klʌbz/",
+          "yNghia": " Ồ! Trường đại học của chúng ta có hơn 75 câu lạc bộ thể thao đó.",
+          "normal": {
+            "start": "00:01:04.945",
+            "end": "00:01:09.001"
+          },
+          "slow": {
+            "start": "00:01:25.832",
+            "end": "00:01:30.773"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "04a6a78c-f7a7-420e-9060-b6acb72ec3ef"
+          },
+          "dapAn": "Yes, I am. I joined the Football Club.",
+          "phienAm": "/jes aɪ æm/. /aɪ ʤɔɪnd ðə ˈfʊtbɔːl klʌb/",
+          "yNghia": "\nCó. Mình đã tham gia Câu lạc bộ Bóng đá.",
+          "normal": {
+            "start": "00:01:13.707",
+            "end": "00:01:16.933"
+          },
+          "slow": {
+            "start": "00:01:36.915",
+            "end": "00:01:40.821"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ec442e67-b237-4701-bc81-b736cc3a8ec0"
+          },
+          "dapAn": "Of course you can. There's a club for every sport!",
+          "phienAm": "/ɒv kɔːs juː kæn/. /ðeəz ə klʌb fɔːr ˈevri spɔːt/",
+          "yNghia": " Đương nhiên bạn có thể rồi. Có một câu lạc bộ cho mỗi môn thể thao mà!",
+          "normal": {
+            "start": "00:01:23.890",
+            "end": "00:01:27.663"
+          },
+          "slow": {
+            "start": "00:01:50.102",
+            "end": "00:01:54.643"
+          }
+        }
+      ]
+    }
+  ]
+}

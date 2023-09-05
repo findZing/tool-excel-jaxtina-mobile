@@ -1,0 +1,684 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_TC_L16/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_TC_L16/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "e0b5b4ea-7c85-4360-ba17-8326aec0a2a7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Linda",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "295b62ab-52bc-45c0-89c1-a14210157759"
+          },
+          "dapAn": "Good morning, Pat. Welcome to ABC company.",
+          "phienAm": "/gʊd ˈmɔːnɪŋ pæt/. /ˈwelkəm tuː ˈeɪbiːsiː ˈkʌmpəni/",
+          "yNghia": "\nChào buổi sáng, Pat. Chào mừng bạn đến với công ty ABC.",
+          "normal": {
+            "start": "00:00:01.335",
+            "end": "00:00:05.245"
+          },
+          "slow": {
+            "start": "00:00:01.306",
+            "end": "00:00:07.809"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e7a2737c-262e-4db3-abe8-1be754a8d16f"
+          },
+          "dapAn": "Did you bring your résumé?",
+          "phienAm": "/dɪd juː brɪŋ jɔːr ˈrezjuːmeɪ/",
+          "yNghia": "\nBạn có mang theo sơ yếu lý lịch của mình không?",
+          "normal": {
+            "start": "00:00:11.014",
+            "end": "00:00:12.635"
+          },
+          "slow": {
+            "start": "00:00:13.470",
+            "end": "00:00:16.140"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "44d0a083-2976-4756-8476-a68c9c1a39ec"
+          },
+          "dapAn": "Okay, I will check it later. Could we start now?",
+          "phienAm": "/əʊˈkeɪ aɪ wɪl ʧek ɪt ˈleɪtər/. /kʊd wiː stɑːt naʊ/",
+          "yNghia": "\nĐược rồi, tôi sẽ kiểm tra sau. Chúng ta có thể bắt đầu ngay bây giờ không?",
+          "normal": {
+            "start": "00:00:20.765",
+            "end": "00:00:25.748"
+          },
+          "slow": {
+            "start": "00:00:26.213",
+            "end": "00:00:33.238"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "dc59c05d-c9b5-4850-a649-cc62405ecbed"
+          },
+          "dapAn": "Why did you apply for this job?",
+          "phienAm": "/waɪ dɪd juː əˈplaɪ fɔːr ðɪs ʤɒb/",
+          "yNghia": "\nTại sao bạn nộp đơn cho công việc này?",
+          "normal": {
+            "start": "00:00:29.848",
+            "end": "00:00:32.387"
+          },
+          "slow": {
+            "start": "00:00:38.319",
+            "end": "00:00:41.947"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d040ddb7-13c3-4cd2-97da-d37edc563953"
+          },
+          "dapAn": "Have you ever participated in any of our seminars about this industry?",
+          "phienAm": "/hæv juː ˈevər pɑːˈtɪsɪpeɪtɪd ɪn ˈeni ɒv ˈaʊə ˈsemɪnɑːz əˈbaʊt ðɪs ˈɪndəstri/",
+          "yNghia": "\nBạn đã bao giờ tham gia bất kỳ hội thảo nào của chúng tôi về ngành này chưa?",
+          "normal": {
+            "start": "00:00:40.898",
+            "end": "00:00:45.571"
+          },
+          "slow": {
+            "start": "00:00:50.975",
+            "end": "00:00:58.029"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "cf800ad9-4ea5-4c09-931e-0d88a13cf197"
+          },
+          "dapAn": "In the future, you should try to join. They are helpful for your interpersonal skill.",
+          "phienAm": "/ɪn ðə ˈfjuːʧər juː ʃʊd traɪ tuː ʤɔɪn/. /ðeɪ ɑːr ˈhelpfʊl fɔːr jɔːr ˌɪntəˈpɜːsənəl skɪl/",
+          "yNghia": "\nTrong tương lai, bạn nên cố gắng tham gia. Chúng rất hữu ích cho kỹ năng giao tiếp của bạn.",
+          "normal": {
+            "start": "00:00:53.975",
+            "end": "00:00:59.387"
+          },
+          "slow": {
+            "start": "00:01:07.551",
+            "end": "00:01:16.027"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "231b893b-b2b1-4766-b861-acca88fd3b30"
+          },
+          "dapAn": "What do you think about your cognitive skill?",
+          "phienAm": "/wɒt duː juː θɪŋk əˈbaʊt jɔːr ˈkɒgnɪtɪv skɪl/",
+          "yNghia": "\nBạn nghĩ gì về kỹ năng nhận thức của mình?",
+          "normal": {
+            "start": "00:01:04.441",
+            "end": "00:01:07.516"
+          },
+          "slow": {
+            "start": "00:01:20.324",
+            "end": "00:01:24.968"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8c360176-fc39-4ec7-a09a-6cc7fdfe110a"
+          },
+          "dapAn": "Can you give me an example?",
+          "phienAm": "/kæn juː gɪv miː æn ɪgˈzɑːmpl/",
+          "yNghia": "\nBạn có thể cho tôi một ví dụ được không?",
+          "normal": {
+            "start": "00:01:17.041",
+            "end": "00:01:18.698"
+          },
+          "slow": {
+            "start": "00:01:34.635",
+            "end": "00:01:37.190"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4cec7d95-4f3c-4b98-807e-45815f6ce515"
+          },
+          "dapAn": "Interesting! The last question, what do you do in your free time?",
+          "phienAm": "/ˈɪntrɪstɪŋ/. /ðə lɑːst ˈkwesʧən wɒt duː juː duː ɪn jɔːr friː taɪm/",
+          "yNghia": "\nThật thú vị! Câu hỏi cuối cùng, bạn làm gì trong thời gian rảnh rỗi?",
+          "normal": {
+            "start": "00:01:27.542",
+            "end": "00:01:33.908"
+          },
+          "slow": {
+            "start": "00:01:48.163",
+            "end": "00:01:56.726"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "353f6dc7-b0c3-4f68-a331-56308ee4809a"
+          },
+          "dapAn": "Thank you for sharing. We will inform you the result on next Monday.",
+          "phienAm": "/θæŋk juː fɔːr ˈʃeərɪŋ/. /wiː wɪl ɪnˈfɔːm juː ðə rɪˈzʌlt ɒn nekst ˈmʌndeɪ/",
+          "yNghia": "\nCảm ơn bạn đã chia sẻ. Chúng tôi sẽ thông báo cho bạn kết quả vào thứ Hai tới.",
+          "normal": {
+            "start": "00:01:42.288",
+            "end": "00:01:47.723"
+          },
+          "slow": {
+            "start": "00:02:04.767",
+            "end": "00:02:12.518"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "242eb9ab-50f0-4b1b-8bae-2962e4cde915"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Pat",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "af24558b-473d-46af-86a6-3c20efe75181"
+          },
+          "dapAn": "Good morning. Thank you for inviting me!",
+          "phienAm": "/gʊd ˈmɔːnɪŋ/. /θæŋk juː fɔːr ɪnˈvaɪtɪŋ miː/",
+          "yNghia": "\nChào buổi sáng. Cảm ơn bạn đã mời tôi!",
+          "normal": {
+            "start": "00:00:06.866",
+            "end": "00:00:09.679"
+          },
+          "slow": {
+            "start": "00:00:09.115",
+            "end": "00:00:12.744"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "655e34b3-a6ec-4f21-b1d1-546ee531c59b"
+          },
+          "dapAn": "Yes, I have it with me. I also prepared some diplomas in case you need to see them.",
+          "phienAm": "/jes aɪ hæv ɪt wɪð miː/. /aɪ ˈɔːlsəʊ prɪˈpeəd sʌm dɪˈpləʊməz ɪn keɪs juː niːd tuː siː ðem/",
+          "yNghia": "\nVâng, tôi có mang nó đây. Tôi cũng đã chuẩn bị một số chứng chỉ trong trường hợp bạn cần xem chúng.",
+          "normal": {
+            "start": "00:00:13.637",
+            "end": "00:00:19.752"
+          },
+          "slow": {
+            "start": "00:00:17.156",
+            "end": "00:00:25.313"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "532a4412-95c1-4c64-9d11-71b2b22aeadc"
+          },
+          "dapAn": "Yes, ma’am, I am ready.",
+          "phienAm": "/jes mæm aɪ æm ˈredi/",
+          "yNghia": "\nVâng thưa bà, tôi đã sẵn sàng.",
+          "normal": {
+            "start": "00:00:27.238",
+            "end": "00:00:28.895"
+          },
+          "slow": {
+            "start": "00:00:34.283",
+            "end": "00:00:36.693"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a17e77f9-5de2-4626-b1c2-54f948007988"
+          },
+          "dapAn": "I’m into architecture and ABC is one of the best companies in this area.",
+          "phienAm": "/aɪm ˈɪntuː ˈɑːkɪtekʧər ænd ˈeɪbiːsiː ɪz wʌn ɒv ðə best ˈkʌmpəniz ɪn ðɪs ˈeərɪə/",
+          "yNghia": "\nTôi đam mê kiến ​​trúc và ABC là một trong những công ty tốt nhất trong lĩnh vực này.",
+          "normal": {
+            "start": "00:00:34.211",
+            "end": "00:00:39.563"
+          },
+          "slow": {
+            "start": "00:00:43.253",
+            "end": "00:00:50.424"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "31511d98-95ed-47c9-93fd-758ccf22deca"
+          },
+          "dapAn": "I’d love to, but I was in another city. I have just moved here since last week.",
+          "phienAm": "/aɪd lʌv tuː bʌt aɪ wɒz ɪn əˈnʌðər ˈsɪti/. /aɪ hæv ʤʌst muːvd hɪər sɪns lɑːst wiːk/",
+          "yNghia": "\nTôi rất mong muốn được tham gia, nhưng tôi đã ở một thành phố khác. Tôi mới chuyển đến đây từ tuần trước.",
+          "normal": {
+            "start": "00:00:46.894",
+            "end": "00:00:52.974"
+          },
+          "slow": {
+            "start": "00:00:58.610",
+            "end": "00:00:58.610"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "17e21bde-2fda-4d12-9f2f-5f05352e25d3"
+          },
+          "dapAn": "Thanks for your suggestion, ma’am.",
+          "phienAm": "/θæŋks fɔːr jɔːr səˈʤesʧən mæm/",
+          "yNghia": "\nCảm ơn lời đề nghị của bà.",
+          "normal": {
+            "start": "00:01:00.924",
+            "end": "00:01:02.653"
+          },
+          "slow": {
+            "start": "00:01:17.218",
+            "end": "00:01:19.366"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b1656713-689a-4de5-971f-8bd75bbe0b5e"
+          },
+          "dapAn": "I think I am a creative thinker. I usually come up with new and interesting ideas.",
+          "phienAm": "/aɪ θɪŋk aɪ æm eɪ kriˈeɪtɪv ˈθɪŋkər/. /aɪ ˈjuːʒʊəli kʌm ʌp wɪð njuː ænd ˈɪntrɪstɪŋ aɪˈdɪəz/",
+          "yNghia": "\nTôi nghĩ tôi là một người sáng tạo. Tôi thường nghĩ ra những ý tưởng mới và thú vị.bạn có thể chọn tự tập một mình.",
+          "normal": {
+            "start": "00:01:08.911",
+            "end": "00:01:15.455"
+          },
+          "slow": {
+            "start": "00:01:26.071",
+            "end": "00:01:34.055"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "72adb01d-f13d-4b02-b4b3-2e0dd4f7dfbd"
+          },
+          "dapAn": "Once, we were asked to make a model without using metal. My suggestion was to create a sculpture.",
+          "phienAm": "/wʌns wiː wɜːr ɑːskt tuː meɪk eɪ ˈmɒdl wɪˈðaʊt ˈjuːzɪŋ ˈmetl/. /maɪ səˈʤesʧən wɒz tuː kriˈeɪt eɪ ˈskʌlpʧə/",
+          "yNghia": "\nMột lần, chúng tôi được yêu cầu làm một mô hình mà không sử dụng kim loại. Đề xuất của tôi là tạo ra một tác phẩm điêu khắc.",
+          "normal": {
+            "start": "00:01:19.723",
+            "end": "00:01:26.780"
+          },
+          "slow": {
+            "start": "00:01:38.148",
+            "end": "00:01:47.379"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "27885034-0e3a-4e8d-b9f8-4928c18036ce"
+          },
+          "dapAn": "I usually go kayaking or paddle boarding. They make me more energetic.",
+          "phienAm": "/aɪ ˈjuːʒʊəli gəʊ ˈkaɪækɪŋ ɔːr ˈpædl ˈbɔːdɪŋ/. /ðeɪ meɪk miː mɔːr ˌenəˈʤetɪk/",
+          "yNghia": "\nTôi thường chèo thuyền kayak hoặc chèo thuyền. Chúng giúp tôi có nhiều năng lượng hơn.",
+          "normal": {
+            "start": "00:01:35.350",
+            "end": "00:01:40.917"
+          },
+          "slow": {
+            "start": "00:01:57.684",
+            "end": "00:02:04.100"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9e2309a2-76c4-4b8c-9d8b-f33f8ac14e86"
+          },
+          "dapAn": "It’s my honor to be here today. I will wait for your communication.",
+          "phienAm": "/ɪts maɪ ˈɒnə tuː biː hɪər təˈdeɪ/. /aɪ wɪl weɪt fɔːr jɔːr kəˌmjuːnɪˈkeɪʃən/",
+          "yNghia": "\nTôi rất vinh dự được có mặt ở đây ngày hôm nay. Tôi sẽ đợi bạn liên lạc.",
+          "normal": {
+            "start": "00:01:49.261",
+            "end": "00:01:53.719"
+          },
+          "slow": {
+            "start": "00:02:13.360",
+            "end": "00:02:19.050"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9e671399-c215-4ad0-95d9-304a374980da"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Jake",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "61d633a7-bf99-4b40-9ff3-767570fe30dc"
+          },
+          "dapAn": "How is your living situation, Ivy?",
+          "phienAm": "/haʊ ɪz jɔːr ˈlɪvɪŋ ˌsɪtjʊˈeɪʃən ˈaɪvi/",
+          "yNghia": "\nTình hình cuộc sống của bạn thế nào, Ivy?",
+          "normal": {
+            "start": "00:00:00.515",
+            "end": "00:00:03.010"
+          },
+          "slow": {
+            "start": "00:00:00.760",
+            "end": "00:00:03.861"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f94f009f-8b30-4ff5-a017-cf91c977a7c7"
+          },
+          "dapAn": "What’s wrong?",
+          "phienAm": "/wɒts rɒŋ/",
+          "yNghia": "\nCó chuyện gì vậy?",
+          "normal": {
+            "start": "00:00:12.754",
+            "end": "00:00:13.704"
+          },
+          "slow": {
+            "start": "00:00:18.191",
+            "end": "00:00:19.478"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "812f019c-eb9a-417b-a179-b592f3113d9d"
+          },
+          "dapAn": "Oh, that’s terrible. What are you going to do about that?",
+          "phienAm": "/əʊ ðæts ˈterəbl/. /wɒt ɑːr juː ˈgəʊɪŋ tuː duː əˈbaʊt ðæt/",
+          "yNghia": "\nỒ, thật kinh khủng. Bạn sẽ làm gì về điều đó?",
+          "normal": {
+            "start": "00:00:18.338",
+            "end": "00:00:22.299"
+          },
+          "slow": {
+            "start": "00:00:27.550",
+            "end": "00:00:32.990"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b06c8b8b-b1d3-44ce-89f2-65b14b438a5a"
+          },
+          "dapAn": "You could talk to your roommates about sharing the bills.",
+          "phienAm": "/juː kʊd tɔːk tuː jɔːr ˈruːmmeɪts əˈbaʊt ˈʃeərɪŋ ðə bɪlz/",
+          "yNghia": "\nBạn có thể nói chuyện với bạn cùng phòng về việc chia sẻ hóa đơn.",
+          "normal": {
+            "start": "00:00:28.161",
+            "end": "00:00:31.330"
+          },
+          "slow": {
+            "start": "00:00:43.343",
+            "end": "00:00:48.315"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "cb9b4316-7446-4881-a99f-5ce00aded17c"
+          },
+          "dapAn": "I think you should move. It’s terrible to live with roommates who are irresponsible.",
+          "phienAm": "/aɪ θɪŋk juː ʃʊd muːv/. /ɪts ˈterəbl tuː lɪv wɪð ˈruːmmeɪts huː ɑːrˌɪrɪsˈpɒnsəbl/",
+          "yNghia": "\nTôi nghĩ bạn nên chuyển nhà thôi. Thật tồi tệ khi sống với những người bạn cùng phòng vô trách nhiệm.",
+          "normal": {
+            "start": "00:00:37.667",
+            "end": "00:00:42.578"
+          },
+          "slow": {
+            "start": "00:00:58.259",
+            "end": "00:01:05.220"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d5311ab4-be9a-4131-8584-7679729e6c47"
+          },
+          "dapAn": "There’s a studio apartment near my work. The neighborhood is quite nice.",
+          "phienAm": "/ðeəz ei ˈstjuːdɪəʊ əˈpɑːtmənt nɪə maɪ wɜːk/. /ðə ˈneɪbəhʊd ɪz kwaɪt naɪs/",
+          "yNghia": "\nCó một căn hộ nhỏ gần nơi làm việc của tôi. Khu phố khá đẹp.",
+          "normal": {
+            "start": "00:00:47.767",
+            "end": "00:00:52.480"
+          },
+          "slow": {
+            "start": "00:01:13.409",
+            "end": "00:01:20.837"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "cef9652a-45bc-4f2f-9899-e729475b673a"
+          },
+          "dapAn": "I can help you if you like. I guess moving might not take very long.",
+          "phienAm": "/aɪ kæn help juː ɪf juː laɪk/. /aɪ ges ˈmuːvɪŋ maɪt nɒt teɪk ˈveri lɒŋ/",
+          "yNghia": "\nTôi có thể giúp bạn nếu bạn muốn. Tôi cho rằng việc di chuyển sẽ không mất nhiều thời gian.",
+          "normal": {
+            "start": "00:00:58.183",
+            "end": "00:01:02.817"
+          },
+          "slow": {
+            "start": "00:01:29.611",
+            "end": "00:01:35.870"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "961b164b-a576-4a94-a8bd-a67f5a44329d"
+          },
+          "dapAn": "Let’s see. You have a bed and a couch.",
+          "phienAm": "/lets siː/. /juː hæv ei bed ænd ei kaʊʧ/",
+          "yNghia": "\nĐể xem nào. Bạn có một chiếc giường và một chiếc sofa.",
+          "normal": {
+            "start": "00:01:09.511",
+            "end": "00:01:13.195"
+          },
+          "slow": {
+            "start": "00:01:45.580",
+            "end": "00:01:50.435"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9650cd15-fe70-46b5-8f2b-3da64f8029ea"
+          },
+          "dapAn": "Well, I think they will have to find a new couch soon!",
+          "phienAm": "/wel aɪ θɪŋk ðeɪ wɪl hæv tuː faɪnd ei njuː kaʊʧ suːn/",
+          "yNghia": "\nChà, tôi nghĩ họ sẽ phải tìm một chiếc sofa mới sớm thôi!",
+          "normal": {
+            "start": "00:01:18.740",
+            "end": "00:01:22.423"
+          },
+          "slow": {
+            "start": "00:01:57.688",
+            "end": "00:02:02.718"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "73b73fde-b2d8-42df-bde5-c4fe1fec6d31"
+          },
+          "dapAn": "You’re welcome.",
+          "phienAm": "/jʊər ˈwelkəm/",
+          "yNghia": "\nKhông có chi.",
+          "normal": {
+            "start": "00:01:31.533",
+            "end": "00:01:32.365"
+          },
+          "slow": {
+            "start": "00:02:15.908",
+            "end": "00:02:17.108"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ae136ebb-54c8-48d4-9441-87b640af68c7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Ivy",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cf54f343-e6cf-4f3c-b57b-e62a981f7930"
+          },
+          "dapAn": "I’m getting along with my roommates. They’re fine about sharing chores, but not good at sharing the bills.",
+          "phienAm": "/aɪm ˈgetɪŋ əˈlɒŋ wɪð maɪ ˈruːmmeɪts/. /ðeər faɪn əˈbaʊt ˈʃeərɪŋ ʧɔːz bʌt nɒt gʊd æt ˈʃeərɪŋ ðə bɪlz/",
+          "yNghia": "\nTôi khá hòa thuận với bạn cùng phòng. Họ biết chia sẻ việc nhà, nhưng với việc chia sẻ hóa đơn thì không.",
+          "normal": {
+            "start": "00:00:03.882",
+            "end": "00:00:11.763"
+          },
+          "slow": {
+            "start": "00:00:05.147",
+            "end": "00:00:17.548"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "83e378b8-902b-440e-a11d-48a198bdbcb0"
+          },
+          "dapAn": "They don’t pay on time. It’s pretty irritating!",
+          "phienAm": "/ðeɪ dəʊnt peɪ ɒn taɪm/. /ɪts ˈprɪti ˈɪrɪteɪtɪŋ/",
+          "yNghia": "\nHọ không trả tiền đúng hạn. Điều đó khá khó chịu!",
+          "normal": {
+            "start": "00:00:14.179",
+            "end": "00:00:17.506"
+          },
+          "slow": {
+            "start": "00:00:20.648",
+            "end": "00:00:26.848"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "89aa6fa1-9ebc-4a98-b702-83d20b77efb8"
+          },
+          "dapAn": "I can’t look for another place to live. I’m too busy with school.",
+          "phienAm": "/aɪ kɑːnt lʊk fɔːr əˈnʌðə pleɪs tuː lɪv/. /aɪm tuː ˈbɪzi wɪð skuːl/",
+          "yNghia": "\nTôi không thể tìm một nơi khác để sống. Tôi quá bận rộn ở trường.",
+          "normal": {
+            "start": "00:00:23.210",
+            "end": "00:00:27.329"
+          },
+          "slow": {
+            "start": "00:00:34.394",
+            "end": "00:00:42.524"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f51e5db3-2d9f-44a6-9563-1dd6bc4e28eb"
+          },
+          "dapAn": "Yes, I have done that already. But they still do that.",
+          "phienAm": "/jes aɪ hæv dʌn ðæt ɔːlˈredi/. /bʌt ðeɪ stɪl duː ðæt/",
+          "yNghia": "\nCó chứ, tôi đã làm điều đó rồi. Nhưng họ vẫn như vậy.",
+          "normal": {
+            "start": "00:00:32.716",
+            "end": "00:00:36.043"
+          },
+          "slow": {
+            "start": "00:00:49.368",
+            "end": "00:00:56.621"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "403d3fb7-afd7-4fc2-b020-e68d9e5bb17d"
+          },
+          "dapAn": "Yeah. Where do you think I should move?",
+          "phienAm": "/jeə/. /weə duː juː θɪŋk aɪ ʃʊd muːv/",
+          "yNghia": "\nỪ. Bạn nghĩ tôi nên chuyển đi đâu?",
+          "normal": {
+            "start": "00:00:43.489",
+            "end": "00:00:46.856"
+          },
+          "slow": {
+            "start": "00:01:06.331",
+            "end": "00:01:12.005"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "330f7f89-ba86-48e7-b2c1-301da61d171f"
+          },
+          "dapAn": "Really? I think I could afford a studio apartment.",
+          "phienAm": "/ˈrɪəli/. /aɪ θɪŋk aɪ kʊd əˈfɔːd ei ˈstjuːdɪəʊ əˈpɑːtmənt/",
+          "yNghia": "\nThật sao? Tôi nghĩ rằng tôi có thể mua một căn hộ nhỏ.",
+          "normal": {
+            "start": "00:00:53.549",
+            "end": "00:00:57.312"
+          },
+          "slow": {
+            "start": "00:01:21.715",
+            "end": "00:01:28.383"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f988fb3f-2234-465d-8697-1070d8c124ff"
+          },
+          "dapAn": "Yeah. I don’t have much stuff. Just some necessary things.",
+          "phienAm": "/jeə/. /aɪ dəʊnt hæv mʌʧ stʌf/. /ʤʌst sʌm ˈnesɪsəri θɪŋz/",
+          "yNghia": "\nỪ. Tôi không có nhiều đồ đạc. Chỉ cần một số thứ cần thiết.",
+          "normal": {
+            "start": "00:01:04.124",
+            "end": "00:01:08.600"
+          },
+          "slow": {
+            "start": "00:01:36.806",
+            "end": "00:01:44.410"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f8e31751-5eed-487f-b156-674b5441d604"
+          },
+          "dapAn": "My roommates definitely use the couch more than I do!",
+          "phienAm": "/maɪ ˈruːmmeɪts ˈdefɪnɪtli juːz ðə kaʊʧ mɔːr ðæn aɪ duː/",
+          "yNghia": "\nBạn cùng phòng của tôi chắc chắn sử dụng ghế sofa nhiều hơn tôi!",
+          "normal": {
+            "start": "00:01:14.264",
+            "end": "00:01:17.908"
+          },
+          "slow": {
+            "start": "00:01:51.137",
+            "end": "00:01:56.694"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "aa12effc-ff47-4996-a6f3-77b14992f00e"
+          },
+          "dapAn": "Yes, I will take it away. Thanks a lot for your help. I’m starting to feel better already.",
+          "phienAm": "/jes aɪ wɪl teɪk ɪt əˈweɪ/. /θæŋks ei lɒt fɔːr jɔːr help/. /aɪm ˈstɑːtɪŋ tuː fiːl ˈbetər ɔːlˈredi/",
+          "yNghia": "\nĐúng vậy, tôi sẽ mang nó đi. Cảm ơn sự giúp đỡ của bạn. Tôi bắt đầu cảm thấy tốt hơn rồi.",
+          "normal": {
+            "start": "00:01:23.255",
+            "end": "00:01:30.780"
+          },
+          "slow": {
+            "start": "00:02:04.005",
+            "end": "00:02:14.885"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "347e137c-cdca-4895-b58c-8050561e8244"
+          },
+          "dapAn": "Thanks again, Jake.",
+          "phienAm": "/θæŋks əˈgen dʒeɪk/",
+          "yNghia": "\nCảm ơn lần nữa nhé, Jake.",
+          "normal": {
+            "start": "00:01:33.276",
+            "end": "00:01:34.464"
+          },
+          "slow": {
+            "start": "00:02:17.831",
+            "end": "00:02:19.732"
+          }
+        }
+      ]
+    }
+  ]
+}

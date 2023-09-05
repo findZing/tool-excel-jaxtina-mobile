@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_TC_L10/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_TC_L10/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "f86825d4-9af5-48cb-8b7d-e7dbcce4a868"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Jessica",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d267075e-1bd5-42ae-9b44-52664c9f4f1b"
+          },
+          "dapAn": "I sent an RSVP to accept Amy’s wedding invitation. I’m excited about her wedding!",
+          "phienAm": "/aɪ sent æn ɑːr-es-viː-piː tuː əkˈsept ˈeɪmiz ˈwedɪŋ ˌɪnvɪˈteɪʃən/. /aɪm ɪkˈsaɪtɪd əˈbaʊt hɜːr ˈwedɪŋ/",
+          "yNghia": "\nTôi đã gửi hồi âm đồng ý lời mời đám cưới của Amy. Tôi rất háo hức về đám cưới của cô ấy!",
+          "normal": {
+            "start": "00:00:00.697",
+            "end": "00:00:07.532"
+          },
+          "slow": {
+            "start": "00:00:00.897",
+            "end": "00:00:12.430"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "753c34fd-ed65-4f65-a78f-8bfc9d618c11"
+          },
+          "dapAn": "Can you tell me about weddings here? I mean, what should I wear?",
+          "phienAm": "/kæn juː tel miː əˈbaʊt ˈwedɪŋ hɪər/. /aɪ miːn wɒt ʃʊd aɪ weər/",
+          "yNghia": "\nBạn có thể cho tôi biết về đám cưới ở đây không? Ý tôi là, tôi nên mặc gì?",
+          "normal": {
+            "start": "00:00:12.089",
+            "end": "00:00:15.762"
+          },
+          "slow": {
+            "start": "00:00:17.099",
+            "end": "00:00:24.025"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "97234d3d-0926-4a39-81c3-37a0a43975b9"
+          },
+          "dapAn": "OK. I’ll wear my new blue dress.",
+          "phienAm": "/əʊˈkeɪ/. /aɪl weər maɪ njuː bluː dres/",
+          "yNghia": "\nĐược. Tôi sẽ mặc chiếc váy màu xanh mới của tôi.",
+          "normal": {
+            "start": "00:00:23.527",
+            "end": "00:00:26.480"
+          },
+          "slow": {
+            "start": "00:00:33.718",
+            "end": "00:00:38.789"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6eb7cf03-4ed7-407d-97d2-0ac45007ebb0"
+          },
+          "dapAn": "Can you give me some ideas for a wedding gift?",
+          "phienAm": "/kæn juː gɪv miː sʌm aɪˈdɪəz fɔːr eɪ ˈwedɪŋ gɪft/",
+          "yNghia": "\nBạn có thể gợi ý cho tôi về quà cưới được không?",
+          "normal": {
+            "start": "00:00:31.060",
+            "end": "00:00:33.640"
+          },
+          "slow": {
+            "start": "00:00:43.968",
+            "end": "00:00:48.637"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "338f521b-4c9c-42e7-8cc9-ed8b3b436645"
+          },
+          "dapAn": "Oh, that’s easy. But I don’t want to give her a typical gift. Maybe I should find out myself.",
+          "phienAm": "/əʊ ðæts ˈiːzi/. /bʌt aɪ dəʊnt wɒnt tuː gɪv hɜːr eɪ ˈtɪpɪkl gɪft/. /ˈmeɪbiː aɪ ʃʊd faɪnd aʊt maɪˈself/",
+          "yNghia": "\nỒ, thật dễ dàng. Nhưng tôi không muốn tặng cô ấy một món quà thông thường. Có lẽ tôi nên tự tìm hiểu.",
+          "normal": {
+            "start": "00:00:43.009",
+            "end": "00:00:51.263"
+          },
+          "slow": {
+            "start": "00:00:59.784",
+            "end": "00:01:11.008"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "94f25181-29d5-497c-b884-0e5b23eadbaa"
+          },
+          "dapAn": "Uhm, am I also invited to the wedding reception?",
+          "phienAm": "/um æm aɪ ˈɔːlsəʊ ɪnˈvaɪtɪd tuː ðə ˈwedɪŋ rɪˈsepʃn/",
+          "yNghia": "\nỪm, tôi cũng được mời dự tiệc cưới sao?",
+          "normal": {
+            "start": "00:00:57.888",
+            "end": "00:01:01.887"
+          },
+          "slow": {
+            "start": "00:01:20.098",
+            "end": "00:01:25.494"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2f74af81-9e3e-4d90-a7aa-ec5ee80cbfe1"
+          },
+          "dapAn": "Ah, do you have any idea about wedding customs? I’m afraid I might do something inappropriate.",
+          "phienAm": "/ɑː duː juː hæv ˈeni aɪˈdɪə əˈbaʊt ˈwedɪŋ ˈkʌstəmz/. /aɪm əˈfreɪd aɪ maɪt duː sʌm θɪŋˌɪnəˈprəʊpriət/",
+          "yNghia": "\nÀ, bạn có biết gì về phong tục đám cưới không? Tôi sợ tôi có thể làm điều gì đó không phù hợp.",
+          "normal": {
+            "start": "00:01:12.930",
+            "end": "00:01:20.369"
+          },
+          "slow": {
+            "start": "00:01:40.613",
+            "end": "00:01:50.740"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5c380223-e2ea-4491-8f9d-31d778828583"
+          },
+          "dapAn": "Thanks. Could I go to the wedding with you? I don’t have a car.",
+          "phienAm": "/θæŋks/. /kʊd aɪ gəʊ tuː ðə ˈwedɪŋ wɪð juː/. /aɪ dəʊnt hæv eɪ kɑːr/",
+          "yNghia": "\nCảm ơn. Tôi có thể đi đến đám cưới với bạn không? Tôi không có xe hơi.",
+          "normal": {
+            "start": "00:01:27.251",
+            "end": "00:01:32.854"
+          },
+          "slow": {
+            "start": "00:01:59.784",
+            "end": "00:02:07.096"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "181acd58-f5f8-4aae-b6ec-56922742d31f"
+          },
+          "dapAn": "What time should we meet?",
+          "phienAm": "/wɒt taɪm ʃʊd wiː miːt/",
+          "yNghia": "\nChúng ta nên gặp nhau lúc mấy giờ?",
+          "normal": {
+            "start": "00:01:37.689",
+            "end": "00:01:40.456"
+          },
+          "slow": {
+            "start": "00:02:13.002",
+            "end": "00:02:15.460"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "72bd5804-9752-4c98-8c6c-834a69da443e"
+          },
+          "dapAn": "Great. Thank you. See you!",
+          "phienAm": "/greɪt/. /θæŋk juː/. /siː juː/",
+          "yNghia": "\nTuyệt. Cảm ơn bạn. Hẹn gặp lại!",
+          "normal": {
+            "start": "00:01:45.106",
+            "end": "00:01:48.430"
+          },
+          "slow": {
+            "start": "00:02:22.216",
+            "end": "00:02:26.297"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "36449e0a-24d8-427f-b0da-5950c498ccc8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Jim",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5e254606-74aa-48d0-817f-971c172db058"
+          },
+          "dapAn": "Me too. It’s going to be fun!",
+          "phienAm": "/miː tuː/. /ɪts ˈgəʊɪŋ tuː biː fʌn/",
+          "yNghia": "\nTôi cũng thế. Sẽ vui lắm đây!",
+          "normal": {
+            "start": "00:00:08.834",
+            "end": "00:00:11.322"
+          },
+          "slow": {
+            "start": "00:00:13.373",
+            "end": "00:00:16.542"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a8778b90-f3c8-4243-bdfa-aef90975f695"
+          },
+          "dapAn": "Well, the wedding is outside and not very formal, but people usually dress up.",
+          "phienAm": "/wel ðə ˈwedɪŋ ɪz ˌaʊtˈsaɪd ænd nɒt ˈveri ˈfɔːml bʌt ˈpiːpl ˈjuːʒʊəli dres ʌp/",
+          "yNghia": "\nChà, đám cưới thì tổ chức ở ngoài trời và không trang trọng lắm, nhưng mọi người thường mặc diện.",
+          "normal": {
+            "start": "00:00:16.971",
+            "end": "00:00:22.760"
+          },
+          "slow": {
+            "start": "00:00:25.030",
+            "end": "00:00:32.744"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "40c09bcc-53ff-47a3-b3b1-6c2da7e8eaf8"
+          },
+          "dapAn": "Oh, that dress will be perfect.",
+          "phienAm": "/əʊ ðæt dres wɪl biː ˈpɜːfɪkt/",
+          "yNghia": "\nỒ, chiếc váy đó sẽ rất hoàn hảo.",
+          "normal": {
+            "start": "00:00:27.689",
+            "end": "00:00:30.246"
+          },
+          "slow": {
+            "start": "00:00:39.686",
+            "end": "00:00:42.669"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "651ab65b-0fb6-4b97-ac74-27871746c768"
+          },
+          "dapAn": "Go to the gift registry online and buy one of the gifts on the list. They’ll send it to Amy’s house.",
+          "phienAm": "/gəʊ tuː ðə gɪft ˈreʤɪstri ˈɒnlaɪn ænd baɪ wʌn ɒv ðə gɪfts ɒn ðə lɪst/. /ðeɪl send ɪt tuː ˈeɪmiz haʊs/",
+          "yNghia": "\nHãy truy cập danh sách trực tuyến về quà muốn nhận và mua một trong những món quà trong danh sách. Họ sẽ gửi nó đến nhà của Amy.",
+          "normal": {
+            "start": "00:00:34.826",
+            "end": "00:00:41.893"
+          },
+          "slow": {
+            "start": "00:00:49.796",
+            "end": "00:00:58.949"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "64a6accc-8d1c-40ba-ad12-725264143a0c"
+          },
+          "dapAn": "Yeah. I have no idea so I bought her a typical wedding gift.",
+          "phienAm": "/jeə/. /aɪ hæv nəʊ aɪˈdɪə səʊ aɪ bɔːt hɜːr eɪ ˈtɪpɪkl ˈwedɪŋ gɪf/",
+          "yNghia": "\nỪ. Tôi không biết nên đã mua cho cô ấy một món quà cưới điển hình.",
+          "normal": {
+            "start": "00:00:51.844",
+            "end": "00:00:56.726"
+          },
+          "slow": {
+            "start": "00:01:12.445",
+            "end": "00:01:19.279"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f7783f8e-fdea-4be3-a235-66552a5b0f21"
+          },
+          "dapAn": "Of course. They’re married at the Green River Events Center, so the reception is at the same place, right after the wedding ceremony.",
+          "phienAm": "/ɒv kɔːs/. /ðeər ˈmærɪd æt ðə griːn ˈrɪvər ɪˈvents ˈsentər səʊ ðə rɪˈsepʃn ɪz æt ðə seɪm pleɪs raɪt ˈɑːftər ðˈwedɪŋ ˈserəməni/",
+          "yNghia": "\nTất nhiên. Họ tổ chức đám cưới tại Trung tâm tổ chức sự kiện Green River nên tiệc chiêu đãi cũng ở cùng một địa điểm, ngay sau lễ cưới.",
+          "normal": {
+            "start": "00:01:02.817",
+            "end": "00:01:11.814"
+          },
+          "slow": {
+            "start": "00:01:26.931",
+            "end": "00:01:39.268"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "33b0b463-7a3c-4967-bec5-355eb527258b"
+          },
+          "dapAn": "Don’t worry. You just need to show up in the party. It is not too formal.",
+          "phienAm": "/dəʊnt ˈwʌri/. /juː ʤʌst niːd tuː ʃəʊ ʌp ɪn ðə ˈpɑːti/. /ɪt ɪz nɒt tuː ˈfɔːml/",
+          "yNghia": "\nĐừng lo. Bạn chỉ cần xuất hiện trong bữa tiệc. Nó không quá trang trọng đâu.",
+          "normal": {
+            "start": "00:01:21.439",
+            "end": "00:01:26.484"
+          },
+          "slow": {
+            "start": "00:01:51.806",
+            "end": "00:01:58.624"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0a72b7ec-4f09-490c-926c-2c309bdc7279"
+          },
+          "dapAn": "Sure. Rick and I will give you a ride.",
+          "phienAm": "/ʃʊər/. /rɪk ænd aɪ wɪl gɪv juː eɪ raɪd/",
+          "yNghia": "\nChắc chắn rồi. Rick và tôi sẽ cho bạn đi nhờ.",
+          "normal": {
+            "start": "00:01:34.086",
+            "end": "00:01:36.876"
+          },
+          "slow": {
+            "start": "00:02:08.132",
+            "end": "00:02:12.043"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b0903d83-bb59-443a-a932-25300fa02226"
+          },
+          "dapAn": "Let’s see. We’ll pick you up at 9 o’clock.",
+          "phienAm": "/lets siː/. /wiːl pɪk juː ʌp æt nain əˈklɒk/",
+          "yNghia": "\nĐể xem nào. Chúng tôi sẽ đón bạn lúc 9 giờ.",
+          "normal": {
+            "start": "00:01:41.153",
+            "end": "00:01:44.501"
+          },
+          "slow": {
+            "start": "00:02:16.558",
+            "end": "00:02:21.134"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0060762a-a500-4377-9e18-be4e637b053c"
+          },
+          "dapAn": "See you!",
+          "phienAm": "/siː juː/",
+          "yNghia": "\nHẹn gặp lại!",
+          "normal": {
+            "start": "00:01:49.058",
+            "end": "00:01:49.616"
+          },
+          "slow": {
+            "start": "00:02:27.101",
+            "end": "00:02:27.813"
+          }
+        }
+      ]
+    }
+  ]
+}

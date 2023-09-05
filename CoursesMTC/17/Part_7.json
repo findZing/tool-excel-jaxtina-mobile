@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P7",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "e4da8246-2d01-4cd8-8cfa-0a8626a6d289"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The story must <b><span style=\"color:blue\">(be)</span></b> __________ true.",
+      "yNghia": "<b>must </b>được dùng khi bạn rất chắc chắn về một việc gì là đúng, động từ <b>be </b>sau <b>must </b>được<b> </b>giữ nguyên thể không chia. Câu hoàn chỉnh là <b>The story must </b><span style=\"color:red\"><b>be </b></span><b>true. </b><i>(Câu chuyện này chắc chắn đúng.). </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3204a7e6-b899-4144-a85b-04a12dba2eb2"
+          },
+          "dapAn": "be",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4586a73a-3e3d-4dc3-9ce5-33bb24cbf3ac"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That story might <b><span style=\"color:blue\">(be)</span></b> __________ fake. There isn't a source and the writing seems very biased.",
+      "yNghia": "<b>might </b>được dùng khi bạn rất chắc chắn về một việc gì là đúng, động từ <b>be </b>sau <b>might </b>được<b> </b>giữ nguyên thể không chia. Câu hoàn chỉnh là <b>That story might <span style=\"color:red\">be </span></b><b>fake. There isn't a source and the writing seems very biased. </b><i>(Câu chuyện đó có thể là giả. Không có nguồn nào mà bài viết cũng có vẻ rất thiên vị.).</i><i> </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "87a1173a-5c24-4053-aab0-d5dd9727bd84"
+          },
+          "dapAn": "be",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a43a1ffb-4cc5-4db9-9f8a-41dfdee5bccc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That story can't <b><span style=\"color:blue\">(be)</span></b> __________. Every story on this website has already been proven to be fake.",
+      "yNghia": "<b>can't </b>được dùng khi bạn rất chắc chắn về một việc gì là không đúng, động từ <b>be </b>sau <b>can't </b>được giữ nguyên thể không chia. Câu hoàn chỉnh là <b>That story can't <span style=\"color:red\">be </span></b><b>true. Every story on this website has already been proven to be fake.</b> <i>(Câu chuyện đó không thể là thật được. Mọi câu chuyện trên trang web này đều đã được chứng minh là giả.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ce550ed8-bd7d-43e8-8486-fd695c8f133f"
+          },
+          "dapAn": "be",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "bf34c8f4-4502-4209-96d9-14d63e18b448"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Last Monday was so <b><span style=\"color:blue\">(beauty) </span></b>__________ that we decided to go to the beach.",
+      "yNghia": "<b>so </b>được dùng để nhấn mạnh hoặc tăng thêm mức độ của một điều gì đó, đi kèm đằng sau <b>so </b>là tính từ hoặc trạng từ, nên <b>beauty </b>chuyển thành tính từ <b>beautiful</b>. Câu hoàn chỉnh là <b>Last Monday was so <span style=\"color:red\">beautiful </span></b><b>that we decided to go to the beach</b><b>.</b> <i>(Thứ hai tuần trước trời quá <span style=\"color:red\">đẹp </span>nên chúng tôi đã quyết định ra biển.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cb2ce68b-7ea6-460f-a1af-48fb8f0223c1"
+          },
+          "dapAn": "beautiful",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "98fc4d62-8ab5-499d-b346-beeca80db090"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "To be honest, I'm not hungry enough <b><span style=\"color:blue\">(eat)</span></b> __________ yet.",
+      "yNghia": "<b>enough </b>được sử dụng sau tính từ hoặc trạng từ để bổ nghĩa, có nghĩa là \"đủ\", đi kèm là động từ nguyên thể có <b>to</b>, ta được <b>to eat</b>. Câu hoàn chỉnh là <b>To be honest, I'm not hungry enough <span style=\"color:red\">to eat</span> </b><b>yet.</b> <i>(Nói thật là tôi chưa đủ đói <span style=\"color:red\">để ăn</span></i><i>.)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "650350a2-07e4-48db-ae0d-04c1bc015d7f"
+          },
+          "dapAn": "to eat",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "fdabe2f0-0cb6-4b82-892f-31a63a20fa6a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It isn't hot enough <b><span style=\"color:blue\">(wear)</span></b> __________ shorts. I'd be freezing in the evening!",
+      "yNghia": "<b>enough </b>được sử dụng sau tính từ hoặc trạng từ để bổ nghĩa, có nghĩa là \"đủ\", đi kèm là động từ nguyên thể có <b>to</b>, ta được <b>to wear</b>. Câu hoàn chỉnh là <b>It isn't hot enough <span style=\"color:red\">to wear</span> </b><b>shorts. I'd be freezing in the evening!</b> <i>(Trời chưa đủ nóng <span style=\"color:red\">để mặc</span> </i><i>quần đùi. Tôi sẽ chết cóng vào buổi tối mất.)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "74f4a39c-a436-4583-9f49-7f48b08a8c16"
+          },
+          "dapAn": "to wear",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ab59c0d2-6c7f-4857-b423-e8d2878cacba"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I'm too tired <b><span style=\"color:blue\">(look)</span></b> __________ at my laptop anymore.",
+      "yNghia": "<b>too </b>đứng trước tính từ hoặc trạng từ để miêu tả một cái gì đó quá về tính chất, đi kèm là động từ nguyên thể có <b>to</b>, ta được <b>to look</b>. Câu hoàn chỉnh là <b>I'm too tired <span style=\"color:red\">to look</span> </b><b>at my laptop anymore.</b> <i>(Tôi quá mệt <span style=\"color:red\">để nhìn</span> </i><i>vào laptop tiếp.)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e5181f28-edcf-4e8c-97b8-4f97494c6eef"
+          },
+          "dapAn": "to look",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6dfbadc2-ca89-4847-99ec-2b1acd44ff42"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "He spoke so <b><span style=\"color:blue\">(quick)</span></b> __________ that I couldn't understand a word.",
+      "yNghia": "<b>so </b>được dùng để nhấn mạnh hoặc tăng thêm mức độ của một điều gì đó, đi kèm đằng sau là tính từ hoặc trạng từ, <b>quick</b> chuyển thành trạng từ <b>quickly </b>để bổ trợ cho động từ <b>spoke</b>. Câu hoàn chỉnh là <b>He spoke so <span style=\"color:red\">quickly </span>that I couldn't understand a word.</b> <i>(Anh ấy nói chuyện quá <span style=\"color:red\">nhanh </span>tới nỗi tôi không thể hiểu nổi một từ nào.)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "22998fbe-d0f4-4c4b-a20a-6cf845ab9064"
+          },
+          "dapAn": "quickly",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "61a70e3e-5c38-4abb-bd7f-5771d75f23ba"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "When I was a kid, I used to be too excited <b><span style=\"color:blue\">(sleep)</span></b> __________ the night before my birthday.",
+      "yNghia": "<b>too </b>đứng trước tính từ hoặc trạng từ để miêu tả một cái gì đó quá về tính chất, đi kèm là động từ nguyên thể có <b>to</b>, ta được <b>to sleep</b>. Câu hoàn chỉnh là<b> When I was a kid, I used to be too excited <span style=\"color:red\">to sleep</span> the night before my birthday.</b> <i>(Khi còn nhỏ, tôi từng thường cảm thấy quá háo hức <span style=\"color:red\">để ngủ</span> vào đêm trước sinh nhật của mình.)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bc7bbb64-9575-4714-8ccf-04a273abc9ab"
+          },
+          "dapAn": "to sleep",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a66f8d26-8a8b-4b33-afc7-b817fb98ecb4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She opened the door quietly enough <b><span style=\"color:blue\">(not wake)</span></b> __________ her brother.",
+      "yNghia": "<b>enough </b>được sử dụng sau tính từ hoặc trạng từ để bổ nghĩa, có nghĩa là \"đủ\", đi kèm là động từ nguyên thể có <b>to</b>, ta được <b>not to wake</b>. Câu hoàn chỉnh là <b>She opened the door quietly enough <span style=\"color:red\">not to wake</span> </b><b>her brother.</b> <i>(Cô ấy đã mở cửa đủ nhẹ để <span style=\"color:red\">không đánh thức</span> </i><i>anh trai mình.)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8c6457da-372c-47a8-aeb2-c482a5535ee9"
+          },
+          "dapAn": "not to wake",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a63728e0-126a-4712-ae84-25c9c3fcf73f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Jake is too shy <b><span style=\"color:blue\">(succeed)</span></b> __________ as a journalist.",
+      "yNghia": "<b>too </b>đứng trước tính từ hoặc trạng từ để miêu tả một cái gì đó quá về tính chất, đi kèm là động từ nguyên thể có <b>to</b>, ta được <b>to succeed</b>. Câu hoàn chỉnh là <b>Jake is too shy <span style=\"color:red\">to succeed</span> </b><b>as a journalist. </b><i>(Jake quá nhút nhát để trở thành một nhà báo </i><span style=\"color:red\"><i>thành công</i></span><i>.)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "12df1bfd-5ebf-43ce-8caa-9adb58c21e30"
+          },
+          "dapAn": "to succeed",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "86a96503-6816-4d6c-8b32-4e93df5c2fe2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We are not smart enough <b><span style=\"color:blue\">(recognize)</span></b> __________ fake news.",
+      "yNghia": "<b>enough </b>được sử dụng sau tính từ hoặc trạng từ để bổ nghĩa, có nghĩa là \"đủ\", đi kèm là động từ nguyên thể có <b>to</b>, ta được <b>to recognize</b>. Câu hoàn chỉnh là <b>We are not smart enough <span style=\"color:red\">to recognize</span> fake news. </b><i>(Chúng ta không đủ thông minh <span style=\"color:red\">để nhìn ra</span> tin giả.)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d10c8ddf-9541-4666-8cb6-1f456efe9267"
+          },
+          "dapAn": "to recognize",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3ba3d48b-119a-4f81-af45-0feec72c3153"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We was too careless <b><span style=\"color:blue\">(not check)</span></b> __________ the source of the news.",
+      "yNghia": "<b>too </b>đứng trước tính từ hoặc trạng từ để miêu tả một cái gì đó quá về tính chất, đi kèm là động từ nguyên thể có <b>to</b>, ta được <b>not to check</b>. Câu hoàn chỉnh là <b>We was too careless <span style=\"color:red\">not to check</span> the source of the news. </b><i>(Chúng ta quá bất cẩn khi <span style=\"color:red\">không kiểm tra</span> nguồn của bài báo.)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d5e08dff-068c-4204-86f7-f976ca5b9b8e"
+          },
+          "dapAn": "not to check",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8390530d-2b8a-4dc2-a244-f52f4a06a6c7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Fake news is not accurate and can <b><span style=\"color:blue\">(be)</span></b> __________ dangerous.",
+      "yNghia": "<b>can </b>được dùng khi bạn nghĩ điều gì đó có thể đúng, động từ <b>be </b>đứng sau<b> can </b>được<b> </b>giữ nguyên thể không chia. Câu hoàn chỉnh là <b>Fake news is not accurate and can <span style=\"color:red\">be </span></b><b>dangerous. </b><i>(Tin tức giả thì không chính xác và có thể nguy hiểm.)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f201d021-756e-4bcf-a347-c0cb2da66d6b"
+          },
+          "dapAn": "be",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d2ccc00c-1ebc-417c-b710-a2615e56cdda"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The 12 publishers wish they <b><span style=\"color:blue\">(research)</span></b> __________ the book.",
+      "yNghia": "<b>too </b>đứng trước tính từ hoặc trạng từ để miêu tả một cái gì đó quá về tính chất, đi kèm là động từ nguyên thể có <b>to</b>, ta được <b>to research</b>. Câu hoàn chỉnh là<b> I was too busy <span style=\"color:red\">to research</span> the organization and its history. </b><i>(Tôi quá bận <span style=\"color:red\">để nghiên cứu</span> về tổ chức và lịch sử của nó.)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7b4d861d-1ff0-4705-897a-b975c62a6ff4"
+          },
+          "dapAn": "to research",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "48b80043-abf6-496d-9d87-660812ef8065"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The sources are not reliable enough <b><span style=\"color:blue\">(use)</span></b> __________ as references.",
+      "yNghia": "<b>enough </b>được sử dụng sau tính từ hoặc trạng từ để bổ nghĩa, có nghĩa là \"đủ\", đi kèm là động từ nguyên thể có <b>to</b>, ta được <b>to be used</b>. Câu hoàn chỉnh là<b> The sources are not reliable enough <span style=\"color:red\">to be used</span> as references. </b><i>(Các nguồn không đủ tin cậy </i><i><span style=\"color:red\">để được sử dụng</span> </i><i>làm tài liệu tham khảo.)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7148539a-298a-4b7f-8a5f-90268a1e3ec2"
+          },
+          "dapAn": "to be used",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "90b4b7b8-256d-4c6e-958c-3f04f368913a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "This vocabulary in this news article is easy enough for me <b><span style=\"color:blue\">(understand)</span></b> __________.",
+      "yNghia": "<b>enough </b>được sử dụng sau tính từ hoặc trạng từ để bổ nghĩa, có nghĩa là \"đủ\", đi kèm là động từ nguyên thể có <b>to</b>, ta được <b>to understand</b>. Câu hoàn chỉnh là<b> This vocabulary in this news article is easy enough for me <span style=\"color:red\">to understand</span>. </b><i>(Từ vựng trong bài báo này đủ dễ cho tôi </i><span style=\"color:red\"><i>hiểu</i></span><i>.)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "59b1752e-061d-4917-ad89-37220460d73c"
+          },
+          "dapAn": "to understand",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7dbe341a-9432-4b41-87e8-c901a535a52e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The source was so <b><span style=\"color:blue\">(rely)</span></b> __________ that we decided to use the article as the reference for our research.",
+      "yNghia": "<b>so </b>được dùng để nhấn mạnh hoặc tăng thêm mức độ của một điều gì đó, đi kèm đằng sau là tính từ hoặc trạng từ, <b>rely</b> chuyển thành tính từ <b>reliable</b>. Câu hoàn chỉnh là<b> The source was so <span style=\"color:red\">reliable </span>that we decided to use the article as the reference for our research. </b><i>(Nguồn này</i><i> </i><i><span style=\"color:red\">đáng tin cậy</span> </i><i>đến nỗi chúng tôi đã quyết định cho vào để tham khảo cho nghiên cứu của mình.)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ebcda087-43d7-439d-906d-7ab3c6537d11"
+          },
+          "dapAn": "reliable",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "61fcf917-2b88-4b64-9e1a-466a54695f47"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "If they haven't written anything else for a source you trust, the article could <b><span style=\"color:blue\">(spread)</span></b> __________ fake news.",
+      "yNghia": "<b>could</b><b> </b>được dùng khi bạn nghĩ điều gì đó có thể đúng, động từ <b>spread </b>đứng sau<b> could</b><b> </b>được<b> </b>giữ nguyên thể không chia.<b> </b>Câu hoàn chỉnh là<b> If they haven't written anything else for a source you trust, the article could <span style=\"color:red\">spread </span>fake news. </b><i>(</i><i>Nếu họ chưa từng viết gì cho một nguồn mà tôi tin tưởng, thì bài báo có thể </i><i><span style=\"color:red\">lan truyền</span> </i><i>tin giả</i><i>.)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6d8a837a-d116-4c7d-8cec-e2dac75a36c7"
+          },
+          "dapAn": "spread",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1e7c8e5a-8a47-48ce-8d3e-b6ab03a0e072"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Some of this story might be true, but it may <b><span style=\"color:blue\">(not show)</span></b> __________ the complete picture.",
+      "yNghia": "<b>could</b><b> </b>được dùng khi bạn nghĩ điều gì đó có thể đúng, động từ <b>show </b>đứng sau<b> could</b><b> </b>được giữ nguyên thể không chia, ta được <b>not show</b>. Câu hoàn chỉnh là<b> Some of this story might be true, but it may <span style=\"color:red\">not show</span> </b><b>the complete picture. </b><i>(</i><i>Có thể có một số chi tiết thì đúng, nhưng<span style=\"color:red\"> </span></i><span style=\"color:red\"><i>chưa </i><i>chắc đã </i><i>nói lên</i></span><i> toàn bộ câu chuyện</i><i>.</i><i>)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8cdb8b10-67ed-449f-9c84-07d0352627e2"
+          },
+          "dapAn": "not show",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

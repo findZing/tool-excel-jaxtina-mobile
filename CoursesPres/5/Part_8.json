@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L5/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L5/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "d1c27105-57ab-4b24-9b02-3b05e3d21b01"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Juno",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7550e558-72bb-446f-95fa-5797015c0ecd"
+          },
+          "dapAn": "Good morning! My name's Juno. I'm a student. ",
+          "phienAm": "/gʊd ˈmɔːnɪŋ/. /maɪ neɪmz ˈʤuːnəʊ/. /aɪm eɪ ˈstjuːdənt/",
+          "yNghia": "\nChào buổi sáng! Tên mình là Juno. Mình là một học sinh.",
+          "normal": {
+            "start": "00:00:00.804",
+            "end": "00:00:04.641"
+          },
+          "slow": {
+            "start": "00:00:01.226",
+            "end": "00:00:06.486"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d1746e22-8f70-41d4-806f-9e327d9c2827"
+          },
+          "dapAn": "Is it OK to ask you some questions? It’s for my homework.",
+          "phienAm": "/ɪz ɪt əʊˈkeɪ tuː ɑːsk juː sʌm ˈkwesʧənz/. /ɪts fɔːr maɪ ˈhəʊmˌwɜːk/",
+          "yNghia": "\nMình hỏi bạn một số câu hỏi được không? Nó dành cho bài tập về nhà của mình.\n",
+          "normal": {
+            "start": "00:00:06.940",
+            "end": "00:00:11.210"
+          },
+          "slow": {
+            "start": "00:00:09.116",
+            "end": "00:00:15.168"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5afdad23-b164-4a41-8af6-b0fc0e164a19"
+          },
+          "dapAn": "Thank you. What's your name?",
+          "phienAm": "/θæŋk juː/. /wɒts jɔːr neɪm/",
+          "yNghia": "\nCảm ơn bạn. Tên bạn là gì thế?",
+          "normal": {
+            "start": "00:00:13.600",
+            "end": "00:00:15.943"
+          },
+          "slow": {
+            "start": "00:00:17.874",
+            "end": "00:00:20.964"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a3c468e1-894a-46d7-bf3a-b071853e36eb"
+          },
+          "dapAn": "Nice to meet you, Jane! How are you?",
+          "phienAm": "/naɪs tuː miːt juː ʤeɪn/. /haʊ ɑːr juː/",
+          "yNghia": "\nRất vui được gặp bạn, Jane! Bạn khỏe không?",
+          "normal": {
+            "start": "00:00:18.439",
+            "end": "00:00:21.523"
+          },
+          "slow": {
+            "start": "00:00:23.313",
+            "end": "00:00:27.118"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a26fdb5a-f5fe-4d91-a10f-e2abc2f3801c"
+          },
+          "dapAn": "Great! Where are you from?",
+          "phienAm": "/greɪt/. /weər ɑːr juː frɒm/",
+          "yNghia": "\nTuyệt! Bạn đến từ đâu thế?",
+          "normal": {
+            "start": "00:00:24.823",
+            "end": "00:00:27.267"
+          },
+          "slow": {
+            "start": "00:00:29.952",
+            "end": "00:00:32.710"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b1adeb4d-92f0-4425-b5d3-7b3255c189db"
+          },
+          "dapAn": "Who is he? ",
+          "phienAm": "/huː ɪz hiː/",
+          "yNghia": "\nCậu ấy là ai vậy?",
+          "normal": {
+            "start": "00:00:33.769",
+            "end": "00:00:35.100"
+          },
+          "slow": {
+            "start": "00:00:42.464",
+            "end": "00:00:43.511"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7b359f02-971f-4304-9383-3b42e4838d8f"
+          },
+          "dapAn": "OK. Is your home in London?",
+          "phienAm": "/əʊˈkeɪ/. /ɪz jɔːr həʊm ɪn ˈlʌndən/",
+          "yNghia": "\nOK. Nhà của cậu có ở London không?",
+          "normal": {
+            "start": "00:00:37.683",
+            "end": "00:00:40.519"
+          },
+          "slow": {
+            "start": "00:00:49.767",
+            "end": "00:01:04.960"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0e452550-5958-44f2-8f68-b6d971fc47c6"
+          },
+          "dapAn": "It's beautiful! My place is small and noisy. So, next question... How old are you, Jane?\n",
+          "phienAm": "/ɪts ˈbjuːtəfʊl/. /maɪ pleɪs ɪz smɔːl ænd ˈnɔɪzi/. /səʊ nekst ˈkwesʧən/. /haʊəʊld ɑːr juː ʤeɪn/",
+          "yNghia": "\nNó đẹp đấy! Chỗ của mình thì nhỏ và ồn ào. Vậy, câu hỏi tiếp theo... Bạn bao nhiêu tuổi vậy, Jane?",
+          "normal": {
+            "start": "00:00:52.234",
+            "end": "00:01:01.082"
+          },
+          "slow": {
+            "start": "00:01:06.211",
+            "end": "00:01:15.097"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "017e3c33-d589-4f5e-9e3a-9c205979a3c7"
+          },
+          "dapAn": "Thanks. The final question: What's your email?",
+          "phienAm": "/θæŋks/. /ðə ˈfaɪnl ˈkwesʧən wɒts jɔːr ˈiːmeɪl/",
+          "yNghia": "\nCảm ơn bạn. Câu hỏi cuối cùng: Thư điện tử của bạn là gì?",
+          "normal": {
+            "start": "00:01:04.310",
+            "end": "00:01:08.590"
+          },
+          "slow": {
+            "start": "00:01:19.004",
+            "end": "00:01:23.447"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8df5628e-ea27-4778-af71-289109533f28"
+          },
+          "dapAn": "Thank you so much, Jane!",
+          "phienAm": "/θæŋk juː səʊ mʌʧ ʤeɪn/",
+          "yNghia": "\nCảm ơn bạn rất nhiều, Jane!",
+          "normal": {
+            "start": "00:01:17.056",
+            "end": "00:01:18.768"
+          },
+          "slow": {
+            "start": "00:01:34.657",
+            "end": "00:01:36.802"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a9451f57-9b09-47c0-81b8-154153550156"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Jane",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5dc488d1-dc50-4507-82f8-c9d52fca44a8"
+          },
+          "dapAn": "Hi, Juno.",
+          "phienAm": "/haɪ ˈʤuːnəʊ/",
+          "yNghia": "\nChào, Juno.",
+          "normal": {
+            "start": "00:00:05.064",
+            "end": "00:00:06.198"
+          },
+          "slow": {
+            "start": "00:00:06.971",
+            "end": "00:00:08.171"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b767ec6e-2ea8-40a5-b04e-b20d34d3b97f"
+          },
+          "dapAn": "OK.",
+          "phienAm": "/əʊˈkeɪ/",
+          "yNghia": "\nĐược.",
+          "normal": {
+            "start": "00:00:11.810",
+            "end": "00:00:12.592"
+          },
+          "slow": {
+            "start": "00:00:16.010",
+            "end": "00:00:16.827"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4ce79a6f-bc4e-494c-90ca-cbba75e726e2"
+          },
+          "dapAn": "I'm Jane.",
+          "phienAm": "/aɪm ʤeɪn/",
+          "yNghia": "\nMình là Jane.",
+          "normal": {
+            "start": "00:00:16.552",
+            "end": "00:00:17.439"
+          },
+          "slow": {
+            "start": "00:00:21.475",
+            "end": "00:00:22.547"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "958bb205-9996-44a7-b300-451200056ef1"
+          },
+          "dapAn": "I'm fine, thanks.",
+          "phienAm": "/aɪm faɪn θæŋks/",
+          "yNghia": "\nMình khỏe, cảm ơn.",
+          "normal": {
+            "start": "00:00:22.595",
+            "end": "00:00:23.894"
+          },
+          "slow": {
+            "start": "00:00:27.782",
+            "end": "00:00:29.058"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8fbe304f-fb9f-43de-94bf-a2283a053cd8"
+          },
+          "dapAn": "I'm from London. I'm British. I'm on vacation with Henry.",
+          "phienAm": "/aɪm frɒm ˈlʌndən/. /aɪm ˈbrɪtɪʃ/. /aɪm ɒn vəˈkeɪʃən wɪð ˈhenri/",
+          "yNghia": "\nMình đến từ London. Mình là người Anh. Mình đang trong kì nghỉ với Henry.",
+          "normal": {
+            "start": "00:00:27.926",
+            "end": "00:00:32.640"
+          },
+          "slow": {
+            "start": "00:00:33.527",
+            "end": "00:00:41.519"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2a0101a7-f11f-439d-b458-53269546fd31"
+          },
+          "dapAn": "He is my friend.",
+          "phienAm": "/hiː ɪz maɪ frend/",
+          "yNghia": "\nCậu ấy là bạn mình.",
+          "normal": {
+            "start": "00:00:35.692",
+            "end": "00:00:36.744"
+          },
+          "slow": {
+            "start": "00:00:44.405",
+            "end": "00:00:45.528"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f10928d4-c3ec-4fae-8a1d-1ceca21ff2a7"
+          },
+          "dapAn": "Yes, it is. It's a big and modern apartment. It's quiet. I like it! Look at this picture of my apartment on my phone.",
+          "phienAm": "/jes ɪt ɪz/. /ɪts eɪ bɪg ænd ˈmɒdən əˈpɑːtmənt/. /ɪts ˈkwaɪət/. /aɪ laɪk ɪt/. /lʊk æt ðɪs ˈpɪkʧər ɒv maɪ əˈpɑːtmənt ɒn maɪ fəʊn/",
+          "yNghia": "\nCó. Nó là một căn hộ lớn và hiện đại. Nó yên tĩnh. Mình thích nó! Hãy nhìn bức ảnh căn hộ của mình trong điện thoại mình này.",
+          "normal": {
+            "start": "00:00:41.416",
+            "end": "00:00:51.223"
+          },
+          "slow": {
+            "start": "00:01:04.960",
+            "end": "00:01:04.961"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b605cd44-e30e-487e-a854-b144b2fb7bf0"
+          },
+          "dapAn": "I’m 24.",
+          "phienAm": "/aɪm ˈtwenti fɔːr/",
+          "yNghia": "\nMình 24 tuổi.",
+          "normal": {
+            "start": "00:01:01.959",
+            "end": "00:01:03.175"
+          },
+          "slow": {
+            "start": "00:01:15.914",
+            "end": "00:01:17.778"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a1d71abb-a56f-478d-9760-c2a2bb8a76be"
+          },
+          "dapAn": "It's jane - j-a-n-e-94@gomail.com.",
+          "phienAm": "/ɪts ʤeɪn - ʤeɪ-eɪ-en-iː ˈnaɪnti fɔːr æt ɡəʊ meɪl dɒt kɒm/",
+          "yNghia": "\nNó là  jane - j-a-n-e-94@gomail.com.",
+          "normal": {
+            "start": "00:01:09.703",
+            "end": "00:01:16.417"
+          },
+          "slow": {
+            "start": "00:01:23.881",
+            "end": "00:01:33.942"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1cbfbee5-04fa-4e93-80ce-878ea6874c41"
+          },
+          "dapAn": "No problem, Juno. Have a great day!",
+          "phienAm": "/nəʊ ˈprɒbləm ˈʤuːnəʊ/. /hæv eɪ greɪt deɪ/",
+          "yNghia": "\nKhông vấn đề gì, Juno. Chúc bạn một ngày tốt lành!",
+          "normal": {
+            "start": "00:01:19.301",
+            "end": "00:01:21.893"
+          },
+          "slow": {
+            "start": "00:01:37.644",
+            "end": "00:01:41.577"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "1847bb6e-03b3-47c8-85b3-b932f633f021"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "023002b7-5d81-4de8-abf9-c9bb06d3cb94"
+          },
+          "cauHoi": "What is Newtown?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "e0ced754-104f-4a67-9dca-51fc6a5ecaf8"
+              },
+              "dapAn": "A. a big town near the ocean",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "239a65ff-ae77-4c74-8107-e998fb8a48c1"
+              },
+              "dapAn": "B. a small town near the mountains",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e0508e83-a0a2-4602-854c-197b201174b1"
+              },
+              "dapAn": "C. a small town near the ocean",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f25874de-3a96-4904-81bb-e76b41644cdd"
+              },
+              "dapAn": "D. a big town near the mountains",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "7a8b41e6-40c4-4a72-b63f-774c352404cc"
+          },
+          "cauHoi": "What is the population in winter, spring, and autumn?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "56681ad8-dd75-4b1e-800b-ab25081f1956"
+              },
+              "dapAn": "A. more than 60,000",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "65ed2b36-9867-4053-bab8-2c7d0557b9c8"
+              },
+              "dapAn": "B. around 50,000",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e962cea2-ee8a-4f55-b1a5-71d88e4389f9"
+              },
+              "dapAn": "C. 40,000",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "728697d8-61ce-49d6-89d0-b7514f0f3fe8"
+              },
+              "dapAn": "D. 50,000",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ba176fce-8b3c-4adb-87d1-0a5ab61e6f62"
+          },
+          "cauHoi": "What is the population in summer?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "edd8146d-0650-4460-b29b-83c346c15fff"
+              },
+              "dapAn": "A. around 50,000",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4238f6e2-0830-45bc-8639-77b651c640ab"
+              },
+              "dapAn": "B. around 70,000",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8b943f85-8e72-4120-bd28-0dc3ebfca350"
+              },
+              "dapAn": "C. 100,000",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5a2614c5-9559-49f8-942b-85fa7b10b5ad"
+              },
+              "dapAn": "D. around 100,000",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "dc463c55-ba28-4a90-b3bb-cca93cfe80a2"
+          },
+          "cauHoi": "What do tourists do in Newtown?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c3fc4b46-3392-42d8-bf15-da4f0c5abb4b"
+              },
+              "dapAn": "A. water sports",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "4d4fd11a-3686-4529-8c02-0acd16f4ee21"
+              },
+              "dapAn": "B. football",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "366cf846-1fef-471f-bc32-9887355a5c35"
+              },
+              "dapAn": "C. horse-riding",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ee6895c1-0f35-4505-aada-e05c73fe9ac0"
+              },
+              "dapAn": "D. surfing",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Newtown is a small town near the ocean. The population most of the year is around 50,000, but it doubles in the summer. Over 50,000 tourists visit the town from June to September. Tourists do water sports or relax at the beach. They also go to the mall.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What is Newtown?</b> <i>(Newtown là gì?)</i>, đoạn trong bài đọc liên quan là <b>Newtown is a small town near the ocean.</b> <i>(Newtown là một thị trấn nhỏ gần biển.)</i>. Nên đáp áp là <span style=\"color:red\"><b>C. a small town near the sea</b></span> <i>(một thành phố nhỏ gần biển).</i><br />\r\n<br />\r\n<b>2.</b> Với câu hỏi <b>What is the population in winter, spring, and autumn?</b> <i>(Dân số vào mùa đông, xuân, thu là bao nhiêu?)</i>, đoạn trong bài đọc liên quan là <b>The population most of the year is around 50,000, but it doubles in the summer.</b> <i>(Dân số hầu hết trong năm là khoảng 50.000 người, nhưng tăng gấp đôi vào mùa hè.)</i>. Nên đáp áp là <span style=\"color:red\"><b>B. around 50,000</b></span> <i>(khoảng 50.000).</i><br />\r\n<br />\r\n<b>3.</b> Với câu hỏi <b>What is the population in summer?</b> (Dân số vào mùa hè là bao nhiêu?), đoạn trong bài đọc liên quan là <b>The population most of the year is around 50,000, but it doubles in the summer.</b> <i>(Dân số hầu hết trong năm là khoảng 50.000 người, nhưng tăng gấp đôi vào mùa hè.).</i> Nên đáp áp là <span style=\"color:red\"><b>D. around 100,000</b></span> <i>(khoảng 100.000).</i><br />\r\n<br />\r\n<b>4.</b> Với câu hỏi <b>What do tourists do in Newtown?</b> <i>(Khách du lịch làm gì ở Newtown?)</i>, đoạn trong bài đọc liên quan là <b>Tourists do water sports or relax at the beach.</b> <i>(Khách du lịch chơi thể thao dưới nước hoặc thư giãn trên bãi biển.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. water sports</b></span> <i>(thể thao dưới nước).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f4ac070d-0e05-48a8-b1fb-3d4f0334197a"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "0102e35b-d065-4448-91d4-a692def86a2e"
+          },
+          "cauHoi": "What do they talk about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "93235a58-b9c1-4fc2-8c1d-736dcecdd99e"
+              },
+              "dapAn": "A. the house tour",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5ea9d5b3-d5d4-44e4-b60e-01851721867e"
+              },
+              "dapAn": "B. the city tour",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "fd85783d-92c4-48bb-a2c8-fa557b506238"
+              },
+              "dapAn": "C. the school tour",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e6d153ac-a56b-4a27-94eb-0ab57dd70af7"
+              },
+              "dapAn": "D. the food tour",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "9e3c8983-492c-44b1-a203-d17af109b99b"
+          },
+          "cauHoi": "What places do they visit on the tour?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "33486d7c-268f-4eb6-986b-e84766457652"
+              },
+              "dapAn": "A. museums and important places in the city",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "fef92aa3-4798-4462-85ae-b38c674ee215"
+              },
+              "dapAn": "B. the tourist’s home",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e260e490-b61d-4b7c-a8c0-e2749f07bd45"
+              },
+              "dapAn": "C. museums",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b036b468-bedb-4880-af60-ec27d1efceaf"
+              },
+              "dapAn": "D. important places in the city",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "9a60638a-c7e6-4d1a-abaa-bf596cb38a3a"
+          },
+          "cauHoi": "Where does the tour start?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "bc850879-54a6-4376-9052-4a0a2a40e65e"
+              },
+              "dapAn": "A. outside the office - across from the bus station",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "913754a8-11c6-471a-8e42-8d7d63285a36"
+              },
+              "dapAn": "B. at the bus station",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f4bf1d44-adf5-4cac-ac7b-8f7907f2e6e2"
+              },
+              "dapAn": "C. across from the office",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c9dbdeab-e133-4cd6-97b4-6f795ad7958e"
+              },
+              "dapAn": "D. at the office",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "a4c9751f-09f8-4189-9923-6b8b4a7a50d1"
+          },
+          "cauHoi": "Where does the tour finish?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "56d2a000-3cc5-41de-bb3b-49d958e035be"
+              },
+              "dapAn": "A. across from the office",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "68cf1b70-09c4-4575-8dd2-c03553da9ed6"
+              },
+              "dapAn": "B. at the bus station",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "df29fb73-d570-4f64-b26c-f104cb540777"
+              },
+              "dapAn": "C. outside the office - across from the bus station",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "d5a5e61d-b9bf-4ce5-b660-d048405f6123"
+              },
+              "dapAn": "D. at the train station",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Man:</b></td> \n                        <td>Hi. I want some information about the city tour, please.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Woman:</b></td> \n                        <td>Sure. How can I help you?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Man:</b></td> \n                        <td>Well, what places do you visit on the tour?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Woman:</b></td> \n                        <td>The tour goes to museums and important places in the city.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Man:</b></td> \n                        <td>Great. Where does the tour start? </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Woman:</b></td> \n                        <td>Outside our office – across from the bus station. The tour also finishes there.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What do they talk about? <i></i></b><i>(Họ nói về chuyện gì?)</i>, đoạn trong bài đọc liên quan là <b>I want some information about the city tour, please.</b> <i>(Tôi muốn biết một số thông tin về chuyến đi quanh thành phố, làm ơn.).</i> Nên đáp áp là <span style=\"color:red\"><b>B. the city tour</b></span> <i>(chuyến đi quanh thành phố).</i><br />\r\n<br />\r\n<b>2.</b> Với câu hỏi <b>What places do they visit on the tour?</b> <i>(Họ thăm những nơi nào trong chuyến thăm quan?)</i>, đoạn trong bài đọc liên quan là <b>The tour goes to museums and important places in the city.</b> <i>(Chuyến đi tới các bảo tàng và những địa điểm quan trọng của thành phố.)</i>. Nên đáp áp là <span style=\"color:red\"><b>A. museums and important places in the city</b></span> <i>(bảo tàng và những địa điểm quan trọng của thành phố).</i><br />\r\n<br />\r\n<b>3.</b> Với câu hỏi <b>Where does the tour start?</b> <i>(Chuyến đi xuất phát từ đâu?)</i>, đoạn trong bài đọc liên quan là <b>Outside our office – across from the bus station.</b><i> <b></b>(Ở bên ngoài văn phòng của chúng tôi – đối diện với bến xe buýt.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. outside our office – across from the bus station</b></span> <i>(ở bên ngoài văn phòng của chúng tôi – đối diện với bến xe buýt).</i><br />\r\n<br />\r\n<b>4.</b> Với câu hỏi <b>Where does the tour finish?</b> <i>(Chuyến đi kết thúc ở đâu?)</i>, đoạn trong bài đọc liên quan là <b>Outside our office – across from the bus station. The tour also finishes there. <i></i></b><i>(Ở bên ngoài văn phòng của chúng tôi – đối diện với bến xe buýt. Chuyến đi cũng kết thúc tại đây.).</i> Nên đáp áp là <span style=\"color:red\"><b>C. outside our office – across from the bus station</b></span> <i>(ở bên ngoài văn phòng của chúng tôi – đối diện với bến xe buýt).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d13a30c2-148d-4828-ac3b-9208d153fdcf"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "35ce264f-f47f-4eba-a572-5daebb7bc638"
+          },
+          "cauHoi": "What is the Five Ways Mall popular for?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "1a78ff2b-36dd-4858-a0f7-754ed6ae681e"
+              },
+              "dapAn": "A. shopping and free-time activities",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "acfec8cb-90dc-471d-b174-d8836aef8987"
+              },
+              "dapAn": "B. playing sports",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f7086a7e-da23-495a-8fc4-0cae2e22cec5"
+              },
+              "dapAn": "C. drawing",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "186bcd8f-c0de-4980-b3de-5113ff376e72"
+              },
+              "dapAn": "D. free-time activities",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "d90d7cb3-4523-4942-b5e0-ae406f60a9fc"
+          },
+          "cauHoi": "What do people usually do at Five Ways Mall?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "31728fc7-3012-4e15-b354-6cc95990e99a"
+              },
+              "dapAn": "A. play football",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fdba108a-ca7c-48f1-9590-0253688ce9f6"
+              },
+              "dapAn": "B. look at flowers",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8d918b53-cf8d-43cd-a245-c01d459d1bf3"
+              },
+              "dapAn": "C. go shopping",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "05a8e792-2c11-4897-8184-31abbfac2470"
+              },
+              "dapAn": "D. read books",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "331e3411-5b1c-41fd-9f8b-668c62dfe230"
+          },
+          "cauHoi": "What do families do at the mall?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f77af93a-2438-45bb-8447-4d075b444012"
+              },
+              "dapAn": "A. go bowling",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6fa78fa2-843f-48eb-ab93-11015bd39f1c"
+              },
+              "dapAn": "B. eat or watch a movie",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "74401f52-3340-484a-962d-d3aaa4863c89"
+              },
+              "dapAn": "C. play tennis",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "41b884cb-ce71-4a78-9665-39aacc768375"
+              },
+              "dapAn": "D. go to the stores",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "1a3ad9c4-9e4b-44cd-87a1-1a1e2da5bb8e"
+          },
+          "cauHoi": "What do teenagers do at the mall?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c17fbd0d-fd1b-4a98-b26e-188793168d4c"
+              },
+              "dapAn": "A. talk with other people",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e4039053-81b2-4766-ab73-1af748d1208e"
+              },
+              "dapAn": "B. eat breakfast",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "99674131-82a1-49ae-b5fc-9c63aedddc57"
+              },
+              "dapAn": "C. go to the stores",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "de32e5e2-4855-400e-a59e-b47739d831c5"
+              },
+              "dapAn": "D. watch a movie",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "The Five Ways Mall is a very popular place for shopping and free time activities. Parents take their young children to the mall. They eat at the food court or watch a movie at the movie theater. Teenagers and young adults go to the stores or go bowling.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What is the Five Ways Mall popular for? <i></i></b><i>(Five Ways Mall nổi tiếng về điều gì?)</i>, đoạn trong bài đọc liên quan là <b>The Five Ways Mall is a very popular place for shopping and free-time activities</b> <i>(Five Ways Mall là một nơi rất nổi tiếng để mua sắm và các hoạt động giải trí)</i>. Nên đáp áp là <span style=\"color:red\"><b>A. shopping and free-time activities</b></span> <i>(đi mua sắm và các hoạt động giải trí).</i><br />\r\n<br />\r\n<b>2.</b> Với câu hỏi <b>What do people usually do at Five Ways Mall?</b> <i>(Mọi người thường làm gì ở Five Ways Mall?)</i>, đoạn trong bài đọc liên quan là <b>The Five Ways Mall is a very popular place for shopping <i></i></b><i>(Five Ways Mall là một nơi rất nổi tiếng để mua sắm.)</i>. Nên đáp áp là <span style=\"color:red\"><b>C. go shopping</b></span> <i>(đi mua sắm).</i><br />\r\n<br />\r\n<b>3.</b> Với câu hỏi <b>What do families do at the mall?</b> (<i>Các gia đình làm gì ở trung tâm mua sắm?)</i>, đoạn trong bài đọc liên quan là <b>Parents take their young children to the mall. They eat at the food court or watch a movie at the movie theater.</b> <i>(Các gia đình thường đưa trẻ nhỏ tới trung tâm mua sắm. Họ ăn ở quầy đồ ăn hoặc xem phim ở rạp phim)</i>. Nên đáp áp là <span style=\"color:red\"><b>B. eat or watch a movie</b></span> <i>(ăn hoặc xem phim)</i>.<br />\r\n <br />\r\n<b>4.</b> Với câu hỏi <b>What do teenagers do at the mall?</b> <i>(Các thanh thiếu niên làm gì ở trung tâm mua sắm?)</i>, đoạn trong bài đọc liên quan là <b>Teenagers and young adults go to the stores or go bowling.</b> <i>(Các thanh thiếu niên và người trẻ tới cửa hàng hoặc chơi bowling).</i> Nên đáp áp là <span style=\"color:red\"><b>C. go to the stores</b></span> <i>(tới cửa hàng).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "169583d3-569e-4b06-8e95-9ef8bfd582c8"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "98938af7-0546-4240-a52f-fcd3c30d2b66"
+          },
+          "cauHoi": "Where can the man buy tickets?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b33018a2-f2e9-49de-8e67-5ed2b7b14cb9"
+              },
+              "dapAn": "A. from the woman",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "66d03a4c-89e5-40f4-bf0d-45e2d076f761"
+              },
+              "dapAn": "B. from the woman or on the bus",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "1a61b639-38a9-4ecf-8440-76a4eee098f8"
+              },
+              "dapAn": "C. on the bus",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "aa2345a0-d5d6-4f10-bf94-c3d7eb5484f9"
+              },
+              "dapAn": "D. online",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "7eee5425-047b-4390-b1a3-826605165896"
+          },
+          "cauHoi": "Where is the nearest ATM?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "241da434-38e9-4f82-b69e-4846b7e70a1a"
+              },
+              "dapAn": "A. 20 meters away",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "016f5584-9813-4cf6-9b03-ab6ed0724fc7"
+              },
+              "dapAn": "B. 300 meters away",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "38ddb9e2-18c9-4ef4-8092-40818f5eb231"
+              },
+              "dapAn": "C. 200 meters away",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3bbb5081-7c7d-4fa9-a2d6-c97d6d4f6e36"
+              },
+              "dapAn": "D. 100 meters away",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "22ac3304-758a-43b6-a3e2-e07c9a3cbb27"
+          },
+          "cauHoi": "How much do the tickets for adults cost?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2c020ecf-74dc-469f-b1d8-bebb25d281a5"
+              },
+              "dapAn": "A. $15",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "7a604593-09a1-4161-b58b-92be4281c46a"
+              },
+              "dapAn": "B. $5",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2b3ceb85-7f54-496f-81a0-5786e7a9990e"
+              },
+              "dapAn": "C. $50",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a16d799b-c2cb-4426-ad05-e6d2f85471e6"
+              },
+              "dapAn": "D. $10",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "10b2e838-97c5-4a41-bbdb-9b4bfa4a5ba2"
+          },
+          "cauHoi": "How much do the tickets for children cost?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f2983b40-0438-468a-b989-712b18bee07d"
+              },
+              "dapAn": "A. $8",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "1bdd74c0-fc8a-46ed-8236-6f117c47abcf"
+              },
+              "dapAn": "B. $18",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "43202737-fdee-41fb-803d-8e90681b0fbf"
+              },
+              "dapAn": "C. $80",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e295a222-ca89-4d3a-8f9b-ba48e5af7fa9"
+              },
+              "dapAn": "D. free",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Man:</b></td> \n                        <td>Where do I buy tickets?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Woman:</b></td> \n                        <td>You can buy them from me or on the bus.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Man:</b></td> \n                        <td>I don't bring any cash with me. Where is the nearest ATM?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Woman:</b></td> \n                        <td>There is one, just 200 meters from here.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Man:</b></td> \n                        <td>How much do the tickets cost?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Woman:</b></td> \n                        <td>The tickets cost $15 for adults and $8 for children.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Where can the man buy tickets?</b> <i>(Người đàn ông có thể mua vé ở đâu?)</i>, đoạn trong bài đọc liên quan là <b>You can buy them from me or on the bus.</b> <i>(Ông có thể mua chúng từ tôi hoặc ở trên xe buýt.).</i> Nên đáp áp là <span style=\"color:red\"><b>B. from the woman or on the bus</b></span> <i>(từ người phụ nữ hoặc ở trên xe buýt).</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>Where is the nearest ATM?</b> <i>(Cây ATM gần nhất ở đâu?)</i>, đoạn trong bài đọc liên quan là <b>There is one, just 200 meters from here.</b> <i>(Có một cái cách đây chỉ 200 mét)</i>. Nên đáp áp là <span style=\"color:red\"><b>C. 200 meters away</b></span> <i>(cách đây 200 mét).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>How much do the tickets for adults cost?</b> <i>(Giá vé cho người lớn là bao nhiêu?)</i>, đoạn trong bài đọc liên quan là <b>The tickets cost $15 for adults</b> <i>(Vé có giá 15 đô-la cho người lớn)</i>. Nên đáp áp là <span style=\"color:red\"><b>A. $15</b></span> <i>(15 đô-la).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>How much do the tickets for children cost?</b> <i>(Giá vé cho trẻ em là bao nhiêu?)</i>, đoạn trong bài đọc liên quan là <b>The tickets cost $15 for adults and $8 for children.</b> <i>(Vé có giá 15 đô-la cho người lớn và 8 đô-la cho trẻ em.)</i>. Nên đáp áp là <span style=\"color:red\"><b>A. $8</b></span> <i>(8 đô-la).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0f4ad73a-90ee-47a4-aa21-f3c375cc280d"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "228ce39c-ea9b-4026-a7ad-2ae466ca36d7"
+          },
+          "cauHoi": "It’s easy to see the city by _____.",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "23f68e2a-ccb6-40e3-9125-f42874b44b06"
+              },
+              "dapAn": "A. by taxi",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2d81ef59-1f37-4900-9029-47124b30673d"
+              },
+              "dapAn": "B. by bus",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "05d58fbe-4f1e-480b-9ee1-6d9e3bf59ee6"
+              },
+              "dapAn": "C. by walking",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6bbf43ae-3efb-4e93-8ee9-9cf17528bf5e"
+              },
+              "dapAn": "D. by car",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "9d062fc8-8652-4437-979f-1e9130721d97"
+          },
+          "cauHoi": "How is the city?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f0c6d1a9-8c2e-4d05-addc-4a79be6eab5c"
+              },
+              "dapAn": "A. expensive",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "36c74aa5-45eb-4d12-a416-7839e2cd4a2d"
+              },
+              "dapAn": "B. cheap",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d50e927d-73fd-4340-9a52-873ac6ef0d7c"
+              },
+              "dapAn": "C. modern",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "7a5f847b-ef38-424f-a7e4-1dc18cf22f00"
+              },
+              "dapAn": "D. boring",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "1c4806d7-e4fd-4a01-9bf5-06b7fea5c6c6"
+          },
+          "cauHoi": "What do visitors do at the park?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "68d8590c-0102-4d0c-92f1-e3f107584153"
+              },
+              "dapAn": "A. take pictures",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5728fbad-d99e-4ce8-a617-f91a5b856764"
+              },
+              "dapAn": "B. swim in the rivers",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "890c89fa-95ad-4160-9d57-c7d33ae1d86a"
+              },
+              "dapAn": "C. go for a walk",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "269964c7-b368-4fff-951a-4bbc3bc83de0"
+              },
+              "dapAn": "D. do exercise",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "bc9c6a58-be79-46da-baa6-9a2a61d21a3e"
+          },
+          "cauHoi": "What is next to the park?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "dc989bc5-4185-4ee6-9cd9-773b5ce41582"
+              },
+              "dapAn": "A. restaurants",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "0a5a9d6c-4910-45c1-8300-061051222c9c"
+              },
+              "dapAn": "B. schools",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f341af1d-70a6-4969-953a-9147b2825ca8"
+              },
+              "dapAn": "C. bus stops",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "45c80193-e03b-49cd-99ca-8ce9ecca7fc0"
+              },
+              "dapAn": "D. bookstore",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "It’s easy to see my city by bus or train. And it’s cheap, too. Many visitors like the park. It’s beautiful and many people like to go for a walk there. There are coffee shops and restaurants next to the park.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>It's easy to see the city by _____.</b> <i>(Rất dễ để thấy thành phố khi đi bằng _____.),</i> đoạn trong bài đọc liên quan là <b>It's easy to see my city by bus or train.</b> <i>(Rất dễ để thấy thành phố của tôi khi đi xe buýt hoặc đi tàu hỏa.)</i>. Nên đáp áp là <span style=\"\"color:red\"\"><b><span style=\"color:red\">B. by bus</b></span> <i>(bằng xe buýt).</i><br />\r\n<br />\r\n<b>2.</b> Với câu hỏi <b>How is the city?</b> <i>(Thành phố như thế nào?)</i> đoạn trong bài đọc liên quan là <b>There are coffee shops and restaurants next to the park.</b> <i>(Có nhiều quán cà phê và nhà hàng gần công viên.)</i>. Nên đáp áp là <b><span style=\"color:red\">C. modern</span></b> <i>(hiện đại).</i><br />\r\n <br />\r\n<b>3.</b> Với câu hỏi <b>What do visitors do at the park?</b> <i>(Khách du lịch thường làm gì ở công viên?)</i>, đoạn trong bài đọc liên quan là <b>many people like to go for a walk there.</b> <i>(Nhiều người thích đi dạo ở đó.).</i> Nên đáp áp là <b> <span style=\"color:red\">C. go for a walk</b></span> <i>(đi dạo).</i><br />\r\n <br />\r\n<b>4.</b> Với câu hỏi <b>What is next to the park?</b> <i>(Có gì ở cạnh công viên?)</i>, đoạn trong bài đọc liên quan là <b>There are coffee shops and restaurants next to the park.</b> <i>(Có các cửa hàng cà phê và nhà hàng ở cạnh công viên.).</i> Nên đáp áp là <span style=\"\"color:red\"\"><b><span style=\"color:red\">A. restaurants</b></span> <i>(nhà hàng).</i>",
+      "danhSachDapAn": []
+    }
+  ]
+}

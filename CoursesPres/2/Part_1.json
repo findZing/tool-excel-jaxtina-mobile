@@ -1,0 +1,850 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "VOCABULARY",
+  "videoUrl": "4SKILLS_PRE_S_L2/vocabulary.mp4",
+  "newWords": [
+    {
+      "word": "Vietnam",
+      "loaiTu": " n",
+      "phatAm": "/ˌviːetˈnɑːm/",
+      "meaning": "nước Việt Nam",
+      "viDu": "I'm from Vietnam. \n(Tôi đến từ nước Việt Nam.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/59.vietnam.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/59.vietnam.png"
+    },
+    {
+      "word": "Vietnamese",
+      "loaiTu": " n, adj",
+      "phatAm": " /ˌviːetnəˈmiːz/",
+      "meaning": "người Việt Nam, tiếng Việt Nam",
+      "viDu": "She learns Vietnamese in class.\n(Cô ấy học tiếng Việt Nam ở lớp học.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/60.vietnamese.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/60.vietnamese.png"
+    },
+    {
+      "word": "Mexico",
+      "loaiTu": " n",
+      "phatAm": "/ˈmeksɪkəʊ/",
+      "meaning": "nước Mê-xi-cô",
+      "viDu": "I'm from Mexico.\n(Tôi đến từ nước Mê-xi-cô.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/61.mexico.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/61.mexico.png"
+    },
+    {
+      "word": "Mexican",
+      "loaiTu": " n, adj",
+      "phatAm": " /ˈmeksɪkən/",
+      "meaning": " người Mê-xi-cô",
+      "viDu": "I am Mexican.\n(Tôi là người Mê-xi-cô.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/62.mexican.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/62.mexican.png"
+    },
+    {
+      "word": "America",
+      "loaiTu": "n",
+      "phatAm": "/əˈmerɪkə/",
+      "meaning": "nước Mỹ",
+      "viDu": "I'm from America.\n(Tôi đến từ nước Mỹ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/63.america.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/63.america.png"
+    },
+    {
+      "word": "American",
+      "loaiTu": " n, adj",
+      "phatAm": " /əˈmerɪkən/",
+      "meaning": " người Mỹ",
+      "viDu": "I'm American.\n(Tôi là người Mỹ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/64.american.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/64.american.png"
+    },
+    {
+      "word": "Canada",
+      "loaiTu": "n",
+      "phatAm": "/ˈkænədə/",
+      "meaning": "nước Ca-na-đa",
+      "viDu": "I'm from Canada.\n(Tôi đến từ nước Ca-na-đa.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/65.canada.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/65.canada.png"
+    },
+    {
+      "word": "Canadian",
+      "loaiTu": "n, adj",
+      "phatAm": "/kəˈneɪdiən/",
+      "meaning": "người Ca-na-đa",
+      "viDu": "I'm Canadian.\n(Tôi là người Ca-na-đa.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/66.canadian.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/66.canadian.png"
+    },
+    {
+      "word": "England",
+      "loaiTu": "n",
+      "phatAm": "/ˈɪŋɡlənd/",
+      "meaning": "nước Anh",
+      "viDu": "I'm from England.\n(Tôi đến từ nước Anh.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/67.england.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/67.england.png"
+    },
+    {
+      "word": "English",
+      "loaiTu": " n, adj",
+      "phatAm": " /ˈɪŋɡlɪʃ/",
+      "meaning": " người Anh, tiếng Anh",
+      "viDu": "I can speak English.\n(Tôi có thể nói tiếng Anh.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/68.english.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/68.english.png"
+    },
+    {
+      "word": "Brazil",
+      "loaiTu": "n",
+      "phatAm": "/brəˈzɪl/",
+      "meaning": "nước Bra-zin",
+      "viDu": "I'm from Brazil.\n(Tôi đến từ nước Bra-zin.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/69.brazil.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/69.brazil.png"
+    },
+    {
+      "word": "Brazilian",
+      "loaiTu": " n, adj",
+      "phatAm": " /brəˈzɪliən/",
+      "meaning": " người Bra-zin",
+      "viDu": "I'm Brazilian.\n(Tôi là người Bra-zin.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/70.brazilian.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/70.brazilian.png"
+    },
+    {
+      "word": "China",
+      "loaiTu": "n",
+      "phatAm": "/ˈtʃaɪnə/",
+      "meaning": "nước Trung Quốc",
+      "viDu": "I'm from China.\n(Tôi đến từ nước Trung Quốc.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/71.china.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/71.china.png"
+    },
+    {
+      "word": "Chinese",
+      "loaiTu": " n, adj",
+      "phatAm": " /ˌtʃaɪˈniːz/",
+      "meaning": "người Trung Quốc, tiếng Trung Quốc",
+      "viDu": "I'm Chinese.\n(Tôi là người Trung Quốc.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/72.chinese.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/72.chinese.png"
+    },
+    {
+      "word": "Germany",
+      "loaiTu": "n",
+      "phatAm": "/ˈdʒɜːməni/",
+      "meaning": "nước Đức",
+      "viDu": "I'm from Germany.\n(Tôi đến từ nước Đức.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/73.germany.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/73.germany.png"
+    },
+    {
+      "word": "German",
+      "loaiTu": " n, adj",
+      "phatAm": " /ˈdʒɜːmən/",
+      "meaning": " người Đức, tiếng Đức",
+      "viDu": "I speak German.\n(Tôi nói tiếng Đức.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/74.german.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/74.german.png"
+    },
+    {
+      "word": "France",
+      "loaiTu": "n",
+      "phatAm": "/frɑːns/",
+      "meaning": "nước Pháp",
+      "viDu": "I'm from France.\n(Tôi đến từ nước Pháp.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/75.france.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/75.france.png"
+    },
+    {
+      "word": "French",
+      "loaiTu": " n, adj",
+      "phatAm": " /frentʃ/",
+      "meaning": " người Pháp, tiếng Pháp",
+      "viDu": "I speak French.\n(Tôi nói tiếng Pháp.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/76.french.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/76.french.png"
+    }
+  ],
+  "scriptVideo": [
+    {
+      "start": "0:00:58",
+      "end": "0:01:02",
+      "english": "Vietnam",
+      "subScriptEnglish": " _Vietnam_ ",
+      "matchedNewWords": [
+        "Vietnam"
+      ],
+      "vietnamese": "Nước Việt Nam"
+    },
+    {
+      "start": "0:01:06",
+      "end": "0:01:17",
+      "english": "Vietnamese",
+      "subScriptEnglish": " _Vietnamese_ ",
+      "matchedNewWords": [
+        "Vietnamese"
+      ],
+      "vietnamese": "người Việt Nam / tiếng Việt"
+    },
+    {
+      "start": "0:01:29",
+      "end": "0:01:34",
+      "english": "Vietnam",
+      "subScriptEnglish": " _Vietnam_ ",
+      "matchedNewWords": [
+        "Vietnam"
+      ],
+      "vietnamese": "Nước Việt Nam"
+    },
+    {
+      "start": "0:01:34",
+      "end": "0:01:41",
+      "english": "Vietnamese",
+      "subScriptEnglish": " _Vietnamese_ ",
+      "matchedNewWords": [
+        "Vietnamese"
+      ],
+      "vietnamese": "người Việt Nam / tiếng Việt"
+    },
+    {
+      "start": "0:01:52",
+      "end": "0:01:57",
+      "english": "China",
+      "subScriptEnglish": " _China_ ",
+      "matchedNewWords": [
+        "China"
+      ],
+      "vietnamese": "nước Trung Quốc"
+    },
+    {
+      "start": "0:02:03",
+      "end": "0:02:05",
+      "english": "Chinese",
+      "subScriptEnglish": " _Chinese_ ",
+      "matchedNewWords": [
+        "Chinese"
+      ],
+      "vietnamese": "Người Trung Quốc / tiếng Trung"
+    },
+    {
+      "start": "0:02:07",
+      "end": "0:02:12",
+      "english": "China",
+      "subScriptEnglish": " _China_ ",
+      "matchedNewWords": [
+        "China"
+      ],
+      "vietnamese": "nước Trung Quốc"
+    },
+    {
+      "start": "0:02:12",
+      "end": "0:02:18",
+      "english": "Chinese",
+      "subScriptEnglish": " _Chinese_ ",
+      "matchedNewWords": [
+        "Chinese"
+      ],
+      "vietnamese": "Người Trung Quốc / tiếng Trung"
+    },
+    {
+      "start": "0:02:28",
+      "end": "0:02:32",
+      "english": "England",
+      "subScriptEnglish": " _England_ ",
+      "matchedNewWords": [
+        "England"
+      ],
+      "vietnamese": "Nước Anh"
+    },
+    {
+      "start": "0:02:32",
+      "end": "0:02:37",
+      "english": "English",
+      "subScriptEnglish": " _English_ ",
+      "matchedNewWords": [
+        "English"
+      ],
+      "vietnamese": "Người Anh, tiếng Anh"
+    },
+    {
+      "start": "0:02:40",
+      "end": "0:02:45",
+      "english": "England",
+      "subScriptEnglish": " _England_ ",
+      "matchedNewWords": [
+        "England"
+      ],
+      "vietnamese": "Nước Anh"
+    },
+    {
+      "start": "0:02:45",
+      "end": "0:02:50",
+      "english": "English",
+      "subScriptEnglish": " _English_ ",
+      "matchedNewWords": [
+        "English"
+      ],
+      "vietnamese": "Người Anh, tiếng Anh"
+    },
+    {
+      "start": "0:02:56",
+      "end": "0:02:58",
+      "english": "Germany",
+      "subScriptEnglish": " _Germany_ ",
+      "matchedNewWords": [
+        "Germany"
+      ],
+      "vietnamese": "Nước Đức"
+    },
+    {
+      "start": "0:03:02",
+      "end": "0:03:04",
+      "english": "German",
+      "subScriptEnglish": " _German_ ",
+      "matchedNewWords": [
+        "German"
+      ],
+      "vietnamese": "Người Đức, Tiếng Đức"
+    },
+    {
+      "start": "0:03:06",
+      "end": "0:03:11",
+      "english": "Germany",
+      "subScriptEnglish": " _Germany_ ",
+      "matchedNewWords": [
+        "Germany"
+      ],
+      "vietnamese": "Nước Đức"
+    },
+    {
+      "start": "0:03:11",
+      "end": "0:03:15",
+      "english": "German",
+      "subScriptEnglish": " _German_ ",
+      "matchedNewWords": [
+        "German"
+      ],
+      "vietnamese": "Người Đức, Tiếng Đức"
+    },
+    {
+      "start": "0:03:19",
+      "end": "0:03:21",
+      "english": "France",
+      "subScriptEnglish": " _France_ ",
+      "matchedNewWords": [
+        "France"
+      ],
+      "vietnamese": "nước Pháp"
+    },
+    {
+      "start": "0:03:23",
+      "end": "0:03:31",
+      "english": "French",
+      "subScriptEnglish": " _French_ ",
+      "matchedNewWords": [
+        "French"
+      ],
+      "vietnamese": "Người Pháp, Tiếng Pháp"
+    },
+    {
+      "start": "0:03:34",
+      "end": "0:03:37",
+      "english": "France",
+      "subScriptEnglish": " _France_ ",
+      "matchedNewWords": [
+        "France"
+      ],
+      "vietnamese": "nước Pháp"
+    },
+    {
+      "start": "0:03:38",
+      "end": "0:03:42",
+      "english": "French",
+      "subScriptEnglish": " _French_ ",
+      "matchedNewWords": [
+        "French"
+      ],
+      "vietnamese": "Người Pháp, Tiếng Pháp"
+    },
+    {
+      "start": "0:03:47",
+      "end": "0:03:51",
+      "english": "Mexico",
+      "subScriptEnglish": " _Mexico_ ",
+      "matchedNewWords": [
+        "Mexico"
+      ],
+      "vietnamese": "Nước Mê-xi-cô"
+    },
+    {
+      "start": "0:03:51",
+      "end": "0:03:55",
+      "english": "Mexican",
+      "subScriptEnglish": " _Mexican_ ",
+      "matchedNewWords": [
+        "Mexican"
+      ],
+      "vietnamese": "Người Mê-xi-cô"
+    },
+    {
+      "start": "0:03:59",
+      "end": "0:04:04",
+      "english": "Mexico",
+      "subScriptEnglish": " _Mexico_ ",
+      "matchedNewWords": [
+        "Mexico"
+      ],
+      "vietnamese": "Nước Mê-xi-cô"
+    },
+    {
+      "start": "0:04:04",
+      "end": "0:04:09",
+      "english": "Mexican",
+      "subScriptEnglish": " _Mexican_ ",
+      "matchedNewWords": [
+        "Mexican"
+      ],
+      "vietnamese": "Người Mê-xi-cô"
+    },
+    {
+      "start": "0:04:17",
+      "end": "0:04:21",
+      "english": "America",
+      "subScriptEnglish": " _America_ ",
+      "matchedNewWords": [
+        "America"
+      ],
+      "vietnamese": "nước Mỹ"
+    },
+    {
+      "start": "0:04:22",
+      "end": "0:04:27",
+      "english": "American",
+      "subScriptEnglish": " _American_ ",
+      "matchedNewWords": [
+        "American"
+      ],
+      "vietnamese": "người Mỹ"
+    },
+    {
+      "start": "0:04:29",
+      "end": "0:04:34",
+      "english": "America",
+      "subScriptEnglish": " _America_ ",
+      "matchedNewWords": [
+        "America"
+      ],
+      "vietnamese": "nước Mỹ"
+    },
+    {
+      "start": "0:04:34",
+      "end": "0:04:40",
+      "english": "American",
+      "subScriptEnglish": " _American_ ",
+      "matchedNewWords": [
+        "American"
+      ],
+      "vietnamese": "người Mỹ"
+    },
+    {
+      "start": "0:04:46",
+      "end": "0:04:53",
+      "english": "Canada",
+      "subScriptEnglish": " _Canada_ ",
+      "matchedNewWords": [
+        "Canada"
+      ],
+      "vietnamese": "Nước Ca-na-đa"
+    },
+    {
+      "start": "0:04:54",
+      "end": "0:04:58",
+      "english": "Canadian",
+      "subScriptEnglish": " _Canadian_ ",
+      "matchedNewWords": [
+        "Canadian"
+      ],
+      "vietnamese": "Người Ca-na-đa"
+    },
+    {
+      "start": "0:05:00",
+      "end": "0:05:05",
+      "english": "Canada",
+      "subScriptEnglish": " _Canada_ ",
+      "matchedNewWords": [
+        "Canada"
+      ],
+      "vietnamese": "Nước Ca-na-đa"
+    },
+    {
+      "start": "0:05:05",
+      "end": "0:05:10",
+      "english": "Canadian",
+      "subScriptEnglish": " _Canadian_ ",
+      "matchedNewWords": [
+        "Canadian"
+      ],
+      "vietnamese": "Người Ca-na-đa"
+    },
+    {
+      "start": "0:05:15",
+      "end": "0:05:20",
+      "english": "Brazil",
+      "subScriptEnglish": " _Brazil_ ",
+      "matchedNewWords": [
+        "Brazil"
+      ],
+      "vietnamese": "Nước Bra-zin"
+    },
+    {
+      "start": "0:05:20",
+      "end": "0:05:24",
+      "english": "Brazilian",
+      "subScriptEnglish": " _Brazilian_ ",
+      "matchedNewWords": [
+        "Brazilian"
+      ],
+      "vietnamese": "Người Bra-zin"
+    },
+    {
+      "start": "0:05:27",
+      "end": "0:05:31",
+      "english": "Brazil",
+      "subScriptEnglish": " _Brazil_ ",
+      "matchedNewWords": [
+        "Brazil"
+      ],
+      "vietnamese": "Nước Bra-zin"
+    },
+    {
+      "start": "0:05:31",
+      "end": "0:05:37",
+      "english": "Brazilian",
+      "subScriptEnglish": " _Brazilian_ ",
+      "matchedNewWords": [
+        "Brazilian"
+      ],
+      "vietnamese": "Người Bra-zin"
+    },
+    {
+      "start": "0:06:11",
+      "end": "0:06:57",
+      "english": "I'm from Vietnam.",
+      "subScriptEnglish": "I'm from  _Vietnam._ ",
+      "matchedNewWords": [
+        "Vietnam"
+      ],
+      "vietnamese": "Tôi đến từ Việt Nam."
+    },
+    {
+      "start": "0:07:13",
+      "end": "0:07:39",
+      "english": "I'm Vietnamese.",
+      "subScriptEnglish": "I'm  _Vietnamese._ ",
+      "matchedNewWords": [
+        "Vietnamese"
+      ],
+      "vietnamese": "Tôi là người Việt Nam."
+    },
+    {
+      "start": "0:07:59",
+      "end": "0:08:39",
+      "english": "I speak Vietnamese.",
+      "subScriptEnglish": "I speak  _Vietnamese._ ",
+      "matchedNewWords": [
+        "Vietnamese"
+      ],
+      "vietnamese": "Tôi nói tiếng Việt."
+    },
+    {
+      "start": "0:09:00",
+      "end": "0:09:55",
+      "english": "My first language is Vietnamese. My second language is English.",
+      "subScriptEnglish": "My  _first__ language is  _Vietnamese._  My __second_  language is __English._ ",
+      "matchedNewWords": [
+        "Vietnamese",
+        "English",
+        "second",
+        "first"
+      ],
+      "vietnamese": "Ngôn ngữ mẹ đẻ của tôi là tiếng Việt. Ngôn ngữ thứ hai của tôi là tiếng Anh."
+    },
+    {
+      "start": "0:09:58",
+      "end": "0:10:17",
+      "english": "My first language is Vietnamese.",
+      "subScriptEnglish": "My  _first__ language is  _Vietnamese._ ",
+      "matchedNewWords": [
+        "Vietnamese",
+        "first"
+      ],
+      "vietnamese": "Ngôn ngữ mẹ đẻ của tôi là tiếng Việt."
+    },
+    {
+      "start": "0:10:19",
+      "end": "0:10:37",
+      "english": "My second language is English.",
+      "subScriptEnglish": "My  _second__ language is  _English._ ",
+      "matchedNewWords": [
+        "English",
+        "second"
+      ],
+      "vietnamese": "Ngôn ngữ thứ hai của tôi là tiếng Anh."
+    }
+  ],
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:00:36.709",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P1",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "___23",
+            "_id": "db42452e-609c-4586-a7d4-ed43e756352f",
+            "soundCauhoi": "4SKILLS_PRE_S_L2/sounds/video-practice/1. N32.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "M",
+                "_id": "7f26fa3c-9faa-4413-803a-b1405ec7d115"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "N",
+                "_id": {
+                  "$oid": "1a468d64-a19e-4739-aacf-611f04967020"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "Y",
+                "_id": {
+                  "$oid": "3b462ca4-8da1-433a-903b-8b62f786bfd1"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "___TUV",
+            "_id": "31a72250-d65e-4070-a981-cabbe3451d97",
+            "soundCauhoi": "4SKILLS_PRE_S_L2/sounds/video-practice/2. HTUV.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": 8,
+                "_id": "6150b16f-c007-4c60-93c3-abbc0b04d279"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "H",
+                "_id": {
+                  "$oid": "ec902326-08c8-4fac-ac50-6b553a6e44bf"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "A",
+                "_id": {
+                  "$oid": "eb45e252-bc8b-4bf0-aaa6-78915dd0d2f0"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "05___7",
+            "_id": "290e9e7f-0063-4b4b-accf-50dde02331fa",
+            "soundCauhoi": "4SKILLS_PRE_S_L2/sounds/video-practice/3. 0537.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": 6,
+                "_id": "2c618d45-0e8f-43b6-8bdb-cfd91e4c5c92"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": 3,
+                "_id": {
+                  "$oid": "05c41c12-0cc2-41ee-957e-381cfe1ddfa2"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "B",
+                "_id": {
+                  "$oid": "5ebbcbc0-812b-42d4-85ee-dd4daeb353ef"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "U___E9",
+            "_id": "420fd4ed-8c7a-4397-a402-db37f417f981",
+            "soundCauhoi": "4SKILLS_PRE_S_L2/sounds/video-practice/4. UREG.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "R",
+                "_id": "8f0c80ee-d1a8-4e14-a068-009fd331859d"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "A",
+                "_id": {
+                  "$oid": "560ca904-dc85-44b7-95f7-74eb7981ce48"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "I",
+                "_id": {
+                  "$oid": "957273e9-2bff-42c1-99a8-e651867255a1"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:00:36.709",
+      "timeEnd": "0:10:48.541",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P5",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Anton is from France. He’s _____________.",
+            "_id": "8d17d15f-fe22-483e-b10f-8fc20677c066",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "French",
+                "_id": "9dc672eb-fe20-44d3-8b55-de980994ac4b"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "German",
+                "_id": {
+                  "$oid": "5c3159ab-50e5-4e8e-a6b7-3f64c958ccb3"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "English",
+                "_id": {
+                  "$oid": "d7917937-5bdf-4c12-b16a-7fb7cd8753fa"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "Elke is from Germany. Her first language is _____________.",
+            "_id": "23a0799b-c0b0-48ae-a9f2-0cd91cd27e41",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "Chinese",
+                "_id": "259ddb55-8321-4cb6-bbc7-6e6bbc5a9bf5"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "German",
+                "_id": {
+                  "$oid": "6cae3271-24dd-4fb8-80fd-223f7c67b5c8"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "Mexican",
+                "_id": {
+                  "$oid": "e69b4e97-3e5f-4143-9783-6a21b95828ad"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "Welling is from China. She’s _____________.",
+            "_id": "9a69fe16-ab7f-44c0-90fb-16a531998514",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "English",
+                "_id": "8f4bf18d-e8ac-4032-ad41-866a878bd08a"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "Canadian",
+                "_id": {
+                  "$oid": "e1ea62cd-99f6-4f3f-a7ce-808d26b31f40"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "Chinese",
+                "_id": {
+                  "$oid": "7cd62297-81b7-4174-9ffc-b2db38e54537"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "Justin is from _____________. His first language is English.",
+            "_id": "e0070b04-aa9d-42f9-8d0d-b357bb0884cb",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "Mexico",
+                "_id": "8be6de46-c24a-466e-8232-e0fb5332e5d9"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "England",
+                "_id": {
+                  "$oid": "c290faf8-88e2-439b-b006-d45c2efc87eb"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "Brazil",
+                "_id": {
+                  "$oid": "5ee2279a-9f69-4a23-865d-53fdb41a7c18"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "I’m from Mexico. I’m _____________.",
+            "_id": "dcca68ed-4c5e-4238-8864-3aa6149cdfe1",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "France",
+                "_id": "1f7a6129-1b12-469b-a8de-3254d538a0ef"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "Mexican",
+                "_id": {
+                  "$oid": "c69a4cc7-7b95-4ce3-bdd8-69a8a2c174a6"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "Vietnam",
+                "_id": {
+                  "$oid": "2521bac1-6487-4b69-80ba-4f1bfc8bac6c"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

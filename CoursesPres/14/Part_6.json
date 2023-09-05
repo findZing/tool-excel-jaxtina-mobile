@@ -1,0 +1,626 @@
+{
+  "dangCauHoi": "P5",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "01914b18-31b5-4b3a-a92f-fb788c2dc072"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Is your new apartment across ____ the bus station?",
+      "yNghia": "<b>Is your new apartment across <span style=\"color:red\">from</span> the bus station?</b><br />\n<i>Căn hộ mới của bạn đối diện <span style=\"color:red\">với</span> bến xe phải không?</i><br />\n<b>from</b> đúng vì tạo thành cụm <b>across</b> from mang nghĩa là \"đối diện với\".<br />\n<b>on</b> và <b>between</b> sai vì ngữ pháp và ngữ nghĩa không phù hợp.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ddeffdf2-1263-4b09-b1f8-1a26a8cb0d69"
+          },
+          "dapAn": "A. on",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f8f2bca3-787d-4ce1-b34e-2f504cf0b3ca"
+          },
+          "dapAn": "B. from",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c936498a-fc9e-49f6-8412-a1485a0f1ad7"
+          },
+          "dapAn": "C. between",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6a1713e5-c2fb-4a88-8888-57b9ca0f8368"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The bookstore ____ next to the hotel.",
+      "yNghia": "<b>The bookstore <span style=\"color:red\">is</span> next to the hotel.</b><br />\n<i>Hiệu sách <span style=\"color:red\">ở</span> bên cạnh khách sạn.</i><br />\n<b>is</b> đúng vì <b>The bookstore</b> là chủ ngữ số ít nên động từ <i>to be</i> theo sau sẽ là <b>is</b>.<br />\n<b>am</b> và <b>are</b> sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "36edd604-5ad5-4d1e-bc8b-6e3d6b866522"
+          },
+          "dapAn": "A. is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "40300b03-7c14-4af2-a672-4fdfe23f51f1"
+          },
+          "dapAn": "B. am",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "cd61fb67-7401-47c7-9719-6f274ad7a1d5"
+          },
+          "dapAn": "C. are",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c5816f42-941c-4a7b-a6e7-7fdcb5f5bdae"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How can I ____ you?",
+      "yNghia": "<b>How can I <span style=\"color:red\">help</span> you?</b><br />\n<i>Tôi có thể <span style=\"color:red\">giúp</span> gì cho bạn?</i><br />\n<b>help</b> đúng vì động từ chính sau trợ động từ <b>can</b> sẽ ở dạng nguyên thể.<br />\n<b>helps</b> và <b>helping</b> sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d720bcd6-aa7f-4b8c-b948-03e7f3989935"
+          },
+          "dapAn": "A. helps",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0a74e311-54e5-4f70-bf8e-e564c7a5f71b"
+          },
+          "dapAn": "B. helping",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e86db542-720c-4e32-acdd-b14933f6331d"
+          },
+          "dapAn": "C. help",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f2a4048b-574b-41a4-9f77-db3b7de80766"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____ straight up this street.",
+      "yNghia": "<b><span style=\"color:red\">Go</span> straight up this street.</b><br />\n<i>Hãy <span style=\"color:red\">đi</span> thẳng lên con phố này.</i><br />\n<b>Go</b> đúng vì động từ nguyên thể được đặt ở đầu câu nhằm tạo thành câu mệnh lệnh đưa ra chỉ dẫn.<br />\n<b>Gos</b> và <b>Goes</b> sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "523c3037-08e1-4b2a-8f2f-e4b9049bd099"
+          },
+          "dapAn": "A. Gos",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0b86c50a-ba51-4781-9b26-bdd05e616ffd"
+          },
+          "dapAn": "B. Goes",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "17470fde-a686-4bb8-a814-7a99970774e7"
+          },
+          "dapAn": "C. Go",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f91fcc1a-3bd3-4b97-8df3-ea675b7d98d0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____ left and take the second right.",
+      "yNghia": "<b><span style=\"color:red\">Turn</span> left and take the second right.</b><br />\n<i>Hãy <span style=\"color:red\">rẽ</span> trái và rẽ phải ở ngã rẽ thứ hai.</i><br />\n<b>Turn</b> đúng vì động từ nguyên thể được đặt ở đầu câu nhằm tạo thành câu mệnh lệnh đưa ra chỉ dẫn.<br />\n<b>Turns</b> và <b>Turned</b> sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "59a29996-203b-45c8-9dc0-08cfcd9af0f8"
+          },
+          "dapAn": "A. Turn",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "40ede2be-b8e5-4599-9c5a-bfe0cc4ae38b"
+          },
+          "dapAn": "B. Turns",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1288e228-d00d-47a8-9f98-5804128153e4"
+          },
+          "dapAn": "C. Turned",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5c380da7-00ab-460e-9d8a-2ffeb5688890"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Where are you ____?",
+      "yNghia": "<b>Where are you <span style=\"color:red\">from</span>?</b><br />\n<i>Bạn đến <span style=\"color:red\">từ</span> đâu?</i><br />\n<b>from</b> đúng vì tạo thành câu hỏi mang nghĩa \"đến từ đâu\"<br />\n<b>to</b> và <b>of</b> sai vì ngữ pháp và ngữ nghĩa không phù hợp.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7f51027b-cf31-48ab-93a3-a622900b913f"
+          },
+          "dapAn": "A. to",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d5619493-ccaa-4be9-86d7-ea53b308f904"
+          },
+          "dapAn": "B. from",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "288e26bb-faa6-4a01-ba36-33251f93d46d"
+          },
+          "dapAn": "C. of",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8b350dcf-7ac2-41f2-93ee-5863d9704b11"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It ____ between the park and the school.",
+      "yNghia": "<b>It <span style=\"color:red\">is</span> between the park and the school.</b><br />\n<i>Nó <span style=\"color:red\">ở </span>giữa công viên và trường học.</i><br />\n<b>is</b> đúng vì <b>It</b> là chủ ngữ ngôi thứ ba số ít nên động từ <i>to be</i> theo sau sẽ là <b>is</b>.<br />\n<b>am</b> và <b>are</b> sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4e57876e-65a1-4196-a6f0-935d25391db0"
+          },
+          "dapAn": "A. is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "93dba367-80dd-416e-8341-dfb53cb18c89"
+          },
+          "dapAn": "B. am",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c7357c04-d350-4c08-b135-35f55e5354d2"
+          },
+          "dapAn": "C. are",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8fe0315c-c26e-4bd4-aaab-57474db687f9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Could you tell me where the grocery store ____?",
+      "yNghia": "<b>Could you tell me where the grocery store <span style=\"color:red\">is</span>?</b><br />\n<i>Bạn có thể cho tôi biết cửa hàng tạp hóa <span style=\"color:red\">ở </span>đâu không?</i><br />\n<b>is</b> đúng vì <b>the grocery store</b> là chủ ngữ số ít nên động từ <i>to be</i> theo sau sẽ là <b>is</b><i>.</i><br />\n<b>am</b> và <b>are</b> sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "390fcb69-f9ff-4289-98bc-26b1ec9b318b"
+          },
+          "dapAn": "A. is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f30a2c16-8004-472e-bc70-12d8ea739e99"
+          },
+          "dapAn": "B. am",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "397bf7b1-d2e1-406c-bcda-37b3a6594aed"
+          },
+          "dapAn": "C. are",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d80581a5-5879-4e13-a297-ef9c9067e96c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The grocery store is opposite the bus ____.",
+      "yNghia": "<b>The grocery store is opposite the bus <span style=\"color:red\">stop</span>.</b><br />\n<i>Cửa hàng tạp hóa nằm đối diện <span style=\"color:red\">trạm dừng</span> xe buýt.</i><br />\n<b>stop</b> đúng vì tạo thành cụm danh từ <b>bus stop</b> mang nghĩa là \"trạm dừng xe buýt\"<br />\n<b>store</b> và <b>stopping</b> sai vì ngữ pháp và ngữ nghĩa không phù hợp.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "766daee4-d006-4705-b86e-5a29ef6988dd"
+          },
+          "dapAn": "A. store",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ee358366-b62b-4250-b6df-75d902e13897"
+          },
+          "dapAn": "B. stopping",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "45d56f92-8315-4ed6-b1e0-751c46052630"
+          },
+          "dapAn": "C. stop",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "bf5bb36f-8209-4478-a1d8-cd231ed5d5f8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____ off at the 3rd stop.",
+      "yNghia": "<b><span style=\"color:red\">Get</span> off at the 3rd stop.</b><br />\n<i>Hãy <span style=\"color:red\">xuống</span> xe ở điểm dừng thứ 3.</i><br />\n<b>Get</b> đúng vì động từ nguyên thể được đặt ở đầu câu nhằm tạo thành câu mệnh lệnh đưa ra chỉ dẫn.<br />\n<b>Gets</b> và <b>Getes</b> sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f6a03779-2de4-43e0-a0d9-192c84d8502e"
+          },
+          "dapAn": "A. Get",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4aa52074-0fbf-4d16-8c9b-2c76c2bb17c3"
+          },
+          "dapAn": "B. Gets",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "85fda5e2-d2d1-4757-add7-933a5fca33fa"
+          },
+          "dapAn": "C. Getes",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "57aeefec-734b-42dd-a465-d056caaec1a4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It ____ next to the big hotel.",
+      "yNghia": "<b>It <span style=\"color:red\">is</span> next to the big hotel.</b><br />\n<i>Nó <span style=\"color:red\">ở</span> cạnh khách sạn lớn.</i><br />\n<b>is</b> đúng vì <b>It</b> là chủ ngữ ngôi thứ ba số ít nên động từ to be theo sau sẽ là <b>is</b>.<br />\n<b>am</b> và <b>are</b> sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "89282b69-11d2-4e19-b702-f5b7ce778ec9"
+          },
+          "dapAn": "A. am",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "49b2c93e-3223-4a92-8134-cc2fc4548cfd"
+          },
+          "dapAn": "B.  are",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "06aaea36-58a6-44db-8b02-634e7e6ae52b"
+          },
+          "dapAn": "C. is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "38f752f2-fac2-4805-b479-27f22b558e5f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Where ____ the language school?",
+      "yNghia": "<b>Where <span style=\"color:red\">is</span> the language school?</b><br />\n<i>Trường ngoại ngữ <span style=\"color:red\">ở </span>đâu?</i><br />\n<b>is</b> đúng vì <b>the language school </b>là chủ ngữ số ít nên động từ <i>to be </i>được sử dụng sẽ là <b>is</b>.<br />\n<b>am</b> và <b>are</b> sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ab1a867d-d791-4ce3-a16f-52caf833b78d"
+          },
+          "dapAn": "A. is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d1cc8643-e89d-436e-8ce4-fe24b69c10dc"
+          },
+          "dapAn": "B. are",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "77660d0b-57e1-46ed-b753-4820ce329870"
+          },
+          "dapAn": "C. am",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "897d1906-a784-4354-a2fc-06641b811ca4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____ it near here?",
+      "yNghia": "<b> <span style=\"color:red\">Is</span> it near here?</b><br />\n<i>Nó có <span style=\"color:red\">ở </span>gần đây không?</i><br />\n<b>Is</b> đúng vì <b>it</b> là chủ ngữ số ít nên động từ <i>to be</i> được sử dụng sẽ là <b>is</b>.<br />\n<b>Am</b> và <b>Are</b> sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1afcf029-46d6-444f-91fb-43a17bc929c5"
+          },
+          "dapAn": "A. Are",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ce5fa8ce-96e7-47c0-acc3-d7dc4d20743f"
+          },
+          "dapAn": "B. Is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ba9e98f8-6b05-4a66-9811-e8439b5e314e"
+          },
+          "dapAn": "C. Am",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f7a86a16-139c-455b-abd9-5d65562333c2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You can ____ bus number 18.",
+      "yNghia": "<b>You can <span style=\"color:red\">take</span> bus number 18.</b><br />\n<i>Bạn có thể <span style=\"color:red\">bắt</span> xe buýt số 18.</i><br />\n<b>take</b> đúng vì động từ chính sau trợ động từ <b>can</b> sẽ được giữ nguyên dạng.<br />\n<b>takes</b> và <b>taking</b> sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "87e7de66-748e-4ed7-93ae-6ac7685d55c9"
+          },
+          "dapAn": "A. take",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0baf0cfe-d12d-49b4-9963-d2c78edb59cd"
+          },
+          "dapAn": "B. takes          ",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0f439f04-47bf-4125-b4e5-c90e3dac3a67"
+          },
+          "dapAn": "C. taking",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4c433e71-a1d1-4d6c-a45a-0cc88967d1a5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The science museum ____ on the left.",
+      "yNghia": "<b>The science museum <span style=\"color:red\">is</span> on the left.</b><br />\n<i>Bảo tàng khoa học nằm <span style=\"color:red\">ở</span> bên trái.</i><br />\n<b>is</b> đúng vì <b>The science museum</b> là chủ ngữ số ít nên động từ <i>to be</i> theo sau sẽ là <b>is</b>.<br />\n<b>am</b> và <b>are</b> sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d80c56c5-8a22-4c8f-b5b1-a04f8c4d9cc7"
+          },
+          "dapAn": "A. am",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fd0d1320-74d0-4851-8625-83a271c2b807"
+          },
+          "dapAn": "B. are",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a37d6791-b0ad-4d41-898f-be3d1b8959ae"
+          },
+          "dapAn": "C. is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "deb843ea-5ff5-4c48-b9e3-3d3dcd7e3be8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____ there a bus stop near here?",
+      "yNghia": "<span style=\"color:red\"></span><b><span style=\"color:red\">Is</span> there a bus stop near here?</b><br />\n<i>Có trạm dừng xe buýt nào <span style=\"color:red\">ở</span> gần đây không?</i><br />\n<b>Is</b> đúng vì <b>a bus stop</b> là danh từ số ít nên động từ <i>to be</i> được sử dụng sẽ là <b>is</b>.<br />\n<b>Am</b> và <b>Are</b> sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ac3a768e-53ad-44a9-9657-3e1c1cacbc7c"
+          },
+          "dapAn": "A. Is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1cb92668-2238-417d-a686-7ee35a5fdc33"
+          },
+          "dapAn": "B. Am",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "84b43c50-32a0-41fc-820a-ed3235e50181"
+          },
+          "dapAn": "C. Are",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8a9d2ca3-571d-48f5-9554-6493f8b00493"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It ____ right behind the Central Park.",
+      "yNghia": "<b>It <span style=\"color:red\">is</span> right behind the Central Park.</b><br />\n<i>Nó <span style=\"color:red\">ở</span> ngay sau Công viên Trung tâm.</i><br />\n<b>is </b>đúng vì <b>It</b> là chủ ngữ ngôi thứ ba số ít nên động từ <i>to be</i> theo sau sẽ là <b>is</b>.<br />\n<b>am</b> và <b>are</b> sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "dd049e7a-e036-4bce-a5aa-a5a4b6cf118d"
+          },
+          "dapAn": "A. am",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5dccc181-7286-459e-9653-8160ab9fcfeb"
+          },
+          "dapAn": "B. is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bf55cbdc-723f-4fc1-8890-7867915a56a3"
+          },
+          "dapAn": "C. are",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "50af4402-f583-49e8-92b5-99141deb5270"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I am ____ the corner of Madison and Riverside.",
+      "yNghia": "<b>I am <span style=\"color:red\">on</span> the corner of Madison and Riverside.</b><br />\n<i>Tôi <span style=\"color:red\">ở</span> đang góc Madison và Riverside.</i><br />\n<b>on</b> đúng vì tạo thành cụm <b>on the corner of</b> mang nghĩa là \"ở góc\".<br />\n<b>take</b> và <b>across</b> sai vì ngữ pháp và ngữ nghĩa không phù hợp.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2fa9a79a-0c18-4923-850f-c62c07e5c9b1"
+          },
+          "dapAn": "A. take",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2f0d8d7b-584c-4087-acd2-4c25436b243f"
+          },
+          "dapAn": "B. across",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "19061a5f-c8b3-4cc8-855a-effc02c1c02a"
+          },
+          "dapAn": "C. on",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "07601862-cc8b-4911-a140-add8750f3622"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It is ____ from the park.",
+      "yNghia": "<b>It is <span style=\"color:red\">across </span>from the park.</b><br />\r\n<i>Nó ở <span style=\"color:red\">đối diện</span> với công viên.</i><br />\r\n<b>across</b> đúng vì tạo thành cụm <b>across from </b> mang nghĩa là \"đối diện với\".<br />\r\n<b>between</b> và <b>on</b> sai vì ngữ pháp và ngữ nghĩa không phù hợp.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5cf87821-6626-42b4-a5ed-0db31b8a6bff"
+          },
+          "dapAn": "A. between        ",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8a324b3c-dc55-4d94-9713-0e3872a0219f"
+          },
+          "dapAn": "B. across",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ead69706-fca8-4d9e-aab6-feedb9723256"
+          },
+          "dapAn": "C. on",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "bb549e76-f659-4155-b398-1ca329bc49a0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The museum ____ on Main Street.",
+      "yNghia": "<b>The museum <span style=\"color:red\">is</span> on Main Street.</b><br />\n<i>Bảo tàng nằm <span style=\"color:red\">ở </span>trên Phố Chính.</i><br />\n<b>is</b> đúng vì <b>The museum</b> là chủ ngữ số ít nên động từ <i>to be </i>theo sau sẽ là <b>is</b>.<br />\n<b>am</b> và <b>are</b> sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2a74b9ab-5e56-4be2-852b-4d5f6308405d"
+          },
+          "dapAn": "A. am",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c45f0bdd-c41c-4391-bb35-8607c9a4d5b1"
+          },
+          "dapAn": "B. are",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "40122838-05b6-4d1d-8978-6d9b6b38a723"
+          },
+          "dapAn": "C. is",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

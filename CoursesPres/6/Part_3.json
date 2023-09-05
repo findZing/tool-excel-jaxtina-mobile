@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "0bcda94e-9a18-46ec-9955-a75a2df753d9"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Brush",
+      "yNghia": "Bàn chải",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "11835fd1-b95f-4f31-91ab-d4990b47042c"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Phone",
+      "yNghia": "Điện thoại",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "40e0a450-7ac2-42f0-ac34-b6d06938395b"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Laptop",
+      "yNghia": "Máy tính xách tay",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6b60a86b-2e94-4260-9ee8-ccbcda50e37d"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Umbrella",
+      "yNghia": "Cây dù",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "cd9e6ac3-61bb-41ee-a8ac-b6f8b1e7dd74"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Notebook",
+      "yNghia": "Sổ ghi chú",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "592c2571-0c74-46a9-8fd0-673a378eb5a5"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Wallet",
+      "yNghia": "Ví tiền",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c2359ae7-1ec5-438a-9d8e-1881d5f9ad4f"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Pen",
+      "yNghia": "Cây bút viết",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e1c8ee84-f452-416f-9b82-0ae6424a6521"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Watch",
+      "yNghia": "Đồng hồ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "343c7821-d025-48dc-9551-eecdb36b41a8"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Table",
+      "yNghia": "Cái bàn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d13b1baf-baca-4d95-b4ed-ea46c5420a78"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Laptop case",
+      "yNghia": "Túi/cặp đựng máy tính xách tay",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "83aa35a3-6c68-4e33-99a8-c5506428450f"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Transit card",
+      "yNghia": "Thẻ quá cảnh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "bcecce49-a134-4289-8932-ac3410299a29"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "ID card",
+      "yNghia": "Thẻ căn cước",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "29c3cd48-c24b-46bf-a671-3e2ad8f46483"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Window",
+      "yNghia": "Cửa sổ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c88d546a-70b7-44f4-aa98-d2b5fd54820d"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Bed",
+      "yNghia": "Cái giường",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "28421069-86c5-430a-a2f2-90c7c82e9857"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Door",
+      "yNghia": "Cái cửa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c274d54e-a433-44ad-a449-b0deeb835941"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "On",
+      "yNghia": "Ở trên",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c37bb7c1-a053-47f2-a65f-28228b3c03ed"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "E-reader",
+      "yNghia": "Máy đọc sách điện tử",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3ed51e9d-a646-44e0-9729-5e8fc8c57009"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Chair",
+      "yNghia": "Ghế",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b139907d-a7c2-4e28-930c-a2377821a087"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Desk",
+      "yNghia": "Bàn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "289807e9-24f0-4db1-892b-2c32d5435517"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Under",
+      "yNghia": "Ở dưới",
+      "danhSachDapAn": []
+    }
+  ]
+}

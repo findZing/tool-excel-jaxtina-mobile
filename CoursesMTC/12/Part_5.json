@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "84733dc3-896b-4ba5-9ac6-c5d74fe7a3ae"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Good afternoon. We’ve got a great show for you today. Our topic is tech ____________.",
+      "yNghia": "Good afternoon. We've got a great show for you today. Our topic is tech <b><span style=\"color:red\">fears</span></b>.<br />\n<i>Chào bạn. Chúng tôi có một chương trình tuyệt vời dành cho các bạn hôm nay. Chủ đề của chúng ta là </i><span style=\"color:red\"><i>nỗi sợ </i></span><i>công nghệ.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d90436ef-d476-4f42-a0e7-588dd1acd652"
+          },
+          "dapAn": "problems",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bf3ae1d9-fc11-4d79-a54f-7216e9510fb9"
+          },
+          "dapAn": "fears",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e598b7af-988e-40a6-aa2d-638c3481b59a"
+          },
+          "dapAn": "worries",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_1. Good ... fears.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_1. Good ... fears.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ef2202c2-35db-4d1f-9fcf-fafec9d25348"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Hi, Sofia. So tell us, what scares you the most about ____________ today?",
+      "yNghia": "Hi, Sofia. So tell us, what scares you the most about <b><span style=\"color:red\">technology</span></b> today?<br />\n<i>Xin chào Sofia. Vậy, hãy cho chúng tôi biết, điều gì làm bạn sợ nhất về </i><span style=\"color:red\"><i>công nghệ </i></span><i>ngày nay?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a21cdb1a-6750-4df2-a5bb-8896c81af7d8"
+          },
+          "dapAn": "technology",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c4335b92-5aad-411e-b23e-0c76e4b934b5"
+          },
+          "dapAn": "society",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9bc1efa5-7e5d-46b0-b9aa-18c95a642279"
+          },
+          "dapAn": "tech",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_2. Hi ... today.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_2. Hi ... today.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "706098e2-0f0c-465b-8b11-e4292f399d95"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "One thing I do worry about is ____________ theft. It must be awful.",
+      "yNghia": "One thing I do worry about is <b><span style=\"color:red\">information</span></b> theft. It must be awful.<br />\n<i>Một điều tôi lo lắng là đánh cắp </i><span style=\"color:red\"><i>thông tin</i></span><i>. Chắc hẳn là rất tệ. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0d81c231-2518-4d03-9ebf-7d37d586464b"
+          },
+          "dapAn": "information",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "07dffcdc-0ec8-45b6-98b9-ebc7b2534ef0"
+          },
+          "dapAn": "money",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "27814cba-fd15-4853-8920-84ae782ad1ae"
+          },
+          "dapAn": "property",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_3. One ... awful.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_3. One ... awful.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9b0e710f-847a-4bc6-9df9-4df4c6810e3c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Absolutely, it would be a person’s worst ____________.",
+      "yNghia": "Absolutely, it would be a person's worst <b><span style=\"color:red\">nightmare</span></b>. <br />\n<i>Chắc chắn rồi, đó hẳn sẽ là </i><i><span style=\"color:red\">cơn ác mộng</span> </i><i>tồi tệ cho ai trải qua.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9fc6c0e7-e2be-45a5-b458-eb84e60714f1"
+          },
+          "dapAn": "experience",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "71acb554-a22f-490f-b101-9087129997d2"
+          },
+          "dapAn": "problems",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c8b358f5-f339-4423-838d-a0864cec7c44"
+          },
+          "dapAn": "nightmare",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_4. Absolutely ... nightmare.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_4. Absolutely ... nightmare.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "fd021606-3694-4064-83e8-cac26cf2ac04"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I can’t imagine when someone ____________ my computer and steals all my data.",
+      "yNghia": "I can't imagine when someone <b><span style=\"color:red\">breaks into</span></b> my computer and steals all my data.<br />\n<i>Tôi không thể tưởng tượng được khi ai đó </i><span style=\"color:red\"><i>đột nhập vào </i></span><i>máy tính của tôi và đánh cắp tất cả dữ liệu của tôi.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c7b13527-4b39-4e51-90a8-9a2dd55360c5"
+          },
+          "dapAn": "breaks into",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ba5abf7f-c45b-4017-b994-1612faf76a9c"
+          },
+          "dapAn": "access",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5370b069-32e6-4a62-8ed1-ad7756319905"
+          },
+          "dapAn": "gets",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_5. I ... data.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_5. I ... data.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b17293ec-afc7-4032-8e75-209a78c9c634"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you tell us why you ____________ so much about that?",
+      "yNghia": "Can you tell us why you <b><span style=\"color:red\">worry</span></b> so much about that? <br />\n<i>Bạn có thể cho chúng tôi biết lý do tại sao bạn </i><span style=\"color:red\"><i>lo lắng</i></span><i> rất nhiều về điều đó không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "73aafdb7-7441-404c-b3e5-72729beed099"
+          },
+          "dapAn": "think",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e4ea77fc-59b2-412f-9f6d-6af5c6649201"
+          },
+          "dapAn": "worry",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8d9c168b-ae29-4d6f-b189-93573808134a"
+          },
+          "dapAn": "say",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_6. Can ... that.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_6. Can ... that.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "08c9e5a6-77f5-4c49-8b81-6d3cf18a415e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Well, everybody in my house uses ____________ devices.",
+      "yNghia": "Well, everybody in my house uses <b><span style=\"color:red\">wireless</span></b> devices.<br />\n<i>Ừ thì, mọi người trong nhà tôi đều sử dụng thiết bị </i><span style=\"color:red\"><i>không dây</i></span><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "67584e8b-ab79-47de-bc79-da1ecbda1761"
+          },
+          "dapAn": "wireless",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b10fa4e2-b1b9-4884-9d84-bbef1b384126"
+          },
+          "dapAn": "digital",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6add5db2-a958-4305-b3e2-20e59afcb67c"
+          },
+          "dapAn": "tech",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_7. Well ... devices.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_7. Well ... devices.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ffee1784-f655-4740-b6a2-e39edf7cd008"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes. That’s why we always use ____________ passwords on all devices.",
+      "yNghia": "Yes. That's why we always use <b><span style=\"color:red\">strong </span></b>passwords on all devices.<br />\n<i>Đúng. Đó là lý do tại sao chúng tôi luôn sử dụng mật khẩu </i><span style=\"color:red\"><i>mạnh </i></span><i>trên tất cả các thiết bị.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d5cee706-39fe-4219-9756-1e3d417a1a33"
+          },
+          "dapAn": "strong",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d2f71c8d-940d-4549-b020-453fcf0c9d24"
+          },
+          "dapAn": "complicated",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1785a717-f957-4b6c-8b33-c2ae51c93158"
+          },
+          "dapAn": "long",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_8. Yes ... devices.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_8. Yes ... devices.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "32b4975b-13f4-4bce-b716-bc65a21a87fe"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Everyone should do that. I suggest changing your passwords ____________.",
+      "yNghia": "Everyone should do that. I suggest changing your passwords <b><span style=\"color:red\">frequently</span></b>.<br />\n<i>Mọi người nên làm điều đó. Tôi khuyên bạn nên thay đổi mật khẩu của mình </i><i><span style=\"color:red\">thường xuyên</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "59dd84e5-0d86-4781-aa3c-010088155fe2"
+          },
+          "dapAn": "frequently",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c0455271-0d8f-4644-a4d7-288ad359d31a"
+          },
+          "dapAn": "sometimes",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f11bcc14-7e0c-488b-9d1c-6eb383d24dd3"
+          },
+          "dapAn": "temporarily",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_9. Everyone ... frequently.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_9. Everyone ... frequently.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "cda62e9a-2b4e-4d82-9fbf-57f9f59f179f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’d like to, but it’s really hard to ____________ them. I have lots of things to keep track of.",
+      "yNghia": "I'd like to, but it's really hard to <b><span style=\"color:red\">remember</span></b> them. I have lots of things to keep track of.<br />\n<i>Tôi cũng muốn làm thế, nhưng thật khó để </i><span style=\"color:red\"><i>nhớ </i></span><i>chúng. Tôi có rất nhiều thứ để theo dõi.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "31930c6d-697f-4089-9e21-f13059caa06e"
+          },
+          "dapAn": "remember",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "97ac1f4a-c0ee-41bb-8087-b6aa02bedde1"
+          },
+          "dapAn": "notice",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8691d26a-a61a-4577-9fbc-bb0c5f7dab52"
+          },
+          "dapAn": "change",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_10. I_d ... of.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_10. I_d ... of.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a5db0aeb-8b28-4829-9fe6-e1640b7f8ec9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Understood. However, if you can do it, you will be ____________.",
+      "yNghia": "Understood. However, if you can do it, you will be <b><span style=\"color:red\">safer</span></b>.<br />\n<i>Tôi hiểu. Tuy nhiên, nếu bạn làm được điều đó, bạn </i><i>sẽ <span style=\"color:red\">an toàn hơn</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "39c13fd6-1a11-4761-9111-b08923b84276"
+          },
+          "dapAn": "less worried",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "762018fd-37ab-4662-bddf-6255f8043f08"
+          },
+          "dapAn": "fine",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e68438e2-dfff-4fac-91ab-d47209566115"
+          },
+          "dapAn": "safer",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_11. Understood ... safer.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_11. Understood ... safer.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "471e10f0-f54e-4ca6-b9cf-211ba5191ee1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Antivirus is a famous ____________ that you can try, or you can also use a Firewall.",
+      "yNghia": "Antivirus is a famous <b><span style=\"color:red\">program</span></b> that you can try, or you can also use a Firewall.<br />\n<i>Antivirus là một </i><i><span style=\"color:red\">chương trình</span> </i><i>phần mềm nổi tiếng mà bạn có thể thử hoặc bạn cũng có thể sử dụng Tường lửa.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fd686cbf-2b37-4cad-9f2c-c070f05df8e6"
+          },
+          "dapAn": "app",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "749981b0-a478-42f5-aaf3-683d21f58a83"
+          },
+          "dapAn": "program",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f5f81361-7e96-4a64-9573-d2b630ceefeb"
+          },
+          "dapAn": "website",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_12. Antivirus ... Firewall.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_12. Antivirus ... Firewall.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "538e8e28-290e-49d8-a454-40aeb3d13991"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I'm Melissa Warren and for today's show. I'm on a street where lots of young people hang out on Saturday ____________.",
+      "yNghia": "I'm Melissa Warren and for today's show. I'm on a street where lots of young people hang out on Saturday <b><span style=\"color:red\">evenings</span></b>.<br />\n<i>Tôi là Mellisa Warren, là người dẫn chương trình ngày hôm nay. Tôi đang ở trên con đường nơi mà rất nhiều người trẻ đi chơi vào <span style=\"color:red\">các tối</span> thứ Bảy. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7f67448e-a484-4f32-9ea7-fbdfd00ff58d"
+          },
+          "dapAn": "evenings",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5a415739-e678-4c84-83fd-59f90a6a1182"
+          },
+          "dapAn": "mornings",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "28051407-bf51-42fb-afe2-a66e785f9683"
+          },
+          "dapAn": "nights",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_13. I_m ... evenings.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_13. I_m ... evenings.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3fd8ab8e-635f-43f6-8b4f-f1f084f32abd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I'm going to ask some people their ____________ about inventions from the first two decades of the 21st century.",
+      "yNghia": "I'm going to ask some people their <b><span style=\"color:red\">opinions</span></b> about inventions from the first two decades of the 21st century.<br />\n<i>Tôi sẽ hỏi </i><i><span style=\"color:red\">quan điểm</span> </i><i>của vài người về các phát minh trong hai thập kỉ đầu của thế kỷ 21.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c9693b3f-58eb-457b-98cc-8fbd7e555dd5"
+          },
+          "dapAn": "thoughts",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "23732273-5f67-4976-857e-20a0a906ec03"
+          },
+          "dapAn": "opinions",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c9f85736-ffd8-4f1e-bf94-5aee7b4afb8d"
+          },
+          "dapAn": "feelings",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_14. I_m ... century.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_14. I_m ... century.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "959c03b9-cc99-4553-a443-03ae4ef16a39"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’m going to ask them which inventions they think will be considered the most ____________ in the future.",
+      "yNghia": "I'm going to ask them<b> </b>which inventions they think will be considered the most <b><span style=\"color:red\">historic</span></b> in the future.<br />\n<i>Tôi sẽ hỏi họ xem họ nghĩ phát minh nào sẽ </i><i><span style=\"color:red\">mang tính lịch sử</span> </i><i>nhất trong tương lai.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0475a828-59f4-4799-80a6-f8d6bc4b0382"
+          },
+          "dapAn": "historic",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "39caddcf-49d6-49f6-8aa6-50a3801dcb09"
+          },
+          "dapAn": "opinions",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "48f658da-84af-4027-80d1-bd4e4ed0010c"
+          },
+          "dapAn": "feelings",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_15. I_m ... future.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_15. I_m ... future.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "37cf5970-44e5-49d9-8a77-dee0486e7e27"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Actually, I'm pretty worried about several of the recent inventions, but to me, the invention that is the most ____________ so far is the 3-D printer.",
+      "yNghia": "Actually, I'm pretty worried about several of the recent inventions, but to me, the invention that is the most <b><span style=\"color:red\">worrying</span></b> so far is the 3-D printer.<br />\n<i>Thực ra, tôi khá lo lắng về một số phát minh gần đây, nhưng với tôi, phát minh <span style=\"color:red\">đáng lo ngại</span> nhất cho đến nay là máy in 3D.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f8528ed9-686b-4424-bcd8-18681d4ccff6"
+          },
+          "dapAn": "problematic",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "94094bc5-1331-46ab-afbe-1ca405618a6f"
+          },
+          "dapAn": "worrying",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1ad39262-a7b2-49cb-bcf3-1c8473b573bf"
+          },
+          "dapAn": "interesting",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_16. Actually ... printer.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_16. Actually ... printer.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "78da87eb-4b59-4261-a053-44ca5c81edc5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you ____________ any software which can help with this problem?",
+      "yNghia": "Do you <b><span style=\"color:red\">recommend</span></b> any software which can help with this problem?<br />\n<i>Bạn có <span style=\"color:red\">gợi ý</span> phần mềm nào có thể giúp giải quyết vấn đề này không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cdaa2c81-e35a-4e77-b805-4081ba753d30"
+          },
+          "dapAn": "know",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e86e2204-85fa-444f-bf04-3b0566fbb48b"
+          },
+          "dapAn": "recommend",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e94de9be-724f-46bb-8f26-3973c9789394"
+          },
+          "dapAn": "suggest",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_17. Do ... problem.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_17. Do ... problem.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b51e9045-ecb6-4355-a7f6-5220e5482556"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "If there's a time when people can make most of their own ____________, it will be very bad for business.",
+      "yNghia": "If there's a time when people can make most of their own <b><span style=\"color:red\">products</span></b>, it will be very bad for business.<br />\n<i>Nếu đến một lúc nào đó mọi người có thể tự làm hầu hết <span style=\"color:red\">các sản phẩm</span> của mình thì sẽ rất tệ cho việc kinh doanh.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "279c76cf-1899-4d98-b2b1-be77a4bdfc8c"
+          },
+          "dapAn": "businesses",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c0a5e1ac-d2a6-4049-8d54-f43783c9f842"
+          },
+          "dapAn": "products",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3e105361-7317-4e4a-8932-145fc8c9d9f1"
+          },
+          "dapAn": "brand",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_18. If ... business.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_18. If ... business.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2759ddee-56bc-4eae-94c6-7fc592965d48"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I'm a ____________ and I think one of the most exciting inventions is a camera that can take 360-degree pictures.",
+      "yNghia": "I'm a <b><span style=\"color:red\">photographer</span></b> and I think one of the most exciting inventions is a camera that can take 360-degree pictures.<br />\n<i>Tôi là một <span style=\"color:red\">nhiếp ảnh gia </span>và tôi nghĩ một trong những phát minh thú vị nhất là một chiếc máy ảnh có thể chụp ảnh 360 độ.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "20c76339-961f-42ba-a1d2-001023de8fe6"
+          },
+          "dapAn": "photographer",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cb54e330-245c-42ae-b8dc-0425880a2541"
+          },
+          "dapAn": "artist",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ebae2c6b-0810-4be6-b168-198535b82aa3"
+          },
+          "dapAn": "model",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_19. I_m ... pictures.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_19. I_m ... pictures.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "061ab790-8663-40c6-a3ec-c42d6bb4f3da"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I'm really excited because these cameras are totally ____________ professional photography.",
+      "yNghia": "I'm really excited because these cameras are totally <b><span style=\"color:red\">changing</span></b> professional photography.<br />\n<i>Tôi rất hứng thú vì những chiếc máy ảnh này hoàn toàn <span style=\"color:red\">thay đổi </span>nghề nhiếp ảnh.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0ffe98e2-d8ba-4ba0-9c70-dc7812d21822"
+          },
+          "dapAn": "changing",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cfc4258b-8ef5-40d9-b608-7b63c98b729f"
+          },
+          "dapAn": "shifting",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b976857b-ec6a-4735-8ad0-5e4633074f22"
+          },
+          "dapAn": "innovating",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L12/sounds/normal/MTC_MIDTERMTEST_LISTENING_20. I_m ... photography.mp3",
+      "soundSlow": "4SKILLS_MTC_L12/sounds/slow/MTC_MIDTERMTEST_LISTENING_20. I_m ... photography.mp3"
+    }
+  ]
+}

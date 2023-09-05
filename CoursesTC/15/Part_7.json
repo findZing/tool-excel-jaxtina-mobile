@@ -1,0 +1,886 @@
+{
+  "dangCauHoi": "P6",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "d4c832e1-6a55-49fa-bd50-cebb8ed4cead"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ý kiến ai đó xem họ có muốn/thích làm gì, ta dùng cấu trúc: <b>Would + chủ ngữ + like + to + động từ (nguyên thể) + tân ngữ</b>. Ta có: <b>Kim </b>là chủ ngữ và <b>go</b> <i>(đi)</i> là động từ (nguyên thể). Câu hoàn chỉnh là <b><span style=\"color:red\">Would Kim like to go skating? </span></b><i>(Kim có thích đi trượt băng không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1c6776b1-157a-4e6c-a722-7f183922ae6c"
+          },
+          "dapAn": "Would",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5902ca49-02b8-47ca-ac65-aa5552a98bfa"
+          },
+          "dapAn": "Kim",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a06fd89c-ea96-4bdd-82f4-d1768a46f710"
+          },
+          "dapAn": "like",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d3bdf5f7-bf5a-4af8-a736-baa59389b79d"
+          },
+          "dapAn": "to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a3c8ed92-d7b2-479c-af00-5fc9ad656627"
+          },
+          "dapAn": "go skating?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "76bbb885-2419-46a6-8f8d-b9f44b8d5f14"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ý kiến ai đó xem họ có muốn/thích làm gì, ta dùng cấu trúc:<b> Do / Does + chủ ngữ + want + to + động từ (nguyên thể) + trạng từ</b>. Ta có: <b>you </b><i>(Bạn) </i>là chủ ngữ, <b>practice</b> <i>(tập) </i>là động từ (nguyên thể), cuối cùng là trạng từ <b>at home or at a center </b><i>(tại nhà hay tại trung tâm)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">Do you want to practice at home or at a center? </span></b><i>(Bạn muốn tập tại nhà hay tại trung tâm?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0750d7aa-8d66-4141-8bc6-66e7acd0ab8d"
+          },
+          "dapAn": "Do you want",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bc0edd17-5718-47c8-988f-08ac5d448398"
+          },
+          "dapAn": "to practice",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f8d86d03-9b81-4af2-9785-d1752134df26"
+          },
+          "dapAn": "at home",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0ee3d5c7-ee42-478b-a701-30179fd58f54"
+          },
+          "dapAn": "or",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "231e9d89-8a32-4980-be4a-ea5b7482e2ee"
+          },
+          "dapAn": "at a center?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "bbcef151-21d5-47e2-ac19-c1f0ecc1551f"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng ai đó thích điều gì hơn, ta dùng cấu trúc:<b> Chủ ngữ + 'd prefer + to + động từ (nguyên thể) + cụm giới từ</b>. Ta có <b>go </b><i>(đến) </i>là động từ (nguyên thể), <b>to a gym </b><i>(phòng tập thể hình) </i>là cụm giới từ. Câu hoàn chỉnh là <b><span style=\"color:red\">He</span></b><b><span style=\"color:red\">'d prefer to go to a gym. </span></b><i>(Anh ấy thích đến phòng tập thể hình hơn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6c0acd99-649a-4760-9678-6dea1b2bf5ee"
+          },
+          "dapAn": "He'd",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "289a6a92-4950-4bb2-a064-641b2fc24eed"
+          },
+          "dapAn": "prefer",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "627e4824-5ff3-4eb7-b0c5-aae7b4c04d72"
+          },
+          "dapAn": "to go to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "46f0114f-6f95-41d0-ba57-a0926758d261"
+          },
+          "dapAn": "a gym.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "70265f6b-2bda-480c-8c52-7cc70e1388c9"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng ai đó có thể chọn làm gì, ta dùng cấu trúc: <b>Trạng ngữ, + chủ ngữ + can choose to + động từ (nguyên thể) + trạng từ</b>. Ta có: <b>After a short time</b> <i>(Sau một thời gian ngắn) </i>là trạng ngữ, <b>you </b><i>(bạn) </i>là chủ ngữ, <b>practice </b><i>(tập) </i>là động từ (nguyên thể), cuối cùng là trạng từ <b>alone </b><i>(một mình)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">After a short time, you can choose to practice alone. </span></b><i>(Sau một thời gian ngắn, bạn có thể chọn tự tập một mình.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1a316b60-7943-4d61-82bf-de6999a8eeaa"
+          },
+          "dapAn": "After a",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "395135ba-b980-4f09-b910-299eb36cca1f"
+          },
+          "dapAn": "short time,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "41da3db5-7cf9-4933-8272-f5ec7786b186"
+          },
+          "dapAn": "you can",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c7384d66-bf21-40d4-a93e-8458e2b7e629"
+          },
+          "dapAn": "choose to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d74cb2bb-8358-4957-a035-fd958141deb9"
+          },
+          "dapAn": "practice",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "04d982b1-68c3-4308-902c-4c622411157d"
+          },
+          "dapAn": "alone.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "454fea00-9146-4e0e-bc71-53968a7652c3"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng ai đó thực sự tệ về việc gì, ta dùng cấu trúc: <b>Chủ ngữ + am/is/are + really bad at + danh động từ</b>. Ta có: <b>I</b> <i>(Tôi) </i>là chủ ngữ, sau cụm động từ <b>bad at</b> <i>(rất tệ trong việc) </i>là cụm danh động từ <b>listening</b> <b>to music's beat</b> <i>(nghe nhịp điệu của âm nhạc)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">I'm really bad at listening to music beat. </span></b><i>(Tôi thực sự rất tệ trong việc nghe nhịp điệu của âm nhạc.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7058eada-ae40-4c8c-8230-7f640572bee3"
+          },
+          "dapAn": "I'm really",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a9b114f0-eefc-414f-aaed-0941cec6ecb3"
+          },
+          "dapAn": "bad at",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5046e8f4-1712-43eb-bdbe-b892b89c541b"
+          },
+          "dapAn": "listening to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "03b0cd3f-900f-44ec-a065-5eadb3f0a4a3"
+          },
+          "dapAn": "music's beat.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b531060c-377a-45bd-8a24-5459b7b02220"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng ai đó thích làm điều gì, ta dùng cấu trúc:<b> Chủ ngữ + like(s) + động từ (-ing) + cụm giới từ</b>. Ta có: <b>She</b> <i>(Cô ấy) </i>là chủ ngữ, <b>eating out </b><i>(ăn ở nhà hàng) </i>là cụm động từ với động từ (-ing) <b>eating </b><i>(ăn)</i>, cụm từ <b>with her family</b> <i>(cùng với gia đình) </i>là cụm giới từ. Câu hoàn chỉnh là <b><span style=\"color:red\">She likes eating out with her family. </span></b><i>(Cô ấy thích ăn ở nhà hàng cùng với gia đình.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4f8b7a6b-8ed4-4e56-8745-bc3b4b9af9e8"
+          },
+          "dapAn": "She",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "09743f28-3141-43a1-80a0-268c4ee47b78"
+          },
+          "dapAn": "likes",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4d8fd72e-d863-4a55-985f-62880f27fa4a"
+          },
+          "dapAn": "eating out",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8aa1f6eb-defc-44fe-bc75-7ab673ff3800"
+          },
+          "dapAn": "with",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ce006b66-4178-41d2-bc81-8c53f1831126"
+          },
+          "dapAn": "her family.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b899a85f-942c-4b8d-b61e-679ce43582bb"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng ai đó có thể giúp bạn điều gì trong tương lai ta dùng cấu trúc:<b> Chủ ngữ + will help you + động từ (nguyên thể) + tân ngữ + cụm giới từ</b>. Ta có: <b>A trainer </b><i>(Một huấn luyện viên) </i>là chủ ngữ, <b>do </b><i>(thực hiện) </i>là động từ (nguyên thể), <b>the movements </b><i>(các động tác) </i>là tân ngữ, <b>in the right way</b> <i>(sao cho đúng) </i>là cụm giới từ. Câu hoàn chỉnh là <b><span style=\"color:red\">A trainer will help you do the movements in the right way. </span></b><i>(Một huấn luyện viên sẽ giúp bạn thực hiện các động tác sao cho đúng.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "53a648fd-7fbd-4ce9-8929-0a11933b5222"
+          },
+          "dapAn": "A trainer",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "61a16820-45e8-4637-9374-4ef72c346bac"
+          },
+          "dapAn": "will help you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1f9c9c47-5e42-41c0-b51e-b93db01f3207"
+          },
+          "dapAn": "do the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "820f1b7c-fc0b-4ee9-bc2c-607ab41f0c67"
+          },
+          "dapAn": "movements",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c000b981-9767-4f94-b08d-8598b919e6b6"
+          },
+          "dapAn": "in the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "11178309-e7d4-418c-b470-9a9e047c47a7"
+          },
+          "dapAn": "right way.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ff94f09c-be3a-4850-acba-cd65930034de"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng ai đó cần làm gì ta dùng cấu trúc: <b>Chủ ngữ + trạng từ + need + to + động từ (nguyên thể) + trạng từ</b>. Ta có: <b>I </b><i>(Tôi) </i>là chủ ngữ, <b>really</b> <i>(thực sự) </i>là trạng từ, <b>exercise </b><i>(tập thể dục thể thao) </i>là động từ (nguyên thể), và cuối cùng là trạng từ <b>more </b><i>(nhiều hơn)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">I really need to exercise more. </span></b><i>(Tôi thực sự cần tập thể dục thể thao nhiều hơn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "13d16c99-2fb1-4f9b-84fa-4781eb8953b6"
+          },
+          "dapAn": "I really",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8be2cffc-626e-46d0-8f24-59ee5ddd7034"
+          },
+          "dapAn": "need",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "586beed5-e804-4be2-ad0d-40ca458fe31c"
+          },
+          "dapAn": "to exercise",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "548ad5f7-df87-47a8-994d-2607894e4fa8"
+          },
+          "dapAn": "more.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64d3e153-cd30-4b15-9d56-e33944bebe34"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng ai đó thích làm điều gì, ta dùng cấu trúc: <b>Chủ ngữ + love(s) + động từ (-ing) + tân ngữ</b>. Ta có: <b>My sister </b><i>(Chị tôi) </i>là chủ ngữ, động từ <b>going</b> <i>(đi) </i>là động từ đuôi (-ing),<b> paddle boarding </b><i>(chèo thuyền lướt ván) </i>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">My sister loves going paddle boarding. </span></b><i>(Chị tôi yêu thích đi chèo thuyền lướt ván.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6c5310fc-35a0-4742-b801-0dddddc5bcc1"
+          },
+          "dapAn": "My sister",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "632afdeb-7076-4360-acfa-6a8cfa2c1c85"
+          },
+          "dapAn": "loves",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0344a36f-85ae-43b1-be77-1bda943772a0"
+          },
+          "dapAn": "going",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "eed44f3c-2b43-445f-8bcb-b251aac6e9e3"
+          },
+          "dapAn": "paddle",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f8ec12c6-037d-45a6-bd25-752cec56acd7"
+          },
+          "dapAn": "boarding.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "13d2614b-5a70-4098-9737-4c5e4e782e81"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng ai đó thích điều gì, ta dùng cấu trúc:<b> Chủ ngữ + 'd rather + động từ (nguyên thể) + tân ngữ</b>. Ta có <b>I </b><i>(Tôi) </i>là chủ ngữ, <b>see</b> <i>(xem) </i>là động từ (nguyên thể), và <b>an action film</b> <i>(một bộ phim hành động) </i>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">I'd rather see an action film. </span></b><i>(Tôi thích xem một bộ phim hành động.). </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5f622acb-05eb-4c7e-b0c0-7c1ceec02c00"
+          },
+          "dapAn": "I'd rather",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7c770ca0-78fc-4fbe-922d-80c339978b61"
+          },
+          "dapAn": "see",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4cc39ff6-0165-4d0a-86e8-0c97a76c91b6"
+          },
+          "dapAn": "an",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "233dab61-e00f-41b0-b074-8bdcc22aba28"
+          },
+          "dapAn": "action film.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e4f8b06a-2479-483b-b310-1d34e4886dea"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để tạo câu dạng nguyên nhân kết quả, ta dùng cấu trúc: <b>Mệnh đề diễn tả nguyên nhân, + because + mệnh đề diễn tả</b> <b>kết quả</b>. Đầu tiên là mệnh đề diễn tả nguyên nhân: <b>We feel tired and stressed </b><i>(Chúng tôi cảm thấy mệt mỏi và căng thẳng)</i>. Mệnh đề diễn tả kết quả là: <b>we can't do everything </b><i>(không thể làm được mọi việc)</i>. Hai mệnh đề được nối với nhau bằng liên từ <b>because </b><i>(vì)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">We feel tired and stressed because we can't do everything. </span></b><i>(Chúng tôi cảm thấy mệt mỏi và căng thẳng vì không thể làm được mọi việc.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "090e80db-352c-4662-a5e6-4878cb59729b"
+          },
+          "dapAn": "We feel",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5bceeaba-bd28-46f7-8f6b-7705763fe688"
+          },
+          "dapAn": "tired and",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "84587bad-e1d7-4f21-a314-7bd09a2b9a74"
+          },
+          "dapAn": "stressed",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "13114f53-13aa-4611-99e0-f25a9e3387af"
+          },
+          "dapAn": "because we",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f1001ab4-8b10-44d1-b7e9-30052409f7ed"
+          },
+          "dapAn": "can't do",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7c2df7c3-7f03-4cb8-b93d-7f1efada44ea"
+          },
+          "dapAn": "everything.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c2d5beef-82de-46dc-9ff4-ef35aa778fd3"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về hành động đã xảy ra ở quá khứ và tiếp tục xảy ra ở hiện tại, ta dùng cấu trúc thì Hiện tại hoàn thành: <b>Cụm giới từ, + chủ ngữ + have/has + động từ (quá khứ phân từ) + bổ ngữ</b>. Ta có: <b>In recent years </b><i>(Trong những năm gần đây) </i>là cụm giới từ, <b>many people </b><i>(nhiều người) </i>là chủ ngữ, <b>started to </b><i>(bắt đầu) </i>là cụm động từ với <b>started </b>là động từ (quá khứ phân từ), <b>practice mindfulness</b> <i>(tập chánh niệm) </i>là bổ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">In recent years, many people have started to practice mindfulness. </span></b><i>(Trong những năm gần đây, nhiều người bắt đầu tập chánh niệm.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2acc201f-0bfa-40f6-90a9-db6364547100"
+          },
+          "dapAn": "In recent",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f7cc79a1-8d7c-4ce5-8787-e6f83dc99b27"
+          },
+          "dapAn": "years,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a82b5f78-6f9c-4b10-a8ed-76ab153855d0"
+          },
+          "dapAn": "many people",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "28d7697c-5563-4a74-a771-da7361977160"
+          },
+          "dapAn": "have started",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "658a18eb-db24-4b5c-9188-4c19cf037cb4"
+          },
+          "dapAn": "to practice",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f6e77814-b5cc-4b93-a99c-7105894aa547"
+          },
+          "dapAn": "mindfulness.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ca03f6ac-1ae8-43ee-8a9c-593cfdf7e6e7"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để tạo câu mệnh lệnh bắt đầu bằng cụm từ <b>Think about </b>ta có cấu trúc: <b>Think about + mệnh đề</b>. Ta có <b>how your body feels </b><i>(cơ thể bạn cảm giác thế nào)</i> là mệnh đề sau cụm <b>Think about </b><i>(Nghĩ xem).</i> Câu hoàn chỉnh là <b><span style=\"color:red\">Think about how your body feels. </span></b><i>(Nghĩ xem cơ thể bạn cảm giác thế nào.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "89cb2a08-6099-4626-a6a5-bead7f2815c6"
+          },
+          "dapAn": "Think about",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "73ac3108-d31d-41ab-83c6-f5094beef8b3"
+          },
+          "dapAn": "how",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2be22a0d-f468-402a-bd53-98a92200342d"
+          },
+          "dapAn": "your body",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8cad44b5-3dc9-4920-9d06-9d1830c3691a"
+          },
+          "dapAn": "feels.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1666a7fb-46ff-4a1c-b7b6-736bfd276e8c"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu hỏi ở thì Hiện tại đơn với từ để hỏi <b>What</b>, ta dùng cấu trúc: <b>What + do/does + chủ ngữ + </b><b>động từ (nguyên thể)</b>. Ta có <b>you </b><i>(Bạn) </i>là chủ ngữ; <b>hear</b>, <b>feel</b>, <b>smell </b><i>(nghe, cảm nhận, ngửi) </i>đều là các động từ (nguyên thể). Câu hoàn chỉnh là <b><span style=\"color:red\">What do you hear, feel, or smell? </span></b><i>(Bạn nghe, cảm nhận hoặc ngửi thấy gì?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "926ab66c-7999-4a8f-8ee0-bafa41feef78"
+          },
+          "dapAn": "What",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "414c1324-ccf1-44b7-b386-22fe7abd12df"
+          },
+          "dapAn": "do",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8c3dd674-4ec1-4427-b7a2-b90596ed72b2"
+          },
+          "dapAn": "you hear,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7839d0b1-2f66-4d69-977c-cbb2ac58a482"
+          },
+          "dapAn": "feel,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b42adafa-41be-4837-90aa-db951dbefab1"
+          },
+          "dapAn": "or smell?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "30e6090d-14ad-4c70-b30f-e892497e96aa"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ý kiến ai đó xem họ có muốn/thích làm gì, ta dùng cấu trúc: <b>Would + chủ ngữ + rather + động từ (nguyên thể) + tân ngữ</b>. Ta có: <b>you </b><i>(Bạn) </i>là chủ ngữ, <b>do</b> <i>(làm) </i>là động từ (nguyên thể), <b>something creative </b><i>(điều gì đó sáng tạo) </i>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">Would you rather do something creative? </span></b><i>(Bạn có muốn làm điều gì đó sáng tạo không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ff23a9ca-ae20-4161-a788-d115a7ca3279"
+          },
+          "dapAn": "Would",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "074fb85e-7343-4d7e-968e-9e324cc06830"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9d4a3ceb-e7ea-4573-a33a-ea062bda6f87"
+          },
+          "dapAn": "rather",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d470287f-2ce2-432e-8c38-4bf7df5486c1"
+          },
+          "dapAn": "do",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0557dee4-b7b0-45f3-8079-6dc92e734118"
+          },
+          "dapAn": "something",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "caad721d-4e67-4cf5-97a4-8a9b7a9239d6"
+          },
+          "dapAn": "creative?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "15775cc1-2341-4e48-a2f8-89ffdddd7885"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu hỏi với ý ‘cái gì khiến bạn liên tưởng đến điều gì', ta dùng cấu trúc: <b>What + do/does + chủ ngữ + make you think of? </b>Ta có: <b>each color </b><i>(Mỗi màu) </i>là chủ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">What does each color make you think of? </span></b><i>(Mỗi màu khiến bạn liên tưởng đến điều gì?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "52da36e1-c892-467d-bf07-793a2ebbf76f"
+          },
+          "dapAn": "What",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5ba82a05-d438-4afb-bf9a-ad8e9f478af7"
+          },
+          "dapAn": "does",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "157c6042-38fe-459b-9a54-b8cc02a53b4b"
+          },
+          "dapAn": "each color",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5fd9de96-50c0-4d50-9f57-f4f4ae17cc21"
+          },
+          "dapAn": "make",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4addbee6-c7ad-49b9-9b2f-c5556b87f56f"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "05f9114f-cc04-4bfd-893b-6c3917c4f5aa"
+          },
+          "dapAn": "think of?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "17a38773-c14d-49d7-8de5-e65a1d90165c"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu có hai mệnh đề với <b>but</b>, ta dùng cấu trúc: <b>Mệnh đề 1 + but + mệnh đề 2. </b>Ta có: <b>I exercise a lot</b> <i>(Tôi tập thể dục rất nhiều) </i>là mệnh đề 1, <b>I'm still really stressed</b> <i>(tôi vẫn rất căng thẳng) </i>là mệnh đề 2 được nối với nhau bởi liên từ <b>but </b><i>(nhưng)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">I exercise a lot but I'm still really stressed! </span></b><i>(Tôi tập thể dục rất nhiều nhưng tôi vẫn rất căng thẳng!).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a1671d2e-d656-4f6d-86ad-07397abcaa8a"
+          },
+          "dapAn": "I exercise",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f2795244-279b-448c-8a86-8d5ba59971ab"
+          },
+          "dapAn": "a lot, but",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e6088176-160e-4eca-9437-bb7ca92ce1f3"
+          },
+          "dapAn": "I'm",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "add13f92-ca09-4c32-b193-e67c2542986f"
+          },
+          "dapAn": "still really",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e85cb2d2-be73-42cb-a1b5-6f1960ab1c10"
+          },
+          "dapAn": "stressed!",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c4a91319-3b71-482b-a83f-354878b0f6cc"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ý kiến ai đó xem họ có muốn/thích làm gì, ta dùng cấu trúc: <b>Would + chủ ngữ + like + to + động từ (nguyên thể) + tân ngữ + trạng từ</b>. Ta có: <b>you </b><i>(Bạn) </i>là chủ ngữ, <b>see </b><i>(xem) </i>là động từ (nguyên thể), <b>the boat show </b><i>(buổi trình diễn thuyền) </i>là tân ngữ,<b> this weekend </b><i>(cuối tuần này)</i> là trạng từ. Câu hoàn chỉnh là <b><span style=\"color:red\">Would you like to see the boat show this weekend? </span></b><i>(Bạn có muốn xem buổi trình diễn thuyền vào cuối tuần này không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "05fceda6-24cb-4cb0-866b-2a9018d68685"
+          },
+          "dapAn": "Would you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5ec102ce-e4a7-4e19-919d-a9e82e51754b"
+          },
+          "dapAn": "like to see",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7f8bc58e-a6bb-4c52-80f4-cf21952ff35c"
+          },
+          "dapAn": "the boat",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d5648af3-680c-4396-9bc7-b62362d7baaa"
+          },
+          "dapAn": "show",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "35ff8343-f9ca-4708-a5bf-6c7006e8e96f"
+          },
+          "dapAn": "this",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d9c642b8-944b-41df-930b-693f3b7f2356"
+          },
+          "dapAn": "weekend?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "802a619c-404b-4ffd-9015-d04345998f38"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng ai đó ghét làm gì, ta dùng cấu trúc:<b> Chủ ngữ + hate + động từ (-ing) + cụm giới từ</b>. Ta có: <b>I </b><i>(Tôi) </i>là chủ ngữ, <b>driving</b> <i>(lái xe) </i>là động từ đuôi (-ing), và <b>in a lot of traffic</b> <i>(khi đông xe cộ) </i>là cụm giới từ. Câu hoàn chỉnh là <b><span style=\"color:red\">I hate driving in a lot of traffic. </span></b><i>(Tôi ghét lái xe khi đông xe cộ.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d46e9539-7472-4eeb-9a9a-c0fb35a42cd1"
+          },
+          "dapAn": "I hate",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "67812672-79e4-47d8-beca-0b90852c7ba9"
+          },
+          "dapAn": "driving in",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3241efe1-d125-408d-8a8c-427c29c56a5f"
+          },
+          "dapAn": "a lot of",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d8743929-0f01-471d-bec4-d342dace75ad"
+          },
+          "dapAn": "traffic.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4461b552-beb3-4e25-8f11-c5395937dbe4"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng ai đó thích điều gì hơn, ta dùng cấu trúc: <b>Chủ ngữ +</b> <b>prefer + to + động từ (nguyên thể) + trạng từ</b>. Ta có <b>I </b><i>(Tôi) </i>là chủ ngữ, <b>get </b><i>(đến) </i>là động từ (nguyên thể), và 2 trạng từ: trạng từ chỉ nơi trốn <b>there </b><i>(đó)</i>, và trạng từ chỉ thời gian <b>early </b><i>(sớm hơn)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">I prefer to get there early. </span></b><i>(Tôi thích đến đó sớm hơn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0d2a88f3-d737-4bd2-bc99-a013ca2e7193"
+          },
+          "dapAn": "I prefer",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5d7c92e0-bc95-4b8e-b8d7-37253aa9171a"
+          },
+          "dapAn": "to get",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "87576d04-22ee-480d-a78a-7a6d3d37c9d7"
+          },
+          "dapAn": "there",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "55f5e236-54c7-49c2-8e50-e3b9a6231023"
+          },
+          "dapAn": "early.",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

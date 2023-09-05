@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "81e8658b-6efb-4fc7-b612-5fa064b5574b"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Act",
+      "yNghia": "Tiết mục",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8a20c29d-e0ce-4a30-a6a4-4e0fe9dbebe3"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Puppet",
+      "yNghia": "Con rối",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a6d07d2e-17d4-45e1-b141-1e1aa5882b30"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Circus",
+      "yNghia": "Đoàn xiếc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c28eadb8-c249-4c73-9f95-cc17f33059a1"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Magic wand",
+      "yNghia": "Đũa thần",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8696224d-bbc7-4274-a190-368517a961fb"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Flame",
+      "yNghia": "Ngọn lửa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "445ac877-9b1c-43e7-ae06-279cb8e56e8b"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "String",
+      "yNghia": "Dây, chuỗi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "714e1c88-7a41-429d-a481-38fc6bf0d00b"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Crowd",
+      "yNghia": "Đám đông",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "79bc2725-e104-4a9e-9b21-57056f55bde3"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Performance",
+      "yNghia": "Màn trình diễn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e5ddda7f-db95-42ad-a338-16573b592e37"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Director",
+      "yNghia": "Đạo diễn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3cc1e747-5206-4e1c-be90-a4fd9630cc52"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Lead vocalist",
+      "yNghia": "Người hát chính",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c57e2c84-20a7-453d-855d-9b6077a60748"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Awesome",
+      "yNghia": "Hoành tráng, ngoạn mục",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6c909e1b-2265-4fdc-ac92-5ea68cf7dc80"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Backup singer",
+      "yNghia": "Ca sĩ hát lót",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2879153f-63fa-47e9-8040-094871d2524c"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Sound technician",
+      "yNghia": "Kỹ thuật viên âm thanh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3ddb5ab0-bb63-44c3-9dbb-8a9ff631b3b1"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Take place",
+      "yNghia": "Diễn ra",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d04861d5-664f-471f-98af-02165dd517e0"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Characteristic",
+      "yNghia": "Đặc tính, đặc điểm",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "238353a4-2985-49cd-bb59-68ad63ad5da8"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Personality",
+      "yNghia": "Tính cách",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6c1e9a87-845b-4e97-84c3-033fb3c98749"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Rude",
+      "yNghia": "Thô lỗ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2c90fea9-595c-4f43-abab-a2c44d6941a1"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Fundraiser",
+      "yNghia": "Sự kiện gây quỹ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "827fdc6c-1cdd-499a-8c0e-8261120c23b3"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Organize",
+      "yNghia": "Tổ chức",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "92f83f8f-52d2-49b4-8130-04dfb3cd4ce6"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Take risks",
+      "yNghia": "Mạo hiểm",
+      "danhSachDapAn": []
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "Grammar",
+  "videoUrl": "4SKILLS_PRE_S_L13/grammar.mp4",
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:02:18",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "How much",
+            "_id": {
+              "$oid": "763e7eb0-d538-4dce-9a30-856616c73ec5"
+            },
+            "yNghia": "Bao nhiêu"
+          },
+          {
+            "cauHoi": "What",
+            "_id": {
+              "$oid": "3f50bb68-78d2-4bfc-ab87-559a30a91477"
+            },
+            "yNghia": "Cái gì"
+          },
+          {
+            "cauHoi": "When",
+            "_id": {
+              "$oid": "c839bdfc-831f-4030-83de-acece0df8532"
+            },
+            "yNghia": "Khi nào"
+          },
+          {
+            "cauHoi": "Where",
+            "_id": {
+              "$oid": "1607845c-0b94-4b73-b4d0-98772e71904d"
+            },
+            "yNghia": "Ở đâu"
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:02:18",
+      "timeEnd": "0:04:16",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "22924c0e-3304-422c-997c-6bd94b85ff09",
+                "dapAn": "Where"
+              },
+              {
+                "_id": "56649f13-980f-4e76-bc8c-36ade93cc7b9",
+                "dapAn": "do"
+              },
+              {
+                "_id": "8af3740c-cbb4-46f7-8f55-d3c5b62dd4b8",
+                "dapAn": "you"
+              },
+              {
+                "_id": "b6bc9ed6-4bdc-4bbf-8acc-3d9fd367a1b7",
+                "dapAn": "teach?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "4acecb5c-cf4b-4449-a1b4-873871f94f8c",
+                "dapAn": "What"
+              },
+              {
+                "_id": "6af3fc08-84db-4190-bb75-cdad1fa8db55",
+                "dapAn": "do"
+              },
+              {
+                "_id": "66342dfe-97d7-4163-a39d-1f2b0218077d",
+                "dapAn": "you"
+              },
+              {
+                "_id": "26a4966b-5708-4cf9-8072-5a66c3f6489d",
+                "dapAn": "teach?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "58193d3e-df90-43f3-9ac8-04bf77708dae",
+                "dapAn": "When"
+              },
+              {
+                "_id": "80531286-4ac8-4707-b670-857042da9e20",
+                "dapAn": "does"
+              },
+              {
+                "_id": "e39f8099-ecd6-418f-8b4a-eab9c37e0b89",
+                "dapAn": "the class"
+              },
+              {
+                "_id": "554dd5c1-042f-4e77-8171-f0e0efb8e026",
+                "dapAn": "start?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "36859a3d-928e-4bb4-8494-08877b693f94",
+                "dapAn": "When"
+              },
+              {
+                "_id": "de0cfcd5-5c1f-459a-8e73-49ebd2a8c34d",
+                "dapAn": "do you"
+              },
+              {
+                "_id": "69e3bd19-1ac2-4a0c-9797-1c70ebfa1477",
+                "dapAn": "start"
+              },
+              {
+                "_id": "23087557-e4be-4ca8-acb2-9b57a7f9d556",
+                "dapAn": "work?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "dc4d8374-7bac-48b1-ac33-9a4cd62ce400",
+                "dapAn": "How much"
+              },
+              {
+                "_id": "ce8fea9f-bb97-42d8-b588-cbeac30fa77b",
+                "dapAn": "does"
+              },
+              {
+                "_id": "07070986-d106-4be0-adb3-986efab16dbb",
+                "dapAn": "the class"
+              },
+              {
+                "_id": "78962ee9-4786-46a3-81f0-fe683b25c24c",
+                "dapAn": "cost?"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "noiDungVideo": [
+    {
+      "timeEnd": "0:02:18",
+      "noiDung": "<span style=\"color:red\"><b>Function <i>(Cách dùng)</i></b></span><br />\nChúng ta sử dụng các câu hỏi thông tin ở thì hiện tại đơn để hỏi về một số điều như: <b><i>Where</i></b> để hỏi về một địa điểm, <b><i>What</i></b> để hỏi về một thông tin chung, <b><i>When</i></b> <i></i>để hỏi về thời gian, <b><i>How much</i></b> <i></i>để hỏi về giá cả ..."
+    },
+    {
+      "timeEnd": "0:04:16",
+      "noiDung": "<span style=\"color:red\"><b>Form <i>(Cấu trúc)</i></b></span><br />\nChúng ta sử dụng <b><i>do</i></b> cho <i>I / you / we / they</i>, và <b><i>does</i></b> cho <i>he / she / it.</i>\n<table>\n        <tbody>\n                <tr>\n                        <td><b>Question Word</b><br />\n                        <b><i>(Từ để hỏi)</i></b></td>\n                        <td><b>Do/Does</b></td>\n                        <td><b>Subject</b><br />\n                        <b><i>(Chủ ngữ)</i></b></td>\n                        <td><b>Infinitive verb</b><br />\n                        <b><i>(Động từ nguyên mẫu)</i></b></td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">Where</td>\n                        <td><b>does</b></td>\n                        <td><b>he</b></td>\n                        <td>go?</td>\n                </tr>\n                <tr>\n                        <td><b>do</b></td>\n                        <td><b>I</b></td>\n                        <td>sit?</td>\n                </tr>\n                <tr>\n                        <td>What</td>\n                        <td><b>does</b></td>\n                        <td><b>she</b></td>\n                        <td>visit?</td>\n                </tr>\n                <tr>\n                        <td>When</td>\n                        <td><b>does</b></td>\n                        <td><b>it</b></td>\n                        <td>open?</td>\n                </tr>\n                <tr>\n                        <td>How much</td>\n                        <td><b>do</b></td>\n                        <td><b>they</b></td>\n                        <td>cost?</td>\n                </tr>\n        </tbody>\n</table>"
+    }
+  ]
+}

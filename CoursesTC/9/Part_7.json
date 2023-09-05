@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P7",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "16427dfc-1b8e-416a-b6c9-a385c618eeca"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We will probably <b><span style=\"color:blue\">(check) </span></b>____<b> </b>out<b> </b>before eleven.",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>will </b>để chỉ một ý định trong tương lai, động từ sau <b>will</b> được giữ nguyên thể không chia là <b>check</b>. Câu hoàn chỉnh là:<b> We will probably <span style=\"color:red\">check </span>out before eleven.</b> <i>(Có thể chúng tôi sẽ trả phòng trước 11 giờ</i><i>.</i><i>)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "49d26e8b-558e-4033-a0c5-63d85fc24210"
+          },
+          "dapAn": "check",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "cbaace25-4aae-4b37-acb6-59d0dbff7c36"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I think the weather will <b><span style=\"color:blue\">(be)</span></b> ______________<b> </b>nice tomorrow.",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>will </b>để chỉ một dự đoán trong tương lai, động từ sau <b>will</b> được giữ nguyên thể không chia là <b>be</b>. Câu hoàn chỉnh là: <b>I think the weather will <span style=\"color:red\">be</span> nice tomorrow.</b> <i>(Tôi nghĩ thời tiết ngày mai sẽ đẹp.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0c9419fa-c12d-429c-8a5e-9af5cf195fd9"
+          },
+          "dapAn": "be",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9b2c729b-41b4-4a16-bbdf-69478d0fde50"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I can <b><span style=\"color:blue\">(help)</span></b> ______________ you with your reservation if you want.",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>can</b> để chỉ một lời đề nghị, động từ sau <b>can </b>được giữ nguyên thể không chia là <b>help</b>. Câu hoàn chỉnh là: <b>I can <span style=\"color:red\">help </span>you with your reservation if you want.</b> <i>(Tôi có thể <span style=\"color:red\">giúp</span> bạn đặt trước nếu muốn.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9f254aca-b919-4f5d-b7c7-2707532296e0"
+          },
+          "dapAn": "help",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "233f7d23-7bac-4f3b-80f7-9ee03716efff"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I will not <b><span style=\"color:blue\">(have)</span></b> ______________<b> </b>a big lunch because I don't want to feel sleepy.",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>will </b>để chỉ một ý định trong tương lai, động từ sau <b>will</b> được giữ nguyên thể không chia là <b>have</b>. Câu hoàn chỉnh là: <b>I will not </b><b><span style=\"color:red\">have</span></b><b> </b><b>a big lunch because I don't want to feel sleepy. </b><i>(Tôi sẽ không ăn nhiều vào trưa nay vì tôi không muốn bị buồn ngủ.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fac0b1a4-cdc4-4e31-bb5e-2d55f9e11354"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "82d137fd-aa66-483e-bf0b-008df58cb016"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I don't think you will <b><span style=\"color:blue\">(like)</span></b> ______________ that restaurant. The food isn't very good.<b> </b>",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>will </b>để chỉ một dự đoán trong tương lai, động từ sau <b>will</b> được giữ nguyên thể không chia là <b>like</b>. Câu hoàn chỉnh là: <b>I don't think you will </b><b><span style=\"color:red\">like</span></b><b> </b><b>that restaurant. The food isn't very good. </b><i>(Tôi không nghĩ bạn sẽ </i><i><span style=\"color:red\">thích</span></i><i> nhà hàng đó. Đồ ăn không ngon lắm.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "dc82239e-d97e-43d0-afbb-ec0f73297a90"
+          },
+          "dapAn": "like",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d41c42df-1a82-4f95-a538-19ea730f6348"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I will <b><span style=\"color:blue\">(translate) </span></b>______________ it for you.",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>will </b>để chỉ một lời đề nghị, động từ sau <b>will</b> được giữ nguyên thể không chia là <b>translate</b>. Câu hoàn chỉnh là: <b>I will </b><b><span style=\"color:red\">translate </span></b><b>it for you. </b><i>(Để tôi </i><i><span style=\"color:red\">dịch</span></i><i> nó cho bạn.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4d10891f-6c61-4d72-a4a8-afdb644ac05a"
+          },
+          "dapAn": "translate",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "00919eda-12c1-4010-ab21-a8dd6b839b82"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I will <b><span style=\"color:blue\">(order)</span></b> ______________ it for you.",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>will </b>để chỉ một lời đề nghị, động từ sau <b>will</b> được giữ nguyên thể không chia là <b>order</b>. Câu hoàn chỉnh là: <b>I will </b><b><span style=\"color:red\">order </span></b><b>it for you. </b><i>(Để tôi </i><i><span style=\"color:red\">gọi</span></i><i> </i><i><span style=\"color:red\">/ đặt</span></i><i> </i><i>nó cho bạn)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f4e13584-de3e-47ad-ab19-b023b8a36b65"
+          },
+          "dapAn": "order",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c30d8361-19d2-4803-9893-aa293859a073"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I think I <b><span style=\"color:blue\">(will/ not have)</span></b> ______________ pizza for lunch today.",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>will </b>để chỉ một ý định trong tương lai, thể phủ định là <b>will not (won't),</b> động từ sau<b> will not (won't)</b><b> </b>được giữ nguyên thể không chia là <b>have</b>. Câu hoàn chỉnh là: <b>I think I </b><b><span style=\"color:red\">won't have/will not have </span></b><b>pizza for lunch</b><b> today</b><b>.</b> <i>(Tôi </i><i>sẽ không ăn </i><i>pizza trưa nay.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "17d0bc55-0167-4487-9d85-3f49ab2fcc33"
+          },
+          "dapAn": "will not have/won't have",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d70fb9df-c0bc-4b85-bed9-2bbda04df2ca"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I think the food <b><span style=\"color:blue\">(will/ not be)</span></b> ______________ good.",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>will </b>để chỉ một dự đoán trong tương lai, thể phủ định là <b>will not (won't),</b> <b>),</b> động từ sau<b> will not (won't)</b><b> </b>được giữ nguyên thể không chia là<b> be</b>. Câu hoàn chỉnh là: <b>I think the food </b><b><span style=\"color:red\">won't be/will not be </span></b><b>good.</b> <i>(Tôi nghĩ đồ ăn </i><i><span style=\"color:red\">sẽ không</span></i><i> ngon đâu)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "77a4c42b-128d-4891-9be0-0a9a9973336d"
+          },
+          "dapAn": "will not be/won't be",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "40ba2e65-4495-418a-a4dd-abf3b93ab565"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Great news, guys! Ms Jenkins say we can <b><span style=\"color:blue\">(use)</span></b> ______________<b> </b>the auditorum.",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>can </b>để chỉ sự cho phép, động từ sau <b>can </b>được giữ nguyên thể không chia là<b> use</b><b>. </b> Câu hoàn chỉnh là: <b>Great news, guys! Ms Jenkins say we can </b><b><span style=\"color:red\">use</span></b><b> </b><b>the auditorum. </b><i>(Tin vui đây, mọi người! Cô Jenkins nói chúng ta có thể </i><i><span style=\"color:red\">sử dụng </span></i><i>khán phòng.) </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "61ae1552-655e-4e37-b8ce-7bd74147b450"
+          },
+          "dapAn": "use",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4cdf5c44-a69f-4a76-bb1c-6512d9543dc1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "__________ we <b><span style=\"color:blue\">(can/ stay)</span></b> ___________ after 10 p.m.",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>can </b>để hỏi sự cho phép, <b>Can </b>được chuyển lên đầu câu để đặt câu hỏi dạng <b>Yes/No,</b> động từ <b>use </b>được giữ nguyên thể không chia. Câu hoàn chỉnh là <b><span style=\"color:red\">Can </span></b><b>we </b><b><span style=\"color:red\">stay </span></b><b>after 10 p.m? </b><i>(</i><i>Bọn em có thể ở lại sau 10 giờ tối không ạ?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7c581bd7-e298-4a4d-9feb-acb1500edbf6"
+          },
+          "dapAn": "Can-stay",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "264b7b9f-c04c-4463-ad37-0e08271946ad"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What ___________ we <b><span style=\"color:blue\">(will/ do)</span></b> ____________ to prepare for the party?",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>will </b>để chỉ ý định trong tương lai, <b>will</b> chuyển lên trước chủ ngữ <b>we </b>để tạo câu hỏi với từ để hỏi, động từ <b>do</b> được giữ nguyên thể không chia. Câu hoàn chỉnh là <b>What </b><b><span style=\"color:red\">will</span></b><b> we </b><b><span style=\"color:red\">do</span></b><b> </b><b>to prepare for the party? </b><i>(Chúng ta sẽ làm gì để chuẩn bị cho bữa tiệc?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5a307982-24fc-4999-9479-0290085aed68"
+          },
+          "dapAn": "will-do",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b3868a17-3602-44ed-8ca9-8ad389bd96a1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "______________ you <b><span style=\"color:blue\">(can/ check)</span></b> ______________ our English? .",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>can </b>để chỉ sự yêu cầu, <b>Can </b>được chuyển lên đầu câu để đặt câu hỏi dạng <b>Yes/No,</b> động từ <b>check </b>được giữ nguyên thể không chia. Câu hoàn chỉnh là <b><span style=\"color:red\">Can </span></b><b>you </b><b><span style=\"color:red\">check </span></b><b>our English? </b><i>(Bạn có thể kiểm tra tiếng Anh của chúng tôi được không?) </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6102e746-dd38-406d-b332-f70e819e14cf"
+          },
+          "dapAn": "Can-check",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c2e6c53d-e1fe-48fa-8b85-fffd279b7e79"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What else do we need <b><span style=\"color:blue\">(do) </span></b>______________<b> </b>to plan?",
+      "yNghia": "Sau <b>need</b>, động từ chia ở dạng <b>To – Verb, </b>động từ <b>do </b>được giữ nguyên thể, không chia. Câu hoàn chỉnh là: <b>What else do we need </b><b><span style=\"color:red\">to do</span></b><b> to plan? </b><i>(Chúng ta cần </i><i><span style=\"color:red\">làm</span></i><i> thêm gì để lên kế hoạch?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9ed24e9d-f09c-4332-935f-12e9758f3174"
+          },
+          "dapAn": "to do",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4057447a-5159-4b25-aea2-8b52d9bb4a99"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Lucas, ___________ you <b><span style=\"color:blue\">(can/ design)</span></b> ____________ some posters to put on the walls?",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>can </b>để<b> </b>chỉ sự yêu cầu, <b>Can </b>được chuyển lên đầu câu để đặt câu hỏi dạng <b>Yes/No,</b> động từ <b>design </b>được giữ nguyên thể không chia. Câu hoàn chỉnh là <b>Lucas, </b><b><span style=\"color:red\">can</span></b><b> you </b><b><span style=\"color:red\">design</span></b><b> some posters to put on the walls</b><b>? </b><i>(Lucas, bạn có thể thiết kế một số áp phích để dán lên tường</i><i> được</i><i> không?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c77156e8-c259-42a3-8fb0-9cbc7d0e75c7"
+          },
+          "dapAn": "can-design",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "19ba042e-deff-46d5-84c4-e9070f775e80"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How ____________ I <b><span style=\"color:blue\">(can/ help)</span></b> ____________ you?",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>can</b><b> </b>để chỉ lời đề nghị, <b>c</b><b>an</b> chuyển lên trước chủ ngữ <b>I </b>để tạo câu hỏi với từ để hỏi, động từ <b>help</b> được giữ nguyên thể không chia. Câu hoàn chỉnh là <b>How </b><b><span style=\"color:red\">can </span></b><b>I </b><b><span style=\"color:red\">help </span></b><b>you? </b><i>(Tôi có thể giúp được gì cho bạn?) </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e6364b9a-7c6b-4c27-bbaa-85aa8234b3b0"
+          },
+          "dapAn": "can-help",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2d887106-f45f-4bba-a6b6-47e332278774"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____________ we <b><span style=\"color:blue\">(may/ use)</span> </b>____________ the auditorium for it?",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>may </b>để hỏi sự cho phép, <b>May </b>được chuyển lên đầu câu để đặt câu hỏi dạng <b>Yes/No,</b> động từ <b>use </b>được giữ nguyên thể không chia. Câu hoàn chỉnh là <b><span style=\"color:red\">May</span></b><b> </b><b>we </b><b><span style=\"color:red\">use </span></b><b>the auditorium for it? </b><i>(Bọn em có thể sử dụng khán phòng cho việc này được không ạ?) </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e3899b6a-adc0-4c3e-94f2-c6a7a16cc628"
+          },
+          "dapAn": "May-use",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3a51ddde-a830-4e26-959d-09428b8847ff"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You may <b><span style=\"color:blue\">(have)</span></b> ______________ it in the morning.",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>may </b>để hỏi sự cho phép, động từ sau <b>may</b> được giữ nguyên thể không chia là <b>have</b>. Câu hoàn chỉnh là <b>You may </b><b><span style=\"color:red\">have </span></b><b>it in the morning. </b><i>(Bọn em có thể </i><i>sử dụng </i><i>nó trong buổi sáng.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6f088321-5903-4ad1-961b-1309d8887082"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c9b569e9-8610-4b1b-8f6b-23a94d980478"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____________<b> </b>I <b><span style=\"color:blue\">(can/ help)</span></b> ____________ you with the reservation?",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>can </b>để hỏi sự cho phép, <b>Can </b>được chuyển lên đầu câu để đặt câu hỏi dạng <b>Yes/No,</b> động từ <b>help </b>được giữ nguyên thể không chia. Câu hoàn chỉnh là <b><span style=\"color:red\">Can</span></b><b> I </b><b><span style=\"color:red\">help</span></b><b> you with the reservation? </b><i>(Tôi </i><i>có thể giúp </i><i>bạn đặt trước được không?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f28612d5-5afe-40dc-bd1d-efc310b66477"
+          },
+          "dapAn": "Can-help",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e14c82c3-cd22-458a-ace6-a0ab9e2db5e8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I think she <b><span style=\"color:blue\">(will/ not stay)</span></b> ______________ for a long time.",
+      "yNghia": "Đây là câu dùng động từ khuyết thiếu <b>will </b>để chỉ một dự đoán trong tương lai, động từ sau <b>will</b> được giữ nguyên thể không chia là <b>stay</b>. Câu hoàn chỉnh là <b>I think she </b><b><span style=\"color:red\">won't stay/will not stay</span></b><b> for a long time. </b><i>(Tôi nghĩ cô ấy </i><i><span style=\"color:red\">sẽ không ở </span></i><i>lâu</i><i> đâu.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5de98102-c7c4-4098-9994-d9371479a6cf"
+          },
+          "dapAn": "will not stay/won't stay",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

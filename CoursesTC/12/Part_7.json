@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P7",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "6693c3f9-416c-4884-929c-e78be9351a03"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I'm in Pittsburgh, Pennsylvania. Thanks for ______ <b><span style=\"color:blue\">(invite)</span></b> me to visit your hometown, Alan.",
+      "yNghia": "Sau<b> Thank for</b> là động từ đuôi -ing nên động từ <b>invite</b> <i>(mời) </i>được chia là <b>inviting</b>. Câu hoàn chỉnh là <b>I'm in Pittsburgh, Pennsylvania. Thanks for <span style=\"color:red\">inviting </span>me to visit your hometown, Alan. </b><i>(Tôi đang ở Pittsburgh, Pennsylvania. Cảm ơn vì đã <span style=\"color:red\">mời </span>tôi đến thăm quê hương của bạn, Alan.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "30d0221f-0c33-4619-9c39-8eefcb83eeae"
+          },
+          "dapAn": "inviting",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1ba9522f-aecb-4bf5-be01-90492c25d962"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "May I ________ <b><span style=\"color:blue\">(borrow)</span></b> your books?",
+      "yNghia": "<b>May </b>là động từ tình thái, nên động từ đi kèm sẽ được giữ nguyên thể là <b>borrow</b><i> (mượn)</i>. Câu hoàn chỉnh là <b>May I <span style=\"color:red\">borrow </span>your books? </b><i>(Tôi có thể <span style=\"color:red\">mượn </span>những cuốn sách của bạn không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "30199296-c920-4467-98cc-a4dd8819da2c"
+          },
+          "dapAn": "borrow",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "57dd7d8a-f2d1-4708-9ac5-81bad5fb6fd7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "He will ________ <b><span style=\"color:blue\">(be)</span></b> there in thirty minutes.",
+      "yNghia": "<b>will </b>là động từ tình thái, nên động từ đi kèm sẽ được giữ nguyên thể là <b>be </b><i>(ở)</i>. Câu hoàn chỉnh là <b>He will <span style=\"color:red\">be </span>there in thirty minutes. </b><i>(Anh ấy sẽ <span style=\"color:red\">ở </span>đó trong ba mươi phút nữa.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5bfc2e35-8458-42c0-8e7a-27c0c40f8c12"
+          },
+          "dapAn": "be",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "62561f6d-1ad4-4d9a-b737-a35261d66dac"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "But it _____________ <b><span style=\"color:blue\">(change)</span></b> a lot since 1980s.",
+      "yNghia": "Ta có từ chỉ thời gian <b>since 1980s</b> <i>(kể từ những băm 1980) </i>nên động từ <b>change</b> được chia thành <b>has</b> <b>changed</b> để hình thành câu sử dụng thì Hiện tại hoàn thành. Câu hoàn chỉnh là <b>But it <span style=\"color:red\">has changed </span>a lot since 1980s. </b><i>(Nhưng nó <span style=\"color:red\">đã thay đổi </span>rất nhiều rồi kể từ những năm 1980.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ef6113bd-823a-440e-88ae-d9c24ab31d3d"
+          },
+          "dapAn": "has changed",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f88ef319-2c49-4e74-9251-de6cc259cf51"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How long ______________ <b><span style=\"color:blue\">(she/live)</span></b> here?",
+      "yNghia": "Động từ <b>live</b> được chia về thành <b>has lived</b> để hình thành câu sử dụng thì Hiện tại hoàn thành khi hỏi ai đó đã làm gì \"bao lâu\" rồi, <b>has</b> được đảo lên trước chủ ngữ <b>she</b> với câu hỏi có từ để hỏi. Câu hoàn chỉnh là <b>How long <span style=\"color:red\">has she lived </span>here? </b><i>(<span style=\"color:red\">Cô ấy đã sống </span>ở đây bao lâu rồi?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "162c6930-0abf-43db-9149-b170554138ec"
+          },
+          "dapAn": "has she lived",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e599bdd9-6bc3-45b6-90e0-0eb928b73be6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Pittsburgh was a very industrial city in the past, and it was really __________ <b><span style=\"color:blue\">(pollute)</span></b>.",
+      "yNghia": "Động từ <b>pollute</b> được chuyển sang dạng quá khứ phân từ thành <b>polluted</b> để hình thành câu ở dạng bị động. Câu hoàn chỉnh là <b>Pittsburgh was a very industrial city in the past, and it was really <span style=\"color:red\">polluted.</span></b> <i>(Pittsburgh trước đây là một thành phố rất công nghiệp và nó bị <span style=\"color:red\">ô nhiễm </span>nặng nề.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "93ab1e51-eb56-40c3-9edb-d46eebd0ba1e"
+          },
+          "dapAn": "polluted",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9da90edc-8304-460a-9da5-1a192f77e0d7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "________________ <b><span style=\"color:blue\">(you/ever/be)</span></b> to Australia?",
+      "yNghia": "Động từ <b>be</b> được chia thành <b>have been</b> để hình thành câu sử dụng thì Hiện tại hoàn thành, kết hợp với trạng từ <b>ever</b> khi hỏi ai đó đã từng tới đâu đó chưa, <b>Have</b> được đảo lên đầu câu để tạo thành câu hỏi <b>Yes/No</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">Have you ever</span> <span style=\"color:red\">been </span>to Australia? </b><i>(<span style=\"color:red\">Bạn đã từng </span>tới Úc chưa?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e7506fd1-87d6-4311-b3b1-57c813f931a3"
+          },
+          "dapAn": "Have you ever been",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4ef8b67d-b0d9-43a0-8141-b336abe99f7d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____________ <b><span style=\"color:blue\">(not study)</span></b> here since 2018.",
+      "yNghia": "Ta có từ chỉ thời gian <b>since 1980s</b><i> (kể từ năm 2018) </i>nên động từ <b>study</b> được chia với dạng phủ định là <b>have not studied / haven't studied </b>để hình thành câu sử dụng thì Hiện tại hoàn thành. Câu hoàn chỉnh là <b>I <span style=\"color:red\">have not studied / haven't studied </span>here since 2018. </b><i>(Tôi <span style=\"color:red\">đã không</span> <span style=\"color:red\">học </span>ở đây kể từ năm 2018.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "451fe67b-fd43-49e4-887f-9f641a41add4"
+          },
+          "dapAn": "have not studied / haven’t studied",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "edaafbd0-1eb8-4212-b943-3b9d0e1619b9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "So what kinds of changes _______________ <b><span style=\"color:blue\">(happen) </span></b>since last year?",
+      "yNghia": "Ta có từ chỉ thời gian <b>since last year</b><i> (kể từ năm ngoái) </i>nên động từ <b>happen</b> được chia thành <b>has</b> <b>happened</b> để hình thành câu sử dụng thì Hiện tại hoàn thành. Câu hoàn chỉnh là <b>So what kinds of changes <span style=\"color:red\">have happened </span>since last year? </b><i>(Vậy, những thay đổi gì <span style=\"color:red\">đã diễn ra </span>kể từ năm ngoái vậy?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a055379b-bb4d-4073-b059-c59b2b1ca2d3"
+          },
+          "dapAn": "have happened",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "af5f4064-a70e-4997-b5d3-7a705d3ef72a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They _____________ <b><span style=\"color:blue\">(create)</span></b> a lot of green spaces with walking trails and playgrounds for three months.",
+      "yNghia": "Ta có từ chỉ thời gian <b>for three months </b><i>(được ba tháng) </i>nên động từ <b>create</b> được chia thành <b>have created</b> để hình thành câu sử dụng thì Hiện tại hoàn thành. Câu hoàn chỉnh là <b>They <span style=\"color:red\">have created </span>a lot of green spaces with walking trails and playgrounds for three months. </b><i>(Họ <span style=\"color:red\">đã tạo ra </span>rất nhiều không gian xanh với những con đường mòn đi bộ và sân chơi được ba tháng rồi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4a456e24-56ea-463d-b424-9a0067557907"
+          },
+          "dapAn": "have created",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f1834c21-a867-4684-8369-309b4c25e4b9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I see a lot of pedestrian ______ <b><span style=\"color:blue\">(area)</span></b> and bike lanes too.",
+      "yNghia": "Sau lượng từ <b>a lot of</b> ta cộng với danh từ số nhiều nên <b>area</b> được thêm 's' thành <b>areas</b>. Câu hoàn chỉnh là <b>I see a lot of pedestrian <span style=\"color:red\">areas </span>and bike lanes too. </b><i>(Tôi thấy có rất nhiều <span style=\"color:red\">khu vực </span>dành cho người đi bộ và cả làn đường dành cho xe đạp.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "19d203cf-95cc-4831-8dae-730736b6ddd5"
+          },
+          "dapAn": "areas",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "cd6a2b74-ea6d-4e7f-8af2-37fd9c8630a5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Now people walk and ________ <b><span style=\"color:blue\">(bike)</span></b> a lot more.",
+      "yNghia": "<b>people</b> <i>(mọi người)</i> là danh từ số nhiều nên động từ <b>bike</b> <i>(đi xe đạp) </i>được giữ nguyên. Câu hoàn chỉnh là <b>Now people walk and <span style=\"color:red\">bike </span>a lot more. </b><i>(Bây giờ người ta đi bộ và <span style=\"color:red\">đi xe đạp </span>nhiều hơn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7cd1b5b0-4f02-484e-9835-3c5fe39e3211"
+          },
+          "dapAn": "bike",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3612ce4d-ad63-475f-9498-9b6828ebecf8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What are all those people doing around that ______ <b><span style=\"color:blue\">(truck)</span></b>?",
+      "yNghia": "Trước danh từ <b>truck</b> là tính từ chỉ định <b>that</b>, nên danh từ <b>truck</b> <i>(chiếc xe tải) </i>được giữ nguyên. Câu hoàn chỉnh là <b>What are all those people doing around that <span style=\"color:red\">truck</span>? </b><i>(Điều đó thực sự tuyệt vời. Này, mọi người đang làm gì xung quanh <span style=\"color:red\">chiếc xe tải </span>đó vậy?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "393017e9-4b95-4de0-bdc3-30168a334722"
+          },
+          "dapAn": "truck",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "84279d6f-8a48-4c41-af8b-2f66f077d886"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "He ______ never ______ <b><span style=\"color:blue\">(ride)</span></b> a motorbike before.",
+      "yNghia": "Ta có từ chỉ thời gian <b>before</b> <i>(trước đây)</i>, nên động từ <b>ride</b> được chia thành <b>has ridden</b> để hình thành câu sử dụng thì Hiện tại hoàn thành, kết hợp với trạng từ <b>never</b> mang nghĩa ‘chưa từng làm gì' trước đây. Câu hoàn chỉnh là <b>He <span style=\"color:red\">has </span>never <span style=\"color:red\">ridden </span>a motorbike before. </b><i>(Anh ấy chưa <span style=\"color:red\">từng lái </span>xe máy trước đây.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fca94b11-4307-4d21-9f19-846a888571f1"
+          },
+          "dapAn": "has ... ridden",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "807c7228-142b-49fa-8060-929f2113c979"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I _____________ <b><span style=\"color:blue\">(know)</span></b> him for three years.",
+      "yNghia": "Ta có từ chỉ thời gian <b>for three years</b> <i>(được ba năm) </i>nên động từ <b>know</b> được chia thành <b>have known</b> để hình thành câu sử dụng thì Hiện tại hoàn thành. Câu hoàn chỉnh là <b>I <span style=\"color:red\">have known </span>him for three years. </b><i>(Tôi <span style=\"color:red\">đã quen biết </span>anh ấy được ba năm.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "54620fdb-d4c3-4c71-b277-d4f94dbfa801"
+          },
+          "dapAn": "have known",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "00d5ecc2-3a5a-4af0-b2b3-01fd1df50212"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Food trucks have become very ______ <b><span style=\"color:blue\">(popular)</span></b> in the US. They have a lot of different kinds of food, and it's fast and not very expensive.",
+      "yNghia": "Sau động từ <b>become</b> ta cần điền một tính từ, tính từ <b>popular</b> được giữ nguyên. Câu hoàn chỉnh là <b>Food trucks have become very <span style=\"color:red\">popular </span>in the US. They have a lot of different kinds of food, and it's fast and not very expensive. </b><i>(Xe bán đồ ăn lưu động đã trở nên rất <span style=\"color:red\">phổ biến</span> ở Mỹ. Họ có rất nhiều loại thức ăn khác nhau, nó rất nhanh và không đắt lắm.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4d8a6141-2c76-4fbe-b7ac-1f42a11746fb"
+          },
+          "dapAn": "popular",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7056164b-42a1-439b-a4b4-1c74f8f17ec7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How long _______________ <b><span style=\"color:blue\">(they/work)</span></b> there?",
+      "yNghia": "Động từ <b>work</b> được chia thành <b>have worked</b> để hình thành câu sử dụng thì Hiện tại hoàn thành với ý hỏi ai đó đã làm gì ‘bao lâu' rồi, <b>have</b> được đảo lên trước chủ ngữ <b>they</b> với câu hỏi có từ để hỏi. Câu hoàn chỉnh là <b>How long <span style=\"color:red\">have they worked </span>there? </b><i>(<span style=\"color:red\">Họ đã làm việc </span>ở đó bao lâu rồi!).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a65855a0-9a0c-4963-9ba6-b9523bdfadb9"
+          },
+          "dapAn": "have they worked",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "fb58794a-22fc-4532-b75a-93e50690e944"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That truck _______ <b><span style=\"color:blue\">(have)</span></b> Chinese food. Do you want some?",
+      "yNghia": "<b>That truck</b> <i>(Chiếc xe tải đó) </i>là chủ ngữ số ít nên động từ <b>have</b> được chia thành <b>has</b>. Câu hoàn chỉnh là <b>That truck <span style=\"color:red\">has </span>Chinese food. Do you want some? </b><i>(Chiếc xe tải đó <span style=\"color:red\">có </span>đồ ăn Trung Quốc. Bạn có muốn ăn một chút không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9d57b8ac-b78d-4456-9a27-04bd8e7256a8"
+          },
+          "dapAn": "has",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6ad09c5a-83d3-44b3-b429-7c9a59f9abdc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "May I ________ <b><span style=\"color:blue\">(have)</span></b> your phone number?",
+      "yNghia": "<b>May </b>là động từ tình thái, nên động từ đi kèm sẽ được giữ nguyên thể là <b>have</b><i> (xin)</i>. Câu hoàn chỉnh là <b>May I <span style=\"color:red\">have </span>your phone number? </b><i>(Tôi có thể <span style=\"color:red\">xin </span>số điện thoại của bạn được không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1b429686-55fb-422f-84c2-4e25fdff6f85"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "562b2d64-c95b-4dbf-9dab-4d7fa175786e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We can _________ <b><span style=\"color:blue\">(go)</span></b> sightseeing today.",
+      "yNghia": "<b>can </b>là động từ tình thái, nên động từ đi kèm sẽ được giữ nguyên thể là <b>go</b><i> (đi)</i>. Câu hoàn chỉnh là <b>We can <span style=\"color:red\">go </span>sightseeing today. </b><i>(Hôm nay chúng ta có thể <span style=\"color:red\">đi </span>ngắm cảnh.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "73a9ae4a-34f8-4ee4-9126-0b520d238e5e"
+          },
+          "dapAn": "go",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

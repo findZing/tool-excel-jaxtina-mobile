@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P9Cham1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "de748615-8734-4fdd-b7c3-d1758ac09422"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "efacd47b-1698-4034-bb80-15ec55e4f96b"
+          },
+          "cauHoi": "What do they like to see this weekend?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d2e95a5b-5d1c-4e4e-ad5c-1d6d935d7a22"
+              },
+              "dapAn": "A. the boat show",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e5f7855d-79a3-4f8c-8d60-0d625a85b2d8"
+              },
+              "dapAn": "B. films",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "55d87129-9092-411f-99e2-63305549bf0c"
+              },
+              "dapAn": "C. TV",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2f7d48f0-788c-48ff-b920-5339e46d1378"
+              },
+              "dapAn": "D. the reality show",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "09a2b44f-147e-4bb2-a81a-58570ea208e4"
+          },
+          "cauHoi": "Does the speaker get tickets for Saturday?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6609d0d1-8f42-4ef5-b0b1-fb23f30f53ea"
+              },
+              "dapAn": "A. Yes, he doesn't.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "31655b69-731f-47af-a068-754cc6b11840"
+              },
+              "dapAn": "B. Yes, he does.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "291bced6-8db3-4796-8e8a-00fdb9b635dc"
+              },
+              "dapAn": "C. No, he does.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "06252456-fd55-4eb5-be90-4cd3194713a6"
+              },
+              "dapAn": "D. No, he doesn't.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "1ad0038b-56a0-4a4e-bce2-9c32f2f5d417"
+          },
+          "cauHoi": "When would the speaker rather go?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f4bba23d-be3f-4176-bf5d-31b27df2dee9"
+              },
+              "dapAn": "A. Sunday",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a20eb2b5-d75f-4873-bfa4-44f736e6f407"
+              },
+              "dapAn": "B. Monday",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "846c766f-1e93-4701-b0b3-6dad34d60e3e"
+              },
+              "dapAn": "C. Saturday",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "365a3eb1-cbe9-4832-a596-a0b76f409845"
+              },
+              "dapAn": "D. Today",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "17a7b079-d0d2-4bfa-9a06-204865039a57"
+          },
+          "cauHoi": "How will the speaker get there?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c6e23e85-0f2a-4409-87a2-e66746531953"
+              },
+              "dapAn": "A. by bus",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f92c9bbe-817d-4ce7-99cd-a7eed1ffc0bf"
+              },
+              "dapAn": "B. by train",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4cbea758-3264-4f62-997f-9cd7117ede29"
+              },
+              "dapAn": "C. by car",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e30c5f2f-2c10-4e59-8f2c-9883b407c114"
+              },
+              "dapAn": "D. by bike",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "My brother and I like to see the boat show this weekend. I get tickets for either Saturday or Sunday. I'd rather go on Sunday, I think, because I prefer to do housework and errands on Saturday. Also, I'd rather take the bus because I hate driving in a lot of traffic, and I'd kind of<br />\r\nprefer to get there early.<br />\r\n<br />\r\n<i>Anh trai tôi và tôi muốn xem buổi trình diễn thuyền vào cuối tuần này. Tôi nhận được vé cho cả thứ Bảy hoặc Chủ nhật. Tôi nghĩ tôi muốn đi vào Chủ nhật hơn, vì tôi thích làm việc nhà và việc lặt vặt vào thứ Bảy. Ngoài ra, tôi muốn đi xe buýt vì tôi ghét lái xe khi có nhiều phương tiện giao thông, và tôi thích đến đó sớm.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_TC_L15/sounds/normal/TC_15_LISTENING_Listening 1.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2b4b4515-f3b4-4566-997f-9e0f1ae222a3"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "3cd94b31-7768-4fd4-a8d0-fb34b375587d"
+          },
+          "cauHoi": "Has the speaker ever felt like all he does is work?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8d46528d-a283-427e-99af-951b9ca4d353"
+              },
+              "dapAn": "A. Yes, he had.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5e0a00e6-070f-47ce-b134-474883f591ad"
+              },
+              "dapAn": "B. No, he has.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9f6630f0-5220-4472-a9c9-e512e99fb4f9"
+              },
+              "dapAn": "C. No, he hasn't.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b2eb14b9-b9f1-44a3-b645-51be66ed8650"
+              },
+              "dapAn": "D. Yes, he has.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "25c334b7-682a-4fc6-9fc5-51a62f52778b"
+          },
+          "cauHoi": "What would he prefer to do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "31054670-1423-48f2-b482-fa3f26d59ecb"
+              },
+              "dapAn": "A. I'd prefer time enjoying myself.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "486bcb48-6133-4ec1-9dcc-b68d806b1ba5"
+              },
+              "dapAn": "B. He'd prefer time enjoying himself.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3ad6c96b-ae24-4aa0-8a94-47fc8ef3c158"
+              },
+              "dapAn": "C. I'd prefer time enjoying himself.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8a653363-6147-44c9-a641-b0685a730a87"
+              },
+              "dapAn": "D. He'd prefer time doing exercises himself.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "57b471ae-b2a9-45e8-afd0-39e58242bb5b"
+          },
+          "cauHoi": "Does he feel bad when having fun to spend some more?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "43da3035-416f-49ae-bf73-1870df32150a"
+              },
+              "dapAn": "A. Yes, he do.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5d206912-517a-4c88-bea6-c1553788de62"
+              },
+              "dapAn": "B. No, he doesn't.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4ca37997-9521-46e2-8d0d-9d9f58d0cae5"
+              },
+              "dapAn": "C. Yes, he does.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "8f093a4e-eaa8-48a2-86f2-6b8493e3759d"
+              },
+              "dapAn": "D. No, he does.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "d13cf438-e90f-4a04-99a3-0c42bbcbeb9d"
+          },
+          "cauHoi": "What is fun according to psychiatrist Dr. Stuart Brown?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2f114b47-9559-4871-b425-02105fdeeed2"
+              },
+              "dapAn": "A. Fun is an essential part of everyday life.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "1e156653-e64c-47ad-9dd9-bce86cd20ad2"
+              },
+              "dapAn": "B. Fun is an unnecessary part of life.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b93da828-451b-4433-96ec-4b0a5a67d52f"
+              },
+              "dapAn": "C. Fun isn’t an essential part of everyday life.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8eb733f3-49b2-4f35-a6c7-82882a1b6f1b"
+              },
+              "dapAn": "D. Fun isn’t an unnecessary part of life.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "I feel like all I do is work. I’d prefer to spend time enjoying myself. I’m one of those people who feels bad when having fun because I hate feeling like I’m wasting time. According to psychiatrist Dr. Stuart Brown, fun is an essential part of everyday life, at work and at home.<br />\n<br />\n<i>Tôi đã từng cảm thấy như tất cả những gì tôi làm đều là công việc. Tôi thích dành thời gian tận hưởng bản thân hơn. Và tôi là một trong những người cảm thấy tồi tệ khi vui vẻ tiêu xài nhiều vì tôi ghét cảm giác mình đang lãng phí thời gian. Theo bác sĩ tâm thần, Tiến sĩ Stuart Brown, niềm vui là một phần thiết yếu của cuộc sống hàng ngày, tại nơi làm việc và cả ở nhà.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_TC_L15/sounds/normal/TC_15_LISTENING_Listening 2.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d3e88824-7a6d-4710-9062-07e1ab0dcba5"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "43fbf6bc-3a3b-435a-8c8e-2e9f743257a0"
+          },
+          "cauHoi": "According to Dr. Brown, is watching a movie fun?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d40f9a63-ce75-46d5-b93d-be55cc16b4c8"
+              },
+              "dapAn": "A. No, it isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "060d56f4-558b-4b20-bd53-8880d4c14407"
+              },
+              "dapAn": "B. No, it is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8911a188-01cd-49c9-ac57-2d3a2f343d7a"
+              },
+              "dapAn": "C. Yes, it isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "083a268e-434d-490b-b628-24fd1e9c77dc"
+              },
+              "dapAn": "D. Yes, it is.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "43a15acd-b76f-4188-b189-a9d2982f3bf1"
+          },
+          "cauHoi": "Is reading a book fun?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "82bc1c60-e026-4f4c-aed7-1827757745c8"
+              },
+              "dapAn": "A. No, it isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e047ebdd-8600-4b7d-9ab9-5c13335b9842"
+              },
+              "dapAn": "B. Not mentioned.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "19fc997f-d5bf-4c08-8a3a-e4682147c72b"
+              },
+              "dapAn": "C. Yes, it does.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bd67d040-9acb-458e-900a-78604ebd0f06"
+              },
+              "dapAn": "D. Yes, it is.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "88aad4e0-d8d7-4576-998c-4b9d2383733b"
+          },
+          "cauHoi": "Why do we sometimes prefer to work all day?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "51df32a1-0aa2-4ecc-9841-e9cd1c877676"
+              },
+              "dapAn": "A. Because it’s fantastic.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e751175f-c2d7-4de7-9df7-6749307e13db"
+              },
+              "dapAn": "B. Because it keeps us satisfied.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f1dabd9e-9603-4d58-8329-49fb57aeb472"
+              },
+              "dapAn": "C. Because it keeps us busy.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "509f2102-83a1-41b4-a246-0550f2363389"
+              },
+              "dapAn": "D. Because it keeps our money.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "e67a1d04-5744-4ba6-866e-2300b20b61e8"
+          },
+          "cauHoi": "What does Dr. Brown suggest us to do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "22e08a0b-af95-4863-9bf5-579986febca4"
+              },
+              "dapAn": "A. plan for fun",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "503baf56-f751-46b3-b1fe-6dc64532c724"
+              },
+              "dapAn": "B. plan for future",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9711103d-403e-4a62-84b9-d6dc3f302a9e"
+              },
+              "dapAn": "C. plan for marriage",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7639bf77-1ffb-4ea3-b5ec-b2daab2cd4ef"
+              },
+              "dapAn": "D. plan for studying",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "What is \"fun\"? Well, Dr. Brown says that fun can be anything from watching a movie to reading a book. It's true that sometimes we prefer to work all day because it keeps us busy, but Dr. Brown says we must plan for fun.<br />\r\n<br />\r\n<i>\"Vui vẻ\" là gì? Tiến sĩ Brown nói rằng niềm vui có thể là bất cứ thứ gì, từ xem phim đến đọc sách. Đúng là đôi khi chúng ta thích làm việc cả ngày hơn vì nó khiến chúng ta bận rộn, nhưng Tiến sĩ Brown nói rằng chúng ta phải lên kế hoạch cho niềm vui.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_TC_L15/sounds/normal/TC_15_LISTENING_Listening 3.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "db955bf5-32ca-4469-b456-b0c731d7b3f5"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "ae9a09ac-61e3-4c1c-9dc2-e2826e512d75"
+          },
+          "cauHoi": "Are there various types of fun?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "42dd23ec-c63d-48d4-b63b-7ca66b73c3c3"
+              },
+              "dapAn": "A. Yes, there is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8223d629-da93-4f00-8211-242f293a6bc4"
+              },
+              "dapAn": "B. Yes, there are.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "be2a84c8-9fd7-49cb-b3f5-4c331d2d69d9"
+              },
+              "dapAn": "C. No, there aren’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2bf9fa52-f39a-45fa-96c2-9061fac93811"
+              },
+              "dapAn": "D. No, there isn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "01aabf6e-094f-4f72-8ede-3d0ed31f7f4f"
+          },
+          "cauHoi": "Do the ways to classify fun depend on how busy we are?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ac228c8d-5801-493c-96a6-7025f59cd6ab"
+              },
+              "dapAn": "A. No, they didn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "30ecfa83-0a00-40c8-b0f0-54f88e06058a"
+              },
+              "dapAn": "B. Yes, they don’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3ae7562f-1f63-454e-b338-beac14499184"
+              },
+              "dapAn": "C. Yes, they do.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d65e8ae3-d9be-49ad-9d6f-668dff600f72"
+              },
+              "dapAn": "D. No, they don’t.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "4e94f285-3612-4f3c-8b04-0f5175c5754a"
+          },
+          "cauHoi": "What would you rather do if you spend time outdoors?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "257308be-f206-46c4-ac0b-016a4c844466"
+              },
+              "dapAn": "A. Maybe you’d rather watch TV at home.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f4380d30-b86a-4f9f-9d3a-4d87ee04c381"
+              },
+              "dapAn": "B. Maybe you’d rather eat at home.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cbf268ce-642c-46ca-a3e9-893b00e5fe77"
+              },
+              "dapAn": "C. Maybe you’d rather sleep at home.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "177182c1-e8ba-4870-94a0-cc1991d20155"
+              },
+              "dapAn": "D. Maybe you’d rather eat out.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ec7344fb-edbd-40b9-b93d-bbf204b28626"
+          },
+          "cauHoi": "In which situation does Dr. Brown say we need to have fun?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "981b6472-7f20-4601-884a-8f1213cad310"
+              },
+              "dapAn": "A. every situation",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "038eabaf-95ea-43c0-8e07-a7a9f2663c91"
+              },
+              "dapAn": "B. only one situation",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3200286a-bdd6-4f73-8b24-df4fe72b46ef"
+              },
+              "dapAn": "C. several situations",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bf6c9ee1-d2b6-4883-a56a-1bf5c5e1c836"
+              },
+              "dapAn": "D. three situations",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "There are different types of fun for everyone. It doesn't matter how busy you are. For example, do you spend a lot of time in class? Then, you would probably like<br />\r\nto play a sport. If you spend time outdoors, maybe you'd rather watch TV at home.<br />\r\nWhatever your situation in life is, Dr. Brown says we need to have fun.<br />\r\n<br />\r\n<i>Có nhiều loại niềm vui khác nhau cho mọi người. Không quan trọng bạn bận rộn như thế nào. Ví dụ, có phải bạn tốn nhiều thời gian học trên lớp không? Sau khi tan học thì bạn có thể muốn chơi thể thao. Nếu bạn dùng thời gian ở ngoài trời, có lẽ bạn muốn xem TV ở nhà hơn. Dù hoàn cảnh nào trong cuộc sống, Tiến sĩ Brown nói rằng chúng ta cần phải vui vẻ.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_TC_L15/sounds/normal/TC_15_LISTENING_Listening 4.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "bc57462b-ca8b-43b4-bd59-a0b764834a1c"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "8f292b3a-6929-4198-be4c-9f02fa46ade0"
+          },
+          "cauHoi": "Does fun relax us?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "e321235d-3dce-48b6-9257-d2bcddaea86a"
+              },
+              "dapAn": "A. Yes, it did.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4ef54256-52e5-427e-accb-84b74a518644"
+              },
+              "dapAn": "B. No, it doesn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "933a18fa-e894-4668-a878-1bbff783e039"
+              },
+              "dapAn": "C. Yes, it doesn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "63c84bb1-f549-4e37-8b9d-1f42258bf82c"
+              },
+              "dapAn": "D. Yes, it does.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ae95fbff-b4da-486e-8904-e339f5a26077"
+          },
+          "cauHoi": "What are the other effects of fun?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "78649fab-24c3-47eb-bd98-f0a1d89f41ed"
+              },
+              "dapAn": "A. reducing stress",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "77cc2bbf-a08a-41a7-a5f7-6d625838d752"
+              },
+              "dapAn": "B. helping us make better connections with people",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d9f9d420-6712-44b9-a6dc-d1f21d715062"
+              },
+              "dapAn": "C. loving your class",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5b86f627-9609-4fd5-9c50-0cb829de7398"
+              },
+              "dapAn": "D. A&B",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "7764fd26-b577-4bb6-9866-4f42992f8ef6"
+          },
+          "cauHoi": "What should you do when being in class?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6bc26285-a8cd-4502-a176-1607891cde33"
+              },
+              "dapAn": "A. talk with others",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a9e92fd9-2fdb-4e09-81c7-e74aa9ad18e6"
+              },
+              "dapAn": "B. come early",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3e312ac9-8ab5-4b15-85f3-64e507a62807"
+              },
+              "dapAn": "C. sleep",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0d85fa61-390e-421d-a68b-3e9ba03b23a1"
+              },
+              "dapAn": "D. have some fun",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ff2d9207-d18b-4aa7-b21a-c24d0ce579fc"
+          },
+          "cauHoi": "Why do you need to do that?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c1757d8a-1a37-4ae6-aab6-aab447e6a40f"
+              },
+              "dapAn": "A. Because you study harder.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bd68b947-41ae-49a0-b876-d6c0e292f7c8"
+              },
+              "dapAn": "B. Because it might even help you with your studies.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "ad73d43c-d543-48b5-a02e-fabe66f1ec43"
+              },
+              "dapAn": "C. Because it isn’t helpful.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1863bd7a-37a5-42ad-8211-0a58b04bb459"
+              },
+              "dapAn": "C. Because it isn’t helpful.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "Fun relaxes us, reduces stress and helps us make better connections with people. So maybe you love being in class, but you need to have some fun too. Who knows, it might even help you with your studies!<br />\r\n<br />\r\n<i>Niềm vui giúp chúng ta thư giãn, giảm căng thẳng và giúp chúng ta kết nối với mọi người tốt hơn. Vì vậy, có thể bạn thích ở trong lớp học, nhưng bạn cũng cần phải vui vẻ. Biết đâu được, nó lại có thể giúp bạn học tập tốt hơn!</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_TC_L15/sounds/normal/TC_15_LISTENING_Listening 5.mp3"
+    }
+  ]
+}

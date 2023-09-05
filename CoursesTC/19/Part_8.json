@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_TC_L19/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_TC_L19/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "56afe932-5047-49b8-8cc3-9f3dda623abb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Host",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ab193d6e-3b98-49f2-b8c9-50f57d6fb822"
+          },
+          "dapAn": "Hi, everyone. Today we’re at the clinic of Dr. Mark Li. Dr. Li, do you think it’s possible for people who aren’t doctors to help others?",
+          "phienAm": "/haɪ ˈevrɪwʌn/. /təˈdeɪ wɪər æt ðə ˈklɪnɪk ɒv ˈdɒktər mɑːk liː/. /ˈdɒktər liː duː juː θɪŋk ɪts ˈpɒsəbl fɔːr ˈpiːpl huː ɑːnt ˈdɒktəz tuː help ˈʌðərz/",
+          "yNghia": "\nChào mọi người. Hôm nay, chúng ta đang ở phòng khám của bác sĩ Mark Li. Bác sĩ Li, anh có nghĩ rằng những người không phải là bác sĩ có thể giúp đỡ người khác không?",
+          "normal": {
+            "start": "00:00:01.175",
+            "end": "00:00:11.971"
+          },
+          "slow": {
+            "start": "00:00:00.953",
+            "end": "00:00:17.666"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "aa85623c-73db-48da-bbe6-8d504fbf7f32"
+          },
+          "dapAn": "Do you mean helping someone if they break their arm?",
+          "phienAm": "/duː juː miːn ˈhelpɪŋ ˈsʌmwʌn ɪf ðeɪ breɪk ðeər ɑːrm/",
+          "yNghia": "\nÝ anh là giúp đỡ ai đó nếu họ bị gãy tay phải không?",
+          "normal": {
+            "start": "00:00:22.935",
+            "end": "00:00:26.012"
+          },
+          "slow": {
+            "start": "00:00:30.055",
+            "end": "00:00:35.186"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a5de5a10-2e78-4096-8ff6-5bf48be5b808"
+          },
+          "dapAn": "I see. How about an injury like a sprained ankle?",
+          "phienAm": "/aɪ siː/. /haʊ əˈbaʊt ən ˈɪnʤəri laɪk eɪ spreɪnd ˈæŋkl/",
+          "yNghia": "\nTôi hiểu rồi. Phải làm thế nào với một chấn thương chẳng hạn như bị bong gân một mắt cá chân?",
+          "normal": {
+            "start": "00:00:32.836",
+            "end": "00:00:37.256"
+          },
+          "slow": {
+            "start": "00:00:43.066",
+            "end": "00:00:50.030"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "270ba618-53d5-40e8-858b-d3e6fe661b01"
+          },
+          "dapAn": "OK. Are there any situations that we can help the patients without doctors?",
+          "phienAm": "/əʊˈkeɪ/. /ɑːr ðeər ˈeni ˌsɪtjʊˈeɪʃnz ðæt wiː kæn help ðə ˈpeɪʃnts wɪˈðaʊt ˈdɒktərz/",
+          "yNghia": "\nVâng. Có tình huống nào mà chúng ta có thể giúp bệnh nhân khi không có bác sĩ ở đó không?",
+          "normal": {
+            "start": "00:00:45.563",
+            "end": "00:00:51.408"
+          },
+          "slow": {
+            "start": "00:00:59.486",
+            "end": "00:01:07.623"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "aad21f2a-c7ff-4411-83fc-8de9c14cdb5e"
+          },
+          "dapAn": "So what can you do to help if someone has a cut?",
+          "phienAm": "/səʊ wɒt kæn juːduː tuː help ɪf ˈsʌmwʌn hæz eɪ kʌt/",
+          "yNghia": "\nVậy anh có thể làm gì để giúp đỡ nếu ai đó bị đứt tay?",
+          "normal": {
+            "start": "00:01:00.191",
+            "end": "00:01:04.190"
+          },
+          "slow": {
+            "start": "00:01:18.472",
+            "end": "00:01:24.592"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d0b24a05-e11d-4809-a55a-46e16af38401"
+          },
+          "dapAn": "Then we can put a clean bandage on the cut, right?",
+          "phienAm": "/ðen wiː kæn pʊt eɪ kliːn ˈbændɪʤ ɒn ðə kʌt raɪt/",
+          "yNghia": "\nSau đó, chúng ta có thể băng bó vết cắt, phải không?",
+          "normal": {
+            "start": "00:01:13.868",
+            "end": "00:01:17.700"
+          },
+          "slow": {
+            "start": "00:01:38.080",
+            "end": "00:01:43.028"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "47d46142-3cb3-4d63-9592-8b954b68a438"
+          },
+          "dapAn": "Perfect! What about when people have a fever?",
+          "phienAm": "/ˈpɜːfɪkt/. /wɒt əˈbaʊt wen ˈpiːpl hæv eɪ ˈfiːvər/",
+          "yNghia": "\nHoàn hảo! Còn khi người ta bị sốt thì sao?",
+          "normal": {
+            "start": "00:01:26.063",
+            "end": "00:01:30.174"
+          },
+          "slow": {
+            "start": "00:01:53.254",
+            "end": "00:01:58.789"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "30039275-f035-4778-930c-c6bde4807881"
+          },
+          "dapAn": "Also is it a good idea to have a cold bath if you have a fever?",
+          "phienAm": "/ˈɔːlsəʊ ɪz ɪt eɪ gʊd aɪˈdɪə tuː hæv eɪ kəʊld bɑːθ ɪf juː hæv eɪ ˈfiːvər/",
+          "yNghia": "\nNgoài ra, tắm nước lạnh nếu bạn bị sốt có phải là một ý kiến hay không?",
+          "normal": {
+            "start": "00:01:37.055",
+            "end": "00:01:42.705"
+          },
+          "slow": {
+            "start": "00:02:08.025",
+            "end": "00:02:15.429"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "359cc8c8-21f1-4218-b2d9-6328b66cf1f7"
+          },
+          "dapAn": "So what should we do if someone has a fever?",
+          "phienAm": "/səʊ wɒt ʃʊd wiː duː ɪf ˈsʌmwʌn hæz eɪ ˈfiːvər/",
+          "yNghia": "\nVậy chúng ta nên làm gì nếu ai đó bị sốt?",
+          "normal": {
+            "start": "00:01:51.935",
+            "end": "00:01:55.571"
+          },
+          "slow": {
+            "start": "00:02:26.387",
+            "end": "00:02:31.665"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "dd839ca5-b97d-43ae-8487-4499d7ffc5fb"
+          },
+          "dapAn": "And what if someone has a very high fever?",
+          "phienAm": "/ænd wɒt ɪf ˈsʌmwʌn hæz eɪ ˈveri haɪ ˈfiːvər/",
+          "yNghia": "\nVà nếu ai đó bị sốt rất cao thì sao?",
+          "normal": {
+            "start": "00:02:03.207",
+            "end": "00:02:07.430"
+          },
+          "slow": {
+            "start": "00:02:41.415",
+            "end": "00:02:47.755"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e5d47d66-0934-40de-ab7c-a14dc3b108f4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": " Dr. Li",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "563bc1fd-4ffe-40ca-87d8-d0c37b2e6952"
+          },
+          "dapAn": "It’s important for people to have some basic medical knowledge. There are times when you need to help someone immediately.",
+          "phienAm": "/ɪts ɪmˈpɔːtnt fɔːr ˈpiːpl tuː hæv sʌm ˈbeɪsɪk ˈmedɪkl ˈnɒlɪʤ/. /ðeər ɑːr taɪmz wen juː niːd tuː help ˈsʌmwʌn ɪˈmiːdiətli/",
+          "yNghia": "\nĐiều quan trọng là mọi người phải có một số kiến thức y tế cơ bản. Có những lúc bạn cần giúp đỡ ai đó ngay lập tức.",
+          "normal": {
+            "start": "00:00:13.397",
+            "end": "00:00:21.537"
+          },
+          "slow": {
+            "start": "00:00:18.546",
+            "end": "00:00:28.772"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b72d1acb-8493-418b-8aee-cce3ef2ccdb8"
+          },
+          "dapAn": "If someone breaks their arm, they need specific medical attention.",
+          "phienAm": "/ɪf ˈsʌmwʌn breɪks ðeər ɑːrm ðeɪ niːd spəˈsɪfɪk ˈmedɪkl əˈtenʃn/",
+          "yNghia": "\nNếu ai đó bị gãy tay, họ cần được chăm sóc y tế cụ thể.",
+          "normal": {
+            "start": "00:00:27.438",
+            "end": "00:00:31.578"
+          },
+          "slow": {
+            "start": "00:00:35.845",
+            "end": "00:00:41.307"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5ec0764b-1a07-41d4-83fa-aa29223bbc55"
+          },
+          "dapAn": "You might help the person sit up, and if that was OK, you’d help them stand.",
+          "phienAm": "/juː maɪt help ðə ˈpɜːsn sɪt ʌp ænd ɪf ðæt wɒz ˈəʊˈkeɪ juːd help ðem stænd/",
+          "yNghia": "\nBạn có thể giúp người đó ngồi dậy và nếu điều đó ổn, bạn có thể giúp họ đứng dậy.",
+          "normal": {
+            "start": "00:00:38.459",
+            "end": "00:00:44.416"
+          },
+          "slow": {
+            "start": "00:00:51.166",
+            "end": "00:00:58.166"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7e85bd3a-8d64-42ac-b02d-932ce6e28009"
+          },
+          "dapAn": "If someone has a cold or a cut, it is a good idea to take care of him or her.",
+          "phienAm": "/ɪf ˈsʌmwʌn hæz eɪ kəʊld ɔːr eɪ kʌt ɪt ɪz eɪ gʊd aɪˈdɪə tuː teɪk keər ɒv hɪm ɔːr hɜːr/",
+          "yNghia": "\nNếu ai đó bị cảm lạnh hoặc bị đứt tay, bạn nên chăm sóc họ.",
+          "normal": {
+            "start": "00:00:52.695",
+            "end": "00:00:59.016"
+          },
+          "slow": {
+            "start": "00:01:08.759",
+            "end": "00:01:17.079"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "30b06462-7bf5-403e-b3da-b86b2918efc8"
+          },
+          "dapAn": "The first thing to do is washing your hands. This will reduce the chances of infection.",
+          "phienAm": "/ðə fɜːst θɪŋ tuː duː ɪz wɒʃɪŋ jɔːr hændz/. /ðɪs wɪl rɪˈdjuːs ðə ˈʧɑːnsɪz ɒv ɪnˈfekʃn/",
+          "yNghia": "\nĐiều đầu tiên cần làm là rửa tay. Điều này sẽ làm giảm nguy cơ nhiễm trùng.",
+          "normal": {
+            "start": "00:01:05.813",
+            "end": "00:01:12.050"
+          },
+          "slow": {
+            "start": "00:01:25.545",
+            "end": "00:01:36.504"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0ac65f9d-d1ae-4bfc-bc04-37f1ce13849c"
+          },
+          "dapAn": "You need to wash the cut with soap and water and then dry it before doing that.",
+          "phienAm": "/juː niːd tuː wɒʃ ðə kʌt wɪð səʊp ænd ˈwɔːtər ænd ðen draɪ ɪt bɪˈfɔːr ˈduːɪŋ ðæt/",
+          "yNghia": "\nBạn cần rửa vết cắt bằng xà phòng và nước, sau đó lau khô trước khi thực hiện băng bó.",
+          "normal": {
+            "start": "00:01:19.350",
+            "end": "00:01:25.000"
+          },
+          "slow": {
+            "start": "00:01:44.238",
+            "end": "00:01:51.825"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4448e3b7-e98d-4f32-81bf-9c853fd18370"
+          },
+          "dapAn": "They should eat healthy foods to get all the nutrients they need to get better.",
+          "phienAm": "/ðeɪ ʃʊd iːt ˈhelθi fuːdz tuː get ɔːl ðə ˈnjuːtrɪənts ðeɪ niːd tuː get ˈbetər/",
+          "yNghia": "\nHọ nên ăn thực phẩm lành mạnh để có được tất cả các chất dinh dưỡng cần thiết để khỏe hơn.",
+          "normal": {
+            "start": "00:01:31.293",
+            "end": "00:01:36.104"
+          },
+          "slow": {
+            "start": "00:02:00.438",
+            "end": "00:02:06.852"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f0398d14-c134-479c-af71-1e414a797abd"
+          },
+          "dapAn": "It is a very bad idea! If you have a cold bath, the fever will probably get worse.",
+          "phienAm": "/ɪt ɪz eɪ ˈveri bæd aɪˈdɪə/. /ɪf juː hæv eɪ kəʊld bɑːθ ðə ˈfiːvər wɪl ˈprɒbəbli get wɜːs/",
+          "yNghia": "\nĐó là một ý tưởng rất tồi! Nếu bạn tắm nước lạnh, cơn sốt có thể sẽ trở nên tồi tệ hơn.",
+          "normal": {
+            "start": "00:01:44.187",
+            "end": "00:01:50.620"
+          },
+          "slow": {
+            "start": "00:02:16.381",
+            "end": "00:02:249584"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d557a319-6508-4525-b66d-bc4f57fcf631"
+          },
+          "dapAn": "They need to drink lots of liquids. They should also stay in bed and rest.",
+          "phienAm": "/ðeɪ niːd tuː drɪŋk lɒts ɒv ˈlɪkwɪdz/. /ðeɪ ʃʊd ˈɔːlsəʊ steɪ ɪn bed ænd rest/",
+          "yNghia": "\nHọ cần uống nhiều chất lỏng. Họ cũng nên nằm trên giường và nghỉ ngơi.",
+          "normal": {
+            "start": "00:01:56.997",
+            "end": "00:02:01.948"
+          },
+          "slow": {
+            "start": "00:02:33.058",
+            "end": "00:02:40.169"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "260bfd1d-6e81-4922-b585-e34790ae255a"
+          },
+          "dapAn": "If it lasts for over three days, it would be better to take them to the doctor.",
+          "phienAm": "/ɪf ɪt lɑːsts fɔːr ˈəʊvər θriː deɪz ɪt wʊd biː ˈbetər tuː teɪk ðem tuː ðə ˈdɒktər/",
+          "yNghia": "\nNếu nó kéo dài hơn ba ngày, tốt hơn là nên đưa họ đến gặp bác sĩ.",
+          "normal": {
+            "start": "00:02:08.353",
+            "end": "00:02:13.220"
+          },
+          "slow": {
+            "start": "00:02:48.965",
+            "end": "00:02:55.342"
+          }
+        }
+      ]
+    }
+  ]
+}

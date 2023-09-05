@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "96398aa8-dbd8-4d84-850b-2c225b59628e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lana:</b></td> \n                        <td>Thanks for coming to the <b>(1) </b>_________. I made notes on the things we need to do. I think we need to focus on this year's fundraiser.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td> \n                        <td>A <b>(2) </b>_________? We tried that last year.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lana:</b></td> \n                        <td>Exactly. We will plan to <b>(3) </b>_________ it again this year.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td> \n                        <td>But last year we spent a lot of money on T-shirts, and we didn't make any <b>(4) </b>_________.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Lana:</b></td> \r\n\t\t\t<td>Thanks for coming to the <b>(1) <span style=\"color:red\">meeting</span> </b>. I made notes on the things we need to do. I think we need to focus on this year's fundraiser.<br />\r\n\t\t\t<i>Cảm ơn vì đã đến tham dự <span style=\"color:red\">cuộc họp</span> .</i> <i>Tôi đã ghi chú về những điều chúng ta cần làm. Tôi nghĩ chúng ta cần tập trung vào sự kiện gây quỹ năm nay.</i></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Ben:</b></td> \r\n\t\t\t<td>A <b>(2) <span style=\"color:red\">fundraiser</span> </b>? We tried that last year.<br />\r\n\t\t\t<i>Một <span style=\"color:red\">sự kiện</span>  <span style=\"color:red\">gây quỹ </span> à? Chúng ta đã thử điều đó vào năm ngoái.</i></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Lana:</b></td> \r\n\t\t\t<td>Exactly. We will plan to <b>(3) <span style=\"color:red\">organize</span> </b> it again this year.<br />\r\n\t\t\t<i>Chính xác. Chúng ta sẽ lên kế hoạch <span style=\"color:red\">tổ chức </span> lại trong năm nay.</i></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Ben:</b></td> \r\n\t\t\t<td>But last year we spent a lot of money on T-shirts, and we didn't make any <b>(4) <span style=\"color:red\">money</span> </b>.<br />\r\n\t\t\t<i>Nhưng năm ngoái chúng ta đã chi rất nhiều tiền cho áo phông, và chúng ta không kiếm được đồng nào.</i></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "meeting",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "87e75ad5-0fbb-47be-921e-cafdba99dbee"
+          }
+        },
+        {
+          "dapAn": "fundraiser",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ffe20071-3190-4206-ba3e-9c8421acfac4"
+          }
+        },
+        {
+          "dapAn": "organize",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "9175e2b4-9cf6-46bb-9895-d041f7f2e716"
+          }
+        },
+        {
+          "dapAn": "money",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "3675f5da-eba6-4d69-acd9-18a1c678495a"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f1da57c7-848c-4b2a-89e2-0a26bd5d556c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lana:</b></td> \n                        <td>OK. How about we sell cookies? Everyone loves <b>(1) </b>________! I can make some.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td> \n                        <td>We should find out how much the <b>(2) </b>________ cost and how many we need to make.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lana:</b></td> \n                        <td>I agree but I think we need to <b>(3) </b>________ on two things first.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td> \n                        <td>What are they?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lana:</b></td> \n                        <td>First, we need to decide on a <b>(4) </b>________ for the fundraiser and second, which person can do which job.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lana:</b></td> \n                        <td>OK. How about we sell cookies? Everyone loves <b>(1) <span style=\"color:red\">cookies</span> </b>! I can make some.<br />\n                        <i>Được rồi. Bạn nghĩ sao về việc chúng ta bán bánh quy? Mọi người đều thích <span style=\"color:red\">bánh quy</span> ! Tôi có thể làm một ít bánh.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td> \n                        <td>We should find out how much the <b>(2) <span style=\"color:red\">ingredients</span> </b> cost and how many we need to make.<br />\n                        <i>Chúng ta nên tìm hiểu xem <span style=\"color:red\">nguyên liệu</span>  có giá bao nhiêu và chúng ta cần làm bao nhiêu cái.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lana:</b></td> \n                        <td>I agree but I think we need to <b>(3) <span style=\"color:red\">focus</span> </b> on two things first.<br />\n                        <i>Tôi đồng ý nhưng tôi nghĩ trước tiên chúng ta cần <span style=\"color:red\">tập trung </span> vào hai điều.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td> \n                        <td>What are they?<br />\n                        <i>Là những điều nào?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lana:</b></td> \n                        <td>First, we need to decide on a <b>(4) <span style=\"color:red\">date</span> </b> for the fundraiser and second, which person can do which job.<br />\n                        <i>Đầu tiên, chúng ta cần quyết định <span style=\"color:red\">ngày</span>  gây quỹ và thứ hai, ai có thể làm công việc nào.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "cookies",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c3da55b0-1088-4449-a906-de70203b2a88"
+          }
+        },
+        {
+          "dapAn": "ingredients",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "24c97f6b-1d6f-45b9-9b96-27a4f519b4dd"
+          }
+        },
+        {
+          "dapAn": "focus",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a2696d32-7093-42bc-a940-10deb6c344a9"
+          }
+        },
+        {
+          "dapAn": "date",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "08d1a770-754a-4549-be2e-0c2c05f505b8"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e7495770-be94-44fe-a6ea-3215aa6c5c2c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There was an <b>(1) </b>________ street entertainer that I saw every day on my way to work. Everyone watched him, but no one understood how he did his <b>(2) </b>________. He looked like something from a science fiction film because he wore a black and yellow robot <b>(3) </b>________. He used to stand very still until someone walked past him. Then, he moved his body and changed <b>(4) </b>________ until he looked like a small yellow truck. Then, he drove away. Everyone who saw his performance said it was amazing.",
+      "yNghia": "There was an <b>(1) <span style=\"color:red\">amazing</span> </b> street entertainer that I saw every day on my way to work. Everyone watched him, but  no one understood how he did his <b>(2) <span style=\"color:red\">trick</span> </b>. He looked like something from a science fiction film because he wore a black and yellow robot <b>(3) <span style=\"color:red\">costume</span> </b>. He used to stand very still until someone walked past him. Then, he moved his body and changed <b>(4) <span style=\"color:red\">shape</span> </b> until he looked like a small yellow truck. Then, he drove away. Everyone who saw his performance said it was amazing.<br />\n<i>Có một nghệ sĩ đường phố </i><i><span style=\"color:red\">tuyệt vời </span> </i><i>mà tôi thấy hàng ngày trên đường đi làm. Mọi người đều theo dõi anh ta, nhưng không ai hiểu anh ta đã thực hiện </i><i><span style=\"color:red\">mẹo</span> </i><i> của mình như thế nào. Anh ấy trông giống một thứ gì đó trong phim khoa học viễn tưởng vì anh ấy mặc </i><i><span style=\"color:red\">trang phục </span> </i><i>người máy màu đen và vàng. Anh ấy thường đứng yên cho đến khi có ai đó đi ngang qua anh ấy. Sau đó, anh ta di chuyển cơ thể và thay đổi </i><i><span style=\"color:red\">hình dạng </span> </i><i>cho đến khi trông giống như một chiếc xe tải nhỏ màu vàng. Sau đó, anh lái xe đi. Mọi người đã xem màn trình diễn của anh ấy đều nói rằng nó thật tuyệt vời.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "amazing",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0867ca27-1621-4b44-953f-7f14cc8d0273"
+          }
+        },
+        {
+          "dapAn": "trick",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "4d400072-fac9-46a7-a010-b46f623c479f"
+          }
+        },
+        {
+          "dapAn": "costume",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a9aa0907-389a-455b-8f1b-bc75e57e303f"
+          }
+        },
+        {
+          "dapAn": "shape",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6dbda4c5-c043-414b-9f9d-74a0d37f17ca"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c735fe30-35f4-4955-a929-bedbe23716c0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Because my sister and I are <b>(1) </b>________, people think we have the <b>(2) </b>________ personality, but we are very different. My sister, Danni, is more of a Type A personality. I'm more of a Type B. Danni isn't as <b>(3) </b>________ as I am. She gets mad about small things, but I don't. In general, Type A people aren't as easygoing as Type B people. Of course, Type B people aren't always <b>(4) </b>________.",
+      "yNghia": "Because my sister and I are <b>(1) <span style=\"color:red\">twins</span> </b>, people think we have the <b>(2) <span style=\"color:red\">same</span> </b> personality, but we are very different. My sister, Danni, is more of a Type A personality. I'm more of a Type B. Danni isn't as <b>(3) <span style=\"color:red\">patient</span> </b> as I am. She gets mad about small things, but I don't. In general, Type A people aren't as easygoing as Type B people. Of course, Type B people aren't always <b>(4) <span style=\"color:red\">relaxed</span> </b>.<br />\r\n<i>Vì chị gái và tôi là <span style=\"color:red\">chị em sinh đôi </span> nên mọi người nghĩ chúng tôi có tính cách <span style=\"color:red\">giống nhau</span> , nhưng chúng tôi rất khác nhau. Em gái tôi, Danni, có tính cách Loại A hơn. Tôi thuộc loại B hơn. Danni không <span style=\"color:red\">kiên nhẫn </span> như tôi. Em ấy hay phát cáu vì những điều nhỏ nhặt, nhưng tôi thì không. Nói chung, người Loại A không dễ tính như người Loại B. Tất nhiên, người loại B không phải lúc nào cũng <span style=\"color:red\">thoải mái</span> .</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "twins",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d682ab16-835e-4a83-bf83-40feac3fcd8d"
+          }
+        },
+        {
+          "dapAn": "same",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "adca31d5-d9b4-431b-8547-d4eb0b714f27"
+          }
+        },
+        {
+          "dapAn": "patient",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ea805993-21ed-4d73-956b-303c96985f89"
+          }
+        },
+        {
+          "dapAn": "relaxed",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "4fa73df6-79f0-49f7-b3cd-e0fe402eb45f"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7c718384-e3f0-4936-a8a3-4b882c748ac8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "In the past, almost everyone went to the movies. No one had a TV, so it was an <b>(1) </b>________ form of entertainment. Many beautiful movie theaters opened in the 1920s and ‘30s when people of all ages went to see the latest Hollywood movie on the big <b>(2) </b>________. Some of these <b>(3) </b>________, such as the Pathé Tuschinski movie theater in Amsterdam and the Orinda Theater in California, are still open today. However, many of the old <b>(4) </b>________ that used to be movie theaters now have other uses or are closed.",
+      "yNghia": "In the past, almost everyone went to the movies. No one had a TV, so it was an <b>(1) <span style=\"color:red\">exciting</span> </b> form of entertainment. Many beautiful movie theaters opened in the 1920s and ‘30s when people of all ages went to see the latest Hollywood movie on the big <b>(2) <span style=\"color:red\">screen</span> </b>. Some of these <b>(3) <span style=\"color:red\">theaters</span> </b>, such as the Pathé Tuschinski movie theater in Amsterdam and the Orinda Theater in California, are still open today. However, many of the old <b>(4) <span style=\"color:red\">buildings</span> </b> that used to be movie theaters now have other uses or are closed.<br />\n<i>Trước đây hầu như ai cũng đi xem phim. Không ai có ti vi, vì vậy đó là một hình thức giải trí <span style=\"color:red\">thú vị</span> . Nhiều rạp chiếu phim tuyệt đẹp đã mở cửa vào những năm 1920 và 30 khi mọi người ở mọi lứa tuổi đến xem bộ phim Hollywood mới nhất trên <span style=\"color:red\">màn ảnh </span> rộng. Một số<span style=\"color:red\"> rạp chiếu phim </span> này, chẳng hạn như rạp chiếu phim Pathé Tuschinski ở Amsterdam và Nhà hát Orinda ở California, vẫn mở cửa cho đến ngày nay. Tuy nhiên, <span style=\"color:red\">nhiều tòa nhà </span> cũ từng là rạp chiếu phim hiện đã được sử dụng cho mục đích khác hoặc đã đóng cửa.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "exciting",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "b2a0e43f-2b99-4904-b0f4-efe20077e79b"
+          }
+        },
+        {
+          "dapAn": "screen",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e6970a2a-b60a-41bf-90e6-3b116ff97ca5"
+          }
+        },
+        {
+          "dapAn": "theaters",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "3f8eaa3c-8c2b-43a9-af1b-b5bbcb5ab8d1"
+          }
+        },
+        {
+          "dapAn": "buildings",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "5bd2c0d0-1588-4630-8b9e-67c5ebbd0f64"
+          }
+        }
+      ]
+    }
+  ]
+}

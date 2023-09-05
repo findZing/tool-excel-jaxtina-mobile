@@ -1,0 +1,627 @@
+{
+  "dangCauHoi": "P6",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "d3f6ec12-2980-4fe0-a6a2-511b3c821e66"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả mong muốn, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + want/wants + Tân ngữ.</b><br />\nTa có: <b>I </b><i>(Tôi) </i>là chủ ngữ ngôi thứ nhất số ít, nên động từ theo sau được giữ nguyên là <b>want </b><i>(muốn)</i>, tân ngữ là <b>some information about the city tour </b><i>(một số thông tin về chuyến đi quanh thành phố)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">I want some information about the city tour.</span></b> <i>(Tôi muốn biết một số thông tin về chuyến đi quanh thành phố.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4fa8fe39-df86-41f5-bb74-ffc24c80a1ae"
+          },
+          "dapAn": "I want some",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "de1b2c4b-5f17-4d03-b958-1e4ccbac6460"
+          },
+          "dapAn": "information",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d7739f5c-da9b-49a0-91ba-2dcb83c73524"
+          },
+          "dapAn": "about",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "83da1747-b37c-4fe9-bd4e-f4e2b0383dd9"
+          },
+          "dapAn": "the city tour.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6ed5ef71-6ef3-4992-b808-c1aeb03d24af"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đề nghị giúp ai đó, chúng ta sẽ dùng cấu trúc: <b>How can I help you? </b>Câu hoàn chỉnh là <b><span style=\"color:red\">How can I help you? </span></b><i>(Tôi có thể giúp gì cho ông?)</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7157fe4e-c562-4fec-b1b5-999c5bd32586"
+          },
+          "dapAn": "How",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e5c8f823-6d13-463d-8079-240aacc3d2a7"
+          },
+          "dapAn": "can I",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d1a909dd-4da5-497b-91d3-e5b62cfd14cb"
+          },
+          "dapAn": "help you?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b378a3ba-0539-46fc-8a42-24c71b253838"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó đi thăm những địa điểm nào, chúng ta sẽ dùng cấu trúc: <b>What places + do/does +</b> <b>Chủ ngữ + visit?</b><br />\nTa có: <b>You </b><i>(Bạn) </i>là chủ ngữ ngôi thứ hai số ít, nên trợ động từ đi kèm là <b>do</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">What places do you visit? </span></b><i>(Bạn tới thăm những địa điểm nào vậy?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "206b655f-b4d8-44a8-8594-03ce310bbf49"
+          },
+          "dapAn": "What places",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d836d350-244e-4f87-be63-529534ade849"
+          },
+          "dapAn": "do you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "653b3066-d4ea-49c5-b61f-7bb3fcd490b5"
+          },
+          "dapAn": "visit?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "896e52f4-ec6a-4383-96ec-c3b16fdcce3c"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả ai đó đi tới những địa điểm nào, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + go to / goes to + địa điểm</b><br />\nTa có: <b>The tour </b><i>(Chuyến đi) </i>là chủ ngữ ngôi thứ ba số ít, nên động từ đi kèm là <b>go </b><i>(tới) </i>được chia là <b>goes</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">The tour goes to museums. </span></b><i>(Chuyến đi tới các bảo tàng.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6c380cce-e909-40a9-9174-68ca820a6f7a"
+          },
+          "dapAn": "The tour",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "56c12bf1-05db-440e-a5b8-e2d1c124fa04"
+          },
+          "dapAn": "goes to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c36dcdc9-ef0a-4d07-a7ee-129e3ca55403"
+          },
+          "dapAn": "museums.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6e748c76-0594-4fd0-aee9-dcf19e8bedc3"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi cái gì bắt đầu từ địa điểm nào, chúng ta sẽ dùng cấu trúc: <b>Where + do/does +</b> <b>Chủ ngữ + start?</b><br />\nTa có: <b>The tour </b><i>(Chuyến đi) </i>là chủ ngữ số ít, nên trợ động từ đi kèm là <b>does</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">Where does the tour start? </span></b><i>(Chuyến đi bắt đầu ở đâu?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3a1ee9cc-c49e-49af-8c9e-f8418403f8b2"
+          },
+          "dapAn": "Where does",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c296ff64-9b6a-4976-a6e7-29867a76599c"
+          },
+          "dapAn": "the tour",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2deb5bf7-d9f2-4be6-a9dc-c00bcedddab3"
+          },
+          "dapAn": "start?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4134ce83-2ee8-4f55-9ecb-ac707a8f7975"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả cái gì đó bắt đầu từ đâu, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + start/starts + địa điểm. </b><br />\nTa có: <b>It </b><i>(Nó) </i>là chủ ngữ ngôi thứ ba số ít, nên động từ <b>start </b><i>(bắt đầu) </i>được chia là <b>starts</b>, địa điểm là <b>outside our office </b><i>(ở bên ngoài văn phòng của chúng tôi)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">It starts outside our office.</span> </b><i>(Nó bắt đầu ở bên ngoài văn phòng của chúng tôi.)</i>.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "43d4de3b-07d2-4dfa-b00d-1024cf5b9e02"
+          },
+          "dapAn": "It starts",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9abdb4b7-598a-4051-a819-7439aad1e181"
+          },
+          "dapAn": "outside",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cab12047-2d96-4234-ba0a-0811234d9db6"
+          },
+          "dapAn": "our office.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a16e68dc-3f5d-4b95-81b8-bc3f3fe14995"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả cái gì đó kết thúc từ đâu, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + finish/finishes + địa điểm.</b><br />\nTa có: <b>The tour </b><i>(Chuyến đi) </i>là chủ ngữ số ít, nên động từ <b>finish </b><i>(bắt đầu) </i>được chia là <b>finishes</b>, địa điểm là <b>there </b><i>(ở đó)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">The tour also finishes there. </span></b><i>(Chuyến đi cũng kết thúc ở đó.)</i>.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e10816be-7ead-4405-b701-568985375705"
+          },
+          "dapAn": "The tour also",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e782131e-0d69-45ef-a139-32be4b0fdcc4"
+          },
+          "dapAn": "finishes",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d3bbbd0b-1141-45ec-8216-545c6d9379a8"
+          },
+          "dapAn": "there.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ee3efe54-732f-4455-9eab-db2edb18b5d3"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi thời gian cái gì đó bắt đầu, chúng ta sẽ dùng cấu trúc: <b>When + do/does +</b> <b>Chủ ngữ + start? </b><br />\nTa có: <b>The tour </b><i>(Chuyến đi) </i>là chủ ngữ số ít, nên trợ động từ đi kèm là <b>does</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">When does the tour start? </span></b><i>(Khi nào chuyến đi bắt đầu?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c6a2af97-f859-4480-9f89-ad32c1a2c23a"
+          },
+          "dapAn": "When does",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "64f9f21a-81c0-4b31-8df9-5da13beb4bbf"
+          },
+          "dapAn": "the tour",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1127050b-1cbd-4a2b-8695-0570bd92c71d"
+          },
+          "dapAn": "start?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1eb7375a-339c-4697-a45e-eb7b2ee170eb"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả thời gian cái gì đó bắt đầu, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + start/starts + thời gian. </b><br />\nTa có: <b>The tour </b><i>(Chuyến đi) </i>là chủ ngữ số ít, nên động từ <b>start </b><i>(bắt đầu) </i>được chia là <b>starts</b>, thời gian là <b>10:00 a.m. </b><i>(10 giờ sáng)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">The tour starts at 10:00 a.m. </span></b><i>(Chuyến đi bắt đầu lúc 10 giờ sáng.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "facecf71-f5d2-45ce-a3ab-4882db566ffd"
+          },
+          "dapAn": "The tour",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e4d6be39-e903-4014-b2f5-152beac491f4"
+          },
+          "dapAn": "starts at",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9a37f34d-19e3-4b80-a405-a702cdebcb7c"
+          },
+          "dapAn": "10:00 a.m.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d33f6b70-1090-4385-b9b2-a5680d3f6a71"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả bản thân sẽ làm gì đó, chúng ta sẽ dùng cấu trúc: <b>I'll + Động từ.</b><br />\nTa có: <b>get up </b><i>(thức dậy) </i>là động từ.<b> </b>Câu hoàn chỉnh là <b><span style=\"color:red\">I'll get up early. </span></b><i>(Tôi sẽ dậy sớm.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7490740b-545c-4038-bef9-eecf0f447904"
+          },
+          "dapAn": "I'll",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4c74d2bb-2228-4c0d-a1bb-a3f3c724299a"
+          },
+          "dapAn": "get up",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0d75e76e-fbf4-4602-9b06-2e3083b315ed"
+          },
+          "dapAn": "early.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "cebbbb11-e019-4297-857f-9ca72fdf64ee"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả bản thân sẽ làm gì đó, chúng ta sẽ dùng cấu trúc: <b>I'll + Động từ.</b><br />\nTa có: <b>go for a walk </b><i>(đi bộ) </i>là động từ.<b> </b>Câu hoàn chỉnh là <b><span style=\"color:red\">I'll go for a walk first.</span></b> <i>(Tôi sẽ đi bộ trước đó.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "79018a49-b150-49c2-ad11-0fd92ddfb473"
+          },
+          "dapAn": "I'll go",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e51a4040-1d37-4707-a3e8-c7d2158b3a26"
+          },
+          "dapAn": "for a walk",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cfd44ea2-bff2-444d-a2d0-aca342ff0e7d"
+          },
+          "dapAn": "first.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0e90ca74-0e7b-4822-a4d9-7b3c6ba69dfd"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó có câu hỏi nào khác không, chúng ta sẽ dùng cấu trúc: <b>Do/Does + Chủ ngữ + have any other questions?</b><br />\nTa có: <b>You </b><i>(Bạn) </i>là chủ ngữ ngôi thứ hai số ít, nên trợ động từ đi kèm là <b>do</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">Do you have any other questions?</span></b> <i>(Ông có câu hỏi nào khác không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "81f6e032-28e7-4ebf-9ddc-53d728dc2673"
+          },
+          "dapAn": "Do you have",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c717eb2e-e2ba-4f22-b5ca-eb86b30903e4"
+          },
+          "dapAn": "any other",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c5d8cb23-6f3d-4066-b023-b977b8b2fb65"
+          },
+          "dapAn": "questions?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7e1fd63d-e1f9-4759-8a95-d4598a112063"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi mua gì đó ở đâu, chúng ta sẽ dùng cấu trúc: <b>Where + do/does +</b> <b>Chủ ngữ + buy + Tân ngữ?</b><br />\nTa có: <b>I </b><i>(Tôi) </i>là chủ ngữ ngôi thứ nhất số ít, nên trợ động từ đi kèm là <b>do</b>, tân ngữ là <b>tickets </b><i>(những cái vé)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">Where do I buy tickets? </span></b><i>(Tôi cần mua vé ở đâu?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9f4e8bb6-e008-4b08-af15-d56cb55b0ba0"
+          },
+          "dapAn": "Where",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8f637aa5-5f87-4bba-8bfd-ed3ad7fa57da"
+          },
+          "dapAn": "do I buy",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "513af633-f106-40dc-bc58-d6fff6784e7e"
+          },
+          "dapAn": "tickets?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1f944881-eb4d-4803-a8e2-5f5ee88e2f41"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả ai đó có thể mua gì ở đâu, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + can buy + Tân ngữ + Địa điểm.</b><br />\r\nTa có: <b>You </b><i>(Bạn) </i>là chủ ngữ ngôi thứ hai số ít, tân ngữ là <b>them </b><i>(chúng)</i>, địa điểm là <b>from me </b><i>(từ tôi)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">You can buy them from me.</span></b> <i>(<span style=\"color:black\">Ông có thể mua chúng từ tôi.).</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5eefd36b-0991-40f2-9ff0-27a439282bfd"
+          },
+          "dapAn": "You can",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "aa6633fd-6ddf-4200-9cc0-81f7a3f811f5"
+          },
+          "dapAn": "buy them",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a3890d4b-3bf1-4592-bd77-debbb818ff5c"
+          },
+          "dapAn": "from me.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8d88fbcf-ce69-499d-903f-98d44d6fb8e2"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả ai đó không mang theo cái gì, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + don't/doesn't + bring any + Tân ngữ</b><br />\nTa có: <b>I </b><i>(Tôi) </i>là chủ ngữ ngôi thứ nhất số ít, nên trợ động từ đi kèm là <b>do</b>, tân ngữ là <b>cash </b><i>(tiền mặt)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">I don't bring any cash. </span></b><i>(Tôi không mang theo tiền mặt rồi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ebb2a85c-71d4-4799-820c-2e0469da898f"
+          },
+          "dapAn": "I",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ea850fe3-9eef-4dda-ac43-de937daef1a6"
+          },
+          "dapAn": "don't bring",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bafe2e87-7b53-4fc8-938d-5169ace29e78"
+          },
+          "dapAn": "any cash.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "049108ee-39d2-40f8-9d64-2fad033ae226"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi xin chỉ dẫn tới một địa điểm, chúng ta sẽ dùng cấu trúc: <b>Where + Động từ to be +</b> <b>Chủ ngữ (địa điểm)?</b><br />\nTa có: <b>ATM </b><i>(máy ATM) </i>là chủ ngữ ngôi thứ ba số ít, nên động từ <i>to be </i>đi kèm là <b>is</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">Where is the nearest ATM?</span></b> <i>(Máy ATM gần nhất ở đâu vậy?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1f1002f0-5ff6-489d-b4b4-54cebf54386d"
+          },
+          "dapAn": "Where is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5ff087e1-c622-4dd9-93b0-6bd4c6bbcf7d"
+          },
+          "dapAn": "the nearest",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a5df8f0c-893c-497e-84a7-8106acac1d63"
+          },
+          "dapAn": "ATM?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f70c348e-d2c3-4637-a6a4-3e57f537e6f0"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Câu hoàn chỉnh là <b><span style=\"color:red\">There is one, just 200 meters from here.</span></b> <i>(Có một cái cách đây chỉ 200 mét.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6addfe85-9020-4e85-b3b5-aa13736aaefc"
+          },
+          "dapAn": "There is one,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5e8e6fdc-b5df-4ef0-b666-37c44d1bb73e"
+          },
+          "dapAn": "just 200",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c4fa33d9-be6b-4864-8082-ba1c0f964ff6"
+          },
+          "dapAn": "meters",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c1c683d9-14e7-49ef-83d4-06bee7bdb05f"
+          },
+          "dapAn": "from here.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "873162b9-a30d-40ee-8a8e-67004bd1524d"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi giá của cái gì đó, chúng ta sẽ dùng cấu trúc: <b>How much + do/does +</b> <b>Chủ ngữ + cost?</b><br />\nTa có: <b>The tickets </b><i>(Những cái vé) </i>là chủ ngữ số nhiều, nên trợ động từ đi kèm là <b>do</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">How much do the tickets cost?</span></b> <i>(Vé bao nhiêu tiền nhỉ?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "98d2f0fc-3c98-43de-a539-ddc151fab1c0"
+          },
+          "dapAn": "How much",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d17d0c5c-5cff-4036-9996-c0c37b1ae25f"
+          },
+          "dapAn": "do",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d250b3d1-0409-46ad-9260-b5eced759da0"
+          },
+          "dapAn": "the tickets",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ed671d22-fa6c-4235-91d5-5f19d855492d"
+          },
+          "dapAn": "cost?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "adc464e9-b4ff-4f44-b12b-6e91818dd8f9"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả giá của cái gì đó, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + cost/costs + Giá tiền?</b><br />\nTa có: <b>The tickets </b><i>(Những cái vé) </i>là chủ ngữ số nhiều, nên động từ <b>cost </b><i>(có giá) </i>được giữ nguyên là <b>cost</b>, giá tiền là <b>$15</b><i> (15 đô-la)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">The tickets for adults cost $15.</span></b> <i>(Vé có giá 15 đô-la cho người lớn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "26581b10-893f-4fab-996b-9a7dda7f2dba"
+          },
+          "dapAn": "The tickets",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a8fdec09-ce6c-4325-a37b-d3a0c6fa1cea"
+          },
+          "dapAn": "for adults",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1d9b771c-6dd3-41ba-b287-4655c8a08104"
+          },
+          "dapAn": "cost $15.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "50e55d3b-4728-4c04-84a0-1d507437ea6b"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả mong muốn, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + want/wants + Tân ngữ</b><br />\nTa có: <b>I </b><i>(Tôi) </i>là chủ ngữ ngôi thứ nhất số ít, nên động từ theo sau được giữ nguyên là <b>want </b><i>(muốn)</i>, tân ngữ là <b>two tickets </b><i>(hai vé)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">I want two tickets, please. </span></b><i>(Tôi muốn hai vé, làm ơn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "865de610-63f8-48f6-9678-22d64a31760b"
+          },
+          "dapAn": "I want ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "144347ae-8805-4a8e-b040-9959854f1a4f"
+          },
+          "dapAn": "two tickets,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "21fb4dd2-6ed7-44a3-92a8-8a4340c28d62"
+          },
+          "dapAn": "please.",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

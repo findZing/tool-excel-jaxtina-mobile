@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "4cbd2b88-5354-42af-af3b-d78f5362ebd6"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "7d7f5788-c30a-4f8a-952a-b7344126be9c"
+          },
+          "cauHoi": "Does Pedro like watching TV?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "94aed8d3-f022-40ef-82ad-5a0d72c57b69"
+              },
+              "dapAn": "A. Not really.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "d57ed528-6aca-40bb-b09a-b37068ff8785"
+              },
+              "dapAn": "B. Yes, he does.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5787af38-5470-49e7-a91f-eda54b214baa"
+              },
+              "dapAn": "C. Yes, he is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "90bb8a82-7b82-4603-b192-e39fb8a41520"
+              },
+              "dapAn": "D. No, he isn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "57925126-f324-4c52-91b3-a9a3915662ab"
+          },
+          "cauHoi": "Which device does Juan prefer to watch things on?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ca5b911c-1b84-4452-aef0-a7e430ee8107"
+              },
+              "dapAn": "A. his computer",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a6756396-5f19-4c1a-9fc4-d04b2f58d16f"
+              },
+              "dapAn": "B. his smartphone",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cc649193-9b6f-412e-8a4f-6c3b3bac790d"
+              },
+              "dapAn": "C. his tablet",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "ed4d7468-fc3a-4d22-ad2f-db6d570131fc"
+              },
+              "dapAn": "D. his laptop",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "48270b00-ec4b-43ff-9d63-a5ab90435c26"
+          },
+          "cauHoi": "What does Juan think about the commercials?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "abc2e1fb-04f9-4390-af63-cb7c4fdbc794"
+              },
+              "dapAn": "A. annoying",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f7bd5abd-36ec-4239-aa6f-7e86f17b089c"
+              },
+              "dapAn": "B. interesting",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "44ff1d6e-1d66-4ab1-b508-198c998aadaa"
+              },
+              "dapAn": "C. boring",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "715dfb95-c4e3-41d8-8918-83672c497f5f"
+              },
+              "dapAn": "D. fun",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ee702cec-d31d-4db9-bc8b-422969bf8e14"
+          },
+          "cauHoi": "Who’s impatient? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a0ccbd23-9184-430b-a6c5-ab976e4bd641"
+              },
+              "dapAn": "A. Pedro",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6d71d4d3-41fb-4cf0-8200-92bd4b8346fd"
+              },
+              "dapAn": "B. Juan",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9f8d2b2b-7892-4019-9142-4001609a0e45"
+              },
+              "dapAn": "C. No one",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b8712e90-5850-499e-b148-0e68f2632f73"
+              },
+              "dapAn": "D. Both Pedro & Juan",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Pedro:</b></td> \n                        <td>Do you like watching TV?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Juan:</b></td> \n                        <td>Not so much. I prefer to stream things over Wi-Fi and watch them on my tablet.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Pedro:</b></td> \n                        <td>Oh, really? Why is that?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Juan:</b></td> \n                        <td>Well for one, you don't have to watch annoying commercials. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Pedro:</b></td> \n                        <td>I hate those! We are both impatient.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Does Pedro like watching TV?</b> <i>(</i><i>Pedro có thích xem TV không?),</i> <b></b>câu trong bài đọc liên quan là <b>Not so much.</b> <i>(Không thích lắm.).</i> Nên đáp áp là <b><span style=\"color:red\">A. Not really.</span></b> <i>(Anh ấy không thực sự thích.).</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>Which device does Juan prefer to watch things on?</b> <i>(Juan thích xem các thứ trên thiết bị nào hơn?),</i> <b></b>câu trong bài đọc liên quan là <b>I prefer to stream things over Wi-Fi and watch them on my tablet.</b> <i>(</i>Tôi thích xem mọi thứ trên mạng và xem chúng trên máy tính bảng của mình<i>.)</i><i>.</i> Nên đáp áp là <b><span style=\"color:red\">C. his tablet</span> </b><i>(</i><i>trên máy tính bảng của anh ấy).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>What does Juan think about the commercials?</b> <i>(Juan nghĩ gì về những quảng cáo?),</i> <b></b>câu trong bài đọc liên quan là <b>Well</b> <b>for one, you don't have to watch annoying commercials.</b> <i>(</i>Đầu tiên, bạn không cần phải xem những quảng cáo phiền phức<i>.).</i> Nên đáp áp là <b><span style=\"color:red\">A. annoying</span> </b><i>(phiền phức).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>Who's impatient</b><b>?</b> <i>(Ai là người thiếu kiên nhẫn?),</i> <b></b>câu trong bài đọc liên quan là <b>We are both impatient. <i></i></b><i>(Chúng ta đều thiếu kiên nhẫn).</i> Nên đáp áp là <b><span style=\"color:red\">D. Both Pedro & Juan</span> </b><i>(Cả Pedro và Juan).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2fe57845-c0e4-4c35-9c49-3bef7ff30947"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "9c143fbd-bc02-4028-abcb-72b76ee6f619"
+          },
+          "cauHoi": "How many movies that Juan enjoy watching?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c32f7c0d-06ad-4018-948d-64c878214d4e"
+              },
+              "dapAn": "A. a few",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5136a130-1a80-4c73-bb87-cc8116521a5e"
+              },
+              "dapAn": "B. many",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a1070f86-de4c-4edf-8bb4-7a0e94d661b6"
+              },
+              "dapAn": "C. about 10",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0e731e57-2727-4b31-be33-cb9112f4a002"
+              },
+              "dapAn": "D. none",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "70816b2f-c459-4ca3-aa1d-9beb440c9261"
+          },
+          "cauHoi": "How often does Pedro watch TV?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7fbdf569-031d-4267-8f71-1e15f07474a0"
+              },
+              "dapAn": "A. never",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5cc70db2-3494-43a1-959d-e20c44448395"
+              },
+              "dapAn": "B. sometimes",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "1240c921-f26a-4ee3-b341-30f71a7e2935"
+              },
+              "dapAn": "C. seldomly",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "86bbd527-f37a-491a-b283-7b92899e6734"
+              },
+              "dapAn": "D. once a week",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "b89b7d1e-90eb-4cb5-8af6-43b4c77a911a"
+          },
+          "cauHoi": "When does Juan watch TV? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9a909f87-dddf-476e-8cf4-9e6a13365a5b"
+              },
+              "dapAn": "A. in his free time",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e0858b0e-2d27-48ef-8748-ee58d5f1b2a9"
+              },
+              "dapAn": "B. on weekends",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "de070128-81c0-4026-8019-cd38ae8eda98"
+              },
+              "dapAn": "C. at night",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d9b9c83e-e991-48eb-a96f-35da62e5dd9e"
+              },
+              "dapAn": "D. in the evening",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "277b0fc6-55a9-465c-acca-c74e3ae4d17b"
+          },
+          "cauHoi": "How often does Pedro watch all the episode of crime series?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9e166749-3753-45ba-b5fa-eab5b3118021"
+              },
+              "dapAn": "A. always",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1076d694-f839-4c63-95f4-41fe135ce654"
+              },
+              "dapAn": "B. never",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2a5acb74-a1b9-4499-96ed-e6f153cecc6e"
+              },
+              "dapAn": "C. rarely",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "823021dc-ac8a-48ca-83d0-da7e96a62ad0"
+              },
+              "dapAn": "D. sometimes",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Pedro:</b></td> \n                        <td>Ah, I see. Do you like to binge-watch shows?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Juan:</b></td> \n                        <td>Yeah, there are so many interesting movies that I can't take my eyes off. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Pedro:</b></td> \n                        <td>I sometimes watch TV, but I never really watch anything for very long.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Juan:</b></td> \n                        <td>I just do it when I have a lot of spare time. Would you be a fan of crime series?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Pedro:</b></td> \n                        <td>Nope. I seldomly watch all the episodes.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>How many movies that Juan enjoy</b> <b></b><b>watching?</b> <i>(Có bao nhiêu bộ phim mà Juan thích xem?),</i> <b></b>câu trong bài đọc liên quan là <b>there are so many interesting movies that I can't take my eyes off.</b> <i></i><i>(</i>có rất nhiều bộ phim thú vị mà tôi không thể rời mắt<i>.).</i> Nên đáp áp là <b><span style=\"color:red\">B. many</span></b> <i>(nhiều).</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>How often does Pedro watch TV?</b> <i>(Pedro xem Ti vi bao lâu một lần?),</i> <b></b>câu trong bài đọc liên quan là <b>I sometimes watch</b> <b>TV</b> <i>(Tôi thích xem mọi thứ bằng Wi-Fi và xem chúng trên máy tính bảng của mình.).</i> Nên đáp áp là <b><span style=\"color:red\">B. sometimes</span> </b><i>(thỉnh thoảng).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>When does Juan watch TV?</b> <i>(Khi nào Juan xem ti vi?),</i> <b></b>câu trong bài đọc liên quan là <b>I just do it when I have a lot of spare time.</b>  <b></b><i>(</i>Tôi chỉ làm điều đó khi tôi có nhiều thời gian rảnh rỗi<i>.).</i> Nên đáp áp là <b><span style=\"color:red\">A. in his free time</span> </b><i>(trong thời gian rảnh rỗi của anh ấy).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>How often does Pedro watch all the episode of a crime series?</b> <i>(Pedro có thường xuyên xem tất cả các tập phim của một bộ phim tội phạm không?),</i> <b></b>câu trong bài đọc liên quan là <b>Nope. I seldomly watch all the episodes. <i></i></b><i>(</i>Không. Tôi hiếm khi xem tất cả các tập phim<i>)</i><i>.</i> Nên đáp áp là <b><span style=\"color:red\">C. rarely</span> </b><i>(hiếm khi).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8557e17f-2e47-435f-8d53-b59e0beae31e"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "e353de48-b089-4436-8c56-d3942c5047d9"
+          },
+          "cauHoi": "What kind of genre is Gaga?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "16e4a94a-b18e-42d9-b849-76a9261e34f5"
+              },
+              "dapAn": "A. comedy",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "902f7142-0d3f-4730-a3f3-c0ada4b24d2e"
+              },
+              "dapAn": "B. thriller series",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f0df1651-2bda-44ef-8aef-4dbd9a7e8038"
+              },
+              "dapAn": "C. romantic movies",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6953e20a-b1d4-4002-a46d-695b7e2b9dda"
+              },
+              "dapAn": "D. soap opera",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "5aef17a3-2079-4442-ab06-da9be00d90c5"
+          },
+          "cauHoi": "Where can they watch the film?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d3fc4ddb-60a8-468b-a815-6882908e507b"
+              },
+              "dapAn": "A. social media",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bf2509ea-9a02-4c50-8c03-900b31ba81a9"
+              },
+              "dapAn": "B. cinema",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b8434d65-1a6b-4976-919e-e62f23315ffb"
+              },
+              "dapAn": "C. TV",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "17280fe0-2c9a-4a2f-8b46-c53c9d895f21"
+              },
+              "dapAn": "D. Netflix",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "fffae64e-e5cf-44a5-97cc-7954ad482912"
+          },
+          "cauHoi": "How does the psychologist in the movie portray herself to everyone?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3f868505-655d-40c8-969a-fd219efc1c4d"
+              },
+              "dapAn": "A. easygoing",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "388f667a-014c-43af-a6e3-f502dd9a4d4d"
+              },
+              "dapAn": "B. intimidating",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cc71017c-d45a-4c86-b536-872082d3e3db"
+              },
+              "dapAn": "C. pessimistic",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b2a1d627-fc17-45a9-9840-0d0fe79c5918"
+              },
+              "dapAn": "D. dumb",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f66a88f0-7897-4fef-b383-ae9798c8e3f4"
+          },
+          "cauHoi": "How long has she been depressed? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "db1d3cfe-9bee-435f-a907-c3ce9d4d981a"
+              },
+              "dapAn": "A. for a week",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "84379efe-10c7-489b-b5a6-a8c555fecfe3"
+              },
+              "dapAn": "B. for a year",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f6a55c55-ce26-4fb3-90e4-a2d1479d6e8d"
+              },
+              "dapAn": "C. for a long time",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "04f729da-c621-487c-a20e-dc98f28ada2b"
+              },
+              "dapAn": "D. for a short period",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ann:</b></td> \n                        <td>Hey, Kate, Did you watch Gaga?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kate:</b></td> \n                        <td>Gaga? What's that? It sounds like a comedy.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ann:</b></td> \n                        <td>It's a thriller TV series. You can watch it via a streaming service like Netflix. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Kate:</b></td> \n                        <td>It sounds so cool. What is the film about?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ann:</b></td> \n                        <td>There's a psychologist who always appears easygoing and optimistic so nobody knows she has actually been depressed for a long time. </td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What kind of genre is Gaga?</b> <i>(Gaga là thể loại phim gì?),</i> <b></b>câu trong bài đọc liên quan là <b>It's a thriller TV series.</b> <i>(Đó là loạt phim truyền hình kinh dị.).</i> Nên đáp áp là <b><span style=\"color:red\">B. thriller series</span></b> <i>(loạt phim kinh dị).</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>Where can they watch the film?</b> <i>(Họ có thể xem bộ phim ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>You can watch it via a streaming service like Netflix.</b> <i>(Bạn có thể xem nó qua một dịch vụ phát trực tuyến như Netflix.).</i> Nên đáp áp là <b><span style=\"color:red\">D. Netflix</span> </b><i>(Netflix).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>How does the psychologist in the movie portray herself to everyone?</b> <i>(Nhà tâm lý học ở trong phim thể hiện là một người như thế nào với mọi người?),</i> <b></b>câu trong bài đọc liên quan là <b>There's a psychologist who always appears easygoing and optimistic</b>. <i>(Có một nhà tâm lý học luôn tỏ ra dễ tính và lạc quan.).</i> Nên đáp áp là <b><span style=\"color:red\">A. easygoing</span> </b><i>(dễ tính).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>How long has she been depressed?</b> <i>(Cô ấy bị trầm cảm bao lâu rồi?),</i> <b></b>câu trong bài đọc liên quan là <b>so nobody knows she has actually been depressed for a long time <i></i></b><i>(nên không ai biết thực ra cô ấy đã bị trầm cảm từ lâu).</i> Nên đáp áp là <b><span style=\"color:red\">C. for a long time</span></b> <i>(từ lâu).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "eaef2bfb-ef70-4e93-b20e-62ab4c60093c"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "6acdff97-6a12-4d84-9e65-84e2d68943ba"
+          },
+          "cauHoi": "What types of people do we need?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "13193c6c-f1db-41d0-b22d-7a46c97fb425"
+              },
+              "dapAn": "A. optimists",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3a807ef1-1369-41f6-bffe-0ef5dd2a7cd4"
+              },
+              "dapAn": "B. pessimists",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d296b87b-3eb6-46fd-957c-75f95ffdb2a6"
+              },
+              "dapAn": "C. outgoing & reserved",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c3be80ec-9570-45a5-a75c-04ca22d65bd3"
+              },
+              "dapAn": "D. all types",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "3f60c874-893d-4432-8806-c3177ac3dfb6"
+          },
+          "cauHoi": "Who invents the plane?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7df42915-b569-42ae-b72c-75476798626d"
+              },
+              "dapAn": "A. smart people",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a29a628b-700a-4dc5-8e45-86bee2df6668"
+              },
+              "dapAn": "B. optimistic people",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a20ce9dc-d30e-4359-8f74-1df1f3143233"
+              },
+              "dapAn": "C. pessimist",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4f1c4538-22b6-488b-9246-f06ff6c2d405"
+              },
+              "dapAn": "D. scientists",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ca3c788d-ccde-4a7e-9d72-b240da94c5e4"
+          },
+          "cauHoi": "What do pessimistic people invent? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7abc7854-d677-480c-ba24-69240cac08a5"
+              },
+              "dapAn": "A. train",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0425a394-442c-4667-ba3e-54d9521ec02c"
+              },
+              "dapAn": "B. airplane",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "18f15c4a-9824-4a7c-a961-2494ca47af42"
+              },
+              "dapAn": "C. parachute",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "72eac03b-e9bf-4743-9c41-0a9b98725c07"
+              },
+              "dapAn": "D. spacecraft",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "150914aa-5c02-41c4-bd5f-f3a3f39d1dad"
+          },
+          "cauHoi": "Which one is more important? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c187a31b-832b-4450-9c0f-87e9a7876f8a"
+              },
+              "dapAn": "A. character",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e53636b8-8715-4d47-b10e-6ad71ab47e52"
+              },
+              "dapAn": "B. appearance",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "09513795-1fed-4c4c-b962-ff9e79d562b0"
+              },
+              "dapAn": "C. money",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a048ba69-34aa-4901-a0ed-a7f9ee2678a2"
+              },
+              "dapAn": "D. personality",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "There are many different types of people in the world. Each type of person has their own strengths and weaknesses and we need all types of people. Optimists invent the plane and pessimists the parachute. Personality matters, but it does not matter that much. Character matters more.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What types of people do we need?</b> <i>(Chúng ta cần những kiểu người nào?),</i> <b></b>câu trong bài đọc liên quan là <b>we need all types of people.</b> <i>(Chúng ta cần tất cả các kiểu người).</i> Nên đáp áp là <b><span style=\"color:red\">D. all types</span></b> <i>(tất cả các kiểu).</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>Who invents the plane?</b> <i>(Ai phát minh ra máy bay?),</i> <b></b>câu trong bài đọc liên quan là <b>Optimists invent the plane.</b> <i>(Những người lạc quan phát minh ra máy bay).</i> Nên đáp áp là <b><span style=\"color:red\">B. optimistic people</span> </b><i>(Những người lạc quan).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>What do pessimistic people invent?</b> <i>(Những người bi quan phát minh ra gì?),</i> <b></b>câu trong bài đọc liên quan là <b>Optimists invent the plane and pessimists the parachute. </b> <i>(Những người lạc quan phát minh ra máy bay và những người bi quan phát minh ra chiếc dù.).</i> Nên đáp áp là <b><span style=\"color:red\">C. parachute</span> </b><i>(chiếc dù).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>Which one is more important?</b> <i>(Điều gì quan trọng hơn?),</i> <b></b>câu trong bài đọc liên quan là <b>Personality matters, but it does not matter that much. Character matters more. <i></i></b><i>(Tính cách quan trọng, nhưng nó không quan trọng đến thế. Nhân cách quan trọng hơn.).</i> Nên đáp áp là <b><span style=\"color:red\">A. character</span></b> <i>(nhân cách).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "18d545a8-dcb7-4d82-b448-0b855ef6e819"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "5bd7acd1-7a24-4d24-bfa7-c0fdc6392f98"
+          },
+          "cauHoi": "How many types of people are mentioned in the reading text?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "14f38951-63b8-4494-aac3-7f45b4f3b9d2"
+              },
+              "dapAn": "A. 2",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7a5f8fa4-582d-40fe-acce-0a1ffe4632c6"
+              },
+              "dapAn": "B. 4",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "9e7292a2-c0d4-4bb7-a01d-160eea8fedcc"
+              },
+              "dapAn": "C. 5",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cdbbc51b-57c9-4ebb-96b5-eebe34e7a464"
+              },
+              "dapAn": "D. 1",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "d942339c-1bb1-4f55-8db8-bf0d67f52197"
+          },
+          "cauHoi": "Does being honest matter?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "5fa9bc50-674e-4ed5-8e93-ddd5c2cb83d4"
+              },
+              "dapAn": "A. Yes, it does.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "126b61cd-7db7-44fa-a200-f326f609911c"
+              },
+              "dapAn": "B. No, it does not.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "57571cb7-7dc7-4c0e-9576-bfa9e594fde8"
+              },
+              "dapAn": "C. It depends.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "574553b2-87e1-4729-aa70-0aedb80367ee"
+              },
+              "dapAn": "D. Sometimes it does.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "7be6e2ae-cde4-4e95-8bab-161eb08a6181"
+          },
+          "cauHoi": "What should we not do? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a92ad9e0-9f2a-45ae-8ef5-1b41887e70d4"
+              },
+              "dapAn": "A. gossiping",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "c245e4d1-86d8-44d8-a5a7-9468741e6b2d"
+              },
+              "dapAn": "B. keeping promise",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c1e20543-4e53-4325-b0d6-0110bbc7b9ac"
+              },
+              "dapAn": "C. persevering",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a2fd16b5-47bb-4c0a-b40c-051d873fa552"
+              },
+              "dapAn": "D. being patient",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "08d80895-ff8a-4ef4-8d36-b6b884ffa1fd"
+          },
+          "cauHoi": "What should we do with the things that truly matter in life? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a989fdf5-ca66-4d70-b442-5ecf0f00af4b"
+              },
+              "dapAn": "A. value",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3be95482-7287-49e2-8cf7-f89d9fe1c215"
+              },
+              "dapAn": "B. ignore",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "97243826-e71e-4c47-a125-04747b424201"
+              },
+              "dapAn": "C. remember",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4233b1a1-61a5-4d17-a13a-54811f518a44"
+              },
+              "dapAn": "D. show off",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Some are outgoing, others are reserved. Some like to take risks, others prefer to avoid danger. Characteristics such as honesty, integrity, and patience matter. Keep your promises. Avoid gossiping about others. Try to stay focused on whatever you do. Practice perseverance. Learn to value the real important things in life.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>How many types of people are mentioned in the reading text?</b> <i>(Có bao nhiêu kiểu người được nhắc tới trong đoạn văn?),</i> <b></b>câu trong bài đọc liên quan là <b>Some are outgoing, others are reserved. Some like to take risks, others prefer to avoid danger. <i></i></b><i>(Một số thì dễ gần, một số khác thì dè dặt. Một số thích mạo hiểm, một số khác luôn tránh hiểm nguy.).</i> Nên đáp áp là <b><span style=\"color:red\">B. 4</span></b> <i>(4 loại).</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>Does being honest matter?</b><i>(Thật thà có quan trọng không?),</i> <b></b>câu trong bài đọc liên quan là <b>Characteristics such as honesty, integrity, and patience matter.</b> <i>(Các tính cách như trung thực, liêm chính và kiên nhẫn là quan trọng.).</i> Nên đáp áp là <b><span style=\"color:red\">A. Yes, it does.</span> </b><i>(Có).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>What should we not do?</b> <i>(Chúng ta không nên làm gì?),</i> <b></b>câu trong bài đọc liên quan là <b>Avoid gossiping about others. </b> <i>(Tránh ngồi lê đôi mách về người khác.)</i> Nên đáp áp là <b><span style=\"color:red\">A. gossiping</span> </b><i>(ngồi lê đôi mách).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>What should we do with the things that truly matter in life?</b> <i>(Chúng ta nên làm gì với những thứ thật sự quan trọng trong cuộc sống?),</i> <b></b>câu trong bài đọc liên quan là <b>Learn to value the real important things in life.</b> <i>(Học cách coi trọng những điều thực sự quan trọng trong cuộc sống.)</i> Nên đáp áp là <b><span style=\"color:red\">A. value</span></b> <i>(coi trọng).</i>",
+      "danhSachDapAn": []
+    }
+  ]
+}

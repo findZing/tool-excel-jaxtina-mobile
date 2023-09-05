@@ -1,0 +1,626 @@
+{
+  "dangCauHoi": "P5",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "74c97f6a-6fe2-4660-ad70-874feb147c4b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She always goes to bed ___ 10 p.m.",
+      "yNghia": "<b>She always goes to bed </b><b><span style=\"color:red\">at</span></b><b> 10 p.m.</b><br />\r\n<i>Cô ấy luôn đi ngủ </i><i><span style=\"color:red\">lúc</span></i><i> 10 giờ tối.</i><br />\r\n<b>at</b> là đáp án đúng vì <b>at</b> đứng trước số giờ đồng hồ.<br />\r\n<b>in</b> và <b>on</b> là đáp án sai vì ngữ pháp không chính xác.<br />\r\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "15a016a8-9147-4eb3-b307-4a1e770ba644"
+          },
+          "dapAn": "A. in",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "036d954a-5b0b-4e2e-ae02-50471d2e8b14"
+          },
+          "dapAn": "B. on",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f2274cf2-d3a0-4283-8a61-076e26c8620a"
+          },
+          "dapAn": "C. at",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "31826450-05f8-4734-a7fc-6e16cf7a7da8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We usually have lunch ___ 12 o’clock.",
+      "yNghia": "<b>We usually have lunch </b><b><span style=\"color:red\">at</span></b><b> 12 o'clock.</b><br />\n<i>Chúng tôi thường ăn trưa </i><i><span style=\"color:red\">vào lúc </span></i><i>12 giờ.</i><br />\n<b>at</b> là đáp án đúng vì <b>at</b> đứng trước số giờ đồng hồ.<br />\n<b>in</b> và <b>on</b> là đáp án sai vì ngữ pháp không chính xác.\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ea5f2e5f-b1a2-4a9c-a490-5a2a6437fb96"
+          },
+          "dapAn": "A. in",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0262bc24-7288-4d08-a978-e096daedd930"
+          },
+          "dapAn": "B. on",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b9eaf933-36db-41c8-ad6b-5aae3fa9c7d2"
+          },
+          "dapAn": "C. at",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "afd09e0b-a0e5-41a7-ae70-7a47766ad999"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I always have a family gathering ___ March 8rd.",
+      "yNghia": "<b>I always have a family gathering </b><b><span style=\"color:red\">on</span></b><b> March 8rd.</b><br />\n<i>Tôi luôn có buổi gặp gỡ gia đình </i><i><span style=\"color:red\">vào</span></i><i> ngày 8 tháng 3.</i><br />\n<b>on</b> là đáp án đúng vì <b>on</b> đứng trước ngày trong lịch.<br />\n<b>in</b> và <b>at</b> là đáp án sai vì ngữ pháp không chính xác.\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8fc3978f-d1a8-469c-a6f8-3ee3c39500be"
+          },
+          "dapAn": "A. in",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "675577ab-7be5-4db3-a7f4-353f81e78afb"
+          },
+          "dapAn": "B. on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "664e6c1f-a270-4755-85d3-a8ccea6946cd"
+          },
+          "dapAn": "C. at",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "cfc0dd52-38d2-460d-af19-cb84626e8531"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They always go on vacation ___ the summer.",
+      "yNghia": "<b>They always go on vacation </b><b><span style=\"color:red\">in</span></b><b> the summer.</b><br />\n<i>Họ luôn đi nghỉ </i><i><span style=\"color:red\">vào</span></i><i> mùa hè.</i><br />\n<b>in</b> là đáp án đúng vì <b>in</b> đứng trước thời điểm trong ngày.<br />\n<b>on</b> và <b>at</b> là đáp án sai vì ngữ pháp không chính xác.\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b3607f12-21b5-4b60-906c-3e8050626974"
+          },
+          "dapAn": "A. in",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "74d99470-1ce3-406a-aa92-e409346f3446"
+          },
+          "dapAn": "B. on",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2554d6b4-476b-415b-b92b-5e75c533b5be"
+          },
+          "dapAn": "C. at",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2f0c0858-5004-459a-ab8d-2700530af62d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We have an important meeting ___ Friday.",
+      "yNghia": "<b>We have an important meeting </b><b><span style=\"color:red\">on</span></b><b> Friday.</b><br />\n<i>Chúng tôi có cuộc họp quan trọng </i><i><span style=\"color:red\">vào </span></i><i>thứ Sáu.</i><br />\n<b>on</b> là đáp án đúng vì <b>on</b> đứng trước ngày trong tuần.<br />\n<b>in</b> và <b>at</b> là đáp án sai vì ngữ pháp không chính xác.\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "10989b05-597e-4991-9a77-d98af9cd04e1"
+          },
+          "dapAn": "A. in",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0fde5462-d77c-4304-9738-db3f051a2b3b"
+          },
+          "dapAn": "B. on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "730f7bf9-5b8e-4e1f-ba47-f9239a0ff5f6"
+          },
+          "dapAn": "C. at",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c9ef04c9-3a91-4271-b1b8-1a9a0518de09"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I only ___ early on weekdays and on Saturdays.",
+      "yNghia": "<b>I only <span style=\"color:red\"><b>get up</b></span> early on weekdays and on Saturdays.</b><br />\n<i>Tôi chỉ <span style=\"color:red\">dậy sớm</span> vào các ngày trong tuần và các ngày thứ Bảy.</i><br />\n<b>get up</b> là đáp án đúng vì <b>I</b> là chủ ngữ ngôi thứ nhất số ít nên động từ <b>get</b> không chia.<br />\n<b>gets up</b> và <b>getting up</b> là đáp sai vì ngữ pháp không phù hợp.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2f6489be-a841-4a0a-b9a0-79dbfb005b42"
+          },
+          "dapAn": "A. gets up",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a8a99026-3079-49de-98cc-4f85c25541f9"
+          },
+          "dapAn": "B. get up",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "98755126-2409-4436-b0b5-172ac1688943"
+          },
+          "dapAn": "C. getting up",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9b18d97d-c1ba-42c1-a5f6-278ebd7ffdc5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How about ___ Sundays?",
+      "yNghia": "<b>How about <span style=\"color:red\"><b>on</b></span> Sundays?</b><br />\r\n<i>Vậy còn các ngày Chủ nhật thì sao?</i><br />\r\n<b>on</b> là đáp án đúng vì <b>on</b> đi với ngày trong tuần.<br />\r\n<b>in</b> và <b>at </b>là đáp sai vì ngữ pháp không phù hợp.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "33ec046a-5b88-47b5-99c8-8ea9e58441df"
+          },
+          "dapAn": "A. on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cfc61a60-e01f-418b-9ef1-d3ec04885283"
+          },
+          "dapAn": "B. in",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "214cdd35-4edd-4a3a-83bc-1019dc3b26c4"
+          },
+          "dapAn": "C. at",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7bd7bd4f-b2d6-454f-8a47-4e3e404a541f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ___ late on Sundays.",
+      "yNghia": "<b>I <span style=\"color:red\"><b>sleep</b></span> late on Sundays.</b><br />\r\n<i>Tôi <span style=\"color:red\">ngủ</span> muộn vào các ngày Chủ nhật.</i><br />\r\n<b>sleep</b> là đáp án đúng vì<b> I</b> là chủ ngữ ngôi thứ nhất số ít nên động từ <b>sleep</b> không chia.<br />\r\n<b>sleeps</b> và <b>sleeping</b> là đáp sai vì ngữ pháp không phù hợp.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "51edb1ca-9610-4940-bbd7-941c0f501d0a"
+          },
+          "dapAn": "A. sleep",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bcb813ab-a09b-4f65-8b79-73cce5e3b9ea"
+          },
+          "dapAn": "B. sleeps",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6ab1a2db-adac-4304-b44f-8ead72d29881"
+          },
+          "dapAn": "C. sleeping",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e96851fe-73cc-41db-ac38-eceaf7b88349"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We usually have breakfast ___ the morning.",
+      "yNghia": "<b>We usually have breakfast </b><b><span style=\"color:red\">in</span></b><b> the morning.</b><br />\n<i>Chúng tôi thường ăn sáng </i><i><span style=\"color:red\">vào</span></i><i> buổi sáng.</i><br />\n<b>in</b> là đáp án đúng vì <b>in</b> đứng trước thời điểm trong ngày.<br />\n<b>on</b> và <b>at</b> là đáp án sai vì ngữ pháp không chính xác.\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "09f6d837-cc32-45f2-b5d5-e027620d76f4"
+          },
+          "dapAn": "A. in",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5f9939b0-bbc0-4ef2-8ffd-3e3d0bfb2fca"
+          },
+          "dapAn": "B. on",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "93f02299-770d-44b0-b635-a62d1e74d0f4"
+          },
+          "dapAn": "C. at",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5ffc5cb8-3723-4af4-8c46-c5ebdeb7b23d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She always visits her family ___ Christmas.",
+      "yNghia": "<b>She always visits her family </b><b><span style=\"color:red\">at</span></b><b> Christmas.</b><br />\n<i>Cô ấy luôn thăm gia đình </i><i><span style=\"color:red\">vào</span></i><i> ngày Giáng sinh.</i><br />\n<b>at</b> là đáp án đúng vì <b>at</b> đứng trước ngày lễ.<br />\n<b>in</b> và <b>on</b> là đáp án sai vì ngữ pháp không chính xác.\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1f697636-9c22-4ee9-9725-3dd606210751"
+          },
+          "dapAn": "A. in",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "cf357036-cce4-4593-8e5b-4b7e849c1148"
+          },
+          "dapAn": "B. on",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6cbdbc31-b1c9-4747-82d4-91d625ce6adb"
+          },
+          "dapAn": "C. at",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "096c2712-ddf4-4331-9e1b-708874832ec5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I will see you ___ New Year’s Eve.",
+      "yNghia": "<b>I will see you </b><b><span style=\"color:red\">on</span></b><b> New Year's Eve.</b><br />\n<i>Tôi sẽ gặp bạn </i><i><span style=\"color:red\">vào</span></i><i> đêm giao thừa.</i><br />\n<b>on</b> là đáp án đúng vì <b>on</b> đứng trước ngày đặc biệt.<br />\n<b>in</b> và <b>at</b> là đáp án sai vì ngữ pháp không chính xác.\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "47f435a8-e65b-4914-b83b-913b20d8909a"
+          },
+          "dapAn": "A. in",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0cc51d4c-20d3-4653-9a16-ac75b2341ff3"
+          },
+          "dapAn": "B. on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8bf16cc2-f0ab-47db-8de5-59428237b574"
+          },
+          "dapAn": "C. at",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "235a0dea-8055-4650-b33a-bc66f8d8372e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "He usually does his homework ___ the afternoon.",
+      "yNghia": "<b>He usually does his homework </b><b><span style=\"color:red\">in</span></b><b> the afternoon.</b><br />\n<i>Anh ta thường làm bài tập </i><i><span style=\"color:red\">vào </span></i><i>buổi chiều.</i><br />\n<b>in</b> là đáp án đúng vì <b>in</b> đứng trước thời điểm trong ngày.<br />\n<b>on</b> và <b>at</b> là đáp án sai vì ngữ pháp không chính xác.\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a7afd41d-f709-4e0e-91d9-0f7b77e224d4"
+          },
+          "dapAn": "A. in",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "162bd699-8776-48bb-bf2b-a99d3d15e45b"
+          },
+          "dapAn": "B. on",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "cb23efa4-12c1-4646-9eba-d3fa2077eda4"
+          },
+          "dapAn": "C. at",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ab8e592d-544d-4bd4-9fde-1c53ef7f1384"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I see friends on Fridays and ___.",
+      "yNghia": "<b>I see friends on Fridays and <span style=\"color:red\"><b>Saturdays</b></span>.</b><br />\r\n<i>Tôi gặp bạn bè vào các ngày thứ Sáu và <span style=\"color:red\">thứ Bảy</span>.</i><br />\r\n<b>Saturdays</b> là đáp án đúng vì phù hợp về ngữ pháp.<br />\r\n<b>a Saturday</b> và <b>Saturdaies</b> là đáp sai vì ngữ pháp không phù hợp.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2a5abf9b-4c04-44c3-a14e-f13ce92cb3b6"
+          },
+          "dapAn": "A. a Saturday",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "47a03c0a-90ed-43c2-b311-131ba6c9e28b"
+          },
+          "dapAn": "B. Saturdays",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "11f5948c-1214-481f-9b9c-56fd9953a012"
+          },
+          "dapAn": "C. Saturdaies",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "067a43e3-f6c5-473e-88d9-cf9708d4381a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ___ my family on Sundays.",
+      "yNghia": "<b>I <span style=\"color:red\"><b>visit</b></span> my family on Sundays.</b><br />\r\n<i>Tôi <span style=\"color:red\">thăm</span> gia đình vào các ngày Chủ nhật.</i><br />\r\n<b>visit</b> là đáp án đúng vì <b>I</b> là chủ ngữ ngôi thứ nhất số ít nên động từ <b>visit</b> không chia.<br />\r\n<b>visits</b> và <b>visiting</b> là đáp sai vì ngữ pháp không phù hợp.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "94122b17-886f-46a4-96e4-af209cd10a5d"
+          },
+          "dapAn": "A. visit",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1e0121c7-3da0-40d2-aa17-227f7ceed37d"
+          },
+          "dapAn": "B. visits",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e1f3dfb9-5a40-4419-8808-0e232bbcacf3"
+          },
+          "dapAn": "C. visiting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "41a4a1f6-cc71-45fa-acf0-902cac0a32b7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The class starts ___ 9 o'clock every day.",
+      "yNghia": "<b>The class starts </b><b><span style=\"color:red\">at</span></b><b> 9 o'clock every day.</b><br />\n<i>Lớp học bắt đầu </i><i><span style=\"color:red\">lúc </span></i><i>9 giờ hàng ngày.</i><br />\n<b>at</b> là đáp án đúng vì <b>at</b> đứng trước số giờ đồng hồ.<br />\n<b>in</b> và <b>on</b> là đáp án sai vì ngữ pháp không chính xác.\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "18c55580-4dc7-456b-a576-2244f06dd3ad"
+          },
+          "dapAn": "A. in",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c26a87ae-d8ee-4dd6-b3a3-ddcb30bfac31"
+          },
+          "dapAn": "B. on",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f30bb578-f956-48f4-be0b-ead1bd024321"
+          },
+          "dapAn": "C. at",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "dbfec4f1-61e4-4f2f-9792-09f8e0655662"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We always watch TV ___ night.",
+      "yNghia": "<b>We always watch TV </b><b><span style=\"color:red\">at</span></b><b> night.</b><br />\n<i>Chúng tôi luôn xem ti vi </i><i><span style=\"color:red\">vào</span></i><i> buổi tối.</i><br />\n<b>at</b> là đáp án đúng vì đây là trường hợp ngoại lệ có ngữ pháp chính xác.<br />\n<b>in</b> và <b>on</b> là đáp án sai vì ngữ pháp không chính xác.\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1f03bd07-7572-43fb-9db5-bcabbc11315a"
+          },
+          "dapAn": "A. in",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7117d583-7eb6-415d-a8e5-11fce17641fb"
+          },
+          "dapAn": "B. on",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c444aec3-8589-4879-a589-ac28dff537b8"
+          },
+          "dapAn": "C. at",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1b54f9ee-a375-46ca-a55f-5aaeaecb0991"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My family and I always eat together ___ Sundays.",
+      "yNghia": "<b>My family and I always eat together </b><b><span style=\"color:red\">on</span></b><b> Sundays.</b><br />\n<i>Gia đình tôi và tôi luôn ăn cùng nhau </i><i><span style=\"color:red\">vào</span></i><i> Chủ nhật.</i><br />\n<b>on</b> là đáp án đúng vì <b>on</b> đứng trước ngày trong tuần.<br />\n<b>in</b> và <b>at</b> là đáp án sai vì ngữ pháp không chính xác.\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2fd87a36-dbc8-4025-b3fe-452fb32e51c2"
+          },
+          "dapAn": "A. in",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8cdfe6ca-7acf-486d-83f3-15395be4caf8"
+          },
+          "dapAn": "B. on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2c4063fd-403d-4c79-98f1-d1ff439d0c7e"
+          },
+          "dapAn": "C. at",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7ec140c1-23af-4dd3-9584-9ff2575625f1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We usually go shopping ___ the holidays.",
+      "yNghia": "<b>We usually go shopping </b><b><span style=\"color:red\">in</span></b><b> the holidays.</b><br />\n<i>Chúng tôi thường đi mua sắm </i><i><span style=\"color:red\">vào </span></i><i>những ngày nghỉ.</i><br />\n<b>in</b> là đáp án đúng vì <b>in</b> đứng trước giai đoạn thời gian.<br />\n<b>on</b> và <b>at</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ea908e94-ec0d-47fa-bfbf-87002ab4c94e"
+          },
+          "dapAn": "A. in",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4e7a1cff-73de-4679-bdc1-3eb69a7012ab"
+          },
+          "dapAn": "B. on",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ddd07829-57ef-4acb-bbf2-c9fdda1e059a"
+          },
+          "dapAn": "C. at",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ff72f947-8523-41de-98e1-15b2be16cc83"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I usually study ___ Saturday mornings.",
+      "yNghia": "<b>I usually study </b><b><span style=\"color:red\">on</span></b><b> Saturday mornings.</b><br />\n<i>Tôi thường học </i><i><span style=\"color:red\">vào</span></i><i> buổi sáng thứ Bảy.</i><br />\n<b>on</b> là đáp án đúng vì <b>on</b> đứng trước ngày + thời điểm trong ngày.<br />\n<b>in</b> và <b>at</b> là đáp án sai vì ngữ pháp không chính xác.\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ea80f0c0-92df-4f14-b5a3-cb12ff10e4b9"
+          },
+          "dapAn": "A. in",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0400df14-6df8-4f4d-81eb-e1de64a54fbd"
+          },
+          "dapAn": "B. on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3ac94a6c-36e3-44ef-bca0-8beeff558db4"
+          },
+          "dapAn": "C. at",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "823ef69a-1c5c-416b-af7a-7866e85f69ac"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "He only plays video games ___ the evening.",
+      "yNghia": "<b>He only plays video games </b><b><span style=\"color:red\">in</span></b><b> the evening.</b><br />\n<i>Anh ta chỉ chơi trò chơi điện tử </i><i><span style=\"color:red\">vào</span></i><i> buổi tối.</i><br />\n<b>in</b> là đáp án đúng vì <b>in</b> đứng trước thời điểm trong ngày.<br />\n<b>on</b> và <b>at</b> là đáp án sai vì ngữ pháp không chính xác.\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d18b782d-a7a3-4c7e-9b9e-74647fdbb892"
+          },
+          "dapAn": "A. in",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "af6e8499-9c8c-4e4d-9469-2778019beb2f"
+          },
+          "dapAn": "B. on",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9166e6c1-306e-4b61-9348-adfa0bc095c4"
+          },
+          "dapAn": "C. at",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

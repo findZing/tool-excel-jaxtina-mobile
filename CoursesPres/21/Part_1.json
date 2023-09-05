@@ -1,0 +1,630 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "VOCABULARY",
+  "videoUrl": "4SKILLS_PRE_S_L21/vocabulary.mp4",
+  "newWords": [
+    {
+      "word": "eye",
+      "loaiTu": "n",
+      "phatAm": "/aɪ/",
+      "meaning": "mắt",
+      "viDu": "She has brown eyes.\n(Cô ấy có đôi mắt màu nâu.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/257.eye.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/257.eye.png"
+    },
+    {
+      "word": "leg",
+      "loaiTu": "n",
+      "phatAm": "/leɡ/",
+      "meaning": "chân",
+      "viDu": "He has long legs.\n(Anh ấy có đôi chân dài.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/258.leg.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/258.leg.png"
+    },
+    {
+      "word": "mouth",
+      "loaiTu": "n",
+      "phatAm": "/maʊθ/",
+      "meaning": "miệng",
+      "viDu": "She has small mouth.\n(Cô ấy có miệng chúm chím.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/259.mouth.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/259.mouth.png"
+    },
+    {
+      "word": "nose",
+      "loaiTu": "n",
+      "phatAm": "/nəʊz/",
+      "meaning": "mũi",
+      "viDu": "He has straight nose.\n(Anh ấy có chiếc mũi thẳng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/260.nose.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/260.nose.png"
+    },
+    {
+      "word": "ear",
+      "loaiTu": "n",
+      "phatAm": "/ɪər/",
+      "meaning": "tai",
+      "viDu": "She has small ears.\n(Cô ấy có đôi tai nhỏ nhắn.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/261.ear.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/261.ear.png"
+    },
+    {
+      "word": "teeth",
+      "loaiTu": "n",
+      "phatAm": "/tiːθ/",
+      "meaning": "răng",
+      "viDu": "She has white teeth.\n(Cô ấy có hàm răng trắng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/262.teeth.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/262.teeth.png"
+    },
+    {
+      "word": "arm",
+      "loaiTu": "n",
+      "phatAm": "/ɑːm/",
+      "meaning": "cánh tay",
+      "viDu": "He has strong arms\n(Anh ấy có cánh tay khoẻ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/263.arm.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/263.arm.png"
+    },
+    {
+      "word": "old",
+      "loaiTu": "adj",
+      "phatAm": "/əʊld/",
+      "meaning": "(người) già, lớn tuổi",
+      "viDu": "My grandparents are old.\n(Ông bà tôi lớn tuổi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/264.old.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/264.old.png"
+    },
+    {
+      "word": "slim",
+      "loaiTu": "adj",
+      "phatAm": "/slɪm/",
+      "meaning": "(người) gầy, mảnh khảnh",
+      "viDu": "My sister is slim.\n(Chị gái tôi mảnh khảnh.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/266.slim.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/266.slim.png"
+    },
+    {
+      "word": "blond",
+      "loaiTu": "adj",
+      "phatAm": "/blɑnd/",
+      "meaning": "(tóc) vàng",
+      "viDu": "She has blond hair.\n(Cô ấy có mái tóc màu vàng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/267.blond.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/267.blond.png"
+    },
+    {
+      "word": "gray",
+      "loaiTu": "adj",
+      "phatAm": "/ɡreɪ/",
+      "meaning": "màu xám",
+      "viDu": "He has gray hair.\n(Anh ấy có mái tóc màu xám.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/268.gray.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/268.gray.png"
+    },
+    {
+      "word": "dark",
+      "loaiTu": "adj",
+      "phatAm": "/dɑːk/",
+      "meaning": "(màu) tối",
+      "viDu": "I have dark hair.\n(Tôi có mái tóc màu tối.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/269.dark.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/269.dark.png"
+    },
+    {
+      "word": "heavy",
+      "loaiTu": "adj",
+      "phatAm": "/ˈhevi/",
+      "meaning": "nặng",
+      "viDu": "This bag is very heavy.\n(Cái túi này rất nặng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/270.heavy.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/270.heavy.png"
+    },
+    {
+      "word": "tall",
+      "loaiTu": "adj",
+      "phatAm": "/tɔːl/",
+      "meaning": "cao",
+      "viDu": "He is tall.\n(Anh ấy cao.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/271.tall.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/271.tall.png"
+    },
+    {
+      "word": "young",
+      "loaiTu": "adj",
+      "phatAm": "/jʌŋ/",
+      "meaning": "(người) trẻ tuổi",
+      "viDu": "She is young.\n(Cô ấy trẻ tuổi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/272.young.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/272.young.png"
+    }
+  ],
+  "scriptVideo": [
+    {
+      "start": "0:00:42",
+      "end": "0:00:47",
+      "english": "the face and body",
+      "subScriptEnglish": "the face and body",
+      "matchedNewWords": [],
+      "vietnamese": "khuôn mặt và cơ thể"
+    },
+    {
+      "start": "0:00:54",
+      "end": "0:01:04",
+      "english": "eye",
+      "subScriptEnglish": " _eye_ ",
+      "matchedNewWords": [
+        "eye"
+      ],
+      "vietnamese": "mắt"
+    },
+    {
+      "start": "0:01:11",
+      "end": "0:01:29",
+      "english": "nose",
+      "subScriptEnglish": " _nose_ ",
+      "matchedNewWords": [
+        "nose"
+      ],
+      "vietnamese": "mũi"
+    },
+    {
+      "start": "0:01:33",
+      "end": "0:01:43",
+      "english": "mouth",
+      "subScriptEnglish": " _mouth_ ",
+      "matchedNewWords": [
+        "mouth"
+      ],
+      "vietnamese": "miệng"
+    },
+    {
+      "start": "0:01:46",
+      "end": "0:01:48",
+      "english": "tooth",
+      "subScriptEnglish": "tooth",
+      "matchedNewWords": [],
+      "vietnamese": "chiếc răng"
+    },
+    {
+      "start": "0:01:53",
+      "end": "0:01:54",
+      "english": "teeth",
+      "subScriptEnglish": " _teeth_ ",
+      "matchedNewWords": [
+        "teeth"
+      ],
+      "vietnamese": "nhiều chiếc răng"
+    },
+    {
+      "start": "0:01:59",
+      "end": "0:02:05",
+      "english": "tooth",
+      "subScriptEnglish": "tooth",
+      "matchedNewWords": [],
+      "vietnamese": "chiếc răng"
+    },
+    {
+      "start": "0:02:05",
+      "end": "0:02:11",
+      "english": "teeth",
+      "subScriptEnglish": " _teeth_ ",
+      "matchedNewWords": [
+        "teeth"
+      ],
+      "vietnamese": "nhiều chiếc răng"
+    },
+    {
+      "start": "0:02:13",
+      "end": "0:02:24",
+      "english": "ear",
+      "subScriptEnglish": " _ear_ ",
+      "matchedNewWords": [
+        "ear"
+      ],
+      "vietnamese": "tai"
+    },
+    {
+      "start": "0:02:29",
+      "end": "0:02:32",
+      "english": "arm",
+      "subScriptEnglish": " _arm_ ",
+      "matchedNewWords": [
+        "arm"
+      ],
+      "vietnamese": "cánh tay"
+    },
+    {
+      "start": "0:02:32",
+      "end": "0:02:35",
+      "english": "leg",
+      "subScriptEnglish": " _leg_ ",
+      "matchedNewWords": [
+        "leg"
+      ],
+      "vietnamese": "chân"
+    },
+    {
+      "start": "0:02:36",
+      "end": "0:02:44",
+      "english": "arm",
+      "subScriptEnglish": " _arm_ ",
+      "matchedNewWords": [
+        "arm"
+      ],
+      "vietnamese": "cánh tay"
+    },
+    {
+      "start": "0:02:44",
+      "end": "0:02:50",
+      "english": "leg",
+      "subScriptEnglish": " _leg_ ",
+      "matchedNewWords": [
+        "leg"
+      ],
+      "vietnamese": "chân"
+    },
+    {
+      "start": "0:03:07",
+      "end": "0:03:10",
+      "english": "old",
+      "subScriptEnglish": " _old_ ",
+      "matchedNewWords": [
+        "old"
+      ],
+      "vietnamese": "lớn tuổi, già"
+    },
+    {
+      "start": "0:03:13",
+      "end": "0:03:17",
+      "english": "young",
+      "subScriptEnglish": " _young_ ",
+      "matchedNewWords": [
+        "young"
+      ],
+      "vietnamese": "trẻ tuổi"
+    },
+    {
+      "start": "0:03:19",
+      "end": "0:03:25",
+      "english": "old",
+      "subScriptEnglish": " _old_ ",
+      "matchedNewWords": [
+        "old"
+      ],
+      "vietnamese": "lớn tuổi, già"
+    },
+    {
+      "start": "0:03:25",
+      "end": "0:03:32",
+      "english": "young",
+      "subScriptEnglish": " _young_ ",
+      "matchedNewWords": [
+        "young"
+      ],
+      "vietnamese": "trẻ tuổi"
+    },
+    {
+      "start": "0:03:35",
+      "end": "0:03:38",
+      "english": "short",
+      "subScriptEnglish": " _short_ ",
+      "matchedNewWords": [
+        "short"
+      ],
+      "vietnamese": "thấp, lùn"
+    },
+    {
+      "start": "0:03:42",
+      "end": "0:03:45",
+      "english": "tall",
+      "subScriptEnglish": " _tall_ ",
+      "matchedNewWords": [
+        "tall"
+      ],
+      "vietnamese": "cao"
+    },
+    {
+      "start": "0:03:46",
+      "end": "0:03:53",
+      "english": "short",
+      "subScriptEnglish": " _short_ ",
+      "matchedNewWords": [
+        "short"
+      ],
+      "vietnamese": "thấp, lùn"
+    },
+    {
+      "start": "0:03:53",
+      "end": "0:04:01",
+      "english": "tall",
+      "subScriptEnglish": " _tall_ ",
+      "matchedNewWords": [
+        "tall"
+      ],
+      "vietnamese": "cao"
+    },
+    {
+      "start": "0:04:05",
+      "end": "0:04:07",
+      "english": "slim",
+      "subScriptEnglish": " _slim_ ",
+      "matchedNewWords": [
+        "slim"
+      ],
+      "vietnamese": "gầy, mảnh khảnh"
+    },
+    {
+      "start": "0:04:08",
+      "end": "0:04:14",
+      "english": "heavy",
+      "subScriptEnglish": " _heavy_ ",
+      "matchedNewWords": [
+        "heavy"
+      ],
+      "vietnamese": "to, đô, nặng cân"
+    },
+    {
+      "start": "0:04:16",
+      "end": "0:04:24",
+      "english": "slim",
+      "subScriptEnglish": " _slim_ ",
+      "matchedNewWords": [
+        "slim"
+      ],
+      "vietnamese": "gầy, mảnh khảnh"
+    },
+    {
+      "start": "0:04:24",
+      "end": "0:04:33",
+      "english": "heavy",
+      "subScriptEnglish": " _heavy_ ",
+      "matchedNewWords": [
+        "heavy"
+      ],
+      "vietnamese": "to, đô, nặng cân"
+    },
+    {
+      "start": "0:04:41",
+      "end": "0:04:45",
+      "english": "blond",
+      "subScriptEnglish": " _blond_ ",
+      "matchedNewWords": [
+        "blond"
+      ],
+      "vietnamese": "tóc màu vàng"
+    },
+    {
+      "start": "0:04:45",
+      "end": "0:04:48",
+      "english": "gray",
+      "subScriptEnglish": " _gray_ ",
+      "matchedNewWords": [
+        "gray"
+      ],
+      "vietnamese": "tóc màu xám"
+    },
+    {
+      "start": "0:04:49",
+      "end": "0:04:57",
+      "english": "dark",
+      "subScriptEnglish": " _dark_ ",
+      "matchedNewWords": [
+        "dark"
+      ],
+      "vietnamese": "tóc màu tối"
+    },
+    {
+      "start": "0:04:58",
+      "end": "0:05:06",
+      "english": "blond",
+      "subScriptEnglish": " _blond_ ",
+      "matchedNewWords": [
+        "blond"
+      ],
+      "vietnamese": "tóc màu vàng"
+    },
+    {
+      "start": "0:05:06",
+      "end": "0:05:14",
+      "english": "gray",
+      "subScriptEnglish": " _gray_ ",
+      "matchedNewWords": [
+        "gray"
+      ],
+      "vietnamese": "tóc màu xám"
+    },
+    {
+      "start": "0:05:14",
+      "end": "0:05:26",
+      "english": "dark",
+      "subScriptEnglish": " _dark_ ",
+      "matchedNewWords": [
+        "dark"
+      ],
+      "vietnamese": "tóc màu tối"
+    }
+  ],
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:02:58.304",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Ear",
+            "_id": {
+              "$oid": "f6c9bd02-548f-4ad4-97c3-550586691390"
+            },
+            "yNghia": "Tai"
+          },
+          {
+            "cauHoi": "Nose",
+            "_id": {
+              "$oid": "cfad4466-e13b-4a47-b355-93f4b7881b83"
+            },
+            "yNghia": "Mũi"
+          },
+          {
+            "cauHoi": "Eye",
+            "_id": {
+              "$oid": "1abed246-c16b-435a-8604-b4bf08e3023b"
+            },
+            "yNghia": "Mắt"
+          },
+          {
+            "cauHoi": "Mouth",
+            "_id": {
+              "$oid": "017f04e9-ad83-4924-a2a4-447ffbef36b5"
+            },
+            "yNghia": "Miệng"
+          },
+          {
+            "cauHoi": "Leg",
+            "_id": {
+              "$oid": "0d8e89de-aab9-4c45-b7e7-9aadd8dfbc2b"
+            },
+            "yNghia": "Chân"
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:02:58.304",
+      "timeEnd": "0:05:37.102",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "5b26e0c8-d0f7-4d1b-ab4e-3a8711df1eed",
+                "dapAn": "I have"
+              },
+              {
+                "_id": "ce60ec1a-d4ba-44dd-acce-49dc2ee92ee8",
+                "dapAn": "blue eyes"
+              },
+              {
+                "_id": "78a2642c-8a9a-4d1e-966e-1debb8588c17",
+                "dapAn": "and big"
+              },
+              {
+                "_id": "17015e2e-42b2-4164-ab59-c6c8538a5874",
+                "dapAn": "ears."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "47142d29-f99a-4ce6-8b54-37694e4746f9",
+                "dapAn": "I have"
+              },
+              {
+                "_id": "40fbdab9-283f-4d5a-8326-95e63d407ab6",
+                "dapAn": "good"
+              },
+              {
+                "_id": "8f1b5bce-aa70-41d8-ba33-567e5c55cf46",
+                "dapAn": "teeth."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "1ddd5409-e6ee-4d89-b567-3b034a9e5bd9",
+                "dapAn": "He has"
+              },
+              {
+                "_id": "da875c7b-9a42-4f5f-90b3-26a6117104e1",
+                "dapAn": "big arms"
+              },
+              {
+                "_id": "f0437b65-3fee-47cd-af32-417d664d83c2",
+                "dapAn": "and big"
+              },
+              {
+                "_id": "f973c237-d483-46c8-bd1c-f1fb2993badc",
+                "dapAn": "legs."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "48272d01-edf8-47e0-8501-668d536b6037",
+                "dapAn": "They're"
+              },
+              {
+                "_id": "f55e216c-a2eb-46ea-a1a5-d58fbab104ed",
+                "dapAn": "short"
+              },
+              {
+                "_id": "cb8a90ca-4251-4048-a1a6-0717c570175f",
+                "dapAn": "and"
+              },
+              {
+                "_id": "32ecd412-c741-454b-8d73-b62997b63066",
+                "dapAn": "slim."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "3567cda3-481b-4130-9d8a-0c84cfac8e24",
+                "dapAn": "You have"
+              },
+              {
+                "_id": "0a549a09-6533-4341-af70-1c98df234f8c",
+                "dapAn": "brown"
+              },
+              {
+                "_id": "3da51f8a-f5d4-4d97-91bc-a665db7cfbbb",
+                "dapAn": "eyes and"
+              },
+              {
+                "_id": "fedff171-aa11-4f50-86d1-f27985585f5f",
+                "dapAn": "dark hair."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "a013736b-09b0-4631-bed5-2ebe28ec290d",
+                "dapAn": "He's"
+              },
+              {
+                "_id": "df857757-8049-4eb6-9a11-a367df90d7d4",
+                "dapAn": "short"
+              },
+              {
+                "_id": "4ba6083f-f364-4bf9-8ec6-e9b50c479133",
+                "dapAn": "and"
+              },
+              {
+                "_id": "f72eadcc-b3ae-480a-a28a-57b7bc3265cd",
+                "dapAn": "heavy."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

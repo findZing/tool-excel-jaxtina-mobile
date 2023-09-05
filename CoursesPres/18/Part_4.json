@@ -1,0 +1,245 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "Grammar",
+  "videoUrl": "4SKILLS_PRE_S_L18/grammar.mp4",
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:00:56",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P5",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "________ you drive a car?",
+            "_id": "e185d082-af7f-412f-9122-53ba051d2c4d",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "Can",
+                "_id": "eeecdff3-5bc0-49a0-b88a-8e29d820d7de"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "Can’t",
+                "_id": {
+                  "$oid": "869623e7-f52c-4699-9481-7141809b7c7c"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "Cannot",
+                "_id": {
+                  "$oid": "f86d4576-7a7c-45cb-98e2-f1915f23ee34"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "Yes, I ________. How about you?",
+            "_id": "90e81525-6139-4b86-a720-5826cef3989e",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "can",
+                "_id": "728d5858-301e-4dfe-b8f6-210e28a706a6"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "can’t",
+                "_id": {
+                  "$oid": "7c8f773b-5e3e-4061-bdb5-1fd9306438f4"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "cannot",
+                "_id": {
+                  "$oid": "26e92347-46d1-4ad5-b3ac-889700103a33"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "No, I ________ drive a car but I can ride a bike.",
+            "_id": "82805a51-be01-4968-914a-9842692120f6",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "can",
+                "_id": "55da3fb5-3207-4efa-a94a-ff8f4ef4793d"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "can’t",
+                "_id": {
+                  "$oid": "e9ea2895-9cb1-4f75-a358-812334debdf9"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "am",
+                "_id": {
+                  "$oid": "eb2fd3f6-ae23-4cdb-bcea-48eac2cc0c24"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "Yes, he ________. And he can draw.",
+            "_id": "eac355e0-09f1-4c1b-8e72-85001d9bd5fa",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "can",
+                "_id": "1eba3fa5-d027-42a7-925a-f013ced6f16b"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "can’t",
+                "_id": {
+                  "$oid": "35707c7d-0938-48ca-b711-0fab1747e3d2"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "cannot",
+                "_id": {
+                  "$oid": "28cff2ba-1cda-4e9a-83d2-135c158d7200"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "No, they can’t. But they ________ dance very well.",
+            "_id": "c87fec49-3158-48c7-94d0-ccf33a6613b9",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "can",
+                "_id": "3396e2bb-27b4-4759-8860-23aea8c2e086"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "can’t",
+                "_id": {
+                  "$oid": "d48c75ae-f52a-4b28-bbd5-ca7a1715515c"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "cannot",
+                "_id": {
+                  "$oid": "75b2c956-9020-46a2-a4d6-8ce9d88c92e8"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:00:56",
+      "timeEnd": "0:05:14",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "f8135135-4a34-4102-a793-fec18cfbe3be",
+                "dapAn": "Who"
+              },
+              {
+                "_id": "6e4d7803-8c5a-4fc1-8836-5bb0869e0be0",
+                "dapAn": "cleans"
+              },
+              {
+                "_id": "61cf1c0e-8d7a-43e9-927e-a891f7580025",
+                "dapAn": "the"
+              },
+              {
+                "_id": "9301fd9f-dbcf-4af0-aef7-19fb9ec9aa32",
+                "dapAn": "house?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "a3542be8-4983-460b-b60e-cb442042271e",
+                "dapAn": "Who"
+              },
+              {
+                "_id": "67116299-c1cf-46ad-a8d0-c447688ab0f1",
+                "dapAn": "goes"
+              },
+              {
+                "_id": "3b0c1f6e-a776-4ced-b248-13328863b763",
+                "dapAn": "shopping?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "516865e4-ae49-4ad9-8304-178e948c9bb7",
+                "dapAn": "Who"
+              },
+              {
+                "_id": "1d8bba7a-76b4-4137-a115-88ae764d983e",
+                "dapAn": "washes"
+              },
+              {
+                "_id": "5889085e-f0a1-4f62-906a-aa723368c2d9",
+                "dapAn": "the"
+              },
+              {
+                "_id": "0c4e581d-4929-40e8-b6bb-2a1cdff9e07a",
+                "dapAn": "dishes?"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "02b8c3fb-5ff3-4411-9457-e2ec5eba7b3b",
+                "dapAn": "Who"
+              },
+              {
+                "_id": "b6c28fb4-77eb-48af-84d4-951aeea8a9b4",
+                "dapAn": "does"
+              },
+              {
+                "_id": "d43c0ba5-2a7b-4e26-8d32-d8f1919d3338",
+                "dapAn": "the"
+              },
+              {
+                "_id": "191c7fa7-1925-4a6b-a628-7578060affc6",
+                "dapAn": "laundry?"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "noiDungVideo": [
+    {
+      "timeEnd": "0:00:56",
+      "noiDung": "<b><span style=\"color:red\">Can / can't <i>(Có thể / không thể)</i></span></b><br />\n<b>Function <i>(Cách dùng)</i></b><br />\n<b>Can</b> và <b>can't</b> được dùng để diễn tả về khả năng làm được việc gì đó với nghĩa là \"có thể\" và \"không thể\"<br />\n<br />\n<b>Form <i>(Cấu trúc)</i></b><br />\n \n<table>\n        <tbody>\n                <tr>\n                        <td colspan=\"2\"><b>Affirmative <i>(Khẳng định)</i></b></td>\n                </tr>\n                <tr>\n                        <td>I / you<br />\n                        He / She<br />\n                        We / They</td>\n                        <td><b>can play</b> football.</td>\n                </tr>\n                <tr>\n                        <td colspan=\"2\"><b>Negative <i>(Phủ định)</i></b></td>\n                </tr>\n                <tr>\n                        <td>I / you<br />\n                        He / She<br />\n                        We / They</td>\n                        <td><b>can't play</b> the guitar.</td>\n                </tr>\n                <tr>\n                        <td colspan=\"2\"><b>Questions <i>(Câu hỏi)</i></b></td>\n                </tr>\n                <tr>\n                        <td colspan=\"2\"><b>Can</b> I / you / he / she / we / they <b>sing</b>?</td>\n                </tr>\n                <tr>\n                        <td colspan=\"2\"><b>Short answers</b><br />\n                        <b><i>(Câu trả lời ngắn)</i></b></td>\n                </tr>\n                <tr>\n                        <td colspan=\"2\">Yes, I / you / he / she / we / they <b>can.</b></td>\n                </tr>\n                <tr>\n                        <td colspan=\"2\">No, I / you / he / she / we / they <b>can't.</b></td>\n                </tr>\n        </tbody>\n</table>"
+    },
+    {
+      "timeEnd": "0:05:14",
+      "noiDung": "<b><span style=\"color:red\">Simple present tense: Questions with <i>who</i> as subject <i>(Thì hiện tại đơn: Câu hỏi với chủ ngữ ‘who')</i></span></b><br />\n<b>Function <i>(Cách dùng)</i></b><br />\nCâu hỏi chủ ngữ với từ để hỏi <b><i>Who</i></b> là câu hỏi khi muốn biết chủ thể của hành động.<br />\n<br />\n<b>Form <i>(Cấu trúc)</i></b><br />\n \n<table>\n        <tbody>\n                <tr>\n                        <td><b>Who washes</b> the dishes in your family?</td>\n                </tr>\n                <tr>\n                        <td>I <b>do</b>. / My sister <b>does</b>.</td>\n                </tr>\n                <tr>\n                        <td>We <b>do</b>. / My grandparents <b>do</b>.</td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<b>Note <i>(Ghi chú)</i></b><br />\nLuôn chia động từ ngôi thứ ba khi <b><i>who</i></b> làm chủ ngữ trong câu hỏi."
+    }
+  ]
+}

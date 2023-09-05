@@ -1,0 +1,411 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "VOCABULARY",
+  "videoUrl": "4SKILLS_PRE_S_L18/vocabulary.mp4",
+  "newWords": [
+    {
+      "word": "wash the dishes",
+      "loaiTu": "v.p",
+      "phatAm": "/wɒʃ ðə dɪʃɪz/",
+      "meaning": "rửa bát",
+      "viDu": "I wash the dishes every day.\n(Tôi rửa bát hàng ngày.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/244.wash.the.dishes.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/244.wash.the.dishes.png"
+    },
+    {
+      "word": "clean the house",
+      "loaiTu": "v.p",
+      "phatAm": "/kliːn ðə haʊs/",
+      "meaning": "lau nhà",
+      "viDu": "My brother hates cleaning the house. \n(Em trai tôi ghét lau nhà.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/245.clean.the.house.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/245.clean.the.house.png"
+    },
+    {
+      "word": "do the laundry",
+      "loaiTu": "v.p",
+      "phatAm": "/ duː ðə ˈlɔːndri/",
+      "meaning": "giặt quần áo",
+      "viDu": "My mother does the laundry by herself.\n(Mẹ tôi tự giặt quần áo.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/246.do.the.laundry.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/246.do.the.laundry.png"
+    },
+    {
+      "word": "take out the garbage",
+      "loaiTu": "v.p",
+      "phatAm": "/teɪk aʊt ðə ˈɡɑːbɪdʒ/",
+      "meaning": "đổ rác",
+      "viDu": "My son hates taking out the garbage. \n(Con trai tôi ghét đi đổ rác.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/247.take.out.the.garbage.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/247.take.out.the.garbage.png"
+    },
+    {
+      "word": "go shopping",
+      "loaiTu": "v.p",
+      "phatAm": "/ɡəʊ ˈʃɒpɪŋ/",
+      "meaning": "đi mua sắm",
+      "viDu": "I love going shopping. \n(Tôi rất thích đi mua sắm.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/248.go.shopping.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/248.go.shopping.png"
+    }
+  ],
+  "scriptVideo": [
+    {
+      "start": "0:00:15",
+      "end": "0:00:19",
+      "english": "Household chores",
+      "subScriptEnglish": "Household chores",
+      "matchedNewWords": [],
+      "vietnamese": "Việc nhà"
+    },
+    {
+      "start": "0:00:55",
+      "end": "0:01:00",
+      "english": "Free-time activities",
+      "subScriptEnglish": "Free-time activities",
+      "matchedNewWords": [],
+      "vietnamese": "Các hoạt động lúc rảnh rỗi"
+    },
+    {
+      "start": "0:01:14",
+      "end": "0:01:18",
+      "english": "Household chores",
+      "subScriptEnglish": "Household chores",
+      "matchedNewWords": [],
+      "vietnamese": "Việc nhà"
+    },
+    {
+      "start": "0:01:31",
+      "end": "0:01:46",
+      "english": "wash the dishes",
+      "subScriptEnglish": " _wash_the_dishes_ ",
+      "matchedNewWords": [
+        "wash the dishes"
+      ],
+      "vietnamese": "rửa bát"
+    },
+    {
+      "start": "0:01:46",
+      "end": "0:02:31",
+      "english": "I wash the dishes every day.",
+      "subScriptEnglish": "I  _wash_the_dishes__ every day.",
+      "matchedNewWords": [
+        "wash the dishes"
+      ],
+      "vietnamese": "Tôi rửa bát hàng ngày."
+    },
+    {
+      "start": "0:02:40",
+      "end": "0:02:56",
+      "english": "clean the house",
+      "subScriptEnglish": " _clean_the_house_ ",
+      "matchedNewWords": [
+        "clean the house"
+      ],
+      "vietnamese": "lau nhà"
+    },
+    {
+      "start": "0:02:56",
+      "end": "0:03:44",
+      "english": "My brother hates cleaning the house.",
+      "subScriptEnglish": "My  _brother__ hates cleaning the house.",
+      "matchedNewWords": [
+        "brother"
+      ],
+      "vietnamese": "Em trai của tôi ghét phải lau nhà."
+    },
+    {
+      "start": "0:03:54",
+      "end": "0:04:09",
+      "english": "do the laundry",
+      "subScriptEnglish": " _do_the_laundry_ ",
+      "matchedNewWords": [
+        "do the laundry"
+      ],
+      "vietnamese": "giặt quần áo"
+    },
+    {
+      "start": "0:04:10",
+      "end": "0:04:41",
+      "english": "My mother does the laundry by herself.",
+      "subScriptEnglish": "My  _mother__ does the laundry by herself.",
+      "matchedNewWords": [
+        "mother"
+      ],
+      "vietnamese": "Mẹ tôi giặt quần áo bằng tay."
+    },
+    {
+      "start": "0:04:45",
+      "end": "0:04:50",
+      "english": "take out the garbage",
+      "subScriptEnglish": " _take_out_the_garbage_ ",
+      "matchedNewWords": [
+        "take out the garbage"
+      ],
+      "vietnamese": "đổ rác"
+    },
+    {
+      "start": "0:04:53",
+      "end": "0:05:01",
+      "english": "My brother doesn’t like taking out the garbage.",
+      "subScriptEnglish": "My  _brother__ doesn’t  _like__ taking out the garbage.",
+      "matchedNewWords": [
+        "brother",
+        "like"
+      ],
+      "vietnamese": "Em trai tôi không thích đi đổ rác."
+    },
+    {
+      "start": "0:05:21",
+      "end": "0:05:32",
+      "english": "take out the garbage",
+      "subScriptEnglish": " _take_out_the_garbage_ ",
+      "matchedNewWords": [
+        "take out the garbage"
+      ],
+      "vietnamese": "đổ rác"
+    },
+    {
+      "start": "0:05:32",
+      "end": "0:05:52",
+      "english": "My brother doesn’t like taking out the garbage.",
+      "subScriptEnglish": "My  _brother__ doesn’t  _like__ taking out the garbage.",
+      "matchedNewWords": [
+        "brother",
+        "like"
+      ],
+      "vietnamese": "Em trai tôi không thích đi đổ rác."
+    },
+    {
+      "start": "0:06:00",
+      "end": "0:06:13",
+      "english": "go shopping",
+      "subScriptEnglish": " _go_shopping_ ",
+      "matchedNewWords": [
+        "go shopping"
+      ],
+      "vietnamese": "đi mua sắm"
+    },
+    {
+      "start": "0:06:16",
+      "end": "0:07:06",
+      "english": "I love going shopping.",
+      "subScriptEnglish": " _I__  _love__ going shopping.",
+      "matchedNewWords": [
+        "love",
+        "I"
+      ],
+      "vietnamese": "Tôi rất thích đi mua sắm."
+    }
+  ],
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:01:06.020",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P5",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "_______ the guitar",
+            "_id": "868b2082-14a9-4ed8-b51f-562280137fa0",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "play",
+                "_id": "f0018fab-07a5-4fff-a610-1a0ea4c09533"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "ride",
+                "_id": {
+                  "$oid": "ed0bc03e-b12e-4ddf-914a-f567b892dde8"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "do",
+                "_id": {
+                  "$oid": "2b9504f5-8f71-4e43-9a70-33db82a216d2"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "_______ yoga",
+            "_id": "028526f7-9df3-4472-91c3-84cd57e9f037",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "take",
+                "_id": "f62775e0-c427-49e0-8827-9f7dde13c1ab"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "go",
+                "_id": {
+                  "$oid": "c4767811-408f-4f96-bebd-63c27ec0498c"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "do",
+                "_id": {
+                  "$oid": "f350c9e8-676b-4505-babb-0485a379b641"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "_______ a bike",
+            "_id": "32dac982-c4fe-4749-ad14-5135361cec73",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "check",
+                "_id": "95f757f2-37af-43c0-b318-ea164e8c97e0"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "ride",
+                "_id": {
+                  "$oid": "7df713fd-7e90-443b-893f-d8741142bffb"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "play",
+                "_id": {
+                  "$oid": "1c76429a-95af-4fff-8671-ca46438346fa"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "_______ a car",
+            "_id": "d89da4fd-be22-4eba-9f91-69ba64a847c6",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "play",
+                "_id": "3e01803a-269a-4003-a843-ebce481e32cc"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "ride",
+                "_id": {
+                  "$oid": "4eeba454-e46a-4569-be6c-d0d589f0bbf9"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "drive",
+                "_id": {
+                  "$oid": "eaa0dd31-050f-4e97-ba59-ed6a18b03e66"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "_______ a nap",
+            "_id": "894da049-e8ac-4658-8d24-bcc06d556fef",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "play",
+                "_id": "df41cc26-87f2-492a-ac0a-37b423fa8af5"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "ride",
+                "_id": {
+                  "$oid": "1fa77624-92ff-4184-9d73-63782a2c73c0"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "take",
+                "_id": {
+                  "$oid": "9ebdbda3-2477-40ed-a051-d991f15c5af8"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "_______ for dinner",
+            "_id": "c781adc9-948b-451f-9e2e-eb7caad6f7ef",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "go out",
+                "_id": "7752fd13-fd41-4f11-98d6-d4c06be8de51"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "go to",
+                "_id": {
+                  "$oid": "724e01c1-3708-4785-a4af-37e3a923ed9c"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "go do",
+                "_id": {
+                  "$oid": "704f8ca0-ad5b-4a99-a2a6-3364670ec3d2"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:01:06.020",
+      "timeEnd": "0:06:42.725",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Do the laundry",
+            "_id": {
+              "$oid": "068db761-1b7b-4741-92ef-5231f639794e"
+            },
+            "yNghia": "Giặt quần áo"
+          },
+          {
+            "cauHoi": "Wash the dishes",
+            "_id": {
+              "$oid": "2108595d-a394-4f46-9218-17ec7557c0c6"
+            },
+            "yNghia": "Rửa bát"
+          },
+          {
+            "cauHoi": "Clean the house",
+            "_id": {
+              "$oid": "4dab89e7-a9a0-42d2-8a05-c644d7ae478a"
+            },
+            "yNghia": "Lau nhà"
+          },
+          {
+            "cauHoi": "Take out the garbage",
+            "_id": {
+              "$oid": "8e000163-614d-4fc0-8614-121d0047c1ce"
+            },
+            "yNghia": "Đổ rác"
+          },
+          {
+            "cauHoi": "Go shopping",
+            "_id": {
+              "$oid": "1c7b21da-b084-4694-b68c-a4a7c260f94b"
+            },
+            "yNghia": "Đi mua sắm"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_TC_L21/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_TC_L21/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "32c4d781-a955-4c39-baaa-0507e4496fbd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Lily",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8748972e-76a8-4a43-9dd8-77aa72d49b72"
+          },
+          "dapAn": "Did you do any research about the presentation next week?",
+          "phienAm": "/dɪd juː duː ˈeni rɪˈsɜːʧ əˈbaʊt ðə ˌprezenˈteɪʃn nekst wiːk/",
+          "yNghia": "\nBạn đã nghiên cứu chút nào về bài thuyết trình vào tuần tới chưa?",
+          "normal": {
+            "start": "00:00:01.012",
+            "end": "00:00:05.014"
+          },
+          "slow": {
+            "start": "00:00:02.070",
+            "end": "00:00:08.814"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a5caf4a1-c6ec-4158-89c2-67e087b65074"
+          },
+          "dapAn": "Yes, we are going to present about that topic and I have no idea.",
+          "phienAm": "/jes wiː ɑːr ˈgəʊɪŋ tuː ˈpreznt əˈbaʊt ðæt ˈtɒpɪk ənd aɪ hæv nəʊ aɪˈdɪə/",
+          "yNghia": "\nỪ, chúng ta sẽ trình bày về chủ đề đó và tôi chẳng có ý tưởng gì cả.",
+          "normal": {
+            "start": "00:00:09.836",
+            "end": "00:00:14.416"
+          },
+          "slow": {
+            "start": "00:00:15.024",
+            "end": "00:00:23.838"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "51dfe8af-a87b-4ecd-abe9-1e057f846df6"
+          },
+          "dapAn": "Great! Can you share it with me?",
+          "phienAm": "/greɪt/. /kæn juː ʃeər ɪt wɪð miː/",
+          "yNghia": "\nTuyệt quá! Bạn có thể chia sẻ nó với tôi không?",
+          "normal": {
+            "start": "00:00:20.346",
+            "end": "00:00:22.226"
+          },
+          "slow": {
+            "start": "00:00:31.116",
+            "end": "00:00:35.323"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "dc102092-ff52-4a33-ab67-9f13169e93c0"
+          },
+          "dapAn": "It is made of cotton, isn’t it?",
+          "phienAm": "/ɪt ɪz meɪd ɒv ˈkɒtn ˈɪznt ɪt/",
+          "yNghia": "\nNó được làm bằng bông, phải không?",
+          "normal": {
+            "start": "00:00:27.675",
+            "end": "00:00:29.796"
+          },
+          "slow": {
+            "start": "00:00:41.800",
+            "end": "00:00:45.406"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "15c3929f-c298-448a-b838-85c1ab8b147c"
+          },
+          "dapAn": "OK. As I can see, the cotton is collected and sent to a factory where it is cleaned and made into yarn.",
+          "phienAm": "/əʊˈkeɪ/. /æz aɪ kæn siː ðə ˈkɒtn ɪz kəˈlektɪd ənd sent tuː eɪ ˈfæktəri weər ɪt ɪz kliːnd ənd meɪd ˈɪntuː jɑːn/",
+          "yNghia": "\nỪ. Như tôi có thể thấy, bông được thu gom và gửi đến nhà máy để làm sạch và dệt thành sợi.",
+          "normal": {
+            "start": "00:00:36.690",
+            "end": "00:00:45.465"
+          },
+          "slow": {
+            "start": "00:00:54.220",
+            "end": "00:01:08.709"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "792ce23d-ba5b-4a0f-b14d-ccb69069f4db"
+          },
+          "dapAn": "Right. You’re talking about how a T-shirt ends up?",
+          "phienAm": "/raɪt/. /jʊər ˈtɔːkɪŋ əˈbaʊt haʊ eɪ ˈtiːʃɜːt endz ʌp/",
+          "yNghia": "\nĐúng. Có phải bạn đang nói về việc một chiếc áo phông kết cục như thế nào không?",
+          "normal": {
+            "start": "00:00:59.062",
+            "end": "00:01:03.401"
+          },
+          "slow": {
+            "start": "00:01:23.600",
+            "end": "00:01:29.743"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "cb028244-0671-4713-b265-727be6738088"
+          },
+          "dapAn": "It’s so wasteful! I think we can give some options to deal with that.",
+          "phienAm": "/ɪts səʊ ˈweɪstfʊl/. /aɪ θɪŋk wiː kæn gɪv sʌm ˈɒpʃənz tuː diːl wɪð ðæt/",
+          "yNghia": "\nThật lãng phí! Tôi nghĩ rằng chúng ta có thể đưa ra một số lựa chọn để giải quyết điều đó.",
+          "normal": {
+            "start": "00:01:14.201",
+            "end": "00:01:18.829"
+          },
+          "slow": {
+            "start": "00:01:43.498",
+            "end": "00:01:50.843"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "81a4dce5-06b4-41b8-8640-167534eb7a5e"
+          },
+          "dapAn": "Instead of throwing it in the trash, you can recycle your old T-shirts.",
+          "phienAm": "/ɪnˈsted ɒv ˈθrəʊɪŋ ɪt ɪn ðə træʃ, juː kæn ˌriːˈsaɪkl jɔːr əʊld ˈtiːʃɜːts/",
+          "yNghia": "\nThay vì vứt vào thùng rác, bạn có thể tái chế những chiếc áo phông cũ của mình.",
+          "normal": {
+            "start": "00:01:21.891",
+            "end": "00:01:25.965"
+          },
+          "slow": {
+            "start": "00:01:54.449",
+            "end": "00:02:01.727"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7014dbe2-c2a3-4c0a-8871-49ec33ed9bbb"
+          },
+          "dapAn": "Well, when a T-shirt is sent to a recycling center, it is made into other things.",
+          "phienAm": "/wel wen eɪ ˈtiːʃɜːt ɪz sent tuː eɪ ˌriːˈsaɪklɪŋ ˈsentər ɪt ɪz meɪd ˈɪntuː ˈʌðə θɪŋz/",
+          "yNghia": "\nChà, khi một chiếc áo phông được gửi đến trung tâm tái chế, nó sẽ được chế tạo thành những thứ khác.",
+          "normal": {
+            "start": "00:01:30.521",
+            "end": "00:01:35.993"
+          },
+          "slow": {
+            "start": "00:02:07.002",
+            "end": "00:02:15.883"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d5a7d473-f296-42d5-99a9-d305ef1ec8a2"
+          },
+          "dapAn": "Yes. I now know what we are going to present next week. Thanks a lot.",
+          "phienAm": "/jes/. /aɪ naʊ nəʊ wɒt wiː ɑːr ˈgəʊɪŋ tuː ˈpreznt nekst wiːk/. /θæŋks eɪ lɒt/",
+          "yNghia": "\nĐúng. Bây giờ tôi biết những gì chúng ta sẽ trình bày vào tuần tới. Cảm ơn rất nhiều.",
+          "normal": {
+            "start": "00:01:42.815",
+            "end": "00:01:48.649"
+          },
+          "slow": {
+            "start": "00:02:25.632",
+            "end": "00:02:32.977"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "faf6fe6d-12cf-4bec-888e-3267955c7d5b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Paolo",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "72e43695-1a92-4ea5-89ea-9c41cf4cfb6d"
+          },
+          "dapAn": "You mean “The life cycle of a T-shirt”?",
+          "phienAm": "/juː miːn ðə laɪf ˈsaɪkl ɒv eɪ ˈtiːʃɜːt/",
+          "yNghia": "\nÝ bạn là \"Vòng đời của một chiếc áo phông\"?",
+          "normal": {
+            "start": "00:00:06.123",
+            "end": "00:00:09.064"
+          },
+          "slow": {
+            "start": "00:00:09.682",
+            "end": "00:00:13.355"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d7e3435b-cf12-412d-a8ed-608590543206"
+          },
+          "dapAn": "I have done some research and found some interesting information.",
+          "phienAm": "/aɪ hæv dʌn sʌm rɪˈsɜːʧ ənd faʊnd sʌm ˈɪntrɪstɪŋ ˌɪnfəˈmeɪʃn/",
+          "yNghia": "\nTôi đã nghiên cứu một chút và tìm thấy một số thông tin thú vị.",
+          "normal": {
+            "start": "00:00:15.525",
+            "end": "00:00:19.334"
+          },
+          "slow": {
+            "start": "00:00:24.906",
+            "end": "00:00:29.914"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fd0aa5bc-5f21-47d3-8157-12e0de22e948"
+          },
+          "dapAn": "Sure. What do you think a T-shirt is made of?",
+          "phienAm": "/ʃʊər/. /wɒt duː juː θɪŋk eɪ ˈtiːʃɜːt ɪz meɪd ɒv/",
+          "yNghia": "\nChắc chắn rồi. Bạn nghĩ một chiếc áo phông được làm bằng gì?",
+          "normal": {
+            "start": "00:00:23.576",
+            "end": "00:00:26.710"
+          },
+          "slow": {
+            "start": "00:00:36.458",
+            "end": "00:00:40.798"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ef990b5d-6aa8-4207-8f5d-f4d7f94467c9"
+          },
+          "dapAn": "Yes. Look at the diagram. It explains how a T-shirt is made.",
+          "phienAm": "/jes/. /lʊk æt ðə ˈdaɪəɡræm/. /ɪt ɪkˈspleɪnz haʊ eɪ ˈtiːʃɜːt ɪz meɪd/",
+          "yNghia": "\nĐúng. Hãy nhìn vào sơ đồ này. Nó giải thích cách một chiếc áo phông được tạo ra.",
+          "normal": {
+            "start": "00:00:30.857",
+            "end": "00:00:36.208"
+          },
+          "slow": {
+            "start": "00:00:46.474",
+            "end": "00:00:53.218"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8cede1b3-cbcf-47df-91a8-224ebca00312"
+          },
+          "dapAn": "Exactly. The yarn is made into cloth. This is used to make T-shirts. Then the T-shirts are transported around the world.",
+          "phienAm": "/ɪgˈzæktli/. /ðə jɑːn ɪz meɪd ˈɪntuː klɒθ/. /ðɪs ɪz juːzd tuː meɪk ˈtiːʃɜːts/. /ðen ðə ˈtiːʃɜːts ɑːr trænsˈpɔːtɪd əˈraʊnd ðə wɜːld/",
+          "yNghia": "\nChính xác. Sợi được làm thành vải. Cái này dùng để làm áo thun. Sau đó, những chiếc áo phông được vận chuyển khắp thế giới.",
+          "normal": {
+            "start": "00:00:46.815",
+            "end": "00:00:57.567"
+          },
+          "slow": {
+            "start": "00:01:09.644",
+            "end": "00:01:22.398"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b742855e-ef59-496f-b967-5e3562c0fd85"
+          },
+          "dapAn": "Yes. The T-shirts are sold to consumers. They probably have one for a while. Then they may get rid of it.",
+          "phienAm": "/jes/. /ðə ˈtiːʃɜːts ɑːr səʊld tuː kənˈsjuːməz/. ðeɪ ˈprɒbəbli hæv wʌn fɔːr ə waɪl/. /ðen ðeɪ meɪ get rɪd ɒv ɪt/",
+          "yNghia": "\nĐúng. Những chiếc áo phông được bán cho người tiêu dùng. Họ có thể dùng nó trong một thời gian. Sau đó, họ có thể bỏ nó đi.",
+          "normal": {
+            "start": "00:01:04.703",
+            "end": "00:01:13.043"
+          },
+          "slow": {
+            "start": "00:01:31.212",
+            "end": "00:01:41.762"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f22406d7-2cad-4e10-b410-6d65cedec67e"
+          },
+          "dapAn": "What are they?",
+          "phienAm": "/wɒt ɑːr ðeɪ/",
+          "yNghia": "\nĐó là gì?",
+          "normal": {
+            "start": "00:01:19.962",
+            "end": "00:01:20.758"
+          },
+          "slow": {
+            "start": "00:01:51.578",
+            "end": "00:01:52.913"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "eea63641-1831-4efd-9b4b-1992bf69a58b"
+          },
+          "dapAn": "How do people recycle old T-shirts?",
+          "phienAm": "/haʊ duː ˈpiːpl ˌriːˈsaɪkl əʊld ˈtiːʃɜːts/",
+          "yNghia": "\nLàm thế nào để mọi người tái chế áo phông cũ?",
+          "normal": {
+            "start": "00:01:26.953",
+            "end": "00:01:29.725"
+          },
+          "slow": {
+            "start": "00:02:02.796",
+            "end": "00:02:06.468"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f824a360-2249-46b9-816f-3979cae0e99d"
+          },
+          "dapAn": "You mean old T-shirts are made into belts, scarves, or bags, right?",
+          "phienAm": "/juː miːn əʊld ˈtiːʃɜːts ɑː meɪd ˈɪntuː belts skɑːvz ɔːr bægz raɪt/",
+          "yNghia": "\nÝ bạn là những chiếc áo phông cũ được làm thành thắt lưng, khăn quàng cổ hoặc túi xách phải không?",
+          "normal": {
+            "start": "00:01:37.102",
+            "end": "00:01:41.899"
+          },
+          "slow": {
+            "start": "00:02:16.885",
+            "end": "00:02:24.964"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "adb66bcb-83c4-4150-b99d-83ea6d6e15e2"
+          },
+          "dapAn": "We can also mention the chemicals that are used in this process, too.",
+          "phienAm": "/wiː kæn ˈɔːlsəʊ ˈmenʃən ðə ˈkemɪkəlz ðæt ɑːr juːzd ɪn ðɪs ˈprəʊses tuː/",
+          "yNghia": "\nChúng ta cũng có thể đề cập đến các hóa chất được sử dụng trong quá trình này.",
+          "normal": {
+            "start": "00:01:50.192",
+            "end": "00:01:54.652"
+          },
+          "slow": {
+            "start": "00:02:33.778",
+            "end": "00:02:39.654"
+          }
+        }
+      ]
+    }
+  ]
+}

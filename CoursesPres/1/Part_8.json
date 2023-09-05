@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L1/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L1/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "0287b8c8-04ef-41a2-9fe7-25ddaf057e9f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Anna",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d36a2505-5091-45ad-887d-770735a161c7"
+          },
+          "dapAn": "Good morning. I'm late! I'm sorry!",
+          "phienAm": "/gʊd ˈmɔːnɪŋ/. /aɪm leɪt/. /aɪm ˈsɒri/",
+          "yNghia": " \nChào buổi sáng, em xin lỗi vì đã tới trễ ạ.",
+          "normal": {
+            "start": "00:00:00.073",
+            "end": "00:00:03.374"
+          },
+          "slow": {
+            "start": "00:00:00.616",
+            "end": "00:00:06.721"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "49578af8-4554-4492-85c4-fe82aa1ca88e"
+          },
+          "dapAn": "I'm Anna. Anna Becker.",
+          "phienAm": "/aɪm ˈænə/. /ˈænə ˈbekər/ ",
+          "yNghia": "\nEm là Anna. Anna Becker.",
+          "normal": {
+            "start": "00:00:07.043",
+            "end": "00:00:09.012"
+          },
+          "slow": {
+            "start": "00:00:11.897",
+            "end": "00:00:16.269"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b8e555eb-46ae-489c-83f6-3303782a3ee0"
+          },
+          "dapAn": "Anna Becker.",
+          "phienAm": "/ˈænə ˈbekər/",
+          "yNghia": "\nAnna Becker.",
+          "normal": {
+            "start": "00:00:12.232",
+            "end": "00:00:13.325"
+          },
+          "slow": {
+            "start": "00:00:20.954",
+            "end": "00:00:22.990"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "51d9c12e-eaee-47d8-b1f2-44534911ed5f"
+          },
+          "dapAn": "No. It's Anna. A-N-N-A.\n",
+          "phienAm": "/nəʊ/. /ɪts ˈænə/. /eɪ en en eɪ/",
+          "yNghia": "\nKhông. Là Anna ạ. A-N-N-A.",
+          "normal": {
+            "start": "00:00:15.907",
+            "end": "00:00:20.666"
+          },
+          "slow": {
+            "start": "00:00:26.557",
+            "end": "00:00:34.170"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "af085448-ff95-4c92-8c28-1684a9d617ab"
+          },
+          "dapAn": "Yes, I'm a student.",
+          "phienAm": "/jes aɪm ei ˈstjuːdənt/",
+          "yNghia": "\nĐúng, em là sinh viên ạ.",
+          "normal": {
+            "start": "00:00:28.028",
+            "end": "00:00:30.098"
+          },
+          "slow": {
+            "start": "00:00:44.823",
+            "end": "00:00:48.014"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "57e9216d-3bca-4731-b886-5e0bc8c2d732"
+          },
+          "dapAn": "Thank you. What is your name?",
+          "phienAm": "/θæŋk juː/. /wɒt ɪz jɔːr neɪm/",
+          "yNghia": "\nCảm ơn thầy. Tên của thầy là gì ạ?",
+          "normal": {
+            "start": "00:00:32.487",
+            "end": "00:00:34.753"
+          },
+          "slow": {
+            "start": "00:00:51.368",
+            "end": "00:00:54.836"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0777c258-1580-4019-a798-0de7cc98af75"
+          },
+          "dapAn": "What do we study today?",
+          "phienAm": "/wɒt duː wiː ˈstʌdi təˈdeɪ/",
+          "yNghia": "\nHôm nay chúng ta học gì ạ?",
+          "normal": {
+            "start": "00:00:39.994",
+            "end": "00:00:41.752"
+          },
+          "slow": {
+            "start": "00:01:01.444",
+            "end": "00:01:03.981"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ffb168c3-fc03-414b-acce-650b288ee95b"
+          },
+          "dapAn": "I'm so excited.",
+          "phienAm": "/aɪm səʊ ɪkˈsaɪtɪd/",
+          "yNghia": "\nEm cảm thấy rất hào hứng.",
+          "normal": {
+            "start": "00:00:46.031",
+            "end": "00:00:47.613"
+          },
+          "slow": {
+            "start": "00:01:09.090",
+            "end": "00:01:11.234"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c41182d2-dcfb-4490-855b-a6370ac9e9f7"
+          },
+          "dapAn": "Please say them again.",
+          "phienAm": "/pliːz seɪ ðem əˈgen/",
+          "yNghia": "\nThầy làm ơn nhắc lại ạ.",
+          "normal": {
+            "start": "00:00:56.872",
+            "end": "00:00:58.411"
+          },
+          "slow": {
+            "start": "00:01:24.654",
+            "end": "00:01:26.974"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4e432e84-4deb-402f-910a-516579fb2527"
+          },
+          "dapAn": "Can you write them on the board?",
+          "phienAm": "/kæn juː raɪt ðem ɒn ðə bɔːd/",
+          "yNghia": "\nThầy viết lên bảng được không ạ?",
+          "normal": {
+            "start": "00:01:05.481",
+            "end": "00:01:07.555"
+          },
+          "slow": {
+            "start": "00:01:35.778",
+            "end": "00:01:38.603"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d9919690-acd4-4300-b24a-416fd67d067c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "David",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "42804c17-98ae-4ae7-af64-7c73bbbb5d2a"
+          },
+          "dapAn": "No, you aren't. It's OK.",
+          "phienAm": "/nəʊ juː ɑːnt/. /ɪts əʊˈkeɪ/",
+          "yNghia": " \nEm không tới trễ đâu.",
+          "normal": {
+            "start": "00:00:03.955",
+            "end": "00:00:06.116"
+          },
+          "slow": {
+            "start": "00:00:07.198",
+            "end": "00:00:10.854"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c917d793-f5f9-4677-ad5b-a8f1b25e378a"
+          },
+          "dapAn": "Please say it again.",
+          "phienAm": "/pliːz seɪ ɪt əˈɡen/",
+          "yNghia": "\nEm làm ơn nhắc lại nhé.",
+          "normal": {
+            "start": "00:00:09.589",
+            "end": "00:00:11.217"
+          },
+          "slow": {
+            "start": "00:00:16.922",
+            "end": "00:00:19.397"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "eda15b16-e325-41fd-9614-55f06eac0154"
+          },
+          "dapAn": "Oh. Hana.",
+          "phienAm": "/əʊ/. /hana/",
+          "yNghia": " Ồ. Hana.",
+          "normal": {
+            "start": "00:00:13.833",
+            "end": "00:00:15.049"
+          },
+          "slow": {
+            "start": "00:00:23.982",
+            "end": "00:00:25.615"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9bee7b54-d394-498b-ba08-2bab23f661c4"
+          },
+          "dapAn": "Oh, I see. A-N-N-A. Are you a student?",
+          "phienAm": "/əʊ aɪ siː/. /eɪ en en eɪ/. /ɑːr juː eɪ ˈstjuːdənt/",
+          "yNghia": "\nỒ, thầy hiểu rồi. A-N-N-A. Em có phải là sinh viên không?",
+          "normal": {
+            "start": "00:00:21.314",
+            "end": "00:00:27.036"
+          },
+          "slow": {
+            "start": "00:00:34.761",
+            "end": "00:00:43.881"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fa0ee217-d1d5-4aae-a26c-c331125a34f3"
+          },
+          "dapAn": "Come in, please.",
+          "phienAm": "/kʌm ɪn pliːz/",
+          "yNghia": "\nMời vào.",
+          "normal": {
+            "start": "00:00:30.553",
+            "end": "00:00:31.743"
+          },
+          "slow": {
+            "start": "00:00:48.780",
+            "end": "00:00:50.728"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1a60d6d8-4310-4040-a4c2-fed64d7e00b9"
+          },
+          "dapAn": "I'm David. I'm a teacher. Good morning.",
+          "phienAm": "/aɪm ˈdeɪvɪd/. /aɪm eɪ ˈtiːʧər/. /gʊd ˈmɔːnɪŋ/",
+          "yNghia": "\nThầy là David. Thầy là giáo viên. Chào buổi sáng",
+          "normal": {
+            "start": "00:00:35.602",
+            "end": "00:00:39.066"
+          },
+          "slow": {
+            "start": "00:00:55.401",
+            "end": "00:01:00.753"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "dfa6f798-2bca-421f-8689-b4aed66c0a0e"
+          },
+          "dapAn": "Today, we learn about greetings.",
+          "phienAm": "/təˈdeɪ wiː lɜːn əˈbaʊt ˈgriːtɪŋz/",
+          "yNghia": "\nHôm nay, chúng ta tìm hiểu về lời chào hỏi.",
+          "normal": {
+            "start": "00:00:42.205",
+            "end": "00:00:45.007"
+          },
+          "slow": {
+            "start": "00:01:04.371",
+            "end": "00:01:08.114"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c9fa0df6-4d47-4c1f-b1bb-3249e1a7219b"
+          },
+          "dapAn": "To say hello, you can say Hello, Hi, Good morning or Good afternoon.",
+          "phienAm": "/tuː seɪ həˈləʊ juː kæn seɪ həˈləʊ haɪ gʊd ˈmɔːnɪŋ ɔːr gʊd ˌɑːftəˈnuːn /",
+          "yNghia": "\nĐể chào, các em có thể nói Xin chào, Chào, Chào buổi sáng hoặc Chào buổi chiều.",
+          "normal": {
+            "start": "00:00:48.017",
+            "end": "00:00:55.550"
+          },
+          "slow": {
+            "start": "00:01:11.663",
+            "end": "00:01:23.569"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a02331da-76f6-4854-a5c6-e8f626337077"
+          },
+          "dapAn": "Hello, Hi, Good morning or Good afternoon.",
+          "phienAm": "/həˈləʊ haɪ gʊd ˈmɔːnɪŋ ɔːr gʊd ˌɑːftəˈnuːn/",
+          "yNghia": "\nXin chào, Chào, Chào buổi sáng hoặc Chào buổi chiều.",
+          "normal": {
+            "start": "00:00:58.779",
+            "end": "00:01:04.011"
+          },
+          "slow": {
+            "start": "00:01:27.428",
+            "end": "00:01:35.122"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0b636f64-dd03-4cb6-8c00-9fc813fcea7a"
+          },
+          "dapAn": "Yes, of course.",
+          "phienAm": "/jes ɒv kɔːs/",
+          "yNghia": "\nĐược, dĩ nhiên rồi.",
+          "normal": {
+            "start": "00:01:08.438",
+            "end": "00:01:09.760"
+          },
+          "slow": {
+            "start": "00:01:39.057",
+            "end": "00:01:41.478"
+          }
+        }
+      ]
+    }
+  ]
+}

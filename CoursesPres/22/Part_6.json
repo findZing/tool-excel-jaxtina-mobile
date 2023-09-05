@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "aafb845c-0010-46ab-bb67-92bf69def539"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Waiter:</b></td> \r\n                        <td>Good <b>(1)</b> ______! What can I get you?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Customer:</b></td> \r\n                        <td>Can I get <b>(2)</b> ______ black coffee, please?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Waiter:</b></td> \r\n                        <td>Sure. <b>(3)</b> ______ size: small, medium or large?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Customer:</b></td> \r\n                        <td>Large, please. <b>(4)</b> ______'m very tired today.</td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Waiter:</b></td>\r\n                        <td>Good <b>(1)</b> <b><span style=\"color:red\">afternoon</span> </b>! What can I get you?<br />\r\n                        <i>Chào <span style=\"color:red\">buổi chiều</span> ! Tôi có thể giúp gì cho bạn?</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Customer:</b></td>\r\n                        <td>Can I get <b>(2)</b> <b><span style=\"color:red\">a</span> </b> black coffee, please?<br />\r\n                        <i>Làm ơn cho tôi <span style=\"color:red\">một </span> ly cà phê đen được không?</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Waiter:</b></td>\r\n                        <td>Sure. <b>(3)</b> <b><span style=\"color:red\">What</span> </b> size: small, medium or large?<br />\r\n                        <i>Tất nhiên rồi.</i> <i>Bạn muốn cỡ <span style=\"color:red\">nào</span> : nhỏ, vừa, hay lớn?</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Customer:</b></td>\r\n                        <td>Large, please. <b>(4)</b> <b><span style=\"color:red\">I</span> </b>'m very tired today.<br />\r\n                        <i>Làm ơn cho tôi cỡ lớn. Hôm nay <span style=\"color:red\">tôi </span> rất mệt.</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "afternoon ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "bf26554b-dce6-4fcc-8c64-7f8699178e13"
+          }
+        },
+        {
+          "dapAn": "a",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2f86b78d-4f59-487a-80f8-12378a8719e3"
+          }
+        },
+        {
+          "dapAn": "What",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d60eb2bb-784c-4292-878d-2077e8ee5f03"
+          }
+        },
+        {
+          "dapAn": "I",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "da9ab3de-8924-4b0d-916f-eb913a41c1fe"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "791012cf-1272-4f2f-b9ab-f5f77c9627f1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maya:</b></td> \r\n                        <td>I want some <b>(1)</b> ______.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Jean:</b></td> \r\n                        <td>There isn't <b>(2)</b> ______ cereal.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maya:</b></td> \r\n                        <td>There <b>(3)</b> ______ some bread, right?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Jean:</b></td> \r\n                        <td>Yes. Let's have <b>(4)</b> ______ toast.</td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maya:</b></td>\r\n                        <td>I want some <b>(1)</b> <b><span style=\"color:red\">cereal</span> </b>.<br />\r\n                        <i>Tôi muốn một ít <span style=\"color:red\">ngũ cốc</span> .</i></td>\r\n                </tr>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Jean:</b></td>                        <td>There isn't <b>(2)</b> <b><span style=\"color:red\">any</span> </b> cereal.<br />\r\n                        <i>Không còn ngũ cốc đâu.</i></td>\r\n                </tr>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Maya:</b></td>\r\n                        <td>There <b>(3)</b> <b><span style=\"color:red\">is </span> </b>some bread, right?<br />\r\n                        <i>Có một ít bánh mì gối phải không?</i></td>\r\n                </tr>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Jean:</b></td>                                        <td>Yes. Let's have <b>(4)</b> <b><span style=\"color:red\">some</span> </b> toast.<br />\r\n                        <i>Đúng vậy. Hãy ăn <span style=\"color:red\">một ít </span> bánh mì nướng.</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "cereal ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "dd9ba765-01d7-4cd4-8f03-d40c93f9533c"
+          }
+        },
+        {
+          "dapAn": "any",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2e55e35e-3a7e-4f67-aa01-7af39b5931a3"
+          }
+        },
+        {
+          "dapAn": "is",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "36e463ce-814b-4431-83d7-aae379e7baba"
+          }
+        },
+        {
+          "dapAn": "some",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "b7ded1de-9426-49c2-8a27-a0628a5e676b"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5313b4d8-7353-470a-befb-7772603b2461"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Ryan:</b></td> \r\n                        <td><b>(1)</b> ______ there any vegetables?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Lily:</b></td> \r\n                        <td>No. There aren't <b>(2)</b> ______ vegetables.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Ryan:</b></td> \r\n                        <td><b>(3)</b> ______ there any pasta?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Lily:</b></td> \r\n                        <td>Yes. There's <b>(4)</b> ______ pasta.</td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Ryan:</b></td>\r\n                        <td><b>(1)</b> <b><span style=\"color:red\">Are</span> </b> there any vegetables?<br />\r\n                        <i>Có chút rau nào không?</i></td>\r\n                </tr>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Lily:</b></td>                        <td>No. There aren't <b>(2)</b> <b><span style=\"color:red\">any </span> </b>vegetables.<br />\r\n                        <i>Không. Không còn chút <span style=\"color:red\">nào </span> cả.</i></td>\r\n                </tr>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Ryan:</b></td>                        <td><b>(3)</b> <b><span style=\"color:red\">Is</span> </b> there any pasta?<br />\r\n                        <i>Có mì Ý không?</i></td>\r\n                </tr>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Lily:</b></td>                        <td>Yes. There's <b>(4)</b> <b><span style=\"color:red\">some</span> </b> pasta.<br />\r\n                        <i>Có. Có <span style=\"color:red\">một ít </span> mì Ý.</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "Are",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "df3146bb-ac51-4f5b-9add-8964e9a8e8c7"
+          }
+        },
+        {
+          "dapAn": "any",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "664a4859-5239-4c6a-9731-68ef39e296bc"
+          }
+        },
+        {
+          "dapAn": "Is",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f4729fd6-fec5-410f-b19c-9997d2c190f1"
+          }
+        },
+        {
+          "dapAn": "some",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "56b252c3-e8b0-473d-a9e9-a2920cad5980"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b5f6c84b-26b2-46fa-91e2-513081d814ed"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Waiter:</b></td> \r\n                        <td><b>(1)</b> ______ there anything else, sir?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Customer:</b></td> \r\n                        <td>Do you have <b>(2)</b> ______ for children?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Waiter:</b></td> \r\n                        <td>Yes, we <b>(3)</b> ______ some cookies and chocolate cakes.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Customer:</b></td> \r\n                        <td>Then I'll take <b>(4)</b> ______ cake to go.</td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Waiter:</b></td>\r\n                        <td><b>(1)</b> <b><span style=\"color:red\">Is</span> </b> there anything else, sir?<br />\r\n                        <i>Còn gì nữa không, thưa ông?</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Customer:</b></td>\r\n                        <td>Do you have <b>(2)</b> <b><span style=\"color:red\">food</span> </b> for children?<br />\r\n                        <i>Bạn có <span style=\"color:red\">đồ ăn </span> cho trẻ em không?</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Waiter:</b></td>\r\n                        <td>Yes, we <b>(3)</b> <b><span style=\"color:red\">have</span> </b> some cookies and chocolate cakes.<br />\r\n                        <i>Có, chúng tôi <span style=\"color:red\">có </span> một vài miếng bánh quy và bánh sô-cô-la.</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Customer:</b></td>\r\n                        <td>Then I'll take <b>(4)</b> <b><span style=\"color:red\">a</span> </b> cake to go.<br />\r\n                        <i>Vậy tôi sẽ lấy <span style=\"color:red\">một </span> cái bánh mang đi.</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "Is",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c4f290a2-3dea-49da-a4c2-389660b257aa"
+          }
+        },
+        {
+          "dapAn": "food",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0f9f563d-c3d4-4527-8035-6c3ddbf6c3cf"
+          }
+        },
+        {
+          "dapAn": "have",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8833f6b2-945c-49ae-aa76-3a49a197e41b"
+          }
+        },
+        {
+          "dapAn": "a",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "360c9b21-f70d-4f45-b084-6bdd9a217f8a"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6c12d20f-82b4-40ff-9bdd-fd58acff31cd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Mary:</b></td> \r\n\t\t\t<td colspan=\"4\">Hi. What <b>(1)</b> ______ I get you? </td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Lucas:</b></td> \r\n\t\t\t<td colspan=\"4\">Can I have a <b>(2)</b> ______, please?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Mary:</b></td> \r\n\t\t\t<td colspan=\"4\">Sure. Is that for <b>(3)</b> ______ or to go? </td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td> </td>\r\n\t\t\t<td colspan=\"4\">To <b>(4)</b> ______, please.</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Mary:</b></td>\n                        <td>Hi. What <b>(1)</b> <b><span style=\"color:red\">can</span> </b> I get you?<br />\n                        <i>Xin chào. Tôi <span style=\"color:red\">có thể </span> giúp gì cho bạn?</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Lucas:</b></td>                        <td>Can I have a <b>(2)</b> <b><span style=\"color:red\">pizza</span> </b>, please?<br />\n                        <i>Làm ơn cho tôi một <span style=\"color:red\">pizza</span> .</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Mary:</b></td>                        <td>Sure. Is that for <b>(3)</b> <b><span style=\"color:red\">here</span> </b> or to go?<br />\n                        <i>Tất nhiên rồi. Bạn dùng <span style=\"color:red\">ở đây </span> hay mang đi?</i></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>To <b>(4)</b> <b><span style=\"color:red\">go</span> </b>, please.<br />\n                        <i>Để mang <span style=\"color:red\">đi</span> .</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "can",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "94cd481d-0ef6-4fd0-88b0-a5b219590a40"
+          }
+        },
+        {
+          "dapAn": "pizza",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c1f1b8a1-4bfa-4f11-8cea-6dfb81224acf"
+          }
+        },
+        {
+          "dapAn": "here",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "78c5d3dc-bf8a-461b-9034-7d60f0160844"
+          }
+        },
+        {
+          "dapAn": "go",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "5fd16610-1885-4fcb-8bee-4aa5708cec5d"
+          }
+        }
+      ]
+    }
+  ]
+}

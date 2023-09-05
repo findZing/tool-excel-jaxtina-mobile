@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "1457cd1f-8ef3-404f-91aa-c7d891173356"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Hey Vic, what is the topic for your next ____________?",
+      "yNghia": "Hey Vic, what is the topic for your next <span style=\"color:red\">presentation</span>?<br />\n<i>Này Vic, chủ đề cho <span style=\"color:red\">bài </span></i><span style=\"color:red\"><i>thuyết trình</i></span><i><span style=\"color:red\"> </span>tiếp theo của bạn là gì?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1887d36e-cd59-4256-a1e8-214f3e311c38"
+          },
+          "dapAn": "assignment",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "71f0f254-cf86-4a16-86a4-add62dd1e6fa"
+          },
+          "dapAn": "presentation",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8724959f-7dc5-4e24-9f3e-6e2f3117e36d"
+          },
+          "dapAn": "speech",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_1. Hey ... presentation.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_1. Hey ... presentation.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f1544450-0d38-42af-96b9-3d790c4971de"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I want to talk about a famous ____________. But I haven't decided who.",
+      "yNghia": "I want to talk about a famous <span style=\"color:red\">cosmonaut</span>. But I haven't decided who.<br />\n<i>Tôi muốn nói về một </i><span style=\"color:red\"><i>nhà du hành vũ trụ </i></span><i>nổi tiếng. Nhưng tôi chưa quyết định ai.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d5c5195d-8e29-42b9-ad2d-ed0044d37a63"
+          },
+          "dapAn": "astronaut",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fb02ff67-8e64-4558-ab9d-c837a17b8cbb"
+          },
+          "dapAn": "cosmonaut",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4159d6c6-9b80-4c0f-9cf9-e9dad6fd41ab"
+          },
+          "dapAn": "pilot",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_2. I ... who.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_2. I ... who.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "8e8e3a41-d58a-4fd3-92c8-6462a15ee9dc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I only know Yuri Gagarin, the first human to ____________ into outer space.",
+      "yNghia": "I only know Yuri Gagarin, the first human to <span style=\"color:red\">journey</span> into outer space.<br />\n<i>Tôi chỉ biết Yuri Gagarin, người đầu tiên<span style=\"color:red\"> </span></i><i><span style=\"color:red\">du hành</span> </i><i>vào vũ trụ.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "79c7d9b7-5ffb-43d1-a2a0-c0eec19c8542"
+          },
+          "dapAn": "travel",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c0e62e48-31d5-455b-8ef7-800c97059d8e"
+          },
+          "dapAn": "go",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "672d2d3e-9e4a-4841-a387-291835f33ae6"
+          },
+          "dapAn": "journey",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_3. I ... space.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_3. I ... space.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "fd743e10-755b-4b3a-8467-0afc08ffbeb9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I think Valentina, the first ____________ to travel into space, is more suitable for you.",
+      "yNghia": "I think Valentina, the first <span style=\"color:red\">woman</span> to travel into space, is more suitable for you.<br />\n<i>Tôi nghĩ Valentina, </i><i><span style=\"color:red\">người phụ nữ</span> </i><i>đầu tiên du hành vào vũ trụ, phù hợp với bạn hơn.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ae723f7f-15f8-466b-8609-575bb90115b6"
+          },
+          "dapAn": "man",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0f0feaf8-0a42-4122-b511-f45adbcae2d2"
+          },
+          "dapAn": "woman",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "846fe7d0-7831-470d-b2cb-c9e9d99d8079"
+          },
+          "dapAn": "person",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_4. I ... you.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_4. I ... you.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "688e8f2e-421d-40e5-b035-3d779e8cdf6d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That's a good idea. Maybe I can find more ____________ about Tereshkova on the Internet.",
+      "yNghia": "That's a good idea. Maybe I can find more <span style=\"color:red\">information </span>about Tereshkova on the Internet. <br />\n<i>Đó là một ý kiến hay. Có lẽ tôi có thể tìm thêm </i><i><span style=\"color:red\">thông tin</span> </i><i>về Tereshkova trên Internet.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "071f553c-6e83-4d16-9f43-e34d5f2b56ee"
+          },
+          "dapAn": "information",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6fa1429c-4243-4caf-a29f-dbc2434186c2"
+          },
+          "dapAn": "insights",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "73c0b9b3-4d6f-4c5d-a166-9d34b0409341"
+          },
+          "dapAn": "data",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_5. That_s ... Internet.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_5. That_s ... Internet.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "0da335b9-bf71-4529-bc80-9219db216f91"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "As far as I know, at that time, Valentina was a breakthrough in ____________ and space travel.",
+      "yNghia": "As far as I know, at that time, Valentina was a breakthrough in <span style=\"color:red\">science</span> and space travel.<br />\n<i>Theo như tôi biết, vào thời điểm đó, Valentina là một bước đột phá trong </i><i><span style=\"color:red\">khoa học</span> </i><i>và du hành vũ trụ.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f2c1fa65-85e5-4631-944b-1209ea7c5f96"
+          },
+          "dapAn": "science",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "446b34bb-968c-4fa9-b84f-5a4ccc7e2a04"
+          },
+          "dapAn": "technology",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "afac0cc6-a7dc-42a5-bf07-9a50a8faa517"
+          },
+          "dapAn": "engineering",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_6. As ... travel.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_6. As ... travel.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9d6d1206-69cd-491c-bc04-c09df0f46a1c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "In 1954, she learned to parachute, and was chosen to ____________ as a cosmonaut in 1962.",
+      "yNghia": "In 1954, she learned to parachute, and was chosen to <span style=\"color:red\">train</span> as a cosmonaut in 1962.<br />\n<i>Năm 1954, cô học nhảy dù và được chọn để </i><span style=\"color:red\"><i>huấn luyện</i></span><i> thành phi hành gia vào năm 1962.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "963c6352-2ae6-4f7f-bf54-588c2d40199d"
+          },
+          "dapAn": "train",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "27d1eed9-b34a-4bfb-80d3-d5eb711d83bf"
+          },
+          "dapAn": "learn",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a6a92a40-7834-44a6-bcc0-31e81cec9b13"
+          },
+          "dapAn": "work",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_7. In ... 1962.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_7. In ... 1962.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a8863989-30a2-4167-bbeb-c04641f58b92"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Amazing! When was her ____________ flight? Did it take a lot of time?",
+      "yNghia": "Amazing! When was her <span style=\"color:red\">space</span> flight? Did it take a lot of time?<br />\n<i>Thật đáng kinh ngạc! Chuyến bay vào </i><i><span style=\"color:red\">vũ trụ</span> </i><i>của cô ấy là khi nào? Có mất nhiều thời gian không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fc505405-95b8-4701-afb5-4364d5667198"
+          },
+          "dapAn": "first",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ce439ef1-c2c8-43d8-8e28-b766b9612eb2"
+          },
+          "dapAn": "space",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9a3de4b1-9628-48b1-affb-1d4007523433"
+          },
+          "dapAn": "last",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_8. Amazing ... time.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_8. Amazing ... time.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "4731c9eb-c130-47a0-9004-6d150a9bd925"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Actually no. Her first flight was in _______. It lasted for only 3 days.",
+      "yNghia": "Actually no. Her first flight was in <span style=\"color:red\">1963</span>. It lasted for only 3 days.<br />\n<i>Trên thực tế là không. Chuyến bay đầu tiên của cô là vào năm </i><span style=\"color:red\"><i>1963</i></span><i>. Nó chỉ kéo dài 3 ngày.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "210a0f0b-d542-4400-b70c-39402f521b0d"
+          },
+          "dapAn": 1964,
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ea304c38-26cc-47bb-9984-6ee0833b1b8f"
+          },
+          "dapAn": 1967,
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d1765300-1a60-4593-a1a5-c3da5172407a"
+          },
+          "dapAn": 1963,
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_9. Actually ... days.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_9. Actually ... days.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "4a967e61-a907-45ce-89fb-218a3eac26a8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She orbited the Earth _____ times, which was so unbelievable.",
+      "yNghia": "She orbited the Earth <span style=\"color:red\">48</span> times, which was so unbelievable. <br />\n<i>Cô ấy quay quanh Trái đất </i><span style=\"color:red\"><i>48</i></span><i> lần, điều đó thật khó tin.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "58b3a133-066c-43d3-8c79-13860fdeee41"
+          },
+          "dapAn": 48,
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "42712a60-7151-4366-8b68-e54d88660444"
+          },
+          "dapAn": 14,
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9ce73a74-1678-4a44-b7cd-64573c989ce6"
+          },
+          "dapAn": 44,
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_10. She ... unbelievable.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_10. She ... unbelievable.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9ef25b10-584d-417d-ae73-c395564b30e8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "When she returned to Earth, she ____________ over 6,000 meters from her spacecraft to Earth!",
+      "yNghia": "When she returned to Earth, she <span style=\"color:red\">parachuted </span>over 6,000 meters from her spacecraft to Earth!<br />\n<i>Khi quay trở lại Trái đất, cô ấy </i><i><span style=\"color:red\">đã nhảy dù</span> </i><i>từ tàu vũ trụ của mình xuống Trái đất ở độ cao hơn 6.000 mét!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "aea6c024-2d05-4839-a6e5-55017e80e0ac"
+          },
+          "dapAn": "parachuted",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "13d3a9f9-556c-4878-8949-53f4e60357c9"
+          },
+          "dapAn": "jumped",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7b474bcc-d03f-40a5-8e2d-f783192e4621"
+          },
+          "dapAn": "went",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_11. When ... Earth.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_11. When ... Earth.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "0c224896-77e0-4ec7-b423-2532457651ac"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She really was a pioneer for women in that ____________.",
+      "yNghia": "She really was a pioneer for women in that <span style=\"color:red\">decade</span>.<br />\n<i>Cô ấy thực sự là người tiên phong cho phụ nữ trong </i><i><span style=\"color:red\">thập kỷ</span> </i><i>đó.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "393c1f66-c75f-45cf-8545-5004de77d9ab"
+          },
+          "dapAn": "decade",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "feac1fcc-be6a-4fd4-982b-85828ab1853c"
+          },
+          "dapAn": "century",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4be8d2b3-5410-4e07-8db0-2b08f84d2372"
+          },
+          "dapAn": "period",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_12. She ... decade.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_12. She ... decade.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "757590ee-edb8-43a2-835f-93a109ba0f75"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I totally agree. That's why I ____________ you talk about her.",
+      "yNghia": "I totally agree. That's why I <span style=\"color:red\">recommend</span> you talk about her.  <br />\n<span style=\"display:none\"> </span><i>Tôi hoàn toàn đồng ý. Đó là lý do tại sao tôi <span style=\"color:red\">khuyên</span> bạn nên nói về cô ấy.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6f76f746-1456-4480-be28-5bc154afbf62"
+          },
+          "dapAn": "suggest",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4325eebf-a4ca-4535-95d0-fb32b991146d"
+          },
+          "dapAn": "recommend",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c517bc28-2743-49d4-a119-6faaa76cfc5d"
+          },
+          "dapAn": "advise",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_13. I ... her.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_13. I ... her.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "23dd0b20-6e13-4ee9-8f43-538980b9f5c1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Don't forget to ____________ other cosmonauts too, then tell the reason why you chose Valentina!",
+      "yNghia": "Don't forget to <span style=\"color:red\">mention</span> other cosmonauts too, then tell the reason why you chose Valentina!<br />\n<i>Đừng quên </i><i><span style=\"color:red\">đề cập</span> </i><i>đến các phi hành gia khác nữa, sau đó cho biết lý do tại sao bạn chọn Valentina!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4bd0c5a9-7983-4d8d-8551-e6444ed0c95b"
+          },
+          "dapAn": "talk about",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "04d9bec3-d4b8-4cc9-b903-8d3e10679b28"
+          },
+          "dapAn": "mention",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "22d992a6-b33f-401f-b91c-4ad44733d571"
+          },
+          "dapAn": "present about",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_14. Don_t ... Valentina.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_14. Don_t ... Valentina.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "cd1dd668-7a34-4c5c-a90b-29b8bff9783d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Today's subject on Game Changers is one of the most famous ____________ in history.",
+      "yNghia": "Today's subject on Game Changers is one of the most famous <span style=\"color:red\">doctors </span>in history. <br />\n<i>Chủ đề của Game Changers hôm nay là một trong những </i><i><span style=\"color:red\">bác sĩ</span> </i><i>nổi tiếng nhất trong lịch sử.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bb426fe2-23a9-4a23-b7be-ab82376a3dba"
+          },
+          "dapAn": "cosmonauts",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "07419700-3582-42ef-8d05-14bc4a652157"
+          },
+          "dapAn": "doctors",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "452dcbda-1b0a-4131-afbb-b0c906e0e5f4"
+          },
+          "dapAn": "scientists",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_15. Today_s ... history.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_15. Today_s ... history.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2defb8e7-d611-4b32-852a-b483f00d1a5b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Before 1967, there had been transplants of several different ____________ organs.",
+      "yNghia": "Before 1967, there had been transplants of several different <span style=\"color:red\">human </span>organs.<br />\n<i>Trước năm 1967, đã có nhiều ca cấy ghép các bộ phận cơ thể <span style=\"color:red\">người </span>khác nhau. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e128020c-554b-4a03-8f87-01ce45677fd3"
+          },
+          "dapAn": "human",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "41ea7b50-0538-4684-8f36-3e95738c74ad"
+          },
+          "dapAn": "body",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f9a5e7b0-5da6-4d25-8258-8530a025dff8"
+          },
+          "dapAn": "biotic",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_16. Before ... organs.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_16. Before ... organs.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "8d4ed12e-3a9d-431e-89ec-19f1f3b73844"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There was no successful ____________ transplants on December 3, 1967, South African heart surgeon Christian Barnard changed that forever.",
+      "yNghia": "There was no successful <span style=\"color:red\">heart</span> transplants on December 3, 1967, South African heart surgeon Christian Barnard changed that forever.<br />\n<i>Không có ca ghép </i><span style=\"color:red\"><i>tim </i></span><i>nào thành công vào ngày 3 </i><i>tháng 12 năm 1967, bác sĩ phẫu thuật tim người Nam Phi Christian Barnard đã thay đổi điều đó mãi mãi.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3a36266a-b45a-48b3-858e-89ef40aad1a1"
+          },
+          "dapAn": "organ",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "540cbf2e-0895-4c96-b6f5-b022aa8d40cc"
+          },
+          "dapAn": "kidney",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "96aab681-0440-4e70-8cde-b679813d001b"
+          },
+          "dapAn": "heart",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_17. There ... forever.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_17. There ... forever.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a3f114ee-52b8-40b7-9566-7706b7936dd9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Christiaan Barnard was born in South Africa in 1922, and he grew up in a ____________ family.",
+      "yNghia": "Christian Barnard was born in South Africa in 1922, and he grew up in a <span style=\"color:red\">poor</span> family.<br />\n<i>Christian Barnard sinh ra ở Nam Phi, và ông ấy lớn lên trong một gia đình <span style=\"color:red\">nghèo</span>. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "514ec0d4-67ba-455a-b25d-be378525104f"
+          },
+          "dapAn": "poor",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "23b238a4-b66e-4a44-9a61-bd57a9183065"
+          },
+          "dapAn": "low-income",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e3cd8bf8-2c48-4bdc-b387-23c53014d8f0"
+          },
+          "dapAn": "wealthy",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_18. Christiaan ... family.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_18. Christiaan ... family.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f25850e4-a3cc-4029-8f6c-e5a5368af83e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Dr. Barnard had been a very ____________ heart surgeon for 10 years before he attempted the first transplant.",
+      "yNghia": "Dr. Barnard had been a very <span style=\"color:red\">capable </span>heart surgeon for 10 years before he attempted the first transplant.<br />\n<i>Tiến sĩ </i><i>Barnard là một bác sĩ phẫu thuật tim rất <span style=\"color:red\">có năng lực</span> trong 10 năm trước khi ông thực hiện ca cấy ghép đầu tiên.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "168f6270-0e05-4b46-afb0-1fbdecd23efb"
+          },
+          "dapAn": "capable",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5128ca35-6c38-4233-b631-91eceab40b02"
+          },
+          "dapAn": "good",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "cad9c273-c630-4bf1-a416-121b79c3fc40"
+          },
+          "dapAn": "famous",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_19. Dr .... transplant.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_19. Dr .... transplant.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a153b7cb-45cc-4f6a-931e-82983232f238"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Before he transplanted the first human heart, Dr. Barnard had practiced the operation on ________.",
+      "yNghia": "Before he transplanted the first human heart, Dr. Barnard<b> </b>had practiced the operation on <span style=\"color:red\">dogs</span>.<br />\n<i>Trước khi ông ấy cấy ghép tim người lần đầu tiên, Tiến sĩ </i><i>Barnard đã thử nghiệm phẫu thuật ở <span style=\"color:red\">chó</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f27badb8-340b-48e6-a230-a50754cfff24"
+          },
+          "dapAn": "dogs",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fedff00d-a94b-4755-9c0e-c8bcc67c55a7"
+          },
+          "dapAn": "mice",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "297c2286-dc74-443e-a4a0-5db12e0e09cd"
+          },
+          "dapAn": "rabbits",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L11/sounds/normal/MTC_11_LISTENING_20. Before ... dogs.mp3",
+      "soundSlow": "4SKILLS_MTC_L11/sounds/slow/MTC_11_LISTENING_20. Before ... dogs.mp3"
+    }
+  ]
+}

@@ -1,0 +1,688 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "VOCABULARY",
+  "videoUrl": "4SKILLS_PRE_S_L23/vocabulary.mp4",
+  "newWords": [
+    {
+      "word": "bored",
+      "loaiTu": "adj",
+      "phatAm": "/bɔːd/",
+      "meaning": "buồn chán",
+      "viDu": "I'm bored.\n(Tôi buồn chán.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/294.bored.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/294.bored.png"
+    },
+    {
+      "word": "excited",
+      "loaiTu": "adj",
+      "phatAm": "/ɪkˈsaɪtɪd/",
+      "meaning": "hào hứng, hứng khởi",
+      "viDu": "She is excited.\n(Cô ấy hào hứng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/295.excited.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/295.excited.png"
+    },
+    {
+      "word": "happy",
+      "loaiTu": "adj",
+      "phatAm": "/ˈhæpi/",
+      "meaning": "vui vẻ, hạnh phúc",
+      "viDu": "He is happy.\n(Anh ấy vui vẻ.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/296.happy.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/296.happy.png"
+    },
+    {
+      "word": "hungry",
+      "loaiTu": "adj",
+      "phatAm": "/ˈhʌŋɡri/",
+      "meaning": "đói",
+      "viDu": "I'm hungry.\n(Tôi đói.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/297.hungry.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/297.hungry.png"
+    },
+    {
+      "word": "sad",
+      "loaiTu": "adj",
+      "phatAm": "/sæd/",
+      "meaning": "buồn bã, buồn rầu",
+      "viDu": "He is sad.\n(Anh ấy buồn bã.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/298.sad.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/298.sad.png"
+    },
+    {
+      "word": "tired",
+      "loaiTu": "adj",
+      "phatAm": "/taɪəd/",
+      "meaning": "mệt mỏi",
+      "viDu": "I'm tired.\n(Tôi mệt mỏi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/299.tired.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/299.tired.png"
+    }
+  ],
+  "scriptVideo": [
+    {
+      "start": "0:00:47",
+      "end": "0:00:51",
+      "english": "Food",
+      "subScriptEnglish": "Food",
+      "matchedNewWords": [],
+      "vietnamese": "Đồ ăn"
+    },
+    {
+      "start": "0:00:59",
+      "end": "0:01:03",
+      "english": "Feelings",
+      "subScriptEnglish": "Feelings",
+      "matchedNewWords": [],
+      "vietnamese": "Cảm xúc"
+    },
+    {
+      "start": "0:01:17",
+      "end": "0:01:33",
+      "english": "bored",
+      "subScriptEnglish": " _bored_ ",
+      "matchedNewWords": [
+        "bored"
+      ],
+      "vietnamese": "buồn chán"
+    },
+    {
+      "start": "0:01:40",
+      "end": "0:02:05",
+      "english": "excited",
+      "subScriptEnglish": " _excited_ ",
+      "matchedNewWords": [
+        "excited"
+      ],
+      "vietnamese": "hào hứng, hứng khởi"
+    },
+    {
+      "start": "0:02:11",
+      "end": "0:02:24",
+      "english": "happy",
+      "subScriptEnglish": " _happy_ ",
+      "matchedNewWords": [
+        "happy"
+      ],
+      "vietnamese": "vui vẻ, hạnh phúc"
+    },
+    {
+      "start": "0:02:29",
+      "end": "0:02:46",
+      "english": "hungry",
+      "subScriptEnglish": " _hungry_ ",
+      "matchedNewWords": [
+        "hungry"
+      ],
+      "vietnamese": "đói"
+    },
+    {
+      "start": "0:02:49",
+      "end": "0:03:09",
+      "english": "sad",
+      "subScriptEnglish": " _sad_ ",
+      "matchedNewWords": [
+        "sad"
+      ],
+      "vietnamese": "buồn bã, buồn rầu"
+    },
+    {
+      "start": "0:03:21",
+      "end": "0:03:36",
+      "english": "tired",
+      "subScriptEnglish": " _tired_ ",
+      "matchedNewWords": [
+        "tired"
+      ],
+      "vietnamese": "mệt mỏi"
+    },
+    {
+      "start": "0:03:41",
+      "end": "0:03:45",
+      "english": "Feelings",
+      "subScriptEnglish": "Feelings",
+      "matchedNewWords": [],
+      "vietnamese": "Cảm xúc"
+    },
+    {
+      "start": "0:04:22",
+      "end": "0:04:27",
+      "english": "Me",
+      "subScriptEnglish": "Me",
+      "matchedNewWords": [],
+      "vietnamese": "Bản thân"
+    },
+    {
+      "start": "0:04:32",
+      "end": "0:04:34",
+      "english": "Can you introduce yourself?",
+      "subScriptEnglish": "Can you introduce yourself?",
+      "matchedNewWords": [],
+      "vietnamese": "Bạn có thể giới thiệu về bản thân không?"
+    },
+    {
+      "start": "0:04:42",
+      "end": "0:04:47",
+      "english": "How many people are there in your family?",
+      "subScriptEnglish": "How many people are there  _in__ your family?",
+      "matchedNewWords": [
+        "in"
+      ],
+      "vietnamese": "Có bao nhiêu thành viên trong gia đình bạn?"
+    },
+    {
+      "start": "0:04:47",
+      "end": "0:04:48",
+      "english": "Who are they?",
+      "subScriptEnglish": "Who are they?",
+      "matchedNewWords": [],
+      "vietnamese": "Họ là ai?"
+    },
+    {
+      "start": "0:05:00",
+      "end": "0:05:04",
+      "english": "Describe a famous person you know.",
+      "subScriptEnglish": "Describe  _a__ famous person you know.",
+      "matchedNewWords": [
+        "A"
+      ],
+      "vietnamese": "Miêu tả 1 người nổi tiếng mà bạn biết."
+    },
+    {
+      "start": "0:05:07",
+      "end": "0:05:13",
+      "english": "Talk about someone in your family you really admire.",
+      "subScriptEnglish": "Talk about someone  _in__ your family you really admire.",
+      "matchedNewWords": [
+        "in"
+      ],
+      "vietnamese": "Nói về người nào đó trong gia đình mà bạn ngưỡng mộ."
+    },
+    {
+      "start": "0:05:20",
+      "end": "0:05:24",
+      "english": "My place",
+      "subScriptEnglish": "My place",
+      "matchedNewWords": [],
+      "vietnamese": "Nơi chốn"
+    },
+    {
+      "start": "0:05:27",
+      "end": "0:05:30",
+      "english": "Describe your room.",
+      "subScriptEnglish": "Describe your room.",
+      "matchedNewWords": [],
+      "vietnamese": "Miêu tả căn phòng của bạn."
+    },
+    {
+      "start": "0:05:38",
+      "end": "0:05:40",
+      "english": "What can you see in your classroom?",
+      "subScriptEnglish": "What can you see  _in__ your classroom?",
+      "matchedNewWords": [
+        "in"
+      ],
+      "vietnamese": "Bạn có thể thấy gì trong lớp học của mình?"
+    },
+    {
+      "start": "0:05:54",
+      "end": "0:06:00",
+      "english": "Life and Work",
+      "subScriptEnglish": "Life and Work",
+      "matchedNewWords": [],
+      "vietnamese": "Cuộc sống và công việc."
+    },
+    {
+      "start": "0:06:03",
+      "end": "0:06:06",
+      "english": "What is your favorite job?",
+      "subScriptEnglish": "What is your favorite job?",
+      "matchedNewWords": [],
+      "vietnamese": "Công việc yêu thích của bạn là gì?"
+    },
+    {
+      "start": "0:06:06",
+      "end": "0:06:09",
+      "english": "What do you often do on a weekday?",
+      "subScriptEnglish": "What do you often do  _on__ a weekday?",
+      "matchedNewWords": [
+        "on"
+      ],
+      "vietnamese": "Bạn thường làm gì vào một ngày trong tuần?"
+    },
+    {
+      "start": "0:06:15",
+      "end": "0:06:18",
+      "english": "Describe your daily routine.",
+      "subScriptEnglish": "Describe your daily routine.",
+      "matchedNewWords": [],
+      "vietnamese": "Miêu tả thói quen hàng ngày của bạn."
+    },
+    {
+      "start": "0:06:21",
+      "end": "0:06:24",
+      "english": "What do you often do on a weekend?",
+      "subScriptEnglish": "What do you often do  _on__ a weekend?",
+      "matchedNewWords": [
+        "on"
+      ],
+      "vietnamese": "Bạn thường làm gì vào một ngày cuối tuần?"
+    },
+    {
+      "start": "0:06:35",
+      "end": "0:06:39",
+      "english": "Describe your daily routine on weekends.",
+      "subScriptEnglish": "Describe your daily routine  _on__ weekends.",
+      "matchedNewWords": [
+        "on"
+      ],
+      "vietnamese": "Miêu tả thói quen hàng ngày của bạn vào cuối tuần."
+    },
+    {
+      "start": "0:06:43",
+      "end": "0:06:47",
+      "english": "My city",
+      "subScriptEnglish": "My  _city_ ",
+      "matchedNewWords": [
+        "city"
+      ],
+      "vietnamese": "Thành phố của tôi"
+    },
+    {
+      "start": "0:06:48",
+      "end": "0:06:52",
+      "english": "Describe a famous place in your hometown.",
+      "subScriptEnglish": "Describe  _a__ famous place  _in__ your hometown.",
+      "matchedNewWords": [
+        "in",
+        "A"
+      ],
+      "vietnamese": "Miêu tả một địa điểm nổi tiếng ở quê hương của bạn."
+    },
+    {
+      "start": "0:06:58",
+      "end": "0:07:01",
+      "english": "Describe the clothes you are wearing.",
+      "subScriptEnglish": "Describe the clothes you are wearing.",
+      "matchedNewWords": [],
+      "vietnamese": "Miêu tả quần áo mà bạn đang mặc."
+    },
+    {
+      "start": "0:07:12",
+      "end": "0:07:15",
+      "english": "Free time",
+      "subScriptEnglish": "Free time",
+      "matchedNewWords": [],
+      "vietnamese": "Thời gian rảnh rỗi"
+    },
+    {
+      "start": "0:07:18",
+      "end": "0:07:21",
+      "english": "What do you often do in your free time?",
+      "subScriptEnglish": "What do you often do  _in__ your free time?",
+      "matchedNewWords": [
+        "in"
+      ],
+      "vietnamese": "Bạn thường làm gì vào thời gian rảnh rỗi?"
+    },
+    {
+      "start": "0:07:26",
+      "end": "0:07:29",
+      "english": "Is there anything you are good at?",
+      "subScriptEnglish": "Is there anything you are good at?",
+      "matchedNewWords": [],
+      "vietnamese": "Có gì đó mà bạn giỏi không?"
+    },
+    {
+      "start": "0:07:29",
+      "end": "0:07:31",
+      "english": "Can you describe it?",
+      "subScriptEnglish": "Can you describe it?",
+      "matchedNewWords": [],
+      "vietnamese": "Bạn có thể miêu tả nó được không?"
+    },
+    {
+      "start": "0:07:38",
+      "end": "0:07:40",
+      "english": "Is there anything you are bad at?",
+      "subScriptEnglish": "Is there anything you are bad at?",
+      "matchedNewWords": [],
+      "vietnamese": "Có gì đó mà bạn kém không?"
+    },
+    {
+      "start": "0:07:43",
+      "end": "0:07:45",
+      "english": "Can you describe it?",
+      "subScriptEnglish": "Can you describe it?",
+      "matchedNewWords": [],
+      "vietnamese": "Bạn có thể miêu tả nó được không?"
+    },
+    {
+      "start": "0:07:52",
+      "end": "0:08:01",
+      "english": "Who does the household chores in your family?",
+      "subScriptEnglish": "Who does the household chores  _in__ your family?",
+      "matchedNewWords": [
+        "in"
+      ],
+      "vietnamese": "Ai làm việc nhà trong gia đình bạn vậy?"
+    },
+    {
+      "start": "0:08:14",
+      "end": "0:08:17",
+      "english": "Who washes the dishes in your family?",
+      "subScriptEnglish": "Who washes the dishes  _in__ your family?",
+      "matchedNewWords": [
+        "in"
+      ],
+      "vietnamese": "Ai rửa bát trong gia đình bạn?"
+    },
+    {
+      "start": "0:08:18",
+      "end": "0:08:21",
+      "english": "Who does the laundry in your family?",
+      "subScriptEnglish": "Who does the laundry  _in__ your family?",
+      "matchedNewWords": [
+        "in"
+      ],
+      "vietnamese": "Ai giặt đồ trong gia đình bạn?"
+    },
+    {
+      "start": "0:08:22",
+      "end": "0:08:30",
+      "english": "Who cleans the house in your family?",
+      "subScriptEnglish": "Who cleans the house  _in__ your family?",
+      "matchedNewWords": [
+        "in"
+      ],
+      "vietnamese": "Ai lau dọn nhà trong gia đình bạn?"
+    },
+    {
+      "start": "0:08:33",
+      "end": "0:08:40",
+      "english": "Who takes out the garbage in your family?",
+      "subScriptEnglish": "Who takes out the garbage  _in__ your family?",
+      "matchedNewWords": [
+        "in"
+      ],
+      "vietnamese": "Trong gia đình bạn ai là người đổ rác?"
+    },
+    {
+      "start": "0:08:45",
+      "end": "0:08:49",
+      "english": "Health",
+      "subScriptEnglish": "Health",
+      "matchedNewWords": [],
+      "vietnamese": "Sức khỏe"
+    },
+    {
+      "start": "0:08:56",
+      "end": "0:09:01",
+      "english": "Describe the appearance of a classmate or a family member.",
+      "subScriptEnglish": "Describe the appearance of a classmate or a family member.",
+      "matchedNewWords": [],
+      "vietnamese": "Hãy miêu tả ngoại hình của một người bạn cùng lớp hoặc một thành viên trong gia đình của bạn."
+    },
+    {
+      "start": "0:09:02",
+      "end": "0:09:11",
+      "english": "What do you often have for breakfast, lunch or dinner?",
+      "subScriptEnglish": "What do you often have for  _breakfast,_  __lunch_  or __dinner_ ?",
+      "matchedNewWords": [
+        "breakfast",
+        "dinner",
+        "lunch"
+      ],
+      "vietnamese": "Bạn thường ăn gì vào bữa sáng hoặc bữa trưa hoặc bữa tối?"
+    }
+  ],
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:00:53.127",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "e463a3cd-2175-4fdc-bb8e-8b5d1ae26123",
+                "dapAn": "c"
+              },
+              {
+                "_id": "93d8a7ab-5f43-441f-97a4-b2caba2fb5f8",
+                "dapAn": "e"
+              },
+              {
+                "_id": "f39e97b0-107a-47d4-8876-1f21cd45c572",
+                "dapAn": "r"
+              },
+              {
+                "_id": "edbaeca4-e374-4e93-88d9-54ce44962683",
+                "dapAn": "e"
+              },
+              {
+                "_id": "d796ae68-903e-4f11-824c-5f5cb295cca5",
+                "dapAn": "a"
+              },
+              {
+                "_id": "695c09d7-4be3-4de9-936c-0e82434f2822",
+                "dapAn": "l"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "2173d092-21dd-4efb-9ef4-0dce8e889840",
+                "dapAn": "c"
+              },
+              {
+                "_id": "7a041dd9-aa45-4767-b51b-a37fc434faa6",
+                "dapAn": "h"
+              },
+              {
+                "_id": "e019b4a4-ab2e-4f40-9770-d32e8f8286a5",
+                "dapAn": "i"
+              },
+              {
+                "_id": "6406238b-94c0-493d-bba8-c11c0c198158",
+                "dapAn": "c"
+              },
+              {
+                "_id": "7f7edd43-cd48-49a2-9c94-f376718cd317",
+                "dapAn": "k"
+              },
+              {
+                "_id": "7ddae8ff-2915-4d09-85ea-2a33cfb701c1",
+                "dapAn": "e"
+              },
+              {
+                "_id": "b38f410a-ba68-4970-b0e9-4f4f0fbfa296",
+                "dapAn": "n"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "1f4e97a8-5f3a-46ef-96e7-725269caf52f",
+                "dapAn": "c"
+              },
+              {
+                "_id": "46f13091-7e61-4b9b-965e-1a5f873b7da5",
+                "dapAn": "o"
+              },
+              {
+                "_id": "3279db5a-0b94-4291-b109-4eaae2df21b2",
+                "dapAn": "f"
+              },
+              {
+                "_id": "598c414b-b3fb-4247-af4b-0c8f6b38f601",
+                "dapAn": "f"
+              },
+              {
+                "_id": "106a5b01-179a-4776-8003-01dbce2cc914",
+                "dapAn": "e"
+              },
+              {
+                "_id": "d13c3237-fae2-41ce-b23c-f07b3be1dd8c",
+                "dapAn": "e"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "5bab4baa-6763-47de-8868-0f317230b263",
+                "dapAn": "e"
+              },
+              {
+                "_id": "e47a738e-6cb1-40e9-80ca-0816da2221cd",
+                "dapAn": "g"
+              },
+              {
+                "_id": "2ed235bf-2c52-41f6-93b0-cbfbc3962eec",
+                "dapAn": "g"
+              },
+              {
+                "_id": "a7e6ef7d-f392-4303-82e7-339694cb5c56",
+                "dapAn": "s"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "64b3dbfa-881c-4017-b6cb-5932ea433763",
+                "dapAn": "f"
+              },
+              {
+                "_id": "c9635cd8-2e3d-4ea2-8724-6ab47dd7ffb7",
+                "dapAn": "i"
+              },
+              {
+                "_id": "8142370c-18f3-4bd8-9342-cb00e232ce2b",
+                "dapAn": "s"
+              },
+              {
+                "_id": "3d630090-5a43-4fab-8189-ad36a3196e69",
+                "dapAn": "h"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "80c53c10-e7a6-417b-a0d1-88c4f2be5df7",
+                "dapAn": "j"
+              },
+              {
+                "_id": "11c2dfb9-1b25-43aa-82f8-b97142db9907",
+                "dapAn": "u"
+              },
+              {
+                "_id": "abcb3bc4-52f0-471f-9026-3020b119585f",
+                "dapAn": "i"
+              },
+              {
+                "_id": "68082627-423d-46d6-871e-08792e18e7e1",
+                "dapAn": "c"
+              },
+              {
+                "_id": "3a0d3e20-d26c-44bd-8314-9fc1571701b7",
+                "dapAn": "e"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "c2fef2c8-7898-43d4-8368-d2091979cc71",
+                "dapAn": "p"
+              },
+              {
+                "_id": "d528b18e-5422-46f4-b7d9-10667f9941cf",
+                "dapAn": "a"
+              },
+              {
+                "_id": "8295ebdf-bd9f-40b7-ba97-8d310bbefedc",
+                "dapAn": "s"
+              },
+              {
+                "_id": "6153c8d1-a849-468b-98fe-8e69b0eec292",
+                "dapAn": "t"
+              },
+              {
+                "_id": "232c13fb-e2cc-4e35-851b-ab4d92c6aa4c",
+                "dapAn": "a"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:00:53.127",
+      "timeEnd": "0:03:52.172",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Bored",
+            "_id": {
+              "$oid": "415b8cb0-3aea-47d3-bf79-64d429480987"
+            },
+            "yNghia": "Buồn chán"
+          },
+          {
+            "cauHoi": "Excited",
+            "_id": {
+              "$oid": "b1637d94-34c6-42ef-9e2d-6e93f9c4b59b"
+            },
+            "yNghia": "Hào hứng, hứng khởi"
+          },
+          {
+            "cauHoi": "Happy",
+            "_id": {
+              "$oid": "cd8e995a-b221-4d5b-8d72-013e7e9ce6ef"
+            },
+            "yNghia": "Vui vẻ, hạnh phúc"
+          },
+          {
+            "cauHoi": "Hungry",
+            "_id": {
+              "$oid": "e7a86339-bc34-42b9-aebb-e1ae24ec97ec"
+            },
+            "yNghia": "Đói"
+          },
+          {
+            "cauHoi": "Sad",
+            "_id": {
+              "$oid": "abd1f5cd-4f0d-48d6-8d44-e06f3eacf930"
+            },
+            "yNghia": "Buồn bã, buồn rầu"
+          },
+          {
+            "cauHoi": "Tired",
+            "_id": {
+              "$oid": "27ca9bb2-4a82-4462-b9d3-3dc01fe03f50"
+            },
+            "yNghia": "Mệt mỏi"
+          }
+        ]
+      }
+    }
+  ]
+}

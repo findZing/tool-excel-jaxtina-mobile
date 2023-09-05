@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L12/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L12/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "99f1e21a-32d5-44c7-a5b6-e812005baf94"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Teresa",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "756146ca-a99f-4102-9289-14555a4b6199"
+          },
+          "dapAn": "Hi, Christian. How are you?",
+          "phienAm": "/haɪ ˈkrɪsʧən/. /haʊ ɑːr juː/",
+          "yNghia": " Chào, Christian. Bạn khỏe không?",
+          "normal": {
+            "start": "00:00:00.658",
+            "end": "00:00:02.891"
+          },
+          "slow": {
+            "start": "00:00:00.777",
+            "end": "00:00:04.742"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e319373b-4ae1-4a95-8700-ed47a9d59bc3"
+          },
+          "dapAn": "Really?",
+          "phienAm": "/ˈrɪəli/",
+          "yNghia": " Thật á?",
+          "normal": {
+            "start": "00:00:08.195",
+            "end": "00:00:08.813"
+          },
+          "slow": {
+            "start": "00:00:11.227",
+            "end": "00:00:11.950"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "435cfc34-c39c-46ad-8203-b0844bc773ce"
+          },
+          "dapAn": "That's early! Do you get up at 6:00 a.m. every day?",
+          "phienAm": "/ðæts ˈɜːli/. /duː juː get ʌp æt sɪks eɪ em ˈevri deɪ/",
+          "yNghia": " Sớm vậy! Bạn có dậy lúc 6 giờ sáng mỗi ngày không?",
+          "normal": {
+            "start": "00:00:12.781",
+            "end": "00:00:17.227"
+          },
+          "slow": {
+            "start": "00:00:16.719",
+            "end": "00:00:23.686"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2f4ecdf5-d038-49a9-a3ad-50feefcb72eb"
+          },
+          "dapAn": "So, what time do you have breakfast?",
+          "phienAm": "/səʊ wɒt taɪm duː juː hæv ˈbrekfəst/",
+          "yNghia": " Vậy, mấy giờ bạn ăn sáng?",
+          "normal": {
+            "start": "00:00:20.716",
+            "end": "00:00:23.288"
+          },
+          "slow": {
+            "start": "00:00:27.785",
+            "end": "00:00:32.527"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "77767ef8-9765-4343-870b-e8d38db2a632"
+          },
+          "dapAn": "Do you have a shower?",
+          "phienAm": "/duː juː hæv eɪ ˈʃaʊər/",
+          "yNghia": " Bạn có tắm vòi không?",
+          "normal": {
+            "start": "00:00:32.001",
+            "end": "00:00:33.278"
+          },
+          "slow": {
+            "start": "00:00:43.084",
+            "end": "00:00:45.576"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b2784608-7afd-46fd-a21e-80f2f6e8a0b3"
+          },
+          "dapAn": "So, after breakfast, do you go to work?",
+          "phienAm": "/səʊ ˈɑːftər ˈbrekfəst duː juː gəʊ tuː wɜːk/",
+          "yNghia": " Vậy, bạn có đi làm sau khi ăn sáng không?",
+          "normal": {
+            "start": "00:00:39.838",
+            "end": "00:00:42.629"
+          },
+          "slow": {
+            "start": "00:00:53.393",
+            "end": "00:00:58.688"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ce573b67-3e40-4cf9-b64a-9eaac38ad1e2"
+          },
+          "dapAn": "What do you do?",
+          "phienAm": "/wɒt duː juː duː/",
+          "yNghia": " Bạn làm nghề gì?",
+          "normal": {
+            "start": "00:00:45.062",
+            "end": "00:00:46.019"
+          },
+          "slow": {
+            "start": "00:01:01.572",
+            "end": "00:01:03.367"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "29cd0385-fdd8-45ae-aa50-0d729da3b6d7"
+          },
+          "dapAn": "So, you work in the court then?",
+          "phienAm": "/səʊ juː wɜːk ɪn ðə kɔːt ðen/",
+          "yNghia": " Vậy bạn làm việc trong tòa án phải không?",
+          "normal": {
+            "start": "00:00:48.312",
+            "end": "00:00:50.445"
+          },
+          "slow": {
+            "start": "00:01:06.073",
+            "end": "00:01:09.824"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5a3a365e-0870-4850-a986-9f067b2560bd"
+          },
+          "dapAn": "When do you go to work?",
+          "phienAm": "/wen duː juː gəʊ tuː wɜːk/",
+          "yNghia": " Bạn đi làm lúc nào?",
+          "normal": {
+            "start": "00:00:53.117",
+            "end": "00:00:54.831"
+          },
+          "slow": {
+            "start": "00:01:13.548",
+            "end": "00:01:16.389"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "262e2fc6-18bc-4624-8ad7-1fef71ac6d23"
+          },
+          "dapAn": "What time do you start work?",
+          "phienAm": "/wɒt taɪm duː juː stɑːt wɜːk/",
+          "yNghia": " Mấy giờ bạn bắt đầu làm việc?",
+          "normal": {
+            "start": "00:00:59.583",
+            "end": "00:01:01.013"
+          },
+          "slow": {
+            "start": "00:01:22.096",
+            "end": "00:01:25.230"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "801054f1-3dee-49fe-a76f-715b86f96a83"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Christian",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e4d992df-1699-419b-bbca-15951a066609"
+          },
+          "dapAn": "Busy! Friday mornings are always busy for me.",
+          "phienAm": "/ˈbɪzi/. /ˈfraɪdeɪ ˈmɔːnɪŋz ɑːr ˈɔːlweɪz ˈbɪzi fɔːr miː/",
+          "yNghia": " Bận lắm! Những buổi sáng thứ sáu luôn bận rộn đối với tôi.",
+          "normal": {
+            "start": "00:00:03.520",
+            "end": "00:00:07.533"
+          },
+          "slow": {
+            "start": "00:00:05.787",
+            "end": "00:00:10.530"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0e727b60-53bf-4b78-b22d-b989d622cbb7"
+          },
+          "dapAn": "Yes. I get up at 6:00 a.m.",
+          "phienAm": "/jes/. /aɪ get ʌp æt sɪks eɪ em/",
+          "yNghia": " Đúng. Tôi thức dậy lúc 6 giờ sáng.",
+          "normal": {
+            "start": "00:00:09.357",
+            "end": "00:00:12.202"
+          },
+          "slow": {
+            "start": "00:00:12.807",
+            "end": "00:00:15.969"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8db185dc-21d7-483a-9230-ecb4436258e2"
+          },
+          "dapAn": "No, only on Fridays.",
+          "phienAm": "/nəʊ ˈəʊnli ɒn ˈfraɪdeɪz/",
+          "yNghia": " Không, chỉ vào thứ Sáu thôi.",
+          "normal": {
+            "start": "00:00:17.865",
+            "end": "00:00:19.859"
+          },
+          "slow": {
+            "start": "00:00:24.436",
+            "end": "00:00:26.901"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2666935e-f944-493b-ba51-85a11b036fef"
+          },
+          "dapAn": "Well, I usually have breakfast at 6:30 a.m. on Fridays. I always have a lot of coffee!",
+          "phienAm": "/wel aɪ ˈjuːʒʊəli hæv ˈbrekfəst æt sɪks ˈθɜːti eɪ em ɒn ˈfraɪdeɪz/. /aɪ ˈɔːlweɪz hæv eɪ lɒt ɒv ˈkɒfi/",
+          "yNghia": " À, tôi thường ăn sáng lúc 6 giờ 30 phút sáng vào các ngày thứ Sáu. Tôi luôn luôn uống rất nhiều cà phê!",
+          "normal": {
+            "start": "00:00:24.226",
+            "end": "00:00:31.384"
+          },
+          "slow": {
+            "start": "00:00:33.546",
+            "end": "00:00:42.307"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c963a8fd-544e-43ee-b5c9-17ebb9273146"
+          },
+          "dapAn": "No, I rarely have a shower in the morning. I usually have a bath at night.",
+          "phienAm": "/nəʊ aɪ ˈreəli hæv eɪ ˈʃaʊər ɪn ðə ˈmɔːnɪŋ/. /aɪ ˈjuːʒʊəli hæv eɪ bɑːθ æt naɪt/",
+          "yNghia": " Không, tôi hiếm khi tắm vòi vào buổi sáng. Tôi thường xuyên tắm bồn vào ban đêm.",
+          "normal": {
+            "start": "00:00:34.035",
+            "end": "00:00:39.080"
+          },
+          "slow": {
+            "start": "00:00:46.165",
+            "end": "00:00:52.703"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f322f36a-05ae-4714-b4df-c8c998f47600"
+          },
+          "dapAn": "Yes, I do.",
+          "phienAm": "/jes aɪ duː/",
+          "yNghia": " Có.",
+          "normal": {
+            "start": "00:00:43.287",
+            "end": "00:00:44.423"
+          },
+          "slow": {
+            "start": "00:00:59.321",
+            "end": "00:01:00.955"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f77ef3fd-724f-4e6a-92f2-1bf489a06f91"
+          },
+          "dapAn": "I'm a lawyer.",
+          "phienAm": "/aɪm eɪ ˈlɔɪər/",
+          "yNghia": " Tôi là một luật sư.",
+          "normal": {
+            "start": "00:00:46.617",
+            "end": "00:00:47.514"
+          },
+          "slow": {
+            "start": "00:01:03.903",
+            "end": "00:01:05.269"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "efef1117-d84c-463b-ab49-30d42348ce59"
+          },
+          "dapAn": "Yes, that's right.",
+          "phienAm": "/jes ðæts raɪt/",
+          "yNghia": " Vâng, đúng vậy.",
+          "normal": {
+            "start": "00:00:51.223",
+            "end": "00:00:52.539"
+          },
+          "slow": {
+            "start": "00:01:10.521",
+            "end": "00:01:12.530"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fe18a193-b06b-4b6f-8b2c-1c5151fa6c70"
+          },
+          "dapAn": "I usually go to work at 7:15 a.m.",
+          "phienAm": "/aɪ ˈjuːʒʊəli gəʊ tuː wɜːk æt ˈsevn ˌfɪfˈtiːn eɪ em/",
+          "yNghia": " Tôi thường đi làm lúc 7 giờ 15 phút sáng.",
+          "normal": {
+            "start": "00:00:55.569",
+            "end": "00:00:58.740"
+          },
+          "slow": {
+            "start": "00:01:17.058",
+            "end": "00:01:21.051"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f8a1837a-2066-43ee-8fa3-87d755a48d07"
+          },
+          "dapAn": "Well, I get to the office at around 8:00 a.m, then I start work straight away.",
+          "phienAm": "/wel aɪ get tuː ði ˈɒfɪs æt əˈraʊnd eɪt eɪ em ðen aɪ stɑːt wɜːk streɪt əˈweɪ/",
+          "yNghia": " À, tôi đến văn phòng vào khoảng 8 giờ sáng, sau đó tôi bắt đầu công việc ngay lập tức.",
+          "normal": {
+            "start": "00:01:01.830",
+            "end": "00:01:07.652"
+          },
+          "slow": {
+            "start": "00:01:25.954",
+            "end": "00:01:32.599"
+          }
+        }
+      ]
+    }
+  ]
+}

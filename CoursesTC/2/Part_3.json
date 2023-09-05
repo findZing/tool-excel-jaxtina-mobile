@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "a31677de-1967-46f5-b0aa-5a0cd3b42dcd"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Coincidence",
+      "yNghia": "Sự trùng hợp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "62b2c422-4347-4024-beeb-2a3569a88eab"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Occurrence",
+      "yNghia": "Sự xảy ra",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1ed3adc6-330b-4e28-adc4-1f4b1836c26a"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Calendar",
+      "yNghia": "Lịch (ghi năm tháng)",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "01aac228-1571-47d1-8005-381e60936688"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Ceremony",
+      "yNghia": "Nghi thức, nghi lễ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3aea49a5-73b1-47de-8642-20c7c9a4a902"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Probability",
+      "yNghia": "Khả năng xảy ra",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "27a30b52-d33a-4aa5-a2f3-5ac270fc251b"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Connection",
+      "yNghia": "Sự kết nối",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "adeda00c-5868-435e-a61c-3dc9bbd3ab37"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Independence",
+      "yNghia": "Sự tự lập, sự độc lập",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "af40546e-79d2-4959-983f-fe467e265f06"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Recognize",
+      "yNghia": "Nhận ra",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f9af31f4-a541-46cf-97a1-aa3b82a4838e"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Arrange",
+      "yNghia": "Tổ chức, sắp xếp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a294e6c0-a825-484f-a753-f956ca1be891"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Remarkable",
+      "yNghia": "Đáng chú ý",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0c53e3a9-bc36-437b-8424-45a2ded10209"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Official",
+      "yNghia": "Chính thức",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2eb6da0f-0e6c-48e1-98b3-3c484228ccc0"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Inevitable",
+      "yNghia": "Không thể tránh được",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0143e835-1acd-4bd9-856a-6909f5ed592b"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Seasonal",
+      "yNghia": "Theo mùa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "beebcef5-bba1-4274-92df-806906477a08"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Get the day off",
+      "yNghia": "Nghỉ phép",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "cdfc18b9-2e55-40a8-abc6-d66ab9cd78af"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Come up",
+      "yNghia": "Tiến tới ai đó để nói chuyện",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "746badc0-5735-46bc-ac32-7bcc99ff9de3"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Announcement",
+      "yNghia": "(Lời) thông báo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b61f89e9-e44e-4000-aed2-e2c64505d50c"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Engaged",
+      "yNghia": "Đính hôn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "65f2b01e-fc9a-4c6e-8556-9dbfa01c3420"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Adopt",
+      "yNghia": "Nhận nuôi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c6562abb-1159-44bf-8953-733523a72bfc"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Valentine’s day",
+      "yNghia": "Ngày lễ tình nhân",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c47d19f8-207e-4597-b846-96b14937c73d"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "A romantic dinner",
+      "yNghia": "Một bữa ăn tối lãng mạn",
+      "danhSachDapAn": []
+    }
+  ]
+}

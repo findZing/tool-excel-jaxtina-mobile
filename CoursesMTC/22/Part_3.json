@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0_1",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "ba90fe05-73ab-4185-8115-5b6d8c200025"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Cash",
+      "yNghia": "Lòng nhân đạo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "917399d0-e753-43a2-8855-4618d6222069"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Change",
+      "yNghia": "Máy móc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1d49c373-f6e3-4c5e-b12e-7e10f1d0be76"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Instalment",
+      "yNghia": "Ứng dụng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "988a3c45-9e43-4f49-9039-e3fe9f6fafeb"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Complaint",
+      "yNghia": "Thanh toán trực tuyến",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "95b5c32e-63c5-4078-8208-412ba6e9d101"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Billboard",
+      "yNghia": "Nhà nghiên cứu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2f3e7752-7deb-41b1-b20c-8e9ef323e4ca"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Advertiser",
+      "yNghia": "Trí tuệ, sự thông minh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "28bf761d-7aa8-44e1-949e-0d9b936ee96b"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Display",
+      "yNghia": "Nhân tạo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a2f39c62-32fc-4cbd-89a1-b35bd9d90648"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Ban",
+      "yNghia": "Phức tạp, rắc rối",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "cc9e5e5b-cf8a-41d8-8ca6-24f09b8e0901"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Protest",
+      "yNghia": "Bất hòa nhận thức",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "81d4c88e-575c-4764-ab55-f21b5b750c0f"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Splurge",
+      "yNghia": "Giải quyết vấn đề",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ed2f8d0d-3e12-4866-ade2-a19295665cef"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Offensive",
+      "yNghia": "Hệ thống máy tính",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "01cb9e9d-0d18-4d06-b959-3b0a2c685f7b"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Credit card",
+      "yNghia": "Phân tích số liệu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c59ae927-4638-4180-8df5-ce6042348daa"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Debit card",
+      "yNghia": "Quy trình tự động",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c10da351-40fd-4ed8-9531-14d6f9424a61"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Atm",
+      "yNghia": "Nhận diện khuôn mặt",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7529ba39-a1c2-47a4-9152-30cc7d90645d"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Cash machine",
+      "yNghia": "Hành động",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "69efe16d-d296-4779-91b9-7a166ba5b6b3"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Contactless payment",
+      "yNghia": "Đóng góp cho cái gì",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "80a0ea7e-0efc-4721-bdc5-ea63e62288bd"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Accurate",
+      "yNghia": "Chính xác, chuẩn xác",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8f87cf01-0161-42fc-8e83-e71ae49c71a5"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Criticize",
+      "yNghia": "Chỉ trích, phê phán",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7ca68bb3-cb8a-4045-ba16-de5af0649250"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Transaction",
+      "yNghia": "Giao dịch",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9c728c38-5c01-422e-8beb-594207a801c8"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Remove",
+      "yNghia": "Loại bỏ",
+      "danhSachDapAn": []
+    }
+  ]
+}

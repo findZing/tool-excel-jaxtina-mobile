@@ -1,0 +1,627 @@
+{
+  "dangCauHoi": "P6",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "e7805641-427e-429e-9d56-36cc8f6361d0"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có chủ ngữ <b>It </b><i>(Nó)</i> ở ngôi thứ ba số ít nên động từ <i>to be</i> theo sau sẽ là <b>is</b>. Câu hoàn chỉnh là <span style=\"color:red\"> <b>It is a small apartment.</b></span> <i>(Nó là một căn hộ nhỏ.)</i>.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "089ae746-c3df-4af1-b6a1-ca11e1d67122"
+          },
+          "dapAn": "It is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d468e543-ae58-40cf-9b49-1f8b6d2cf068"
+          },
+          "dapAn": "a small",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1427601c-1edb-4dbe-b17f-a094fd382345"
+          },
+          "dapAn": "apartment.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d110a051-a065-4b09-aed8-b3e273f77aa1"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về sự tồn tại của một vật, ta sử dụng <b>There is</b> mang nghĩa là ‘Có ...'. Câu hoàn chỉnh là <span style=\"color:red\"><b>There is a camera on the desk. </b></span><i>(Có một chiếc máy ảnh trên bàn làm việc.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6233a879-820f-4bde-892b-fdc808bfb80d"
+          },
+          "dapAn": "There is a",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3b238611-04e1-416a-85f8-32b8e8cc3625"
+          },
+          "dapAn": "camera on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2d98f964-e3a5-421b-b82c-dba1564c60f9"
+          },
+          "dapAn": "the desk.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "74677fbf-d377-4f19-943d-dc9af1c66ef0"
+      },
+      "cauHoiNho": [],
+      "yNghia": "<b>He</b> <i>(Anh ấy)</i> là chủ ngữ ngôi thứ ba số ít nên động từ<i> to be</i> theo sau sẽ là <b>is</b>. Câu hoàn chỉnh là <span style=\"color:red\"><b>He is my co-worker.</b></span> <i>(Anh ấy là đồng nghiệp của tôi.)</i>.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "433106e6-55ca-4728-a0f8-06e70981d30a"
+          },
+          "dapAn": "He",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6a3dbfbd-36af-49b0-969f-3bf6180707b0"
+          },
+          "dapAn": "is my",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ead00dd5-f420-41d7-83e7-f6a293e2a97d"
+          },
+          "dapAn": "co-worker.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "02d66576-7809-4927-9b1c-d67d1d098ff4"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Từ để hỏi <b>Where </b><i>(Ở đâu)</i> đứng đầu câu tạo thành câu hỏi lấy thông tin. Câu hoàn chỉnh là <span style=\"color:red\"><b>Where are you?</b></span><i> (Bạn ở đâu?)</i>.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "020b9ba5-c208-42e7-96e6-8d95aadec3be"
+          },
+          "dapAn": "Where",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bacbc7e7-5e4b-426e-adaa-6aa581762ba4"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "92522243-1847-49ac-bc33-cf633db0deba"
+          },
+          "dapAn": "you?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9b033e8e-60dd-4d15-9c5c-6e3e1400ec33"
+      },
+      "cauHoiNho": [],
+      "yNghia": "<b>I </b><i>(Tôi)</i> là chủ ngữ ngôi thứ nhất số ít nên động từ <i>to be</i> theo sau sẽ là <b>am</b>. Câu hoàn chỉnh là <span style=\"color:red\"><b>I am at school.</b></span> <i>(Tôi ở trường.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "32a1e29a-83cf-4468-b50f-5d84eae5c496"
+          },
+          "dapAn": "I am",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "50f89c33-e4ef-471c-bf3d-cb931a4392f1"
+          },
+          "dapAn": "at ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "272f6386-f7f2-44dc-aec8-7b3511e9b458"
+          },
+          "dapAn": "school.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ccce40f3-aaf2-43c7-80fd-c4de011fcb13"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Từ để hỏi <b>What </b> <i>(Cái gì)</i> đứng đầu câu tạo thành câu hỏi lấy thông tin. Câu hoàn chỉnh là<span style=\"color:red\"><b> What is your email?</b></span> <i>(Email của bạn là gì?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "afb069df-b3b4-4ea7-ae26-2c056d4eac7d"
+          },
+          "dapAn": "What",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a0bca295-a228-4330-a1f3-88a74adb48fb"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b1b7e34a-e7d1-4620-88b9-d65134fb0787"
+          },
+          "dapAn": "your email?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d524aaf1-9d37-486b-8f73-a6bd9e96d391"
+      },
+      "cauHoiNho": [],
+      "yNghia": "<b>The watch</b>  <i>(Đồng hồ)</i> là chủ ngữ số ít nên động từ <i>to be </i>theo sau sẽ là <b>is</b>. Câu hoàn chỉnh là <span style=\"color:red\"><b>The watch is between the cup and the book. </b></span><i>(Đồng hồ ở giữa cái cốc và quyển sách.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "dda02b5b-0e92-4491-9eaf-9d83c50b5567"
+          },
+          "dapAn": "The watch",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "030d3430-f79a-46ef-8e54-a6871f0d4a97"
+          },
+          "dapAn": "is between",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "98a2b0bd-472a-4b75-98c8-9368bf01bdd4"
+          },
+          "dapAn": "the cup and",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1e1e23b0-8bfe-4d48-8b4d-adacc0c6adea"
+          },
+          "dapAn": "the book.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "72c7c0c6-c19c-4f43-8436-101634990a0e"
+      },
+      "cauHoiNho": [],
+      "yNghia": "<b>My room</b> <i>(Phòng của tôi)</i> là chủ ngữ số ít nên động từ <i>to be</i> theo sau sẽ là <b>is.</b> Câu hoàn chỉnh là<span style=\"color:red\"><b> My room is very big.</b></span> <i>(Phòng của tôi rất to.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "238196b8-de88-4114-b42f-3c32fb4f8970"
+          },
+          "dapAn": "My room",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "eb6fd0d3-6ae3-4dd1-a5c6-1116c8b42846"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "56bc82c3-f346-4e08-97d7-091630c1cf19"
+          },
+          "dapAn": "very big.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1cd8adc9-298f-4acc-9cf6-6f214eee9951"
+      },
+      "cauHoiNho": [],
+      "yNghia": "<b>The keys </b> <i>(Những chiếc chìa khóa)</i> là chủ ngữ số nhiều nên động từ <i>to be </i>theo sau sẽ là <b>are</b>. Câu hoàn chỉnh là <span style=\"color:red\"><b>The keys are behind the book.</b></span><i> (Những chiếc chìa khóa ở đằng sau cuốn sách.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "df708146-203a-4b5c-ad58-8bbaf1f9d7d1"
+          },
+          "dapAn": "The keys",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "42aa2ad0-09db-40c4-ac87-6e45edd3e46a"
+          },
+          "dapAn": "are behind",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "304192fd-98bc-4d9f-9820-c85602d7a7cc"
+          },
+          "dapAn": "the book.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2e624e8f-97a1-408a-8d1b-77fc22483ad8"
+      },
+      "cauHoiNho": [],
+      "yNghia": "<b>My umbrella </b> <i>(Ô của tôi)</i> là chủ ngữ số ít nên động từ <i>to be</i> theo sau sẽ là <b>is</b>, <b>is </b>ở thể phủ định được viết tắt thành <b>isn't</b>. Câu hoàn chỉnh là <span style=\"color:red\"><b>My umbrella isn't in the bag.</b></span><i> (Ô của tôi không ở trong cặp.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3238882b-589c-44ba-87a9-f9571053b35c"
+          },
+          "dapAn": "My umbrella",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5ee4454b-01e7-49f9-a537-1ce83cc039ef"
+          },
+          "dapAn": "isn't",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5342d758-633f-46e2-9942-ae8ad3298140"
+          },
+          "dapAn": "in the bag.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "63b89d3b-1c7b-4e34-8123-153c27164c51"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về sự tồn tại của nhiều vật, ta sử dụng<b> There are</b> mang nghĩa là ‘Có ...'. Cụm giới từ <b>in front of</b> mang nghĩa là ‘trước'. Câu hoàn chỉnh là <span style=\"color:red\"><b>There are two bikes in front of the house.</b></span> <i>(Ở phía trước nhà có hai chiếc xe đạp.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7c86d248-37e5-4270-b87a-7fe8ac5c7439"
+          },
+          "dapAn": "There are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8568551c-9a65-42e9-bf24-35757f271e18"
+          },
+          "dapAn": "two bikes",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "01daf519-fbb5-4ae1-9741-e36c2a0bc538"
+          },
+          "dapAn": "in front of",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8bb78c9f-ffdf-4b4a-af2a-27e7699f62c1"
+          },
+          "dapAn": "the house.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d1ea857a-a7f6-411f-b5b1-5e59c05a658a"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Từ để hỏi <b>How old</b>  <i>(Bao nhiêu tuổi)</i> đứng đầu câu tạo thành câu hỏi lấy thông tin. Chủ ngữ <b>he </b><i>(anh ấy)</i> ở ngôi thứ ba số ít nên động từ<i> to be</i> sẽ là <b>is</b>. Câu hoàn chỉnh là <span style=\"color:red\"><b>How old is he?</b></span> <i>(Anh ấy bao nhiêu tuổi?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "660b9b97-7045-432b-97d5-d9aa71bd1fa4"
+          },
+          "dapAn": "How old",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f8ef32a0-a0b5-4696-ab3f-eae7a1884d1e"
+          },
+          "dapAn": "is ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9cdfca74-b543-4409-9fb4-be78e8a9d7d1"
+          },
+          "dapAn": "he?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "169455bb-2742-48d1-8bab-a678cd4be9ed"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Từ để hỏi <b>What </b><i>(Cái gì)</i> đứng đầu câu tạo thành câu hỏi lấy thông tin. Câu hoàn chỉnh là <span style=\"color:red\"><b>What is in my bag?</b></span><i> (Trong cặp của tôi có cái gì vậy?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "feeb956c-6303-46b0-a363-baf24ab9b7ae"
+          },
+          "dapAn": "What",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4538e082-236d-4161-bb3c-7cb36c383af9"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "aea51388-a83b-4cc1-8288-5aded86a2018"
+          },
+          "dapAn": "in my bag?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c79f325f-1962-48f3-9176-a51dd972900e"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về sự tồn tại của một vật, ta sử dụng<b> There is </b>mang nghĩa là ‘Có ...'. Câu hoàn chỉnh là <span style=\"color:red\"><b>There is a transit card. </b></span><i>(Có một thẻ quá cảnh.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0364d18d-4b6d-4b3c-af83-c15d1ae1adc1"
+          },
+          "dapAn": "There is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a164cc96-42c8-43f0-9659-7923a8804ff5"
+          },
+          "dapAn": "a",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c24cf92e-6c83-4da4-8c28-3d7fa28c2799"
+          },
+          "dapAn": "transit card.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "69604f5f-6665-48b4-a4d6-e779dec1f97d"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có trợ động từ <b>Is </b>được đẩy lên trước chủ ngữ số ít <b>my ID card </b><i>(thẻ căn cước của tôi)</i> tạo thành câu hỏi <b>Yes/No</b>. Câu hoàn chỉnh là <span style=\"color:red\"><b>Is my ID card on the table?</b></span> <i>(Thẻ căn cước của tôi có trên bàn không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0270da88-a4a5-46f7-843c-7c82c3cd01b0"
+          },
+          "dapAn": "Is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "28a80128-e428-4ad7-b491-0cacbb8f048a"
+          },
+          "dapAn": "my ID card",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b9b611d6-c8fe-4c75-886c-98e5af2c8f6b"
+          },
+          "dapAn": "on the table?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4df70d34-70f3-4384-9d2d-27a723387726"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Chủ ngữ <b>Your laptop </b><i>(Máy tính xách tay của bạn)</i> là chủ ngữ số ít nên động từ <i>to be</i> theo sau sẽ là <b>is</b>. Câu hoàn chỉnh là <span style=\"color:red\"><b>Your laptop is in the bag.</b></span> <i>(Máy tính xách tay của bạn đang ở trong cặp.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1de2489e-a142-449a-ad06-9f497bec31e8"
+          },
+          "dapAn": "Your laptop",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cbf99bef-29d1-4c54-a9bf-7c7efc2f0696"
+          },
+          "dapAn": "is ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e39de862-cb9f-42ad-b4c2-556d7ef7677c"
+          },
+          "dapAn": "in the bag.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "151cde33-59bc-4073-ae87-fa63d98c5d7a"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Chủ ngữ <b>They </b><i>(Họ)</i> là chủ ngữ ngôi thứ ba số nhiều nên động từ<i> to be</i> sẽ là <b>are</b>. Câu hoàn chỉnh là <span style=\"color:red\"><b>Where are they from?</b></span> <i>(Họ đến từ đâu?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7b6c91b8-5713-401c-abc5-495e42ea5eab"
+          },
+          "dapAn": "Where are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "61aac3c6-d192-414c-9f90-3dd5d7d611e9"
+          },
+          "dapAn": "they",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ca5d2a8c-07ca-460c-8f1d-9e2626da18a0"
+          },
+          "dapAn": "from?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f7a5a74c-81c4-4bde-a011-4000cc080d3c"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Chủ ngữ <b>He </b><i>(Anh ấy)</i> là chủ ngữ ngôi thứ ba số ít nên động từ <i>to be</i> theo sau sẽ là <b>is</b>. Câu hoàn chỉnh là <span style=\"color:red\"><b>He is twenty-five.</b></span> <i>(Anh ấy hai mươi lăm tuổi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f852d8e6-d1fd-47d8-b2e9-f737f83e4129"
+          },
+          "dapAn": "He",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6b85069b-3dbe-4eb4-841a-36f9cf13b38b"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5141ebf2-f237-475e-8ed5-275dd1f5561b"
+          },
+          "dapAn": "twenty-five.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9fac33ab-00ae-424b-b428-8847f23706c1"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Chủ ngữ <b>The phone</b> <i>(Chiếc điện thoại)</i> là chủ ngữ số ít nên động từ<i> to be</i> theo sau sẽ là <b>is</b>. Câu hoàn chỉnh là <span style=\"color:red\"><b>The phone is on the bed. </b></span><i>(Chiếc điện thoại ở trên giường.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bd3e2372-5595-4537-ab7d-2b4de82a79d5"
+          },
+          "dapAn": "The phone",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bcd3529f-8828-4305-911a-8f507d73eb0c"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "35f7150f-aa92-4832-924f-d8a72ce18bac"
+          },
+          "dapAn": "on the bed.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8c6537a8-6563-44e3-9be9-616f89e164df"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về sự tồn tại của nhiều vật, ta sử dụng <b>There are</b> mang nghĩa là ‘Có ...'. Cụm giới từ <b>next to</b> mang nghĩa là ‘ở cạnh'. Câu hoàn chỉnh là <span style=\"color:red\"><b>There are DVDs next to the window.</b></span> <i>(Có các đĩa DVD ở cạnh cửa sổ.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2e15eb03-842e-43b2-9e1d-92a04beb6a58"
+          },
+          "dapAn": "There are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b883ff05-d52a-47d9-a640-54632e9db5bb"
+          },
+          "dapAn": "DVDs",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "67d7c681-d4f1-4a63-885d-1a9c927cd0c1"
+          },
+          "dapAn": "next to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "76aa2fa8-e51d-48e1-af72-848d813d8a8d"
+          },
+          "dapAn": "the window.",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

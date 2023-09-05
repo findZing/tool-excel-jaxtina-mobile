@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "b9d7171e-ae94-4380-95c9-9da266a680d6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Good <b>(1)</b> ______. I <b>(2)</b> ______ Maria. M-A-<b>(3)</b> ______-I-A. I'm in class number <b>(4) </b>______.",
+      "yNghia": "Good <b>(1)</b> <span style=\"color:red\"><b>morning</b></span> . I <b>(2)</b> <span style=\"color:red\"><b>am</b></span> <span style=\"color:red\"> </span> Maria. M-A-<b>(3)</b> <span style=\"color:red\"><b>R</b></span> -I-A. I'm in class number <b>(4)</b> <span style=\"color:red\"><b>10</b></span> . <br />\n<i>Chào </i><span style=\"color:red\"><i>buổi sáng</i></span> <i>. Mình </i><span style=\"color:red\"><i>là </i></span> <i>Maria. M-A-</i><span style=\"color:red\"><i>R</i></span> <i>-I-A. Mình ở lớp học số </i><span style=\"color:red\"><i>10</i></span> <i>.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "morning",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "4ab79de4-cbea-47fe-8f33-c0f0cfc1e7c5"
+          }
+        },
+        {
+          "dapAn": "am",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a078e207-47ad-4456-b654-5ee9cec04951"
+          }
+        },
+        {
+          "dapAn": "R",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "4e7ec017-7dc4-4b6e-af05-df007150c828"
+          }
+        },
+        {
+          "dapAn": 10,
+          "isCorrect": true,
+          "_id": {
+            "$oid": "99ff32bc-499c-4554-a414-477ac5a221b5"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "44ea59aa-dcdf-4f1d-9169-b78da0d91b9e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td>\n                        <td>Good morning. I <b>(1) </b>______ Anna. Anna Becker.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>David:</b></td>\n                        <td><b>(2)</b> ______ say it again.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td>\n                        <td>Anna Becker.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>David:</b></td>\n                        <td>Oh, I see. <b>(3)</b> ______'m David. <b>(4)</b> ______ morning.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td><b>Anna:</b></td>\n                        <td>Good morning. I <b>(1) <span style=\"color:red\">am </span> </b>Anna. Anna Becker.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Chào buổi sáng. Em <span style=\"color:red\">là </span> Anna. Anna Becker.</i></td>\n                </tr>\n                <tr>\n                        <td><b>David:</b></td>\n                        <td><b>(2) <span style=\"color:red\">Please </span> </b>say it again.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Em <span style=\"color:red\">làm ơn</span>  nhắc lại nhé.</i></td>\n                </tr>\n                <tr>\n                        <td><b>Anna:</b></td>\n                        <td>Anna Becker.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Anna Becker.</i></td>\n                </tr>\n                <tr>\n                        <td><b>David:</b></td>\n                        <td>Oh, I see. <b>(3)</b> <span style=\"color:red\"><b>I</b></span> 'm David. <b>(4) <span style=\"color:red\">Good </span> </b>morning.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Ồ, thầy hiểu rồi. <span style=\"color:red\">Thầy </span> là David. <span style=\"color:red\">Chào </span> buổi sáng.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "am",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "4a830df2-22a2-4242-b961-ac52bc49687e"
+          }
+        },
+        {
+          "dapAn": "Please",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "be8bc7c4-0e26-4119-bc12-21ddb79f5e2d"
+          }
+        },
+        {
+          "dapAn": "I",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "faac56af-12d2-4dc1-add4-f7609d9f8f9f"
+          }
+        },
+        {
+          "dapAn": "Good",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "1c709bcf-e358-4b14-854a-5f1e0790f0a6"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "63640e21-e2b7-4256-aa5a-faa0def9716a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<b>(1)</b> ______. Nice to <b>(2) </b>______ you.<b> (3) </b>______ am Francesca. I<b> (4)</b> ______ here for the English class.",
+      "yNghia": "<b>(1)</b> <span style=\"color:red\"><b>Hello</b></span> . Nice to <b>(2)</b> <span style=\"color:red\"><b>meet</b></span> <span style=\"color:red\"> </span> you. <b>(3)</b> <span style=\"color:red\"><b>I</b></span> <span style=\"color:red\"> </span> am Francesca. I <b>(4)</b> <span style=\"color:red\"><b>am</b></span> <span style=\"color:red\"> </span> here for the English class.<br />\r\n<span style=\"color:red\"><i>Xin chào</i></span> <i>. Rất vui được </i><span style=\"color:red\"><i>gặp </i></span> <i>bạn. </i><span style=\"color:red\"><i>Mình </i></span> <i>là Francesca. Mình </i><span style=\"color:red\"><i>ở </i></span> <i>đây để học lớp học tiếng Anh.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "Hello",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "db83fdb5-21ca-4387-a891-22c03b7290fb"
+          }
+        },
+        {
+          "dapAn": "meet",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "14c022a5-7d6d-445f-b575-ea0aa5d7e981"
+          }
+        },
+        {
+          "dapAn": "I",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "3208ae2f-924f-4d11-8b8e-a6b6a7df1869"
+          }
+        },
+        {
+          "dapAn": "am",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f7de240f-e2f9-48c5-909e-66e8fc7454e6"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c9296f6e-3851-4722-a86a-e9da3dbdd21d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<b>(1)</b> ______ evening. Welcome to the first English<b> (2)</b> ______. I <b>(3)</b> ______ your teacher. My name<b> (4) </b>______ Mrs. Wood.",
+      "yNghia": "<b>(1)</b> <span style=\"color:red\"><b>Good</b></span> <span style=\"color:red\"> </span> evening. Welcome to the first English <b>(2)</b> <span style=\"color:red\"><b>class</b></span> . I <b>(3)</b> <span style=\"color:red\"><b>am</b></span> <span style=\"color:red\"> </span> your teacher. My name <b>(4)</b> <span style=\"color:red\"><b>is</b></span> <span style=\"color:red\"> </span> Mrs. Wood.<br />\r\n<span style=\"color:red\"><i>Chào </i></span> <i>buổi tối. Chào mừng đến với </i><span style=\"color:red\"><i>lớp học </i></span> <i>tiếng Anh buổi đầu tiên. Cô </i><span style=\"color:red\"><i>là </i></span> <i>giáo viên của các em. Tên cô </i><span style=\"color:red\"><i>là </i></span> <i>cô Wood.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "Good",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d997a3e3-1e64-4cf8-b158-a6c1e6173ba1"
+          }
+        },
+        {
+          "dapAn": "class",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d95de87f-fb06-4c27-91f7-bf6a341ba78b"
+          }
+        },
+        {
+          "dapAn": "am",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8c042b8f-e996-4642-bcd3-cc065e9621c6"
+          }
+        },
+        {
+          "dapAn": "is",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "eb2cc080-2398-4c89-91c1-e5e22a2bc966"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "994bd0e8-8860-4aae-83be-bc7d29e34a6a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td>\n                        <td>Teacher, please say them <b>(1)</b> ______.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>David:</b></td>\n                        <td>Hello,<b> (2) </b>______, Good morning or Good <b>(3) </b>______. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td>\n                        <td>Can you write them on the<b> (4) </b>______?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>David:</b></td>\n                        <td>Yes, of course.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td>\r\n                        <td>Teacher, please say them<b> (1)</b> <b><span style=\"color:red\">again</span> </b>.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td> </td>\r\n                        <td><i>Thưa thầy, thầy làm ơn nhắc <span style=\"color:red\">lại </span> ạ.</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>David:</b></td>\r\n                        <td>Hello, <b>(2)</b> <b><span style=\"color:red\">Hi</span> </b>, Good morning or Good <b>(3) <span style=\"color:red\">afternoon</span> </b>.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td> </td>\r\n                        <td><i>Xin chào, <span style=\"color:red\">Chào</span> , Chào buổi sáng hoặc Chào <span style=\"color:red\">buổi chiều</span> .</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td>\r\n                        <td>Can you write them on the <b>(4) <span style=\"color:red\">board</span> </b>?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td> </td>\r\n                        <td><i>Thầy viết lên <span style=\"color:red\">bảng </span> được không ạ?</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>David:</b></td>\r\n                        <td>Yes, of course.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td> </td>\r\n                        <td><i>Được, dĩ nhiên rồi.</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "again",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "04bdd58c-af47-4677-ba81-c10037061e4f"
+          }
+        },
+        {
+          "dapAn": "Hi",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "fc1b370a-04c4-4b8e-be80-2891213b3786"
+          }
+        },
+        {
+          "dapAn": "afternoon",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "30e1aece-c71e-4c09-aa4a-f3d037511a1b"
+          }
+        },
+        {
+          "dapAn": "board",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "30c785a3-0990-4a26-bf48-5fc5ad28d7ff"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0_1",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "9ad6ef02-8dc1-4a41-a4f0-8a8f8bced79a"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Contract",
+      "yNghia": "Bản hợp đồng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c9d7ef1f-e706-491e-995f-78e2a9bb2151"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Pension",
+      "yNghia": "Lương hưu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "73fe5337-9a7c-4de9-b5bc-d8c8d8b97e25"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Sick pay",
+      "yNghia": "Lương nghỉ ốm",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f4739356-48e3-4ac1-bb7c-33c3918b465f"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Chore",
+      "yNghia": "Việc vặt",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6f3c7c13-13dc-400b-91a6-7e75b48453ea"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Field",
+      "yNghia": "Lĩnh vực, ngành nghề",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5b84c867-5284-431c-9160-1061de250fc8"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Donation",
+      "yNghia": "Sự quyên góp, hiến tặng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "25234479-6a03-429b-a031-dd92bea00c31"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Donor",
+      "yNghia": "Nhà quyên góp, nhà tài trợ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d310d0e4-a98f-4c5e-9da3-21cce58b57e2"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Contribution",
+      "yNghia": "Sự đóng góp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7a2615c9-4b5c-45a0-8b09-3cf677bdc2f3"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Contributor",
+      "yNghia": "Người đóng góp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b29881a3-ed4e-45be-ab13-c2b5f0503ae6"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Charity",
+      "yNghia": "Quỹ từ thiện",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2601a912-f215-4984-bd7d-2f7f487be55c"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Contribute",
+      "yNghia": "Đóng góp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "bb3bfb30-fb19-4672-9ba1-0b27e87a903b"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Hire",
+      "yNghia": "Thuê, tuyển dụng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "29d17c70-2cbc-423d-aa3d-67874aa60353"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Donate",
+      "yNghia": "Quyên góp, hiến tặng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "622f51fa-f961-433b-bfbb-20f717a44770"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Wealthy",
+      "yNghia": "Giàu có",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4772b2aa-b7ce-46b4-a715-95be822d5ddb"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Bank clerk",
+      "yNghia": "Nhân viên quầy giao dịch của ngân hàng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e38a7e0e-2c7b-420a-a35d-8d4fe5613771"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Lay off",
+      "yNghia": "Sa thải",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "921e7220-55d1-42a6-bda7-0ff550c310f8"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Give away money",
+      "yNghia": "Quyên góp tiền",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d6e7fb40-15c2-4a48-9a72-97603672301d"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "The gig economy",
+      "yNghia": "Nền kinh tế tạm thời",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "992e613b-6517-495b-9f93-5c926133d776"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Thrift store",
+      "yNghia": "Cửa hàng từ thiện",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f49b203c-4ebb-49be-999f-243f6041b7dd"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Inherit money",
+      "yNghia": "Hưởng tiền, thừa kế tiền",
+      "danhSachDapAn": []
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L22/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L22/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "8e958799-573d-40d1-b871-b05ac0931334"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Waitress",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1d4964c4-762f-4d81-a08b-1255676bd836"
+          },
+          "dapAn": "Good afternoon. What can I get you?",
+          "phienAm": "/ˌɡʊd ɑːftəˈnuːn/. /wɒt kæn aɪ get juː/",
+          "yNghia": "\nChào buổi chiều. Tôi có thể giúp gì cho ông?",
+          "normal": {
+            "start": "00:00:00.759",
+            "end": "00:00:03.246"
+          },
+          "slow": {
+            "start": "00:00:00.881",
+            "end": "00:00:05.656"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f48696a9-c8e2-4ca5-af11-55f10ead140b"
+          },
+          "dapAn": "Sure. What size: small, medium or large?",
+          "phienAm": "/ʃʊər/. /wɒt saɪz smɔːl ˈmiːdiəm ɔːr lɑːʤ/",
+          "yNghia": "\nTất nhiên rồi. Ông muốn cỡ nào: nhỏ, vừa, hay lớn?",
+          "normal": {
+            "start": "00:00:07.672",
+            "end": "00:00:11.466"
+          },
+          "slow": {
+            "start": "00:00:11.568",
+            "end": "00:00:18.531"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a3de217a-21a6-49e2-b9d8-cec54206c525"
+          },
+          "dapAn": "Sure, sir. Any other drinks?",
+          "phienAm": "/ʃʊər sɜːr/. /ˈeni ˈʌðər drɪŋks/",
+          "yNghia": "\nTất nhiên rồi, thưa ông. Ông có muốn gọi đồ uống nào nữa không?",
+          "normal": {
+            "start": "00:00:15.977",
+            "end": "00:00:18.675"
+          },
+          "slow": {
+            "start": "00:00:23.818",
+            "end": "00:00:28.110"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "71d8c1a0-067e-474b-b150-7b2c5269dbd9"
+          },
+          "dapAn": "One large black coffee and one orange juice, right?",
+          "phienAm": "/wʌn lɑːʤ blæk ˈkɒfi ænd wʌn ˈɒrɪnʤ ʤuːs raɪt/",
+          "yNghia": "\nMột ly cà phê đen cỡ lớn và một ly nước cam, phải không?",
+          "normal": {
+            "start": "00:00:23.396",
+            "end": "00:00:28.244"
+          },
+          "slow": {
+            "start": "00:00:32.601",
+            "end": "00:00:39.564"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d7b6bc6c-f7a3-4193-84ac-b6c1affc33db"
+          },
+          "dapAn": "Is that for here or to go?",
+          "phienAm": "/ɪz ðæt fɔːr hɪər ɔːr tuː gəʊ/",
+          "yNghia": "\nÔng dùng món ở đây hay mang về?",
+          "normal": {
+            "start": "00:00:31.574",
+            "end": "00:00:33.724"
+          },
+          "slow": {
+            "start": "00:00:43.685",
+            "end": "00:00:48.006"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ccf6f76b-af29-4bf1-a989-f3e66e8c3e4b"
+          },
+          "dapAn": "No problem. Can I get you some food?",
+          "phienAm": "/nəʊ ˈprɒbləm/. /kæn aɪ get juː sʌm fuːd/",
+          "yNghia": "\nKhông thành vấn đề. Tôi lấy cho ông một ít thức ăn được không?",
+          "normal": {
+            "start": "00:00:36.799",
+            "end": "00:00:39.471"
+          },
+          "slow": {
+            "start": "00:00:51.246",
+            "end": "00:00:55.992"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8def2e0e-47db-4806-92bc-27d1e4d55f7a"
+          },
+          "dapAn": "Yes, we have chicken soup.",
+          "phienAm": "/jes wiː hæv ˈʧɪkɪn suːp/",
+          "yNghia": "\nCó, chúng tôi có súp gà.",
+          "normal": {
+            "start": "00:00:44.094",
+            "end": "00:00:46.117"
+          },
+          "slow": {
+            "start": "00:01:01.137",
+            "end": "00:01:05.002"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8e7c25c3-9eaa-4495-9278-78be41b884f9"
+          },
+          "dapAn": "OK. Is there anything else, sir?",
+          "phienAm": "/əʊˈkeɪ/. /ɪz ðeər ˈenɪθɪŋ els sɜːr/",
+          "yNghia": "\nĐược. Còn gì nữa không, thưa ông?",
+          "normal": {
+            "start": "00:00:53.916",
+            "end": "00:00:56.656"
+          },
+          "slow": {
+            "start": "00:01:13.358",
+            "end": "00:01:18.219"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1b7709f1-a918-4721-80e5-f34c451e5b10"
+          },
+          "dapAn": "Yes, we have some cookies and chocolate cakes.",
+          "phienAm": "/jes wiː hæv sʌm ˈkʊkiz ænd ˈtʃɒklət keɪks/",
+          "yNghia": "\nCó, chúng tôi có một vài miếng bánh quy và bánh sô-cô-la.",
+          "normal": {
+            "start": "00:01:00.703",
+            "end": "00:01:03.907"
+          },
+          "slow": {
+            "start": "00:01:22.539",
+            "end": "00:01:27.939"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5e5d2014-3781-49cb-a179-dfb6961a7405"
+          },
+          "dapAn": "No worries, sir. Please wait a bit.",
+          "phienAm": "/nəʊ ˈwʌriz sɜːr/. /pliːz weɪt eɪ bɪt/",
+          "yNghia": "\nKhông vấn đề gì, thưa ông. Làm ơn hãy đợi một chút.",
+          "normal": {
+            "start": "00:01:08.080",
+            "end": "00:01:10.356"
+          },
+          "slow": {
+            "start": "00:01:31.861",
+            "end": "00:01:35.585"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e65ccdb2-de38-46e7-89be-7dbfc3f3edc7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Customer",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "66046477-1cf8-437a-bf9e-f03952f75f74"
+          },
+          "dapAn": "Can I get a black coffee, please?",
+          "phienAm": "/kæn aɪ get eɪ blæk ˈkɒfi pliːz/",
+          "yNghia": "\nLàm ơn cho tôi một ly cà phê đen được không?",
+          "normal": {
+            "start": "00:00:04.595",
+            "end": "00:00:06.956"
+          },
+          "slow": {
+            "start": "00:00:07.617",
+            "end": "00:00:10.289"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "999b893d-4ac0-4fda-b151-21699cdf565f"
+          },
+          "dapAn": "Large, please. I’m very tired today.",
+          "phienAm": "/lɑːʤ pliːz/. /aɪm ˈveri ˈtaɪəd təˈdeɪ/",
+          "yNghia": "\nCỡ lớn. Hôm nay, tôi rất mệt.",
+          "normal": {
+            "start": "00:00:12.478",
+            "end": "00:00:15.176"
+          },
+          "slow": {
+            "start": "00:00:19.384",
+            "end": "00:00:22.738"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f75d699a-f29a-4a81-80bc-04d451120fe8"
+          },
+          "dapAn": "Yes. An orange juice, please.",
+          "phienAm": "/jes/. /æn ˈɒrɪnʤ ʤuːs pliːz/",
+          "yNghia": "\nCó. Làm ơn cho tôi một ly nước cam.",
+          "normal": {
+            "start": "00:00:20.150",
+            "end": "00:00:22.216"
+          },
+          "slow": {
+            "start": "00:00:29.218",
+            "end": "00:00:31.720"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "37ee2938-06f7-4aa1-a874-59062f35ea57"
+          },
+          "dapAn": "Yes, that’s right.",
+          "phienAm": "/jes ðæts raɪt/",
+          "yNghia": "\nĐúng vậy.",
+          "normal": {
+            "start": "00:00:29.213",
+            "end": "00:00:30.773"
+          },
+          "slow": {
+            "start": "00:00:40.673",
+            "end": "00:00:42.435"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "37a1af2e-0f13-4056-a5c7-8cd64a37c4b2"
+          },
+          "dapAn": "Here, please.",
+          "phienAm": "/hɪər pliːz/",
+          "yNghia": "\nỞ đây.",
+          "normal": {
+            "start": "00:00:34.651",
+            "end": "00:00:35.958"
+          },
+          "slow": {
+            "start": "00:00:48.830",
+            "end": "00:00:49.910"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3a3c5070-e869-4272-8f07-7aecb1a2fe4d"
+          },
+          "dapAn": "Yes, please. Is there any soup?",
+          "phienAm": "/jes pliːz/. /ɪz ðeər ˈeni suːp/",
+          "yNghia": "\nĐược. Cô có súp không?",
+          "normal": {
+            "start": "00:00:40.342",
+            "end": "00:00:42.787"
+          },
+          "slow": {
+            "start": "00:00:57.243",
+            "end": "00:01:00.256"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1881c26e-077a-4ae1-a98f-1eca0b2b9bf7"
+          },
+          "dapAn": "OK. I’ll have a bowl of chicken soup. I also want a sandwich.",
+          "phienAm": "/əʊˈkeɪ/. /aɪl hæv eɪ bəʊl ɒv ˈʧɪkɪn suːp/. /aɪ ˈɔːlsəʊ wɒnt eɪ ˈsænwɪʤ/",
+          "yNghia": "\nĐược. Cho tôi một bát súp gà. Tôi cũng muốn một cái bánh mì sandwich.",
+          "normal": {
+            "start": "00:00:47.213",
+            "end": "00:00:52.441"
+          },
+          "slow": {
+            "start": "00:01:05.997",
+            "end": "00:01:12.193"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5892f48e-b1e0-457c-9262-a64cb9bdcaa4"
+          },
+          "dapAn": "Do you have food for children?",
+          "phienAm": "/duː juː hæv fuːd fɔːr ˈʧɪldrən/",
+          "yNghia": "\nCô có đồ ăn cho trẻ em không?",
+          "normal": {
+            "start": "00:00:58.083",
+            "end": "00:00:59.771"
+          },
+          "slow": {
+            "start": "00:01:19.100",
+            "end": "00:01:21.146"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4b0c0634-443f-485c-a0d4-7ecd5f85cde3"
+          },
+          "dapAn": "Then I’ll take a cake to go.",
+          "phienAm": "/ðen aɪl teɪk eɪ keɪk tuː gəʊ/",
+          "yNghia": "\nVậy tôi sẽ lấy một cái bánh để mang đi.",
+          "normal": {
+            "start": "00:01:04.876",
+            "end": "00:01:06.858"
+          },
+          "slow": {
+            "start": "00:01:28.707",
+            "end": "00:01:30.696"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1fb67189-c6aa-4268-a38d-9560202709dd"
+          },
+          "dapAn": "Thank you.",
+          "phienAm": "/θæŋk juː/",
+          "yNghia": "\nCảm ơn.",
+          "normal": {
+            "start": "00:01:11.368",
+            "end": "00:01:12.169"
+          },
+          "slow": {
+            "start": "00:01:37.120",
+            "end": "00:01:37.688"
+          }
+        }
+      ]
+    }
+  ]
+}

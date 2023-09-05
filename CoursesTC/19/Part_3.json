@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "c37dcd82-7395-449e-a07c-292aafd1cd7c"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Bandage",
+      "yNghia": "Băng gạc \n (để băng bó vết thương)",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d33f8db2-1005-4a3c-a58b-4d8c78d4e610"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Sneeze",
+      "yNghia": "Hắt hơi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "840a7533-4674-4789-abc8-d4a0c2d7c9e8"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Irritating",
+      "yNghia": "Gây khó chịu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9db60d7d-cc0f-452c-9d03-2e3d3ecf6ee3"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Overweight",
+      "yNghia": "Thừa cân",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5993b436-1523-4e37-bad5-9cc630385af7"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Obese",
+      "yNghia": "Béo phì",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f1211a5d-2ded-4e96-8156-fe070ca9473f"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Break your arm",
+      "yNghia": "Gãy tay",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "60285457-5e4b-4694-a30d-dc2efc15a380"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Have a headache",
+      "yNghia": "Đau đầu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "391d5c9d-8c18-40ad-9b78-7319c5745854"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Have a rash on your leg",
+      "yNghia": "Phát ban ở chân",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "af64c09b-585d-407d-a660-e8e380aa80ae"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Sprain your ankle",
+      "yNghia": "Bong gân cổ chân",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c4caac85-bb01-425c-b274-b748d345265d"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Have a cut",
+      "yNghia": "Bị cắt da",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e16559f5-d791-4fef-91e5-8b1da5442ca7"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Have a sore throat",
+      "yNghia": "Đau họng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f5965b50-2f94-4be7-a204-69a200611a0c"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Have a cold",
+      "yNghia": "Cảm lạnh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e1606df2-69af-4b99-9e18-860366d6b6ec"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Have a fever",
+      "yNghia": "Sốt",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8ee42982-a3cb-4b16-884f-14c09f84e580"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Get tired",
+      "yNghia": "Mệt mỏi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "04ae75f4-3fed-4752-8223-23eec8266fd1"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Get sick",
+      "yNghia": "Bị ốm",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "80d186cb-c3e8-4ff0-ab47-95b091603b43"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Get upset",
+      "yNghia": "Trở nên buồn bã",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1ca40e28-2e8b-4348-9b05-b925d1d19921"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Injured",
+      "yNghia": "Bị thương",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "cd7220ef-f36e-48c8-ac15-833e929b155a"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Get in shape",
+      "yNghia": "Lấy lại vóc dáng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "48329dfe-b55f-4d59-92da-ce4967864456"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Protein",
+      "yNghia": "Chất đạm",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7cd62ead-a4bd-4c17-84fb-576f90b8d5a4"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Fat",
+      "yNghia": "Chất béo",
+      "danhSachDapAn": []
+    }
+  ]
+}

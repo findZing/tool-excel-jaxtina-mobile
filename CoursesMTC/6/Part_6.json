@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "4f00a615-6206-4bab-8456-c704366fef1e"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "0026fb6b-6d9b-47c0-a62d-ae9acfc3123c"
+          },
+          "cauHoi": "What subject does the writer talk about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b5cfdecc-efbf-4514-a89c-6390eeb3fd26"
+              },
+              "dapAn": "A. climate change",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "15e30b81-905a-4623-9fe3-c8b164085c6b"
+              },
+              "dapAn": "B. role model",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "976d753b-be64-4e3e-a8f2-1a5a1070cbd7"
+              },
+              "dapAn": "C. animal",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "44909f3c-1aeb-4f68-8aea-51ba8a51d678"
+              },
+              "dapAn": "D. communication skill",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "c186e897-36b6-415d-91a6-703065185c1e"
+          },
+          "cauHoi": "Do many people find it hard to communicate?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d9ef99a0-2331-434c-92a6-afab06aac7da"
+              },
+              "dapAn": "A. Yes, they do.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "1996321d-c0ad-4af5-a04e-e93ccc5195ac"
+              },
+              "dapAn": "B. Yes, they don’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bb809ee7-5bed-4add-a90c-c3cf8190250e"
+              },
+              "dapAn": "C. No, they do.\nD. No, they don’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d26ac08f-85ff-42ed-bce3-b84b28a1b97a"
+              },
+              "dapAn": "D. No, they don’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "2789db49-f375-4175-a78c-7bfc1c24ba80"
+          },
+          "cauHoi": "What makes a good communicator?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a260d9b1-598b-42f0-986c-a56548db72cf"
+              },
+              "dapAn": "A. speak well",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ef629d80-37fb-4278-83d5-109c651f37df"
+              },
+              "dapAn": "B. explain ideas clearly",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "45e06dde-9726-4af0-b85b-653efbf0eb66"
+              },
+              "dapAn": "C. dance well",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "eec283f1-e9cb-4620-b293-d7389601fa91"
+              },
+              "dapAn": "D. both A & B",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "577e3db4-885d-4d86-849d-a6ae30c014cc"
+          },
+          "cauHoi": "Can a good communicator persuade people to do what he or she wants?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "fbf28144-b086-4846-9812-2e2ea1f528f9"
+              },
+              "dapAn": "A. No, he can.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "01f8f44c-53d1-4050-b137-583104954ba9"
+              },
+              "dapAn": "B. No, he can’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fd4a4140-3837-404c-93aa-d17d261c27a5"
+              },
+              "dapAn": "C. Yes, he can.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "7f416538-14ec-44c3-a24b-d54a853dade4"
+              },
+              "dapAn": "D. Yes, he can’t.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "What do you think about your communication skill? Many of us find it hard to communicate. So, what makes a good communicator? A good communicator is someone who can speak well and explain his or her ideas clearly. Moreover, a good communicator can persuade people to do what he or she wants.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What subject does the writer talk about?</b> <i>(Người viết đang bàn về chủ đề gì?),</i> <b></b>câu trong bài đọc liên quan là <b>What do you think about your communication skill?</b> <i>(Bạn nghĩ gì về kỹ năng giao tiếp của mình?).</i> Nên đáp áp là <span style=\"color:red\"><b>D. communication skill</b></span> <i>(kỹ năng giao tiếp)</i>.<br />\n<b>2.</b> Với câu hỏi <b>Do people find it hard to communicate?</b> <i>(Mọi người có thấy khó khi giao tiếp không?),</i> <b></b>câu trong bài đọc liên quan là <b>Many of us find it hard to communicate.</b> <i>(Nhiều người trong chúng ta thấy khó giao tiếp.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. Yes, they do.</b></span> <i>(Có.)</i>.<br />\n<b>3.</b> Với câu hỏi <b>What makes a good communicator?</b> <i>(Điều gì tạo nên một người giao tiếp tốt?),</i> <b></b>câu trong bài đọc liên quan là <b>A good communicator is someone who can speak well and explain his or her ideas clearly.</b> <i>(Một người giao tiếp tốt là người có thể nói tốt và giải thích ý tưởng của mình.).</i> Nên đáp áp là <span style=\"color:red\"><b>D. both A & B</b></span> <i>(cả A và B)</i>.<br />\n<b>4.</b> Với câu hỏi <b>Can a good communicator persuade people to do what he or she wants?</b> <i>(Có phải một người giao tiếp tốt có thể thuyết phục mọi người làm theo ý mình không?),</i> <b></b>câu trong bài đọc liên quan là <b>Moreover, a good communicator can persuade people to do what he or she wants.</b> <i>(Hơn nữa, một người giao tiếp tốt có thể thuyết phục mọi người làm theo ý mình.).</i> Nên đáp áp là <span style=\"color:red\"><b>C. Yes, he can.</b></span> <i>(Có.)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a4d429b4-38f8-41e1-bb8b-aef2418221f9"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "1782b156-11c4-4d61-a987-971a0ecfded5"
+          },
+          "cauHoi": "Is communication skill an important one?\n",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "e1554b31-ab5b-4ece-8f86-5b4af210ca74"
+              },
+              "dapAn": "A. No, it isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fb9c2080-c498-4bdf-bb2a-007fe2bd3bcd"
+              },
+              "dapAn": "B. No, it is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1caaf9be-e4cc-4445-9182-3ea60b1fa885"
+              },
+              "dapAn": "C. Yes, it is.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "6e40eee0-af39-4114-8696-84477ca1c34a"
+              },
+              "dapAn": "D. Yes, it isn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "d4094b8a-b778-4ae1-9fd4-eea02c531937"
+          },
+          "cauHoi": "What aspects of lives does the communication skill have impacts on?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8857375d-ce20-4993-b348-b77d4b759050"
+              },
+              "dapAn": "A. personal lives",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cd97ac6f-035e-4a87-9582-9fd8a2dbd1f0"
+              },
+              "dapAn": "B. academic lives",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c1211235-4913-40aa-9400-196be84be634"
+              },
+              "dapAn": "C. professional lives",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "82462d34-99db-46b5-b731-890585b1435f"
+              },
+              "dapAn": "D. A, B & C",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "4160f587-78be-45fc-bfbc-98a53af3fbfb"
+          },
+          "cauHoi": "Is it hard to learn a few simple communication techniques?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c7b6664a-277a-49f3-bffc-e6319d820a95"
+              },
+              "dapAn": "A. No, it isn’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "6278ddee-47dd-4036-b884-4000f3f18396"
+              },
+              "dapAn": "B. No, it is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d2f5818d-741c-46b9-9f49-51ec163a6a20"
+              },
+              "dapAn": "C. Yes, it is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "616644a8-7f23-4fd5-9aa5-e0d1c55b022e"
+              },
+              "dapAn": "D. Yes, it isn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "c9dd5c5b-ef2a-4caf-ba7a-4caabc611242"
+          },
+          "cauHoi": "What do good communicators talk honestly about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "0eac45ac-d1cf-4728-a260-bce008a15996"
+              },
+              "dapAn": "A. how they feel",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "51cabc58-96a8-4004-ad4b-1224c62c9599"
+              },
+              "dapAn": "B. how they learn",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d3b8b29f-e133-402a-a23b-291801f486a3"
+              },
+              "dapAn": "C. how they dance\nD. how they cook",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "84c8f408-c5d6-4de6-839b-706deee7a6f2"
+              },
+              "dapAn": "D. how they cook",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Communication is an important skill in our personal, academic, and professional lives, and it’s easy to learn a few simple communication techniques. Good communicators talk honestly about how they feel.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Is communication skill an important one?</b> <i>(Kĩ năng giao tiếp có phải là một kĩ năng quan trọng?),</i> <b></b>câu trong bài đọc liên quan là <b>Communication is an important skill in ...</b> <i>(Giao tiếp là một kĩ năng quan trọng trong ...).</i> Nên đáp áp là <span style=\"color:red\"><b>C. Yes, it is.</b></span> <i>(Đúng.)</i>.<br />\n<b>2.</b> Với câu hỏi <b>What aspects of lives does the communication skill have impacts on?</b> <i>(Kĩ năng giao tiếp ảnh hướng tới khía cạnh nào của cuộc sống?),</i> <b></b>câu trong bài đọc liên quan là <b>Communication is an important skill in our personal, academic, and professional lives ...</b> <i>(Giao tiếp là một kỹ năng quan trọng trong cuộc sống cá nhân, học tập và nghề nghiệp của chúng ta ...).</i> Nên đáp áp là <span style=\"color:red\"><b>D. both A, B & C</b></span> <i>(cả A, B và C)</i>.<br />\n<b>3.</b> Với câu hỏi <b>Is it hard to learn a few simple communication techniques?</b> <i>(Có khó để học một vài kỹ thuật giao tiếp đơn giản không?),</i> <b></b>câu trong bài đọc liên quan là <b>it's easy to learn a few simple communication techniques</b> <i>(thật dễ dàng để học một vài kỹ thuật giao tiếp đơn giản.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. No, it isn't.</b></span> <i>(Không.)</i>.<br />\n<b>4.</b> Với câu hỏi <b>What do good communicators talk honestly about?</b> <i>(Những người giao tiếp tốt nói một cách trung thực về điều gì?),</i> <b></b>câu trong bài đọc liên quan là <b>Good communicators talk honestly about how they feel.</b> <i>(Những người giao tiếp tốt nói một cách trung thực về cảm giác của họ.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. how they feel</b></span> <i>(cảm giác của họ)</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "79ccda7e-0629-4a5f-8de7-3887f07a8146"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "58c42e8a-f9e0-49f0-95e2-1a1d57772c8b"
+          },
+          "cauHoi": "Do good communicators listen carefully to what other people say?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "cb9fb3dc-7f7a-418a-b8e9-4a7508cfebbb"
+              },
+              "dapAn": "A. No, they don’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5b6b64bd-ec0d-4738-b878-d4748d1f1b96"
+              },
+              "dapAn": "B. No, they do.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a90b1310-2679-40e3-b495-985bc17c05b1"
+              },
+              "dapAn": "C. Yes, they don’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b53da358-4238-4cd0-9699-55f152def3a9"
+              },
+              "dapAn": "D. Yes, they do.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "333827b9-b065-426a-839e-ee8d2acfdcf0"
+          },
+          "cauHoi": "Why do they have to listen carefully?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "397b1824-3948-424f-92a5-38bab3e30c1b"
+              },
+              "dapAn": "A. answer some questions",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "87732db3-e03d-4cb6-8c5b-bcbf85008e76"
+              },
+              "dapAn": "B. understand some lyrics",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8e0cfe3c-980f-42f3-a4b3-a9617e28eaaa"
+              },
+              "dapAn": "C. understand the other person’s thoughts",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "5052a390-d3aa-46a0-aa29-15e9f9d863de"
+              },
+              "dapAn": "D. be nice",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "818b8064-95bb-4005-ab19-80be4435d4be"
+          },
+          "cauHoi": "What do they do to show they understand?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8ec1dbd0-0329-4c54-ba3b-9b5e60ad506d"
+              },
+              "dapAn": "A. smile",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f551efb8-c33e-47f7-ab3d-ab32ee306d92"
+              },
+              "dapAn": "B. repeat ideas",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "7f218052-ae1c-46f4-ae4c-ff71c562e590"
+              },
+              "dapAn": "C. discuss more",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b7ced565-a0b4-45ab-9f39-d9dbec3689d6"
+              },
+              "dapAn": "D. nod their heads",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "18519263-61b0-4474-9778-3c6ee0a92f4b"
+          },
+          "cauHoi": "How do they encourage people to say more?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "32e73fd9-ade1-47f0-b13d-c17a683d8850"
+              },
+              "dapAn": "A. asking relevant questions",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "59f52553-a878-4aa2-a516-9ca5204808bd"
+              },
+              "dapAn": "B. laugh",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ff206231-66e0-43b8-98a2-d2a991b8c94b"
+              },
+              "dapAn": "C. asking irrelevant questions",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fcbcb4f0-e4bd-47f4-9afb-ae8872460ca9"
+              },
+              "dapAn": "D. smile",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Good communicators listen carefully to understand the other person’s thoughts. They repeat ideas back to the other people to show they understand. They also encourage people to say more by asking relevant questions.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Do good communicators listen carefully to what other people say?</b> <i>(Những người giao tiếp giỏi có lắng nghe cẩn thận những điều mà mọi người nói không?),</i> <b></b>câu trong bài đọc liên quan là <b>Good communicators listen carefully to understand the other person's thoughts.</b> <i>(Những người giao tiếp giỏi lắng nghe cẩn thận để hiểu suy nghĩ của người khác.).</i> Nên đáp áp là <span style=\"color:red\"><b>D. Yes, they do.</b></span> <i>(Có)</i>.<br />\n<b>2.</b> Với câu hỏi <b>Why do they have to listen carefully?</b> <i>(Tại sao họ phải lắng nghe cẩn thận?),</i> <b></b>câu trong bài đọc liên quan là <b>Good communicators listen carefully to understand the other person's thoughts.</b> <i>(Những người giao tiếp giỏi lắng nghe cẩn thận để hiểu suy nghĩ của người khác.).</i> Nên đáp áp là <span style=\"color:red\"><b>C. understand the other person's thoughts</b></span> <i>(hiểu suy nghĩ của người khác)</i>.<br />\n<b>3.</b> Với câu hỏi <b>What do they do to show they understand?</b> <i>(Họ làm gì để cho thấy họ hiểu?),</i> <b></b>câu trong bài đọc liên quan là <b>They repeat ideas back to the other people to show they understand.</b> <i>(Họ lặp lại ý tưởng với người khác để cho thấy họ hiểu.).</i> Nên đáp áp là <span style=\"color:red\"><b>B. repeat ideas</b></span> <i>(lặp lại ý tưởng)</i>.<br />\n<b>4.</b> Với câu hỏi <b>How do they encourage people to say more?</b> <i>(Họ khuyến khích mọi người nói nhiều hơn bằng cách nào?),</i> <b></b>câu trong bài đọc liên quan là <b>They also encourage people to say more by asking relevant questions.</b> <i>(Họ cũng khuyến khích mọi người nói nhiều hơn bằng cách đặt những câu hỏi có liên quan.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. asking relevant questions</b></span> <i>(đặt những câu hỏi có liên quan)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "432b694f-995f-4faf-ace5-22f8f3343ca0"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "45c607d9-109a-47ff-8392-af714b75715c"
+          },
+          "cauHoi": "Do good communicators make a personal connection with people?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f67ab734-dd0c-4e96-8b1f-15b71051e167"
+              },
+              "dapAn": "A. Yes, they do.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "273e3bb6-fc68-46fb-8785-6da9f182824d"
+              },
+              "dapAn": "B. Yes, they don’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "15483603-5dd1-4cdb-8f7a-b312476caafd"
+              },
+              "dapAn": "C. No, they don’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ef1057a5-a7c1-4f99-b3a3-ad0f50af8ae6"
+              },
+              "dapAn": "D. No, they do.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "a5f59d28-5173-4e45-9cf4-6a0b61628d1f"
+          },
+          "cauHoi": "What do they try to do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7b7442c6-cd4c-4ca7-87f5-6427ed25d260"
+              },
+              "dapAn": "A. asking irrelevant questions",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "56ee17cc-9ac2-428d-b4a0-7db237277b2c"
+              },
+              "dapAn": "B. find something they have in common with the person they are speaking to",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "631ad755-2744-404c-92cd-42d4ee54a9d4"
+              },
+              "dapAn": "C. repeat ideas",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f11d0787-8f39-4a95-be36-b69c03dcd2e9"
+              },
+              "dapAn": "D. find something they do not have in common with the person they are speaking to",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "03e1fac3-621b-4e0f-9ef2-2dc2258ff5db"
+          },
+          "cauHoi": "Are they good at making eye contact?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "e3a27166-1c6f-42a9-b879-3ddb4c784d33"
+              },
+              "dapAn": "A. No, they are.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bae4b9ba-4c03-45ab-a955-50f9c7781340"
+              },
+              "dapAn": "B. No, they aren’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a3f4702a-3b27-4a8a-bf0b-576ae6053b6e"
+              },
+              "dapAn": "C. Yes, they are.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "deddccd1-6c2d-49e0-a8f6-8fc98e3c4a00"
+              },
+              "dapAn": "D. Yes, they aren’t",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f9f46e6c-e30f-4c3d-b51c-bdd007cd90d4"
+          },
+          "cauHoi": "Why do they have to make eye contact?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "11f7aee0-4fd8-4624-a1e5-2f572b6cf15c"
+              },
+              "dapAn": "A. be confident",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "79d51682-f7dd-4bde-b0a0-7303e33fba3b"
+              },
+              "dapAn": "B. listen carefully",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "de221de3-75a9-4ed1-be95-aaa8bad2393d"
+              },
+              "dapAn": "C. make an impression",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c8da9404-5cd1-4a97-a10a-8a4fd6eb2254"
+              },
+              "dapAn": "D. understand what the other person wants from a situation",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Good communicators make a personal connection with people. They try to find something they have in common with the person they are speaking to. They are also good at making eye contact with listeners, which helps them to understand what the other person wants from a situation.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Do good communicators make a personal connection with people?</b> <i>(Những người giao tiếp giỏi có tạo ra mối liên hệ cá nhân với mọi người không?),</i> <b></b>câu trong bài đọc liên quan là <b>Good communicators make a personal connection with people.</b> <i>(Những người giao tiếp giỏi tạo ra mối liên hệ cá nhân với mọi người.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. Yes, they do.</b></span> <i>(Có.)</i>.<br />\n<b>2.</b> Với câu hỏi <b>What do they try to do?</b> <i>(Họ cố gắng làm gì?),</i> <b></b>câu trong bài đọc liên quan là <b>They try to find something they have in common with the person they are speaking to.</b> <i>(Họ cố gắng tìm ra điểm chung của họ với người mà họ đang nói chuyện cùng.).</i> Nên đáp áp là <span style=\"color:red\"><b>B. find something they have in common with the person they are speaking to</b></span> <i>(gắng tìm ra điểm chung của họ với người mà họ đang nói chuyện cùng)</i>.<br />\n<b>3.</b> Với câu hỏi <b>Are they good at making eye contact?</b> <i>(Họ có giỏi giao tiếp bằng mắt không?),</i> <b></b>câu trong bài đọc liên quan là <b>They are also good at making eye contact with listeners ...</b> <i>(Họ cũng giỏi giao tiếp bằng mắt với người nghe ...).</i> Nên đáp áp là <span style=\"color:red\"><b>C. Yes, they are.</b></span> <i>(Có.)</i>.<br />\n<b>4.</b> Với câu hỏi <b>Why do they have to make eye contact?</b> <i>(Tại sao họ phải giao tiếp bằng mắt?),</i> <b></b>câu trong bài đọc liên quan là <b>They are also good at making eye contact with listeners, which helps them to understand what the other person wants from a situation.</b> <i>(Họ cũng giỏi giao tiếp bằng mắt với người nghe, điều đó giúp họ hiểu người kia muốn gì từ một tình huống.).</i> Nên đáp áp là <span style=\"color:red\"><b>D. understand what the other person wants from a situation</b></span> <i>(hiểu người kia muốn gì từ một tình huống)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c515b851-baec-46f3-ac13-27a67ced65a0"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "ef0ab9e9-a190-4018-9375-1b552fdbb1d8"
+          },
+          "cauHoi": "Do public speakers plan their presentation carefully?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "27a80ff3-bb28-43fa-990e-7dafb370f78e"
+              },
+              "dapAn": "A. Yes, they don’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "34bf8248-16f6-4832-8f78-987db03c0754"
+              },
+              "dapAn": "B. Yes, they do.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3a103d86-c024-4134-b55b-ad2a542da853"
+              },
+              "dapAn": "C. No, they don’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6a4360b6-60fb-4a74-8cd7-e83155c8c0e6"
+              },
+              "dapAn": "D. No, they do.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "7ad86685-7fe2-42ef-93a9-b2d0bc04f84f"
+          },
+          "cauHoi": "What do they learn?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "617d1847-3e5a-491d-a81e-912fd4ec5bc3"
+              },
+              "dapAn": "A. materials",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "7a60ae19-3e07-448f-a2ca-8088d6684bdc"
+              },
+              "dapAn": "B. communicate",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "42044a0f-131f-4abc-a711-3870522fc394"
+              },
+              "dapAn": "C. how to use laptop",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "819dbd01-ebc1-474f-827c-16a078461943"
+              },
+              "dapAn": "D. how to speak",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "c2d5c312-72fa-4316-a93e-14218f21a2d0"
+          },
+          "cauHoi": "Do they practice in front of a mirror?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "06938b3f-c88a-46bc-972b-92239f8877ee"
+              },
+              "dapAn": "A. Yes, they don’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2536a597-720a-4158-99ba-9e4d0c74bcef"
+              },
+              "dapAn": "B. Yes, they do.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "77a89f7e-923a-47b5-9264-fbb226d29e5d"
+              },
+              "dapAn": "C. No, they don’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ff4c3925-f406-43a5-8843-7d187d13e15b"
+              },
+              "dapAn": "D. No, they do.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "a84bacb5-86e1-4ff5-afe2-00be29447e76"
+          },
+          "cauHoi": "Why do they practice in front of a mirror?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "618c69e2-8998-4519-91b4-4c0fccaf3328"
+              },
+              "dapAn": "A. be confident\n\n",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3261e5d7-c05c-4296-a343-1222c1ca8875"
+              },
+              "dapAn": "B. be nice",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7d85cf89-881f-41de-a209-18194550f6fa"
+              },
+              "dapAn": "C. be bored",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "29b20a36-0730-4673-a96b-8c045e8d63ae"
+              },
+              "dapAn": "D. be lucky",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "All public speakers try to communicate their message to their audience. Good ones plan their presentation carefully to make sure their message is clear. They know that it’s hard to understand a complicated speech, so they make it as simple as they can. Then, they start to learn the material. Many practice in front of a mirror to see how confident they appear.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Do public speakers plan their presentation carefully?</b> <i>(Những diễn giả có lên kế hoạch thuyết trình cẩn thận không?),</i> <b></b>câu trong bài đọc liên quan là <b>Good ones plan their presentation carefully to make sure their message is clear.</b> <i>(Những diễn giả giỏi lên kế hoạch thuyết trình cẩn thận để đảm bảo thông điệp của họ rõ ràng.).</i> Nên đáp áp là <span style=\"color:red\"><b>B. Yes, they do.</b></span> <i>(Có.)</i>.<br />\n<b>2.</b> Với câu hỏi <b>What do they learn?</b> <i>(Họ tìm hiểu cái gì?),</i> <b></b>câu trong bài đọc liên quan là <b>Then, they start to learn the material.</b> <i>(Sau đó, họ bắt đầu tìm hiểu tài liệu.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. materials</b></span> <i>(tài liệu)</i>.<br />\n<b>3.</b> Với câu hỏi <b>Do they practice in front of a mirror?</b> <i>(Họ có luyện tập trước gương không?),</i> <b></b>câu trong bài đọc liên quan là <b>Many practice in front of a mirror to see how confident they appear.</b> <i>(Nhiều người luyện tập trước gương để xem họ trông tự tin như thế nào.).</i> Nên đáp áp là <span style=\"color:red\"><b>B. Yes, they do.</b></span> <i>(Có.)</i>.<br />\n<b>4.</b> Với câu hỏi <b>Why do they practice in front of a mirror?</b> <i>(Họ luyện tập trước gương để làm gì?),</i> <b></b>câu trong bài đọc liên quan là <b>Many practice in front of a mirror to see how confident they appear.</b> <i>(Nhiều người luyện tập trước gương để xem họ trông tự tin như thế nào.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. be confident</b></span> <i>(tự tin)</i>.",
+      "danhSachDapAn": []
+    }
+  ]
+}

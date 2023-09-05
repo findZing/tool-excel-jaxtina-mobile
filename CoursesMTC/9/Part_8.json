@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_MTC_L9/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_MTC_L9/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "66c37b41-80b2-4d35-b8bc-1b1f8aef4796"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Host",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a60cf69b-c906-45eb-b868-8ca770278226"
+          },
+          "dapAn": "Hi, Professor Miller. I’m Brian and our topic today is about climate change.",
+          "phienAm": "/haɪ prəˈfesə ˈmɪlə/. /aɪm ˈbraɪən ænd ˈaʊərˈtɒpɪk təˈdeɪ ɪz əˈbaʊt ˈklaɪmət ʧeɪnʤ/",
+          "yNghia": "\nXin chào, Giáo sư Miller. Tôi là Brian và chủ đề của chúng ta hôm nay là về biến đổi khí hậu.",
+          "normal": {
+            "start": "00:00:00.497",
+            "end": "00:00:06.675"
+          },
+          "slow": {
+            "start": "00:00:00.983",
+            "end": "00:00:08.709"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d078783e-81e2-4b0e-bb1e-a0d52156bce8"
+          },
+          "dapAn": "So, are climate change and global warming the same thing?",
+          "phienAm": "/səʊ ɑːr ˈklaɪmət ʧeɪnʤ ænd ˈgləʊbəl ˈwɔːmɪŋ ðə seɪm θɪŋ/",
+          "yNghia": "\nVậy, biến đổi khí hậu và sự nóng lên toàn cầu có giống nhau không?",
+          "normal": {
+            "start": "00:00:15.267",
+            "end": "00:00:19.172"
+          },
+          "slow": {
+            "start": "00:00:20.321",
+            "end": "00:00:25.893"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "66d72c2c-4a04-4ef0-a1b6-70a1f7e59109"
+          },
+          "dapAn": "I guess global warming refers to the general rise in the Earth’s temperatures.",
+          "phienAm": "/aɪ ges ˈgləʊbəl ˈwɔːmɪŋ rɪˈfɜːz tuː ðəˈʤenərəl raɪz ɪn ði ɜːθs ˈtemprətʃərz/",
+          "yNghia": "\nTôi đoán sự nóng lên toàn cầu đề cập đến sự gia tăng nhiệt độ chung của Trái đất.",
+          "normal": {
+            "start": "00:00:28.332",
+            "end": "00:00:33.515"
+          },
+          "slow": {
+            "start": "00:00:36.756",
+            "end": "00:00:43.358"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4e1b548a-34d1-4bb3-b246-2a14776a614c"
+          },
+          "dapAn": "What causes global warming?",
+          "phienAm": "/wɒt ˈkɔːzɪz ˈgləʊbəl ˈwɔːmɪŋ/",
+          "yNghia": "\nĐiều gì gây ra sự nóng lên toàn cầu?",
+          "normal": {
+            "start": "00:00:44.309",
+            "end": "00:00:46.297"
+          },
+          "slow": {
+            "start": "00:00:58.060",
+            "end": "00:01:00.401"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "75437314-8fe7-42df-988f-a61f45487e38"
+          },
+          "dapAn": "Can you explain in detail, Professor Miller?",
+          "phienAm": "/kæn juː ɪksˈpleɪn ɪn ˈdiːteɪl prəˈfesər ˈmɪlə/",
+          "yNghia": "\nÔng có thể giải thích chi tiết không, ông Miller?",
+          "normal": {
+            "start": "00:00:54.108",
+            "end": "00:00:57.019"
+          },
+          "slow": {
+            "start": "00:01:10.141",
+            "end": "00:01:13.418"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4c16e818-8c39-41bd-ba1b-158d8c0dab33"
+          },
+          "dapAn": "The carbon dioxide in the atmosphere traps the heat near the Earth, doesn’t it?",
+          "phienAm": "/ðə ˈkɑːbən daɪˈɒksaɪd ɪn ði ˈætməsfɪər træps ðə hiːt nɪər ði ɜːθ dʌznt ɪt/",
+          "yNghia": "\nKhí cacbon điôxít trong khí quyển giữ nhiệt gần Trái đất, phải không?",
+          "normal": {
+            "start": "00:01:03.267",
+            "end": "00:01:08.664"
+          },
+          "slow": {
+            "start": "00:01:21.987",
+            "end": "00:01:28.823"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6503f7c9-a8ad-43e9-91c4-d334ab907430"
+          },
+          "dapAn": "I hope it won’t matter if the Earth is only a few degrees warmer than it was.",
+          "phienAm": "/aɪ həʊp ɪt wəʊnt ˈmætər ɪf ði ɜːθ ɪz ˈəʊnli eɪfjuː dɪˈgriːz ˈwɔːmər ðæn ɪt wɒz/",
+          "yNghia": "\nTôi hi vọng sẽ không có vấn đề gì nếu Trái đất chỉ ấm hơn vài độ so với trước đây.",
+          "normal": {
+            "start": "00:01:14.771",
+            "end": "00:01:19.670"
+          },
+          "slow": {
+            "start": "00:01:36.502",
+            "end": "00:01:43.759"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ad6d2e36-5c55-4c24-ad7b-43445c177f59"
+          },
+          "dapAn": "How does it happen?",
+          "phienAm": "/haʊ dʌz ɪt ˈhæpən/",
+          "yNghia": "\nNó xảy ra như thế nào?",
+          "normal": {
+            "start": "00:01:28.333",
+            "end": "00:01:29.469"
+          },
+          "slow": {
+            "start": "00:01:55.044",
+            "end": "00:01:56.402"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e499024e-d217-4c37-a7b1-c5b5b8597275"
+          },
+          "dapAn": "What are the effects of global warming and climate change?",
+          "phienAm": "/wɒt ɑːr ði ɪˈfekts ɒv ˈgləʊbəl ˈwɔːmɪŋ ænd ˈklaɪmət ʧeɪnʤ/",
+          "yNghia": "\nNhững tác động của sự nóng lên toàn cầu và biến đổi khí hậu là gì?",
+          "normal": {
+            "start": "00:01:39.339",
+            "end": "00:01:43.387"
+          },
+          "slow": {
+            "start": "00:02:09.887",
+            "end": "00:02:14.850"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2154419f-4c9e-4e14-abaa-daef87577dd4"
+          },
+          "dapAn": "There will be more tornadoes and hurricanes, too.",
+          "phienAm": "/ðeər wɪl biː mɔːr tɔːˈneɪdəʊz ænd ˈhʌrɪkənz tuː/",
+          "yNghia": "\nCũng sẽ có nhiều cơn lốc xoáy và trận cuồng phong nữa.",
+          "normal": {
+            "start": "00:01:51.836",
+            "end": "00:01:54.535"
+          },
+          "slow": {
+            "start": "00:02:25.479",
+            "end": "00:02:29.037"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f1d77ee3-8006-485e-bab8-2edd67c50a22"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Miller",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4fdda870-3a35-4850-b4a6-46af18ef0771"
+          },
+          "dapAn": "Good evening, I’m Georgia Miller. It’s an honor to be here to share with you about climate change.",
+          "phienAm": "/gʊd ˈiːvnɪŋ aɪm ˈdʒɔːdʒə ˈmɪlə/. /ɪts ænˈɒnər tuː biː hɪər tuː ʃeər wɪð juː əˈbaʊt ˈklaɪmət ʧeɪnʤ/",
+          "yNghia": "\nChào buổi tối, tôi là Georgia Miller. Thật vinh dự khi được ở đây để chia sẻ với bạn về biến đổi khí hậu.",
+          "normal": {
+            "start": "00:00:07.527",
+            "end": "00:00:14.343"
+          },
+          "slow": {
+            "start": "00:00:09.552",
+            "end": "00:00:19.385"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3b861855-b0c8-4a04-91fb-af1e9bbc631c"
+          },
+          "dapAn": "Climate change refers to every change in weather and climate caused by global warming.",
+          "phienAm": "/ˈklaɪmət ʧeɪnʤ rɪˈfɜːz tuː ˈevri ʧeɪnʤ ɪn ˈweðər ænd ˈklaɪmət kɔːzd baɪ ˈgləʊbəl ˈwɔːmɪŋ/",
+          "yNghia": "\nBiến đổi khí hậu đề cập đến mọi thay đổi về thời tiết và khí hậu do sự nóng lên toàn cầu gây ra.",
+          "normal": {
+            "start": "00:00:19.953",
+            "end": "00:00:27.267"
+          },
+          "slow": {
+            "start": "00:00:26.549",
+            "end": "00:00:35.585"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b7e4ac63-14c7-446c-ad38-a90278e6224e"
+          },
+          "dapAn": "That’s right. Hotter summers, more severe storms and more forest fires are all related to climate change.",
+          "phienAm": "/ðæts raɪt/. /ˈhɒtə ˈsʌməz mɔːr sɪˈvɪər stɔːmz ænd mɔːr ˈfɒrɪst ˈfaɪəz ɑːr ɔːl rɪˈleɪtɪd tuːˈklaɪmət ʧeɪnʤ/",
+          "yNghia": "\nĐúng rồi. Mùa hè nóng hơn, bão dữ dội hơn và cháy rừng nhiều hơn đều liên quan đến biến đổi khí hậu.",
+          "normal": {
+            "start": "00:00:34.581",
+            "end": "00:00:43.030"
+          },
+          "slow": {
+            "start": "00:00:44.154",
+            "end": "00:00:56.656"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6f079bf1-c46e-470b-a725-939b5aa7bddb"
+          },
+          "dapAn": "It began with the Industrial Revolution when we started using fossil fuels.",
+          "phienAm": "/ɪt bɪˈgæn wɪð ði ɪnˈdʌstrɪəl ˌrevəˈluːʃən wen wiː ˈstɑːtɪd ˈjuːzɪŋ ˈfɒsl fjʊəlz/",
+          "yNghia": "\nNó bắt đầu bằng cuộc Cách mạng Công nghiệp khi chúng ta bắt đầu sử dụng nhiên liệu hóa thạch.",
+          "normal": {
+            "start": "00:00:47.291",
+            "end": "00:00:53.184"
+          },
+          "slow": {
+            "start": "00:01:01.478",
+            "end": "00:01:09.157"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "731622ad-27fe-4116-a95e-71fbd95ec49b"
+          },
+          "dapAn": "OK. When we burn fossil fuels, they produce carbon dioxide.",
+          "phienAm": "/əʊˈkeɪ/. /wen wiː bɜːn ˈfɒsl fjʊəlz ðeɪˈprɒdjuːs ˈkɑːbən daɪˈɒksaɪd/",
+          "yNghia": "\nVâng. Khi chúng ta đốt nhiên liệu hóa thạch, chúng tạo ra khí cacbon điôxít.",
+          "normal": {
+            "start": "00:00:57.587",
+            "end": "00:01:02.273"
+          },
+          "slow": {
+            "start": "00:01:14.401",
+            "end": "00:01:21.191"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1c7272f9-bc2c-4bc0-a37c-2b47ec69bc13"
+          },
+          "dapAn": "That’s true. This is called the greenhouse effect.",
+          "phienAm": "/ðæts truː/. /ðɪs ɪz kɔːld ðə ˈgriːnhaʊs ɪˈfekt/",
+          "yNghia": "\nĐúng vậy. Đây được gọi là hiệu ứng nhà kính.",
+          "normal": {
+            "start": "00:01:09.445",
+            "end": "00:01:13.492"
+          },
+          "slow": {
+            "start": "00:01:29.666",
+            "end": "00:01:35.191"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7d724a8a-2d73-46ea-bce0-f07c1f2b0bf4"
+          },
+          "dapAn": "Unluckily, if temperatures go up even a small amount, big changes take place.",
+          "phienAm": "/ʌnˈlʌkɪli ɪf ˈtemprətʃərz gəʊ ʌp ˈiːvən eɪsmɔːl əˈmaʊnt bɪg ˈʧeɪnʤɪz teɪk pleɪs/",
+          "yNghia": "\nThật không may, nếu nhiệt độ tăng lên dù chỉ một lượng nhỏ, những thay đổi lớn sẽ diễn ra.",
+          "normal": {
+            "start": "00:01:20.593",
+            "end": "00:01:26.842"
+          },
+          "slow": {
+            "start": "00:01:44.415",
+            "end": "00:01:54.341"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "291658e7-9059-4ca1-837a-75bbefab7eb4"
+          },
+          "dapAn": "Sea levels rise and more severe weather events happen. The effect on our lives will be extreme.",
+          "phienAm": "/siː ˈlevlz raɪz ænd mɔːr sɪˈvɪər ˈweðər ɪˈvents ˈhæpən/. /ði ɪˈfekt ɒn ˈaʊər lɪvz wɪl biːɪksˈtriːm/",
+          "yNghia": "\nMực nước biển dâng cao và có nhiều các hiện tượng thời tiết cực đoan hơn xảy ra. Sự ảnh hưởng lên cuộc sống của chúng ta sẽ là rất nghiêm trọng.",
+          "normal": {
+            "start": "00:01:30.321",
+            "end": "00:01:38.274"
+          },
+          "slow": {
+            "start": "00:01:58.181",
+            "end": "00:02:08.669"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f54a2973-577f-4a73-a537-fb370f1e529b"
+          },
+          "dapAn": "A lot. For example, hotter summers cause long droughts and terrible fires.",
+          "phienAm": "/eɪ lɒt/. /fɔːr ɪgˈzɑːmpl ˈhɒtər ˈsʌməz kɔːz lɒŋdraʊts ænd ˈterəbl ˈfaɪəz/",
+          "yNghia": "\nRất nhiều. Ví dụ, mùa hè nóng hơn gây ra hạn hán kéo dài và những đám cháy khủng khiếp.",
+          "normal": {
+            "start": "00:01:44.665",
+            "end": "00:01:50.842"
+          },
+          "slow": {
+            "start": "00:02:15.927",
+            "end": "00:02:24.448"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1d248e23-dcd0-4f18-b6f0-01503dc81f65"
+          },
+          "dapAn": "Exactly. If we don’t do anything about global warming, there will be terrible consequences.",
+          "phienAm": "/ɪgˈzæktli/. /ɪf wiː dəʊnt duː ˈenɪθɪŋ əˈbaʊt ˈgləʊbəl ˈwɔːmɪŋ ðeər wɪl biː ˈterəbl ˈkɒnsɪkwənsɪz/",
+          "yNghia": "\nChính xác. Nếu chúng ta không làm bất cứ điều gì về sự nóng lên toàn cầu, sẽ có những hậu quả nặng nề.",
+          "normal": {
+            "start": "00:01:55.316",
+            "end": "00:02:01.848"
+          },
+          "slow": {
+            "start": "00:02:30.395",
+            "end": "00:02:41.211"
+          }
+        }
+      ]
+    }
+  ]
+}

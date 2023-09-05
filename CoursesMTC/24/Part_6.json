@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "bae3f773-3ff9-4137-96bc-09a57fa259e2"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "a902b522-40e5-421a-ae91-e911b70f379a"
+          },
+          "cauHoi": "What is Alex’s responsibility?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "4edf8c2d-59c9-4a90-b1df-53003bcf7163"
+              },
+              "dapAn": "A. manage ad campaigns",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "94948801-b8c7-42c6-9bd7-cea5f2501795"
+              },
+              "dapAn": "B. collect data",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "89f534f8-d975-486d-93bd-26c60e21f26c"
+              },
+              "dapAn": "C. design a logo",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "238fb6ad-f900-4b15-a196-48fb76d4e501"
+              },
+              "dapAn": "D. compile reports",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "dc186249-eea4-4ff6-b4d8-f07b704591a7"
+          },
+          "cauHoi": "Where is Alex working?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "5c4ee819-0d27-4e5b-b9ea-fd638e8e1ac4"
+              },
+              "dapAn": "A. hotel",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "554440cf-cfa0-4ce6-bc8e-18265cdb618f"
+              },
+              "dapAn": "B. grocery store",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "19266c0e-b46a-420d-ad24-733378a089f7"
+              },
+              "dapAn": "C. restaurant",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1a008806-32f0-4686-8faf-359ea9d13589"
+              },
+              "dapAn": "D. spa",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f2e693ee-82b3-4232-b7b8-ac327269b3f0"
+          },
+          "cauHoi": "What kind of ad campaign does Alex need to develop?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8d99a45d-ca95-48a6-903d-2bbff35d55e3"
+              },
+              "dapAn": "A. course",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ada7000e-a61b-4df7-96c4-03e4849540e8"
+              },
+              "dapAn": "B. clothing",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5fd3813b-042d-4cad-ab1a-ed89a28373dc"
+              },
+              "dapAn": "C. party food",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "5a48ee7b-7cf9-45bf-9e97-04d8e60a8b16"
+              },
+              "dapAn": "D. beverage",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "494303fc-ea9a-4ba3-9fb6-53c6ae274274"
+          },
+          "cauHoi": "Were food ads designed to appeal mostly to men in the past?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f9e02878-8787-438e-8eb6-0e3c32bd724f"
+              },
+              "dapAn": "A. Yes, they were.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8f0fcb66-3ae3-411d-9fba-a8da342c8fcd"
+              },
+              "dapAn": "B. Yes, they weren’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "32857dab-b1bd-48de-b5a0-ca4a5fa47369"
+              },
+              "dapAn": "C. No, they were.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5c9edc99-802a-4774-8337-4d9f7237caea"
+              },
+              "dapAn": "D. No, they weren’t.",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "My name is Alex. My job is to manage ad campaigns for a large grocery store. We need to develop an ad campaign for party food such as snacks and drinks. Whereas in the past, ads for food were designed to appeal mostly to women, nowadays we have to identify our target market more carefully.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What is Alex's responsibility?</b> <i>(Trách nhiệm của Alex là gì?),</i> <b></b>câu trong bài đọc liên quan là <b>My name is Alex. My job is to manage ad campaigns for a large grocery store</b><b>.</b> <i>(</i><i>Tên tôi là Alex. Công việc của tôi là quản lý các chiến dịch quảng cáo cho một cửa hàng tạp hóa lớn</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">A. manage ad campaigns</span> </b><i>(</i><i>quản lý các chiến dịch quảng cáo</i><i>)</i>.<br />\n<b>2.</b> Với câu hỏi <b>Where is Alex working?</b> <i>(Alex đang làm việc ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>My job is to manage ad campaigns for a large grocery store</b><b>.</b> <i>(</i><i>Công việc của tôi là quản lý các chiến dịch quảng cáo cho một cửa hàng tạp hóa lớn</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">B. grocery store</span> </b><i>(</i><i>cửa hàng tạp hóa</i><i>)</i>.<br />\n<b>3.</b> Với câu hỏi <b>What kind of ad campaign does Alex need to develop?</b> <i>(Alex cần phát triển loại chiến dịch gì?),</i> <b></b>câu trong bài đọc liên quan là <b>We need to develop an ad campaign for party food such as snacks and drinks</b><b>.</b> <i>(</i><i>Chúng tôi cần phát triển một chiến dịch quảng cáo cho đồ ăn trong bữa tiệc như đồ ăn nhẹ và đồ uống</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">C. party food</span> </b><i>(</i><i>đồ ăn trong bữa tiệc</i><i>)</i>.<br />\n<b>4.</b> Với câu hỏi <b>Were food ads designed to appeal mostly to men in the past?</b> <i>(Có phải trước đây</i> <i>quảng cáo về thực phẩm được thiết kế chủ yếu để thu hút nam giới không</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>Whereas in the past, ads for food were designed to appeal mostly to women ..</b><b>.</b> <i>(</i><i>Trong khi trước đây, quảng cáo về thực phẩm được thiết kế chủ yếu để thu hút phụ nữ ..</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">D. No, they weren't.</span> </b><i>(Không.)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e2f97ef1-5d38-41a6-a888-9c7a13072522"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "0eb4a519-d932-4dc2-832f-d3841e86dc29"
+          },
+          "cauHoi": "Have advertising companies been criticized for creating ads that target children?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2e6a3cdf-fc2e-4310-a56d-bd4825abb866"
+              },
+              "dapAn": "A. No, they haven’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ea8f7c8a-fbab-4931-aace-83f1410fa73a"
+              },
+              "dapAn": "B. No, they have.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "937cb02f-fbf9-4b52-bdf2-a84a04021395"
+              },
+              "dapAn": "C. Yes, they have.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "22874a82-b6b3-4ee1-8299-4da0d4fda263"
+              },
+              "dapAn": "D. Yes, they haven’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ad702512-48a7-42ee-bc64-ed2b4eb50500"
+          },
+          "cauHoi": "What do advertisers often create around Christmas time?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "037f86e4-de2c-4091-bc8b-5989a114a817"
+              },
+              "dapAn": "A. ads for games and toys",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "4b51a6b4-ead7-4afc-95f1-050c21493ff1"
+              },
+              "dapAn": "B. ads for food",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6ec0f56e-aebf-45b7-bb90-b7e10136ec54"
+              },
+              "dapAn": "C. ads for clothing",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4f3ae085-5197-4cb7-81b8-316d013f9ff8"
+              },
+              "dapAn": "D. ads for education",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "e51613ef-a32e-4e18-b213-22e3e7660f5a"
+          },
+          "cauHoi": "Why have advertisers been criticized when they created ads for games and toys around Christmas time?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7c78339e-b351-477e-8476-e7836910b09f"
+              },
+              "dapAn": "A. Children will ask their parents to buy these things for them.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "adfbf07f-4874-4a37-acec-86e9e70e88f5"
+              },
+              "dapAn": "B. Children will ask their parents to buy these things for their friends.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "85c44548-1f2a-4f4f-85e5-cffdaf3c3b73"
+              },
+              "dapAn": "C. Children will ask their parents to sell these things for them.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "36020d33-6705-4ff5-b95b-dce7d2a5bcd1"
+              },
+              "dapAn": "D. Children will ask their parents to sell these things for their friends.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "b49bcae1-7a83-4ea7-a15b-0d7a38282cc7"
+          },
+          "cauHoi": "Are children affected by ads more easily than adults?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3e5c8f6c-21f7-4029-94a4-8791c31c8d94"
+              },
+              "dapAn": "A. No, they aren’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "02222502-36a7-429e-ba68-b8c4ee9b959e"
+              },
+              "dapAn": "B. No, they are.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c13fda35-af8e-4237-bac7-4e87d631ad26"
+              },
+              "dapAn": "C. Yes, they are.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "cdd64f69-8a80-425e-9f78-ccf46cbd6ff3"
+              },
+              "dapAn": "D. Yes, they aren’t.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Over the years, advertising companies have been criticized for creating ads that target children. For instance, advertisers often create ads for games and toys around Christmas time, so that children will ask their parents to buy these things for them. Children are affected by ads more easily than adults.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Have advertising companies been criticized for creating ads that target children?</b> <i>(Có phải</i> <i>trong những năm qua, các công ty quảng cáo đã bị chỉ trích vì tạo ra các quảng cáo nhắm đến trẻ em không</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>Over the years, advertising companies have been criticized for creating ads that target children.</b> <i>(</i><i>Trong những năm qua, các công ty quảng cáo đã bị chỉ trích vì tạo ra các quảng cáo nhắm đến trẻ em</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">C. Yes, they have.</span> </b><i>(Đúng.)</i>.<br />\n<b>2.</b> Với câu hỏi <b>What do advertisers often create around Christmas time?</b> <i>(Các nhà quảng cáo thường tạo ra gì vào khoảng thời gian Giáng sinh?),</i> <b></b>câu trong bài đọc liên quan là <b>advertisers often create ads for games and toys around Christmas time</b> <i>(</i><i>các nhà quảng cáo thường tạo quảng cáo cho trò chơi và đồ chơi vào khoảng thời gian Giáng sinh</i><i>).</i> Nên đáp án là <b><span style=\"color:red\">A. ads for games and toys</span> </b><i>(</i><i>quảng cáo cho trò chơi và đồ chơi</i><i>)</i>.<br />\n<b>3.</b> Với câu hỏi <b>Why have advertisers been criticized when they created ads for games and toys around Christmas time?</b> <i>(Tại sao các nhà quảng cáo bị chỉ trích khi họ tạo quảng cáo cho trò chơi và đồ chơi vào dịp Giáng sinh?),</i> <b></b>câu trong bài đọc liên quan là <b>...</b> <b>advertising companies have been criticized for creating ads that target children. For instance, advertisers often create ads for games and toys around Christmas time, so that children will ask their parents to buy these things for them ...</b> <i>(...</i> <i>các công ty quảng cáo đã bị chỉ trích vì tạo ra các quảng cáo nhắm đến trẻ em. Ví dụ: các nhà quảng cáo thường tạo quảng cáo cho trò chơi và đồ chơi vào khoảng thời gian Giáng sinh để trẻ em đòi cha mẹ mua những thứ này cho chúng ...</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">A. Children will ask their parents to buy these things for them.</span> </b><i>(</i><i>Trẻ em đòi cha mẹ mua những thứ này cho chúng.</i><i>)</i>.<br />\n<b>4.</b> Với câu hỏi <b>Are children affected by ads more easily than adults?</b> <i>(</i><i>Trẻ em có dễ bị ảnh hưởng bởi quảng cáo hơn người lớn không</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>Children are affected by ads more easily than adults</b><b>.</b> <i>(</i><i>Trẻ em dễ bị ảnh hưởng bởi quảng cáo hơn người lớn</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">C. Yes, they are.</span> </b><i>(Có.)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7093811b-c367-4f91-989d-e44e17926638"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "920af190-8e98-43c6-b2ff-89ef1bd2eb2d"
+          },
+          "cauHoi": "Have some people always had long-term-jobs?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "fea27280-a3dc-4d9a-94fe-f76249c1e98c"
+              },
+              "dapAn": "A. Yes, they have.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6a37439c-c054-4cac-98a9-363b4eee0cdc"
+              },
+              "dapAn": "B. Yes, they haven’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "65c7b185-06a7-4193-a324-87fe2f320739"
+              },
+              "dapAn": "C. No, they haven’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "69e0a906-0522-4aa0-ae95-ea9f545974f9"
+              },
+              "dapAn": "D. No, they have.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "7a99fea3-5257-454c-89d0-622444b75a9b"
+          },
+          "cauHoi": "How did people make a living before the Industrial Revolution?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "bd82b677-a82d-4286-a0ab-0a13c47e012c"
+              },
+              "dapAn": "A. do a part-time job",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3f4d3319-95a8-4305-95e3-02272aae32c7"
+              },
+              "dapAn": "B. do a full-time job",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9ed5c781-d087-467b-9230-a93a5748c7e2"
+              },
+              "dapAn": "C. do a lot of small jobs",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "95fd9a4d-ee04-4e36-b282-fc35b21d93b8"
+              },
+              "dapAn": "D. do a small job",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "8aa933bb-4c0d-49d0-9d14-dc2eeb4be8e7"
+          },
+          "cauHoi": "What did the modern gig economy come into being with?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "fb97574a-3315-461e-abde-3c7134418cdb"
+              },
+              "dapAn": "A. the spread of the Internet",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "280e7ff9-a896-47bf-857f-f928127237dd"
+              },
+              "dapAn": "B. the spread of the phone",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c0ac6350-3341-44c2-8bc6-85879b6f034a"
+              },
+              "dapAn": "C. the spread of the electric",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "818a3c8f-520f-4fe4-b4f3-88067c46c0aa"
+              },
+              "dapAn": "D. the spread of the computer",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "185a273f-46d4-459f-871d-853fd6ecd479"
+          },
+          "cauHoi": "Is it easier to connect with people in the modern gig economy?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "596393c2-08b1-4426-a372-5e5a77daa067"
+              },
+              "dapAn": "A. Yes, it is.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "923495ab-42f1-454a-81fc-35a8ef32f85f"
+              },
+              "dapAn": "B. Yes, it isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4d34b954-bc81-448a-95e5-8197718cbea4"
+              },
+              "dapAn": "C. No, it isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "342a133e-ddd1-48eb-944d-ce9093bf3841"
+              },
+              "dapAn": "D. No, it is.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Some people have always had short-term jobs. Before the Industrial Revolution, doing a number of small jobs was a common way of making a living. But the modern gig economy came into being with the spread of the Internet. It suddenly became a lot easier to connect with someone who could offer a service.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Have some people always had long-term-jobs?</b> <i>(Có phải</i> <i>một số người luôn có những công việc dài hạn không</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>Some people have always had short-term jobs.</b> <i>(</i><i>Một số người luôn có những công việc ngắn hạn</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">C. No, they haven't.</span> </b><i>(Không.)</i>.<br />\n<b>2.</b> Với câu hỏi <b>How did people make a living before the Industrial Revolution?</b> <i>(</i><i>Trước Cách mạng Công nghiệp, mọi người làm thế nào để kiếm sống</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>Before the Industrial Revolution, doing a number of small jobs was a common way of making a living</b><b>.</b> <i>(</i><i>Trước Cách mạng Công nghiệp, làm một số công việc nhỏ là cách kiếm sống phổ biến</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">C. do a lot of small jobs</span> </b><i>(</i><i>làm một số công việc nhỏ</i><i>)</i>.<br />\n<b>3.</b> Với câu hỏi <b>What did the modern gig economy come into being with?</b> <i>(</i><i>Nền kinh tế gig hiện đại đã ra đời cùng với điều gì</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>But the modern gig economy came into being with the spread of the Internet</b><b>.</b> <i>(</i><i>Nhưng nền kinh tế gig hiện đại đã ra đời cùng với sự lan rộng của Internet</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">A. the spread of the Internet</span> </b><i>(</i><i>sự lan rộng của Internet</i><i>)</i>.<br />\n<b>4.</b> Với câu hỏi <b>Is it easier to connect with people in the modern gig economy?</b> <i>(Có phải</i> <i>việc kết nối với ai đó trở nên dễ dàng hơn trong nền kinh tế gig hiện đại không</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>It suddenly became a lot easier to connect with someone who could offer a service</b><b>.</b> <i>(</i><i>Việc kết nối với ai đó có thể cung cấp dịch vụ đột nhiên trở nên dễ dàng hơn rất nhiều</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">A. Yes, it is.</span> </b><i>(Đúng.)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a14feb83-1690-462b-be7f-3acb118058bc"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "ee74b11f-57ca-475b-a15a-127810cba2b0"
+          },
+          "cauHoi": "How much does Maria’s bank say she spent?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "47b65e6e-7d46-4e3d-8ebe-bfb2d231111c"
+              },
+              "dapAn": "A. $15",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "eece83ec-5e12-4a1c-96a0-dd0c80056712"
+              },
+              "dapAn": "B. $500",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fb9e0043-5f14-432a-834d-51400758bc76"
+              },
+              "dapAn": "C. $1500",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f89c895a-edc0-4b94-8988-80695b2767cc"
+              },
+              "dapAn": "D. $2000",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "06bf36e7-8235-4bb9-b631-13120a31e7e2"
+          },
+          "cauHoi": "Why does Maria feel weird?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c94e9219-371e-4df4-8a8d-5a68c39537f9"
+              },
+              "dapAn": "A. She didn’t go to the supermarket on that day.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "29b7f8fd-9e5d-4043-a68d-4f8354f9a4a9"
+              },
+              "dapAn": "B. She didn’t go to the restaurant on that day.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f0bad5d5-e197-4523-bef8-872f6d7f17a3"
+              },
+              "dapAn": "C. She went to the supermarket on that day.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9b8a9a61-a0db-46c1-a3ef-71f2c8fb9b8d"
+              },
+              "dapAn": "D. She went to the restaurant on that day.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "e722af81-0a6d-427a-aba4-8c3d7411f25d"
+          },
+          "cauHoi": "What happened to Alex last year?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c34d76b4-7adc-4fcc-9e4f-fcb9716a4947"
+              },
+              "dapAn": "A. He was robbed.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "edec8063-632e-4a08-a674-599321dfbe5d"
+              },
+              "dapAn": "B. He didn’t remove his card from the cash machine.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "ba8327d8-0957-45ed-bb76-2cf097625da4"
+              },
+              "dapAn": "C. He wasn’t robbed.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4ee8bc79-5077-4cd7-8dfd-cd246c363be7"
+              },
+              "dapAn": "D. His security number was stolen.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "cd2e46a4-5558-445a-a41b-39ace9f10a0e"
+          },
+          "cauHoi": "What suggestion does Alex make?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "20dc22bc-61e8-49d5-a055-461a1ab8ccdb"
+              },
+              "dapAn": "A. do not call the bank",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e4abbde2-06a2-4fc3-a1a8-4b738505b974"
+              },
+              "dapAn": "B. do not call the restaurant",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5f59ba25-d6a4-42d0-bab7-2be821abcd9a"
+              },
+              "dapAn": "C. call the bank",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "2efab09a-7f99-4be3-b9b0-16ee6ab8ecfe"
+              },
+              "dapAn": "D. call the restaurant",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\r\n                        <td>According to my bank, there were three identical purchases of $500 at the supermarket on the same day. That's really weird, because I didn't go to the supermarket on that day.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Alex:</b></td>\r\n                        <td>Do you remember when that happened to me last year?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\r\n                        <td>Yes, but that's because you left your card in the ATM!</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Alex:</b></td>\r\n                        <td>We should call the bank now.</td>\r\n                </tr>\r\n        </tbody>\r\n</table>\r\n",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>How much does Maria's bank say she spent?</b> <i>(Ngân hàng của Maria thông báo cô ấy đã tiêu bao nhiêu tiền?),</i> <b></b>câu trong bài đọc liên quan là <b>According to my bank, there were three identical purchases of $500 at the supermarket on the same day</b><b>.</b> <i>(</i><i>Theo ngân hàng của tôi, có ba giao dịch mua trị giá 500 đô la giống hệt nhau tại siêu thị trong cùng một ngày</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">C. $1500</span> </b><i>(1500 đô)</i>.<br />\n<b>2.</b> Với câu hỏi <b>Why does Maria feel weird?</b> <i>(Tại sao Maria cảm thấy kì lạ?),</i> <b></b>câu trong bài đọc liên quan là <b>That's really weird, because I didn't go to the supermarket on that day</b><b>.</b> <i>(</i><i>Điều đó thực sự kỳ lạ, bởi vì tôi đã không đi siêu thị vào ngày hôm đó</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">A. She didn't go to the supermarket on that day.</span> </b><i>(Cô ấy</i> <i>đã không đi siêu thị vào ngày hôm đó.</i><i>)</i>.<br />\n<b>3.</b> Với câu hỏi <b>What happened to Alex last year?</b> <i>(Điều gì đã xảy ra với Alex vào năm ngoái?),</i> <b></b>câu trong bài đọc liên quan là <b>Alex:</b> <b>Do you remember when that happened to me last year? – Maria: Yes, but that's because you left your card in the ATM!</b> <i>(Alex:</i> <i>Bạn có nhớ điều đó xảy ra với tôi năm ngoái không?</i> <i>– Maria:</i> <i>Có, nhưng đó là do bạn để quên thẻ của bạn trong máy rút tiền tự động!</i><i>).</i> Nên đáp án là <b><span style=\"color:red\">B. He didn't remove his card from the cash machine. <i></i></span></b><i>(Anh ấy đã không rút thẻ khỏi máy rút tiền.)</i>.<br />\n<b>4.</b> Với câu hỏi <b>What suggestion does Alex make?</b> <i>(Alex đưa ra gợi ý gì?),</i> <b></b>câu trong bài đọc liên quan là <b>We should call the bank now</b><b>.</b> <i>(</i><i>Chúng ta nên gọi cho ngân hàng ngay bây giờ</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">C. call the bank</span> </b><i>(gọi cho ngân hàng)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4fc74b9a-a1be-4da3-9787-3b1bf519c22d"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "ed6a8a19-2561-4e14-8c61-2fceac714b48"
+          },
+          "cauHoi": "Will people feel good about making a donation to a charity?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "40a98945-643c-4e60-bafa-7493f6b92e14"
+              },
+              "dapAn": "A. Yes, they won’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0e841d48-abf1-4c74-8037-8647bf8a0482"
+              },
+              "dapAn": "B. Yes, they will.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3f977f08-b59a-4828-b739-b74df2ce397f"
+              },
+              "dapAn": "C. No, they won’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ccad093c-a0cd-40ab-b0ed-5e92895b46a6"
+              },
+              "dapAn": "D. No, they will.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f7b7b086-932c-46cb-b3f9-5c49ac64c408"
+          },
+          "cauHoi": "Why do people feel that way?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "35160cf4-5393-4e59-8317-49ccd029248f"
+              },
+              "dapAn": "A. Because they are making a difference.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "7db69418-2249-4075-8d65-67964b177b50"
+              },
+              "dapAn": "B. Because they want to help other people.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0ef82104-0fcf-4af2-88d8-340e8c75e6b8"
+              },
+              "dapAn": "C. Because they are rich.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e56c8f85-7ae6-4355-bafd-d1b13ca2a5da"
+              },
+              "dapAn": "D. Because they want to do that.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "79bb8490-fcdb-419d-81c6-7bfab66a41d7"
+          },
+          "cauHoi": "According to economist Tim, what is charity?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "02f961a4-a67a-4f70-b253-778ba013ceb5"
+              },
+              "dapAn": "A. “charity is selfish”",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "093b9e66-6249-485a-ae62-c7453857a702"
+              },
+              "dapAn": "B. “charity is good”",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1ebda80a-7e5f-42e1-aacd-bef56791e3f8"
+              },
+              "dapAn": "C. “charity is great”",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cf6761fa-6a3a-4759-9bd3-7ab058003479"
+              },
+              "dapAn": "D. “charity is kind”",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "49829fda-66b5-4835-8b49-7d901f8663c6"
+          },
+          "cauHoi": "According to economist Tim, do people really make the world a better place?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "1c19d66a-e8a0-4891-becd-4f41b237ba61"
+              },
+              "dapAn": "A. No, they don’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "7f3ed8cc-9a0c-4039-a6d0-5906897ce827"
+              },
+              "dapAn": "B. No, they do.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d5e4f707-b84b-420c-807f-f97138814f28"
+              },
+              "dapAn": "C. Yes, they do.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7b1928c0-05b2-4e4b-9c26-7ac7ac919d6d"
+              },
+              "dapAn": "D. Yes, they don’t.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "I am sure you will feel good about making a donation to a charity, because you are making a difference. But are you really? Economist Tim says that “charity is selfish”. We only do it to make ourselves feel good and not to really make the world a better place. ",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Will people feel good about making a donation to a charity?</b> <i>(Mọi người có</i> <i>cảm thấy thoải mái khi quyên góp cho một tổ chức từ thiện không</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>I am sure you will feel good about making a donation to a charity.</b> <i>(</i><i>Tôi chắc chắn rằng bạn sẽ cảm thấy thoải mái khi quyên góp cho một tổ chức từ thiện</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">B. Yes, they will.</span> </b><i>(Đúng.)</i>.<br />\n<b>2.</b> Với câu hỏi <b>Why do people feel that way?</b> <i>(Tại sao mọi người cảm thấy như vậy?),</i> <b></b>câu trong bài đọc liên quan là <b>because you are making a difference</b> <i>(</i><i>bởi vì bạn đang tạo ra sự khác biệt</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">A. Because they are making a difference.</span> </b><i>(Bởi vì họ đang tạo ra sự khác biệt.)</i>.<br />\n<b>3.</b> Với câu hỏi <b>According to economist Tim, what is charity?</b> <i>(Theo nhà kinh tế học Tim, từ thiện là gì?),</i> <b></b>câu trong bài đọc liên quan là <b>Economist Tim says that \"charity is selfish\"</b><b>.</b> <i>(</i><i>Nhà kinh tế học Tim nói rằng \"từ thiện là ích kỷ\"</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">A. \"charity is selfish\"</span> </b><i>(</i><i>\"từ thiện là ích kỷ\"</i><i>)</i>.<br />\n<b>4.</b> Với câu hỏi <b>According to economist Tim, do people really make the world a better place?</b> <i>(Theo nhà kinh tế học Tim, mọi người có thực sự</i> <i>làm cho thế giới trở nên tốt đẹp hơn không</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>We only do it to make ourselves feel good and not to really make the world a better place</b><b>.</b> <i>(</i><i>Chúng tôi chỉ làm điều đó để khiến bản thân cảm thấy thoải mái chứ không thực sự làm cho thế giới trở nên tốt đẹp hơn</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">A. No, they don't.</span> </b><i>(Không.)</i>.",
+      "danhSachDapAn": []
+    }
+  ]
+}

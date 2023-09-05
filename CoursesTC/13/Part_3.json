@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0_1",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "67b3a0ab-881c-4432-904b-10a79a0eb3bd"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Qualification",
+      "yNghia": "Trình độ, bằng cấp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "83471a0f-98d1-4d61-aa9e-e5304e26391b"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Motivation",
+      "yNghia": "Động lực",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "11164659-c15d-4584-aafc-85db2bca7d21"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Economics",
+      "yNghia": "Kinh tế học",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4c6fc906-32c4-4836-9066-d6d4514b7362"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Architecture",
+      "yNghia": "Kiến trúc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9a1d6ed3-6109-4d79-add2-a8555607a397"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Alternative",
+      "yNghia": "Sự thay thế",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b79b251c-d9b2-4079-baa9-a1dc7650447c"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Entrepreneur",
+      "yNghia": "Doanh nhân khởi nghiệp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2e1f1951-deaf-44b6-a399-41d771861485"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Résumé",
+      "yNghia": "Sơ yếu lý lịch",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "19a380e3-9ceb-4da6-bda0-dbb25239a75d"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Graduate",
+      "yNghia": "Tốt nghiệp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "110a36b4-cedf-45c9-92f8-6968e5800484"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Entry-level",
+      "yNghia": "Khởi điểm, đầu vào",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9ceae620-6e1f-4e37-986e-b369ec3f4e6e"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Academic",
+      "yNghia": "Mang tính học thuật",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6b7ff12e-fcb4-4eda-9638-c437e1caffe5"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Career-ready",
+      "yNghia": "Sẵn sàng cho công việc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4d71624e-4244-49bc-b380-98b80b117cf8"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "The corporate ladder",
+      "yNghia": "Nấc thang sự nghiệp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "197a8682-90d2-407b-8703-8cb785e652a6"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Career path",
+      "yNghia": "Con đường sự nghiệp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b7256024-0f5b-4724-b83a-93c4e5172901"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Apply for a job",
+      "yNghia": "Ứng tuyển công việc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "46a9ace6-bb58-4eae-9fca-1eb6b22e5d44"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Get a promotion",
+      "yNghia": "Được thăng chức",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "efab9e2d-b216-4d18-bf3e-af0416fc000a"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Get a degree",
+      "yNghia": "Đạt được chứng chỉ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b27cc169-1173-4bb1-93f8-9a9b3d14e681"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Get a raise",
+      "yNghia": "Được tăng lương",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "673de43e-df39-4b5c-a34c-5a2fba2722d0"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Flavor",
+      "yNghia": "Mùi thơm, mùi vị",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "242f196e-2e20-409d-952e-fab382498292"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Knowledge",
+      "yNghia": "Kiến thức, sự hiểu biết",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "52cb1b8a-75ff-404c-8360-f7ec7d9978a4"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Ability",
+      "yNghia": "Năng lực, khả năng",
+      "danhSachDapAn": []
+    }
+  ]
+}

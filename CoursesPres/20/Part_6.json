@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "037c77c5-333d-4912-af99-a8f8e80a32a0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \n                        <td>What do you <b>(1)</b> _______ in your free time?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jack:</b></td> \n                        <td>It depends on the <b>(2)</b> _______.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \n                        <td>Like what?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jack:</b></td> \n                        <td>If it's <b>(3)</b> _______, I usually <b>(4)</b> _______ my friends.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Linda:</b></td> \r\n\t\t\t<td>What do you <b>(1)</b> <span style=\"color:red\"><b>do</b></span>  in your free time?<br />\r\n\t\t\t<i>Bạn làm gì vào thời gian rảnh rỗi.</i></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Jack:</b></td> \r\n\t\t\t<td>It depends on the <b>(2)</b> <span style=\"color:red\"><b>weather</b></span> .<br />\r\n\t\t\t<i>Việc đó phụ thuộc vào <span style=\"color:red\">thời tiết</span> .</i></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Linda:</b></td> \r\n\t\t\t<td>Like what?<br />\r\n\t\t\t<i>Như thế nào nhỉ?</i></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Jack:</b></td> \r\n\t\t\t<td>If it's <b>(3)</b> <span style=\"color:red\"><b>sunny</b></span> , I usually <b>(4)</b> <span style=\"color:red\"><b>visit </b></span> my friends.<br />\r\n\t\t\t<i>Nếu trời </i><span style=\"color:red\"><i>nắng</i></span> <i>, tôi thường </i><span style=\"color:red\"><i>thăm</i></span> <i> bạn bè của mình.</i></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "do",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "16631e9d-3da1-4777-92e4-3205c85d062e"
+          }
+        },
+        {
+          "dapAn": "weather",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c3f82fef-c85e-4749-87bb-bf0dde06442a"
+          }
+        },
+        {
+          "dapAn": "sunny",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0e3ec2c6-2108-4386-9b73-4683bb1e9696"
+          }
+        },
+        {
+          "dapAn": "visit",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "58a7a06a-7979-40ef-abfc-fd5ee1ad2fb0"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1b91c4db-0259-4969-a158-438bddf0d130"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td> \n                        <td>Do you help your parents <b>(1)</b> ______ the laundry?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>John:</b></td> \n                        <td>No. I usually wash the <b>(2)</b> ______.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td> \n                        <td><b>(3)</b> ______ does the laundry in your family?</td>\n</tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>John:</b></td> \n                        <td>My mom <b>(4)</b> ______.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Anna:</b></td> \r\n\t\t\t<td>Do you help your parents <b>(1)</b> <span style=\"color:red\"><b>do</b></span>  the laundry?<br />\r\n\t\t\t<i>Bạn có giúp bố mẹ giặt quần áo không?</i></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>John:</b></td> \r\n\t\t\t<td>No. I usually wash the <b>(2)</b> <span style=\"color:red\"><b>dishes</b></span> .<br />\r\n\t\t\t<i>Không, tôi thường rửa </i><span style=\"color:red\"><i>bát</i></span> <i>.</i></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Anna:</b></td> \r\n\t\t\t<td><b>(3)</b> <span style=\"color:red\"><b>Who</b></span>  does the laundry in your family?<br />\r\n\t\t\t<span style=\"color:red\"><i>Ai</i></span> <i> giặt quần áo trong gia đình bạn?</i></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>John:</b></td> \r\n\t\t\t<td>My mom <b>(4)</b> <span style=\"color:red\"><b>does</b></span> .<br />\r\n\t\t\t<i>Mẹ tôi <span style=\"color:red\">làm</span> .</i></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "do ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e460b716-c5bd-4ca0-ae30-4f1c979864c0"
+          }
+        },
+        {
+          "dapAn": "dishes",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a917575f-a3c6-406e-9404-5fcef42ff228"
+          }
+        },
+        {
+          "dapAn": "Who ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d2b232fa-37b7-43cb-9914-31ae431d32fe"
+          }
+        },
+        {
+          "dapAn": "does",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f3ae803f-8121-4de2-a47c-bfd485b2dd61"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "dcf85e90-fa7f-4a5b-97bd-a1d349f2d2e8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td> \n                        <td>What <b>(1)</b> ______ the weather like?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Alex:</b></td> \n                        <td>It's <b>(2)</b> ______.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td> \n                        <td>What <b>(3)</b> ______ you doing? </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Alex:</b></td> \n                        <td>I'm <b>(4)</b> ______ a book. </td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td>\r\n                        <td>What <b>(1)</b> <b><span style=\"color:red\">is</span> </b> the weather like?<br>\r\n                        <i>Thời tiết đang như thế nào?</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Alex:</b></td>\r\n                        <td>It's <b>(2)</b> <b><span style=\"color:red\">snowy</span> </b>.<br>\r\n                        <i>Trời đang </i> <span style=\"color:red\"><i>c</i><i>ó tuyết </span> rơi.</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td>\r\n                        <td>What <b>(3)</b> <b><span style=\"color:red\">are</span> </b> you doing?<br>\r\n                        <i>Bạn đang làm gì thế?</i></td>\r\n                </tr>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Alex:</b></td>                        <td>I'm <b>(4)</b> <b><span style=\"color:red\">reading</span> </b> a book.<br>\r\n                        <i>Tôi <span style=\"color:red\">đang đọc </span> một cuốn sách.</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>\"",
+      "danhSachDapAn": [
+        {
+          "dapAn": "is",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "73251aed-129d-44ed-937f-fc8b5733d812"
+          }
+        },
+        {
+          "dapAn": "snowy",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "df8559d1-74d2-4253-9d13-46960cd52431"
+          }
+        },
+        {
+          "dapAn": "are",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "00a461e3-71c5-456c-ab8a-bf0958e07b26"
+          }
+        },
+        {
+          "dapAn": "reading",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "5461fe0d-a65d-4813-bc23-385f4d32172a"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0099791c-3419-4e15-8446-abc3e5d0503a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Linda:</b></td> \r\n\t\t\t<td>Can you <b>(1)</b> ______?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Jack:</b></td> \r\n\t\t\t<td>Yes, I <b>(2)</b> ______.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Linda:</b></td> \r\n\t\t\t<td>How <b>(3)</b> ______ do you cook? </td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Jack:</b></td> \r\n\t\t\t<td>About <b>(4)</b> ______ a week.</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                       <td style=\"vertical-align: top;\"><b>Linda:</b></td>\r\n                        <td>Can you <b>(1)</b> <b><span style=\"color:red\">cook</span> </b>?<br>\r\n                        <i>Bạn có thể <span style=\"color:red\">nấu ăn </span> không?</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Jack:</b></td>\r\n                        <td>Yes, I <b>(2)</b> <b><span style=\"color:red\">can</span> </b>.<br>\r\n                        <i>Có, tôi <span style=\"color:red\">có</span> </i><i><span style=\"color:red\"> thể</span> </i><i>.</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td>\r\n                        <td>How <b>(3)</b> <b><span style=\"color:red\">often</span> </b> do you cook?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td> </td>\r\n                        <td><i>Bạn có <span style=\"color:red\">thường xuyên</span>  nấu ăn không?</i></td>\r\n                </tr>\r\n                <tr>\r\n<td style=\"vertical-align: top;\"><b>Jack:</b></td>                        <td>About <b>(4)</b> <b><span style=\"color:red\">twice</span> </b> a week.<br \r\n                        <i>Khoảng <span style=\"color:red\">hai lần </span> một tuần.</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "cook",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c93f2d36-b02f-4f11-b726-677c76d0df96"
+          }
+        },
+        {
+          "dapAn": "can ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "15bfa037-157e-409c-8ded-8da15b49abc8"
+          }
+        },
+        {
+          "dapAn": "often",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8aee82e8-cdbf-4203-a3ab-a83abda3de28"
+          }
+        },
+        {
+          "dapAn": "twice",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "fe77fd14-f859-4448-b769-8de9ea6e5ac4"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f119a6ae-f5a6-4074-82d9-bf9775dd1aa7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Anna:</b></td> \r\n\t\t\t<td>Do you <b>(1)</b> ______ sports? Can you <b>(2)</b> ______ soccer?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Tim:</b></td> \r\n\t\t\t<td>Yes, I can. How <b>(3)</b> ______ you?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Anna:</b></td> \r\n\t\t\t<td>I can't play soccer, but I can play <b>(4)</b> ______.</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Anna:</b></td>\n                        <td>Do you <b>(1)</b> <b><span style=\"color:red\">like</span> </b> sports? Can you <b>(2)</b><b><span style=\"color:red\"> play</span> </b> soccer?<br />\n                        <i>Bạn có <span style=\"color:red\">thích</span>  thể thao không? Bạn có thể <span style=\"color:red\">chơi</span>  bóng đá không?</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Tim:</b></td>\n                        <td>Yes, I can. How <b>(3)</b> <b><span style=\"color:red\">about</span> </b> you?<br />\n                        <i>Có, tôi có thể. Còn bạn?</i></td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Anna:</b></td>\n                        <td>I can't play soccer, but I can play <b>(4)<b> <span style=\"color:red\">tennis</b></span> </b>.<br />\n                        <i>Tôi không thể</i><i> ch</i><i>ơi bóng đá, nhưng tôi có</i><i> thể</i><i> chơi <span style=\"color:red\">quần vợt</span> .</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "like",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "4f2fcd5b-f0a5-4b05-9ae1-cbde78d453a5"
+          }
+        },
+        {
+          "dapAn": "play",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "dd7f29ec-ab9a-4992-8dc3-4bceae925abb"
+          }
+        },
+        {
+          "dapAn": "about",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e3943231-d11c-4fd1-9169-07656b9717b4"
+          }
+        },
+        {
+          "dapAn": "tennis",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "719a1be0-e3fa-4aeb-8a01-89b0b753f5b2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "dangCauHoi": "P2",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "a6348936-5ff4-4e1e-8e4d-56d0c92aa1b6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_TC_L6/sounds/normal/TC_6_LISTENING_Listening 1.mp3",
+      "yNghia": "<span style=\"color:red\">There are many different types of people in the world. </span>Some are optimistic, others are pessimistic. Some are outgoing, others are reserved<span style=\"color:red\">. Some like to take risks, others prefer to avoid danger. </span>Each type of person has their own strengths and weaknesses and we need all types of people. <span style=\"color:red\">We can't have only optimistic or pessimistic people. </span>Optimists invent the plane and pessimists the parachute. Personality matters, but it does not matter that much. Character matters more. <span style=\"color:red\">Characteristics such as honesty, integrity, and patience matter. </span>Keep your promises. Avoid gossiping about others. Try to stay focused on whatever you do. Practice perseverance. <span style=\"color:red\">Learn to value the real important things in life.</span><br />\n<br />\n<i>Có rất nhiều kiểu người khác nhau trên thế giới. Một số lạc quan, một số khác bi quan. Một số thì dễ gần, một số khác thì dè dặt. Một số thích mạo hiểm, một số khác luôn tránh hiểm nguy. Mỗi loại người đều có điểm mạnh và điểm yếu riêng. Chúng ta cần tất cả các kiểu người. Chúng ta không thể chỉ có những người lạc quan hoặc bi quan. Những người lạc quan phát minh ra máy bay và những người bi quan phát minh ra chiếc dù. Tính cách quan trọng, nhưng nó không quan trọng đến thế. Nhân cách quan trọng hơn. Các tính cách như trung thực, liêm chính và kiên nhẫn là quan trọng. Giữ lời hứa của bạn. Tránh ngồi lê đôi mách về người khác. Cố gắng tập trung vào bất cứ điều gì bạn làm. Rèn luyện tính kiên trì. Học cách coi trọng những điều thực sự quan trọng trong cuộc sống.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "22409d4c-9de7-43c1-a51b-2f523c92a1f3"
+          },
+          "dapAn": "There are many different types of people in the world.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "273e1aff-22a5-43e9-aeb0-349f993d76b2"
+          },
+          "dapAn": "Some like to take risks, others prefer to avoid danger.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "50a702fb-4036-4813-b019-bb12bb528dec"
+          },
+          "dapAn": "We can’t have only optimistic or pessimistic people.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "be14325e-7b00-4963-9cb4-913eb3300a97"
+          },
+          "dapAn": "Characteristics such as honesty, integrity, and patience matter.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5d9971a0-50af-49f1-bbd1-cdba32796496"
+          },
+          "dapAn": "Learn to value the real important things in life.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "263820c9-47a4-4e75-a71b-7d093f1a7119"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_TC_L6/sounds/normal/TC_6_LISTENING_Listening 2.mp3",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Tim:</b></td>\n                        <td><span style=\"color:red\">Hey, Kate, Did you watch Gaga?</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Kate ơi. Bạn đã xem Gaga chưa?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Kate:</b></td>\n                        <td>Gaga? What's that? It sounds like a comedy.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Gaga? Đó là cái gì? Nó nghe giống như một bộ phim hài.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Tim:</b></td>\n                        <td><span style=\"color:red\">It's a thriller TV series. You can watch it via a streaming service like Netflix. </span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Đó là loạt phim truyền hình kinh dị. Bạn có thể xem nó qua một dịch vụ phát trực tuyến như Netflix. </i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Kate:</b></td>\n                        <td>It sounds so cool. What is the film about?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Nghe thật tuyệt. Bộ phim nói về cái gì thế?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Tim:</b></td>\n                        <td><span style=\"color:red\">There's a psychologist who always appears easygoing and optimistic so nobody knows she has actually been depressed for a long time. </span>She has developed a second personality. </td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Có một nhà tâm lý học luôn tỏ ra dễ tính và lạc quan nên không ai biết thực ra cô ấy đã bị trầm cảm từ lâu. Cô ấy đã phát triển nhân cách thứ hai.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Kate:</b></td>\n                        <td><span style=\"color:red\">Does she know she has multiple personalities?</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Cô ấy có biết mình bị đa nhân cách không?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Tim:</b></td>\n                        <td>No, she doesn't. I guess eventually she will know it.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Không, cô ấy không. Tôi đoán cuối cùng cô ấy sẽ biết điều đó.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Kate:</b></td>\n                        <td>How many seasons are there in those series?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Có bao nhiêu mùa trong loạt phim đó?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Tim:</b></td>\n                        <td><span style=\"color:red\">Its original plan is to run for six seasons. </span>Five seasons have been aired.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Kế hoạch ban đầu của phim là chiếu sáu mùa. Năm mùa đã được phát sóng.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Kate:</b></td>\n                        <td>Six seasons? It'll take me forever to watch it. </td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Sáu mùa? Tôi sẽ không bao giờ xem hết nó.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Tim:</b></td>\n                        <td>You watched Gintama. It has nine seasons!</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Bạn đã xem Gintama. Nó có chín mùa!</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Kate:</b></td>\n                        <td>You can't compare it like that. I'm a big fan of anime. Did you watch Gintama though?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Bạn không thể so sánh nó như thế. Tôi là một fan lớn của phim hoạt hình Nhật Bản. Bạn đã xem Gintama chưa? </i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Tim:</b></td>\n                        <td>I'm busy with exams so ....</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Tôi đang bận thi nên...</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Kate:</b></td>\n                        <td>You're busy with exams but you still have time to binge-watch five seasons of Gaga.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Bạn đang bận thi nhưng bạn vẫn có thời gian để xem năm mùa của Gaga.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Tim:</b></td>\n                        <td>I just can't help it. </td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td><i>Tôi không thể ngừng xem được.</i></td>\n                </tr>\n        </tbody>\n</table>\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e0deb7d6-c1c6-4fc5-bd5e-7f95c2f32d0c"
+          },
+          "dapAn": "Hey, Kate, Did you watch Gaga?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "da50b24e-2ba7-47ba-a84c-a318ff025693"
+          },
+          "dapAn": "It’s a thriller TV series. You can watch it via a streaming service like Netflix.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d32b6f78-9db1-4590-989b-6653a950236b"
+          },
+          "dapAn": "There’s a psychologist who always appears easygoing and optimistic so nobody knows she has actually been depressed for a long time.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5433cda4-9707-428f-823e-2bb977c10ebb"
+          },
+          "dapAn": "Does she know she has multiple personalities?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2e1c5b1f-0915-42f0-8def-49d48ab3f2b5"
+          },
+          "dapAn": "Its original plan is to run for six seasons.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "57009061-75f2-416e-8432-e651e2459bce"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_TC_L6/sounds/normal/TC_6_LISTENING_Listening 3.mp3",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Pedro:</b></td>\n                        <td>Do you like watching TV?<br />\n                        <i><span style=\"color:#202124\">Bạn thích xem TV không?</span></i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>June:</b></td>\n                        <td><span style=\"color:red\">Not so much. I prefer to stream things over Wi-Fi and watch them on my tablet.</span><br />\n                        <i>Không thích lắm. Tôi thích xem mọi thứ trên mạng và xem chúng trên máy tính bảng của mình.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Pedro:</b></td>\n                        <td>Oh, really? Why is that?<br />\n                        <i>Ồ vậy ư? Tại sao ?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>June:</b></td>\n                        <td><span style=\"color:red\">Well for one, you don't have to watch annoying commercials. </span><br />\n                        <i>Đầu tiên, bạn không cần phải xem những quảng cáo phiền phức.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Pedro:</b></td>\n                        <td>I hate those! <span style=\"color:red\">We are both impatient.</span><br />\n                        <i>Tôi ghét những thứ đó! Cả hai chúng ta đều thiếu kiên nhẫn.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>June:</b></td>\n                        <td>I see. Also, I can watch my favourite movies at any time.<br />\n                        <i>Tôi hiểu. Ngoài ra, tôi có thể xem những bộ phim yêu thích của mình bất cứ lúc nào.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Pedro:</b></td>\n                        <td>Yeah. <span style=\"color:red\">You can't do that with TV. </span><br />\n                        <i>Ừ đúng. Bạn không thể làm điều đó với TV.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>June:</b></td>\n                        <td>Totally agree. It's the reason why TV is not my first choice.<br />\n                        <i>Hoàn toàn đồng ý. Đó là lý do tại sao TV không phải là lựa chọn đầu tiên của tôi.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Pedro:</b></td>\n                        <td>Ah, I see. <span style=\"color:red\">Do you like to binge-watch shows?</span><br />\n                        <i>À tôi hiểu. Bạn có thích xem các chương trình nhiều tập một lúc không</i><i>?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>June:</b></td>\n                        <td>Yeah, there are so many interesting movies that I can't take my eyes off. <br />\n                        <i>Có, có rất nhiều bộ phim thú vị mà tôi không thể rời mắt.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Pedro:</b></td>\n                        <td><span style=\"color:red\">I sometimes watch TV, but I never really watch anything for very long.</span><br />\n                        <i>Tôi thỉnh thoảng xem TV, nhưng tôi không bao giờ thực sự xem bất cứ điều gì trong một thời gian dài</i><i>.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>June:</b></td>\n                        <td><i>I just do it when I have a lot of spare time. </i><i><span style=\"color:red\">Would you be a fan of crime series?</span></i><br />\n                        <i>Tôi xem khi tôi có nhiều thời gian rảnh rỗi. Bạn có phải fan của loạt phim tội phạm không</i><i>?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Pedro:</b></td>\n                        <td><span style=\"color:red\">Nope. I seldomly watch all the episodes.</span><br />\n                        <i>Không. Tôi hiếm khi xem tất cả các tập phim.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>June:</b></td>\n                        <td>I often watch the first and the last episodes to see the end quickly.<br />\n                        <i>Tôi thường xem tập đầu và tập cuối để xem kết thúc nhanh.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Pedro:</b></td>\n                        <td>Me too. I usually channel-surf for a while then turn the TV off and go to bed.<br />\n                        <i>Tôi cũng thế. Tôi thường lướt kênh một lúc rồi tắt TV và đi ngủ.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>June:</b></td>\n                        <td>So organized you are!<br />\n                        <i>Bạn quy củ thật đấy!</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Pedro:</b></td>\n                        <td>Well, I can't stay up late.<br />\n                        <i>Ừ thì, tôi không thể thức khuya</i><i>.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>June:</b></td>\n                        <td>I am so addicted to watching films and shows that I can just watch them all day.<br />\n                        <i>Tôi nghiện xem phim và chương trình đến mức tôi có thể xem chúng cả ngày.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Pedro:</b></td>\n                        <td>Maybe you can change your viewing habit. It's not good for your health.<br />\n                        <i>Có lẽ bạn có thể thay đổi thói quen xem của bạn. Nó không tốt cho sức khỏe đâu</i>.</td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>June:</b></td>\n                        <td><span style=\"color:red\">You're right. I'll think about it.</span><br />\n                        <i>Bạn nói đúng. Tôi sẽ nghĩ về nó.</i></td>\n                </tr>\n        </tbody>\n</table>\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a3a065c7-7ed4-4578-980c-55c8b31427dd"
+          },
+          "dapAn": "Not so much. I prefer to stream things over Wi-Fi and watch them on my tablet.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0fb094ce-f6b2-4500-8639-e4f3e7d84b51"
+          },
+          "dapAn": "Well for one, you don’t have to watch annoying commercials.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1ca7b212-ef91-4957-be46-8536eb5332ab"
+          },
+          "dapAn": "We are both impatient.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a192d065-9f41-48a1-b0db-248a321b1972"
+          },
+          "dapAn": "You can’t do that with TV.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "80851ff7-2152-44fe-8086-94d9f5f77b8c"
+          },
+          "dapAn": "Do you like to binge-watch shows?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "88f7f9e3-d66e-4e7f-a089-48a008c4f87e"
+          },
+          "dapAn": "I sometimes watch TV, but I never really watch anything for very long.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "88b7417d-965a-4cd8-8917-ec316952c008"
+          },
+          "dapAn": "Would you be a fan of crime series?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "644a4816-01bb-4743-9c8e-01ef8491b336"
+          },
+          "dapAn": "Nope. I seldomly watch all the episodes.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "06b07f49-3f48-4a80-8d64-fffbb40e5737"
+          },
+          "dapAn": "I am so addicted to watching films and shows that I can just watch them all day.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5adf0e10-6c60-4531-bcb7-b3930e189a37"
+          },
+          "dapAn": "You’re right. I’ll think about it.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

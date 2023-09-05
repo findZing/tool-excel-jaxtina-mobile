@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P7",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "ea391b8e-2f11-4cf3-b133-2d1069fad63a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Look at these green _____ <b><span style=\"color:blue\">(dress)</span></b>!",
+      "yNghia": "<b>these </b>đi với danh từ số nhiều nên sau <b>these</b> sẽ là <b>dresses</b>. Câu hoàn chỉnh là<b> </b><b>Look at these green <span style=\"color:red\">dresses!</span> </b><i>(Hãy nhìn những chiếc váy xanh này!).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5eddb31d-1786-4ede-8673-8aa132ca8739"
+          },
+          "dapAn": "dresses",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "46eb1f3a-4527-42d5-aa3a-3980ad7bf258"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Look at these T-shirts! They _____ <b><span style=\"color:blue\">(be)</span></b> pretty.",
+      "yNghia": "<b>They </b>là chủ ngữ ngôi thứ ba số nhiều, nên động từ <i>to be</i> sẽ là <b>are</b>. Câu hoàn chỉnh là <b>Look at these T-shirts! They <span style=\"color:red\">are</span> pretty.</b> <i>(Hãy nhìn những chiếc áo phông này! Chúng đẹp quá.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "72da3d24-95ad-44a7-894e-c9c77a89f4ce"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9fdf1879-4011-4c1e-84cd-491ca4377f7e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you _____ <b><span style=\"color:blue\">(like)</span></b> this blue T-shirt?",
+      "yNghia": "Chủ ngữ <b>you</b> sẽ đi kèm với trợ động từ <b>Do</b>, động từ chính <b>like</b> sau trợ động từ <b>Do</b> sẽ được giữ nguyên. Câu hoàn chỉnh là <b>Do you <span style=\"color:red\">like</span> this blue T-shirt?</b><b> </b><i>(Bạn có <span style=\"color:red\">thích</span> chiếc áo phông xanh dương này không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "24c495d2-fb56-4c68-bf11-903cf3ac2403"
+          },
+          "dapAn": "like",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b641e338-1a06-422e-802f-50793619ee0c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It _____ <b><span style=\"color:blue\">(be)</span></b> cheap. I like it!",
+      "yNghia": "<b>It </b>là chủ ngữ ngôi thứ ba số ít nên động từ <i>to be</i> sẽ là <b>is</b>. Câu hoàn chỉnh là <b>It <span style=\"color:red\">is</span> cheap. I like it!</b> <i>(Nó rẻ. Tôi thích nó!).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "32f46de9-4d43-4cf7-813f-e7a3be62802c"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5c863c95-c7c4-444e-b136-5fdff1115b92"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She _____ <b><span style=\"color:blue\">(not like)</span></b> black clothes",
+      "yNghia": "<b>She</b> là chủ ngữ ngôi thứ ba số ít, nên trợ động từ theo sau sẽ là <b>does</b>, dạng phủ định của <b>does</b> sẽ là <b>does not</b> hoặc viết tắt là <b>doesn't</b>, động từ chính sau trợ động từ sẽ được giữ nguyên. Câu hoàn chỉnh là <b>She <span style=\"color:red\">does</span> <span style=\"color:red\">not</span> <span style=\"color:red\">like</span> <span style=\"color:red\">/</span> <span style=\"color:red\">doesn't</span> <span style=\"color:red\">like</span> black clothes.</b> <i>(Cô ấy không thích quần áo màu đen</i><i>.</i><i>).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9c846c3d-04e2-430e-9ba9-48ef5ebe9b7d"
+          },
+          "dapAn": "doesn’t like // does not like",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3042947f-c928-4460-b54b-9f10b88e4f1d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I love those _____ <b><span style=\"color:blue\">(bag)</span></b>.",
+      "yNghia": "<b>those </b>đi với danh từ số nhiều nên sau <b>those</b> sẽ là <b>bags</b>. Câu hoàn chỉnh là<b> </b><b>I love those <span style=\"color:red\">bags.</span></b> <i>(Tôi thích <span style=\"color:red\">những chiếc túi</span> đó.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bc82fd8a-43fb-4875-8a19-692230d2add4"
+          },
+          "dapAn": "bags",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f758faa1-4673-45ee-a9b1-879de8851687"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There _____ <b><span style=\"color:blue\">(be)</span></b> a lot of great clothes at this store.",
+      "yNghia": "<b>a lot of great clothes </b>là cụm danh từ số nhiều, nên sau <b>There</b> sẽ là <b>are</b>. Câu hoàn chỉnh là <b>There <span style=\"color:red\">are</span> a lot of great clothes at this store.</b> <i>(Có rất nhiều quần áo đẹp ở cửa hàng này.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "94f2d5ca-f549-440d-99d5-86677f0b33e9"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "413e80ee-a802-4563-9717-744b33bdabc5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "This red T-shirt _____ <b><span style=\"color:blue\">(be)</span></b> nice.",
+      "yNghia": "<b>T-shirt</b> là danh từ số ít, nên động từ <i>to be </i>sẽ là <b>is</b>. Câu hoàn chỉnh là <b>This red T-shirt <span style=\"color:red\">is</span> nice.</b> <i>(Chiếc áo phông màu đỏ này đẹp quá.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a4cc0a38-2329-4c21-bd5b-0609dd9c1379"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e41d49bb-0e93-409a-b962-87a4fc3dbad2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "These clothes _____ <b><span style=\"color:blue\">(be)</span></b> under $30.",
+      "yNghia": "<b>These clothes</b> là danh từ số nhiều, nên động từ <i>to be </i>sẽ là <b>are</b>. Câu hoàn chỉnh là <b>These clothes </b><b><span style=\"color:red\">are</span></b><b> under $30.</b> <i>(</i><i>Những chiếc q</i><i>uần áo này dưới 30 đô la.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ff8f42b7-f702-49b6-bc57-7dd191e6b12e"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2173d0fd-56af-49cb-a68d-4c5741d06e60"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The dress _____ <b><span style=\"color:blue\">(not be)</span></b> the correct size.",
+      "yNghia": "<b>This dress </b>là danh từ số ít, nên động từ <i>to be </i>sẽ là <b>is</b>, khi ở dạng phủ định <b>is</b> được thêm <b>not </b>thành <b>is not</b>, dạng viết tắt là <b>isn't</b>. Câu hoàn chỉnh là <b>This dress </b><b><span style=\"color:red\">is not  / isn't</span></b><b> the correct size.</b> <i>(Chiếc váy này không đúng kích cỡ.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5a6da3f9-3f0c-4f6a-9d6f-ff78f405b69f"
+          },
+          "dapAn": "isn’t // is not",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4b312d5e-43c7-4ef9-b465-ff5f04e96d88"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They _____ <b><span style=\"color:blue\">(not like)</span></b> these shoes.",
+      "yNghia": "<b>They</b> là chủ ngữ ngôi thứ ba số nhiều, nên trợ động từ sẽ là <b>do not </b>hoặc <b>don't </b>khi ở dạng phủ định, động từ chính <b>like</b> được giữ nguyên khi theo sau trợ động từ. Câu hoàn chỉnh là <b>They </b><b><span style=\"color:red\">do not like / don't like</span></b><b> these shoes.</b> <i>(Họ không thích đôi giày này</i><i>.)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9cf39d68-3ee2-4e76-992c-3597995dc66a"
+          },
+          "dapAn": "don’t like // do not like",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3b3bca9f-7423-466d-b9a4-0b83d6decf97"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The brown boots _____ <b><span style=\"color:blue\">(be)</span></b> $55.",
+      "yNghia": "<b>boots</b> là danh từ số nhiều, nên động từ <i>to be </i>sẽ là <b>are</b>. Câu hoàn chỉnh là <b>The brown boots </b><b><span style=\"color:red\">are</span></b><b> $55.</b> <i>(Đôi bốt màu nâu có giá 55 đô la.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2f8eca81-77d7-48d0-96c3-fd2487f42d37"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "e3492b8e-fb05-4a60-9ac9-427c6bf4c1ec"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My sister _____ <b><span style=\"color:blue\">(like)</span></b> the bags.",
+      "yNghia": "<b>My sister</b> là danh từ số ít, nên động từ <b>like</b> sẽ được thêm \"<b>s</b>\" thành <b>likes</b>. Câu hoàn chỉnh là <b>My sister </b><b><span style=\"color:red\">likes</span></b><b> the bags.</b> <i>(Em gái tôi thích những chiếc túi này.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3132c92b-4048-4a31-80f5-6316a89fb6e7"
+          },
+          "dapAn": "likes",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a1f7f5ae-d65a-4e56-8ae2-8f02a67cfd77"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Does he _____ <b><span style=\"color:blue\">(like)</span></b> that blue jacket?",
+      "yNghia": "Chủ ngữ <b>he</b> sẽ đi kèm với trợ động từ <b>Does</b>, động từ chính <b>like</b> sau trợ động từ <b>Does</b> sẽ được giữ nguyên. Câu hoàn chỉnh là <b>Does he </b><b><span style=\"color:red\">like</span></b><b> that blue jacket?</b> <i>(Anh ấy có <span style=\"color:red\">thích</span> chiếc áo khoác màu xanh dương đó không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6acf9757-5753-4595-bf3b-7b53e3c08a18"
+          },
+          "dapAn": "like",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6480c26d-011e-466d-b2ac-8b257177a9c7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "This _____ <b><span style=\"color:blue\">(be)</span></b> my favorite skirt.",
+      "yNghia": "Sau<b> This</b> sẽ là động từ <i>to be</i> <b>is</b>. Câu hoàn chỉnh là <b>This </b><b><span style=\"color:red\">is</span></b><b> my favorite skirt.</b> <i>(Đây <span style=\"color:red\">là</span> cái chân váy yêu thích của tôi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4fe8e2d4-e6d5-47f9-9d9c-e4d9b5310a02"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "89b8a726-486d-4cc4-9a81-9d5c045b3774"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I like those _____ <b><span style=\"color:blue\">(jean) </span></b>over there.",
+      "yNghia": "<b>those</b> đi với danh từ số nhiều nên sau <b>those</b> sẽ là <b>jeans</b>. Câu hoàn chỉnh là <b>I like those </b><b><span style=\"color:red\">jeans</span></b><b> over there.</b> <i>(Tôi thích <span style=\"color:red\">những chiếc quần jean</span> ở đằng kia.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fbac4c65-3940-4b3d-ad4b-7c712ab8e8dc"
+          },
+          "dapAn": "jeans",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "83cd9c4e-1a09-499f-b5e9-327d31786ad8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They _____ <b><span style=\"color:blue\">(be)</span></b> next to that yellow bag.",
+      "yNghia": "<b>They</b> là chủ ngữ ngôi thứ ba số nhiều, nên sau <b>They</b> sẽ là động từ <i>to be</i> <b>are</b>. Câu hoàn chỉnh là <b>They </b><b><span style=\"color:red\">are</span></b><b> next to that yellow bag.</b> <i>(Chúng ở bên cạnh chiếc túi màu vàng kia</i><i>.</i><i>).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b4560cca-eee4-4e6d-a8f4-56869b3089d7"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7c2c5944-fcbf-4155-a04b-19e74e201a6d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "These boots _____ <b><span style=\"color:blue\">(be)</span></b> expensive.",
+      "yNghia": "<b>these boots</b> là cụm danh từ số nhiều<b> </b>nên động từ <i>to be</i> sẽ là<b> are</b>. Câu hoàn chỉnh là <b>These boots </b><b><span style=\"color:red\">are</span></b><b> expensive.</b> <i>(Các đôi bốt này rất đắt</i><i>.</i><i>).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9e694d97-5b92-46f8-9ac2-5c8c5c3259d4"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "03cd9de2-4fff-416a-bba0-cf1c3f722222"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Those shirts by the door _____ <b><span style=\"color:blue\">(be)</span></b> cheap.",
+      "yNghia": "<b>Those shirts</b> là cụm danh từ số nhiều<b> </b>nên động từ <i>to be</i> sẽ là<b> are</b>. Câu hoàn chỉnh là <b>Those shirts by the door </b><b><span style=\"color:red\">are</span></b><b> cheap.</b> <i>(Những chiếc áo sơ mi ở cạnh cửa rất rẻ.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d46aa016-1123-4d53-93d5-dac4da41a0ef"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1b18c124-cc8f-4e2e-a31d-18cf1edf8820"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "These jeans _____ <b><span style=\"color:blue\">(be)</span></b> loose.",
+      "yNghia": "<b>these jeans</b> là cụm danh từ số nhiều nên động từ <i>to be</i> sẽ là<b> are</b>. Câu hoàn chỉnh là <b>These jeans </b><b><span style=\"color:red\">are</span></b><b> loose.</b> <i>(Những chiếc quần jean này là rộng rãi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "15fa0b57-0b3c-4f2c-922b-725a581352f0"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "55698e51-00e7-4e5e-9012-8245ffd3b3b6"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "ffade005-01c2-4423-846c-050455e8455c"
+          },
+          "cauHoi": "What animal was considered to have invented Velcro?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c7c74456-a691-4390-8825-a2b27c86ca4d"
+              },
+              "dapAn": "A. a dog",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a4b9de44-2507-4040-9d75-94b40a100aa0"
+              },
+              "dapAn": "B. a tiger",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cc34bf22-517e-4269-9035-4c94853fecb9"
+              },
+              "dapAn": "C. a cat",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ad3ca603-09b6-43ef-90b5-1ea6d5f93205"
+              },
+              "dapAn": "D. an elephant",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "4efc94ba-a1a9-454c-acc9-d522d8f607b7"
+          },
+          "cauHoi": "Which part of the Swiss engineer’s dog had plants stuck to?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "fc2c0501-10b4-489f-a5a9-e7263c9eaa04"
+              },
+              "dapAn": "A. head",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "12556395-9c0f-40df-bcf0-5ddd3939f42e"
+              },
+              "dapAn": "B. fur",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "9b4337d7-ab18-4b08-8378-8136b1e930d8"
+              },
+              "dapAn": "C. toes",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4c231b76-a067-4860-9c68-9c05429f6fe7"
+              },
+              "dapAn": "D. neck",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ec21fa48-4936-4153-84b1-8165b8c9bd9a"
+          },
+          "cauHoi": "How is the plant?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "02907586-9623-42da-bf63-f10bc5537e88"
+              },
+              "dapAn": "A. round",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "dcadb074-8b54-414e-80cf-7259a85dabaa"
+              },
+              "dapAn": "B. sticky",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d4c2e19c-75a2-4776-b49f-c345d15028c2"
+              },
+              "dapAn": "C. both A & B",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "67185dc7-ec89-442c-9515-501b326a6c20"
+              },
+              "dapAn": "D. thick",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "fb3110f7-ee9b-4523-9818-687f1c9c3da0"
+          },
+          "cauHoi": "What is it called?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a08b12fa-67b3-4c13-8186-37129583c896"
+              },
+              "dapAn": "A. covered",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f7905100-26f1-4cc7-8395-93f4d8b42040"
+              },
+              "dapAn": "B. pants",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "051e3dc3-b64f-426c-89bc-ef224e794dd8"
+              },
+              "dapAn": "C. glue",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4af98ade-b756-4933-aba4-d1da7d952912"
+              },
+              "dapAn": "D. burrs",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Angela:</b></td> \n                        <td>Did you know that Velcro was invented by a dog?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ryan:</b></td> \n                        <td>By a dog?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Angela:</b></td> \n                        <td>Almost. In 1941, Swiss engineer George de Mestral noticed that some plants had stuck to his dog's fur like glue.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ryan:</b></td> \n                        <td>I know the kind of plant you mean. They're round and sticky.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Angela:</b></td> \n                        <td>Yes. They're called burrs. His dog and his pants were covered in burrs.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What animal was considered to have invented Velcro?</b> <i>(Con vật nào được cho là đã phát minh ra băng dính gai?),</i> <b></b>câu trong bài đọc liên quan là <b>Did you know that Velcro was invented by a dog?</b> <i>(Bạn có biết rằng băng dính gai được phát minh bởi một con chó không?).</i> Nên đáp án là <b><span style=\"color:red\">A. a dog</span> </b><i>(một con chó)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>Which part of the Swiss engineer's dog had plants stuck to?</b> <i>(Cây đã dính vào phần nào của con chó của người kĩ sư người Thụy Sĩ?),</i> <b></b>câu trong bài đọc liên quan là <b>In 1941, Swiss engineer George de Mestral noticed that some plants had stuck to his dog's fur like glue.</b> <i>(Năm 1941, kỹ sư người Thụy Sĩ George de Mestral nhận thấy rằng một số cây dính vào lông con chó của ông như keo.).</i> Nên đáp án là <b><span style=\"color:red\">B. fur</span> </b><i>(lông)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>How is the plant?</b> <i>(Cây đó như thế nào?),</i> <b></b>câu trong bài đọc liên quan là <b>I know the kind of plant you mean. They're round and sticky.</b> <i>(Tôi biết loại cây mà bạn muốn nói. Chúng tròn và dính.).</i> Nên đáp án là <b><span style=\"color:red\">C. both A & B</span> </b><i>(cả A và B)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>What is it called?</b> <i>(Nó được gọi là gì?),</i> <b></b>câu trong bài đọc liên quan là <b>They're called burrs.</b> <i>(Chúng được gọi là gai.).</i> Nên đáp án là <b><span style=\"color:red\">D. burrs</span> </b><i>(gai)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "eb90bb5e-2702-4f9a-ba85-0abce33b1c37"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "f1348bf0-a6e8-4f92-9df6-d1b4c58846bb"
+          },
+          "cauHoi": "What was Velcro used for?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7729b2ef-6827-4472-9a18-14426941b74e"
+              },
+              "dapAn": "A. on clothes",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f6f8d908-b88e-4b25-ace5-c0aee2de6359"
+              },
+              "dapAn": "B. on bags",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b51d5c88-9edf-44a6-b080-009645f10b4c"
+              },
+              "dapAn": "C. on hats",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9223a955-613e-40a4-b773-664dbab6e646"
+              },
+              "dapAn": "D. both A & B",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "6f5b95e6-ef69-478d-8413-a7ffbc394728"
+          },
+          "cauHoi": "When did Velcro become popular?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d4bd39a6-ce11-46a3-bdd4-2db90fb41a96"
+              },
+              "dapAn": "A. 1980s",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "87ecf95c-7ef3-44d5-b739-0718edec36e7"
+              },
+              "dapAn": "B. 1970s",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c209561f-bf88-46d7-8c12-96a39cce0a32"
+              },
+              "dapAn": "C. 1960s",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a70b9d5d-44f6-4107-a829-e5f47bd53746"
+              },
+              "dapAn": "D. 1950s",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "1f03dd0d-bcff-4ac3-9879-30599037aedc"
+          },
+          "cauHoi": "What was Velcro used on in the 1980s?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "585e2381-5158-4fae-811d-cad51986cdbf"
+              },
+              "dapAn": "A. adults’ bags",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b16dfb4f-31f7-4896-baf8-766dfcfe4bf2"
+              },
+              "dapAn": "B. children’s sneakers",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "54776202-50d5-4b0b-91b2-6bda941b6ff1"
+              },
+              "dapAn": "C. children’s bags",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1d70839e-a550-474d-9356-3c1dcca23d77"
+              },
+              "dapAn": "D. adults’ sneakers",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "bf7206cc-a89f-4809-aa20-5fd07d1a6194"
+          },
+          "cauHoi": "How many times can nylon fasteners open and close?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "600aa6b3-421d-42b6-87b5-bfb911022857"
+              },
+              "dapAn": "A. 10,000 times",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3611e9ea-46ef-4643-8f9a-01fdea5b410b"
+              },
+              "dapAn": "B. 20,000 times",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "49041c72-d532-43d4-95d1-6a43090f4013"
+              },
+              "dapAn": "C. 30,000 times",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ee270c8b-6e13-4fe0-b259-8411735e23d8"
+              },
+              "dapAn": "D. 40,000 times",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ryan:</b></td> \n                        <td>What was Velcro used for in those days?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Angela:</b></td> \n                        <td>It was used on clothes and bags and became popular in the 1960s.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ryan:</b></td> \n                        <td>When did it appear on sneakers?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Angela:</b></td> \n                        <td>It was first used on children's sneakers in the 1980s.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ryan:</b></td> \n                        <td>How about its lifecycle?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Angela:</b></td> \n                        <td>I'm not sure about that. Nylon fasteners can open and close 10,000 times.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What was Velcro used for?</b> <i>(Băng dính gai được dùng để làm gì?),</i> <b></b>câu trong bài đọc liên quan là <b>It was used on clothes and bags</b> <i>(Nó được sử dụng trên quần áo và túi xách).</i> Nên đáp án là <b><span style=\"color:red\">D. both A & B</span> </b><i>(cả A và B)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>When did Velcro become popular?</b> <i>(Băng dính gai đã trở nên phổ biến khi nào?),</i> <b></b>câu trong bài đọc liên quan là <b>...</b> <b>became popular in the 1960s</b> <i>(...trở nên phổ biến vào những năm 1960).</i> Nên đáp án là <b><span style=\"color:red\">C. 1960s</span> </b><i>(những năm 1960)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>What was Velcro used on in the 1980s?</b> <i>(Băng dính gai được sử dụng trên cái gì vào những năm 1980?),</i> <b></b>câu trong bài đọc liên quan là <b>It was first used on children's sneakers in the 1980s.</b> <i>(Nó lần đầu tiên được sử dụng trên giày thể thao của trẻ em vào những năm 1980.).</i> Nên đáp án là <b><span style=\"color:red\">B. children's sneakers</span> </b><i>(giày thể thao của trẻ em)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>How many times can nylon fasteners open and close?</b> <i>(Chốt nylon có thể mở và đóng bao nhiêu lần?),</i> <b></b>câu trong bài đọc liên quan là <b>Nylon fasteners can open and close 10,000 times.</b> <i>(Chốt nylon có thể mở và đóng 10.000 lần.).</i> Nên đáp án là <b><span style=\"color:red\">A. 10,000 times</span> </b><i>(10 nghìn lần)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ad1efcc7-f11b-4043-8295-b95baced2c6d"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "8c9b6ad8-1b48-4e70-a6f8-523d554ebc22"
+          },
+          "cauHoi": "How many rooms are there available?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "23ac266e-287b-4aee-92e0-597933359d46"
+              },
+              "dapAn": "A. one rooms",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "dca575b2-f838-432f-a33b-31611e9b502a"
+              },
+              "dapAn": "B. three rooms",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "51d44bb2-2f78-4fa3-86ff-9a04ffa85830"
+              },
+              "dapAn": "C. two rooms",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "700b8ce4-8204-4c38-bf11-6ce6dc348fd8"
+              },
+              "dapAn": "D. four rooms",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "a2040d6d-df8a-4db3-8294-7f64ce8b3475"
+          },
+          "cauHoi": "How much are those rooms?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "5db52d85-c31a-4eeb-9979-ca1ab46c3438"
+              },
+              "dapAn": "A. 10 dollars per person",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7a387981-7354-4942-be3f-38ddb8fa6787"
+              },
+              "dapAn": "B. 30 dollars per person",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "61e67d33-c5d5-47ea-9c69-e5a13392a7ef"
+              },
+              "dapAn": "C. 40 dollars per person",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fb9c4608-118e-46bc-9b60-9fda273b5d24"
+              },
+              "dapAn": "D. 20 dollars per person",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "50134d13-5021-48ab-ba29-3259653f5403"
+          },
+          "cauHoi": "Do those rooms include any food?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "cf3ca24d-9398-4c1c-b9d9-33559f607a13"
+              },
+              "dapAn": "A. No, they don’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "68c2d8f8-93ef-4aa2-9e0d-ac7abe5011f4"
+              },
+              "dapAn": "B. No, they do.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "71a2e742-f794-46d4-90c3-eb5dad4f1de4"
+              },
+              "dapAn": "C. Yes, they do.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f83bed05-2349-4486-ac8c-a044cdda31f0"
+              },
+              "dapAn": "D. Yes, they don’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "3245a96e-4f34-430f-ac5f-f21770ca83e2"
+          },
+          "cauHoi": "When are those rooms available?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "1db27114-cff9-4662-88a3-fa0c754e8fed"
+              },
+              "dapAn": "A. Monday",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a2adc3ff-6af0-45c7-ad80-30cd5d33f133"
+              },
+              "dapAn": "B. both C & D",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b87b565f-b051-44b0-bbc6-e77de925ae2f"
+              },
+              "dapAn": "C. Saturday",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4db0e678-c4ea-4748-ba01-4216badf429b"
+              },
+              "dapAn": "D. Sunday",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "The manager says there are two rooms available. They are both the same price, 20 dollars per person. Those don't include any food or course. The manager says the rooms are available on both Saturday and Sunday, so we can choose either date.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>How many rooms are there available?</b> <i>(Có bao nhiêu phòng trống?),</i> <b></b>câu trong bài đọc liên quan là <b>The manager says there are two rooms available.</b> <i>(Người quản lý nói rằng có hai phòng trống.).</i> Nên đáp án là <b><span style=\"color:red\">C. two rooms</span> </b><i>(hai phòng)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>How much are those rooms?</b> <i>(Những phòng đó có giá bao nhiêu?),</i> <b></b>câu trong bài đọc liên quan là <b>They are both the same price, 20 dollars per person.</b> <i>(Cả hai phòng đều có giá như nhau, 20 đô la một người.).</i> Nên đáp án là <b><span style=\"color:red\">D. 20 dollars per person</span> </b><i>(20 đô la một người)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>Do those rooms include any food?</b> <i>(Những phòng đó có gồm đồ ăn không?),</i> <b></b>câu trong bài đọc liên quan là <b>Those don't include any food ...</b> <i>(Những phòng này không bao gồm bất kỳ đồ ăn nào ...).</i> Nên đáp án là <b><span style=\"color:red\">A. No, they don't.</span> </b><i>(Không.)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>When are those rooms available?</b> <i>(Những phòng đó trống khi nào?),</i> <b></b>câu trong bài đọc liên quan là <b>The manager says the rooms are available on both Saturday and Sunday, so we can choose either date.</b> <i>(Người quản lý nói rằng các phòng có sẵn vào cả thứ Bảy và Chủ Nhật, vì vậy chúng tôi có thể chọn một trong hai ngày.).</i> Nên đáp án là <b><span style=\"color:red\">B. both C & D</span> </b><i>(cả C và D)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "40926249-8f51-4f69-85e4-b9160f709980"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "43d5b6ee-4f69-451f-81c5-871fa9cbdfe1"
+          },
+          "cauHoi": "What kind of room should they get?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "bc5639ac-9cad-4b9f-8616-01c85ad7f6ce"
+              },
+              "dapAn": "A. can seat twenty-five people",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "d5cadd39-b213-4e8a-a168-933ce7b92733"
+              },
+              "dapAn": "B. can seat twenty-four people",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f7bbc1ae-14b1-4732-ad59-1d258c521a5f"
+              },
+              "dapAn": "C. can seat twenty-three people",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "93b1c0ad-d084-4653-b26e-9026d57346ea"
+              },
+              "dapAn": "D. can seat twenty-two people",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "72e28b36-7ce4-4c3c-9a26-467134e1bcef"
+          },
+          "cauHoi": "When should they have a party?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ecc4542f-84a2-4511-b419-21c9086c914f"
+              },
+              "dapAn": "A. Saturday",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bfb6ba12-e5d6-4234-8556-69b5d8639c47"
+              },
+              "dapAn": "B. Sunday",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "6c8a093c-b72a-47ab-a899-57b3e81e9a5a"
+              },
+              "dapAn": "C. Monday",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "eb740abe-7515-42ab-870b-a229cd066ddd"
+              },
+              "dapAn": "D. Tuesday",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "32fe2353-784e-4158-9016-730209044ab2"
+          },
+          "cauHoi": "What is happening on Saturday?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "440f76d5-4595-4e90-9642-7a8fd49c7173"
+              },
+              "dapAn": "A. a small game",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f9ef408b-53c0-463d-a1ec-fa79d2ef171c"
+              },
+              "dapAn": "B. a soccer match",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "54638d3e-f71b-4745-8c2d-0598955efb48"
+              },
+              "dapAn": "C. a big game",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "ba10a137-6d52-487f-a713-a4ec023d2483"
+              },
+              "dapAn": "D. a tennis match",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "088a151c-141b-4d06-adb6-038795cebbd5"
+          },
+          "cauHoi": "Do people want to go to that big game?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b6536a9e-46a4-4686-812e-fa05f91ad8bd"
+              },
+              "dapAn": "A. No, they don’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "72fc930b-8c06-4c10-9299-3c1e12644e6a"
+              },
+              "dapAn": "B. No, they do.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5c7de167-3181-4bdf-bd81-b5452420f957"
+              },
+              "dapAn": "C. Yes, they don’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0e457b9c-12ae-4d80-9237-a29e428074b3"
+              },
+              "dapAn": "D. Yes, they do.",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "I think we should get a room that seats twenty-five people. It might be better to have the party on Sunday. There's a big game at the college stadium on Saturday, and everyone wants to go to that.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What kind of room should they get?</b> <i>(Họ lên lấy phòng nào?),</i> <b></b>câu trong bài đọc liên quan là <b>I think we should get a room that seats twenty-five people.</b> <i>(Tôi nghĩ chúng ta nên lấy một phòng có sức chứa hai mươi lăm người.).</i> Nên đáp án là <b><span style=\"color:red\">A. can seat twenty-five people</span> </b><i>(có thể chứa hai mươi lăm người)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>When should they have a party?</b> <i>(Họ nên tổ chức bữa tiệc khi nào?),</i> <b></b>câu trong bài đọc liên quan là <b>It might be better to have the party on Sunday.</b> <i>(Sẽ hay hơn khi tổ chức bữa tiệc vào Chủ Nhật.).</i> Nên đáp án là <b><span style=\"color:red\">B. Sunday</span> </b><i>(Chủ Nhật)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>What is happening on Saturday?</b> <i>(Cái gì sẽ diễn ra vào thứ Bảy?),</i> <b></b>câu trong bài đọc liên quan là <b>There's a big game at the college stadium on Saturday.</b> <i>(Có một trận đấu lớn tại sân vận động của trường đại học vào thứ Bảy.).</i> Nên đáp án là <b><span style=\"color:red\">C. a big game</span> </b><i>(một trận đấu lớn)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>Do people want to go to that big game?</b> <i>(Mọi người có muốn tới trận đấu lớn đó không?),</i> <b></b>câu trong bài đọc liên quan là <b>There's a big game at the college stadium on Saturday, and everyone wants to go to that.</b> <i>(Có một trận đấu lớn tại sân vận động của trường đại học vào thứ Bảy, và mọi người đều muốn đến đó.).</i> Nên đáp án là <b><span style=\"color:red\">D. Yes, they do.</span> </b><i>(Có.)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "cb3ed851-14ed-4e45-904b-41a0dff5aec2"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "9eaeb41a-0d10-4116-8183-accdbac0b90f"
+          },
+          "cauHoi": "What does the speaker want to do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "35993a3c-c958-4ec8-89ae-0b5cfea62c12"
+              },
+              "dapAn": "A. watch TV",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "82fa8816-b396-4fdb-b6ac-eef591b9cdd5"
+              },
+              "dapAn": "B. do yoga",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "5ac82bf1-d834-4bb5-8a1d-875a94ee6fc6"
+              },
+              "dapAn": "C. play games",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2982832a-eb19-46f5-bfe8-fb1f90226273"
+              },
+              "dapAn": "D. go fishing",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "76a78ed7-353c-48e2-8360-297fd4b80f20"
+          },
+          "cauHoi": "Can the speaker stand being inactive for a whole weekend?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2ab319b6-ef4a-4c73-93c6-036f2ed9d17d"
+              },
+              "dapAn": "A. No, he can’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "518ba8d4-83db-4c1e-a718-65b952cc461d"
+              },
+              "dapAn": "B. No, he can.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fabb6d28-a98e-4d99-a87a-b6aac6019cf5"
+              },
+              "dapAn": "C. Yes, he can.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8f91963b-c011-4cd7-9b6c-e1ac5689f30f"
+              },
+              "dapAn": "D. Yes, he can’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "48915214-19ac-4ad2-bf89-0ffa652bc5d3"
+          },
+          "cauHoi": "Where is the place the speaker wants to go?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c5493303-b069-4ca5-96b9-af1a0ea3c84a"
+              },
+              "dapAn": "A. Museum",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b246c8c2-2fdf-433c-b216-726ce9a8ad8b"
+              },
+              "dapAn": "B. North Mountain Yoga",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "33c6973e-2474-4197-ae82-c660f2ce098c"
+              },
+              "dapAn": "C. Water park",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4e597d6c-3ef9-4e7f-a63b-e5aa0eca81e6"
+              },
+              "dapAn": "D. South Mountain Yoga",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "e62c5620-4c69-4dd3-8540-438404335a92"
+          },
+          "cauHoi": "How can the speaker get to the South Mountain Yoga?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "cc110e38-b1c8-43bd-aa2e-53d87fe68f9d"
+              },
+              "dapAn": "A. take a taxi from downtown",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "65ee6888-b025-4dc9-8bf0-c42d73aa5ee7"
+              },
+              "dapAn": "B. take a bus from his house",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5beb6276-5d24-4cbb-af61-2f2407a35822"
+              },
+              "dapAn": "C. take a bus from downtown",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "65e1f3f5-4aa6-4efd-8ff7-162b26fd5060"
+              },
+              "dapAn": "D. take a bus from his school",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "I need some exercise. We could go do some yoga. I can't stand not being active for a whole weekend. Let's go to South Mountain Yoga. I've heard that it's supposed to be a great place to go. It's on Sculptor's Way, we'll just take the bus from downtown.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What does the speaker want to do?</b> <i>(Người nói muốn làm gì?),</i> <b></b>câu trong bài đọc liên quan là <b>I need some exercise. We could go do some yoga.</b> <i>(Tôi cần tập thể dục. Chúng ta có thể đi tập yoga.).</i> Nên đáp án là <b><span style=\"color:red\">B. do yoga</span> </b><i>(tập yoga)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>Can the speaker stand being inactive for a whole weekend?</b> <i>(Người nói có thể chịu đựng việc không hoạt động cho cả cuối tuần không?),</i> <b></b>câu trong bài đọc liên quan là <b>I can't stand not being active for a whole weekend</b><b>.</b> <i>(</i><i>Tôi không thể chịu đựng được việc không hoạt động trong cả cuối tuần</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">A. No, he can't.</span> </b><i>(Không, anh ấy không thể.)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>Where is the place the speaker wants to go?</b> <i>(Người nói muốn tới đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>Let's go to South Mountain Yoga</b><b>.</b> <b>I've heard that it's supposed to be a great place to go.</b> <i>(Hãy tới South Mountain Yoga.</i> <i>Tôi đã nghe nói rằng nó được coi là một nơi tuyệt vời để tới.</i><i>).</i> Nên đáp án là <b><span style=\"color:red\">D. South Mountain Yoga</span></b>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>How can the speaker get to the South Mountain Yoga?</b> <i>(Người nói có thể đi tới South Mountain Yoga bằng cách nào?),</i> <b></b>câu trong bài đọc liên quan là <b>It's on Sculptor's Way, we'll just take the bus from downtown</b><b>.</b> <i>(</i><i>Nó nằm trên đường Sculptor's Way, chúng ta chỉ cần bắt xe buýt từ trung tâm thành phố</i><i>.).</i> Nên đáp án là <b><span style=\"color:red\">C. take a bus from downtown</span> </b><i>(</i><i>bắt xe buýt từ trung tâm thành phố</i><i>)</i>.",
+      "danhSachDapAn": []
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "dangCauHoi": "P2",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "83316357-cb9f-4ef9-9543-469a5a726b3b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_PRE_S_L7/sounds/normal/PRE_S_7_LISTENING_Listening 1.mp3",
+      "yNghia": "Hello, my name is Peter. <span style=\"color:red\">Welcome to my house!</span> My house has five rooms. The first room is the living room. <span style=\"color:red\">There is a picture on the wall.</span> I like to watch television in the living room. There is a kitchen.<span style=\"color:red\"> It is next to the living room. </span>Sometimes I cook dinner in the kitchen. <span style=\"color:red\">The dining room is between the kitchen and the living room. </span>I eat dinner with my family in the dining room. I also have a bathroom. The bathroom has a shower, a toilet and a sink. The last room is the bedroom. My bed is very comfortable. <span style=\"color:red\">Behind the bed, I have twelve posters of my idol. </span>I love my house very much!<br />\n<br />\n<i>Xin chào, tên tôi là Peter. Chào mừng tới căn nhà của tôi! Nhà tôi có năm phòng. Căn phòng đầu tiên là phòng khách. Có một bức tranh ở trên tường. Tôi thích xem Tivi trong phòng khách. Có một căn bếp. Nó nằm cạnh phòng khách. Thỉnh thoảng tôi nấu bữa tối trong bếp. Phòng ăn nằm giữa căn bếp và phòng khách. Tôi ăn tối với gia đình trong phòng ăn. Tôi cũng có một phòng tắm. Phòng tắm có vòi sen, nhà vệ sinh và bồn rửa. Căn phòng cuối cùng là phòng ngủ. Giường của tôi rất thoải mái. Phía sau giường, tôi có mười hai tấm áp phích về thần tượng của mình. Tôi yêu ngôi nhà của tôi rất nhiều!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2964dcb0-dd52-4f06-b2ca-a62179c14319"
+          },
+          "dapAn": "Welcome to my house!",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2511cf34-3770-459e-b488-23567740c315"
+          },
+          "dapAn": "There is a picture on the wall.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8a7fae75-afb9-4f12-ab3b-d28f048ca100"
+          },
+          "dapAn": "It is next to the living room.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "59b8cc32-b407-4d76-9fc3-4129b2a91e2c"
+          },
+          "dapAn": "The dining room is between the kitchen and the living room.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "38008f69-7529-49d4-937e-3c88963be55d"
+          },
+          "dapAn": "Behind the bed, I have twelve posters of my idol.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "519057d6-c0ae-438e-b034-120f003dfd53"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_PRE_S_L7/sounds/normal/PRE_S_7_LISTENING_Listening 2.mp3",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td><b>David:</b></td>\n                        <td><span style=\"color:red\">I have a new office.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi có một văn phòng mới.</td>\n                </tr>\n                <tr>\n                        <td><b>Maria:</b></td>\n                        <td>That sounds great.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Nghe có vẻ tuyệt đấy.</td>\n                </tr>\n                <tr>\n                        <td><b>David:</b></td>\n                        <td>I'll need some desks. How many desks are there in your office?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi cần một số bàn làm việc. Có bao nhiêu bàn làm việc trong văn phòng của bạn?</td>\n                </tr>\n                <tr>\n                        <td><b>Maria:</b></td>\n                        <td><span style=\"color:red\">There are twenty-five in my office.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Có hai mươi lăm cái bàn trong văn phòng của tôi.</td>\n                </tr>\n                <tr>\n                        <td><b>David:</b></td>\n                        <td>Is there anything else in your office?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Có đồ gì khác trong văn phòng của bạn nữa không?</td>\n                </tr>\n                <tr>\n                        <td><b>Maria:</b></td>\n                        <td>Oh yes, I have eighteen chairs and two comfortable armchairs.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Ồ có, tôi có mười tám chiếc ghế và hai chiếc ghế bành thoải mái.</td>\n                </tr>\n                <tr>\n                        <td><b>David:</b></td>\n                        <td>Are there any tables in your office?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Có cái bàn nào trong văn phòng của bạn không?</td>\n                </tr>\n                <tr>\n                        <td><b>Maria:</b></td>\n                        <td><span style=\"color:red\">Yes, I have a table in front of the sofa.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Có, tôi có một cái bàn ở phía trước ghế sofa.</td>\n                </tr>\n                <tr>\n                        <td><b>David:</b></td>\n                        <td>Is there a computer in your office?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Có máy tính trong văn phòng của bạn không?</td>\n                </tr>\n                <tr>\n                        <td><b>Maria:</b></td>\n                        <td>Oh yes, I have a laptop on my desk next to the phone.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Ồ có, tôi có một chiếc máy tính xách tay trên bàn của tôi bên cạnh chiếc điện thoại.</td>\n                </tr>\n                <tr>\n                        <td><b>David:</b></td>\n                        <td>Are there any flowers or plants in your office?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Có hoa hay cây trong văn phòng của bạn không?</td>\n                </tr>\n                <tr>\n                        <td><b>Maria:</b></td>\n                        <td><span style=\"color:red\">Yes, there are twelve plants near the window.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Có, có mười hai cây gần cửa sổ.</td>\n                </tr>\n                <tr>\n                        <td><b>David:</b></td>\n                        <td>Where's your sofa?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Ghế sofa của bạn ở đâu?</td>\n                </tr>\n                <tr>\n                        <td><b>Maria:</b></td>\n                        <td><span style=\"color:red\">The sofa is in front of the window, between the two armchairs.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Ghế sofa ở trước cửa sổ, giữa hai ghế bành.</td>\n                </tr>\n                <tr>\n                        <td><b>David:</b></td>\n                        <td> Thanks a lot for your help, Maria.</td> \n                </tr>\n                <tr>\n                        <td> </td>\n                        <td> Cảm ơn sự giúp đỡ của bạn rất nhiều, Maria.</td>\n                </tr>\n                <tr>\n                        <td><b>Maria:</b></td>\n                        <td> You’re welcome!</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td> Không có gì!</td>\n                </tr>\n        </tbody>\n</table>\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4f4ad54b-6247-4980-9fbd-c1e2bc2a255b"
+          },
+          "dapAn": "I have a new office.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2cf1b425-a64d-40f1-8840-e6b4dd992216"
+          },
+          "dapAn": "There are twenty-five in my office.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "29100659-c217-4827-816c-7f9c376e2c9b"
+          },
+          "dapAn": "Yes, I have a table in front of the sofa.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8eea72b7-6b01-4199-98be-975f1884e1be"
+          },
+          "dapAn": "Yes, there are twelve plants near the window.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f319d883-654b-411e-8cb5-dbbd330d4950"
+          },
+          "dapAn": "The sofa is in front of the window, between the two armchairs.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "74a90b8f-f3bf-4fe9-ab75-337baee7ed65"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_PRE_S_L7/sounds/normal/PRE_S_7_LISTENING_Listening 3.mp3",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td><b>Hotel worker:</b></td>\n                        <td>Good morning. Grand Hotel. How can I help you?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Chào buổi sáng. Đây là Khách sạn Grand. Tôi có thể giúp gì cho bạn?</td>\n                </tr>\n                <tr>\n                        <td><b>Anna::</b></td>\n                        <td><span style=\"color:red\">Good morning. I want to book a room for Friday night, please.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Chào buổi sáng. Tôi muốn đặt một phòng cho đêm thứ Sáu.</td>\n                </tr>\n                <tr>\n                        <td><b>Hotel worker:</b></td>\n                        <td>What kind of room do you need?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Bạn cần loại phòng nào ạ?</td>\n                </tr>\n                <tr>\n                        <td><b>Anna::</b></td>\n                        <td><span style=\"color:red\">I need a single room.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Tôi cần một phòng đơn.</td>\n                </tr>\n                <tr>\n                        <td><b>Hotel worker:</b></td>\n                        <td>Let me see if there's a room available.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Để tôi kiểm tra xem có phòng nào trống không.</td>\n                </tr>\n                <tr>\n                        <td><b>Anna::</b></td>\n                        <td>OK.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Được</td>\n                </tr>\n                <tr>\n                        <td><b>Hotel worker:</b></td>\n                        <td><span style=\"color:red\">Oh, I'm sorry. There's only a double room left.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Ồ, tôi xin lỗi. Chỉ còn lại một phòng đôi thôi.</td>\n                </tr>\n                <tr>\n                        <td><b>Anna::</b></td>\n                        <td>What is a double room?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Phòng đôi là gì thế?</td>\n                </tr>\n                <tr>\n                        <td><b>Hotel worker:</b></td>\n                        <td><span style=\"color:red\">It's a room with one bed for two people.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Nó là phòng với một giường dành cho hai người.</td>\n                </tr>\n                <tr>\n                        <td><b>Anna::</b></td>\n                        <td>OK. A double room, please.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Được. Một phòng đôi, làm ơn.</td>\n                </tr>\n                <tr>\n                        <td><b>Hotel worker:</b></td>\n                        <td>No problem.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Không thành vấn đề.</td>\n                </tr>\n                <tr>\n                        <td><b>Anna::</b></td>\n                        <td><span style=\"color:red\">Does it have windows?</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Nó có cửa sổ không?</td>\n                </tr>\n                <tr>\n                        <td><b>Hotel worker:</b></td>\n                        <td><span style=\"color:red\">Your bed is next to two big windows.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Giường của bạn ở cạnh hai cửa sổ to.</td>\n                </tr>\n                <tr>\n                        <td><b>Anna::</b></td>\n                        <td>What else does the room have in it?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Trong phòng còn có gì khác nữa không?</td>\n                </tr>\n                <tr>\n                        <td><b>Hotel worker:</b></td>\n                        <td><span style=\"color:red\">There's a small desk and a chair.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Có một cái bàn nhỏ và một cái ghế.</td>\n                </tr>\n                <tr>\n                        <td><b>Anna::</b></td>\n                        <td><span style=\"color:red\">Is the room big?</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Căn phòng có lớn không?</td>\n                </tr>\n                <tr>\n                        <td><b>Hotel worker:</b></td>\n                        <td>Yes, it is.</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Có, nó lớn.</td>\n                </tr>\n                <tr>\n                        <td><b>Anna::</b></td>\n                        <td>How much is it?</td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Nó có giá bao nhiêu vậy?</td>\n                </tr>\n                <tr>\n                        <td><b>Hotel worker:</b></td>\n                        <td><span style=\"color:red\">It's $100. Please pay at the hotel on Friday.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>100 đô-la. Bạn vui lòng thanh toán tại khách sạn vào thứ Sáu.</td>\n                </tr>\n                <tr>\n                        <td><b>Anna::</b></td>\n                        <td><span style=\"color:red\">Thank you for your help.</span></td>\n                </tr>\n                <tr>\n                        <td> </td>\n                        <td>Cảm ơn sự giúp đỡ của bạn.</td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2567a382-ce20-406c-9674-20f40baad0c3"
+          },
+          "dapAn": "Good morning. I want to book a room for Friday night, please.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "41850033-17ce-40a0-8edd-e0a191d9c66f"
+          },
+          "dapAn": "I need a single room.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4369589f-ae64-4193-a07e-afe5a542874b"
+          },
+          "dapAn": "Oh, I’m sorry. There’s only a double room left.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "920bb110-5301-49b5-a132-efa759721ac4"
+          },
+          "dapAn": "It’s a room with one bed for two people.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "755ecbe7-946f-48fd-8989-d187967f4323"
+          },
+          "dapAn": "Does it have windows?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4d4fc6c7-53d0-4b73-8293-ca3406e8c14e"
+          },
+          "dapAn": "Your bed is next to two big windows.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bca355fa-786a-4348-9836-7e6405d0cf24"
+          },
+          "dapAn": "There’s a small desk and a chair.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "80fde3b4-9b9e-422e-aa96-612438539f26"
+          },
+          "dapAn": "Is the room big?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "febd1e82-660b-4a87-a3aa-967b78b65e68"
+          },
+          "dapAn": "It’s $100. Please pay at the hotel on Friday.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0034ba3b-e557-4b7d-8e61-d59ad7644fdb"
+          },
+          "dapAn": "Thank you for your help.",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

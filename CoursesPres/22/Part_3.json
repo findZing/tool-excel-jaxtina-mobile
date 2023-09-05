@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0_1",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "9fe746e7-889c-45a3-b1b0-6e9798af9aa3"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Egg",
+      "yNghia": "Trứng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "32a2443f-12a6-4004-ab32-279a5d474442"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Cereal",
+      "yNghia": "Ngũ cốc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a692a341-342b-4abf-b0dd-3fe89492f06f"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Fruit",
+      "yNghia": "Hoa quả",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "43e372d2-2ce9-44f8-bdfa-c5a06ccc4bc6"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Toast",
+      "yNghia": "Bánh mì nướng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "80af5dac-bb55-4c98-bdd5-da785019e759"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Rice",
+      "yNghia": "Cơm",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "710bc9ea-705e-40f8-931f-f8edb175c70d"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Vegetable",
+      "yNghia": "Rau",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a0bebd32-d69e-4a67-bfa6-a0f36fd8cf6f"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Soup",
+      "yNghia": "Súp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d5f6e9b1-8072-40ee-ae1f-a23e144a9e30"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Bread",
+      "yNghia": "Bánh mì gối",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "28b59719-7759-447d-882a-84e2b5c95a23"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Sandwich",
+      "yNghia": "Bánh mì sandwich",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e135f8bf-489d-462d-b469-4b07ea71c954"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Pasta",
+      "yNghia": "Mì Ý",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9f85de8c-8494-4be7-b89f-7a7f66368cb1"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Chicken",
+      "yNghia": "Thịt gà",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "17eeafde-70fa-4de3-905d-ffcfc6d7c76a"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Pizza",
+      "yNghia": "Pizza",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0ccdb713-d364-4a8d-bbb5-1daf3e7e46bd"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Tea",
+      "yNghia": "Trà",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "328cd346-1623-41a6-848f-3435907dc1b9"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Coffee",
+      "yNghia": "Cà phê",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d873a6fe-b9e7-405b-992d-32c7c0d8f528"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Milk",
+      "yNghia": "Sữa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6e239682-1c2a-4e10-9cc4-7ca315a6aed6"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Juice",
+      "yNghia": "Nước hoa quả",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e4f089d9-f3c3-4d2c-b729-9456f8ebfb5b"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Fish",
+      "yNghia": "Cá",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "755b7dc5-5770-4e35-9beb-eb6695bda6d8"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Breakfast",
+      "yNghia": "Bữa sáng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "fcb7a439-0293-449d-8d0c-e6314d1efe91"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Lunch",
+      "yNghia": "Bữa trưa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f5fef6ef-492a-4869-bf10-64d571bd3bf4"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Dinner",
+      "yNghia": "Bữa tối",
+      "danhSachDapAn": []
+    }
+  ]
+}

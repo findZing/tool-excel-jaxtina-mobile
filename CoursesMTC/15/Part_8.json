@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_MTC_L15/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_MTC_L15/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "4c951755-451b-407d-be7e-19977b9b0a4f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Host ",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9050e158-ed32-49fc-ad4c-b86792c4dead"
+          },
+          "dapAn": "Welcome to Our Universe. I’m Sam Maxwell, and our guest today is astronaut Karen Simmons.",
+          "phienAm": "/ˈwelkəm tuː ˈaʊə ˈjuːnɪvɜːs/. /aɪm sæm ˈmækswəl ænd ˈaʊər gest təˈdeɪ ɪz ˈæstrənɔːt ˈkærən ˈsaɪməns/",
+          "yNghia": "\nChào mừng đến với chương trình Vũ trụ của chúng ta. Tôi là Sam Maxwell, và vị khách của chúng ta hôm nay là phi hành gia Karen Simmons.",
+          "normal": {
+            "start": "00:00:00.245",
+            "end": "00:00:06.972"
+          },
+          "slow": {
+            "start": "00:00:00.485",
+            "end": "00:00:09.942"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "92e94e2f-44e5-4c5d-8fe9-9747f14d1a40"
+          },
+          "dapAn": "Amazing, Karen. Can you tell us how many times you have flown into space?",
+          "phienAm": "/əˈmeɪzɪŋ  ˈkærən/. /kæn juː tel ʌs haʊ ˈmeni taɪmz juː hæv fləʊn ˈɪntuː speɪs/",
+          "yNghia": "\nTuyệt vời, Karen. Bạn có thể cho chúng tôi biết bạn đã bay vào vũ trụ bao nhiêu lần không?",
+          "normal": {
+            "start": "00:00:14.800",
+            "end": "00:00:19.877"
+          },
+          "slow": {
+            "start": "00:00:20.530",
+            "end": "00:00:27.723"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "85c6cae6-9d1c-41c1-b550-76949793c1d0"
+          },
+          "dapAn": "Could you explain what life is like in zero gravity?",
+          "phienAm": "/kʊd juː ɪksˈpleɪn wɒt laɪf ɪz laɪk ɪn ˈzɪərəʊ ˈgrævɪti/",
+          "yNghia": "\nBạn có thể giải thích cuộc sống diễn ra như thế nào trong môi trường không trọng lực không?",
+          "normal": {
+            "start": "00:00:27.338",
+            "end": "00:00:31.007"
+          },
+          "slow": {
+            "start": "00:00:37.018",
+            "end": "00:00:41.949"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2a14f855-0d84-4847-b6ac-1c01cacb8b71"
+          },
+          "dapAn": "How do you sleep?",
+          "phienAm": "/haʊ duː juː sliːp/",
+          "yNghia": "\nLàm thế nào để bạn ngủ?",
+          "normal": {
+            "start": "00:00:38.346",
+            "end": "00:00:39.508"
+          },
+          "slow": {
+            "start": "00:00:50.516",
+            "end": "00:00:52.294"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9dd45dae-a220-4c49-9e21-640cae6a83e9"
+          },
+          "dapAn": "If you want to sit down, do you have to tie yourself to a chair?",
+          "phienAm": "/ɪf juː wɒnt tuː sɪt daʊn  duː juː hæv tuː taɪ jɔːˈself tuː eɪ ʧeər/",
+          "yNghia": "\nNếu bạn muốn ngồi xuống, bạn có phải buộc mình vào ghế không?",
+          "normal": {
+            "start": "00:00:47.031",
+            "end": "00:00:51.434"
+          },
+          "slow": {
+            "start": "00:01:02.317",
+            "end": "00:01:08.379"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "79d7fb5b-4308-443e-9651-618a4f2e3ec0"
+          },
+          "dapAn": "How do you drink water?",
+          "phienAm": "/haʊ duː juː drɪŋk ˈwɔːtər/",
+          "yNghia": "\nBạn uống nước như thế nào?",
+          "normal": {
+            "start": "00:00:54.859",
+            "end": "00:00:57.122"
+          },
+          "slow": {
+            "start": "00:01:13.632",
+            "end": "00:01:15.895"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f77eda74-eafc-48b7-89ac-22ace00a19c5"
+          },
+          "dapAn": "You have very short hair. Is long hair a problem in space?",
+          "phienAm": "/juː hæv ˈveri ʃɔːt heər/. /ɪz lɒŋ heər eɪ ˈprɒbləm ɪn speɪs/",
+          "yNghia": "\nBạn có mái tóc rất ngắn. Có phải tóc dài là một vấn đề trong không gian vũ trụ không?",
+          "normal": {
+            "start": "00:01:04.522",
+            "end": "00:01:08.620"
+          },
+          "slow": {
+            "start": "00:01:26.160",
+            "end": "00:01:31.656"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "02f414fe-ff0a-4643-bf66-d66d99c8d675"
+          },
+          "dapAn": "Do you know if the US will have space shuttles again in the future?",
+          "phienAm": "/duː juː nəʊ ɪf ðə juːˈes wɪl hæv speɪs ˈʃʌtlz əˈgen ɪn ðə ˈfjuːʧər/",
+          "yNghia": "\nBạn có biết trong tương lai, liệu Hoa Kỳ sẽ có tàu con thoi trở lại hay không?",
+          "normal": {
+            "start": "00:01:14.919",
+            "end": "00:01:19.506"
+          },
+          "slow": {
+            "start": "00:01:41.598",
+            "end": "00:01:47.256"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "889c0c17-703a-47f7-a6e7-8533d6dfccfa"
+          },
+          "dapAn": "Wow, do you know where they will go, besides the space station?",
+          "phienAm": "/waʊ  duː juː nəʊ weər ðeɪ wɪl gəʊ  bɪˈsaɪdz ðə speɪs ˈsteɪʃən/",
+          "yNghia": "\nWow, bạn có biết ngoài trạm vũ trụ ra thì họ sẽ đi đâu không?",
+          "normal": {
+            "start": "00:01:27.090",
+            "end": "00:01:31.677"
+          },
+          "slow": {
+            "start": "00:01:55.904",
+            "end": "00:02:01.481"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "66a14da8-9bf9-423b-95be-17e8df1bb0f8"
+          },
+          "dapAn": "Well, that sounds amazing, Karen. Thank you.",
+          "phienAm": "/wel ðæt saʊndz əˈmeɪzɪŋ  ˈkærən. θæŋk juː/",
+          "yNghia": "\nChà, nghe tuyệt đấy, Karen. Cảm ơn bạn.",
+          "normal": {
+            "start": "00:01:39.627",
+            "end": "00:01:42.624"
+          },
+          "slow": {
+            "start": "00:02:12.878",
+            "end": "00:02:16.838"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0f9bf1ae-c673-43b8-8b69-b8141bfd4308"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Karen",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a6d4903f-222e-4b07-a549-476440c7c215"
+          },
+          "dapAn": "Hello, my name is Karen and I have been an astronaut for nearly 10 years.",
+          "phienAm": "/heˈləʊ maɪ neɪm ɪz ˈkærən ænd aɪ hæv biːn æn ˈæstrənɔːt fɔːr ˈnɪəli ten jɪərz/",
+          "yNghia": "\nXin chào, tên tôi là Karen và tôi đã là phi hành gia được gần 10 năm.",
+          "normal": {
+            "start": "00:00:08.073",
+            "end": "00:00:14.005"
+          },
+          "slow": {
+            "start": "00:00:10.831",
+            "end": "00:00:19.802"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f4b51254-3be4-4fe0-847a-a9af4924f72b"
+          },
+          "dapAn": "Four times, one of those was to the International Space Station.",
+          "phienAm": "/fɔːr taɪmz wʌn ɒv ðəʊz wɒz tuː ði: ˌɪntəˈnæʃənl speɪs ˈsteɪʃən/",
+          "yNghia": "\nBốn lần, một trong số đó là bay đến Trạm vũ trụ quốc tế.",
+          "normal": {
+            "start": "00:00:20.610",
+            "end": "00:00:26.176"
+          },
+          "slow": {
+            "start": "00:00:28.370",
+            "end": "00:00:36.372"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f1f33209-dc44-41f9-8f36-ad3377977ace"
+          },
+          "dapAn": "You float, so you have to hold on to something to stay in one place.",
+          "phienAm": "/juː fləʊt səʊ juː hæv tuː həʊld ɒn tuː ˈsʌmθɪŋ tuː steɪ ɪn wʌn pleɪs/",
+          "yNghia": "\nBạn lơ lửng, vì vậy bạn phải bám vào một cái gì đó để ở yên một chỗ.",
+          "normal": {
+            "start": "00:00:32.231",
+            "end": "00:00:37.674"
+          },
+          "slow": {
+            "start": "00:00:42.434",
+            "end": "00:00:49.708"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "50444c69-1b38-43f6-9091-fd0801b04d0b"
+          },
+          "dapAn": "I use a special sleeping bag, and tie it to the wall or the floor.",
+          "phienAm": "/aɪ juːz eɪ ˈspeʃəl ˈsliːpɪŋ bæg  ænd taɪ ɪt tuː ðə wɔːl ɔːr ðə flɔːr/",
+          "yNghia": "\nTôi sử dụng một chiếc túi ngủ đặc biệt và buộc nó vào tường hoặc sàn nhà.",
+          "normal": {
+            "start": "00:00:40.487",
+            "end": "00:00:45.869"
+          },
+          "slow": {
+            "start": "00:00:53.264",
+            "end": "00:00:01.428"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "dcb2c692-ae01-40c5-8cf0-9a6ce9ad59e0"
+          },
+          "dapAn": "That’s true! So funny.",
+          "phienAm": "/ðæts truː/. /səʊ ˈfʌni/",
+          "yNghia": "\nĐúng vậy! Buồn cười lắm.",
+          "normal": {
+            "start": "00:00:52.229",
+            "end": "00:00:54.248"
+          },
+          "slow": {
+            "start": "00:01:09.349",
+            "end": "00:01:12.662"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "56c81ed1-12bc-4a5d-9ae9-b899aa458361"
+          },
+          "dapAn": "I drink water through a tube, so the water wouldn’t float out into the air.",
+          "phienAm": "/aɪ drɪŋk ˈwɔːtər θruː eɪ tjuːb səʊ ðə ˈwɔːtər ˈwʊdnt fləʊt aʊt ˈɪntuː ði: eər/",
+          "yNghia": "\nTôi uống nước qua một cái ống để nước không bay ra ngoài không khí.",
+          "normal": {
+            "start": "00:00:57.978",
+            "end": "00:01:03.666"
+          },
+          "slow": {
+            "start": "00:01:16.704",
+            "end": "00:01:24.867"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "754bfad5-901f-4c1f-85a6-8e2f816201e7"
+          },
+          "dapAn": "Oh yes. If I hadn’t cut my hair, it would have floated around my head.",
+          "phienAm": "/əʊ jes/. /ɪf aɪ ˈhædnt kʌt maɪ heər ɪt wʊd hæv ˈfləʊtɪd əˈraʊnd maɪ hed/",
+          "yNghia": "\nỒ vâng. Nếu tôi không cắt tóc, nó sẽ bồng bềnh trên đầu tôi.",
+          "normal": {
+            "start": "00:01:09.660",
+            "end": "00:01:14.185"
+          },
+          "slow": {
+            "start": "00:01:32.869",
+            "end": "00:01:40.628"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "93c5d8f5-50a5-4344-a203-0523fc3aa9c1"
+          },
+          "dapAn": "Well, the government is working to create new types of spacecraft.",
+          "phienAm": "/wel ðə ˈgʌvnmənt ɪz ˈwɜːkɪŋ tuː kriːˈeɪt njuː taɪps ɒv ˈspeɪskrɑːft/",
+          "yNghia": "\nChà, chính phủ đang tạo ra các loại tàu vũ trụ mới.",
+          "normal": {
+            "start": "00:01:20.668",
+            "end": "00:01:25.561"
+          },
+          "slow": {
+            "start": "00:01:48.145",
+            "end": "00:01:55.338"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c045fb4e-9eef-4634-8413-00fd4ed1a83d"
+          },
+          "dapAn": "No, I don’t, but at some points in the future, maybe even to other planets.",
+          "phienAm": "/nəʊ aɪ dəʊnt  bʌt æt sʌm pɔɪnts ɪn ðə ˈfjuːʧər  ˈmeɪbiː ˈiːvən tuː ˈʌðər ˈplænɪts/",
+          "yNghia": "\nKhông, tôi không biết, nhưng vào một thời điểm nào đó trong tương lai, thậm chí là có thể đến các hành tinh khác.",
+          "normal": {
+            "start": "00:01:32.410",
+            "end": "00:01:38.954"
+          },
+          "slow": {
+            "start": "00:02:02.128",
+            "end": "00:02:11.503"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5dcedc87-9e77-4fc8-a0e7-ae1875cc9054"
+          },
+          "dapAn": "It’s my pleasure.",
+          "phienAm": "/ɪts maɪ ˈpleʒər/",
+          "yNghia": "\nĐó là niềm vinh dự của tôi.",
+          "normal": {
+            "start": "00:01:43.786",
+            "end": "00:01:45.009"
+          },
+          "slow": {
+            "start": "00:02:17.727",
+            "end": "00:02:19.344"
+          }
+        }
+      ]
+    }
+  ]
+}

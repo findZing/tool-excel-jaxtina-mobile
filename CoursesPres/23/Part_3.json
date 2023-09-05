@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "6927c8f1-2459-4f8f-9268-2c3185e58b02"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Bored",
+      "yNghia": "Buồn chán",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1b561f76-7659-4b51-8e90-f91ed82bee67"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Excited",
+      "yNghia": "Hào hứng, hứng khởi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7ffbb6d7-f760-4996-bc5d-b719af10df69"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Happy",
+      "yNghia": "Vui vẻ, hạnh phúc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4c596b7e-869b-48f1-a0b0-af306352d4f0"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Hungry",
+      "yNghia": "Đói",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0a910041-07e7-4428-bc19-2640473bdce5"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Sad",
+      "yNghia": "Buồn bã, buồn rầu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "30ee9143-ab10-440c-b050-660258e69ebc"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Tired",
+      "yNghia": "Mệt mỏi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b7776fcc-0533-4912-b3ea-ed1b733fa61a"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Appearance",
+      "yNghia": "Ngoại hình",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "bcf80243-5f85-41fb-8acd-1944290f3b87"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Vacation",
+      "yNghia": "Kì nghỉ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "65dbbb69-a05a-4496-bceb-3a18b5ca9fa2"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Job",
+      "yNghia": "Công việc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b0972ece-1991-410d-9d98-d2b5a29bb8fc"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Introduce",
+      "yNghia": "Giới thiệu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a36105e4-ad8f-4d46-8443-e781090470b3"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Famous",
+      "yNghia": "Nổi tiếng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e99fc507-1049-49f0-a376-23347545cc0e"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Admire",
+      "yNghia": "Ngưỡng mộ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "74e3809d-2d66-4b62-be62-6e82eca57028"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Describe",
+      "yNghia": "Mô tả",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ebfbf43b-00cd-484f-bba1-fcd8b571a4d5"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Classroom",
+      "yNghia": "Phòng học",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "167eb8d0-ff2c-4289-8c5d-c820378e0b34"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Weekday",
+      "yNghia": "Ngày trong tuần",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0e273c76-fb7c-43ac-8706-71209683eac2"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Daily routine",
+      "yNghia": "Thói quen hàng ngày",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e69f35a9-d895-4379-b79d-e5bb84a38f5e"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Garbage",
+      "yNghia": "Đồ phế thải, rác",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6bac1450-4fd4-48be-ba75-998d4ad7cbb1"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Place",
+      "yNghia": "Nơi, chỗ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6fcbc1a4-69ed-4a2f-b77e-17aba87a8eca"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Hometown",
+      "yNghia": "Quê nhà",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f2abbb5f-d8e4-4419-a599-2f35c0857f28"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Often",
+      "yNghia": "Thường",
+      "danhSachDapAn": []
+    }
+  ]
+}

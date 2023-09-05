@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_MTC_L14/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_MTC_L14/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "14fafcea-cd4c-4de4-af1c-db7dc1c1fabb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Host",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0e7cd98e-cf32-43a3-a79c-c6a025720c77"
+          },
+          "dapAn": "This is History Mystery. Our discussion today is “What on Earth happened?”. Please welcome scientist Seth Hawk.",
+          "phienAm": "/ðɪs ɪz ˈhɪstəri ˈmɪstəri/. /ˈaʊə dɪsˈkʌʃən təˈdeɪ ɪz wɒt ɒn ɜːθ ˈhæpənd/ /pliːz ˈwelkəm ˈsaɪəntɪst seθ hɔːk/ ",
+          "yNghia": "\nĐây là Bí Ẩn Lịch Sử. Cuộc thảo luận của chúng ta hôm nay là “Chuyện gì đã xảy ra vậy?”. Xin chào mừng nhà khoa học Seth Hawk.",
+          "normal": {
+            "start": "00:00:00.481",
+            "end": "00:00:10.803"
+          },
+          "slow": {
+            "start": "00:00:00.645",
+            "end": "00:00:13.270"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4cc7bbc9-8ccd-4d51-8953-9c01323f1eb8"
+          },
+          "dapAn": "Mr. Hawk, can you tell us one thing that happened that changed our planet forever?",
+          "phienAm": "/mɪstər hɔːk kæn juː tel ʌs wʌn θɪŋ ðæt ˈhæpənd ðæt ʧeɪnʤd ˈaʊə ˈplænɪt fəˈrevər/",
+          "yNghia": "\nÔng Hawk, ông có thể cho chúng tôi biết một điều đã xảy ra mà thay đổi hành tinh của chúng ta mãi mãi không?",
+          "normal": {
+            "start": "00:00:17.832",
+            "end": "00:00:23.678"
+          },
+          "slow": {
+            "start": "00:00:21.287",
+            "end": "00:00:29.950"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2660a4ad-10b1-48ed-a886-e036709bbde4"
+          },
+          "dapAn": "When did that happen?",
+          "phienAm": "/wen dɪd ðæt ˈhæpən/",
+          "yNghia": "\nĐiều này xảy ra lúc nào?",
+          "normal": {
+            "start": "00:00:32.964",
+            "end": "00:00:34.592"
+          },
+          "slow": {
+            "start": "00:00:40.271",
+            "end": "00:00:42.851"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3cb153e5-4cc3-4e7c-bee7-d06a24d232e4"
+          },
+          "dapAn": "How about its result? Can you tell me more details?",
+          "phienAm": "/haʊ əˈbaʊt ɪts rɪˈzʌlt/. /kæn juː tel miː mɔːr ˈdiːteɪlz/",
+          "yNghia": "\nKết quả của nó thế nào? Bạn có thể cho tôi biết thêm chi tiết được không?",
+          "normal": {
+            "start": "00:00:41.399",
+            "end": "00:00:45.099"
+          },
+          "slow": {
+            "start": "00:00:50.039",
+            "end": "00:00:55.107"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c1cee0c2-a7c9-4af6-a497-29bb808dbf53"
+          },
+          "dapAn": "What do scientists think about the meteorite?",
+          "phienAm": "/wɒt duː ˈsaɪəntɪsts θɪŋk əˈbaʊt ðə ˈmiːtiəraɪt/",
+          "yNghia": "\nCác nhà khoa học nghĩ gì về thiên thạch?",
+          "normal": {
+            "start": "00:00:53.571",
+            "end": "00:00:56.716"
+          },
+          "slow": {
+            "start": "00:01:04.138",
+            "end": "00:01:09.391"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6201b19d-3053-467c-8ad0-1d67f802c513"
+          },
+          "dapAn": "How did it destroy the world?",
+          "phienAm": "/haʊ dɪd ɪt dɪsˈtrɔɪ ðə wɜːld/",
+          "yNghia": "\nNó đã phá hủy thế giới như thế nào?",
+          "normal": {
+            "start": "00:01:02.968",
+            "end": "00:01:05.743"
+          },
+          "slow": {
+            "start": "00:01:18.145",
+            "end": "00:01:22.292"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a2b28900-1ff6-495b-96df-959be6e49bca"
+          },
+          "dapAn": "That must have been terrible for life!",
+          "phienAm": "/ðæt mʌst hæv biːn ˈterəbl fɔːr laɪf/",
+          "yNghia": "\nĐiều đó hẳn là khủng khiếp cho cuộc sống!",
+          "normal": {
+            "start": "00:01:15.843",
+            "end": "00:01:18.618"
+          },
+          "slow": {
+            "start": "00:01:33.074",
+            "end": "00:01:37.405"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "56e09944-2ffe-44c6-bf82-384d5b6e674b"
+          },
+          "dapAn": "This caused massive forest fires, didn’t it?",
+          "phienAm": "/ðɪs kɔːzd ˈmæsɪv ˈfɒrɪst ˈfaɪəz dɪdnt ɪt/",
+          "yNghia": "\nĐiều này gây ra các vụ cháy rừng lớn, phải không?",
+          "normal": {
+            "start": "00:01:26.905",
+            "end": "00:01:30.383"
+          },
+          "slow": {
+            "start": "00:01:48.095",
+            "end": "00:01:52.610"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7b103b44-fe59-422d-bb48-4b061dbcf96d"
+          },
+          "dapAn": "Without sunlight, plants began to die, so there was no food for the herbivores, right?",
+          "phienAm": "/wɪˈðaʊt ˈsʌnlaɪt plɑːnts bɪˈgæn tuː daɪ səʊ ðeə wɒz nəʊ fuːd fɔːr ðə ˈhɜːbɪˌvɔːz raɪt/",
+          "yNghia": "\nKhông có ánh sáng mặt trời, thực vật bắt đầu chết, vì vậy không có thức ăn cho động vật ăn cỏ, phải không?",
+          "normal": {
+            "start": "00:01:40.705",
+            "end": "00:01:47.883"
+          },
+          "slow": {
+            "start": "00:02:05.327",
+            "end": "00:02:14.819"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3cb7ac5f-946c-4e2b-b06a-e516207641b9"
+          },
+          "dapAn": "What would have happened if the meteorite had not crashed into Earth?",
+          "phienAm": "/wɒt wʊd hæv ˈhæpənd ɪf ðə ˈmiːtiəraɪt hæd nɒt kræʃt ˈɪntuː ɜːθ/",
+          "yNghia": "\nĐiều gì sẽ xảy ra nếu thiên thạch không đâm vào Trái đất?",
+          "normal": {
+            "start": "00:01:56.651",
+            "end": "00:02:02.200"
+          },
+          "slow": {
+            "start": "00:02:25.048",
+            "end": "00:02:33.250"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "fda5cefe-2154-43fa-93f0-209953f28c7b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Seth",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ad3f956b-1c6b-4b44-b610-b3987dd59c93"
+          },
+          "dapAn": "Good evening! I’m very glad to be here to speak to all of you.",
+          "phienAm": "/gʊd ˈiːvnɪŋ/. /aɪm ˈveri glæd tuː biː hɪə tuː spiːk tuː ɔːl ɒv juː/",
+          "yNghia": "\nChào buổi tối! Tôi rất vui được ở đây để nói chuyện với tất cả các bạn.",
+          "normal": {
+            "start": "00:00:12.024",
+            "end": "00:00:16.242"
+          },
+          "slow": {
+            "start": "00:00:14.560",
+            "end": "00:00:20.181"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "681d8d77-95df-40f7-ba44-6bcc89fddeda"
+          },
+          "dapAn": "A meteorite hit the Earth and created a crater that was 185km wide.",
+          "phienAm": "/eɪ ˈmiːtiəraɪt hɪt ði ɜːθ ænd kriːˈeɪtɪd ə ˈkreɪtə ðæt wɒz wʌn ˈhʌndrəd ˈeɪti faɪv kɪˈlɒmɪtərs waɪd/",
+          "yNghia": "\nMột thiên thạch va vào Trái đất và tạo ra một hố trũng rộng 185km.",
+          "normal": {
+            "start": "00:00:25.195",
+            "end": "00:00:31.928"
+          },
+          "slow": {
+            "start": "00:00:30.871",
+            "end": "00:00:39.441"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ec271014-e8f4-49f8-847d-f584a0b4ce6b"
+          },
+          "dapAn": "Sixty-six million years ago, during the time of the dinosaurs.",
+          "phienAm": "/ˈsɪkstisɪks ˈmɪljən jɪəz əˈgəʊ ˈdjʊərɪŋ ðə taɪm ɒv ðə ˈdaɪnəʊsɔːz/",
+          "yNghia": "\nSáu mươi sáu triệu năm trước, trong thời kỳ khủng long.",
+          "normal": {
+            "start": "00:00:35.517",
+            "end": "00:00:40.437"
+          },
+          "slow": {
+            "start": "00:00:43.588",
+            "end": "00:00:48.933"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "44b0f469-cbc3-4fb7-abb4-fd8ab14240c2"
+          },
+          "dapAn": "This caused a chain of events that resulted in a mass extinction of life on Earth.",
+          "phienAm": "/ðɪs kɔːzd ei ʧeɪn ɒv ɪˈvents ðæt rɪˈzʌltɪd ɪn ei mæs ɪksˈtɪŋkʃən ɒv laɪf ɒn ɜːθ/",
+          "yNghia": "\nĐiều này gây ra một chuỗi các sự kiện dẫn đến sự tuyệt chủng hàng loạt của sự sống trên Trái đất.",
+          "normal": {
+            "start": "00:00:46.246",
+            "end": "00:00:51.943"
+          },
+          "slow": {
+            "start": "00:00:56.029",
+            "end": "00:01:03.309"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "83ed0665-40f6-429d-b317-8cd9a5e48731"
+          },
+          "dapAn": "We agree that the meteorite was the main cause of these mass extinctions.",
+          "phienAm": "/wiː əˈgriː ðæt ðə ˈmiːtiəraɪt wɒz ðə meɪn kɔːz ɒv ðiːz mæs ɪksˈtɪŋkʃənz/",
+          "yNghia": "\nChúng tôi đồng ý rằng thiên thạch là nguyên nhân chính của những sự tuyệt chủng hàng loạt này.",
+          "normal": {
+            "start": "00:00:57.567",
+            "end": "00:01:01.859"
+          },
+          "slow": {
+            "start": "00:01:10.312",
+            "end": "00:01:16.118"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9cdc08b7-661e-4d02-8301-3fd847e6821e"
+          },
+          "dapAn": "Almost immediately after the impact, there were earthquakes and 300-meter-high tidal waves everywhere.",
+          "phienAm": "/ˈɔːlməʊst ɪˈmiːdiətli ˈɑːftə ði ˈɪmpækt, ðeə wɜːr ˈɜːθkweɪks ænd thriˈhʌndrəd ˈmiːtə-haɪ ˈtaɪdl weɪvz ˈevrɪweə/",
+          "yNghia": "\nGần như ngay lập tức sau vụ va chạm, có động đất và sóng thần cao 300 mét ở khắp mọi nơi.",
+          "normal": {
+            "start": "00:01:06.705",
+            "end": "00:01:14.474"
+          },
+          "slow": {
+            "start": "00:01:23.214",
+            "end": "00:01:32.613"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d61c3a12-6103-4176-a9a8-987fa7e685aa"
+          },
+          "dapAn": "About eight minutes later, debris from the explosion would have started to fall out of the sky.",
+          "phienAm": "/əˈbaʊt eɪt ˈmɪnɪts ˈleɪtə, ˈdeɪbriː frɒm ði ɪksˈpləʊʒən wʊd hæv ˈstɑːtɪd tuː fɔːl aʊt ɒv ðə skaɪ/ ",
+          "yNghia": "\nKhoảng tám phút sau, các mảnh vỡ từ vụ nổ sẽ bắt đầu rơi xuống từ bầu trời.",
+          "normal": {
+            "start": "00:01:19.247",
+            "end": "00:01:25.906"
+          },
+          "slow": {
+            "start": "00:01:38.235",
+            "end": "00:01:46.528"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c1f13fe7-e0be-49bf-a6d9-83ba27597167"
+          },
+          "dapAn": "That’s true! There would also have been 965-km-per-hour winds which destroyed everything.",
+          "phienAm": "/ðæts truː! ðeə wʊd ˈɔːlsəʊ hæv biːn naɪn ˈhʌndrəd ˈsɪksti faɪv kɪˈlɒmɪtər pɜːrˈaʊə wɪndz wɪʧ dɪsˈtrɔɪd ˈevrɪθɪŋ/",
+          "yNghia": "\nĐúng! Cũng sẽ có những cơn gió 965 km mỗi giờ phá hủy mọi thứ.",
+          "normal": {
+            "start": "00:01:31.382",
+            "end": "00:01:39.447"
+          },
+          "slow": {
+            "start": "00:01:53.901",
+            "end": "00:02:03.853"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9625db03-ad6b-4d6d-8dd9-b9b2eb4dbb9b"
+          },
+          "dapAn": "Correct. The death of herbivores means that the carnivores didn’t have food and died, too.",
+          "phienAm": "/kəˈrekt/. /ðə deθ ɒv ˈhɜːbɪˌvɔːz miːnz ðæt ðə ˈkɑːnɪvɔːz dɪdnt hæv fuːd ənd daɪd tuː/",
+          "yNghia": "\nChính xác. Cái chết của động vật ăn cỏ có nghĩa là động vật ăn thịt không có thức ăn và cũng chết theo.",
+          "normal": {
+            "start": "00:01:48.733",
+            "end": "00:01:55.578"
+          },
+          "slow": {
+            "start": "00:02:15.833",
+            "end": "00:02:23.666"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "eb4b0e7f-ebfb-4420-a6e4-1e596320921d"
+          },
+          "dapAn": "Some scientists think dinosaurs might have survived.",
+          "phienAm": "/sʌm ˈsaɪəntɪsts θɪŋk ˈdaɪnəʊsɔːz maɪt hæv səˈvaɪvd/",
+          "yNghia": "\nMột số nhà khoa học nghĩ rằng khủng long có thể đã sống sót.",
+          "normal": {
+            "start": "00:02:02.903",
+            "end": "00:02:06.566"
+          },
+          "slow": {
+            "start": "00:02:34.171",
+            "end": "00:02:38.687"
+          }
+        }
+      ]
+    }
+  ]
+}

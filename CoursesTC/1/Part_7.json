@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P7",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "1825faa9-2633-4a75-b4bf-a1d07bd5ceec"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you tell me who your role model ____ <b><span style=\"color:blue\">(be)</span></b>?",
+      "yNghia": "<b>Your role model </b>là chủ ngữ ngôi thứ nhất số ít, nên động từ <i>to be</i> theo sau sẽ là <b>is</b>. Câu hoàn chỉnh là <b>Can you tell me who your role model <span style=\"color:red\">is</span>? </b> <i>(</i><i>Bạn có thể cho tôi biết hình mẫu của bạn <span style=\"color:red\">là </span>ai không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a82cfb3c-dacd-4dde-bff2-f0ee919c81d2"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "268af0ad-b97e-4ca8-bb84-9c0e43dcda9b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She ____ <b><span style=\"color:blue\">(bear) </span></b>in Oaxaca, Mexico, in 1968.",
+      "yNghia": "Đây là câu chia ở thì Quá khứ đơn và động từ cần chia ở thể Bị động.<b> She </b>là chủ ngữ ngôi thứ nhất số ít, nên động từ <i>to be</i> theo sau sẽ là <b>was</b>, động từ bất quy tắc <b>bear</b> chuyển thành dạng động từ quá khứ phân từ là <b>born</b>. Câu hoàn chỉnh là <b>She <span style=\"color:red\">was born </span>in Oaxaca, Mexico, in 1968. </b><i>(</i><i>Cô ấy <span style=\"color:red\">sinh ra </span>ở Oaxaca, Mexico, vào năm 1968.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5199bf4e-f793-4339-8bb7-bfff85a41795"
+          },
+          "dapAn": "was born",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d7bbeadb-723a-4a2d-9423-2f263fb8c1ea"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How did she ____ <b><span style=\"color:blue\">(start)</span></b> her career?",
+      "yNghia": "Đây là câu chia ở thì<b> </b>Quá khứ đơn với trợ động từ đi kèm <b>did</b>, động từ <b>start </b>được giữ nguyên thể không chia. Câu hoàn chỉnh là <b>How did she <span style=\"color:red\">start</span> her career? </b><i>(Cô ấy <span style=\"color:red\">bắt đầu </span>sự nghiệp của mình như thế nào?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "14c22427-42f7-43ad-80d3-0b7809d8ed00"
+          },
+          "dapAn": "start",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2f0b6c9e-5024-4a21-a867-5275a025190e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She started ____ <b><span style=\"color:blue\">(sing) </span></b>mariachi songs then became a professional singer.",
+      "yNghia": "Sau <b>start</b> động từ chia đuôi -ing, nên động từ <b>sing</b> chuyển thành <b>singing</b>. Câu hoàn chỉnh là <b>She started <span style=\"color:red\">singing </span>mariachi songs then became a professional singer.</b> <i>(</i><i>Năm 8 tuổi, cô bắt đầu <span style=\"color:red\">hát </span>những bài hát </i><i>truyền thống Mexico</i><i> rồi trở thành ca sĩ chuyên nghiệp.</i><i>).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7efe9f78-0953-457b-86af-54b19b9ca2d1"
+          },
+          "dapAn": "singing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "43bb88de-a303-468c-86eb-938300f05978"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Does her family still ____ <b><span style=\"color:blue\">(live)</span></b> in Mexico?",
+      "yNghia": "<b>Her family</b> là chủ ngữ ngôi thứ nhất số ít, đi kèm là trợ động từ <b>Does</b>. Động từ <b>live</b> được giữ nguyên thể, không chia. Câu hoàn chỉnh là <b>Does her family still <span style=\"color:red\">live </span>in Mexico? </b><i>(Gia đình cô ấy có còn <span style=\"color:red\">sống </span>ở Mexico không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "564b9f40-c18e-41a2-bd09-906d8f30fcf4"
+          },
+          "dapAn": "live",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0cf7fa4c-89cc-4d61-b42b-212abc1e0e1f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "When she ____ <b><span style=\"color:blue\">(be)</span></b> 14, her family emigrated from Mexico to the US.",
+      "yNghia": "Đây là câu chia ở thì Quá khứ đơn, <b>she</b> là chủ ngữ ngôi thứ nhất số ít, động từ <i>to be</i> đi kèm sẽ là <b>was</b>. Câu hoàn chỉnh là <b>When she <span style=\"color:red\">was </span>14, her family emigrated from Mexico to the US. </b><i>(Năm 14 tuổi, gia đình của cô ấy di cư từ Mexico tới Mỹ.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0ed357ba-250a-4f9c-9e27-f1e5b801b8bc"
+          },
+          "dapAn": "was",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3348fba7-8b63-4a8c-b9df-a578d7bb4b49"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What ____ <b><span style=\"color:blue\">(happen)</span></b>?",
+      "yNghia": "Đây là câu được chia ở thì Quá khứ đơn, động từ <b>happen</b> thêm đuôi \"ed\" là <b>happened</b>. Câu hoàn chỉnh là <b>What <span style=\"color:red\">happened</span>? </b><i>(<span style=\"color:red\">Đã</span> có chuyện gì <span style=\"color:red\">xảy ra </span>vậy?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1fa5423a-1f4e-4a81-ac71-0d99bccce8dd"
+          },
+          "dapAn": "happened",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a51f139c-8648-435a-9849-50e948fdf441"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Lila and her mother ____ <b><span style=\"color:blue\">(move) </span></b>back to Mexico after her father's death.",
+      "yNghia": "Đây là câu được chia ở thì Quá khứ đơn,<b> </b>động từ <b>move</b> thêm đuôi \"d\" là <b>moved</b>. Câu hoàn chỉnh là <b>Lila and her mother <span style=\"color:red\">moved </span>back to Mexico after her father's death. </b><i>(Lila và mẹ cô ấy <span style=\"color:red\">chuyển</span> về Mexico sau khi cha cô mất.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1da0eab5-c60a-4c76-9b2e-5206f46a96be"
+          },
+          "dapAn": "moved",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "50be32f1-3ce7-4993-911c-2ff4e2674652"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <b><span style=\"color:blue\">(read)<i> </i></span></b>about it on the way to work yesterday.",
+      "yNghia": "Đây<b> </b>là câu được chia ở thì Quá khứ tiếp diễn, động từ to be đi kèm với <b>I</b> là <b>was</b>, động từ <b>read</b> thêm đuôi -ing là <b>reading</b>.<b> </b>Câu hoàn chỉnh là <b>I</b><b> </b><b><span style=\"color:red\">was</span></b><b><span style=\"color:red\"> reading</span></b><b><i> </i></b><b>about it on the way to work yesterday.</b><b> </b><i>(Tôi <span style=\"color:red\">đã đang đọc </span>về nó trên đường đi làm hôm qua.)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c9534c6b-3b6e-4adc-ad50-4fc45aa8c5ec"
+          },
+          "dapAn": "was reading",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4810fc48-56d1-4fea-bc84-a94911e2d6c8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She ____ <b><span style=\"color:blue\">(meet)</span></b> her husband, Paul Cohen, and moved to Minnesota.",
+      "yNghia": "Đây là câu được chia ở thì Quá khứ đơn, động từ <b>meet</b> chuyển thành động từ quá khứ bất quy tắc cột hai <b>met</b>. Câu hoàn chỉnh là <b>She <span style=\"color:red\">met </span>her husband, Paul Cohen, and moved to Minnesota. </b><i>(Cô ấy <span style=\"color:red\">đã gặp </span>chồng của mình, Paul Cohen, và chuyển tới Minnesota.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fd8c1607-73bc-496a-818e-e0985666c379"
+          },
+          "dapAn": "met",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a282120f-beb1-4b2f-934b-05c00fb6820a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What did she ____ <b><span style=\"color:blue\">(do)</span></b> in the US then?",
+      "yNghia": "Đây là câu chia ở thì<b> </b>Quá khứ đơn với trợ động từ đi kèm <b>did</b>, động từ <b>do </b>được giữ nguyên thể không chia. Câu hoàn chỉnh là <b>What did she <span style=\"color:red\">do </span>in the US then? </b><i>(Thế sau đó cô ấy <span style=\"color:red\">làm </span>gì ở Mỹ?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bc5ab188-1309-40cc-b477-1bcb4ac08ee9"
+          },
+          "dapAn": "do",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b020389c-314d-4e38-9cf0-df5555382d41"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She ____ <b><span style=\"color:blue\">(go)</span></b> to the University of Minnesota.",
+      "yNghia": "Đây là câu được chia ở thì Quá khứ đơn, động từ <b>go</b> chuyển thành động từ quá khứ bất quy tắc cột hai <b>went</b>. Câu hoàn chỉnh là <b>She <span style=\"color:red\">went </span>to the University of Minnesota. </b><i>(C</i><i>ô ấy đã <span style=\"color:red\">đến </span>Đại học Minnesota</i><i>.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5d428a56-cf9c-4ba4-9b87-323c1bd50e5f"
+          },
+          "dapAn": "went",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "def52767-b57e-4107-828b-348b305a3955"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She ____ <b><span style=\"color:blue\">(have)</span></b> a successful music group called La Trova Serrana.",
+      "yNghia": "Đây là câu được chia ở thì Quá khứ<b> </b>đơn<b>, </b>động từ <b>have</b> chuyển thành động từ quá khứ bất quy tắc cột hai <b>had</b>. Câu hoàn chỉnh là <b>She <span style=\"color:red\">had </span>a </b><b>successful</b><b> music group called La Trova Serrana.</b><i> </i><i>(C</i><i>ô ấy đã <span style=\"color:red\">thành lập </span>một nhóm nhạc thành công tên là La Trova Serrana.</i><i>).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "82f62d3b-69eb-4ef6-88bc-5c693dbad02b"
+          },
+          "dapAn": "had",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "fa6384d6-4dd2-4f3c-9993-43f9d098a91a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Did she ____ <b><span style=\"color:blue\">(take)</span></b> a role in a movie or just focus on music?",
+      "yNghia": "Đây là câu hỏi dạng <b>Yes/No</b> chia ở thì<b> </b>Quá khứ đơn<b> </b>nên trợ động từ đi kèm sẽ là <b>Did</b> và trợ động từ được đảo lên đầu câu, động từ <b>take </b>được giữ nguyên thể không chia. Câu hoàn chỉnh là <b>Did she <span style=\"color:red\">take </span>a role in a movie or just focus on music? </b><i>(</i><i>Cô ấy có tham gia <span style=\"color:red\">đóng </span>bộ phim nào không hay chỉ tập trung vào âm nhạc?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2610a627-800d-4358-a422-663ae85ffc55"
+          },
+          "dapAn": "take",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d45b8703-bff8-4e1a-966f-df54f4c389db"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She ____ <b><span style=\"color:blue\">(have)</span></b> a small role in the movie Frida.",
+      "yNghia": "Đây là câu được chia ở thì Quá khứ đơn, động từ <b>have</b> chuyển thành động từ quá khứ bất quy tắc cột hai <b>had</b>. Câu hoàn chỉnh là <b>She <span style=\"color:red\">had </span>a small role in the movie Frida. </b><i>(C</i><i>ô ấy <span style=\"color:red\">có </span>một vai nhỏ trong bộ phim Frida.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "58cffb5c-bbcc-438b-bc4f-b8742283992b"
+          },
+          "dapAn": "had",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8e784923-baa5-4e11-b409-e4c3e529c266"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Is there anything else about Lila that you want ____ <b><span style=\"color:blue\">(share)</span></b> with us?",
+      "yNghia": "Sau động từ <b>want</b>, động từ thêm <b>to</b> và không chia, nên <b>share</b> thêm <b>to</b> ở đằng trước và giữ nguyên không chia <b>to share</b>. Câu hoàn chỉnh là: <b>Is there anything else about Lila that you want <span style=\"color:red\">to share </span>with us? </b><i>(Có điều gì khác về Lila mà bạn muốn <span style=\"color:red\">chia sẻ </span>với chúng tôi không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "78bccaac-ed22-4dde-b68a-a4f3373cef61"
+          },
+          "dapAn": "to share",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7c655811-4997-416a-a8c5-02626ed93db4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There are three things that you probably ____ <b><span style=\"color:blue\">(not know)</span></b>.",
+      "yNghia": "<b>You</b> là chủ ngữ ngôi hai số ít nên trợ động từ đi kèm sẽ là <b>don't</b>, động từ <b>know</b> được để nguyên thể, không chia. Câu hoàn chỉnh là:<b> There are three things that you probably <span style=\"color:red\">don't know</span>.</b> <i>(Có ba điều mà có thể bạn <span style=\"color:red\">không biết</span>.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e1bd7f07-cec9-4de7-89b1-5457dd2c94f0"
+          },
+          "dapAn": "don't know",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "23e5b768-1633-4078-ab0c-7283571261b8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I called you last night but you ____ <b><span style=\"color:blue\">(not</span></b><b><span style=\"color:blue\"> answer</span></b><b><span style=\"color:blue\">)</span></b>.",
+      "yNghia": "Đây là câu được chia ở thì Quá khứ đơn,<b> </b>trợ<b> </b>động từ đi kèm là <b>did</b><b>n't</b>, động từ<b> </b><b>answer</b><b> </b>được giữ nguyên thể không chia. Câu hoàn chỉnh là <b>I called you </b><b>last night but you <span style=\"color:red\">didn't answer</span>. </b><i>(Tôi</i><i> gọi bạn tối qua nhưng bạn <span style=\"color:red\">không trả lời</span></i><i>.</i><i>)</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ed6d095d-edba-4194-9348-172453d98cb0"
+          },
+          "dapAn": "didn't answer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a454e96f-2a90-4036-861e-1189a35f9745"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She ____ <b><span style=\"color:blue\">(have)</span></b> an adopted son.",
+      "yNghia": "Đây là câu được chia ở thì Quá khứ đơn,<b> </b>động từ <b>have</b> chuyển thành động từ quá khứ bất quy tắc cột hai <b>had</b>. Câu hoàn chỉnh là <b>She <span style=\"color:red\">had </span>an adopted son.</b> <i>(Cô ấy <span style=\"color:red\">có </span>một đứa con trai nuôi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4db06d5a-340c-4a3e-9a91-a69dbb4f32fa"
+          },
+          "dapAn": "had",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "30f72bda-de59-4ba5-b21e-15eb025cdf0f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "A colorful grasshopper ____ <b><span style=\"color:blue\">(name) </span></b>after her.",
+      "yNghia": "Đây là câu chia ở thì Quá khứ đơn và động từ cần chia ở thể Bị động. <b>A colorful grasshopper</b> là chủ ngữ ngôi ba số ít, động từ <i>to be</i> đi kèm sẽ là <b>was</b>, động từ <b>name </b>thêm đuôi \"ed\"<b> </b>là<b> named</b>.<b> </b>Câu hoàn chỉnh là<b> </b><b>A colorful grasshopper <span style=\"color:red\">was named </span>after her. </b><i>(Một con châu chấu đầy màu sắc đã được đặt theo tên cô ấy.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ebaca4ca-cf08-4fb7-ba53-ac6305abfb50"
+          },
+          "dapAn": "was named",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

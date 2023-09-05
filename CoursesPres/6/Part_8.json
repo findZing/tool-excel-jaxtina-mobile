@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L6/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L6/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "c5b40f65-7250-4bb5-ac65-ca06039fe64a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Sarah",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9b6bc56b-30ef-42f0-8c2f-7babf096806f"
+          },
+          "dapAn": "Good morning, Sean.\n",
+          "phienAm": "/gʊd ˈmɔːnɪŋ ʃɔːn/",
+          "yNghia": "\nChào buổi sáng, Sean.",
+          "normal": {
+            "start": "00:00:00.823",
+            "end": "00:00:02.102"
+          },
+          "slow": {
+            "start": "00:00:01.901",
+            "end": "00:00:04.065"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ba6b8876-0574-4136-b1f9-221518a43f77"
+          },
+          "dapAn": "I want to buy something for the new semester.",
+          "phienAm": "/aɪ wɒnt tuː baɪ ˈsʌmθɪŋ fɔːr ðə njuː sɪˈmestər/",
+          "yNghia": "\nTôi muốn mua một thứ cho học kỳ mới.",
+          "normal": {
+            "start": "00:00:06.735",
+            "end": "00:00:09.314"
+          },
+          "slow": {
+            "start": "00:00:09.638",
+            "end": "00:00:14.850"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c7d95a29-82b6-49a1-87b8-ffd3593cccb9"
+          },
+          "dapAn": "I want to buy a laptop.",
+          "phienAm": "/aɪ wɒnt tuː baɪ eɪ ˈlæptɒp/",
+          "yNghia": "\r\nTôi muốn mua một chiếc máy tính xách tay.",
+          "normal": {
+            "start": "00:00:12.206",
+            "end": "00:00:14.377"
+          },
+          "slow": {
+            "start": "00:00:19.046",
+            "end": "00:00:21.767"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c8b7bd28-7390-4458-87cf-8f650d7db4c5"
+          },
+          "dapAn": "It's too big. My backpack is quite small.",
+          "phienAm": "/ɪts tuː bɪg/. /maɪ ˈbækpæk ɪz kwaɪt smɔːl/",
+          "yNghia": "\nNó quá to. Ba lô của tôi khá nhỏ.",
+          "normal": {
+            "start": "00:00:19.411",
+            "end": "00:00:22.999"
+          },
+          "slow": {
+            "start": "00:00:27.766",
+            "end": "00:00:33.404"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a5b99e43-ac38-4751-bf0e-3ef88ba3a682"
+          },
+          "dapAn": "That looks nice. But it's too expensive.\n",
+          "phienAm": "/ðæt lʊks naɪs/. /bʌt ɪts tuː ɪkˈspensɪv/",
+          "yNghia": "\nCái đó nhìn đẹp đấy. Nhưng nó quá đắt.",
+          "normal": {
+            "start": "00:00:26.199",
+            "end": "00:00:28.874"
+          },
+          "slow": {
+            "start": "00:00:36.354",
+            "end": "00:00:41.173"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "72549dd1-2194-4244-9b69-ded0b9874ac3"
+          },
+          "dapAn": "That's great. Thank you. Next, I need a case for it.",
+          "phienAm": "/ðæts greɪt/. /θæŋk juː/. /nekst aɪ niːd eɪ keɪs fɔːr ɪt/",
+          "yNghia": "\nTuyệt vời. Cảm ơn bạn. Tiếp theo, tôi cần một cái cặp đựng nó.",
+          "normal": {
+            "start": "00:00:34.057",
+            "end": "00:00:39.598"
+          },
+          "slow": {
+            "start": "00:00:46.844",
+            "end": "00:00:53.860"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2eb9399c-740a-41c2-b331-481fe50883a4"
+          },
+          "dapAn": "Alright. I still need to buy a few more school supplies.",
+          "phienAm": "/ɔːlˈraɪt/. /aɪ stɪl niːd tuː baɪ eɪfjuː mɔːr skuːl səˈplaɪz/",
+          "yNghia": "\nĐược rồi. Tôi vẫn cần mua thêm một ít đồ dùng học tập.",
+          "normal": {
+            "start": "00:00:44.302",
+            "end": "00:00:48.912"
+          },
+          "slow": {
+            "start": "00:00:59.629",
+            "end": "00:01:06.743"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "33f22989-986b-4efe-9733-c08fe5933a7a"
+          },
+          "dapAn": "Yes, I need a few pens and a notebook.",
+          "phienAm": "/jes aɪ niːd eɪ fjuː penz ænd eɪˈnəʊtbʊk/",
+          "yNghia": "\nỪ, tôi cần một vài cây bút viết và một quyển sổ ghi chú.",
+          "normal": {
+            "start": "00:00:53.975",
+            "end": "00:00:57.128"
+          },
+          "slow": {
+            "start": "00:01:13.201",
+            "end": "00:01:18.741"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "68d57e2e-2636-4d44-9ed1-a5a1643150a3"
+          },
+          "dapAn": "I will take the one with the gray cover and these pens.",
+          "phienAm": "/aɪ wɪl teɪk ðə wʌn wɪð ðə greɪˈkʌvər ænd ðiːz penz/",
+          "yNghia": "\nTôi sẽ lấy quyển sổ có bìa màu xám và những cây bút viết này.",
+          "normal": {
+            "start": "00:01:02.301",
+            "end": "00:01:06.824"
+          },
+          "slow": {
+            "start": "00:01:24.674",
+            "end": "00:01:30.771"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "69c792b2-d676-49b8-a8f9-4539c44a1299"
+          },
+          "dapAn": "Yes, that's everything I want to buy. Thank you for your help, Sean.",
+          "phienAm": "/jes, ðæts ˈevrɪθɪŋ aɪ wɒnt tuːbaɪ/. θæŋk juː fɔːr jɔːr help, ʃɔːn/",
+          "yNghia": "\nĐúng vậy, đó là mọi thứ tôi muốn mua. Cảm ơn sự giúp đỡ của bạn, Sean.",
+          "normal": {
+            "start": "00:01:11.577",
+            "end": "00:01:16.353"
+          },
+          "slow": {
+            "start": "00:01:37.131",
+            "end": "00:01:44.212"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f5760a26-d510-451b-b25a-8cc02ad75a16"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Sean",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "dd54bf26-8873-4f0d-ab81-2ec95132285d"
+          },
+          "dapAn": "Morning, Sarah. What are you buying?\n",
+          "phienAm": "/ˈmɔːnɪŋ ˈseərə/. /wɒt ɑːr juːˈbaɪɪŋ/",
+          "yNghia": "\nChào, Sarah. Bạn đang mua gì vậy?",
+          "normal": {
+            "start": "00:00:03.172",
+            "end": "00:00:05.780"
+          },
+          "slow": {
+            "start": "00:00:04.917",
+            "end": "00:00:08.589"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "944af151-6175-4061-8d02-5dfc6db50e18"
+          },
+          "dapAn": "What do you want to buy?",
+          "phienAm": "/wɒt duː juː wɒnt tuː baɪ/",
+          "yNghia": "\r\nBạn muốn mua gì?",
+          "normal": {
+            "start": "00:00:10.007",
+            "end": "00:00:11.416"
+          },
+          "slow": {
+            "start": "00:00:15.964",
+            "end": "00:00:17.997"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9e1ebe92-165f-44a4-b597-012b932c2d0b"
+          },
+          "dapAn": "Let me help you. How about this one?",
+          "phienAm": "/let miː help juː/. /haʊ əˈbaʊt ðɪs wʌn/",
+          "yNghia": "\nHãy để tôi giúp bạn. Cái này thì sao?",
+          "normal": {
+            "start": "00:00:15.292",
+            "end": "00:00:18.055"
+          },
+          "slow": {
+            "start": "00:00:22.652",
+            "end": "00:00:26.815"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fe94ca68-feb4-41c2-b8c3-88b6592a1bc8"
+          },
+          "dapAn": "And this one?",
+          "phienAm": "/ænd ðɪs wʌn/",
+          "yNghia": "\nVà cái này thì?",
+          "normal": {
+            "start": "00:00:24.145",
+            "end": "00:00:24.981"
+          },
+          "slow": {
+            "start": "00:00:34.191",
+            "end": "00:00:35.568"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "53bcf948-194d-40d8-88b3-78790b18285d"
+          },
+          "dapAn": "This one is small and only $400.",
+          "phienAm": "/ðɪs wʌn ɪz smɔːl ænd ˈəʊnli fɔːrˈhʌndrəd ˈdɒlərz/",
+          "yNghia": "\nCái này nhỏ và chỉ có giá 400 đô la.",
+          "normal": {
+            "start": "00:00:29.949",
+            "end": "00:00:33.125"
+          },
+          "slow": {
+            "start": "00:00:41.763",
+            "end": "00:00:46.156"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8249e4ed-8fe6-4788-8c1c-d92dad6bd355"
+          },
+          "dapAn": "There are some cases on the shelf behind you.",
+          "phienAm": "/ðeər ɑːr sʌm keɪsɪs ɒn ðə ʃelf bɪˈhaɪnd juː/",
+          "yNghia": "\nCó một vài cái cặp đựng máy tính ở trên giá đằng sau bạn.",
+          "normal": {
+            "start": "00:00:40.290",
+            "end": "00:00:43.228"
+          },
+          "slow": {
+            "start": "00:00:55.073",
+            "end": "00:00:58.711"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a4711371-0c44-4a96-8fea-1f33f11be33f"
+          },
+          "dapAn": "They also sell pencils and pens here, I think.",
+          "phienAm": "/ðeɪ ˈɔːlsəʊ sel ˈpenslz ænd penz hɪər aɪ θɪŋk/",
+          "yNghia": "\nTôi nghĩ họ cũng bán bút chì và bút viết ở đây.",
+          "normal": {
+            "start": "00:00:49.509",
+            "end": "00:00:52.829"
+          },
+          "slow": {
+            "start": "00:01:07.464",
+            "end": "00:01:12.381"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "04c1e590-e918-4191-adf7-1012dd8f70ec"
+          },
+          "dapAn": "There are some cool notebooks next to the pens.",
+          "phienAm": "/ðeər ɑːr sʌm kuːl ˈnəʊtbʊks nekst tuː ðə penz/",
+          "yNghia": "\nCó một vài cuốn sổ ghi chú kháđẹp bên cạnh những cây bút viết.",
+          "normal": {
+            "start": "00:00:58.150",
+            "end": "00:01:01.235"
+          },
+          "slow": {
+            "start": "00:01:20.150",
+            "end": "00:01:23.756"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6be563f0-802c-4e05-84f0-49b1326be0cd"
+          },
+          "dapAn": "Is that everything? Shall we finish our shopping?\n",
+          "phienAm": "/ɪz ðæt ˈevrɪθɪŋ/. /ʃæl wiː ˈfɪnɪʃˈaʊər ˈʃɒpɪŋ/",
+          "yNghia": "\nĐó là những gì bạn muốn mua phải không? Chúng ta kết thúc buổi mua sắm ở đây nhỉ?",
+          "normal": {
+            "start": "00:01:07.540",
+            "end": "00:01:10.788"
+          },
+          "slow": {
+            "start": "00:01:31.755",
+            "end": "00:01:36.213"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "80380346-0dda-46dc-b07f-6921fa7a5486"
+          },
+          "dapAn": "No problem. See you at school tomorrow!",
+          "phienAm": "/nəʊ ˈprɒbləm/. /siː juː æt skuːl təˈmɒrəʊ/",
+          "yNghia": "\nKhông vấn đề gì. Hẹn gặp bạn ở trường vào ngày mai!",
+          "normal": {
+            "start": "00:01:17.332",
+            "end": "00:01:20.389"
+          },
+          "slow": {
+            "start": "00:01:45.195",
+            "end": "00:01:49.194"
+          }
+        }
+      ]
+    }
+  ]
+}

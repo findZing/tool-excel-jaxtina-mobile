@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P7",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "7bdc1b7d-1a82-4877-8efd-f1c8bb37c92c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "He is ____ <b><span style=\"color:blue\">(swim)</span></b> in the sea.",
+      "yNghia": "Cấu trúc của thì Hiện tại tiếp diễn là động từ <i>to be</i> + Động từ <b>(-ing)</b>. Ta có: <b>is </b>là động từ <i>to be</i> đi với chủ ngữ là đại từ nhân xưng ngôi thứ ba số ít <b>He </b><i>(Anh ấy)</i>, <b>swimming</b> là dạng Verb <b>(-ing)</b> của động từ <b>swim</b> <i>(bơi)</i>. Câu hoàn chỉnh là <b>He is <span style=\"color:red\">swimming</span> in the sea. </b><i>(Anh ấy đang <span style=\"color:red\">bơi </span>trên biển.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8548cc17-984c-46cc-83fd-cce63024ba53"
+          },
+          "dapAn": "swimming",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2d85d2bb-ad6f-46a6-a024-14ed78b2f349"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My mom ____ <b><span style=\"color:blue\">(</span></b><b><span style=\"color:blue\">be</span></b><b><span style=\"color:blue\">)</span></b> reading a book.",
+      "yNghia": "Cấu trúc của thì Hiện tại tiếp diễn là động từ <i>to be</i> + Động từ <b>(-ing)</b>. Ta có: <b>is </b>là động từ <i>to be</i> đi với chủ ngữ số ít <b>My mom </b><i>(Mẹ tôi)</i>, <b>reading</b> là dạng Verb <b>(-ing)</b> của động từ <b>read</b> <i>(đọc)</i>. Câu hoàn chỉnh là <b>My mom <span style=\"color:red\">i</span></b><b><span style=\"color:red\">s</span></b><b> reading a book.</b> <i>(Mẹ tôi đang đọc sách.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "df463b00-22e0-4640-9620-a80669237228"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3affbd43-ee5b-4247-a85f-24f75cb7a732"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Anna is ____ <b><span style=\"color:blue\">(get)</span></b> coffee for us.",
+      "yNghia": "Cấu trúc của thì Hiện tại tiếp diễn là động từ <i>to be</i> + Động từ <b>(-ing)</b>. Ta có: <b>is </b>là động từ <i>to be</i> đi với chủ ngữ số ít <b>Anna</b>, <b>getting</b> là dạng Verb <b>(-ing)</b> của động từ <b>get</b> <i>(lấy)</i>. Câu hoàn chỉnh là <b>Anna</b><b> i</b><b>s <span style=\"color:red\">getting</span> coffee for us. </b><i>(Anna đang <span style=\"color:red\">lấy </span>cà phê cho chúng ta.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "67bac4ee-0fd5-4dc7-b618-fd7b38b53b5f"
+          },
+          "dapAn": "getting",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "827b0edf-39ed-42a3-bbb1-7abeaa5ee49c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It ____ <b><span style=\"color:blue\">(be)</span></b> rainy, windy, and very cold.",
+      "yNghia": "Để miêu tả về thời tiết, ta có thể dùng cấu trúc <b>It is + adjective </b><i>(tính từ)</i>. Câu hoàn chỉnh là <b>It <span style=\"color:red\">is</span> rainy, windy, and very cold.</b> <i>(Trời mưa, gió và rất lạnh.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "65665d85-f27d-4daa-86ba-182dccfdb542"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "85316d27-2d9f-4c51-a695-4950eb2fe586"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I am not ____ <b><span style=\"color:blue\">(go)</span></b> out because the weather is bad.",
+      "yNghia": "Cấu trúc của thì Hiện tại tiếp diễn là động từ <i>to be</i> + Động từ <b>(-ing)</b>. Ta có: <b>am not </b>là dạng phủ định của động từ <i>to be </i><b>am</b> đi với chủ ngữ là đại từ nhân xưng ngôi thứ nhất <b>I </b><i>(Tôi)</i>, <b>going</b> là dạng Verb <b>(-ing)</b> của động từ <b>go</b> <i>(đi)</i>. Câu hoàn chỉnh là <b>I am not <span style=\"color:red\">going</span> out because the weather is bad.</b> <i>(Tôi sẽ không <span style=\"color:red\">đi </span>ra ngoài vì thời tiết xấu.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "57500b07-f83d-44f3-8e68-cc4b3dd9f4a5"
+          },
+          "dapAn": "going",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7fe90850-ddc4-47c8-bc31-b044671006ee"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She ____ <b><span style=\"color:blue\">(</span></b><b><span style=\"color:blue\">be</span></b><b><span style=\"color:blue\">)</span></b> calling my name.",
+      "yNghia": "Cấu trúc của thì Hiện tại tiếp diễn là động từ <i>to be</i> + Động từ <b>(-ing)</b>. Ta có: <b>is </b>là động từ <i>to be</i> đi với chủ ngữ ngôi thứ ba số ít <b>She </b><i>(Cô ấy)</i>, <b>calling</b> là dạng Verb <b>(-ing)</b> của động từ <b>call</b> <i>(gọi)</i>. Câu hoàn chỉnh là <b>She</b><b> <span style=\"color:red\">i</span></b><b><span style=\"color:red\">s</span></b><b> </b><b>calling my name</b><b>.</b> <i>(Cô ấy đang gọi tên tôi.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9f25a9ca-20dd-4366-84aa-b30fe362862d"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a0f95b2a-e227-4bc1-bc56-8270ed2b69b2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you ____ <b><span style=\"color:blue\">(want)</span></b> a cup of tea or coffee?",
+      "yNghia": "Để hỏi đối phương rằng bạn có muốn uống đồ uống gì không, ta có thể dùng cấu trúc <b>Do you want + something </b><i>(đồ uống)</i><b>?</b> Động từ <b>want</b> <i>(muốn)</i> được giữ nguyên. Câu hoàn chỉnh là <b>Do you <span style=\"color:red\">want</span> a cup of tea or coffee?</b> <i>(Bạn <span style=\"color:red\">muốn</span> uống một tách trà hay cà phê?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a5509d1f-f40b-4ffb-9c0f-d024d682609d"
+          },
+          "dapAn": "want",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0840bd1c-95aa-456e-9617-16cab798f04f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I play soccer because it ____ <b><span style=\"color:blue\">(be)</span></b> healthy.",
+      "yNghia": "Chủ ngữ <b>it </b>ở ngôi thứ ba số ít nên động từ <i>to be</i> sẽ là <b>is</b>. Câu hoàn chỉnh là <b>I play soccer because it <span style=\"color:red\">is</span> healthy. </b><i>(Tôi chơi bóng đá vì nó lành mạnh.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2c160df3-2ef3-4c9e-a8b1-084deda5a2a5"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "01629c21-80a1-4045-8456-808655324ea6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "He is ____ <b><span style=\"color:blue\">(practice)</span></b> English.",
+      "yNghia": "Cấu trúc của thì Hiện tại tiếp diễn là động từ <i>to be</i> + Động từ <b>(-ing)</b>. Ta có: <b>is </b>là động từ <i>to be</i> đi với chủ ngữ là đại từ nhân xưng ngôi thứ ba số ít <b>He </b><i>(Anh ấy)</i>, <b>practicing</b> là dạng Verb <b>(-ing)</b> của động từ <b>practice</b> <i>(luyện tập)</i>. Câu hoàn chỉnh là <b>He is <span style=\"color:red\">practicing</span> English.</b> <i>(Anh ấy đang <span style=\"color:red\">luyện tập </span>tiếng Anh.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "35952adf-e220-4945-9d0c-d7a10a8caa11"
+          },
+          "dapAn": "practicing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "29a5a334-9725-4f2c-967d-47db22b3b654"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They _____ <b><span style=\"color:blue\">(not write)</b> emails at the moment.",
+      "yNghia": "Cấu trúc của thì Hiện tại tiếp diễn là động từ <i>to be</i> + Động từ <b>(-ing)</b>. Ta có: <b>aren't </b>là dạng phủ định của động từ <i>to be </i><b>are</b> đi với chủ ngữ là đại từ nhân xưng ngôi thứ ba số nhiều <b>They </b><i>(Họ)</i>, <b>writing</b> là dạng Verb <b>(-ing)</b> của động từ <b>write</b> <i>(viết)</i>. Câu hoàn chỉnh là <b>They aren't <span style=\"color:red\">writing </span>emails.</b> <i>(Họ không đang <span style=\"color:red\">viết </span>thư điện tử.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5744d692-8f26-4e09-9f59-79f1377f6b6d"
+          },
+          "dapAn": "aren’t writing // are not writing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ac28c573-2996-49a0-b095-82330d6ebacc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Jenny is ____ <b><span style=\"color:blue\">(play)</span></b> the piano.",
+      "yNghia": "Cấu trúc của thì Hiện tại tiếp diễn là động từ <i>to be</i> + Động từ <b>(-ing)</b>. Ta có: <b>is </b>là động từ <i>to be</i> đi với chủ ngữ số ít <b>Jenny</b>, <b>playing</b> là dạng Verb <b>(-ing)</b> của động từ <b>play</b> <i>(chơi)</i>. Câu hoàn chỉnh là <b>Jenny is <span style=\"color:red\">playing</span> the piano. </b><i>(Jenny đang <span style=\"color:red\">chơi </span>đàn dương cầm.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a6dbaa80-1d78-4d73-8a8f-a562ac305f84"
+          },
+          "dapAn": "playing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "adf01c43-03e5-4d31-be72-6ac1b78a8855"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The weather ____ <b><span style=\"color:blue\">(be)</span></b> great, it's very sunny.",
+      "yNghia": "Để miêu tả về thời tiết, ta có thể sử dụng cấu trúc: <b>The weather is + adjective </b><i>(tính từ)</i>. Câu hoàn chỉnh là <b>The weather <span style=\"color:red\">is</span> great, it's very sunny.</b> <i>(Thời tiết rất tuyệt, trời rất nắng.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fbe1009b-a323-4f16-a452-4493c5eb4293"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "dd3a74f0-c81b-4237-ae32-30bd3991e624"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I ____ <b><span style=\"color:blue\">(be)</span></b> watching a movie.",
+      "yNghia": "Cấu trúc của thì Hiện tại tiếp diễn là động từ <i>to be</i> + Động từ <b>(-ing)</b>. Ta có: <b>am </b>là động từ <i>to be</i> đi với chủ ngữ là đại từ nhân xưng ngôi thứ nhất<b> I </b><i>(Tôi)</i>, <b>watching</b> là dạng Verb <b>(-ing)</b> của động từ <b>watch</b> <i>(xem)</i>. Câu hoàn chỉnh là <b>I <span style=\"color:red\">am</span> watching a movie.</b> <i>(Tôi đang xem phim.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "23678ce7-cf12-4358-8525-f237212bde95"
+          },
+          "dapAn": "am",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c26bccb9-8431-4d00-a7b2-a7c91da16881"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What is he ____ <b><span style=\"color:blue\">(do)</span></b>?",
+      "yNghia": "Cấu trúc của thì Hiện tại tiếp diễn là động từ <i>to be</i> + Động từ <b>(-ing)</b>. Ta có: <b>What</b> <i>(Cái gì)</i> là từ để hỏi được đặt lên đầu câu để hình thành câu hỏi thông tin, theo sau là động từ <i>to be</i> <b>is</b> và chủ ngữ là đại từ nhân xưng ngôi thứ ba số ít <b>he</b> <i>(anh ấy)</i>, <b>doing </b>là dạng Verb <b>(-ing)</b> của động từ <b>do </b><i>(làm)</i>. Câu hoàn chỉnh là <b>What is he <span style=\"color:red\">doing</span>?</b> <i>(Anh ta đang <span style=\"color:red\">làm </span>gì vậy?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "26daea48-174e-4dbe-8473-09a22ca1e7c0"
+          },
+          "dapAn": "doing",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6e54eaba-20a2-4040-a6ef-c48badc371aa"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She____ <b><span style=\"color:blue\">(be)</span></b> doing her homework.",
+      "yNghia": "Cấu trúc của thì Hiện tại tiếp diễn là động từ <i>to be</i> + Động từ <b>(-ing)</b>. Ta có: <b>is </b>là động từ <i>to be</i> đi với chủ ngữ là đại từ nhân xưng ngôi thứ ba số ít <b>She </b><i>(Cô ấy)</i>, <b>doing </b>là dạng Verb <b>(-ing)</b> của động từ <b>do </b><i>(làm)</i>. Câu hoàn chỉnh là <b>She<span style=\"color:red\"> is </span>doing her homework.</b> <i>(Cô ấy đang làm bài tập về nhà.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a802c299-2382-4ef4-a5b4-4cfb17147de0"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "62efc56f-c0a5-44a8-8fa5-587ac220d273"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Lily is ____ <b><span style=\"color:blue\">(have)</span></b> coffee with her boyfriend.",
+      "yNghia": "Cấu trúc của thì Hiện tại tiếp diễn là động từ <i>to be</i> + Động từ <b>(-ing)</b>. Ta có: <b>is </b>là động từ <i>to be</i> đi với chủ ngữ số ít là <b>Lily</b>, <b>having</b> là dạng Verb <b>(-ing)</b> của động từ <b>have</b> <i>(uống)</i>. Câu hoàn chỉnh là <b>Lily is <span style=\"color:red\">having</span> coffee with her boyfriend.</b><i> (Lily đang <span style=\"color:red\">uống </span>cà phê với bạn trai của cô ấy.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2a94748b-f18f-4206-a7f6-dba07327299b"
+          },
+          "dapAn": "having",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2150cdd2-de65-4edd-a682-ad1cff249a3a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They are ____ <b><span style=\"color:blue\">(eat)</span></b> dinner.",
+      "yNghia": "Cấu trúc của thì Hiện tại tiếp diễn là động từ <i>to be</i> + Động từ <b>(-ing)</b>. Ta có: <b>are </b>là động từ <i>to be</i> đi với chủ ngữ là đại từ nhân xưng ngôi thứ ba số nhiều <b>They </b><i>(Họ)</i>, <b>eating</b> là dạng Verb <b>(-ing)</b> của động từ <b>eat</b> <i>(ăn)</i>. Câu hoàn chỉnh là <b>They are <span style=\"color:red\">eating</span> dinner.</b> <i>(Họ đang <span style=\"color:red\">ăn </span>tối.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ff80c721-a8e0-4db9-915a-e46977d57c02"
+          },
+          "dapAn": "eating",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "84d1ae5b-5f32-4b85-83e6-fe8c02a776c9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "____ <b><span style=\"color:blue\">(Be)</span></b> you studying?",
+      "yNghia": "Cấu trúc của thì Hiện tại tiếp diễn là động từ <i>to be</i> + Động từ <b>(-ing)</b>. Ta có: <b>Are</b> là động từ<i> to be</i> được đặt lên đầu câu để hình thành câu hỏi lựa chọn, sau <b>Are</b> là chủ ngữ ngôi thứ hai <b>you</b> <i>(bạn)</i>, <b>studying</b> là dạng Verb <b>(-ing) </b>của <b>study</b> <i>(học)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">Are</span> you studying?</b> <i>(Bạn có đang học không?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "68b7433b-3ed8-49d6-b0a5-3e1b1bc31832"
+          },
+          "dapAn": "Are",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ef109c2d-789e-4574-9b7f-3a50c2d47247"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My friends are ____ <b><span style=\"color:blue\">(buy)</span></b> food for a barbecue because it's warm.",
+      "yNghia": "Cấu trúc của thì Hiện tại tiếp diễn là động từ <i>to be</i> + Động từ <b>(-ing)</b>. Ta có: <b>are </b>là động từ <i>to be</i> đi với chủ ngữ số nhiều <b>My friends </b><i>(Bạn bè của tôi)</i>, <b>buying</b> là dạng Verb <b>(-ing)</b> của động từ <b>buy</b> <i>(mua)</i>. Câu hoàn chỉnh là <b>My friends are <span style=\"color:red\">buying</span> food for a barbecue because it's warm.</b> <i>(Bạn bè của tôi đang <span style=\"color:red\">mua </span>thức ăn cho bữa tiệc nướng ngoài trời vì trời ấm.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "68618779-07d4-47d2-ae97-490a0894b7e6"
+          },
+          "dapAn": "buying",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "cf8309a6-146a-47be-ab70-854619ab506a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We are not ____ <b><span style=\"color:blue\">(shop)</span></b> at the mall.",
+      "yNghia": "Cấu trúc của thì Hiện tại tiếp diễn là động từ <i>to be</i> + Động từ <b>(-ing)</b>. Ta có: <b>are not </b>là dạng phủ định của động từ <i>to be</i> <b>are</b> đi với chủ ngữ là đại từ nhân xưng ngôi thứ nhất số nhiều <b>We </b><i>(Chúng tôi)</i>, <b>shopping</b> là dạng Verb <b>(-ing)</b> của động từ <b>shop</b> <i>(mua)</i>. Câu hoàn chỉnh là <b>We are not <span style=\"color:red\">shopping</span> at the mall.</b> <i>(Chúng tôi không đang <span style=\"color:red\">mua đồ</span> ở trung tâm mua sắm.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c8c5bda9-f4f2-4826-8f02-55fd90c4986f"
+          },
+          "dapAn": "shopping",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

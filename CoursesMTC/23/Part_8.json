@@ -1,0 +1,378 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_MTC_L23/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_MTC_L23/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "cbfe6bd4-efc4-4b66-9cdb-48f8da6859ba"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Sarah",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cce06bf1-d248-44ff-bdc0-7ee749585125"
+          },
+          "dapAn": "What do you think about our advertising campaigns?",
+          "phienAm": "/wɒt duː juː θɪŋk əˈbaʊt ˈaʊər ˈædvətaɪzɪŋ kæmˈpeɪnz/",
+          "yNghia": "\nBạn nghĩ gì về các chiến dịch quảng cáo của chúng ta?",
+          "normal": {
+            "start": "00:00:00.762",
+            "end": "00:00:04.154"
+          },
+          "slow": {
+            "start": "00:00:00.584",
+            "end": "00:00:03.997"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fe717f22-5a8a-4b53-ac1b-2447d741ac8e"
+          },
+          "dapAn": "Can you tell me more?",
+          "phienAm": "/kæn juː tel miː mɔːr/",
+          "yNghia": "\nBạn có thể nói cho tôi biết thêm được không?",
+          "normal": {
+            "start": "00:00:11.250",
+            "end": "00:00:12.496"
+          },
+          "slow": {
+            "start": "00:00:13.250",
+            "end": "00:00:14.597"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a775b014-0ce0-400c-839d-7e7594c7db4b"
+          },
+          "dapAn": "Gender; age; occupation; relationship status; geographic location and behavior, right?",
+          "phienAm": "/ˈʤendər eɪʤ ɒkjʊˈpeɪʃən rɪˈleɪʃənʃɪp ˈsteɪtəs ʤɪəˈgræfɪk ləʊˈkeɪʃən ænd bɪˈheɪvjər raɪt/",
+          "yNghia": "\nGiới tính; lứa tuổi; nghề nghiệp; tình trạng quan hệ; vị trí địa lý và hành vi, phải không?",
+          "normal": {
+            "start": "00:00:18.380",
+            "end": "00:00:25.718"
+          },
+          "slow": {
+            "start": "00:00:21.155",
+            "end": "00:00:32.653"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "bc161572-896b-45ff-a085-6645bd0a11bb"
+          },
+          "dapAn": "We start to think about how we’re going to promote the product.",
+          "phienAm": "/wiː stɑːt tuː θɪŋk əˈbaʊt haʊ wɪər ˈgəʊɪŋ tuː prəˈməʊt ðə ˈprɒdʌkt/",
+          "yNghia": "\nChúng ta bắt đầu nghĩ về cách mà ta sẽ quảng bá sản phẩm thôi.",
+          "normal": {
+            "start": "00:00:31.222",
+            "end": "00:00:35.237"
+          },
+          "slow": {
+            "start": "00:00:38.717",
+            "end": "00:00:45.678"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5923fdec-fc15-4d41-86c9-e2f0714c0aaa"
+          },
+          "dapAn": "What is the difference between marketing to young adults and marketing to older people?",
+          "phienAm": "/wɒt ɪz ðə ˈdɪfrəns bɪˈtwiːn ˈmɑːkɪtɪŋ tuː jʌŋ ˈædʌlts ænd ˈmɑːkɪtɪŋ tuː ˈəʊldər ˈpiːpl/",
+          "yNghia": "\nSự khác biệt giữa tiếp thị cho thanh niên và tiếp thị cho người lớn tuổi là gì?",
+          "normal": {
+            "start": "00:00:42.126",
+            "end": "00:00:47.802"
+          },
+          "slow": {
+            "start": "00:00:54.122",
+            "end": "00:01:03.016"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d2fb0919-4608-4388-8c33-2e05a231f6b9"
+          },
+          "dapAn": "I guess young people want faster, more energetic music.",
+          "phienAm": "/aɪ ges jʌŋ ˈpiːpl wɒnt ˈfɑːstər mɔːr ˌenəˈʤetɪk ˈmjuːzɪk/",
+          "yNghia": "\nTôi đoán giới trẻ muốn âm nhạc nhanh hơn, tràn đầy năng lượng hơn.",
+          "normal": {
+            "start": "00:00:53.029",
+            "end": "00:00:57.114"
+          },
+          "slow": {
+            "start": "00:01:09.708",
+            "end": "00:01:15.682"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fb3f11cf-c8ab-4672-8a43-6c2d628ab8d9"
+          },
+          "dapAn": "What about advertisements on TV or radio?",
+          "phienAm": "/wɒt əˈbaʊt ədˈvɜːtɪsmənts ɒn ˌtiːˈviː ɔːr ˈreɪdɪəʊ/",
+          "yNghia": "\nCòn quảng cáo trên TV hoặc đài phát thanh thì sao?",
+          "normal": {
+            "start": "00:01:03.033",
+            "end": "00:01:06.183"
+          },
+          "slow": {
+            "start": "00:01:23.407",
+            "end": "00:01:28.348"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c0eddf28-96b8-458f-bdb2-ab44fcb218be"
+          },
+          "dapAn": "So that the elderly can easily listen to and remember the message.",
+          "phienAm": "/səʊ ðæt ðiː ˈeldəli kæn ˈiːzɪli ˈlɪsn tuː ænd rɪˈmembər ðə ˈmesɪʤ/",
+          "yNghia": "\nNhư thế thì người cao tuổi có thể dễ dàng nghe và ghi nhớ thông điệp.",
+          "normal": {
+            "start": "00:01:14.871",
+            "end": "00:01:19.959"
+          },
+          "slow": {
+            "start": "00:01:38.992",
+            "end": "00:01:45.415"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8c37160f-a710-42a7-9ff8-f7755896de10"
+          },
+          "dapAn": "It has to be clear and easy to remember, doesn’t it?",
+          "phienAm": "/ɪt hæz tuː biː klɪər ænd ˈiːzi tuː rɪˈmembər dʌznt ɪt/",
+          "yNghia": "\nNó phải rõ ràng và dễ nhớ, phải không?",
+          "normal": {
+            "start": "00:01:27.367",
+            "end": "00:01:31.451"
+          },
+          "slow": {
+            "start": "00:01:55.027",
+            "end": "00:02:00.462"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "45dd84ac-478c-41db-b8b4-411122dd9745"
+          },
+          "dapAn": "It’s important to launch the product in the most exciting way, too.",
+          "phienAm": "/ɪts ɪmˈpɔːtnt tuː lɔːnʧ ðə ˈprɒdʌkt ɪn ðə məʊst ɪkˈsaɪtɪŋ weɪ tuː/",
+          "yNghia": "\nViệc tung sản phẩm ra thị trường theo cách thú vị nhất cũng rất quan trọng.",
+          "normal": {
+            "start": "00:01:38.720",
+            "end": "00:01:42.528"
+          },
+          "slow": {
+            "start": "00:02:09.400",
+            "end": "00:02:14.835"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fd76ad47-9ab2-4886-8778-6f9190febd15"
+          },
+          "dapAn": "Well, we have to work very hard on advertising campaigns.",
+          "phienAm": "/wel wiː hæv tuː wɜːk ˈveri hɑːd ɒn ˈædvətaɪzɪŋ kæmˈpeɪnz/",
+          "yNghia": "\nChà, chúng ta phải làm việc rất chăm chỉ cho các chiến dịch quảng cáo.",
+          "normal": {
+            "start": "00:01:48.274",
+            "end": "00:01:53.604"
+          },
+          "slow": {
+            "start": "00:02:22.246",
+            "end": "00:02:28.399"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "597959be-aefe-4336-8671-6494ad1e6cfb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Seth",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c1eaa4c4-d8a2-4b37-83f7-61a0f1b44677"
+          },
+          "dapAn": "One of the first things we have to do is carefully identify our target market.",
+          "phienAm": "/wʌn ɒv ðə fɜːst θɪŋz wiː hæv tuː duː ɪz ˈkeəfli aɪˈdentɪfaɪ ˈaʊərˈtɑːgɪt ˈmɑːkɪt/",
+          "yNghia": "\nMột trong những điều đầu tiên chúng ta phải làm là xác định cẩn thận thị trường mục tiêu của mình.",
+          "normal": {
+            "start": "00:00:04.742",
+            "end": "00:00:10.696"
+          },
+          "slow": {
+            "start": "00:00:04.447",
+            "end": "00:00:12.352"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c5ce62b2-fbc0-4f67-9d6d-0f35ddabad39"
+          },
+          "dapAn": "We identify our customers using six different categories.",
+          "phienAm": "/wiː aɪˈdentɪfaɪ ˈaʊər ˈkʌstəməz ˈjuːzɪŋ sɪks ˈdɪfrənt ˈkætɪgəriz/",
+          "yNghia": "\nChúng ta xác định khách hàng của mình bằng cách sử dụng sáu nhóm phân loại khác nhau.",
+          "normal": {
+            "start": "00:00:13.015",
+            "end": "00:00:17.549"
+          },
+          "slow": {
+            "start": "00:00:15.181",
+            "end": "00:00:20.706"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "449d4929-1793-415a-8db9-9e9cdb33f4af"
+          },
+          "dapAn": "Exactly. Then, what do we do?",
+          "phienAm": "/ɪgˈzæktli/. /ðen wɒt duː wiː duː/",
+          "yNghia": "\nChính xác. Sau đó chúng ta làm gì?",
+          "normal": {
+            "start": "00:00:26.861",
+            "end": "00:00:30.011"
+          },
+          "slow": {
+            "start": "00:00:33.731",
+            "end": "00:00:37.684"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "93b26632-c32d-4b4d-ab77-f42b02c048d4"
+          },
+          "dapAn": "Also how to make our product the most attractive to that group of people.",
+          "phienAm": "/ˈɔːlsəʊ haʊ tuː meɪk ˈaʊər ˈprɒdʌkt ðə məʊst əˈtræktɪv tuː ðæt gruːp ɒv ˈpiːpl/",
+          "yNghia": "\nNgoài ra làm sao để sản phẩm của mình hấp dẫn nhất đối với nhóm người đó.",
+          "normal": {
+            "start": "00:00:35.722",
+            "end": "00:00:41.503"
+          },
+          "slow": {
+            "start": "00:00:46.756",
+            "end": "00:00:53.224"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "70bc469a-71db-4551-9548-2501b6f257b6"
+          },
+          "dapAn": "It is the type of music we use in the advertising campaign.",
+          "phienAm": "/ɪt ɪz ðə taɪp ɒv ˈmjuːzɪk wiː juːz ɪn ðiː ˈædvətaɪzɪŋ kæmˈpeɪn/",
+          "yNghia": "\nĐó là loại nhạc chúng tôi sử dụng trong chiến dịch quảng cáo.",
+          "normal": {
+            "start": "00:00:48.460",
+            "end": "00:00:52.510"
+          },
+          "slow": {
+            "start": "00:01:03.824",
+            "end": "00:01:08.989"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "66e53e46-39c7-4702-8967-5e19b142fac1"
+          },
+          "dapAn": "That’s right. Older people want calmer and less noisy music.",
+          "phienAm": "/ðæts raɪt/. /ˈəʊldər ˈpiːpl wɒnt ˈkɑːmər ænd les ˈnɔɪzi ˈmjuːzɪk/",
+          "yNghia": "\nĐúng rồi. Người lớn tuổi muốn âm nhạc dễ chịu hơn và ít ồn ào hơn.",
+          "normal": {
+            "start": "00:00:57.771",
+            "end": "00:01:02.237"
+          },
+          "slow": {
+            "start": "00:01:16.310",
+            "end": "00:01:22.419"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1e389a04-5c27-48b4-9a86-46d800825aa7"
+          },
+          "dapAn": "In those advertisements directed at older people, actors usually speak more seriously and less quickly.",
+          "phienAm": "/ɪn ðəʊz ədˈvɜːtɪsmənts daɪˈrektid æt ˈəʊldər ˈpiːpl ˈæktərz ˈjuːʒʊəli spiːk mɔːr ˈsɪərɪəsli ænd les ˈkwɪkli/",
+          "yNghia": "\nTrong những quảng cáo hướng đến người lớn tuổi, các diễn viên thường nói nghiêm túc hơn và chậm hơn.",
+          "normal": {
+            "start": "00:01:06.633",
+            "end": "00:01:14.282"
+          },
+          "slow": {
+            "start": "00:01:29.201",
+            "end": "00:01:38.409"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ef5e9d70-3c26-42c8-a05b-59ae6f7447cd"
+          },
+          "dapAn": "Correct. Then we have to come up with a slogan in a phrase or short sentence.",
+          "phienAm": "/kəˈrekt/. /ðen wiː hæv tuː kʌm ʌp wɪð eɪ ˈsləʊgən ɪn eɪ freɪz ɔːr ʃɔːt ˈsentəns/",
+          "yNghia": "\nChính xác. Sau đó, chúng ta phải nghĩ ra một khẩu hiệu trong một cụm từ hoặc một câu ngắn.",
+          "normal": {
+            "start": "00:01:20.617",
+            "end": "00:01:26.605"
+          },
+          "slow": {
+            "start": "00:01:45.999",
+            "end": "00:01:54.264"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "26ca41ba-4ab6-47df-a143-11dffa0a34a4"
+          },
+          "dapAn": "Yes. Next, we have to think about designing the logo for the product.",
+          "phienAm": "/jes/. /nekst wiː hæv tuː θɪŋk əˈbaʊt dɪˈzaɪnɪŋ ðə ˈləʊgəʊ fɔːr ðə ˈprɒdʌkt/",
+          "yNghia": "\nĐúng. Tiếp theo, chúng ta phải nghĩ đến việc thiết kế logo cho sản phẩm.",
+          "normal": {
+            "start": "00:01:32.489",
+            "end": "00:01:37.785"
+          },
+          "slow": {
+            "start": "00:02:01.585",
+            "end": "00:02:08.322"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1c52dcd9-4ef5-4319-8982-b1146955df2c"
+          },
+          "dapAn": "We also have to manage the budget so we use the money we have.",
+          "phienAm": "/wiː ˈɔːlsəʊ hæv tuː ˈmænɪʤ ðə ˈbʌʤɪt səʊ wiː juːz ðə ˈmʌni wiː hæv/",
+          "yNghia": "\nChúng ta cũng phải quản lý ngân sách để chúng ta sử dụng số tiền mình có.",
+          "normal": {
+            "start": "00:01:43.289",
+            "end": "00:01:47.374"
+          },
+          "slow": {
+            "start": "00:02:15.553",
+            "end": "00:02:21.392"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7c3e8be8-5e49-4cf5-b022-dcdcb6abc159"
+          },
+          "dapAn": "Indeed. But the more often you do it, the easier it gets.",
+          "phienAm": "/ɪnˈdiːd/. /bʌt ðə mɔːr ˈɒfn juː duː ɪt ðiː ˈiːzɪər ɪt gets/",
+          "yNghia": "\nThực vậy. Nhưng bạn càng làm điều đó thường xuyên, nó càng trở nên dễ dàng hơn.",
+          "normal": {
+            "start": "00:01:54.764",
+            "end": "00:01:59.039"
+          },
+          "slow": {
+            "start": "00:02:29.028",
+            "end": "00:02:34.732"
+          }
+        }
+      ]
+    }
+  ]
+}

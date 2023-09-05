@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "32336a1f-c44c-4e9b-bf21-f61a724b36ec"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td>Welcome to our <b>(1)</b> ______ today, Linda. Can you tell me who your role model is?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \n                        <td>Sure. My <b>(2)</b> ______ is Lila Downs. She is a <b>(3)</b> ______ and actress.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td>Can you <b>(4)</b> ______ us some of her personal information?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \n                        <td>Yes. She was born in Oaxaca, Mexico, in 1968.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td>Welcome to our <b>(1)</b> <b><span style=\"color:red\">show</span> </b> today, Linda. Can you tell me who your role model is?<br />\n                        <i>Chào mừng bạn đến với </i><i><span style=\"color:red\">chương trình </span> </i><i>của chúng tôi hôm nay, Linda. </i><i>Bạn có thể cho tôi biết hình mẫu của bạn là ai không? </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \n                        <td>Sure. My <b>(2) <span style=\"color:red\">role model</span> </b> is Lila Downs. She is a <b>(3)</b> <b><span style=\"color:red\">singer-songwriter </span> </b>and actress.<br />\n                        <i>Tất nhiên rồi. </i><i><span style=\"color:red\">Hình mẫu </span> </i><i>của tôi là Lila Downs. Cô ấy là một </i><i><span style=\"color:red\">ca sĩ kiêm nhạc sĩ</span> </i><i> và diễn viên.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td>Can you <b>(4)</b> <b><span style=\"color:red\">give</span> </b> us some of her personal information?<br />\n                        <i>Bạn có thể <span style=\"color:red\">cho </span> chúng tôi biết một vài thông tin cá nhân của cô ấy được không? </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \n                        <td>Yes. She was born in Oaxaca, Mexico, in 1968. <br />\n                        <i>Tất nhiên rồi. Cô ấy sinh ra ở Oaxaca, Mexico, vào năm 1968.</i><br />\n                         </td>\n                </tr>\n                <tr>\n                        <td colspan=\"2\"><b><span ",
+      "danhSachDapAn": [
+        {
+          "dapAn": "show",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2866ad64-7b2e-4ca8-85c0-84ee2b936c0d"
+          }
+        },
+        {
+          "dapAn": "role model",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6a7c04ca-0724-4ecf-80f0-6de5af66a80e"
+          }
+        },
+        {
+          "dapAn": "singer-songwriter",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "dc6c806c-4f8f-4370-9ab2-26af01d71ceb"
+          }
+        },
+        {
+          "dapAn": "give",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6203c2ce-8a98-4eec-9cc1-995d56dcd95b"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "395c7dd2-ca7f-4d2b-9ea5-cf9b24e99b4f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td>How did she <b>(1)</b> ______ her career? </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \n                        <td>At the <b>(2)</b> ______ of eight, she started singing mariachi songs then became a professional singer.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td>So, does her family still live in Mexico?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \n                        <td>It's a long <b>(3)</b> ______. When she was 14, her family emigrated <b>(4)</b> ______ Mexico to the US.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table> <tbody> </tr> <tr> <td style=\"vertical-align: top;\"><b>Host:</b></td> <td>How did she <b>(1)</b> <b><span style=\"color:red\">start </span> </b>her career? <br /> <i>Cô ấy </i><i><span style=\"color:red\">bắt đầu </span> </i><i>sự nghiệp của mình như thế nào? </i></td> </tr> <tr> <td style=\"vertical-align: top;\"><b>Linda:</b></td> <td>At the <b>(2) </b><b><span style=\"color:red\">age </span> </b>of eight, she started singing mariachi songs then became a professional singer.<br /> <i>Năm </span> </i><i>tám</span> </i><i> </i><i><span style=\"color:red\">tuổi</span> </i><i>, cô bắt đầu hát những bài hát</span> </i><i> truyền thống Mexico</span> </i><i> rồi trở thành ca sĩ </span> </i><i>chuyên nghiệp</i><i>.</i></td> </tr> <tr> <td style=\"vertical-align: top;\"><b>Host:</b></td> <td>So, does her family still live in Mexico?<br /> <i>Vậy, gia đình của cô ấy có còn sống tại Mexico không? </span> </i></td> </tr> <tr> <td style=\"vertical-align: top;\"><b>Linda:</b></td> <td>It's a long <b>(3)</b> <b><span style=\"color:red\">story</span> </b>. When she was 14, her family emigrated <b>(4)</b> <b><span style=\"color:red\">from </span> </b>Mexico to the US. <br /> <i>Đó là một </i><i><span style=\"color:red\">câu chuyện</span> </i><i> dài. Năm 14 tuổi, gia đình của cô ấy di cư </i><i><span style=\"color:red\">từ </span> </i><i>Mexico tới Mỹ. </i></td> </tr> </tbody> </table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "start",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "57d31097-e57c-4015-9141-d09c7aeb66b3"
+          }
+        },
+        {
+          "dapAn": "age",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "3431b358-7e7f-4b0c-a5e9-4d675e624800"
+          }
+        },
+        {
+          "dapAn": "story",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "110967de-a55e-4aed-a4fc-e7633aaeeb79"
+          }
+        },
+        {
+          "dapAn": "from",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "9e39615d-b967-40ee-af5f-dca64180491e"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "79b2b6cb-5cbe-466c-a70f-6fae9f2edbf7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td>­­­­­<b>(1) </b>______ happened?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \n                        <td>Lila and her mother <b>(2)</b> ______ back to Mexico after her father's death.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td><b>(3) </b>______ she married?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \n                        <td>Yes, she met her <b>(4)</b> ______, Paul Cohen, and moved to Minnesota.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td><b><span style=\"color:red\">­­­­­</span> </b><b>(1) </b><b><span style=\"color:red\">What</span> </b> happened?<br />\n                        <i>Đã có chuyện </i><i><span style=\"color:red\">gì </span> </i><i>xảy ra thế? </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \n                        <td>Lila and her mother <b>(2)</b> <b><span style=\"color:red\">moved</span> </b> back to Mexico after her father's death.<br />\n                        <i>Lila và mẹ cô ấy </i><i><span style=\"color:red\">chuyển </span> </i><i>về Mexico sau khi cha cô mất.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td> \n                        <td><b>(3) </b><b><span style=\"color:red\">Is </span> </b>she married?<br />\n                        <i>Cô ấy đã kết hôn chưa?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Linda:</b></td> \n                        <td>Yes, she met her <b>(4)</b> <b><span style=\"color:red\">husband</span> </b>, Paul Cohen, and moved to Minnesota.<br />\n                        <i>Rồi, cô ấy đã gặp </i><i><span style=\"color:red\">chồng </span> </i><i>của mình, Paul Cohen, và chuyển tới Minnesota.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "What",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "09d9e16e-e995-4587-8cd7-3ffa1665b2fd"
+          }
+        },
+        {
+          "dapAn": "moved",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ddf982ca-5a38-4a7f-9485-1c45bc24797e"
+          }
+        },
+        {
+          "dapAn": "Is",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ae02d63f-00fc-40d9-b31c-89c571200d08"
+          }
+        },
+        {
+          "dapAn": "husband",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "3e572972-700a-4c16-a273-b53e36e802ab"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "421c1348-d6e8-4868-9bad-81a840004432"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "While studying in the University of Minnesota, Lila started a very <b>(1)</b> ____ music group. Then, she wanted to <b>(2)</b> ____ her music career. <i>Frida </i>was the <b>(3)</b> ____ that she had a <b>(4)</b> ____ role in.",
+      "yNghia": "While studying in the University of Minnesota, Lila started a very <b>(1)</b> <b><span style=\"color:red\">successful</span> </b> music group. Then, she wanted to <b>(2)</b> <b><span style=\"color:red\">concentrate on</span> </b> her music career. <i>Frida </i>was the <b>(3)</b> <b><span style=\"color:red\">movie</span> </b> that she had a <b>(4)</b> <b><span style=\"color:red\">small</span> </b> role in. <br /> \n<i>Trong khi học tại Đại học Minnesota, Lila đã thành lập một nhóm nhạc </span> </i><i><span style=\"color:red\">thành công</span> </i><i>. Sau đó, cô ấy muốn </span> </i><i><span style=\"color:red\">tập trung vào </span> </i><i>sự nghiệp âm nhạc của mình. Frida là </span> </i><i><span style=\"color:red\">bộ phim </span> </i><i>mà cô ấy có một vai </span> </i><i><span style=\"color:red\">nhỏ</span> </i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "successful",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c6861763-5724-4ad0-9187-edd92fd4b3a3"
+          }
+        },
+        {
+          "dapAn": "concentrate on",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d63206a6-02e4-41aa-8ba9-8a7a93baed67"
+          }
+        },
+        {
+          "dapAn": "movie",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "50515810-398e-4fa6-98fc-5dc75beb5553"
+          }
+        },
+        {
+          "dapAn": "small",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0e9bd5cd-ceb6-4c15-94a5-31c17633a037"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c7cca06a-5689-46cc-88a2-86d4f6ac6337"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There are three things you probably don't know about Lila. She adopted a <b>(1)</b> ____ named Benito. An insect was <b>(2)</b> ____ her by <b>(3)</b> ____. And Spanish, English and her <b>(4)</b> ____ are the languages that she sings.",
+      "yNghia": "There are three things you probably don't know about Lila. She adopted a <b>(1)</b> <b><span style=\"color:red\">boy</span> </b> named Benito. An insect was <b>(2)</b> <b><span style=\"color:red\">named after</span> </b><b> </b>her by <b>(3)</b> <b><span style=\"color:red\">scientists</span> </b>. And Spanish, English and her <b>(4)</b> <b><span style=\"color:red\">native language</span> </b> are the languages that she sings. <br /> \n<i>Có ba điều có thể bạn chưa biết về Lila. Cô đã nhận nuôi một </span> </i><i><span style=\"color:red\">cậu bé </span> </i><i>tên là Benito. Một loài côn trùng </span> </i><i><span style=\"color:red\">được đặt theo tên </span> </i><i>cô ấy bởi </span> </i><i><span style=\"color:red\">các nhà khoa học</span> </i><i>. Và tiếng Tây Ban Nha, tiếng Anh và </span> </i><i><span style=\"color:red\">ngôn ngữ mẹ đẻ </span> </i><i>của cô ấy là những ngôn ngữ mà cô ấy hát.</span> </i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "boy",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c9b2dea5-2445-404a-bde0-c50abd57f96d"
+          }
+        },
+        {
+          "dapAn": "named after",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a29e4abd-d44e-4e47-ab02-e4b31ce0a83e"
+          }
+        },
+        {
+          "dapAn": "scientists",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d0cd51aa-fe07-4536-81c3-460bbea82570"
+          }
+        },
+        {
+          "dapAn": "native language",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e1cdb51a-6811-4435-9dc5-cf078c1204a2"
+          }
+        }
+      ]
+    }
+  ]
+}

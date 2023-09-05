@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L10/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L10/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "b0a0764e-b46c-42a6-adcd-07425dc54cd9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "David",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bdbdcdc4-f824-4023-8bdc-6a9ffcf165e3"
+          },
+          "dapAn": "Hello, Mary.\n",
+          "phienAm": "/həˈləʊ ˈmeəri/",
+          "yNghia": "\nXin chào Mary.",
+          "normal": {
+            "start": "00:00:00.410",
+            "end": "00:00:01.322"
+          },
+          "slow": {
+            "start": "00:00:01.656",
+            "end": "00:00:03.036"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "cae82820-f813-4038-afe6-2db9f8f632e8"
+          },
+          "dapAn": "Oh Mary, you look tired.\n",
+          "phienAm": "/əʊ ˈmeəri juː lʊk ˈtaɪəd/",
+          "yNghia": "\nÔi Mary, trông bạn có vẻ mệt mỏi.",
+          "normal": {
+            "start": "00:00:04.263",
+            "end": "00:00:06.657"
+          },
+          "slow": {
+            "start": "00:00:06.163",
+            "end": "00:00:09.199"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2b48c067-a935-43f8-8c90-a258e7981062"
+          },
+          "dapAn": "Are you feeling alright?\n",
+          "phienAm": "/ɑːr juː ˈfiːlɪŋ ɔːlˈraɪt/",
+          "yNghia": "\nBạn có đang thấy ổn không?",
+          "normal": {
+            "start": "00:00:11.692",
+            "end": "00:00:13.268"
+          },
+          "slow": {
+            "start": "00:00:16.404",
+            "end": "00:00:18.336"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7d7dc269-49e0-4cda-ac4c-d89052bd3cb0"
+          },
+          "dapAn": "Do you get up early every day, Mary?",
+          "phienAm": "/duː juː get ʌp ˈɜːli ˈevri deɪ ˈmeəri/",
+          "yNghia": "\nBạn có dậy sớm mỗi ngày không, Mary?",
+          "normal": {
+            "start": "00:00:19.309",
+            "end": "00:00:22.159"
+          },
+          "slow": {
+            "start": "00:00:26.925",
+            "end": "00:00:30.110"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d494f4cf-37a1-4bfb-992b-79f7db131687"
+          },
+          "dapAn": "How about on Sundays?\n",
+          "phienAm": "/haʊ əˈbaʊt ɒn ˈsʌndeɪz/",
+          "yNghia": "\nCòn vào các Chủ nhật thì sao?",
+          "normal": {
+            "start": "00:00:30.616",
+            "end": "00:00:32.440"
+          },
+          "slow": {
+            "start": "00:00:40.658",
+            "end": "00:00:42.774"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b8e33b2a-6477-434b-83ce-dddf456605fc"
+          },
+          "dapAn": "Do you exercise during the week?\n",
+          "phienAm": "/duː juː ˈeksəsaɪz ˈdjʊərɪŋ ðə wiːk/",
+          "yNghia": "\nBạn có tập thể dục trong tuần không?",
+          "normal": {
+            "start": "00:00:36.908",
+            "end": "00:00:39.233"
+          },
+          "slow": {
+            "start": "00:00:48.906",
+            "end": "00:00:51.390"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "64139168-74e5-4d41-9acb-cf0ed4b52bff"
+          },
+          "dapAn": "What about the weekend? When do you see your friends and family?\n",
+          "phienAm": "/wɒt əˈbaʊt ðə ˌwiːkˈend/. /wen duː juːsiː jɔːr frendz ænd ˈfæməli/",
+          "yNghia": "\nCòn những ngày cuối tuần thì sao? Bạn gặp bạn bè và gia đình của bạn khi nào?",
+          "normal": {
+            "start": "00:00:48.648",
+            "end": "00:00:52.843"
+          },
+          "slow": {
+            "start": "00:01:05.924",
+            "end": "00:01:11.627"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "efbbbb1d-e582-43e7-865a-21cbe6431088"
+          },
+          "dapAn": "When do you study?",
+          "phienAm": "/wen duː juː ˈstʌdi/",
+          "yNghia": "\nBạn học lúc nào?",
+          "normal": {
+            "start": "00:01:02.258",
+            "end": "00:01:03.626"
+          },
+          "slow": {
+            "start": "00:01:25.762",
+            "end": "00:01:27.418"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "002b11a2-35be-42c1-9480-d113cf17bdcf"
+          },
+          "dapAn": "Wow! You're really busy! I need to learn from you!",
+          "phienAm": "/waʊ/. /jʊə ˈrɪəli ˈbɪzi/. /aɪ niːd tuː lɜːn frɒm juː/",
+          "yNghia": "\nỒ! Bạn thực sự bận rộn! Tôi cần học hỏi từ bạn!",
+          "normal": {
+            "start": "00:01:06.111",
+            "end": "00:01:10.351"
+          },
+          "slow": {
+            "start": "00:01:30.913",
+            "end": "00:01:35.881"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ff828530-e5d2-40be-8bbb-f030d8fd7d08"
+          },
+          "dapAn": "Alright. See you soon!",
+          "phienAm": "/ɔːlˈraɪt/. /siː juː suːn/",
+          "yNghia": "\nĐược rồi. Hẹn sớm gặp lại bạn!",
+          "normal": {
+            "start": "00:01:14.819",
+            "end": "00:01:16.415"
+          },
+          "slow": {
+            "start": "00:01:42.657",
+            "end": "00:01:44.803"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "513c307c-ae51-4d05-a5a2-fbd4b26bb8cd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Mary",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7775a509-34e0-42ef-8578-3e15ebce75f2"
+          },
+          "dapAn": "Hi, David.\n",
+          "phienAm": "/haɪ ˈdeɪvɪd/",
+          "yNghia": "\nChào, David.",
+          "normal": {
+            "start": "00:00:01.983",
+            "end": "00:00:03.374"
+          },
+          "slow": {
+            "start": "00:00:03.710",
+            "end": "00:00:05.581"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3bcc12d1-021b-4443-84ee-dc650eb11de5"
+          },
+          "dapAn": "Yeah, sometimes I stay up late at night.\n",
+          "phienAm": "/jeə ˈsʌmtaɪmz aɪ steɪ ʌp leɪt æt naɪt/",
+          "yNghia": "\nVâng, thỉnh thoảng tôi thức khuya.",
+          "normal": {
+            "start": "00:00:07.158",
+            "end": "00:00:10.851"
+          },
+          "slow": {
+            "start": "00:00:10.027",
+            "end": "00:00:15.668"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "207d0cc8-1ce2-4969-8e8a-11a58d73077d"
+          },
+          "dapAn": "It's okay. All I need is some coffee later.",
+          "phienAm": "/ˈɪts ˌəʊˈkeɪ/. /ɔ:l ˈaɪ niːd ɪz sʌm ˈkɒfi ˈleɪtər/",
+          "yNghia": "\nTôi ổn. Tí nữa tôi uống chút cà phê là xong.",
+          "normal": {
+            "start": "00:00:13.977",
+            "end": "00:00:18.397"
+          },
+          "slow": {
+            "start": "00:00:19.225",
+            "end": "00:00:26.216"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "475b32bc-7bac-443c-8651-80217815cef8"
+          },
+          "dapAn": "Well, no. I only get up early on weekdays and on Saturdays.",
+          "phienAm": "/wel nəʊ/. /aɪ ˈəʊnli get ʌp ˈɜːli ɒnˈwiːkdeɪz ænd ɒn ˈsætədeɪz/",
+          "yNghia": "\nỒ không. Tôi chỉ dậy sớm vào các ngày trong tuần và vào các ngày thứ Bảy.",
+          "normal": {
+            "start": "00:00:23.002",
+            "end": "00:00:29.613"
+          },
+          "slow": {
+            "start": "00:00:30.846",
+            "end": "00:00:39.585"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "23b5b0b9-92b8-472b-9690-1d1633364e47"
+          },
+          "dapAn": "On Sundays? Then I sleep late.\n",
+          "phienAm": "/ɒn ˈsʌndeɪz/. /ðen aɪ sliːp leɪt/",
+          "yNghia": "\nVào các các ngày Chủ nhật? Thì tôi ngủ muộn.",
+          "normal": {
+            "start": "00:00:33.078",
+            "end": "00:00:35.745"
+          },
+          "slow": {
+            "start": "00:00:43.632",
+            "end": "00:00:48.017"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "83a95b39-9784-4a1b-84f9-e03d8957b16c"
+          },
+          "dapAn": "Yes, but not every day. I swim three times a week - on Mondays, Tuesdays, and Thursdays.\n",
+          "phienAm": "/jes bʌt nɒt ˈevri deɪ/. /aɪ swɪm θriːtaɪmz eɪ wiːk ɒn ˈmʌndeɪz ˈtjuːzdeɪz ænd ˈθɜːzdeɪz/",
+          "yNghia": "\nCó, nhưng không phải mỗi ngày. Tôi bơi ba lần một tuần - vào thứ Hai, thứ Ba và thứ Năm.",
+          "normal": {
+            "start": "00:00:39.940",
+            "end": "00:00:47.486"
+          },
+          "slow": {
+            "start": "00:00:51.773",
+            "end": "00:01:05.096"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "29271c45-7047-40c1-8f0e-37339be58c91"
+          },
+          "dapAn": "Let's see. I see friends on Fridays and Saturdays. And I visit my family on Sundays.\n",
+          "phienAm": "/lets siː/. /aɪ siː frendz ɒn ˈfraɪdeɪz ænd ˈsætədeɪz/. /ænd aɪ ˈvɪzɪt maɪ ˈfæməliɒn ˈsʌndeɪz/",
+          "yNghia": "\nĐể xem nào. Tôi gặp bạn bè vào thứ Sáu và thứ Bảy. Và tôi thăm gia đình vào Chủ nhật.",
+          "normal": {
+            "start": "00:00:53.372",
+            "end": "00:01:01.301"
+          },
+          "slow": {
+            "start": "00:01:12.363",
+            "end": "00:01:24.505"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9f974484-ef1a-4b88-849b-8009ed059dbf"
+          },
+          "dapAn": "Every day!",
+          "phienAm": "/ˈevri deɪ/",
+          "yNghia": "\nHằng ngày!",
+          "normal": {
+            "start": "00:01:04.173",
+            "end": "00:01:05.153"
+          },
+          "slow": {
+            "start": "00:01:28.001",
+            "end": "00:01:30.055"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5aa3cc7f-f2f8-4207-b794-7e5ad858c4b7"
+          },
+          "dapAn": "Are you sure? Anyway, I have to go now.",
+          "phienAm": "/ɑːr juː ʃʊər/. /ˈenɪweɪ aɪ hæv tuː gəʊnaʊ/",
+          "yNghia": "\nBạn có chắc không? Dù sao thì bây giờ tôi cũng phải đi đây.",
+          "normal": {
+            "start": "00:01:10.713",
+            "end": "00:01:13.953"
+          },
+          "slow": {
+            "start": "00:01:36.893",
+            "end": "00:01:41.829"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b2b2545c-07c7-4b57-8d43-410beeab5644"
+          },
+          "dapAn": "See you!",
+          "phienAm": "/siː juː/",
+          "yNghia": "\nHẹn gặp lại bạn!",
+          "normal": {
+            "start": "00:01:17.076",
+            "end": "00:01:17.646"
+          },
+          "slow": {
+            "start": "00:01:44.957",
+            "end": "00:01:45.846"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L7/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L7/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "c7e558f1-2791-48ca-b697-89d413b3ee3e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Hotel worker",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e510d8fe-45bf-4ebc-bfec-ede35d8d80e5"
+          },
+          "dapAn": "Good morning. Grand Hotel. How can I help you?",
+          "phienAm": "/gʊd ˈmɔːnɪŋ/. /grænd həʊˈtel/. /haʊkæn aɪ help juː/",
+          "yNghia": "\nChào buổi sáng. Đây là Khách sạn Grand. Tôi có thể giúp gì cho bạn?",
+          "normal": {
+            "start": "00:00:00.804",
+            "end": "00:00:04.309"
+          },
+          "slow": {
+            "start": "00:00:01.027",
+            "end": "00:00:05.788"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c55d6f44-7559-4de6-b84d-1cbdc8df3afe"
+          },
+          "dapAn": "What kind of room do you need?",
+          "phienAm": "/wɒt kaɪnd ɒv ruːm duː juː niːd/",
+          "yNghia": "\nBạn cần loại phòng nào ạ?",
+          "normal": {
+            "start": "00:00:11.597",
+            "end": "00:00:13.913"
+          },
+          "slow": {
+            "start": "00:00:15.988",
+            "end": "00:00:18.555"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "13f70d92-a695-4646-b137-173bf10a3a8d"
+          },
+          "dapAn": "Let me see if there's a room available.",
+          "phienAm": "/let miː siː ɪf ðeərz eɪ ruːm əˈveɪləbl/",
+          "yNghia": "\nĐể tôi kiểm tra xem có phòng nào trống không.",
+          "normal": {
+            "start": "00:00:18.013",
+            "end": "00:00:20.499"
+          },
+          "slow": {
+            "start": "00:00:23.036",
+            "end": "00:00:26.701"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1e4dd25f-24b2-40d6-849e-eb6d1afa137c"
+          },
+          "dapAn": "Oh, I'm sorry. There's only a double room left.\n",
+          "phienAm": "/əʊ aɪm ˈsɒri/. /ðeərz ˈəʊnli eɪ ˈdʌbl ruːm left/",
+          "yNghia": "\nỒ, tôi xin lỗi. Chỉ còn lại một phòng đôi thôi.",
+          "normal": {
+            "start": "00:00:22.511",
+            "end": "00:00:26.763"
+          },
+          "slow": {
+            "start": "00:00:28.428",
+            "end": "00:00:33.376"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d6bd3de0-16b5-4a07-b07e-6c978283cc69"
+          },
+          "dapAn": "It's a room with one bed for two people.",
+          "phienAm": "/ɪts eɪ ruːm wɪð wʌn bed fɔːr tuː ˈpiːpl/",
+          "yNghia": "\nNó là phòng với một giường dành cho hai người.",
+          "normal": {
+            "start": "00:00:30.046",
+            "end": "00:00:33.331"
+          },
+          "slow": {
+            "start": "00:00:37.460",
+            "end": "00:00:41.848"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "617771fe-434b-4de1-b566-652cc7e81fa2"
+          },
+          "dapAn": "No problem.",
+          "phienAm": "/nəʊ ˈprɒbləm/",
+          "yNghia": "\nKhông thành vấn đề.",
+          "normal": {
+            "start": "00:00:36.937",
+            "end": "00:00:37.962"
+          },
+          "slow": {
+            "start": "00:00:45.746",
+            "end": "00:00:46.890"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f5cb231b-b5a8-4bc2-ba27-2158fe548ed5"
+          },
+          "dapAn": "Your bed is next to two big windows.",
+          "phienAm": "/jɔːr bed ɪz nekst tuː tuː bɪg ˈwɪndəʊz/",
+          "yNghia": "\nGiường của bạn ở cạnh hai cửa sổ to.",
+          "normal": {
+            "start": "00:00:41.151",
+            "end": "00:00:44.321"
+          },
+          "slow": {
+            "start": "00:00:50.367",
+            "end": "00:00:54.265"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a8324199-81ba-489f-b3ea-8a3911c176f3"
+          },
+          "dapAn": "There's a small desk and a chair.",
+          "phienAm": "/ðeərz eɪ smɔːl desk ænd eɪ ʧeər/",
+          "yNghia": "\nCó một cái bàn nhỏ và một cái ghế.",
+          "normal": {
+            "start": "00:00:48.212",
+            "end": "00:00:50.660"
+          },
+          "slow": {
+            "start": "00:00:59.610",
+            "end": "00:01:03.017"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5adfb74f-434c-4ee8-b7b4-7304fb759a3a"
+          },
+          "dapAn": "Yes, it is.",
+          "phienAm": "/jes ɪt ɪz/",
+          "yNghia": "\nCó, nó lớn.",
+          "normal": {
+            "start": "00:00:53.375",
+            "end": "00:00:54.741"
+          },
+          "slow": {
+            "start": "00:01:06.402",
+            "end": "00:01:08.339"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "399faf0f-104a-44c7-9d5d-2075b4835d33"
+          },
+          "dapAn": "It's $100. Please pay at the hotel on Friday.",
+          "phienAm": "/ɪts wʌn ˈhʌndrəd ˈdɒləz/. /pliːz peɪ æt ðə həʊˈtel ɒn ˈfraɪdeɪ/",
+          "yNghia": "\n100 đô-la. Bạn vui lòng thanh toán tại khách sạn vào thứ Sáu.",
+          "normal": {
+            "start": "00:00:57.930",
+            "end": "00:01:02.504"
+          },
+          "slow": {
+            "start": "00:01:11.840",
+            "end": "00:01:17.745"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a6b7808c-8319-44e6-9f86-f836bdc7feac"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Anna",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "002ef677-dba0-48b0-a688-960ec6952394"
+          },
+          "dapAn": "Good morning. I want to book a room for Friday night, please.",
+          "phienAm": "/gʊd ˈmɔːnɪŋ/. /aɪ wɒnt tuː bʊk eɪ ruːm fɔːr ˈfraɪdeɪ naɪt pliːz/",
+          "yNghia": "\nChào buổi sáng. Tôi muốn đặt một phòng cho đêm thứ Sáu.",
+          "normal": {
+            "start": "00:00:05.380",
+            "end": "00:00:10.383"
+          },
+          "slow": {
+            "start": "00:00:06.699",
+            "end": "00:00:14.774"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "02941562-cd5f-4f4a-974e-90e1d3082366"
+          },
+          "dapAn": "I need a single room.",
+          "phienAm": "/aɪ niːd eɪ ˈsɪŋgl ruːm/",
+          "yNghia": "\nTôi cần một phòng đơn.",
+          "normal": {
+            "start": "00:00:14.843",
+            "end": "00:00:16.988"
+          },
+          "slow": {
+            "start": "00:00:19.442",
+            "end": "00:00:22.079"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c39b38fa-f2b7-4768-9989-b98c321b9298"
+          },
+          "dapAn": "OK.",
+          "phienAm": "/əʊˈkeɪ/",
+          "yNghia": "\nĐược.",
+          "normal": {
+            "start": "00:00:21.335",
+            "end": "00:00:21.885"
+          },
+          "slow": {
+            "start": "00:00:27.121",
+            "end": "00:00:28.078"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e0ca67b6-3f88-4c06-a1a9-172952a19eaa"
+          },
+          "dapAn": "What is a double room?",
+          "phienAm": "/wɒt ɪz eɪ ˈdʌbl ruːm/",
+          "yNghia": "\nPhòng đôi là gì thế?",
+          "normal": {
+            "start": "00:00:27.579",
+            "end": "00:00:29.041"
+          },
+          "slow": {
+            "start": "00:00:34.053",
+            "end": "00:00:36.760"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "bcc046fb-6465-4700-b76b-f3d0f8eee97e"
+          },
+          "dapAn": "OK. A double room, please.",
+          "phienAm": "/əʊˈkeɪ/. /eɪ ˈdʌbl ruːm pliːz/",
+          "yNghia": "\nĐược. Một phòng đôi.",
+          "normal": {
+            "start": "00:00:33.824",
+            "end": "00:00:35.950"
+          },
+          "slow": {
+            "start": "00:00:42.245",
+            "end": "00:00:45.583"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "712d2b25-6e30-4634-80ca-a32c443ca5b3"
+          },
+          "dapAn": "Does it have windows?",
+          "phienAm": "/dʌz ɪt hæv ˈwɪndəʊz/",
+          "yNghia": "\nNó có cửa sổ không?",
+          "normal": {
+            "start": "00:00:38.664",
+            "end": "00:00:40.354"
+          },
+          "slow": {
+            "start": "00:00:47.333",
+            "end": "00:00:49.480"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "98e98920-5aba-4d78-9f0f-750d55de078d"
+          },
+          "dapAn": "What else does the room have in it?",
+          "phienAm": "/wɒt els dʌz ðə ruːm hæv ɪn ɪt/",
+          "yNghia": "\nTrong phòng còn có gì khác nữa không?",
+          "normal": {
+            "start": "00:00:45.175",
+            "end": "00:00:47.282"
+          },
+          "slow": {
+            "start": "00:00:54.965",
+            "end": "00:00:58.956"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8ebfc8e1-8d37-42ef-96fd-5c1b52f6f041"
+          },
+          "dapAn": "Is the room big?",
+          "phienAm": "/ɪz ðə ruːm bɪg/",
+          "yNghia": "\nCăn phòng có lớn không?",
+          "normal": {
+            "start": "00:00:51.325",
+            "end": "00:00:52.653"
+          },
+          "slow": {
+            "start": "00:01:03.601",
+            "end": "00:01:05.235"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0b57baeb-08ff-4009-a11a-e9eac983fd40"
+          },
+          "dapAn": "How much is it?",
+          "phienAm": "/haʊ mʌʧ ɪz ɪt/",
+          "yNghia": "\nNó có giá bao nhiêu vậy?",
+          "normal": {
+            "start": "00:00:55.292",
+            "end": "00:00:56.867"
+          },
+          "slow": {
+            "start": "00:01:08.922",
+            "end": "00:01:10.790"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "92c11a9b-25d8-4c76-8de1-4c6cb6ed33ce"
+          },
+          "dapAn": "Thank you for your help.",
+          "phienAm": "/θæŋk juː fɔːr jɔːr help/",
+          "yNghia": "\nCảm ơn sự giúp đỡ của bạn.",
+          "normal": {
+            "start": "00:01:03.416",
+            "end": "00:01:04.668"
+          },
+          "slow": {
+            "start": "00:01:18.095",
+            "end": "00:01:19.892"
+          }
+        }
+      ]
+    }
+  ]
+}

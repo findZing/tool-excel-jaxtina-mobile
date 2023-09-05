@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L18/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L18/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "2184aa40-a0ed-4c42-8f19-7412b70efb3f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Linda",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "33f48e3c-aebe-485a-ae1a-4ac64c9609a8"
+          },
+          "dapAn": "Hi, Hayden. How are you?",
+          "phienAm": "/haɪ, ˈheɪdn/. /haʊ ɑːr juː/",
+          "yNghia": " Chào, Hayden. Cậu khỏe không?",
+          "normal": {
+            "start": "00:00:00.395",
+            "end": "00:00:02.503"
+          },
+          "slow": {
+            "start": "00:00:00.735",
+            "end": "00:00:04.525"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9930cf09-dfb6-42db-9b8e-4878ab743752"
+          },
+          "dapAn": "I'm going to the shopping mall to buy something. ",
+          "phienAm": "/aɪm ˈgəʊɪŋ tuː ðə ˈʃɒpɪŋ mɔːl tuː baɪ ˈsʌmθɪŋ/",
+          "yNghia": " Tớ đang tới trung tâm mua sắm để mua một số thứ.",
+          "normal": {
+            "start": "00:00:07.508",
+            "end": "00:00:10.757"
+          },
+          "slow": {
+            "start": "00:00:10.407",
+            "end": "00:00:15.158"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9e33c19c-5af3-4301-83e1-e45d38160dc9"
+          },
+          "dapAn": "Yes, of course.",
+          "phienAm": "/jes ɒv kɔːs/",
+          "yNghia": " Được, đương nhiên rồi.",
+          "normal": {
+            "start": "00:00:15.586",
+            "end": "00:00:17.035"
+          },
+          "slow": {
+            "start": "00:00:21.323",
+            "end": "00:00:23.585"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "726d8805-a627-49de-b935-2e606ef6cacb"
+          },
+          "dapAn": "I am going to buy a broom, a sponge and a glass cleaner.",
+          "phienAm": "/aɪ æm ˈgəʊɪŋ tuː baɪ eɪ brʊm eɪ spʌnʤ ænd eɪ glɑːs ˈkliːnər/",
+          "yNghia": " Tớ định mua một cái chổi, một miếng bọt biển và nước lau kính.",
+          "normal": {
+            "start": "00:00:20.899",
+            "end": "00:00:27.879"
+          },
+          "slow": {
+            "start": "00:00:27.883",
+            "end": "00:00:36.254"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8a731d9c-05dc-4209-93c6-ca8c93ddd9c5"
+          },
+          "dapAn": "Yes, because it's Sunday, I have lots of time to do household chores.",
+          "phienAm": "/jes bɪˈkɒz ɪts ˈsʌndeɪ aɪ hæv lɒts ɒv taɪm tuː duː ˈhaʊshəʊld ʧɔːz/",
+          "yNghia": " Ừ, vì hôm nay là Chủ nhật, tớ có rất nhiều thời gian để làm việc nhà.",
+          "normal": {
+            "start": "00:00:32.094",
+            "end": "00:00:37.802"
+          },
+          "slow": {
+            "start": "00:00:41.231",
+            "end": "00:00:49.658"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "bfacb90c-ac71-460c-b1a6-5f5963db8091"
+          },
+          "dapAn": "Do you often do housework at home?",
+          "phienAm": "/duː juː ˈɒfn duː ˈhaʊswɜːk æt həʊm/",
+          "yNghia": " Cậu có thường làm việc nhà không?",
+          "normal": {
+            "start": "00:00:41.591",
+            "end": "00:00:44.256"
+          },
+          "slow": {
+            "start": "00:00:54.522",
+            "end": "00:00:58.708"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7b03bad3-96cd-4e3e-a2db-0e8cf5f222b4"
+          },
+          "dapAn": "What kind of housework do you often do?",
+          "phienAm": "/wɒt kaɪnd ɒv ˈhaʊswɜːk duː juː ˈɒfn duː/",
+          "yNghia": " Cậu thường làm loại việc nhà nào?",
+          "normal": {
+            "start": "00:00:47.505",
+            "end": "00:00:50.314"
+          },
+          "slow": {
+            "start": "00:01:02.836",
+            "end": "00:01:06.795"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6a2555da-4eb7-4705-8130-b78b26372a15"
+          },
+          "dapAn": "Who takes out the garbage?",
+          "phienAm": "/huː teɪks aʊt ðə ˈgɑːbɪʤ/",
+          "yNghia": " Thế ai đổ rác?",
+          "normal": {
+            "start": "00:00:55.579",
+            "end": "00:00:57.866"
+          },
+          "slow": {
+            "start": "00:01:14.205",
+            "end": "00:01:17.259"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "342085b5-2f83-4a32-a440-3dda9fa92746"
+          },
+          "dapAn": "I sometimes go shopping for food with my mom.",
+          "phienAm": "/aɪ ˈsʌmtaɪmz gəʊ ˈʃɒpɪŋ fɔːr fuːd wɪð maɪ mɒm/",
+          "yNghia": " Thỉnh thoảng tớ đi mua đồ ăn cùng mẹ tớ.",
+          "normal": {
+            "start": "00:01:03.793",
+            "end": "00:01:07.262"
+          },
+          "slow": {
+            "start": "00:01:23.693",
+            "end": "00:01:28.288"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8366285d-dd11-4e29-8d55-dc7717d1cfba"
+          },
+          "dapAn": "I also wash the dishes after meals.",
+          "phienAm": "/aɪ ˈɔːlsəʊ wɒʃ ðə ˈdɪʃɪz ˈɑːftər miːlz/",
+          "yNghia": " Tớ cũng rửa bát sau các bữa ăn nữa.",
+          "normal": {
+            "start": "00:01:10.028",
+            "end": "00:01:12.837"
+          },
+          "slow": {
+            "start": "00:01:31.738",
+            "end": "00:01:35.753"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8809d713-94ba-418b-b5bd-9ba93b767789"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Hayden",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f6d37e5f-2e65-4321-9b47-d9465b01d83d"
+          },
+          "dapAn": "I'm good. Where are you going?",
+          "phienAm": "/aɪm gʊd/. /weər ɑːr juː ˈgəʊɪŋ/",
+          "yNghia": " Tớ khỏe. Cậu đang đi đâu thế?",
+          "normal": {
+            "start": "00:00:04.259",
+            "end": "00:00:06.454"
+          },
+          "slow": {
+            "start": "00:00:05.769",
+            "end": "00:00:09.445"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "99832f79-04a8-42ae-92b0-d54f3b0172d8"
+          },
+          "dapAn": "I'm free now. Can I go with you?",
+          "phienAm": "/aɪm friː naʊ/. /kæn aɪ gəʊ wɪð juː/",
+          "yNghia": " Giờ tớ đang rảnh. Tớ có thể đi với cậu được không?",
+          "normal": {
+            "start": "00:00:11.810",
+            "end": "00:00:14.796"
+          },
+          "slow": {
+            "start": "00:00:16.459",
+            "end": "00:00:20.135"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c40b136c-a7a7-422f-97d2-5aac719e0d1f"
+          },
+          "dapAn": "What are you going to buy?",
+          "phienAm": "/wɒt ɑːr juː ˈgəʊɪŋ tuː baɪ/",
+          "yNghia": " Cậu định mua gì thế?",
+          "normal": {
+            "start": "00:00:18.264",
+            "end": "00:00:19.757"
+          },
+          "slow": {
+            "start": "00:00:24.603",
+            "end": "00:00:27.438"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "75dbe516-c642-4fce-bbe6-ff855f17bda1"
+          },
+          "dapAn": "Will you clean your house today?",
+          "phienAm": "/wɪl juː kliːn jɔːr haʊs təˈdeɪ/",
+          "yNghia": " Cậu sẽ lau nhà vào hôm nay à?",
+          "normal": {
+            "start": "00:00:28.933",
+            "end": "00:00:30.997"
+          },
+          "slow": {
+            "start": "00:00:37.102",
+            "end": "00:00:39.704"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "23f93102-9643-4c5f-a7db-9fa7e3ad65cd"
+          },
+          "dapAn": "You are so hard-working.",
+          "phienAm": "/juː ɑːr səʊ ˈhɑːdˌwɜːkɪŋ/",
+          "yNghia": " Cậu thật chăm chỉ.",
+          "normal": {
+            "start": "00:00:38.724",
+            "end": "00:00:41.095"
+          },
+          "slow": {
+            "start": "00:00:51.298",
+            "end": "00:00:53.617"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5268c670-b2d9-449d-ac1b-57feb268aabe"
+          },
+          "dapAn": "Yes, I do.",
+          "phienAm": "/jes aɪ duː/",
+          "yNghia": " Có, tớ có làm.",
+          "normal": {
+            "start": "00:00:45.265",
+            "end": "00:00:46.758"
+          },
+          "slow": {
+            "start": "00:00:59.556",
+            "end": "00:01:1.875"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "20f37649-a5bd-4e90-8971-dcd92bf86ea5"
+          },
+          "dapAn": "I usually wash the dishes and do the laundry.",
+          "phienAm": "/aɪ ˈjuːʒʊəli wɒʃ ðə ˈdɪʃɪz ænd duː ðə ˈlɔːndri/",
+          "yNghia": " Tớ thường rửa bát và giặt quần áo.",
+          "normal": {
+            "start": "00:00:51.280",
+            "end": "00:00:54.793"
+          },
+          "slow": {
+            "start": "00:01:08.492",
+            "end": "00:01:12.791"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a5c3d08d-0d7a-4fe8-8cc0-84afa4c51a57"
+          },
+          "dapAn": "My younger brother does. How about you?",
+          "phienAm": "/maɪ ˈjʌŋər ˈbrʌðər dʌz/. /haʊ əˈbaʊt juː/",
+          "yNghia": " Em trai tớ. Còn cậu thì sao?",
+          "normal": {
+            "start": "00:00:59.227",
+            "end": "00:01:02.300"
+          },
+          "slow": {
+            "start": "00:01:18.842",
+            "end": "00:01:22.519"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "79f2d09a-a38c-4db0-9175-db0a43a885b1"
+          },
+          "dapAn": "Anything else?",
+          "phienAm": "/ˈenɪθɪŋ els/",
+          "yNghia": " Còn gì nữa không?",
+          "normal": {
+            "start": "00:01:08.008",
+            "end": "00:01:08.930"
+          },
+          "slow": {
+            "start": "00:01:29.419",
+            "end": "00:01:31.059"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c01a2f8d-53bd-43c1-923e-e1f163869c19"
+          },
+          "dapAn": "That's great!",
+          "phienAm": "/ðæts greɪt/",
+          "yNghia": " Hay đó!",
+          "normal": {
+            "start": "00:01:14.415",
+            "end": "00:01:15.516"
+          },
+          "slow": {
+            "start": "00:01:36.715",
+            "end": "00:01:37.733"
+          }
+        }
+      ]
+    }
+  ]
+}

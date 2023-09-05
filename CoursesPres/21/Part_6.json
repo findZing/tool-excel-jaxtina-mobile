@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "1104a6d5-cb0c-4b72-9456-c27aee3caf30"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td>\n                        <td>Maria, <b>(1) </b>______ you home?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\n                        <td>No, I'm <b>(2) </b>_______.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td>\n                        <td>I want to <b>(3) </b>_______ you some books.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\n                        <td>Oh, you can give <b>(4) </b>_______ to my sister.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td>\r\n                        <td>Maria, <b>(1) </b><b><span style=\"color:red\">are</span> </b> you home?<br />\r\n                        <i>Maria, bạn </i><i>có <span style=\"color:red\">ở </span> nhà không?</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\r\n                        <td>No, I'm <b>(2) </b><b><span style=\"color:red\">not</span> </b>. <br />\r\n                        <i>Không, tôi </i><i><span style=\"color:red\">không</span> </i><i>.</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td>\r\n                        <td>I want to <b>(3) </b><b><span style=\"color:red\">bring</span> </b> you some books.<br />\r\n                        <i>Tôi muốn </i><i><span style=\"color:red\">mang</span> </i><i> cho bạn vài quyển sách.</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\r\n                        <td>Oh, you can give <b>(4) </b><b><span style=\"color:red\">them</span> </b> to my sister. <br />\r\n                        <i>Ồ, bạn có thể </i><i>đưa <span style=\"color:red\">chúng </span> cho chị gái tôi.</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "are",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "32e5c365-34e8-43d0-9f8c-06f70f8c9cda"
+          }
+        },
+        {
+          "dapAn": "not",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "36f105f4-98ea-40d6-832d-c883a892a8e4"
+          }
+        },
+        {
+          "dapAn": "bring",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "42ab6ea6-b51d-486f-a5df-c6255a9f594c"
+          }
+        },
+        {
+          "dapAn": "them",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2ea42e25-c7b5-4ca1-8e71-f075166cb3ef"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "190622ff-b6c6-4323-babf-712cd040374f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td>\r\n                        <td>What does Jane <b>(1) </b>_______ like?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td> \r\n                        <td>Well ... she's <b>(2) </b>_______ and heavy.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td>\r\n                        <td>Is her hair <b>(3) </b>_______?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td> \r\n                        <td>Yes, it is. And she has blue <b>(4) </b>_______.</td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td>\r\n                        <td>What does Jane <b>(1) </b><b><span style=\"color:red\">look</span> </b> like?<br />\r\n                        <i>Jane </i><i><span style=\"color:red\">trông</span> </i><i> như thế nào?</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\r\n                        <td>Well ... she's <b>(2) </b><b><span style=\"color:red\">tall </span> </b>and heavy.<br />\r\n                        <i>À ... chị ấy </i><i><span style=\"color:red\">cao </span> </i><i>và nặng.</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Ben:</b></td>\r\n                        <td>Is her hair <b>(3) </b><b><span style=\"color:red\">blond</span> </b>?<br />\r\n                        Tóc chị ấy <i><span style=\"color:red\">màu vàng</span> </i> phải không?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\r\n                        <td>Yes, it is. And she has blue <b>(4) </b><b><span style=\"color:red\">eyes</span> </b>.<br />\r\n                        <i>Đúng vậy. Và chị ấy có </i><i><span style=\"color:red\">đôi mắt </span> </i><i>màu</i><i> </i><i>xanh dương.</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "look",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "1a525922-c7e8-44c6-b603-31d783d4ee01"
+          }
+        },
+        {
+          "dapAn": "tall",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "bdb45c43-e478-48de-8b09-703a871b2f09"
+          }
+        },
+        {
+          "dapAn": "blond",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8d6701e5-8702-4623-86b1-377ac1913c43"
+          }
+        },
+        {
+          "dapAn": "eyes",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a47c1f58-5e3c-4bf8-b9c5-6371cfbd3fd9"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b861b0e4-87d2-4515-9633-f08c20a30f14"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Jack is tall and <b>(1) </b>_______. He has blond hair. His sister has <b>(2) </b>_______ hair. They <b>(3) </b>_______ have green eyes. Jack's parents are <b>(4) </b>_______ and slim.",
+      "yNghia": "Jack is tall and <b>(1) </b><b><span style=\"color:red\">slim</span> </b>. He has blond hair. His sister has <b>(2) </b><b><span style=\"color:red\">dark</span> </b> hair. They <b>(3) </b><b><span style=\"color:red\">both</span> </b> have green eyes. Jack's parents are <b>(4) </b><b><span style=\"color:red\">short</span> </b> and slim.<br />\r\n<i>Jack cao và <span style=\"color:red\">gầy</span> . Tóc anh ấy màu vàng. Chị gái của anh ấy có tóc <span style=\"color:red\">tối màu</span> . Họ <span style=\"color:red\">đều</span>  có đôi mắt màu xanh lá cây. Bố mẹ Jack <span style=\"color:red\">thấp</span>  và gầy.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "slim",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ecd9e326-6ab5-4fb9-b7c7-3a02f7e75e1e"
+          }
+        },
+        {
+          "dapAn": "dark ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f70c5c6a-3b54-4be5-87cb-794ac0a34721"
+          }
+        },
+        {
+          "dapAn": "both ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a6a91b3e-e497-41b5-ae59-24bc84d59eac"
+          }
+        },
+        {
+          "dapAn": "short",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "4158cc6e-a860-4b09-a608-407d2dd7cc4b"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9c6d49fc-6e38-4328-a2d2-0c4c9d2979dd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I have <b>(1) </b>_______, dark hair and <b>(2) </b>_______ eyes. I don't like my ears because they're <b>(3) </b>_______. My dad has small <b>(4) </b>_______ and gray hair.",
+      "yNghia": "I have <b>(1) </b><b><span style=\"color:red\">long</span> </b>, dark hair and <b>(2) </b><b><span style=\"color:red\">brown</span> </b> eyes. I don't like my ears because they're <b>(3) </b><b><span style=\"color:red\">big</span> </b>. My dad has small <b>(4) </b><b><span style=\"color:red\">ears</span> </b> and gray hair.<br />\r\n<i>Tôi có mái tóc <span style=\"color:red\">dài</span> , màu tối và đôi mắt <span style=\"color:red\">màu nâu</span> . Tôi </i><i>không thích tai của mình vì c</i><i>húng <span style=\"color:red\">to</span> . Bố tôi có <span style=\"color:red\">đôi tai </span> nhỏ và tóc màu xám.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "long",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "aefb3974-99b5-4ccc-b0a5-40f140b82ee6"
+          }
+        },
+        {
+          "dapAn": "brown",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "cd017156-20d4-4112-b30a-699a97df62a9"
+          }
+        },
+        {
+          "dapAn": "big",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "464f30a8-2f63-4a8a-89e2-39e8926fd0d9"
+          }
+        },
+        {
+          "dapAn": "ears",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "eba7521c-1a0d-46a5-b3b7-d3411907f4ca"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b15ed190-ba1f-4099-844a-05078577c55b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "This is Lily. She is <b>(1) </b>_______ and beautiful. She has a <b>(2) </b>_______ small <b>(3) </b>_______. She's brown eyes and brown <b>(4) </b>_______.",
+      "yNghia": "This is Lily. She is <b>(1)</b><b> </b><b><span style=\"color:red\">young</span> </b> and beautiful. She has a <b>(2) </b><b><span style=\"color:red\">very</span> </b> small <b>(3)</b><b> </b><b><span style=\"color:red\">nose</span> </b>. She's brown eyes and brown <b>(4) </b><b><span style=\"color:red\">hair</span> </b>.<br />\r\n<i>Đây là Lily. Cô ấy </i><i><span style=\"color:red\">trẻ</span>  và đẹp. <span style=\"color:red\">Mũi</span>  của cô ấy <span style=\"color:red\">rất</span>  nhỏ. </i><i>Cô ấy có đôi mắt màu nâu và </i><i><span style=\"color:red\">tóc</span>  </i><i>màu nâu.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "young",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6c15e801-f7a4-4e1d-9371-3a2e78c1d518"
+          }
+        },
+        {
+          "dapAn": "very",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d3d4c413-6081-4296-9867-7423c6dd45bd"
+          }
+        },
+        {
+          "dapAn": "nose",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "899a7f9b-bb38-4ec5-9eca-26fb9197d35e"
+          }
+        },
+        {
+          "dapAn": "hair",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "733bb9ec-4fb1-41b1-8d5d-5cb2f47f71ea"
+          }
+        }
+      ]
+    }
+  ]
+}

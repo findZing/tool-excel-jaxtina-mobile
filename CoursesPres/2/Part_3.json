@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "c56273d3-76e7-4b54-a541-e551cd0fcddd"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Vietnam",
+      "yNghia": "Nước Việt Nam",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c24e78e0-d788-4682-ae32-f523873edb85"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Vietnamese",
+      "yNghia": "Người Việt Nam, tiếng Việt Nam",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "deaa2973-99c2-46ba-880f-b1b672817148"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Mexico",
+      "yNghia": "Nước Mê-xi-cô",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "33690447-ce88-4397-b5e1-1d5b2399b332"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Mexican",
+      "yNghia": "Người Mê-xi-cô",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c5382236-5764-4862-a8a1-dad2b279d245"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "America",
+      "yNghia": "Nước Mỹ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5c890382-056e-4df7-85b5-5a1c896baaf5"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "American",
+      "yNghia": "Người Mỹ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "80950d66-e583-45b9-a5af-11bee68d9d65"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Canada",
+      "yNghia": "Nước Ca-na-đa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a8003605-d204-4cfb-bc0f-6ca3999e22a4"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Canadian",
+      "yNghia": "Người Ca-na-đa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2cd8774d-4be9-4e1d-8de8-b3110582f1e0"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "England",
+      "yNghia": "Nước Anh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3df44d44-2df3-4cf3-8b6f-efec55d96593"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "English",
+      "yNghia": "Người Anh, tiếng Anh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "339273e5-486d-4f38-89d6-f3b2aef856bb"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Brazil",
+      "yNghia": "Nước Bra-zin",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "fc1d119f-453b-432f-9b82-7be53299e5a2"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Brazilian",
+      "yNghia": "Người Bra-zin",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "06b862df-7715-429b-a357-7a6b4f614478"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "China",
+      "yNghia": "Nước Trung Quốc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ef38bd22-a486-48c0-bb92-488f658d9653"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Chinese",
+      "yNghia": "Người Trung Quốc, tiếng Trung Quốc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "652dba2d-25fa-49e2-9e3d-ebe468985c94"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Germany",
+      "yNghia": "Nước Đức",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "baff1aac-18c3-42f1-8626-6a020e762405"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "German",
+      "yNghia": "Người Đức, tiếng Đức",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "bb0ec94c-eb66-45fd-81cd-1072570bb051"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "France",
+      "yNghia": "Nước Pháp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c096dcf2-ca34-4626-a1b3-737b349348f1"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "French",
+      "yNghia": "Người Pháp, tiếng Pháp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "436e6c1b-9406-4239-b38e-47ce5d29c75a"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Egypt",
+      "yNghia": "Nước Ai Cập",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "57c27509-ce16-4dd0-ac72-4488a7047b93"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Egyptian",
+      "yNghia": "Người Ai Cập",
+      "danhSachDapAn": []
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "Grammar",
+  "videoUrl": "4SKILLS_PRE_S_L15/grammar.mp4",
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:00:44",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Excuse me, is the bus station near here?",
+            "_id": {
+              "$oid": "cb487bd5-7e39-440d-afe2-9e11a82e9436"
+            },
+            "yNghia": "Xin hỏi, trạm xe buýt có gần đây không?"
+          },
+          {
+            "cauHoi": "Where is the park?",
+            "_id": {
+              "$oid": "927f822a-2834-4ae0-8708-fda7d63a2f2d"
+            },
+            "yNghia": "Công viên ở đâu vậy?"
+          },
+          {
+            "cauHoi": "Take the first right.",
+            "_id": {
+              "$oid": "85fa04ea-09fd-4507-a3d3-b7371c077d42"
+            },
+            "yNghia": "Rẽ phải ở ngã rẽ đầu tiên."
+          },
+          {
+            "cauHoi": "It's next to the bookstore.",
+            "_id": {
+              "$oid": "176a2012-60e4-42e8-931f-958088367871"
+            },
+            "yNghia": "Nó nằm bên cạnh hiệu sách."
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:00:44",
+      "timeEnd": "0:06:21",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "f5e4be60-ca18-4813-a1d7-041db5518f88",
+                "dapAn": "b"
+              },
+              {
+                "_id": "74764f6c-5c61-48b0-988d-c8b06c0c5af6",
+                "dapAn": "o"
+              },
+              {
+                "_id": "dfe1c522-bb83-4bae-bebc-f26cb3b2ee46",
+                "dapAn": "o"
+              },
+              {
+                "_id": "eeab1457-1f8c-4620-8667-af7786c0553c",
+                "dapAn": "t"
+              },
+              {
+                "_id": "222d1319-571b-48c5-9611-5d256990de05",
+                "dapAn": "s"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "d86020cf-8d71-4063-bcac-f1eca753f793",
+                "dapAn": "j"
+              },
+              {
+                "_id": "ee7b2532-d4e5-4932-9bda-2b16a1a73db9",
+                "dapAn": "e"
+              },
+              {
+                "_id": "7a195db0-e2d9-4a56-ae79-d92206d7737f",
+                "dapAn": "a"
+              },
+              {
+                "_id": "c1669b80-0417-45f3-acad-86e163315e97",
+                "dapAn": "n"
+              },
+              {
+                "_id": "fddefd8c-5fb4-4bbe-8d06-8b80b37e035b",
+                "dapAn": "s"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "e63b104b-d8e0-4f8e-bd5d-cc0ecc0fd90e",
+                "dapAn": "s"
+              },
+              {
+                "_id": "5c3c60a9-5776-4399-b402-c831ff93bf72",
+                "dapAn": "k"
+              },
+              {
+                "_id": "1a9dc379-7a7d-460a-b8ef-98326db802e6",
+                "dapAn": "i"
+              },
+              {
+                "_id": "f24a17fc-5ede-4c01-9cff-c178c3ddcf61",
+                "dapAn": "r"
+              },
+              {
+                "_id": "88537bf6-45cf-4a72-8d9c-5c6b5908cc89",
+                "dapAn": "t"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "3e36ebdf-a669-4156-bcd2-57f6584e97ee",
+                "dapAn": "d"
+              },
+              {
+                "_id": "527f7f82-2bf9-4063-acf8-7e93c6ec8a5b",
+                "dapAn": "r"
+              },
+              {
+                "_id": "6bf43230-16ed-4b7a-88d1-7aae453658f9",
+                "dapAn": "e"
+              },
+              {
+                "_id": "67ae082c-cf04-4ca6-b11a-fc67c14cc1a3",
+                "dapAn": "s"
+              },
+              {
+                "_id": "b4038836-9988-4791-a5f7-be71a86507da",
+                "dapAn": "s"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "9625e114-3bd7-47b4-983e-1bcf48cb2725",
+                "dapAn": "p"
+              },
+              {
+                "_id": "e2db8f84-fea4-4c7f-a7db-f5fef7b2087e",
+                "dapAn": "a"
+              },
+              {
+                "_id": "8f804995-e235-481e-9e0f-d340c6e5e250",
+                "dapAn": "n"
+              },
+              {
+                "_id": "febcdf77-88bb-411c-98a4-c1a496810b5d",
+                "dapAn": "t"
+              },
+              {
+                "_id": "7b89905a-bdd4-44b8-bbed-fe0a52933c98",
+                "dapAn": "s"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "adff9db0-c736-464d-967b-c9e222886e48",
+                "dapAn": "s"
+              },
+              {
+                "_id": "6a30a74c-d617-454b-8298-ce6a8ec631af",
+                "dapAn": "u"
+              },
+              {
+                "_id": "dd1eba6c-b8bf-4303-a0f4-194a4520fa6e",
+                "dapAn": "i"
+              },
+              {
+                "_id": "8b46c9ba-ffce-44f5-a10f-a00b31943571",
+                "dapAn": "t"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "3d9cb1ad-b825-4f46-9b18-3e831591467e",
+                "dapAn": "j"
+              },
+              {
+                "_id": "29250f8c-45d9-4e4b-aaf5-3a3110703519",
+                "dapAn": "a"
+              },
+              {
+                "_id": "7f0dd76a-7257-4690-a572-b314df83ec70",
+                "dapAn": "c"
+              },
+              {
+                "_id": "a47f1489-5949-446d-b09d-9caa32092558",
+                "dapAn": "k"
+              },
+              {
+                "_id": "1e594194-9c55-4ed7-8391-e65f7c5cd6bc",
+                "dapAn": "e"
+              },
+              {
+                "_id": "768bc766-5fc6-4b06-a994-a80fd4f10830",
+                "dapAn": "t"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "9d96df00-ab82-480e-a93b-beb84ead844a",
+                "dapAn": "s"
+              },
+              {
+                "_id": "4ae49814-5b42-460b-a854-a9f024e4be04",
+                "dapAn": "h"
+              },
+              {
+                "_id": "1db99c85-b6e7-41c4-9451-757596373621",
+                "dapAn": "o"
+              },
+              {
+                "_id": "e7929c6e-fdc4-4677-8e57-6b5c9a833a25",
+                "dapAn": "e"
+              },
+              {
+                "_id": "544d56f6-b131-4044-816b-8da7e7a65e02",
+                "dapAn": "s"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "f2248b92-70e5-4554-b638-3fbb26bd7abb",
+                "dapAn": "T"
+              },
+              {
+                "_id": "703ab545-5955-4212-a723-34fddd0f63cf",
+                "dapAn": "-"
+              },
+              {
+                "_id": "6f1131c0-b646-4300-be23-d2bcd40e866f",
+                "dapAn": "s"
+              },
+              {
+                "_id": "82c9ecdf-15b5-40a3-9c94-e841f9d6df1a",
+                "dapAn": "h"
+              },
+              {
+                "_id": "fecec70b-6444-4abc-9cd9-78290ed53f1c",
+                "dapAn": "i"
+              },
+              {
+                "_id": "94f9e9e7-a5d5-4a94-9fc8-c9ebfee5236a",
+                "dapAn": "r"
+              },
+              {
+                "_id": "f6353166-3fc8-4e27-afe0-4f4f1e7e1d8e",
+                "dapAn": "t"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:06:21",
+      "timeEnd": "0:06:35",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P5",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "A: Those jeans by the door are very expensive. // B: Yes, but _______ jeans here are cheap.",
+            "_id": "b2422f2f-c7a4-4230-b871-89090a258cd5",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "that",
+                "_id": "11bce488-9a0f-455d-b16a-8f6c5408dd73"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "these",
+                "_id": {
+                  "$oid": "7631ae98-91df-4dfd-bf1d-9164ad96b822"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "those",
+                "_id": {
+                  "$oid": "828a3782-4ae6-40e2-97bb-aad0de511ee6"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "A: Do you like this skirt? // B: No, I like _______ skirt by the main door.",
+            "_id": "636aec92-8ccf-4374-959c-0a7abd5ed99a",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "those",
+                "_id": "0289af04-35e9-49e6-b2f3-0df78995eb33"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "that",
+                "_id": {
+                  "$oid": "b5c59ed7-5e48-42d1-a6b7-5be154431e6b"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "these",
+                "_id": {
+                  "$oid": "b1a7e761-5605-40e9-b410-69c1bec6c225"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "A: Look at that man! Look at his green shoes! // B: _______ shoes are horrible!",
+            "_id": "f6e7e252-df4a-43cf-9d6c-b67e063eb050",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "These",
+                "_id": "a2852f77-0fe4-48b0-8329-735771edf926"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "Those",
+                "_id": {
+                  "$oid": "9d24d214-ae87-47c1-add5-e04c3fafcc95"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "This",
+                "_id": {
+                  "$oid": "5ed3f927-880b-480c-9a68-53e2c8248182"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "A: Is this the suit you want? // B: No, I want _______ suit in the other store.",
+            "_id": "8bdcd840-b515-4835-adbc-ebb78bd4e29e",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "that",
+                "_id": "e1518490-a3a5-4e3a-b76a-9cb6980ab495"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "these",
+                "_id": {
+                  "$oid": "dcad432c-4545-4a5f-a7e5-cf3c87e9763a"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "this",
+                "_id": {
+                  "$oid": "c24b5653-f063-4376-abf5-2bdd19b01452"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "A: These pants are casual. // B: Maybe, _______ pants in the window are dressy.",
+            "_id": "4f2e4c96-dc5d-4550-a7d1-ca038e547e0d",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "these",
+                "_id": "bbc6273c-ccd2-437e-8a3b-5d356ccf3740"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "that",
+                "_id": {
+                  "$oid": "30737790-7417-4c4f-bf63-a4ca53d33b71"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "those",
+                "_id": {
+                  "$oid": "78e3666e-de3f-4a6b-8d0d-17a1cc7d98b3"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "A: That jacket in the window is casual. // B: What about _______ jacket here? It’s the same color as my bag! Look!",
+            "_id": "38e7c0d4-f3dc-4aa2-ad13-7c8c05e7f431",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "that",
+                "_id": "c802c929-5135-4f4a-997c-d3739bdf48b0"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "this",
+                "_id": {
+                  "$oid": "525b7280-8240-49c4-8375-bcf69a49a8a9"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "these",
+                "_id": {
+                  "$oid": "5a292a7f-b0d7-48de-960a-9b777a244cc1"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "noiDungVideo": [
+    {
+      "timeEnd": "0:00:44",
+      "noiDung": "<b><span style=\"color:red\">Imperatives <i>(Câu mệnh lệnh)</i></span></b><br />\n<b>* Các cách hỏi đường thường gặp</b>:\n<table>\n        <tbody>\n                <tr>\n                        <td colspan=\"4\"><b>Ask for Directions</b><br />\n                        <b><i>(Hỏi xin chỉ dẫn)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>Question Word</b><br />\n                        <b><i>(Từ để hỏi)</i></b></td>\n                        <td><b>Verb</b><br />\n                        <b><i>(Động từ)</i></b></td>\n                        <td><b>Object</b><br />\n                        <b><i>(Tân ngữ)</i></b></td>\n                        <td> </td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">Where</td>\n                        <td rowspan=\"2\">is / ‘s</td>\n                        <td>this park?</td>\n                        <td> </td>\n                </tr>\n                <tr>\n                        <td>the bus station</td>\n                        <td>near here?</td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<b>Function <i>(Cách dùng)</i></b><br />\nChúng ta dùng câu mệnh lệnh để đưa ra chỉ dẫn đến một địa điểm cụ thể. Dùng câu hỏi ở thì hiện tại đơn hoặc câu hỏi với động từ <i>to be</i> để hỏi xin chỉ dẫn, dùng câu với động từ <i>to be</i> để kết thúc chỉ dẫn.<br />\n<br />\n<b>Form <i>(Cấu trúc)</i></b> <br />\nCâu mệnh lệnh không sử dụng chủ ngữ mà bắt đầu bằng động từ chính.\n<table>\n        <tbody>\n                <tr>\n                        <td colspan=\"2\"><b>Give Directions</b><br />\n                        <b><i>(Đưa ra chỉ dẫn)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>Verb</b><br />\n                        <b><i>(Động từ)</i></b></td>\n                        <td><b>Directions</b><br />\n                        <b><i>(Chỉ dẫn)</i></b></td>\n                </tr>\n                <tr>\n                        <td>Go</td>\n                        <td>straight up Main Street.</td>\n                </tr>\n                <tr>\n                        <td>Take</td>\n                        <td>the first left.</td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<table>\n        <tbody>\n                <tr>\n                        <td colspan=\"3\"><b>Finish Directions</b><br />\n                        <b><i>(Kết thúc chỉ dẫn)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>Subject</b><br />\n                        <b><i>(Chủ ngữ)</i></b></td>\n                        <td><b>Verb</b><br />\n                        <b><i>(Động từ)</i></b></td>\n                        <td><b>Directions</b><br />\n                        <b><i>(Chỉ dẫn)</i></b></td>\n                </tr>\n                <tr>\n                        <td>It</td>\n                        <td rowspan=\"2\">is / ‘s</td>\n                        <td>next to the college.</td>\n                </tr>\n                <tr>\n                        <td>The hotel</td>\n                        <td>on the right.</td>\n                </tr>\n        </tbody>\n</table>"
+    },
+    {
+      "timeEnd": "0:06:21",
+      "noiDung": "<b><span style=\"color:red\">This / That / These / Those</span></b><br />\n<b>Function <i>(Cách dùng)</i></b><br />\nChúng ta sử dụng <b><i>this</i></b> <i></i>và <b><i>these</i></b> để nói về các đồ vật ở gần chúng ta, sử dụng <b><i>that</i></b> và <b><i>those</i></b> <i></i>để nói về các đồ vật ở xa chúng ta. <b><i>These</i></b> là dạng số nhiều của <b><i>this</i></b>, <b><i>those</i></b> là dạng số nhiều của <b><i>that</i></b>.<br />\n<br />\n<b>Form <i>(Cấu trúc)</i></b>\n<table align=\"center\">\n        <tbody>\n                <tr>\n                        <td> </td>\n                        <td><b>This/that</b></td>\n                        <td><b>Singular Noun</b><br />\n                        <b><i>(Danh từ số ít)</i></b></td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">I like</td>\n                        <td>this</td>\n                        <td>jacket.</td>\n                </tr>\n                <tr>\n                        <td>that</td>\n                        <td>T-shirt.</td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<table align=\"center\">\n        <tbody>\n                <tr>\n                        <td> </td>\n                        <td><b>These / those</b></td>\n                        <td><b>Plural Noun</b><br />\n                        <b><i>(Danh từ số nhiều)</i></b></td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">Do you like</td>\n                        <td>these</td>\n                        <td>boots?</td>\n                </tr>\n                <tr>\n                        <td>those</td>\n                        <td>pants?</td>\n                </tr>\n        </tbody>\n</table>"
+    },
+    {
+      "timeEnd": "0:06:35",
+      "noiDung": "<b><span style=\"color:red\">This / That / These / Those</span></b><br />\n<b>Function <i>(Cách dùng)</i></b><br />\nChúng ta sử dụng <b><i>this</i></b> <i></i>và <b><i>these</i></b> để nói về các đồ vật ở gần chúng ta, sử dụng <b><i>that</i></b> và <b><i>those</i></b> <i></i>để nói về các đồ vật ở xa chúng ta. <b><i>These</i></b> là dạng số nhiều của <b><i>this</i></b>, <b><i>those</i></b> là dạng số nhiều của <b><i>that</i></b>.<br />\n<br />\n<b>Form <i>(Cấu trúc)</i></b>\n<table align=\"center\">\n        <tbody>\n                <tr>\n                        <td> </td>\n                        <td><b>This/that</b></td>\n                        <td><b>Singular Noun</b><br />\n                        <b><i>(Danh từ số ít)</i></b></td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">I like</td>\n                        <td>this</td>\n                        <td>jacket.</td>\n                </tr>\n                <tr>\n                        <td>that</td>\n                        <td>T-shirt.</td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<table align=\"center\">\n        <tbody>\n                <tr>\n                        <td> </td>\n                        <td><b>These / those</b></td>\n                        <td><b>Plural Noun</b><br />\n                        <b><i>(Danh từ số nhiều)</i></b></td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">Do you like</td>\n                        <td>these</td>\n                        <td>boots?</td>\n                </tr>\n                <tr>\n                        <td>those</td>\n                        <td>pants?</td>\n                </tr>\n        </tbody>\n</table>"
+    }
+  ]
+}

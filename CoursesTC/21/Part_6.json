@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "78db9c8b-51ad-43dc-a25c-1528927ec57c"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "2cbf5a82-866e-4757-80e9-21d20f384bb8"
+          },
+          "cauHoi": "What will Lily and Paolo have to prepare for next week?",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. a test",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "f16a21c5-c958-47dd-ae3b-d2c589026868"
+              }
+            },
+            {
+              "dapAn": "B. a presentation",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "918c2c97-af2f-443f-8e91-a9cc89f431a0"
+              }
+            },
+            {
+              "dapAn": "C. a party",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "8c296a10-efbf-4ccc-bb2d-3603cbc22a5d"
+              }
+            },
+            {
+              "dapAn": "D. a trip",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "c830a907-4e27-481b-b703-fc08cb499afd"
+              }
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "56f348a2-a0ba-4c09-b3e9-1c16da904f16"
+          },
+          "cauHoi": "What do they need to research about?",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. T-shirt",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "67dfeaa8-06be-45ff-8f75-59fe9def6432"
+              }
+            },
+            {
+              "dapAn": "B. clothes",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "58d7a894-3206-4c14-86fb-fabc41039760"
+              }
+            },
+            {
+              "dapAn": "C. shirt",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "37a78c73-6e07-4a21-9b52-f411640ba439"
+              }
+            },
+            {
+              "dapAn": "D. trousers",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "c083687d-cb53-4e45-8ef2-f4d2e9cb8088"
+              }
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "5de9a278-e1f8-4fc9-8613-5b629fee6cb0"
+          },
+          "cauHoi": "Has Lily had any ideas for the presentation?",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. No, she hasn’t.",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "6177c6a9-c4bd-42a5-beda-a9ee1106b07d"
+              }
+            },
+            {
+              "dapAn": "B. Yes, she has.",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "fc0d02a3-1657-4ed8-a2aa-fb1dddbe1fbf"
+              }
+            },
+            {
+              "dapAn": "C. Yes, she hasn’t.",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "4af2ab1b-0b20-4063-8684-b8216d1ed070"
+              }
+            },
+            {
+              "dapAn": "D. No, she has.",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "aa862425-f0b3-4e8a-a661-d3de3d237775"
+              }
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "bb39d7a7-b98d-490e-9534-cd6e790df55b"
+          },
+          "cauHoi": "What does Paolo think about the information he found?",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. boring",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "f1020de3-aebf-4714-95fe-d7dda4454779"
+              }
+            },
+            {
+              "dapAn": "B. useful",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "b12a2368-93cd-4f94-a437-2a995835a97b"
+              }
+            },
+            {
+              "dapAn": "C. confusing",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "bd88d93d-83ff-46bd-b6a0-009c0d405481"
+              }
+            },
+            {
+              "dapAn": "D. fascinating",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "16a4288e-b7c8-480d-a0bd-509fd2b39189"
+              }
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Lily:</b></td>\r\n\t\t\t<td>Did you do any research about the presentation next week?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Paolo:</b></td>\r\n\t\t\t<td>You mean \"The life cycle of a T-shirt\"?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Lily:</b></td>\r\n\t\t\t<td>Yes, we are going to present about that topic and I have no idea.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Paolo:</b></td>\r\n\t\t\t<td>I have done some research and found some interesting information.</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What will Lily and Paolo have to prepare for next week? </b><i>(Lily và Paolo phải chuẩn bị gì cho tuần tới</i><i>?</i><i>),</i><b> </b>câu trong bài đọc liên quan là <b>Did you do any research about the presentation next week? </b><i>(Bạn đã nghiên cứu chút nào về bài thuyết trình vào tuần tới chưa?</i><i>). </i>Nên đáp án là <b><span style=\"color:red\">B. a presentation </span> </b><i>(một bài thuyết trình)</i><br />\n<b>2.</b> Với câu hỏi <b>What do they need to research about? </b><i>(Họ cần nghiên cứu về cái</i><i> </i><i>gì?),</i><b> </b>câu trong bài đọc liên quan là <b>Paolo: </b><b>You</b><b> mean \"The life cycle of a T-shirt\"</b><b>. Lily: </b><b>Yes, we are going to present about that topic and I have no idea.<i> </i></b><i>(Paolo</i><i>: </i><i>Ý bạn là \"Vòng đời của một chiếc áo phông</i><i>?</i><i>\"</i><i>. Lily: </i><i>Ừ, chúng ta sẽ trình bày về chủ đề đó và tôi chẳng có ý tưởng gì.</i><i>) </i>Nên đáp án là <b><span style=\"color:red\">A. T-shirt </span> </b><i>(Áo phông)</i><br />\n<b>3.</b> Với câu hỏi <b>Has Lily had any ideas for the presentation? </b><i>(Lily đã có ý tưởng gì cho bài thuyết trình chưa?),</i><b> </b>câu trong bài đọc liên quan là <b>Yes, we are going to present about that topic and I have no idea. </b><i>(Ừ, chúng ta sẽ trình bày về chủ đề đó và tôi chẳng có ý tưởng gì</i><i>). </i>Nên đáp án là <b><span style=\"color:red\">A. No, she hasn't </span> </b><i>(Cô</i><i> ấy chưa</i><i>)</i><br />\n<b>4.</b> Với câu hỏi <b>What does Paolo think about the information he found? </b><i>(Paolo</i><i> nghĩ sao về thông tin mà anh ấy đã tìm được?</i><i>),</i><b> </b>câu trong bài đọc liên quan là <b>I have done some research and found some interesting information. </b><i>(Tôi đã nghiên cứu một chút và tìm thấy một số thông tin thú vị.) </i>Nên đáp án là <b><span style=\"color:red\">D. fascinating </span> </b><i>(thú vị)</i><br />",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3028bbc7-b8bc-4999-b0e5-0035ed199ebb"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "11d16199-e65b-41c6-949f-703e736ba59d"
+          },
+          "cauHoi": "What’s a T-shirt made of?",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. plastic",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "ce2a1e33-3be7-46e6-bd8d-e9d98310d8f3"
+              }
+            },
+            {
+              "dapAn": "B. fabric",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "6503d8a3-6341-4c8e-a347-ca3cead908b7"
+              }
+            },
+            {
+              "dapAn": "C. cotton",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "774770f5-fd32-40bc-a914-7dbdd97c249c"
+              }
+            },
+            {
+              "dapAn": "D. polyester",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "ad7d05ed-56df-4975-a1f1-e5077ff755e3"
+              }
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "cda11fa8-eb0e-4b0e-858d-964ae32cec7b"
+          },
+          "cauHoi": "What does Paolo show to Lily that describes how they make a T-shirt?",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. a map",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "38e72208-745b-4ba4-9016-031b1d5283ab"
+              }
+            },
+            {
+              "dapAn": "B. a research",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "cfc366ac-15ee-4ea0-8ad3-ca96c48ce472"
+              }
+            },
+            {
+              "dapAn": "C. a chart",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "d804d901-4105-46a6-8e92-e25914cda1ef"
+              }
+            },
+            {
+              "dapAn": "D. a diagram",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "107996f5-a8b4-4a96-9ef0-ad12c78b4c22"
+              }
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "b3ab94e6-811e-48ff-b17e-37b59df29b31"
+          },
+          "cauHoi": "Which place do they send the cotton to after collecting it?",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. a factory",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "43e6c656-5952-481f-9c82-4910617a717e"
+              }
+            },
+            {
+              "dapAn": "B. a supermarket",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "6a337539-105d-4b09-ba16-4f2fd943ea5c"
+              }
+            },
+            {
+              "dapAn": "C. a storage",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "d0cf20ab-0491-444b-92d9-364bb67b07f9"
+              }
+            },
+            {
+              "dapAn": "D. a warehouse",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "c2df4c35-346c-459b-8030-086ebda516c7"
+              }
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "60d9a388-37ac-48bc-9a8e-1e32fdc67819"
+          },
+          "cauHoi": "What is cloth into from according to the diagram?",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. plastic",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "4a646f6e-aa35-4cf5-9320-a5758d480bfd"
+              }
+            },
+            {
+              "dapAn": "B. cotton ",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "43292ac7-9876-4e36-a6ff-c877bb41671e"
+              }
+            },
+            {
+              "dapAn": "C. polyester",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "4f9e4a9a-a617-4d28-a50e-196408843da4"
+              }
+            },
+            {
+              "dapAn": "D. yarn",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "71d824a3-8617-4a88-a833-956794a6c731"
+              }
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Paolo:</b></td>\r\n\t\t\t<td>What do you think a T-shirt is made of?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Lily:</b></td>\r\n\t\t\t<td>It is made of cotton, isn't it?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Paolo:</b></td>\r\n\t\t\t<td>Yes. Look at the diagram. It explains how a T-shirt is made.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Lily:</b></td>\r\n\t\t\t<td>OK. As I can see, the cotton is collected and sent to a factory where it is cleaned and made into yarn. </td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Paolo:</b></td>\r\n\t\t\t<td>Exactly. The yarn is made into cloth. This is used to make T-shirts. Then the T-shirts are transported<b> </b>around the world. </td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What's a T-shirt made of? </b><i>(Một</i><i> chiếc áo phông được làm từ cái gì?</i><i>),</i><b> </b>câu trong bài đọc liên quan là <b>It is made of cotton, isn't it? Yes </b><i>(Nó được làm bằng bông, phải không? Đúng thế</i><i>). </i>Nên đáp án là <b><span style=\"color:red\">C. cotton </span> </b><i>(bông)</i><br />\n<b>2.</b> Với câu hỏi <b>What does Paolo show to Lily that describes how they make a T-shirt? </b><i>(Paolo</i><i> cho Lily xem cái gì mà giải thích cách một chiếc áo phông được tạo ra?</i><i>),</i><b> </b>câu trong bài đọc liên quan <b>Look at the diagram. It explains how a T-shirt is made</b>. <i>(</i><i>Nhìn vào sơ đồ này. Nó giải thích cách một chiếc áo phông được tạo ra.</i><i>) </i>Nên đáp án là <b><span style=\"color:red\">D. a diagram </span> </b><i>(một sơ đồ)</i><br />\n<b>3.</b> Với câu hỏi <b>Which place</b> <b>do they send the cotton to after collecting it? </b><i>(Họ</i><i> gửi bông tới đâu sau khi thu gom nó</i><i>?),</i><b> </b>câu trong bài đọc liên quan là <b>As I can see, the cotton is collected and sent to a factory </b><i>(Như tôi có thể thấy, bông được thu gom và gửi đến nhà máy</i><i>). </i>Nên đáp án là <b><span style=\"color:red\">A. a factory </span> </b><i>(một nhà máy)</i><br />\n<b>4.</b> Với câu hỏi <b>What is cloth made from according to the diagram? </b><i>(Vải được làm từ gì theo như trong sơ đồ?),</i><b> </b>câu trong bài đọc liên quan là <b>The yarn is made into cloth. </b><i>(Sợi được làm thành vải.) </i>Nên đáp án là <b><span style=\"color:red\">D. yarn </span> </b><i>(sợi)</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2079340d-acce-4846-a727-a3048edc0c19"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "c2c7ea1e-a48c-42ab-b6e1-a1cb63d25e8e"
+          },
+          "cauHoi": "Who are the T-shirts sold to?",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. sellers",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "dba2f448-abf0-4b25-97d4-9581d0da699e"
+              }
+            },
+            {
+              "dapAn": "B. workers ",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "7e489d63-c365-4def-b736-2b371649c46e"
+              }
+            },
+            {
+              "dapAn": "C. fashion designers",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "5f380287-cd1b-48ec-b875-74dd4390ee8c"
+              }
+            },
+            {
+              "dapAn": "D. consumers",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "54d3625b-2e1c-4a88-991b-42f243646a24"
+              }
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "13470531-8dad-419f-91e8-c8e5476960ee"
+          },
+          "cauHoi": "What some customers do to their T-shirts after having them for a while?",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. throw it away",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "2b444676-affb-45d5-b4b9-8db40b355b31"
+              }
+            },
+            {
+              "dapAn": "B. donate it",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "6abfa68e-32ac-4cd8-b0b2-697feaee23e1"
+              }
+            },
+            {
+              "dapAn": "C. recycle it",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "2105b21f-e7c8-4aa9-9d05-bb2fc88a54ae"
+              }
+            },
+            {
+              "dapAn": "D. put it away",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "cddc30f3-ab05-497b-add8-1dd5f60fe810"
+              }
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "1ce52a66-4d5b-43e2-b010-5e6af90dc7f1"
+          },
+          "cauHoi": "What does Lily think about getting rid of the T-shirts? ",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. boring",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "5cfb8539-b897-4c4a-97fd-12bd97348052"
+              }
+            },
+            {
+              "dapAn": "B. interesting",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "69b89d1c-b0c4-4865-9c4b-d38223df8d5b"
+              }
+            },
+            {
+              "dapAn": "C. normal",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "f32d14bb-4dc8-4499-b0ab-b8dd572ef767"
+              }
+            },
+            {
+              "dapAn": "D. wasteful",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "a6655e60-ecb7-4160-a965-dcee928fece7"
+              }
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "abfad643-ab14-479f-b177-ed16a7ccbc09"
+          },
+          "cauHoi": "What does Lily suggest people do with their T-shirts to prevent wastefulness?",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. recycle them",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "177c1aea-dde2-470f-897b-d5b8433eeeb3"
+              }
+            },
+            {
+              "dapAn": "B. put them in the trash",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "60eec39b-099c-4a43-af5d-b5d8c0e9fa60"
+              }
+            },
+            {
+              "dapAn": "C. donate them",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "a31a84dd-e4b6-495a-bfa2-2f9d292ed237"
+              }
+            },
+            {
+              "dapAn": "D. throw them away",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "121cbcba-4032-4418-9412-bdd365d4b263"
+              }
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lily:</b></td>\n                        <td>You're talking about how a T-shirt ends up?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Paolo:</b></td>\n                        <td>Yes. The T-shirts are sold to consumers. They probably have one for a while. Then they may get rid of it.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lily:</b></td>\n                        <td>It's so wasteful! I think we can give some options to deal with that.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Paolo:</b></td>\n                        <td>What are they?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Lily:</b></td>\n                        <td>Instead of throwing it in the trash, you can recycle your old T-shirts.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Who are the T-shirts sold to? </b><i>(Áo phông được bán cho ai?),</i><b> </b>câu trong bài đọc liên quan là <b>The T-shirts are sold to consumers. </b><i>(Những chiếc áo phông được bán cho người tiêu dùng</i><i>). </i>Nên đáp án là <b><span style=\"color:red\">D. consumers</span> </b><b> </b><i>(người tiêu dùng)</i><br />\n<b>2.</b> Với câu hỏi <b>What some customers do to their T-shirts after having them for a while? </b><i>(Một số người tiêu dùng làm gì với áo phông của họ sau khi đã dùng</i><i> chúng </i><i>một thời gian</i><i>?</i><i>),</i><b> </b>câu trong bài đọc liên quan <b>They probably have one for a while. Then they may get rid of it. </b><i>(Họ có thể dùng nó trong một thời gian. Sau đó, họ có thể bỏ nó đi</i><i>) </i>Nên đáp án là <b><span style=\"color:red\">A. throw them</span> </b><b> </b><b><span style=\"color:red\">away </span> </b><i>(vất chúng</i><i> </i><i>đi)</i><br />\n<b>3.</b> Với câu hỏi <b>What does Lily think about getting rid of the T-shirts? </b><i>(Lily nghĩ gì về việc bỏ những chiếc áo phông đi</i><i>?</i><i>),</i><b> </b>câu trong bài đọc liên quan là <b>It's so wasteful!</b><i> (Thật lãng phí). </i>Nên đáp án là <b><span style=\"color:red\">D. wasteful </span> </b><i>(lãng phí)</i><br />\n<b>4.</b> Với câu hỏi <b>What does Lily suggest people do with their T-shirts to prevent wastefulness? </b><i>(Lily khuyên mọi người làm gì với áo phông của họ để tránh lãng phí?),</i><b> </b>câu trong bài đọc liên quan là <b>Instead of throwing it in the trash, you can recycle your old T-shirts </b><i>(Thay vì vứt vào thùng rác, bạn có thể tái chế những chiếc áo phông cũ của mình.) </i>Nên đáp án là <b><span style=\"color:red\">A. recycle them </span> </b><i>(tái chế chúng)</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b8657cdf-6c5c-4fd8-a420-8a7cb02eef03"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "4210ddd9-6b7d-49d8-a409-94657f4461e2"
+          },
+          "cauHoi": "What do people need to mix in order to make fake fur look real?",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. a few materials ",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "180ed9a4-2c59-4cbd-866c-1d7e593ab041"
+              }
+            },
+            {
+              "dapAn": "B. some chemicals",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "a5cc5360-d25d-4426-a3fa-6e16d519c2f1"
+              }
+            },
+            {
+              "dapAn": "C. one materials",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "d2498ff1-4064-428c-a25a-483578ab7f40"
+              }
+            },
+            {
+              "dapAn": "D. a lot of chemicals and materials",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "00f09cb4-89c8-4f53-a955-75567964c5f7"
+              }
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "38edf906-8027-4975-9768-d239c18fe8fc"
+          },
+          "cauHoi": "What is real fur made of?",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. cotton",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "d3e0a648-2903-4a30-908b-652baa0d8c02"
+              }
+            },
+            {
+              "dapAn": "B. polyester",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "8e1f79bb-ddad-4bbe-9c9f-ffcad5c631dc"
+              }
+            },
+            {
+              "dapAn": "C. plants",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "b5eaad4c-def6-445f-b2e3-b7336623799f"
+              }
+            },
+            {
+              "dapAn": "D. living animals",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "260e612c-306f-4804-864b-e23818ab1a3a"
+              }
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "2cae0e31-b94f-46ca-9912-e477e36c7132"
+          },
+          "cauHoi": "What do people do to animals to create real fur?",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. killing them",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "b162acbe-b45a-4247-93d2-4d6803020265"
+              }
+            },
+            {
+              "dapAn": "B. taking care of them",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "68c97957-f457-4116-b025-226781bdea15"
+              }
+            },
+            {
+              "dapAn": "C. petting them",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "92b7e6d8-d505-4ec0-97e8-c5b011d0d74e"
+              }
+            },
+            {
+              "dapAn": "D. testing on them",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "583e2c5f-6809-4475-aea2-1f3b40b79f78"
+              }
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "3819f9cb-3732-4827-b8db-a5a6660062a0"
+          },
+          "cauHoi": "What is the impact of killing animals?",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. human lifespan",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "246b29b8-68c3-448b-ab7a-95cceff382d1"
+              }
+            },
+            {
+              "dapAn": "B. natural resources",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "28500597-71e9-4d17-8227-a1c3674dd3f9"
+              }
+            },
+            {
+              "dapAn": "C. humanity",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "02d274f0-252b-4434-89e3-e16ec45b71bf"
+              }
+            },
+            {
+              "dapAn": "D. environment",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "24b915b3-9940-44b5-8421-a65246fe5c58"
+              }
+            }
+          ]
+        }
+      ],
+      "cauHoi": "To make the clothes from fake fur, people have to mix many materials and chemicals to look like real fur clothes. How about real fur? Like its name, it’s made from the real fur of living animals. To get real fur, people killed hundreds of animals. This sounds very inhumane and it affects our natural resources on the Earth.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What do people need to mix in order to make fake fur look real? </b><i>(Người ta trộn lẫn những gì để có thể làm lông thú giả trông giống thật?),</i><b> </b>câu trong bài đọc liên quan <b>To make the clothes from fake fur, people have to mix many materials and chemicals to look like real fur clothes. </b><i>(Để tạo ra những bộ đồ từ lông thú giả, con người phải kết hợp nhiều chất liệu và hoá chất). </i>Nên đáp án là <b><span style=\"color:red\">D. a lot of chemicals and materials </span> </b><i>(</i><i>hợp nhiều chất liệu và hoá chất)</i><br />\n<b>2.</b> Với câu hỏi <b>What is real fur made of? </b><i>(Lông thú thật được làm từ gì?),</i><b> </b>câu trong bài đọc liên quan <b>How about real fur? Like its name, it's made from the real fur of living animals. </b><i>(Như tên gọi của nó, nó được lấy từ lông thú của động vật sống.) </i>Nên đáp án là <b><span style=\"color:red\">D. living animals </span> </b><i>(động vật sống)</i><br />\n<b>3.</b> Với câu hỏi <b>What do people do to animals to create real fur? </b><i>(Người ta làm gì với động vật để làm ra lông thú thật?),</i><b> </b>câu trong bài đọc liên quan là <b>To get real fur, people killed hundreds of animals!</b><i> (Để lấy được lông thú thật, con người đã giết hàng trăm loài động vật.). </i>Nên đáp án là <b><span style=\"color:red\">A. killing them </span> </b><i>(giết chúng)</i><br />\n<b>4.</b> Với câu hỏi <b>What is the impact of killing animals?</b> <i>(Việc giết động vật sẽ có ảnh hưởng tới gì?),</i><b> </b>câu trong bài đọc liên quan là <b>it affects our natural resources on the Earth. </b><i>(nó ảnh hưởng đến nguồn tài nguyên thiên nhiên trên Trái Đất này.) </i>Nên đáp án là  <b><span style=\"color:red\">B. natural resources </span> </b><i>(các</i><i> </i><i>nguồn tài nguyên thiên nhiên)</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "35def74a-60a0-4706-9f2d-3c9dc454fea1"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "df668606-5328-4466-bbab-7fd82db12e65"
+          },
+          "cauHoi": "What is the main difference between the fake and real fur?",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. the process of making it",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "cb418623-9301-4b60-a784-e6967b469342"
+              }
+            },
+            {
+              "dapAn": "B. the source",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "24f60208-1e89-4e23-9235-bf601f40b335"
+              }
+            },
+            {
+              "dapAn": "C. the colour",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "ead73693-f6e9-4eb4-a61f-fa20e235cd4e"
+              }
+            },
+            {
+              "dapAn": "D. the quality ",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "0452bfb0-d67c-4ff4-a6f4-71b31e06f2ff"
+              }
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "111c93d4-c0d0-4017-bf4e-3537601d846c"
+          },
+          "cauHoi": "Which one is easier to wash, fake or real fur?",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. fake fur ",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "4abf38fc-d21a-400d-9237-0d2cc84d86eb"
+              }
+            },
+            {
+              "dapAn": "B. neither of them",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "1519f1cc-31cd-4d6d-bfdb-d387e2e11ecc"
+              }
+            },
+            {
+              "dapAn": "C. real fur ",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "1de43c72-c07b-422d-831d-aacd5cecc2c1"
+              }
+            },
+            {
+              "dapAn": "D. both of them",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "9da33eef-ebda-44d4-a563-1940d9d3c007"
+              }
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "a8283387-bf83-4c52-82b8-865d1114d865"
+          },
+          "cauHoi": "Why does the speaker suggest getting rid of clothes made from fake and real fur? ",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. to protect our health",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "eadcbf56-1e70-40db-800f-ae881219a02e"
+              }
+            },
+            {
+              "dapAn": "B. to protect animals and our health",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "a3a0521d-1659-4922-bb84-63c148e26561"
+              }
+            },
+            {
+              "dapAn": "C. to protect animals",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "f0c5007e-ccf3-4565-8e7d-0b365efc206a"
+              }
+            },
+            {
+              "dapAn": "D. to save the environment",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "ee102988-6f7e-4e2f-b5f8-9aefab4c0e52"
+              }
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "50153f87-f87b-4caf-b814-ae11b8dde691"
+          },
+          "cauHoi": "What clothes materials does the speaker suggest?",
+          "danhSachDapAn": [
+            {
+              "dapAn": "A. cotton",
+              "isCorrect": true,
+              "_id": {
+                "$oid": "967deebf-a7b6-490f-a77a-d2cc684a4cda"
+              }
+            },
+            {
+              "dapAn": "B. leather",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "9a36f879-94e7-445f-acba-b81b023049a4"
+              }
+            },
+            {
+              "dapAn": "C. wool",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "a1c44693-8ee5-4e00-bd3b-f9af22547638"
+              }
+            },
+            {
+              "dapAn": "D. fur",
+              "isCorrect": false,
+              "_id": {
+                "$oid": "386492f6-7f79-4d51-a5ea-023c942b083a"
+              }
+            }
+          ]
+        }
+      ],
+      "cauHoi": "The main difference between fake and real fur is the source. In addition, fake fur is easier to wash and cheaper for customers to own and care than real fur. However, in my opinion, we should get rid of real or fake fur clothes out of your closet to protect animals and our health. We can choose clothes made from natural materials such as cotton from cotton plants.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What is the main difference between the fake and real fur? </b><i>(Sự</i><i> khác biệt chính giữa lông thú giả và lông thú thật là gì</i><i>?),</i><b> </b>câu trong bài đọc liên quan <b>The main difference between fake and real fur is the source.</b> <i>(Sự khác biệt chủ yếu giữa lông thú thật và lông thú giả ở chỗ nguồn cung cấp.). </i>Nên đáp án là <b><span style=\"color:red\">B. the source </span> </b><i>(nguồn cung cấp)</i><br />\n<b>2.</b> Với câu hỏi <b>Which one is easier to wash, fake or real fur?</b> <i>(</i><i>Cái</i><i> nào dễ giặt hơn? lông thú giả hay lông thú thật?) </i>câu trong bài đọc liên quan <b>In addition, fake fur is easier to wash and cheaper for customers to own and care than real fur. </b><i>(</i><i>Thêm vào đó, các sản phẩm lông thú giả sẽ dễ giặt rửa hơn và ít tốn kém hơn cho các người tiêu dùng muốn sở hữu và bảo quản nó.) </i>Nên đáp án là <b><span style=\"color:red\">A. fake fur </span> </b><i>(lông thú giả)</i><br />\n<b>3.</b> Với câu hỏi <b>Why does the speaker suggest getting rid of clothes</b><b> made from </b><b>fake and real fur? </b><i>(Tại</i><i> sao người nói lại gợi ý mọi người nên bỏ quần áo làm từ lông thú giả và lông thú thật đi</i><i>?),</i><b> </b>câu trong bài đọc liên quan là <b>However, in my opinion, we should get rid of real or fake fur clothes out of your closet to protect animals and our health.</b> <i>(Tuy nhiên, theo quan điểm của tôi, chúng ta nên loại bỏ hết tất cả những bộ quần áo lông thú giả hay thật ra khỏi tủ quần áo của mình để bảo vệ động vật và sức khoẻ của chúng ta.). </i>Nên đáp án là <b><span style=\"color:red\">B. to protect animals and our health </span> </b><i>(để bảo vệ động vật và sức khoẻ chúng ta)</i><br />\n<b>4.</b> Với câu hỏi <b>What clothes materials does the speaker suggest? </b><i>(Người nói gợi ý loại chất liệu quần áo nào?) </i>câu trong bài đọc liên quan là <b>We can choose clothes made from natural materials such as cotton from cotton plants. </b><i>(Chúng ta có thể chọn quần áo làm từ chất liệu thiên nhiên như bông lấy từ cây bông) </i>Nên đáp án là <b><span style=\"color:red\">A. cotton </span> </b><i>(bông)</i>",
+      "danhSachDapAn": []
+    }
+  ]
+}

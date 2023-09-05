@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_TC_L24/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_TC_L24/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "2f7a44f1-b8c2-4c69-9bce-cfdb15d11b8f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Ryan",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1b5ccd89-6938-40ea-ba26-583380d8bf2a"
+          },
+          "dapAn": "Welcome, Angela. What lucky discovery are you going to tell us today?",
+          "phienAm": "/ˈwelkəm ˈænʤələ/. /wɒt ˈlʌki dɪsˈkʌvəri ɑːr juː ˈgəʊɪŋtuː tel ʌs təˈdeɪ/",
+          "yNghia": "\nChào mừng, Angela. Hôm nay bạn sẽ kể cho chúng tôi khám phá may mắn nào thế?",
+          "normal": {
+            "start": "00:00:00.860",
+            "end": "00:00:05.565"
+          },
+          "slow": {
+            "start": "00:00:01.955",
+            "end": "00:00:08.413"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c0a241d7-1862-4ade-95d8-99a1df9b2b55"
+          },
+          "dapAn": "I know that sound. It’s Velcro.",
+          "phienAm": "/aɪ nəʊ ðæt saʊnd/. /ɪts ˈvelkrəʊ/",
+          "yNghia": "\nTôi biết âm thanh đó. Đó là băng dính gai.",
+          "normal": {
+            "start": "00:00:11.991",
+            "end": "00:00:14.621"
+          },
+          "slow": {
+            "start": "00:00:18.571",
+            "end": "00:00:22.166"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f5b82417-4ce0-44b5-b306-6e54433b06a8"
+          },
+          "dapAn": "By a dog?",
+          "phienAm": "/baɪ eɪ dɒg/",
+          "yNghia": "\nBởi một con chó á?",
+          "normal": {
+            "start": "00:00:22.489",
+            "end": "00:00:23.627"
+          },
+          "slow": {
+            "start": "00:00:33.023",
+            "end": "00:00:34.314"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8f5360c1-68d6-4a7d-8147-62d855ee0517"
+          },
+          "dapAn": "I know the kind of plant you mean. They’re round and sticky.",
+          "phienAm": "/aɪ nəʊ ðə kaɪnd ɒv plɑːnt juː miːn/. /ðeər raʊnd ænd ˈstɪki/",
+          "yNghia": "\nTôi biết loại cây mà bạn muốn nói. Chúng tròn và dính.",
+          "normal": {
+            "start": "00:00:37.085",
+            "end": "00:00:40.778"
+          },
+          "slow": {
+            "start": "00:00:54.351",
+            "end": "00:00:59.972"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "02323350-8ba8-4d53-a468-0a9541937cc5"
+          },
+          "dapAn": "How was Velcro created from that idea?\n",
+          "phienAm": "/haʊ wɒz ˈvelkrəʊ kriːˈeɪtɪd frɒm ðæt aɪˈdɪə/",
+          "yNghia": "\nBăng dính gai được tạo ra từ ý tưởng đó như thế nào?",
+          "normal": {
+            "start": "00:00:49.581",
+            "end": "00:00:52.288"
+          },
+          "slow": {
+            "start": "00:01:10.758",
+            "end": "00:01:14.633"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d9b58456-cd8b-477f-8c53-6ff3bb471ced"
+          },
+          "dapAn": "That’s such an interesting invention.",
+          "phienAm": "/ðæts sʌʧ æn ˈɪntrɪstɪŋ ɪnˈvenʃən/",
+          "yNghia": "\nĐó là một phát minh thú vị.",
+          "normal": {
+            "start": "00:01:02.407",
+            "end": "00:01:04.835"
+          },
+          "slow": {
+            "start": "00:01:28.037",
+            "end": "00:01:31.005"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4c9441b7-0f40-4837-b510-5ac68563cf54"
+          },
+          "dapAn": "What was it used for in those days?",
+          "phienAm": "/wɒt wɒz ɪt juːzd fɔːr ɪn ðəʊz deɪz/",
+          "yNghia": "\nNó được dùng để làm gì trong những ngày đó?",
+          "normal": {
+            "start": "00:01:20.317",
+            "end": "00:01:22.366"
+          },
+          "slow": {
+            "start": "00:01:52.927",
+            "end": "00:01:55.894"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e03fb2c6-cdec-4908-89fd-dbe66402cba2"
+          },
+          "dapAn": "When did it appear on sneakers?",
+          "phienAm": "/wen dɪd ɪt əˈpɪər ɒn ˈsniːkəz/",
+          "yNghia": "\nNó đã xuất hiện trên giày thể thao vào thời điểm nào?",
+          "normal": {
+            "start": "00:01:30.334",
+            "end": "00:01:32.459"
+          },
+          "slow": {
+            "start": "00:02:06.576",
+            "end": "00:02:09.368"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "188434fb-95da-4605-8c5e-450107e4a879"
+          },
+          "dapAn": "How about its lifecycle?",
+          "phienAm": "/haʊ əˈbaʊt ɪts ˈlaɪfsaɪkəl/",
+          "yNghia": "\nThế còn vòng đời của nó thì sao?",
+          "normal": {
+            "start": "00:01:38.277",
+            "end": "00:01:40.099"
+          },
+          "slow": {
+            "start": "00:02:19.352",
+            "end": "00:02:21.586"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4e6d7279-511d-4d77-90cc-57c4a4869255"
+          },
+          "dapAn": "What surfaces can Velcro work well on?",
+          "phienAm": "/wɒt ˈsɜːfɪsɪz kæn ˈvelkrəʊ wɜːk wel ɒn/",
+          "yNghia": "\nBăng dính gai có thể hoạt động tốt trên những bề mặt nào?",
+          "normal": {
+            "start": "00:01:50.167",
+            "end": "00:01:53.126"
+          },
+          "slow": {
+            "start": "00:02:34.676",
+            "end": "00:02:38.132"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "38fec6e1-7a55-4b6d-8118-7d689b4baaa1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Angela",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "67814a8e-438f-4c4a-9ea8-0891a4865f3a"
+          },
+          "dapAn": "I’m here today to tell you about this material, Ryan.",
+          "phienAm": "/aɪm hɪər təˈdeɪ tuː tel juː əˈbaʊt ðɪs məˈtɪərɪəl ˈraɪən/",
+          "yNghia": "\nHôm nay tôi sẽ kể cho bạn về vật liệu này, Ryan.",
+          "normal": {
+            "start": "00:00:06.628",
+            "end": "00:00:11.131"
+          },
+          "slow": {
+            "start": "00:00:10.123",
+            "end": "00:00:17.140"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1b05f7f2-b6bb-4f47-9b87-fbc38217e78d"
+          },
+          "dapAn": "That’s right. Did you know that Velcro was invented by a dog?",
+          "phienAm": "/ðæts raɪt/. /dɪd juː nəʊ ðæt ˈvelkrəʊ wɒz ɪnˈventɪd baɪ eɪ dɒg/",
+          "yNghia": "\nĐúng rồi. Bạn có biết rằng băng dính gai được phát minh bởi một con chó không?",
+          "normal": {
+            "start": "00:00:16.139",
+            "end": "00:00:21.856"
+          },
+          "slow": {
+            "start": "00:00:23.214",
+            "end": "00:00:32.045"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7286c508-ab4d-4a08-a177-534aea1e6295"
+          },
+          "dapAn": "Almost. In 1941, Swiss engineer George de Mestral noticed that some plants had stuck to his dog’s fur like glue.",
+          "phienAm": "/ˈɔːlməʊst/. /ɪn ˌnaɪnˈtiːn ˈfɔːti wʌn swɪs ˌenʤɪˈnɪər ʤɔːʤ diː mestrəl ˈnəʊtɪst ðæt sʌm plɑːnts hæd stʌk tuːhɪz dɒgz fɜːr laɪk gluː/",
+          "yNghia": "\nHầu hết. Năm 1941, kỹ sư người Thụy Sĩ George de Mestral nhận thấy rằng một số cây dính vào lông con chó của ông như keo.",
+          "normal": {
+            "start": "00:00:24.942",
+            "end": "00:00:36.098"
+          },
+          "slow": {
+            "start": "00:00:35.589",
+            "end": "00:00:53.374"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a864ac1e-d806-4901-9da3-f0c837ec6e56"
+          },
+          "dapAn": "Yes. They’re called burrs. His dog and his pants were covered in burrs.",
+          "phienAm": "/jes/. /ðeər kɔːld bɜːrz/. /hɪz dɒg ænd hɪz pænts wɜːr ˈkʌvəd ɪn bɜːz/",
+          "yNghia": "\nĐúng vậy. Chúng được gọi là gai. Con chó của anh ấy và quần của anh ấy được bao phủ bởi gai.",
+          "normal": {
+            "start": "00:00:41.992",
+            "end": "00:00:48.241"
+          },
+          "slow": {
+            "start": "00:01:00.809",
+            "end": "00:01:10.130"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "12a84e83-500a-4b5a-8524-d2635427aad6"
+          },
+          "dapAn": "At the time, clothes were made with buttons and zippers. He wanted to create a new material.",
+          "phienAm": "/æt ðə taɪm kləʊðz wɜːr meɪd wɪð ˈbʌtnz ænd ˈzɪpərz/. /hiː ˈwɒntɪd tuː kriːˈeɪt eɪ njuː məˈtɪərɪəl/",
+          "yNghia": "\nVào thời điểm đó, quần áo được sản xuất với nút và khóa kéo. Ông ấy đã muốn tạo ra một vật liệu mới.",
+          "normal": {
+            "start": "00:00:53.275",
+            "end": "00:01:00.965"
+          },
+          "slow": {
+            "start": "00:01:16.064",
+            "end": "00:01:27.095"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "56edf554-a306-4fcc-bf92-e2b20c98834f"
+          },
+          "dapAn": "Yes. It wasn’t easy, and it took some time to develop a commercial product. In the early days, Velcro was made of cotton, but then it was found that nylon worked better.",
+          "phienAm": "/jes/. /ɪt wɒznt ˈiːzi ænd ɪt tʊk sʌm taɪm tuː dɪˈveləp eɪkəˈmɜːʃəl ˈprɒdʌkt/. /ɪn ði ˈɜːli deɪz, ˈvelkrəʊ wɒz meɪd ɒv ˈkɒtn bʌt ðen ɪt wɒz faʊnd ðæt ˈnaɪlən wɜːkt ˈbetər/",
+          "yNghia": "\nĐúng vậy. Điều đó thật không dễ dàng và phải mất một thời gian để phát triển một sản phẩm thương mại. Trong những ngày đầu, băng dính gai được làm bằng sợi bông, nhưng sau đó người ta thấy rằng nylon hoạt động tốt hơn.",
+          "normal": {
+            "start": "00:01:05.493",
+            "end": "00:01:18.850"
+          },
+          "slow": {
+            "start": "00:01:32.261",
+            "end": "00:01:51.740"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "98712b6e-2a7d-4e96-977c-9a2873fae210"
+          },
+          "dapAn": "It was used on clothes and bags and became popular in the 1960s.",
+          "phienAm": "/ɪt wɒz juːzd ɒn kləʊðz ænd bægz ænd bɪˈkeɪm ˈpɒpjʊlər ɪn ðiː ˌnaɪnˈtiːn ˈsɪkstis/",
+          "yNghia": "\nNó được sử dụng trên quần áo và túi xách và trở nên phổ biến vào những năm 1960.",
+          "normal": {
+            "start": "00:01:23.529",
+            "end": "00:01:29.019"
+          },
+          "slow": {
+            "start": "00:01:56.906",
+            "end": "00:02:05.214"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0857367a-f757-4f97-a9cf-ce7e32657b4d"
+          },
+          "dapAn": "It was first used on children’s sneakers in the 1980s.",
+          "phienAm": "/ɪt wɒz fɜːst juːzd ɒn ˈʧɪldrənz ˈsniːkəz ɪn ðiː ˌnaɪnˈtiːn ˈeɪtis/",
+          "yNghia": "\nNó lần đầu tiên được sử dụng trên giày thể thao của trẻ em vào những năm 1980.",
+          "normal": {
+            "start": "00:01:33.370",
+            "end": "00:01:37.316"
+          },
+          "slow": {
+            "start": "00:02:10.974",
+            "end": "00:02:17.807"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4e0adee4-627f-4e4f-8676-a8a09983aa44"
+          },
+          "dapAn": "I’m not sure about that. Nylon fasteners can open and close 10,000 times.",
+          "phienAm": "/aɪm nɒt ʃʊər əˈbaʊt ðæt/. /ˈnaɪlən ˈfɑːsnəz kæn ˈəʊpən ænd kləʊs ten ˈθaʊznd taɪmz/",
+          "yNghia": "\nTôi không chắc về điều đó. Chốt nylon có thể mở và đóng 10.000 lần.",
+          "normal": {
+            "start": "00:01:40.858",
+            "end": "00:01:48.472"
+          },
+          "slow": {
+            "start": "00:02:22.668",
+            "end": "00:02:33.420"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "841b0e47-b4bd-49de-bc27-b3d4491a9fcf"
+          },
+          "dapAn": "A lot. Some difficult surfaces are ceramic, glass or wood.",
+          "phienAm": "/eɪ lɒt/. /sʌm ˈdɪfɪkəlt ˈsɜːfɪsɪz ɑːr sɪˈræmɪk glɑːs ɔːr wʊd/",
+          "yNghia": "\nNhiều lắm. Một số bề mặt khó là gốm, thủy tinh hoặc gỗ.",
+          "normal": {
+            "start": "00:01:54.113",
+            "end": "00:02:00.285"
+          },
+          "slow": {
+            "start": "00:02:38.586",
+            "end": "00:02:47.313"
+          }
+        }
+      ]
+    }
+  ]
+}

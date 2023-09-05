@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "55c1f859-d4d2-4ccd-a115-e37331d0655a"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "cad23ff6-85b3-4011-9bb5-785610aeb68a"
+          },
+          "cauHoi": "What does David worry about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d40a9098-4a82-4419-896a-c63605f62ebc"
+              },
+              "dapAn": "A. lack of time",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bbc7262b-16af-4173-ae22-472abe708939"
+              },
+              "dapAn": "B. lack of money",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b5b9b666-0fdb-4d6e-96ab-b4a16f099279"
+              },
+              "dapAn": "C. lack of labor",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "37bf6ee0-ffbd-48a7-8fc6-6398eafe05fb"
+              },
+              "dapAn": "D. both A and B",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "6d79072d-eccd-4269-aebb-1197089a19ba"
+          },
+          "cauHoi": "When will the party take place?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "5cfac4d3-7310-4e32-ae34-9768d46a7b1a"
+              },
+              "dapAn": "A. this afternoon",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "47f11215-a761-49dc-8f29-0dab5c8a263b"
+              },
+              "dapAn": "B. 4th of July",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "621a3e09-afb9-433d-a7b6-5cdc2bd603cd"
+              },
+              "dapAn": "C. 4th of June",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3329fca9-89db-4ee3-8945-8d9bc25f0947"
+              },
+              "dapAn": "D. today",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "973bb9b5-0a83-4935-a326-8ab5dfac7a67"
+          },
+          "cauHoi": "When will Fiorella have a meeting with David?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6b5adbc0-589c-43b6-ace2-de3a853332d4"
+              },
+              "dapAn": "A. 4th June",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b652682b-282d-45a0-a8c8-d5f4e65a3789"
+              },
+              "dapAn": "B. 4th July",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "08bb14e9-89f9-43d1-a629-5e6c6ffa6ae3"
+              },
+              "dapAn": "C. 1st July",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "099ae1ed-f9f4-416e-aa14-63ce8363f6ee"
+              },
+              "dapAn": "D. this afternoon",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ecd48b60-5f36-43c8-bfb7-390eea6be844"
+          },
+          "cauHoi": "Why did Fiorella think the party will be ready?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "181f9e3f-1a0f-44be-b1a3-69544190f3b9"
+              },
+              "dapAn": "A. Because she was thinking that there are enough people.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b3bd0fcc-8105-472c-8e31-6b3ea8655504"
+              },
+              "dapAn": "B. Because she was thinking that there are enough time.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ef2a5ed1-0d44-4a94-b9d4-890fd1b947f0"
+              },
+              "dapAn": "C. Because she was thinking that there are enough money.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9b8c08b2-1b6c-4048-8925-55082b67a14c"
+              },
+              "dapAn": "D. Because she was thinking that there are enough idea.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Andy:</b></td> \n                        <td>Hi Fiorella, did you speak to David about the money for the 4th of July party? He thinks that there is not enough to buy everything we need.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Fiorella:</b></td> \n                        <td>Yes, he told me. The main problem is time. He's worried that there isn't enough time to get everything ready.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Andy:</b></td> \n                        <td>Hmm. Well, do you have enough time to have a meeting with him about it this afternoon?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Fiorella:</b></td> \n                        <td>Yes, that's a good idea. I was thinking that there are enough people here to make the preparations quickly.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Andy:</b></td> \n                        <td>That's true! We should tell him that. David is so busy – he always says that there isn't enough time to do everything.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What does David worry about?</b> <i>(David lo lắng về điều gì?),</i> <b></b>câu trong bài đọc liên quan là <b>He thinks that there is not enough to buy everything we need. He's worried that there isn't enough time to get everything ready.</b> <i>(Anh ấy nghĩ không đủ tiền để mua mọi thứ chúng ta cần. Anh ấy lo lắng rằng không có đủ thời gian để chuẩn bị mọi thứ.).</i> Đáp án đúng là <b><span style=\"color:red\">D. both A and B</span> </b><i>(cả A và B).</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>When will the party take place?</b> <i>(Khi nào bữa tiệc được tổ chức?),</i> <b></b>câu trong bài đọc liên quan là ... <b>did you speak to David about the money for the 4th of July party</b><b>?</b> <i>(... bạn đã nói chuyện với David về tiền cho bữa tiệc vào ngày 4 tháng 7 chưa?).</i> Đáp án đúng là <b><span style=\"color:red\">B.</span> </b><b><span style=\"color:red\">4th of July</span></b> <i>(ngày 4 tháng 7).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>When will Fiorella have a meeting with David?</b> <i>(Khi nào Fiorella sẽ có cuộc gặp với David?),</i> <b></b>câu trong bài đọc liên quan là <b>...</b> <b>do you have enough time to have a meeting with him about it this afternoon?</b> <i>(... bạn có đủ thời gian để họp với anh ấy chiều nay không?).</i> Đáp án đúng là <b><span style=\"color:red\">D. this afternoon</span></b> <i>(chiều nay).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>Why did Fiorella think the party will be ready?</b> <i>(Tại sao Fiorella nghĩ rằng bữa tiệc sẽ sẵn sàng?),</i> <b></b>câu trong bài đọc liên quan là <b>I was thinking that there are enough people here to make the preparations quickly</b><b><i>.</i></b> <i>(Tôi nghĩ rằng chúng ta có đủ người ở đây để chuẩn bị nhanh hơn.).</i> Đáp án đúng là <b><span style=\"color:red\">A.</span> </b><b><span style=\"color:red\">Because she was thinking that there are enough people</span></b>. <i>(</i><i>Bởi vì cô ấy nghĩ rằng chúng ta đủ người.).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "98bec7da-3847-4581-878e-dca097aefba6"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "f129c23b-7119-4071-b737-dbf7767dc656"
+          },
+          "cauHoi": "Which holiday do they mention? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f83a22df-4a55-4563-a3c9-77be358868cb"
+              },
+              "dapAn": "A. Christmas",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "41a7e00c-912c-4a9a-bb30-6df7cf9cd28f"
+              },
+              "dapAn": "B. Tet Holiday",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7b4c42e4-6c88-4dfd-82e5-8eec23dbb750"
+              },
+              "dapAn": "C. Independent day",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2da6807e-473b-4f82-8fb3-3de310849089"
+              },
+              "dapAn": "D. Labor Day",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "6c21d683-5e8e-4709-aa5e-cbd62639eacd"
+          },
+          "cauHoi": "What are they planning to do?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6bc84fcd-5679-49fd-9c79-4dcfaede8e79"
+              },
+              "dapAn": "A. hanging out with friends",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f835dbef-9ecb-45ab-b7c1-7e520daff5dc"
+              },
+              "dapAn": "B. having a picnic",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "87ca5cdd-42d4-4fca-8e1c-5a6e8fb4c4e0"
+              },
+              "dapAn": "C. going out for dinner",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "dcc80e3b-35b9-42ef-8a2a-a27c0c531af6"
+              },
+              "dapAn": "D. meeting friends",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "d78bd7f1-ce8e-44f6-a736-2ca4059b7950"
+          },
+          "cauHoi": "Who will prepare the food?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "e19d5605-a37d-4e9f-8cf6-16418af32ff8"
+              },
+              "dapAn": "A. Karen and Ceci will do.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "698d3229-36d7-4c6c-84dc-896c01926577"
+              },
+              "dapAn": "B. Each one will bring some food and drinks.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b4d7f69e-dfb0-4a42-8b8a-099edd42a7d0"
+              },
+              "dapAn": "C. They will go to the restaurant.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e6aa4dde-be04-4a5e-8156-491d4b2091b9"
+              },
+              "dapAn": "D. They will hire a cook to cook the food.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "774c3883-eea6-445e-ac88-cda4cc6518ff"
+          },
+          "cauHoi": "What will Karen bring?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "95a23b31-3e61-4ef3-8cd8-a5f927ca085f"
+              },
+              "dapAn": "A. a carton of milk",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "13e1d7e0-19bb-404a-8062-2ed75a0b45dd"
+              },
+              "dapAn": "B. a jug of apple juice",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "000d54d7-a10e-4969-b598-453710ca71c4"
+              },
+              "dapAn": "C. a jug of apple cider",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e3aad3f0-33a7-4012-a176-d759fd60a336"
+              },
+              "dapAn": "D. a can of soda",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Karen:</b></td> \n                        <td>Hey, Ceci, what should we do for Labor Day?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ceci:</b></td> \n                        <td>I think we should have a picnic.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Karen:</b></td> \n                        <td>Good idea. We can have a barbecue picnic or a party.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Karen:</b></td> \n                        <td>I think we should ask everyone to bring some food with them.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Ceci:</b></td> \n                        <td>Good idea, we can ask them to bring some drinks as well.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Karen:</b></td> \n                        <td>Yeah. I will bring a carton of juice, a jug of apple cider and a bottle of water.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Which holiday do they mention?</b> <i>(Họ đề cập đến ngày lễ nào?),</i> <b></b>câu trong bài đọc liên quan là <b>Hey, Ceci, what should we do for Labor Day?</b> <i>(Chào Ceci, chúng ta nên làm gì vào Ngày Lao Động?).</i> Đáp án đúng là <b><span style=\"color:red\">D. Labor Day</span></b> <i>(Ngày Lao Động).</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>What are they planning to do?</b> <i>(Họ đang có kế hoạch làm gì?),</i> <b></b>câu trong bài đọc liên quan là <b>I think we should have a picnic. <i></i>Good idea. We can have a barbecue picnic or a party.</b> <i>(</i><i>Tôi nghĩ chúng ta nên đi dã ngoại</i><i>.</i> <i>Ý kiến ​​hay đấy. Chúng ta có thể có một bữa tiệc nướng dã ngoại hoặc một bữa tiệc.</i><i>).</i> Đáp án đúng là <b><span style=\"color:red\">B.</span> </b><b><span style=\"color:red\">having a picnic</span></b> <b><i></i></b><i>(đi dã ngoại).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>Who will prepare the food?</b> <i>(Ai sẽ là người chuẩn bị đồ ăn?),</i> <b></b>câu trong bài đọc liên quan là <b>I think we should ask everyone to bring some food with them.</b> <i>(Tôi nghĩ chúng ta nên yêu cầu mọi người mang theo một ít thức ăn.).</i> Đáp án đúng là <b><span style=\"color:red\">B.</span> </b><b><span style=\"color:red\">Each one will bring some food and drinks.</span></b> <i>(Mỗi người mang theo một it thức ăn.).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>What will Karen bring?</b> <i>(Karen sẽ mang theo đồ gì?),</i> <b></b>câu trong bài đọc liên quan là <b>I will bring a carton of juice, a jug of apple cider and a bottle of water.</b> <i>(</i><i>Tôi sẽ mang theo một hộp nước trái cây, một bình</i> <i>nước</i> <i>táo và một chai nước</i><i>.).</i> Đáp án đúng là <b><span style=\"color:red\">C. a jug of apple cider</span></b> <i>(một bình nước táo).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ed1a20e6-a998-4935-95db-0bc750124aa6"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "6893eaf3-0f03-4e7d-be37-90c4f812ff5f"
+          },
+          "cauHoi": "Who has an interesting musical tradition?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a16c18b7-4766-44f1-8584-ad4b094d99a5"
+              },
+              "dapAn": "A. Graduates from the University of Witwatersrand",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e511a350-fbd4-40f3-b2a3-7a287b46d252"
+              },
+              "dapAn": "B. Graduates from Havard",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d4a0ede4-0cbe-4aa9-bbf6-edf79dd62199"
+              },
+              "dapAn": "C. Graduates from Oxford",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "adcebca4-37ab-4fcb-93f4-c454b376a812"
+              },
+              "dapAn": "D. Graduates from the University",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "a2eeae26-d495-49d1-ba03-ade60ac82be1"
+          },
+          "cauHoi": "What is the name of the song played in the ceremony? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "1e862553-c225-48aa-9f13-3fdb6660d423"
+              },
+              "dapAn": "A. I Got It",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bbbd8578-de8e-41fe-b5a9-401fbe1221ce"
+              },
+              "dapAn": "B. I Got You",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "4d7877cf-f7f3-48e3-9cc7-fce2dde831cd"
+              },
+              "dapAn": "C. I Know it",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "717d962b-4195-4556-a935-8c60af82cda6"
+              },
+              "dapAn": "D. I Feel Great",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "2a0037c7-97b7-44da-ab7d-b525d9ea9976"
+          },
+          "cauHoi": "What do the students do in the ceremony?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "156735dd-9854-41ee-93c7-241d863974cb"
+              },
+              "dapAn": "A. They give the speech.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "66bc54e6-34ac-4158-a29f-0afdba9f0f64"
+              },
+              "dapAn": "B. They play games.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "51fc7da6-22e0-4306-ac77-6710c5f78b3c"
+              },
+              "dapAn": "C. They sing.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d1d82947-0175-469d-b731-824dc63e4db9"
+              },
+              "dapAn": "D. They dance.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "326ff935-d1a5-4c02-a364-28b26b0376e7"
+          },
+          "cauHoi": "How does the graduation ceremony start?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "25196759-ba09-4fbf-a484-45c91cf552e8"
+              },
+              "dapAn": "A. with a procession",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4e28474e-012e-463f-94d3-f2a983131c15"
+              },
+              "dapAn": "B. with a formal procession",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "393e2f46-56db-428b-9ae9-74f4496f3535"
+              },
+              "dapAn": "C. with a casual procession",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7b43c889-0437-40df-ab66-b8eeeaa69f6c"
+              },
+              "dapAn": "D. with a musical tradition",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Graduates from the University of Witwatersrand in Johannesburg have an interesting musical tradition. The graduation ceremony there starts with a formal procession by the teachers and workers at the university. After that, they play the song “I Got You (I Feel Good)” by James Brown for the students to dance to.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Who has an</b> <b>interesting musical tradition</b><b>?</b> <i>(Ai có truyền thống âm nhạc thú vị?),</i> <b></b>câu trong bài đọc liên quan là <b>Graduates from the University of Witwatersrand in Johannesburg have an interesting musical tradition.</b> <i>(</i><i>Sinh viên tốt nghiệp Đại học Witwatersrand ở Johannesburg có truyền thống âm nhạc thú vị</i><i>.).</i> Đáp án đúng là <b><span style=\"color:red\">A.</span> </b><b><span style=\"color:red\">Graduates from the University of Witwatersrand</span></b> <i>(</i><i>Sinh viên tốt nghiệp Đại học Witwatersrand</i><i>).</i><br />\r\n<br />\r\n<b>2.</b> Với câu hỏi <b>What is the name of the song played in the ceremony?</b> <i>(Tên bài hát trong buổi lễ là gì?),</i> <b></b>câu trong bài đọc liên quan là <b>...</b> <b>they play the song \"I Got You (I Feel Good)\" by James ...</b> <i>(... họ mở bài hát \"Tôi Có Bạn (Tôi Cảm Thấy Ổn)\" sáng tác bởi James ...).</i> Đáp án đúng là <b><span style=\"color:red\">B. I Got You</span></b> <i>(Tôi Có Bạn).</i><br />\r\n<br />\r\n<b>3.</b> Với câu hỏi <b>What do the students do in the ceremony?</b> <i>(Học sinh làm gì trong buổi lễ đó?),</i> <b></b>câu trong bài đọc liên quan là <b>...</b> <b>they play the song \"I Got You (I Feel Good)\" by James Brown for the students to dance to.</b> <b></b><i>(... họ mở bài hát \"Tôi Có Bạn (Tôi Cảm Thấy Ổn) cho học sinh nhảy theo.).</i> Đáp án đúng là <b><span style=\"color:red\">D. They dance.</span></b> <i>(Họ nhảy theo.).</i><br />\r\n<br />\r\n<b>4.</b> Với câu hỏi <b>How does the graduation ceremony start?</b> <i>(Buổi lễ bắt đầu như thế nào?),</i> <b></b>câu trong bài đọc liên quan là <b>The graduation ceremony there starts with a formal procession ...</b> <i>(Buổi lễ bắt đầu với nghi lễ diễu hành trang trọng ...).</i> Đáp án đúng là <b><span style=\"color:red\">B.</span> </b><b><span style=\"color:red\">with a formal procession</span></b> <i>(với nghi lễ diễu hành trang trọng).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2b14a31c-8288-4d77-908f-524b671d2925"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "af98dbb7-21d2-4bc3-9680-5845dc38195a"
+          },
+          "cauHoi": "What kind of dumplings does the author talk about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "856359c2-0057-45fa-ad0b-25c46ee9a4c6"
+              },
+              "dapAn": "A. fried vegetarian",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "0369277f-8c35-4e27-a487-bc47135f0fbe"
+              },
+              "dapAn": "B. fried dumplings",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0923b861-8986-4357-81af-9608e14ef4d8"
+              },
+              "dapAn": "C. filled Pasta",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b02d649c-87c3-4626-b961-077dec11b696"
+              },
+              "dapAn": "D. fried meat",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "fe9038c8-625d-4cef-a684-d36e262a3c0e"
+          },
+          "cauHoi": "What are the ingredients?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b19498c4-a101-46cf-b93f-957043eb6e79"
+              },
+              "dapAn": "A. mushrooms, water chestnuts, green onions, garlic, Chinese spices, oil",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e16da9fc-b82d-4454-806d-0542933c49f4"
+              },
+              "dapAn": "B. mushrooms, water chestnuts, green onions",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0c6277dc-e076-471d-90b8-355fee50fe2d"
+              },
+              "dapAn": "C. water chestnuts, and green onions",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e0672f6d-ea05-421e-be5a-7cc7aef9506b"
+              },
+              "dapAn": "D. mushrooms, water chestnuts, green onions, garlic",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "45249c23-0352-48ee-bd55-b80af2a7f491"
+          },
+          "cauHoi": "What do we need for the outside of the dumplings?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "cf03001b-67cd-4d62-9feb-e547ad59a2ac"
+              },
+              "dapAn": "A. two packages of dumplings wrappers, oil and garlic",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b5880b42-7ecc-45d8-b1dd-eb5c560d562d"
+              },
+              "dapAn": "B. two packages of wrappers",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e40e4dab-9920-4d79-9fe0-e301b2bc64b2"
+              },
+              "dapAn": "C. a package of dumplings wrappers",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e6c7ace5-736e-4d1b-963a-dd9713083d02"
+              },
+              "dapAn": "D. two packages of dumplings wrappers",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "bf389578-fc65-4f1b-b544-e4a7bfa30ce2"
+          },
+          "cauHoi": "What is the inside ingredient mentioned?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "8fafea5b-a24a-46be-8ccb-ffa040126217"
+              },
+              "dapAn": "A. mushrooms",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "8e04b780-042d-4f48-9ebe-1d8bdd041ad2"
+              },
+              "dapAn": "B. cheese",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "33b32e63-5eb2-4847-840f-a16a95a34515"
+              },
+              "dapAn": "C. candies",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "89144c2c-43ae-4e56-8e68-3682399b003e"
+              },
+              "dapAn": "D. oil",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "I’m going to show you how to make fried vegetarian dumplings with mushrooms, water chestnuts, and green onions. So for the outside of the dumplings, you will need two packages of dumplings wrappers. Next, you need the ingredients for the inside: one can of water chestnuts, one bag of green onions, two boxes of mushrooms, and two teaspoons of Chinese spices. You also need garlic and a small bottle of oil for frying. ",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What kind of dumplings does the author talk about?</b> <i>(Tác giả nói về loại bánh bao nào vậy?),</i> <b></b>câu trong bài đọc liên quan là <b>I'm going to show you how to make fried vegetarian dumplings ...</b> <i>(Tôi sẽ chỉ cho các bạn cách làm bánh bao chay chiên ...).</i> Đáp án đúng là <b><span style=\"color:red\">A.</span> </b><b><span style=\"color:red\">fried vegetarian</span></b> <i>(chay chiên).</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>What are the ingredients?</b> <i>(Những nguyên liệu là gì?),</i> <b></b>câu trong bài đọc liên quan là <b></b>cả bài đọc vì câu hỏi hỏi về nguyên liệu được nhắc đến trong bài học. Đáp án đúng là <b><span style=\"color:red\">A.</span> </b><b><span style=\"color:red\">mushrooms, water chestnuts, green onions, garlic, Chinese spices, oil</span></b> <i></i><i>(nấm, nước hạt dẻ, hành xanh, tỏi, gia vị Trung Quốc, dầu ăn).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>What do we need for the outside of the dumplings?</b> <i>(Chúng ta cần gì cho vỏ bánh bao?),</i> <b></b>câu trong bài đọc liên quan là <b>So for the outside of the dumplings, you will need two packages of dumplings wrappers.</b> <i>(</i><i>Vì vậy, đối với phần</i> <i>vỏ</i> <i>của bánh bao, bạn sẽ cần hai gói</i> <i>vỏ gói</i> <i>bánh bao.</i><i>)</i>. Đáp án đúng là <b><span style=\"color:red\">D.</span> </b><b><span style=\"color:red\">two packages of dumplings wrappers</span></b> <b><i></i></b><i>(</i><i>hai gói</i> <i>vỏ gói</i> <i>bánh bao</i><i>).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>What is the inside ingredient mentioned</b>? <b></b><i>(Những nguyên liệu để làm nhân bánh được đề cập đến là gì?),</i> <b></b>câu trong bài đọc liên quan <b>Next, you need the ingredients for the inside: one can of water chestnuts, one bag of green onions, two boxes of mushrooms, and two teaspoons of Chinese spices.</b>  <i>(</i><i>Tiếp theo, bạn cần các nguyên liệu cho phần nhân bên trong: một hộp hạt dẻ nước, một túi hành lá, hai hộp nấm và hai thìa cà phê gia vị Trung Quốc.</i><i>).</i> Đáp án đúng là <b><span style=\"color:red\">A. mushrooms</span> </b><i>(n</i><i>ấm</i><i>).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4e533242-b935-4190-91d1-575c0700eb67"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "a03ab5b1-1a7f-4a05-80b1-423cd5bbd3f4"
+          },
+          "cauHoi": "What is the purpose of the article?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "3a344f7c-df8d-474f-b637-fdb572723f60"
+              },
+              "dapAn": "A. ways to earn money",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e03f7e07-4df6-46e8-828c-8925fd96b387"
+              },
+              "dapAn": "B. ways to spend money appropriately",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "51e8857b-7e25-41ad-8b84-a6cd81493dc5"
+              },
+              "dapAn": "C. ways to make money",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f5013b85-4d39-47ad-8e0e-e5f3176d9ba6"
+              },
+              "dapAn": "D. ways to save money",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "62b44169-72ba-4d4d-8507-f4de4aa02bb5"
+          },
+          "cauHoi": "What are the ways to make money?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7bfe1c67-0813-427d-aeb2-2c11e4fd1f81"
+              },
+              "dapAn": "A. buy sale items",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7b5ece82-8ce6-4794-86e2-38d82a9fa19b"
+              },
+              "dapAn": "B. borrow money from a friend",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b6baa5a3-1b56-4bac-83cf-0e64c1370bbd"
+              },
+              "dapAn": "C. make gifts yourself",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b1d49b43-10a3-4de9-b5fb-6827a978ad7d"
+              },
+              "dapAn": "D. both A and C",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "78d83583-9c22-455f-9eb6-d0339f810cda"
+          },
+          "cauHoi": "Which month in which the author thinks that there will be sales is it?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "72da2046-1f7a-411c-838b-4c0a93e8eee6"
+              },
+              "dapAn": "A. middle of the year",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7e0ae38c-913a-442f-bb7e-5e9d147a0801"
+              },
+              "dapAn": "B. first month of the year",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3a9b03af-26bd-493e-adbd-0db71a7898da"
+              },
+              "dapAn": "C. Christmas",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "83c6127b-a8bd-4483-99ca-7c1566d8d6b2"
+              },
+              "dapAn": "D. last month of the year",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "e66c4cf4-452d-479d-8688-25acfeb0e7be"
+          },
+          "cauHoi": "What is the author’s advice?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "12e67253-ecbb-4086-8739-993904e3dae1"
+              },
+              "dapAn": "A. make gifts yourself",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "593c633f-7fba-4207-9538-e3b4828dbf30"
+              },
+              "dapAn": "B. buy expensive gifts",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1d2d74c5-d705-43bd-abf0-6b96eb304578"
+              },
+              "dapAn": "C. buy expensive items",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bff371ff-9eb2-43db-80f0-22545f257472"
+              },
+              "dapAn": "D. buy cards",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Are you looking for extra ways to make money? Instead of borrowing money from a friend or member of your family, here are a few simple ideas to help:<br />\n- Don't waste money on expensive gifts when, with a little imagination, you can make your own.<br />\n- Many stores have sales in January. It's easy to find things at good prices at this time of year. Buy the items you need to make your cards and gifts.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What is the purpose of the article?</b> <i>(</i><i>Mục đích của bài đọc là gì</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>Are you looking for extra ways to</b> <b>make money</b><b>?</b> <i>(</i><i>Bạn có đang tìm các cách khác để kiếm tiền không?</i><i>).</i> Đáp án đúng là <b><span style=\"color:red\">C. ways to make money</span></b> <i>(các</i> <i>cách kiếm tiền</i><i>).</i><br />\n<br />\n<b>2.</b> Với câu hỏi <b>What are the ways to make money</b>? <b></b><i>(</i><i>Các cách khác để kiếm tiền là gì</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>Don't</b> <b>waste</b> <b>money on expensive gifts when, with a little imagination, you can make your own. Many stores have sales in January. It's easy to find things at good prices at this time of year. Buy the items you need to make your cards and gifts.</b> <i>(</i><i>Đừng lãng phí tiền vào các món quà đắt tiền, bạn có thể tự làm. Rất nhiều cửa hàng đang giảm giá vào tháng một. Thật dễ dàng để tìm được những vật dụng tốt với giá cả hợp lý ở thời điểm này trong năm. Hãy mua những nguyên liệu bạn cần để làm thiệp và quà</i><i>).</i> Đáp án đúng là <b><span style=\"color:red\">D. both A and C</span></b> <i>(cả đáp án A và</i> <i>C</i><i>).</i><br />\n<br />\n<b>3.</b> Với câu hỏi <b>Which month in which the author thinks that there will be sales is it?</b> <i>(</i><i>Tháng nào mà tác giả nghĩ sẽ có giảm giá</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>Many stores have sales in January.</b> <i>(</i><i>Rất nhiều cửa hàng đang giảm giá vào tháng một</i><i>.).</i> Đáp án đúng là <b><span style=\"color:red\">B. first month of the year</span></b> <i>(</i><i>tháng đầu tiên trong năm</i><i>).</i><br />\n<br />\n<b>4.</b> Với câu hỏi <b>What is the author's advice?</b> <i>(</i><i>Lời khuyên của tác giả là gì?),</i> <b></b>câu trong bài đọc liên quan là <b>Don't</b> <b>waste money on expensive gifts when, with a little imagination, you can make your own.</b> <i>(</i><i>Đừng lãng phí tiền vào các món quà đắt tiền, bạn có thể tự làm.).</i> Đáp án đúng là <b><span style=\"color:red\">A. make gifts yourself</span></b> <i>(</i><i>tự làm quà tặng).</i>",
+      "danhSachDapAn": []
+    }
+  ]
+}

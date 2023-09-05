@@ -1,0 +1,333 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "Grammar",
+  "videoUrl": "4SKILLS_PRE_S_L2/grammar.mp4",
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:00:44",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P5",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "I ______ Nam.",
+            "_id": "5e792705-a9a5-454c-8fa8-391e81bdd7aa",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "am not",
+                "_id": "8283f296-06e9-499b-9ddf-b13cc0dfe756"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "isn’t",
+                "_id": {
+                  "$oid": "3d0d4aa6-493f-4672-9192-3a56f7fa432f"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "aren’t",
+                "_id": {
+                  "$oid": "a38c6b0f-c47a-40a6-b142-1a7bfda97614"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "How ______ you?",
+            "_id": "90ec5b7b-6fa2-4391-b887-178ca19f089f",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "is",
+                "_id": "014eb83b-cd8e-4824-995c-0ecc82262a6b"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "am",
+                "_id": {
+                  "$oid": "7aca3d46-d448-4b30-9fd3-783b9ee3bd38"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "are",
+                "_id": {
+                  "$oid": "680209e9-e4c4-4a80-98e4-0fe3795224c3"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "She ______ from Mexico. She is from Brazil.",
+            "_id": "13f81f7d-7b0b-4431-a473-f3dcf5283158",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "aren’t",
+                "_id": "c3b16897-2b29-4622-9291-62d7d6215292"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "isn’t",
+                "_id": {
+                  "$oid": "88457524-9dca-478c-b41c-367fe6af2ac5"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "am not",
+                "_id": {
+                  "$oid": "6b8fcb15-4fef-4fb7-9f5e-3dbc9a96af1a"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "Our second language ______ English.",
+            "_id": "1766b472-283e-4d28-ba0a-4dfd0e9794c0",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "is",
+                "_id": "251a7914-a7e4-47cb-9e73-51a8b3359cde"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "are",
+                "_id": {
+                  "$oid": "0358e1ba-ba9b-4508-9767-378c6a173b5e"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "am",
+                "_id": {
+                  "$oid": "143e50bf-a113-47b8-9921-eda5df087bc3"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "They ______ my friends.",
+            "_id": "01f31f1f-5740-4509-998e-053ee61925e8",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "isn’t",
+                "_id": "b3ead578-69aa-40b7-8693-1f8a61aa4cca"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "aren’t",
+                "_id": {
+                  "$oid": "d7c907da-4244-4eb3-9fbd-f73ea4a0182e"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "am not",
+                "_id": {
+                  "$oid": "4d71185e-53d7-4892-910a-e5c9764df435"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:00:44",
+      "timeEnd": "0:07:27",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P7",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Are you at home? - Yes, I _____ <b><span style=\"color:blue\">(be)</span></b>.",
+            "_id": {
+              "$oid": "21f4aff1-f6e8-4a06-a328-2c259f86c7dc"
+            },
+            "yNghia": "am"
+          },
+          {
+            "cauHoi": "_____ <b><span style=\"color:blue\">(Be)</span></b> we late? - No, we aren't.",
+            "_id": {
+              "$oid": "2964cfda-e61c-4e1e-9c8d-b5bee6fd0968"
+            },
+            "yNghia": "Are"
+          },
+          {
+            "cauHoi": "_____ <b><span style=\"color:blue\">(Be)</span></b> Emma your friend? - No, she isn't.",
+            "_id": {
+              "$oid": "e02a2882-9a2e-40b7-9fac-a85c69fa194b"
+            },
+            "yNghia": "Is"
+          },
+          {
+            "cauHoi": "Are Sue and Ellen students? - Yes, they _____<b><span style=\"color:blue\"> (be)</span></b>.",
+            "_id": {
+              "$oid": "85fe64ee-caf7-488b-945d-8cf7ee658799"
+            },
+            "yNghia": "are"
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:07:27",
+      "timeEnd": "0:11:37",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P5",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "I’m Michael. You’re Samira. // __________ name is Michael. Your name is Samira.",
+            "_id": "e051a782-e7ad-4836-b628-cad86e54df57",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "My",
+                "_id": "e97b2f74-61ca-4c18-aa56-8c35c333146f"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "His",
+                "_id": {
+                  "$oid": "f787c550-3019-4a92-85f9-bb73b4729716"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "Her",
+                "_id": {
+                  "$oid": "80d95165-c84c-4d6f-b2db-9bf7049d8c2f"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "He’s Jean-Pierre. // __________ name is Jean-Pierre.",
+            "_id": "0d80e3fd-acc3-4561-a6c2-c50ed172644f",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "My",
+                "_id": "7f3b328a-0424-4fc0-9caa-ee22651cca47"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "His",
+                "_id": {
+                  "$oid": "f7bb0056-efb6-4ce0-ac64-e35930382fce"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "Her",
+                "_id": {
+                  "$oid": "1aa5ccd0-33eb-490d-995d-fc971706e667"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "She’s Kate. // __________ name is Kate.",
+            "_id": "a4bbedfc-ad91-4458-b297-261730f3eef6",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "My",
+                "_id": "b79735f3-b7a1-4962-b08f-406bf9cff2d6"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "His",
+                "_id": {
+                  "$oid": "8e242e91-ee1f-40aa-8653-5908be04da27"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "Her",
+                "_id": {
+                  "$oid": "45bf24fd-6332-417f-ad87-4da88db86a6c"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "We’re David and Debbie Donnerlly. // __________ surname is Donnerlly.",
+            "_id": "1c5172d0-a03b-42bb-8fc1-7967daab378e",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "My",
+                "_id": "a0105fdd-146b-4f88-b96a-a202b7992587"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "Our",
+                "_id": {
+                  "$oid": "21d86833-9f87-4b49-8c8d-afce945652c2"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "Her",
+                "_id": {
+                  "$oid": "ec473a61-e53d-4cb0-b766-5420fea47aab"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "They’re Joshua and Heather Wilson. // __________ surname is Wilson.",
+            "_id": "c5ab9977-31a5-43d9-aa68-d0d40b44da95",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "Their",
+                "_id": "72c005b5-bad0-4f3a-803b-9dabb286ab73"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "Our",
+                "_id": {
+                  "$oid": "4656882c-1ce2-46ab-984f-58ab6420c746"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "My",
+                "_id": {
+                  "$oid": "4d64fb78-ced7-4f5c-bd26-762b6bb2f380"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "noiDungVideo": [
+    {
+      "timeEnd": "0:00:44",
+      "noiDung": "<b><span style=\"color:red\">Subject pronouns and <i>be</i> statements</span></b><br />\n<b><i><span style=\"color:red\">(Đại từ nhân xưng và cách sử dụng của động từ to be)</span></i></b><br />\n<b>Function <i>(Cách dùng)</i></b><br />\nĐại từ nhân xưng thường đứng ở vị trí chủ ngữ trong câu. Chúng ta dùng đại từ nhân xưng cùng với động từ <i>to be</i> để đưa ra thông tin cơ bản về bản thân.<br />\n<br />\n<b>Form <i>(Cấu trúc)</i></b> \n<table align=\"center\">\n        <tbody>\n                <tr>\n                        <td><b>Subject Pronouns</b><br />\n                        <b><i>(Chủ ngữ)</i></b></td>\n                        <td><b><i>To be</i></b> <b>Affirmative <i></i></b><br />\n                         <b><i>(Khẳng định)</i></b></td>\n                        <td><b><i>To be</i></b> <b>Negative <i></i></b><br />\n                        <b><i>(Phủ định)</i></b></td>\n                </tr>\n                <tr>\n                        <td>I</td>\n                        <td>am / ‘m</td>\n                        <td>am not / ‘m not</td>\n                </tr>\n                <tr>\n                        <td>You</td>\n                        <td>are / ‘re</td>\n                        <td>are not / aren't</td>\n                </tr>\n                <tr>\n                        <td>He / She / It</td>\n                        <td>is / ‘s</td>\n                        <td>is not / isn't</td>\n                </tr>\n                <tr>\n                        <td>We / They</td>\n                        <td>are</td>\n                        <td>are not / aren't</td>\n                </tr>\n        </tbody>\n</table>"
+    },
+    {
+      "timeEnd": "0:07:27",
+      "noiDung": "<b>Function <i>(Cách dùng)</i></b><br />\nChúng ta sử dụng câu hỏi <b><i>Yes / No</i></b> để hỏi các câu đơn giản và nhận được câu trả lời <b><i>Yes / No</i></b> ngắn gọn.<br />\n<br />\n<b>Form <i>(Cấu trúc)</i></b>\n<table>\n        <tbody>\n                <tr>\n                        <td colspan=\"3\"><b>Question <i>(Câu hỏi)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b><i>To be</i></b></td>\n                        <td><b>Pronoun</b><br />\n                        <b><i>(Đại từ nhân xưng)</i></b></td>\n                        <td><b>Object</b><br />\n                        <b><i>(Tân ngữ)</i></b></td>\n                </tr>\n                <tr>\n                        <td>Am</td>\n                        <td>I</td>\n                        <td>your classmate?</td>\n                </tr>\n                <tr>\n                        <td rowspan=\"3\">Is</td>\n                        <td>she</td>\n                        <td>your mother?</td>\n                </tr>\n                <tr>\n                        <td>he</td>\n                        <td>your brother?</td>\n                </tr>\n                <tr>\n                        <td>it</td>\n                        <td>your pen?</td>\n                </tr>\n                <tr>\n                        <td rowspan=\"3\">Are</td>\n                        <td>we</td>\n                        <td rowspan=\"2\">your friends?</td>\n                </tr>\n                <tr>\n                        <td>they</td>\n                </tr>\n                <tr>\n                        <td>you</td>\n                        <td>his grandparents?</td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<table>\n        <tbody>\n                <tr>\n                        <td colspan=\"3\"><b>Answer <i>(Câu trả lời)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b><i>Yes / No</i></b></td>\n                        <td><b>Pronoun</b><br />\n                        <b><i>(Đại từ nhân xưng)</i></b></td>\n                        <td><b><i>To be</i></b></td>\n                </tr>\n                <tr>\n                        <td>Yes,</td>\n                        <td rowspan=\"2\">I</td>\n                        <td>am.</td>\n                </tr>\n                <tr>\n                        <td>No,</td>\n                        <td>am not/ ‘m not.</td>\n                </tr>\n                <tr>\n                        <td>Yes,</td>\n                        <td>she</td>\n                        <td>is.</td>\n                </tr>\n                <tr>\n                        <td>No,</td>\n                        <td>he</td>\n                        <td>is not / isn't.</td>\n                </tr>\n                <tr>\n                        <td>No,</td>\n                        <td>it</td>\n                        <td>is not / isn't.</td>\n                </tr>\n                <tr>\n                        <td>Yes,</td>\n                        <td>we</td>\n                        <td>are.</td>\n                </tr>\n                <tr>\n                        <td>No,</td>\n                        <td>they</td>\n                        <td>are not / aren't.</td>\n                </tr>\n                <tr>\n                        <td>Yes,</td>\n                        <td rowspan=\"2\">you</td>\n                        <td>are.</td>\n                </tr>\n                <tr>\n                        <td>No,</td>\n                        <td>are not / aren't.</td>\n                </tr>\n        </tbody>\n</table>"
+    },
+    {
+      "timeEnd": "0:11:37",
+      "noiDung": "<span style=\"color:red\"><b>Possessive adjectives <i>(Tính từ sở hữu)</i></b></span><br />\r\n<b>Function <i>(Cách dùng)</i></b><br />\r\nTính từ sở hữu được dùng trước danh từ để chỉ danh từ đó thuộc về người hoặc vật nào. (Ví dụ: <i>My name</i> - Tên tôi, <i>My book</i> – cuốn sách của tôi) hoặc ai đó (Ví dụ: <i>My teacher</i> – thầy / cô giáo của tôi).<br />\r\n<br />\r\n<b>Form <i>(Cấu trúc)</i></b>\r\n\r\n<table align=\"center\">\r\n        <tbody>\r\n                <tr>\r\n                        <td><b>Subjective Pronouns</b><br />\r\n                        <b><i>(Đại từ chủ ngữ)</i></b></td>\r\n                        <td><b>Possessive Adjectives</b><br />\r\n                        <b><i>(Tính từ sở hữu)</i></b></td>\r\n                </tr>\r\n                <tr>\r\n                        <td>I</td>\r\n                        <td>My</td>\r\n                </tr>\r\n                <tr>\r\n                        <td>We</td>\r\n                        <td>Our</td>\r\n                </tr>\r\n                <tr>\r\n                        <td>You</td>\r\n                        <td>Your</td>\r\n                </tr>\r\n                <tr>\r\n                        <td>They</td>\r\n                        <td>Their</td>\r\n                </tr>\r\n                <tr>\r\n                        <td>He</td>\r\n                        <td>His</td>\r\n                </tr>\r\n                <tr>\r\n                        <td>She</td>\r\n                        <td>Her</td>\r\n                </tr>\r\n                <tr>\r\n                        <td>It</td>\r\n                        <td>Its</td>\r\n                </tr>\r\n        </tbody>\r\n</table>"
+    }
+  ]
+}

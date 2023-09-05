@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "29388640-d723-49b3-9ed3-cffc5cd5359e"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "9e50a0ff-5426-49f7-90bb-26510ac11378"
+          },
+          "cauHoi": "What activity did Allie recommend to Ellen?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "93229c85-7fe9-4b88-8c32-026f2a822fa2"
+              },
+              "dapAn": "A. bungee jumping\nB. scuba diving",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "0d91f1fa-143e-4929-b48b-97bcc0b7b867"
+              },
+              "dapAn": "B. scuba diving",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1700306d-842f-45d4-8434-c38e9ff54a09"
+              },
+              "dapAn": "C. snorkelling\nD. waterskiing",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1e9ed15a-afc5-4b7a-a434-4d4095796505"
+              },
+              "dapAn": "D. waterskiing",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ac70ea4d-dc40-4c85-847b-0d2386f5f826"
+          },
+          "cauHoi": "Why has Ellen never tried bungee jumping?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d78b2fdf-279b-4dda-ab8d-a9b6eafbd1ee"
+              },
+              "dapAn": "A. Because she’s high.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d2766575-0d31-4431-8111-81234325b8e4"
+              },
+              "dapAn": "B. Because she’s afraid of heights.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "fb42b1b6-10ba-42a8-a17f-356d97ff6088"
+              },
+              "dapAn": "C. Because it’s boring.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "dab07970-c190-4f02-8239-cf85084599d0"
+              },
+              "dapAn": "D. Because it’s a waste of money.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "5a923f3c-1076-4198-bcfa-300ccecf160e"
+          },
+          "cauHoi": "Has Allie tried bungee jumping before?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "0d3b32e0-4e17-4091-9daf-fb3a81a8c7ee"
+              },
+              "dapAn": "A. No, she hasn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c1da725a-ecdc-4641-9d6e-a4336cead8e5"
+              },
+              "dapAn": "B. Yes, she have.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7eaa6700-49a0-446f-9c0c-952e6cbfec34"
+              },
+              "dapAn": "C. Yes, she has.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "00b6f094-c8b3-433a-bbcd-111d23385eb7"
+              },
+              "dapAn": "D. Not mentioned.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "e27493d1-3b40-40ca-8369-b60ef078c2e9"
+          },
+          "cauHoi": "Where did Allie do that?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "4b6a3277-4bdd-4506-bf21-3f8ed4bbc2ce"
+              },
+              "dapAn": "A. South America",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c55161fb-9f4c-451b-8a3f-1034618c1a63"
+              },
+              "dapAn": "B. Switzerland",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "eb599dd9-35f6-4250-b88c-c4eaa2fcdf52"
+              },
+              "dapAn": "C. Witwatersrand",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "c4dc7756-342c-46f3-ba13-f86cce8f9c46"
+              },
+              "dapAn": "D. Northland",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Allie:</b></td>\r\n\t\t\t<td>Hey Ellen, what are you doing? </td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Ellen:</b></td>\r\n\t\t\t<td>I am writing my bucket list.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Allie:</b></td>\r\n\t\t\t<td>That sounds fun! Could I give you a few suggestions?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Ellen:</b></td>\r\n\t\t\t<td>Okay! That may be helpful for me.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Allie:</b></td>\r\n\t\t\t<td>Have you ever tried bungee jumping? It is fantastic.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Ellen:</b></td>\r\n\t\t\t<td>No, I haven't. I'd love to but I'm afraid of heights. Have you done it before?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Allie:</b></td>\r\n\t\t\t<td>Yes, I have. It was an unforgettable experience. </td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Ellen:</b></td>\r\n\t\t\t<td>Where did you do that? Was it in Switzerland? </td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Allie:</b></td>\r\n\t\t\t<td>No, it was in Witwatersrand – a beautiful mountain in South Africa.</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What activity did</b> <b>Allie</b> <b>recommend to</b> <b>Ellen</b><b>?</b> <i>(Allie đã giới thiệu hoạt động nào cho Ellen?),</i> <b></b>câu trong bài đọc liên quan là <b>Have you ever tried bungee jumping? It is fantastic.</b> <i>(Bạn đã bao giờ thử nhảy bungee chưa? Nhảy bungee thật tuyệt vời.).</i> Nên đáp áp là <b><span style=\"color:red\">A. bungee jumping</span> </b><i>(nhảy bungee)</i>.<br />\n<br />\n<b>2.</b> Với câu hỏi <b>Why has</b> <b>Ellen</b> <b>never tried bungee jumping?</b> <i>(Tại sao Ellen chưa bao giờ thử nhảy bungee?),</i> <b></b>câu trong bài đọc liên quan là <b>No, I haven't. I'd love to but I'm afraid of heights.</b> <i>(</i><i>Không, tôi chưa từng nhảy bungee. Tôi rất thích nhưng tôi sợ độ cao.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">B. Because she's afraid of heights.</span> </b><i>(Bởi vì cô ấy sợ độ cao.)</i>.<br />\n<br />\n<b>3.</b> Với câu hỏi <b>Has</b> <b>Allie</b> <b>tried bungee jumping before?</b> <i>(Allie đã từng thử nhảy bungee chưa?),</i> <b></b>câu trong bài đọc liên quan là <b>Yes, I have. It was an unforgettable experience.</b> <i>(</i><i>Ừ, tôi đã từng nhảy. Đó là một trải nghiệm khó quên.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">C. Yes, she has.</span> </b><i>(Có.)</i>.<br />\n<br />\n<b>4.</b> Với câu hỏi <b>Where did</b> <b>Allie</b> <b>do that?</b> <b></b><i>(Allie đã thực hiện việc đó ở đâu?),</i> <b></b>câu trong bài đọc liên quan là <b>No, it was in Witwatersrand – a beautiful mountain in South Africa.</b> <i>(</i><i>Không, ở Witwatersrand - một ngọn núi xinh đẹp ở Nam Phi.</i><i>).</i> Nên đáp áp là <b><span style=\"color:red\">C. Witwatersrand</span> </b><i>(Witwatersrand)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "96b7013f-baf6-48af-9608-370832254aaa"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "601a5644-6356-49f8-b318-8191bd95e39e"
+          },
+          "cauHoi": "What is Kentucky famous for?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b5e37c78-04d8-4ec7-aeb8-2d3f87a6f827"
+              },
+              "dapAn": "A. snorkelling",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "58c78286-81ef-4b85-9328-7f97d15c2deb"
+              },
+              "dapAn": "B. scuba diving",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e6d006e0-da02-4b4a-a861-182d3e301c84"
+              },
+              "dapAn": "C. waterskiing",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "73e8bb2e-d694-4094-b15c-1724a48e116e"
+              },
+              "dapAn": "D. snow skiing",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "cf26a5e4-ca05-491c-96ed-6402260712bb"
+          },
+          "cauHoi": "What can you try in Kentucky?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "fdcece90-742d-490a-8988-40af0139b36d"
+              },
+              "dapAn": "A. waterskiing",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7e8f2e13-aaff-4a0c-87ac-2cfa686b59e5"
+              },
+              "dapAn": "B. horse racing",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e439d79b-df2e-4080-9940-4444f0d29b9a"
+              },
+              "dapAn": "C. A&B",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "01ceab79-a251-4c5a-98b2-5d8960d8c3de"
+              },
+              "dapAn": "D. None of them",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "695b5fdd-d335-4780-a204-31ede025c26d"
+          },
+          "cauHoi": "Is visiting Kentucky interested to Ellen?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "85b327f3-c530-41e1-95fd-5475774d9399"
+              },
+              "dapAn": "A. Yes, it is.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "46a7095f-1b95-4fb8-a711-aaadb12ae557"
+              },
+              "dapAn": "B. No, it isn’t,",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e9b9c218-8772-4445-b1b5-b96dc770c101"
+              },
+              "dapAn": "C. Yes, she does.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e956217c-a8e3-4aad-b702-af0184b9664a"
+              },
+              "dapAn": "D. Not mentioned.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "8f711401-90e9-4f33-a05b-a600441f03a5"
+          },
+          "cauHoi": "Did Ellen have a bucket list?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9f1d67e1-fbac-498d-8064-ea367df23a38"
+              },
+              "dapAn": "A. No, she didn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ece6f06b-460e-4c59-bb3c-93d706ee992a"
+              },
+              "dapAn": "B. Yes, she did.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "bd619cdc-9d41-41cb-a33e-5cb63586929b"
+              },
+              "dapAn": "C. No, she has never written one before.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ad09fd74-f416-46e5-b08a-7298714fe04c"
+              },
+              "dapAn": "D. Not mentioned.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table> <tbody> <tr> <td style=\"vertical-align: top;\"><b>Allie:</b></td> <td>Have you ever been to Kentucky? It is famous for waterskiing.</td> </tr> <tr> <td style=\"vertical-align: top;\"><b>Ellen:</b></td> <td>No, but I've heard that there are many green spaces too.</td> </tr> <tr> <td style=\"vertical-align: top;\"><b>Allie:</b></td> <td>Yeah! You can also try horse racing.</td> </tr> <tr> <td style=\"vertical-align: top;\"><b>Ellen:</b></td> <td>Oh, that could be great. I will add \"visit Kentucky\" to my bucket list. Do you have a bucket list?</td> </tr> <tr> <td style=\"vertical-align: top;\"><b>Allie:</b></td> <td>I have never written one before. However, I will try writing mine soon.</td> </tr> </tbody> </table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What is Kentucky famous for?</b> <i>(Kentucky nổi tiếng về cái gì?),</i> <b></b>câu trong bài đọc liên quan là <b>It is famous for waterskiing.</b> <i>(Nó nổi tiếng với lướt ván trên nước.).</i> Nên đáp áp là <span style=\"color:red\"><b>C. waterskiing</b></span> <i>(lướt ván trên nước)</i>.<br />\r\n<b>2.</b> Với câu hỏi <b>What can you try in Kentucky?</b> <i>(Bạn có thể thử làm gì ở Kentucky?),</i> <b></b>câu trong bài đọc liên quan là <b>It is famous for waterskiing.</b> <i></i>& <b><i></i></b><b>You can also try horse racing.</b> <i>(Nó nổi tiếng với lướt ván trên nước. & Bạn cũng có thể thử đua ngựa.).</i> Nên đáp áp là <span style=\"color:red\"><b>C. A&B</b></span>.<br />\r\n<b>3.</b> Với câu hỏi <b>Is visiting Kentucky interested to</b> <b>Ellen?</b> <i>(Ellen có thích đến thăm Kentucky không?),</i> <b></b>câu trong bài đọc liên quan là <b>Oh, that could be great. I will add \"visit Kentucky\" to my bucket list.</b> <i>(Ồ, có thể nó tuyệt vời đấy. Tôi sẽ thêm \"ghé thăm Kentucky\" vào danh sách những việc muốn làm trong đời của mình.).</i> Nên đáp áp là <span style=\"color:red\"><b>A. Yes, it is.</b></span> <i>(Có.)</i>.<br />\r\n<b>4.</b> Với câu hỏi <b>Did Ellen have a bucket list?</b> <i>(Ellen có danh sách cần làm trong đời không?),</i> <b></b>câu trong bài đọc liên quan là <b>I will add \"visit Kentucky\" to my bucket list.</b> <i>(Tôi sẽ thêm \"ghé thăm Kentucky\" vào danh sách những việc muốn làm trong đời của mình.).</i> Nên đáp áp là <span style=\"color:red\"><b>B. Yes, she did.</b></span> <i>(Có.)</i>.",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "35088aa9-9c83-4c22-83b7-64d787ca5681"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "c38ec003-976f-4cc4-9738-024b3510fd14"
+          },
+          "cauHoi": "Did they have many vehicles in the past?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "5c995f36-a488-4272-8eda-d510aed88d39"
+              },
+              "dapAn": "A. Yes, they had.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8198b816-ee1c-4b2b-8c3f-b928f085be07"
+              },
+              "dapAn": "B. Yes, they did.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9c38eadd-fc5e-4b0b-a874-1a76ea1556da"
+              },
+              "dapAn": "C. No, they didn’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "feab7dea-b865-4024-9c79-10cb979e4ec1"
+              },
+              "dapAn": "D. No, they haven’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "8231306f-44a6-477b-8a4e-aa97bbc96f9e"
+          },
+          "cauHoi": "In the past, did people mostly travel by cars?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "feb9c4a1-32f6-48a7-a029-a1f659f15a77"
+              },
+              "dapAn": "A. Yes, they mostly travelled by bicycles.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2c755f49-7de0-4bfb-8bf9-584f1cceb19d"
+              },
+              "dapAn": "B. Yes, they did.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "dbe3d09f-d74e-410d-a358-6882f791d773"
+              },
+              "dapAn": "C. No, they mostly travelled by bicycles.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "da679b1f-4d62-4d31-b4e6-8c52b539009e"
+              },
+              "dapAn": "D. No, they didn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "14974790-cc44-4c69-ae1d-b1ae4bddb4e8"
+          },
+          "cauHoi": "Is a motorcycle a comfortable vehicle?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7a849962-457c-4144-b70d-81dc6c989bfd"
+              },
+              "dapAn": "A. Yes, it was.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a4639b99-f2e1-4244-a648-00c9280f1bb7"
+              },
+              "dapAn": "B. Yes, it is.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "7b2f3d39-4d94-4036-af62-10840748b5d6"
+              },
+              "dapAn": "C. No, it isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a43f7be8-501f-4042-b61b-c863308380e5"
+              },
+              "dapAn": "D. No, it wasn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "0250c3cd-e2a4-4eeb-b8d9-9522c1a7f824"
+          },
+          "cauHoi": "What is the other improvement?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "a3c0b28f-6329-4ab0-8ff3-3e309f85ce5c"
+              },
+              "dapAn": "A. better education",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "c8e8fce1-f6c5-4287-953b-fb1128303c01"
+              },
+              "dapAn": "B. better bike lane",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9074708f-f775-41db-8e85-61fb0f1f7839"
+              },
+              "dapAn": "C. better hospital",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "25fe9a32-7a34-4faf-aba5-5130e58fae0e"
+              },
+              "dapAn": "D. better shopping mall",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "We didn’t have many vehicles in the past, so people mostly rode bicycles, but now we have more comfortable vehicles like motorcycles, cars, and buses. Moreover, the other improvement is better education.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Did they have many vehicles in the past?</b> <i>(Trước đây họ có nhiều phương tiện không?),</i> <b></b>câu trong bài đọc liên quan là <b>We didn't have many vehicles in the past, so people mostly rode bicycles, but now we have more comfortable vehicles like motorcycles, cars, and buses.</b> <i>(Trước đây chúng tôi không có nhiều phương tiện, vì vậy mọi người chủ yếu đi xe đạp, nhưng bây giờ chúng tôi có nhiều phương tiện thoải mái hơn như xe máy, ô tô, và xe buýt.).</i> Nên đáp áp là <b><span style=\"color:red\">C. No, they didn't.</span> </b><i>(Không.)</i>.<br /> <br /> <b>2.</b> Với câu hỏi <b>In the past, did people mostly travel by cars?</b> <i>(Trước đây, có phải mọi người chủ yếu di chuyển bằng ô tô?),</i> <b></b>câu trong bài đọc liên quan là <b>We didn't have many vehicles in the past, so people mostly rode bicycles, but now we have more comfortable vehicles like motorcycles, cars, and buses.</b> <i>(Trước đây chúng tôi không có nhiều phương tiện, vì vậy mọi người chủ yếu đi xe đạp, nhưng bây giờ chúng tôi có nhiều phương tiện thoải mái hơn như xe máy, ô tô, và xe buýt.).</i> Nên đáp áp là <b><span style=\"color:red\">C. No, they mostly travelled by bicycles.</span> </b><i>(Không, họ chủ yếu di chuyển bằng xe đạp.)</i>.<br /> <br /> <b>3.</b> Với câu hỏi <b>Is a motorcycle a comfortable vehicle?</b> <i>(Xe máy có phải là phương tiện thoải mái không?),</i> <b></b>câu trong bài đọc liên quan là <b>We didn't have many vehicles in the past, so people mostly rode bicycles, but now we have more comfortable vehicles like motorcycles, cars, and buses.</b> <i>(Trước đây chúng tôi không có nhiều phương tiện, vì vậy mọi người chủ yếu đi xe đạp, nhưng bây giờ chúng tôi có nhiều phương tiện thoải mái hơn như xe máy, ô tô, và xe buýt.).</i> Nên đáp áp là <b><span style=\"color:red\">B. Yes, it is.</span> </b><i>(Có.)</i>.<br /> <br /> <b>4.</b> Với câu hỏi <b>What is the other improvement?</b> <i>(Cải tiến khác là gì?),</i> <b></b>câu trong bài đọc liên quan là <b>Moreover, the other improvement is better education.</b> <i>(Thêm nữa, một cải tiến khác là nền giáo dục tốt hơn.).</i> Nên đáp áp là <b><span style=\"color:red\">A. better education</span> </b><i>(nền giáo dục tốt hơn)</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3165e9dd-e785-4262-bfb5-9850592de4d9"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "81974919-4753-4157-99b5-b0360e3e10af"
+          },
+          "cauHoi": "Is repairing many streets a good change?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "82cf2ce5-5c68-4d1f-aafd-483f0fb237ec"
+              },
+              "dapAn": "A. Yes, it is.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "916af37a-16e6-4f31-8f4a-8c2a25c4c1a6"
+              },
+              "dapAn": "B. No, it is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "014c8790-879b-4325-bba6-174dc718f7dc"
+              },
+              "dapAn": "C. Yes, it isn’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d315898a-1d51-4047-9eff-9c56e2c52c10"
+              },
+              "dapAn": "D. No, it isn’t.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "d3bae755-ea24-479f-9201-00bd568d94a7"
+          },
+          "cauHoi": "What have been built in the city?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b720fd4b-3f78-4785-a15f-479d34f8241c"
+              },
+              "dapAn": "A. new bridges",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7b76e92f-145e-4381-a910-78053b884743"
+              },
+              "dapAn": "B. a new school",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9b2cd95c-4853-4c9f-9daf-9983d37b4ce9"
+              },
+              "dapAn": "C. a new playground",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1d253b63-ac46-4fac-b7a6-38dc2c765ccf"
+              },
+              "dapAn": "D. A&B&C",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "2daf3b0e-b987-41cd-b5ab-a4aca1ea4276"
+          },
+          "cauHoi": "Will they build a new hospital in the near future?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "86966616-378d-42fd-be35-ee3181360214"
+              },
+              "dapAn": "A. Yes, they will.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2c0ab0df-c03b-487d-b1e0-5a8b0e0a14a9"
+              },
+              "dapAn": "B. Not mentioned.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "8c1efc5e-6598-4a7f-bc89-db7b3a4955ae"
+              },
+              "dapAn": "C. No, they won’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "be438bb4-6f7d-4412-a7d9-1f15fe26d721"
+              },
+              "dapAn": "D. No, they will.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "d0662bba-d2c3-4c77-aeff-182f18902040"
+          },
+          "cauHoi": "How long has a new school been built?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "5c6118f1-f098-4485-a51e-e1f47fdd5090"
+              },
+              "dapAn": "A. for 7 months",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "cea2f4c5-45c8-4210-a0ee-288e543cdade"
+              },
+              "dapAn": "B. for 2 months",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "55cdbba2-3ef4-4187-8133-2cb31dc58b07"
+              },
+              "dapAn": "C. for 6 months",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "e5b2ce67-2631-49af-9e91-6673b788c3b5"
+              },
+              "dapAn": "D. for 3 months",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Some of the changes of our city have been good. The city government has repaired many streets, and they’ve built new bridges. They’ve also built a new school and a new playground for six months.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>Is repairing many streets a good change?</b> <i>(Sửa nhiều tuyến phố có phải là thay đổi tốt không?),</i> <b></b>câu trong bài đọc liên quan là <b>Some of the changes of our city have been good. The city government has repaired many streets, and they've built new bridges.</b> <i>(Một số thay đổi của thành phố chúng ta là tốt. Chính quyền thành phố đã sửa chữa nhiều đường phố và họ đã xây dựng những cây cầu mới.).</i> Nên đáp áp là <b><span style=\"color:red\">A. Yes, it is.</span> </b><i>(Có.)</i>.<br /> <br /> <b>2.</b> Với câu hỏi <b>What have been built in the city?</b> <i>(Những gì đã được xây dựng trong thành phố?),</i> <b></b>câu trong bài đọc liên quan là <b>Some of the changes of our city have been good. The city government has repaired many streets, and they've built new bridges. They've also built a new school and a new playground for six months.</b> <i>(Một số thay đổi của thành phố chúng ta là tốt. Chính quyền thành phố đã sửa chữa nhiều đường phố và họ đã xây dựng những cây cầu mới. Họ cũng đã xây dựng một ngôi trường mới và một sân chơi mới sáu tháng trước.).</i> Nên đáp áp là <b><span style=\"color:red\">D. A&B&C</span></b>.<br /> <br /> <b>3.</b> Với câu hỏi <b>Will they build a new hospital in the near future?</b> <i>(Có phải họ sẽ xây dựng một bệnh viện mới trong tương lai gần?),</i> <b></b>không có câu nào trong bài đọc liên quan đến câu hỏi này<i>.</i> Nên đáp áp là <b><span style=\"color:red\">B. Not mentioned.</span> </b><i>(Không được nhắc đến.)</i>.<br /> <br /> <b>4.</b> Với câu hỏi <b>How long has a new school been built?</b> <i>(Ngôi trường mới được xây dựng bao lâu rồi?),</i> <b></b>câu trong bài đọc liên quan là <b>They've also built a new school and a new playground for six months.</b> <i>(Họ cũng đã xây dựng một ngôi trường mới và một sân chơi mới sáu tháng trước.).</i> Nên đáp áp là <b><span style=\"color:red\">C. for 6 months</span> </b><i>(6 tháng trước).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7bd5cb46-732f-483c-a31d-d89e591e2646"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "e5271503-cf4b-492a-b80b-dfa4247bdbb6"
+          },
+          "cauHoi": "What have been built after destroying some parks?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7a2e57a7-84d4-42a8-969d-89092dd6cbad"
+              },
+              "dapAn": "A. shopping mall",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e777dbf5-10df-4e4e-ad0f-da44e54b81bb"
+              },
+              "dapAn": "B. high-rise buildings",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "4098a92a-49ba-4f65-abce-ea74a7be10ed"
+              },
+              "dapAn": "C. condominium",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ee30a140-d25e-4185-a328-d9fb26dc3302"
+              },
+              "dapAn": "D. playground",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "829d9aba-73d5-40f7-8b78-0618982d68a4"
+          },
+          "cauHoi": "Why is the traffic terrible in several neighborhoods?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "db434842-0f3d-4c93-8619-526591d5456f"
+              },
+              "dapAn": "A. Because they’ve built large condominiums.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f5e6f4b1-cdbf-46d2-8a21-5a0668ac0c51"
+              },
+              "dapAn": "B. Because they’ve built large playgrounds.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "864273fb-3600-4912-9df4-9f75d3d45ede"
+              },
+              "dapAn": "C. Because they’ve destroyed several parks.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d40b4004-936f-4cdd-8bcf-eda5aa76b2eb"
+              },
+              "dapAn": "D. Because they’ve built a large hospital.",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "c60f7adc-e060-463b-bf51-c948c90bcdea"
+          },
+          "cauHoi": "What has been banned in the city center?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "948240da-ea40-4fcd-9e9e-9ce33339a4bc"
+              },
+              "dapAn": "A. food trucks",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "9fbeb9c4-de1a-47cf-bf8e-ccf6869dbe44"
+              },
+              "dapAn": "B. trucks",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9644b6df-cde9-4ebc-9d3b-b73e17c60af0"
+              },
+              "dapAn": "C. cars",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3e64bbc4-5fa1-49dc-8d3d-d8d4443f0e2e"
+              },
+              "dapAn": "D. bikes",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "003c6d12-cfbc-473a-b6ab-93c96a4ed024"
+          },
+          "cauHoi": "Is building large condominiums in several neighborhoods a good change?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "908af2ab-77a0-4ae5-9c45-697fa880fd7f"
+              },
+              "dapAn": "A. No, it is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "36fb36b2-55b5-4c20-bcc9-ef9993a25d1e"
+              },
+              "dapAn": "B. Yes, it is.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "78d8bfd4-64e7-437a-a0bf-3cd8c27fa69c"
+              },
+              "dapAn": "C. No, it isn’t.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "95efd70c-83a8-426c-afcc-5e1c3306b0e5"
+              },
+              "dapAn": "D. Not mentioned.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "They’ve destroyed several parks and have built high-rise buildings there. They’ve built large condominiums in several neighborhoods, and now the traffic is terrible in those areas. Finally, they’ve banned food trucks in the city center…",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What have been built after destroying some parks?</b> <i>(Những gì đã được xây dựng sau khi phá hủy một số công viên?),</i> <b></b>câu trong bài đọc liên quan là <b>They've destroyed several parks and have built high-rise buildings there.</b> <i>(Họ đã phá hủy một số công viên và xây dựng các tòa nhà cao tầng ở đó.).</i> Nên đáp áp là <b><span style=\"color:red\">B. high-rise buildings</span> </b><i>(nhà cao tầng)</i>.<br /> <br /> <b>2.</b> Với câu hỏi <b>Why is the traffic terrible in several neighborhoods?</b> <i>(Tại sao giao thông rất tệ ở một số khu vực lân cận?),</i> <b></b>câu trong bài đọc liên quan là <b>They've built large condominiums in several neighborhoods, and now the traffic is terrible in those areas.</b> <i>(Họ đã xây dựng những chung cư lớn ở một số khu vực lân cận, và hiện tại giao thông ở những khu vực đó rất tệ.).</i> Nên đáp áp là <b><span style=\"color:red\">A. Because they've built large condominiums.</span> </b><i>(Bởi vì họ đã xây dựng những chung cư lớn.)</i>.<br /> <br /> <b>3.</b> Với câu hỏi <b>What has been banned in the city center?</b> <i>(Điều gì đã bị cấm ở trung tâm thành phố?),</i> <b></b>câu trong bài đọc liên quan là <b>Finally, they've banned food trucks in the city center...</b> <i>(Cuối cùng, họ đã cấm xe bán đồ ăn lưu động ở trung tâm thành phố...).</i> Nên đáp áp là <b><span style=\"color:red\">A. food trucks</span> </b><i>(xe bán đồ ăn lưu động)</i>.<br /> <br /> <b>4.</b> Với câu hỏi <b>Is building large condominiums in several neighborhoods a good change?</b> <i>(Xây dựng chung cư lớn ở một số khu phố có phải là một thay đổi tốt không?),</i> <b></b>câu trong bài đọc liên quan là <b>They've built large condominiums in several neighborhoods, and now the traffic is terrible in those areas.</b> <i>(Họ đã xây dựng những chung cư lớn ở một số khu vực lân cận, và hiện tại giao thông ở những khu vực đó rất tệ.).</i> Nên đáp áp là <b><span style=\"color:red\">C. No, it isn't.</span> </b><i>(Không.)</i>.",
+      "danhSachDapAn": []
+    }
+  ]
+}

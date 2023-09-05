@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "9a0d3aff-e357-4bcc-9fdf-25ed8d0cc07c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Jayden’s a psychologist who studies _________________________, which we will discuss on tonight’s podcast.",
+      "yNghia": "Jayden's a psychologist who studies <span style=\"color:red\">nonverbal communication</span>, which we will discuss on tonight's podcast.<br />\n<i>Jayden là một nhà tâm lý học nghiên cứu về <span style=\"color:red\">giao tiếp phi ngôn ngữ</span>, thứ mà chúng ta sẽ thảo luận trong buổi thu âm tối nay.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2218cae3-8bfa-43ca-8f1e-6f0603be5471"
+          },
+          "dapAn": "instruments",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e4fb680c-96e9-41f8-8a8f-6985033c89b7"
+          },
+          "dapAn": "nonverbal communication",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "135dbf96-dcaf-4349-a4b5-71a586251793"
+          },
+          "dapAn": "many languages",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_1. Jayden ... podcast.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_1. Jayden ... podcast.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "95095a33-e26e-4c58-9f3f-51c18a2eb795"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We know that communication skills are _______________. What can you tell us about communication?",
+      "yNghia": "We know that communication skills are <span style=\"color:red\">very important</span>. What can you tell us about communication?<br />\n<i>Chúng ta biết rằng kỹ năng giao tiếp là <span style=\"color:red\">rất quan trọng</span>. Bạn có thể cho chúng tôi biết điều gì về giao tiếp vậy?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9e7a8a2a-5b65-419b-b7af-ad1415bcb941"
+          },
+          "dapAn": "very normal",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6f86a17e-4997-45a2-857e-31d2f743fdce"
+          },
+          "dapAn": "special",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1190c13e-e393-4c9e-859d-ed5e791f6a13"
+          },
+          "dapAn": "very important",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_2. We ... communication.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_2. We ... communication.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "cff99104-a2ba-43ee-a31c-87715a645ed1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I guess one of them is the ______________ we use.",
+      "yNghia": "I guess one of them is the <span style=\"color:red\">actual words </span>we use.<br />\n<i>Tôi đoán một trong số đó là <span style=\"color:red\">những từ ngữ thực tế </span>mà chúng ta sử dụng.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "495ac1fa-466e-43d6-a098-c2834486fbec"
+          },
+          "dapAn": "actual words",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6b19cbe4-5ba7-41ef-b791-b44f6e58e953"
+          },
+          "dapAn": "idioms",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a0778ed1-d3f8-438f-ae66-acd26593b34f"
+          },
+          "dapAn": "verbs",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_3. I ... use.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_3. I ... use.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3ecbd7fd-28b1-49ce-bf4d-90450b95640d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That’s right. Researchers believe that words are ______________ of what we communicate.",
+      "yNghia": "That's right. Researchers believe that words are <span style=\"color:red\">only 7% </span>of what we communicate.<br />\n<i>Đúng vậy. Các nhà nghiên cứu tin rằng lời nói </i><i><span style=\"color:red\">chỉ </span></i><i>chiếm </i><i><span style=\"color:red\">7% </span></i><i>những gì chúng ta giao tiếp. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d3419b97-7342-4efa-916c-ad82cc291d28"
+          },
+          "dapAn": "only 7%",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1f4b9cda-cfff-465b-a832-db292c093e84"
+          },
+          "dapAn": "above 7%",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "40b29a6d-c8d8-4678-b7b4-7e770daa4a5b"
+          },
+          "dapAn": "below 7%",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_4. That ... communicate.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_4. That ... communicate.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3925d9cc-61f0-4d99-9087-9b04bf869ad0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Is that all? That’s amazing. What is ________________ about?",
+      "yNghia": "Is that all? That's amazing. What is <span style=\"color:red\">the second part </span>about?<br />\n<i>Đó là tất cả phải không? Thật ngạc nhiên. <span style=\"color:red\">Phần thứ hai </span>nói về cái gì vậy?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3c3ec0b5-e772-45d3-b2fe-2dd86fb1aeb7"
+          },
+          "dapAn": "the second part",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3a901c85-da6d-4592-a0b6-e57312f5b0d3"
+          },
+          "dapAn": "the first part",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e07a5dbd-033c-49d0-b09f-1fff7489dcfd"
+          },
+          "dapAn": "the final part",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_5. Is ... about.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_5. Is ... about.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "bea48dd7-b500-456d-809b-ba8074a228f4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It is the way we speak including tone of voice, ______________, volume, things like that.",
+      "yNghia": "It is the way we speak including tone of voice, <span style=\"color:red\">speed</span>, volume, things like that.<br />\n<i>Đó là cách chúng ta nói bao gồm cả giọng điệu, <span style=\"color:red\">tốc độ</span>, âm lượng, và những thứ tương tự như vậy.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d378716f-0334-4988-b01c-590b1330038c"
+          },
+          "dapAn": "speed",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "956c7cc4-0a48-4180-952a-015d04423e42"
+          },
+          "dapAn": "mouth shape",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4f3cfc6a-e720-45fb-a330-81f3e4d9bbaa"
+          },
+          "dapAn": "length",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_6. It ... that.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_6. It ... that.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d63d0e93-fb9a-482b-97f3-6ecc4f94477a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "This is not the biggest part. That’s ______________ of what we communicate.",
+      "yNghia": "This is not the biggest part. That's <span style=\"color:red\">around 38% </span>of what we communicate.<br />\n<i>Đây không phải là phần lớn nhất. Đó là <span style=\"color:red\">khoảng 38% </span>những gì chúng ta giao tiếp.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9150dd9d-4da4-4b93-bc78-67dc0aa8dc6f"
+          },
+          "dapAn": "above 38%",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "537ae833-d46c-4328-921e-ebcb04eb8e9c"
+          },
+          "dapAn": "around 38 %",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "90d00892-9922-4ea7-9210-4e3a33f0dcbe"
+          },
+          "dapAn": "less than 38%",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_7. This ... communicate.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_7. This ... communicate.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2484f3bc-9a05-48d9-bc39-67c124e3aa35"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes, the rest, around 55%, is about body language, ______________ and facial expressions.",
+      "yNghia": "Yes, the rest, around 55%, is about body language, <span style=\"color:red\">gestures </span>and facial expressions. <br />\n<i>Đúng vậy, phần còn lại, khoảng 55%, là về ngôn ngữ cơ thể,<span style=\"color:red\"> cử chỉ </span>và nét mặt.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "519e1bd2-931f-41e8-b7c6-956380803eba"
+          },
+          "dapAn": "gestures",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9c19e499-2ed9-4601-a17c-6c3b64e57c33"
+          },
+          "dapAn": "poses",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6ad29428-4691-45d7-8b56-490cc66bac1d"
+          },
+          "dapAn": "actions",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_8. Yes ... expression.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_8. Yes ... expression.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "883d48ea-93d8-4da4-b31c-a0e69fe4ef2e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’m surprised that words occupy ______________ body language.",
+      "yNghia": "I'm surprised that words occupy <span style=\"color:red\">much less than </span>body language.<br />\n<i>Tôi ngạc nhiên rằng lời nói chiếm <span style=\"color:red\">ít hơn nhiều so với </span>ngôn ngữ cơ thể.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3e83a1f8-b140-4c66-a241-98f8a57646d1"
+          },
+          "dapAn": "much less than",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "02d7c70b-600a-4111-bdc6-8a77e94067b5"
+          },
+          "dapAn": "much more than",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "124f4dc8-9fdd-4bb0-bc6a-b73a9ec85918"
+          },
+          "dapAn": "as much as",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_9. I_m ... language.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_9. I_m ... language.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3d3d8f77-f953-4ee7-80eb-f538bd327609"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Many people feel like you. That’s why they make ___________________ during a conversation.",
+      "yNghia": "Many people feel like you. That's why they make <span style=\"color:red\">many mistakes </span>during a conversation.<br />\n<i>Nhiều người cũng cảm thấy giống như bạn vậy. Đó là lý do tại sao họ mắc <span style=\"color:red\">nhiều lỗi </span>trong một cuộc trò chuyện.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c5b2f27b-fe91-4ebd-b47b-f190f478a041"
+          },
+          "dapAn": "many mistakes",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0f2adf2d-343c-4fd8-bf0a-3c1eddef848c"
+          },
+          "dapAn": "many mispronunciations",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9150fc61-4a09-4d3d-bf63-7ef254fae24b"
+          },
+          "dapAn": "many spellings",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_10. Many ... conversation.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_10. Many ... conversation.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "8843ec72-5cdd-4ab4-ae66-6f1e76d94126"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Is there any general advice you can give our audiences about understanding ______________?",
+      "yNghia": "Is there any general advice you can give our audiences about understanding <span style=\"color:red\">body language</span>?<br />\n<i>Có lời khuyên chung nào bạn có thể đưa ra cho khán giả của chúng tôi về việc hiểu <span style=\"color:red\">ngôn ngữ cơ thể </span>không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9e12b275-b057-4eed-9ef4-2a8074407f9b"
+          },
+          "dapAn": "foreign language",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "73c16113-49d1-44ae-b6b5-ff870fbe5762"
+          },
+          "dapAn": "body language",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c670d975-4da7-419f-bac5-225908545e1a"
+          },
+          "dapAn": "mother language",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_11. Is ... language.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_11. Is ... language.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6e6391f7-f0a3-4f3e-937b-5a7dc59e1a6d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You should check ______________ a person’s words and body language aren’t saying the same thing.",
+      "yNghia": "You should check <span style=\"color:red\">when </span>a person's words and body language aren't saying the same thing.<br />\n<i>Bạn nên kiểm tra xem <span style=\"color:red\">khi nào </span>lời nói và ngôn ngữ cơ thể của một người không nói lên những điều giống nhau.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0c73d8fe-f88a-4c83-9ad8-794e7b5cde27"
+          },
+          "dapAn": "where",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ecc5de08-5c67-49df-a4b5-7255c0e7fb74"
+          },
+          "dapAn": "when",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c625294a-c6bd-4fd3-bea0-df6ea6c0f688"
+          },
+          "dapAn": "why",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_12. You ... thing.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_12. You ... thing.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "74fd3dd6-edde-42ed-b6e6-ec1547b1bb9a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Your ______________ plays a big part in communication.",
+      "yNghia": "Your <span style=\"color:red\">tone of voice </span>plays a big part in communication.<br />\n<i><span style=\"color:red\">Giọng điệu </span></i><i>của bạn đóng một vai trò quan trọng trong giao tiếp.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ad874794-43b2-4842-94cf-b2f59016571e"
+          },
+          "dapAn": "speed",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9ae646f8-e058-4add-a3c6-1c093cf8f388"
+          },
+          "dapAn": "tone of voice",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b96bd2ca-6a4e-4ece-83c4-aa2b942f0e9f"
+          },
+          "dapAn": "volume",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_13. Your ... communication.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_13. Your ... communication.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a74b3f68-9e1c-4bf4-9324-1b2868723577"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There’s usually a distance between you and the person you are talking to. And it changes in different ______________.",
+      "yNghia": "There's usually a distance between you and the person you are talking to. And it changes in different <span style=\"color:red\">cultures</span>.<br />\n<i>Thường có một khoảng cách giữa bạn và người mà bạn đang nói chuyện. Và nó thay đổi trong các <span style=\"color:red\">nền văn hóa </span>khác nhau.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "385b635b-9b42-41a9-93ae-592b65a15749"
+          },
+          "dapAn": "cultures",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b1cc825a-886c-4975-803b-0e5cad97a546"
+          },
+          "dapAn": "situations",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "58178abb-fc6a-4423-b2fb-7594eaedc486"
+          },
+          "dapAn": "countries",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_14. There ... cultures.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_14. There ... cultures.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ad52e278-6b88-429f-b355-9434464e4efa"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "People in Argentina, for example, want a distance of about 76 centimeters when they are talking to strangers. In Mexico, it’s ______________, and in Romania, it’s 1.4 meters.",
+      "yNghia": "People in Argentina, for example, want a distance of about 76 centimeters when they are talking to strangers. In Mexico, it's <span style=\"color:red\">a meter</span>, and in Romania, it's 1.4 meters.<br />\n<i>Ví dụ, những người ở Argentina muốn giữ khoảng cách khoảng 76 cm khi họ nói chuyện với người lạ. Ở Mexico, khoảng cách này là <span style=\"color:red\">một mét </span>và ở Romania là 1,4 mét.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f595c57c-f4e7-40a8-8db7-758663dea6d5"
+          },
+          "dapAn": "a meter",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2454351c-dc70-41c2-ba9b-9c6a335f3de7"
+          },
+          "dapAn": "2 meters",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0615fb25-a5d4-4f45-8ec9-9cc549257983"
+          },
+          "dapAn": "0.5 meter",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_15. People ... meters.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_15. People ... meters.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2db2d9c3-e72e-46cb-98bc-f8c1cea15c2c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The expression on your face says a lot, and so does the position of your ______________ and hands.",
+      "yNghia": "The expression on your face says a lot, and so does the position of your <span style=\"color:red\">arms </span>and hands.<br />\n<i>Biểu cảm trên khuôn mặt của bạn nói lên rất nhiều điều, và vị trí của <span style=\"color:red\">cánh tay</span> và bàn tay của bạn cũng vậy.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0a99d023-fa50-4d04-9cd5-4766d96675e7"
+          },
+          "dapAn": "hair",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6c50bd7a-63ff-4c42-8b45-45023fb3f148"
+          },
+          "dapAn": "arms",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "686ec188-b377-4788-81e9-5e0dccdb0357"
+          },
+          "dapAn": "feet",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_16. The ... hands.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_16. The ... hands.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "06584fff-a521-433a-a292-a1a4fe5f2c1e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Open arms generally mean that you are open to another person’s opinion, and arms across your body usually mean you don’t want to listen. ______________ is also important in some cultures.",
+      "yNghia": "Open arms generally mean that you are open to another person's opinion, and arms across your body usually mean you don't want to listen. <span style=\"color:red\">Touch </span>is also important in some cultures.<br />\n<i>Mở rộng vòng tay thường có nghĩa là bạn cởi mở với ý kiến ​​của người khác và khoanh tay ngang người thường có nghĩa là bạn không muốn lắng nghe. <span style=\"color:red\">Sự đụng chạm </span>cũng rất quan trọng trong một số nền văn hóa.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "693e812a-8d0d-406a-b77f-567c51ab8c4b"
+          },
+          "dapAn": "Nod",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "84c0392e-24f1-4219-92f7-b26d15dadbf2"
+          },
+          "dapAn": "Smile",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0397cfa9-4357-47fd-a123-deaf3b3d5904"
+          },
+          "dapAn": "Touch",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_17. Open .. cultures.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_17. Open .. cultures.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "df85a83d-4155-4875-99f2-4d393ee975e8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Don’t _______________ just a person’s words or their body language. Look at them both together.",
+      "yNghia": "Don't <span style=\"color:red\">rely on </span>just a person's words or their body language. Look at them both together.<br />\n<i>Đừng chỉ <span style=\"color:red\">dựa vào </span>lời nói của một người hoặc ngôn ngữ cơ thể của họ. Hãy nhìn cả hai cùng nhau.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ca925e51-9bbe-405e-aa24-f7e8dba5486c"
+          },
+          "dapAn": "rely on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6c375d79-781d-437c-a945-4d55af0460b8"
+          },
+          "dapAn": "understand",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "64aa29fd-4ba4-4c60-a119-5a1aa8070158"
+          },
+          "dapAn": "believe",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_18. Don_t ... together.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_18. Don_t ... together.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "44b3a4d5-e358-484a-8fd7-9f6ef3234753"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "If a person is saying something friendly but their body is saying ______________, that’s when you need to be careful!",
+      "yNghia": "If a person is saying something friendly but their body is saying <span style=\"color:red\">the opposite</span>, that's when you need to be careful!<br />\n<i>Nếu một người đang nói điều gì đó thân thiện nhưng cơ thể họ lại nói <span style=\"color:red\">ngược lại</span>, thì đó là lúc bạn cần cẩn thận!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4142d836-a8c7-468b-88d6-544037632485"
+          },
+          "dapAn": "the same",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "491f5723-c164-44e4-bb20-ea8f5aecca9f"
+          },
+          "dapAn": "the opposite",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "85349bd2-5505-4456-b4b1-41fcca309b1c"
+          },
+          "dapAn": "funny things",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_19. If ... careful.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_19. If ... careful.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c2ab510d-2418-4728-96fd-b12f5c8a7313"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There’s no tone of voice, so it’s easy to ______________ someone’s meaning.",
+      "yNghia": "There's no tone of voice, so it's easy to <span style=\"color:red\">misunderstand </span>someone's meaning.<br />\n<i>Không có tông giọng nên rất dễ <span style=\"color:red\">hiểu nhầm </span>ý của ai đó.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0bd5aa46-226d-4e8e-8397-1b4e79d6692c"
+          },
+          "dapAn": "misunderstand",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "812c85f5-aa46-4657-ba35-7cf771c8fba3"
+          },
+          "dapAn": "remember",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b19b1ff2-616a-4b45-989b-a557986ee180"
+          },
+          "dapAn": "forget",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L8/sounds/normal/MTC_MINITEST2_LISTENING_20. There_s ... meaning.mp3",
+      "soundSlow": "4SKILLS_MTC_L8/sounds/slow/MTC_MINITEST2_LISTENING_20. There_s ... meaning.mp3"
+    }
+  ]
+}

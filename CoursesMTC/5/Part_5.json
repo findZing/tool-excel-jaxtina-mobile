@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "fbc632cf-12f1-4b47-bb2c-8c5feac4f8a6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Carmen, are you free? Could you do me a ________?",
+      "yNghia": "Carmen, are you free? Could you do me a <span style=\"color:red\">favor</span>?<br />\n<i>Carmen, bạn có rảnh không? Bạn có thể làm cho tôi một </i><i><span style=\"color:red\">việc </span></i><i>được không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6bc4864f-b306-48ac-9403-f203872a5f34"
+          },
+          "dapAn": "favor",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e3f7fbec-9de9-4461-96fa-a0e697c59baa"
+          },
+          "dapAn": "task",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b33762f7-ef15-4885-9576-699713225a97"
+          },
+          "dapAn": "work",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_1. Carmen ... favor.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_1. Carmen ... favor.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "48d82bb2-6d4e-4794-9169-0ad1b0523608"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I have to write a ________ about expert systems.",
+      "yNghia": "I have to write a <span style=\"color:red\">summary</span> about expert systems.<br />\n<i>Tôi phải viết một bản </i><i><span style=\"color:red\">tóm tắt </span></i><i>về các hệ thống chuyên gia.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "74315517-e2a4-406e-a41a-0f9d97a70fe4"
+          },
+          "dapAn": "assignment",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "71c13cca-3283-40cb-88f6-434e0618b9cf"
+          },
+          "dapAn": "summary",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6a567ead-d3f2-4c6b-b0b2-74217a79acd6"
+          },
+          "dapAn": "awesome",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_2. I ... systems.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_2. I ... systems.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "bf246185-9a70-4ce1-8bdf-3019db08cc29"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Why don’t you use the ________ on the Internet?",
+      "yNghia": "Why don't you use the <span style=\"color:red\">information </span>on the internet?<br />\n<i>Tại sao bạn không sử dụng </i><i><span style=\"color:red\">thông tin </span></i><i>trên mạng?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "934d82a0-d2e8-456b-b33a-f787cef2420c"
+          },
+          "dapAn": "data",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6797780e-89b4-4098-8326-586ea9f472f0"
+          },
+          "dapAn": "information",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e064199d-4603-4461-a521-becd2b24d0b9"
+          },
+          "dapAn": "help",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_3. Why ... Internet.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_3. Why ... Internet.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "724173e5-a638-4e93-87e9-60886f7b3677"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "An expert system is a computer ________ using AI to solve problems.",
+      "yNghia": "An expert system is a computer <span style=\"color:red\">program </span>using AI to solve problems.<br />\n<i>Một hệ thống chuyên gia là một </i><i><span style=\"color:red\">chương trình </span></i><i>máy tính sử dụng AI để giải quyết vấn đề.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "55f75bcc-6f38-45c8-8f15-fb46c0422d83"
+          },
+          "dapAn": "algorism",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6deee153-953c-4af9-b667-2bfb2b0c536e"
+          },
+          "dapAn": "system",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "42c09f3b-e123-48da-a40e-786ca223b7c4"
+          },
+          "dapAn": "program",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_4. An ... problems.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_4. An ... problems.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ae202228-be95-496e-8e68-607f08dbeb2d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It uses a database of knowledge together with rules to export suggested ________. ",
+      "yNghia": "It uses a database of knowledge together with rules to export suggested <span style=\"color:red\">solutions</span>. <br />\n<i>Nó sử dụng cơ sở dữ liệu kiến ​​thức cùng với các quy tắc để xuất </i><i><span style=\"color:red\">các giải pháp </span></i><i>được đề xuất.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bd55ccb4-38bd-4ee7-a634-d45b9bf6a7b9"
+          },
+          "dapAn": "options",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6de4d939-f310-4860-adb9-6b0ea83af696"
+          },
+          "dapAn": "plans",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7ebf6092-421b-4e4a-8bde-9f8228d4696d"
+          },
+          "dapAn": "solutions",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_5. It ... solustions.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_5. It ... solustions.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6b58ef71-f965-4d73-a6b6-7131f08888cb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Is this an automated ________? Do I need to do anything?",
+      "yNghia": "Is this an automated <span style=\"color:red\">process</span>? Do I need to do anything?<br />\n<i>Đây có phải là một</i><i> </i><i><span style=\"color:red\">quá trình </span></i><i>tự động? Tôi có cần làm gì không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bbdb3937-e28d-4e2c-8404-d132647df967"
+          },
+          "dapAn": "operation",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "817d3b05-3468-4101-bcd5-7e9dc0cca7c4"
+          },
+          "dapAn": "work",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8254cc8b-4504-45f9-964d-c16c49aad971"
+          },
+          "dapAn": "process",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_6. Is ... anything.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_6. Is ... anything.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "afe29b97-db9c-4e72-ac73-630cab611225"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You only have to ________ some criteria’s data, then wait until the process finishes.",
+      "yNghia": "You only have to <span style=\"color:red\">import </span>some criteria's data, then wait until the process finishes.<br />\n<i>Bạn chỉ phải </i><i><span style=\"color:red\">nhập </span></i><i>dữ liệu của một số tiêu chí, sau đó đợi cho đến khi quá trình kết thúc.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d49f632f-0065-4203-8a07-c4fc233ba1b1"
+          },
+          "dapAn": "import",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b004687f-12bb-4079-bee1-8313a43bb1e7"
+          },
+          "dapAn": "export",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8a7e788e-8bb9-4edd-b885-23192367afd1"
+          },
+          "dapAn": "analyze",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_7. You ... finishes.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_7. You ... finishes.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "76efb8ae-a58e-408b-b055-033826ee467e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That’s really amazing. Are you using that ________ system?",
+      "yNghia": "That's really amazing. Are you using that <span style=\"color:red\">computer </span>system?<br />\n<i>Điều đó thực sự tuyệt vời, bạn có đang dùng hệ thống </i><i><span style=\"color:red\">máy tính </span></i><i>đó không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "38b94ff4-ce13-4728-8dc8-f82ffcf1c3f2"
+          },
+          "dapAn": "AI",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ca42630d-1355-4333-9921-3389eb3cd0b0"
+          },
+          "dapAn": "automated",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "db8a422b-154d-4690-8e4c-db0776f2cb8d"
+          },
+          "dapAn": "computer",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_8. That_s ... system.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_8. That_s ... system.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "fbe92ded-3643-4695-9c7b-10d3bc624371"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Of course, it helps me a lot. And many ________ use it, too.",
+      "yNghia": "Of course, it helps me a lot. And many <span style=\"color:red\">scientists </span>use it, too.<br />\nTất nhiên, nó giúp tôi rất nhiều. <i>Và </i><i><span style=\"color:red\">nhiều nhà khoa học </span></i><i>cũng sử dụng nó.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f560e091-a0e6-4c01-9027-905de6ac1fd3"
+          },
+          "dapAn": "experts",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "adc1b23e-ff46-47cf-8a7d-51aaf406cb58"
+          },
+          "dapAn": "scientists",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a8e6738c-fb71-4f2f-9e3b-5aab51152ab3"
+          },
+          "dapAn": "engineers",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_9. Of ... too.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_9. Of ... too.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ee55ef2e-4b2e-4827-99f5-05f5bad5e729"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "This system contributes to the ________ profession a lot. ",
+      "yNghia": "This system contributes to the <span style=\"color:red\">health </span>profession a lot. <br />\n<i>Hệ thống này đóng góp rất nhiều cho ngành </i><i><span style=\"color:red\">y tế</span></i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8a8df328-0f35-4105-8c74-10930ef16391"
+          },
+          "dapAn": "education",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4ec6b2d4-ed2e-41ea-a5a1-bb30d3fbc069"
+          },
+          "dapAn": "computer",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "051f8eee-e869-496c-84ea-3cf31bbbc48d"
+          },
+          "dapAn": "health",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_10. This ... lot.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_10. This ... lot.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "cec38c5b-e7da-468e-a094-7af8ecc451af"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "So, maybe human health information will be ________ after someone is born.",
+      "yNghia": "So, maybe human health information will be <span style=\"color:red\">stored </span>after someone is born.<br />\n<i>Nhờ vậy, thông tin sức khoẻ của mọi người có thể sẽ được</i><i> </i><i><span style=\"color:red\">lưu trữ </span></i><i>từ sau khi họ được sinh ra.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "acd55aaa-0178-48c7-8cd2-2c84b6d1d5f6"
+          },
+          "dapAn": "designed",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "52ef1f77-535a-481e-bb91-e2ed66815135"
+          },
+          "dapAn": "stored",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ce26c5cc-b5eb-4e97-b50e-9e0a61d69979"
+          },
+          "dapAn": "analyzed",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_11. So ... born.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_11. So ... born.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2259bf72-fbd3-489b-a689-565d5c53e378"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes! Expert systems help ________ decide what’s wrong with the patients, too.",
+      "yNghia": "Yes! Expert systems help <span style=\"color:red\">doctors </span>decide what's wrong with the patients, too.<br />\n<i>Đúng! Các hệ thống chuyên gia cũng giúp </i><i><span style=\"color:red\">các bác sĩ </span></i>trong việc chuẩn đoán bệnh tình của bệnh nhân<i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "257aacff-f3f7-4d59-8948-978f305f18d6"
+          },
+          "dapAn": "doctors",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5a886b15-8dae-4dd6-949b-ad5f71a1e96f"
+          },
+          "dapAn": "nurses",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "55fc52f1-0a8c-4b42-a6d1-8e5a6ebda0c9"
+          },
+          "dapAn": "scientists",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_12. Yes, too.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_12. Yes, too.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "128b554e-54aa-47f0-b18c-d1320b5621ec"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "AI is really a wonderful __________. Thank you very much, I know what to do now.",
+      "yNghia": "AI is really a wonderful <span style=\"color:red\">invention</span>. Thank you very much, I know what to do now.<br />\n<i>AI thực sự là một </i><i><span style=\"color:red\">phát minh </span></i><i>tuyệt vời. Cảm ơn bạn rất nhiều, bây giờ tôi đã biết phải làm gì.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "adb50e9a-41bc-4c68-93cf-91cd321999a8"
+          },
+          "dapAn": "breakthrough",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "48f7b6da-6a40-4508-b5f9-5339f05c287a"
+          },
+          "dapAn": "creation",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "68151cae-fdf5-41d6-bc2f-876165e22e3e"
+          },
+          "dapAn": "invention",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_13. AI ... now.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_13. AI ... now.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "af589da6-a716-4284-9a0b-b80591a53abe"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Hi there everyone, and welcome to another edition of The ________ in Society.",
+      "yNghia": "Hi there everyone, and welcome to another edition of The <span style=\"color:red\">Mind </span>in Society. <br />\n<i>Chào tất cả mọi người, và chào mừng các bạn tới với một số khác của </i><i><span style=\"color:red\">Tâm lý </span></i><i>học Xã hội. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e07458a0-592d-49fc-b0b0-3fe14909c806"
+          },
+          "dapAn": "Mind",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e0a5952d-9c40-4375-ada1-624889ab6c74"
+          },
+          "dapAn": "People",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9efa81e3-d25c-4ed9-a5d7-a560a0a9cfaa"
+          },
+          "dapAn": "Groups",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_14. Hi ... Society.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_14. Hi ... Society.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "92acbe64-8cf2-4175-9cae-69cc351bccb1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We’re going to be looking at a ________ emotion, the feeling of regret. ",
+      "yNghia": "We're going to be looking at a <span style=\"color:red\">negative</span> emotion, the feeling of regret.<br />\n<i>Chúng ta sẽ đi vào một cảm xúc</i><i> </i><i><span style=\"color:red\">tiêu cực</span></i><i>, cảm giác của sự tiếc nuối.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9b40ab4d-1aed-4b0f-8fb7-a51b816d52be"
+          },
+          "dapAn": "negative",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9ca7eead-f50f-4a6d-b764-2802b355e693"
+          },
+          "dapAn": "positive",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d31ef0bb-5652-46c8-877e-063406dd60d9"
+          },
+          "dapAn": "optimistic",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_15. We_re ... regret.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_15. We_re ... regret.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "99bab79e-c774-4895-9008-a0c98eab0a37"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I think we all agree that regret is a ________ thing, but that we all tend to spend a lot of time regretting things.",
+      "yNghia": "I think we all agree that regret is a <span style=\"color:red\">terrible </span>thing, but we all tend to spend a lot of time regretting things.<br />\n<i>Tôi nghĩ chúng ta đều đồng ý rằng sự tiếc nuối là một điều </i><i><span style=\"color:red\">tồi tệ</span></i><i>, nhưng chúng ta lại thường hay dành nhiều thời gian tiếc nuối về nhiều thứ. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "610404c2-b07f-425c-ae3d-6efe372cb801"
+          },
+          "dapAn": "terrible",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2a812925-58f4-464d-a031-cbc8457455db"
+          },
+          "dapAn": "negative",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "396cefa7-4b8b-4158-b4d8-7ea92bac1c28"
+          },
+          "dapAn": "sad",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_16. I ... things.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_16. I ... things.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c9cde28f-6960-4535-a22f-03f1e84025fb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Imagine you had just had some ________ news, for example, being told that you had failed an exam.",
+      "yNghia": "Imagine you have some <span style=\"color:red\">bad </span>news, for example, being told that you failed an exam.<br />\n<i>Hãy tưởng tượng rằng bạn có một vài tin</i><i> </i><i><span style=\"color:red\">xấu</span></i><i>, ví dụ, được báo rằng bạn đã trượt một bài kiểm tra.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9f94b713-210f-4673-9089-1814cb00c327"
+          },
+          "dapAn": "terrible",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "527538ef-ebe8-4626-aae8-efc7c67f1449"
+          },
+          "dapAn": "negative",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ab1bab07-9b69-44c8-80f5-b05bb77992c9"
+          },
+          "dapAn": "bad",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_17. Imagine ... exam.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_17. Imagine ... exam.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6a122560-761c-4a27-a593-4a00a18f3d5c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That situation might seem bad enough, but we then start ________ alternative realities where things happened differently.",
+      "yNghia": "That situation might seem bad enough, but we then start <span style=\"color:red\">imagining </span>alternative realities where things happen differently.<br />\n<i>Trường hợp này nghe đã thấy tệ rồi, nhưng chúng ta lại bắt đầu </i><i><span style=\"color:red\">tưởng tượng </span></i><i>thêm những viễn tưởng khác mà ở đó mọi thứ xảy ra rất khác.</i><i> </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "923e97d3-4c4d-412f-a3a6-1f808e4e5f10"
+          },
+          "dapAn": "thinking about",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a1f45210-d66e-4aef-b7be-e06678d0443a"
+          },
+          "dapAn": "making up",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d22655d9-691d-4ea9-bb71-548cfa8f9446"
+          },
+          "dapAn": "imagining",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_18. That ... differently.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_18. That ... differently.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1a5f72ba-807d-49ec-a52e-646ec523f5dd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You mean like “What would life be like if I had ________ the exam?”",
+      "yNghia": "You mean like \"What would life have been like if I had <span style=\"color:red\">passed </span>the exam?\"<br />\n<i>Ý bạn là kiểu \"Cuộc sống đã có thể như thế nào nếu tôi đã</i><i> </i><i><span style=\"color:red\">vượt qua </span></i><i>bài kiểm tra?\" </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fa67d069-f427-4c68-9a42-9e8c4a7b16cc"
+          },
+          "dapAn": "passed",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9fee81e4-4736-4ad4-8041-e52f7d780187"
+          },
+          "dapAn": "failed",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "903ad482-0cdc-4687-bcd7-c5ac9954f67a"
+          },
+          "dapAn": "nailed",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_19. You ... exam.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_19. You ... exam.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5ca49ee7-56fc-4aa4-b1ac-48c91f230407"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The ________ with this is that you have already failed the exam.",
+      "yNghia": "The <span style=\"color:red\">problem </span>with this is that you have already failed the exam.<br />\n<i><span style=\"color:red\">Vấn đề </span></i><i>ở đây là bạn đã trượt bài kiểm tra rồi.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b483868b-909b-4c46-b431-2d8cfd95119a"
+          },
+          "dapAn": "problem",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ac2e4b96-2396-4d78-a539-61f22ddcada6"
+          },
+          "dapAn": "fact",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "be4518ac-578a-4bb2-9521-d23bc390d065"
+          },
+          "dapAn": "reality",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_MTC_L5/sounds/normal/MTC_5_LISTENING_20 The ... exam.mp3",
+      "soundSlow": "4SKILLS_MTC_L5/sounds/slow/MTC_5_LISTENING_20 The ... exam.mp3"
+    }
+  ]
+}

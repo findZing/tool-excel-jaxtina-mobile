@@ -1,0 +1,1026 @@
+{
+  "dangCauHoi": "P6",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "a8618800-cfe5-4625-88c0-f23671e97885"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi suy nghĩ của đối phương về điều gì mà ai đó có thể làm ta dùng cấu trúc câu hỏi: <b>Do you think + it's possible + for + Tân ngữ 1 + to + Động từ (nguyên thể) + Tân ngữ 2</b>. Ta có <b>people who aren't doctors </b><i>(những người không phải là bác sĩ)</i> là cụm danh từ đóng vai trò là tân ngữ 1, <b>help </b><i>(giúp đỡ)</i> là động từ nguyên thể và <b>others</b><i>(những người)</i>là tân ngữ 2. Câu hoàn chỉnh là <b><span style=\"color:red\">Do you think it's possible for people who aren't doctors to help others? </span></b><i>(Anh có nghĩ rằng những người không phải là bác sĩ có thể giúp đỡ người khác không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "142dc1b6-f38b-4c9b-8d4e-91b70bccedaf"
+          },
+          "dapAn": "Do you think",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e8391c61-dd05-48c2-a8cf-9a39f21bd3b9"
+          },
+          "dapAn": "it's possible",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "018e0a94-0eba-4dcf-93cc-98e4dfa4c5f4"
+          },
+          "dapAn": "for people",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a53680fc-e8d8-4123-bc7e-1ad3d2b945be"
+          },
+          "dapAn": "who aren't",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e7a88bb9-55e5-461c-b90f-9d74d80fe0ff"
+          },
+          "dapAn": "doctors to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f1dc6f44-981f-45e7-ade5-222fcba6d83c"
+          },
+          "dapAn": "help others?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a1a9b495-afe1-47a5-9db0-df6b2b9a55aa"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng điều gì là quan trọng ta dùng cấu trúc: <b>It's important for + Danh từ / Đại từ + to + Động từ (nguyên thể) + Tân ngữ</b>. Ta có <b>people</b> là danh từ, <b>have</b> <i>(có)</i> là động từ nguyên thể<b>some basic medical knowledge</b> <i>(một số kiến thức y tế cơ bản)</i> là cụm danh từ đóng vai trò làm tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">It's important for people to have some basic medical knowledge. </span></b><i>(Điều quan trọng là mọi người phải có một số kiến thức y tế cơ bản.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8fdd21a4-d4f2-4405-b42f-6e4934c4c54d"
+          },
+          "dapAn": "It's important",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1a764737-1ff3-4e7a-a0b0-150bb418ef59"
+          },
+          "dapAn": "for people to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d9efbb57-673b-427f-b18b-c0bd88a65727"
+          },
+          "dapAn": "have some",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e768b501-4af9-460c-b7d5-809376e3d318"
+          },
+          "dapAn": "basic",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0032536f-a9a8-4ce6-88ea-c3766232c491"
+          },
+          "dapAn": "medical",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0f2588d4-e434-4380-93be-74f69baf2cd5"
+          },
+          "dapAn": "knowledge.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5599222d-7d30-4c4c-a0b2-28949d5f4790"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng có thứ gì ta dùng cấu trúc: <b>There are + danh từ số nhiều + bổ ngữ</b>. Ta có: danh từ số nhiều <b>times (</b><i>những lúc) </i>và sau đó là bổ ngữ <b>when you need to help someone immediately </b><i>(bạn cần giúp đỡ ai đó ngay lập tức)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">There are times when you need to help someone immediately. </span></b><i>(Có những lúc bạn cần giúp đỡ ai đó ngay lập tức.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e947b58c-e015-432c-9923-4c84816a212b"
+          },
+          "dapAn": "There are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "538b5912-783f-45a9-a628-1b69efb95afa"
+          },
+          "dapAn": "times when",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6b752576-c651-4b18-9277-69fc962240f4"
+          },
+          "dapAn": "you need to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d4b3a5bb-9464-450b-9b27-98f556e887f6"
+          },
+          "dapAn": "help",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6dbdf17e-ffc4-4ed3-9f29-b1c013c60a8e"
+          },
+          "dapAn": "someone",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "99517624-e962-48b4-ba8e-5b2bd1d0f437"
+          },
+          "dapAn": "immediately.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ffc899df-34ef-49c4-a87d-657955df810f"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để giả định một việc có thể xảy ra ở hiện tại, ta dùng cấu trúc: <b>If + Chủ ngữ 1 + Động từ (hiện tại đơn) 1 + Tân ngữ 1, Chủ ngữ 2 + Động từ (hiện tại đơn) 2 + Tân ngữ 2</b>. Ta có: <b>someone </b><i>(ai đó)</i>là chủ ngữ 1,<b> breaks</b> là động từ hiện tại đơn 1, <b>their arm</b>là tân ngữ 1;<b>they</b> <i>(họ)</i> là chủ ngữ 2,<b> need </b><i>(cần)</i>là động từ hiện tại đơn 2, <b>specific medical attention</b><i>(chăm sóc y tế cụ thể)</i>là tân ngữ 2.Câu hoàn chỉnh là <b><span style=\"color:red\">If someone breaks their arm, they need specific medical attention. </span></b><i>(Nếu ai đó bị gãy tay, họ cần được chăm sóc y tế cụ thể.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cfe208b0-9ad4-4e1d-80f3-f95d56268d49"
+          },
+          "dapAn": "If someone",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "14253b94-5b9f-4426-989c-f7bfa007e783"
+          },
+          "dapAn": "breaks their",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6b11fa01-c55d-4ad7-b6f0-65079006d0e0"
+          },
+          "dapAn": "arm, they",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d03729bc-9833-475a-8a2e-45533b978754"
+          },
+          "dapAn": "need specific",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d1bda95a-8b77-4ecb-b810-c7d13e585b38"
+          },
+          "dapAn": "medical",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dc88d1b9-7257-4a91-93b8-3dc733f8fea2"
+          },
+          "dapAn": "attention.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c930e21b-eae4-4a6f-8389-4f87a0739bf7"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để giả định một việc không có thật ở hiện tại, ta dùng cấu trúc: <b>If + Chủ ngữ 1 + Động từ (quá khứ đơn) 1 + Tân ngữ 1, Chủ ngữ 2 + would + Động từ (nguyên thể) 2 + Tân ngữ 2</b>. Ta có: <b>that </b>là chủ ngữ 1,<b> was</b> là động từ quá khứ đơn 1,<b>OK</b>là tân ngữ 1 ;<b>you</b> <i>(bạn)</i> là chủ ngữ 2,<b> help </b><i>(giúp)</i>là động từ nguyên thể 2, <b>them</b> <i>(họ)</i> là tân ngữ 2. Câu hoàn chỉnh là <b><span style=\"color:red\">If that was OK, you'd help them stand. </span></b><i>(Nếu điều đó ổn, bạn có thể giúp họ đứng dậy.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "67cd3cb3-bb59-47af-98a0-9060584db1c2"
+          },
+          "dapAn": "If that",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9ea8c6b2-f01b-48c7-9730-248138153eee"
+          },
+          "dapAn": "was OK,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "44baa7e9-88f8-4239-abd8-ff7e05c2ddfd"
+          },
+          "dapAn": "you'd",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7f6671c2-3c16-4d80-8c8e-c734c5045d28"
+          },
+          "dapAn": "help",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "284090cc-330c-4bb1-be2e-95136a74ddf2"
+          },
+          "dapAn": "them",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "59bbbb4b-c2a2-4231-a0c0-359f435c3c44"
+          },
+          "dapAn": "stand.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b17c1734-553e-459b-a473-3f247f97be7e"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi rằng có thứ gì đó không ta dùng cấu trúc: <b>Are + there + any + Danh từ số nhiều + Bổ ngữ</b>. Ta có: danh từ số nhiều <b>situations </b><i>(tình huống) </i>và sau đó là bổ ngữ <b>that we can help the patients without doctors</b><i>(mà chúng ta có thể giúp bệnh nhân khi không có bác sĩ ở đó)</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">Are there any situations that we can help the patients without doctors? </span></b><i>(Có tình huống nào mà chúng ta có thể giúp bệnh nhân khi không có bác sĩ ở đó không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e9078f39-126e-4cba-8845-09beda5064ed"
+          },
+          "dapAn": "Are there any",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "35732809-3fb1-4a8d-aae9-9952e6ae3b65"
+          },
+          "dapAn": "situations",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4e1f5814-6208-4279-b4b6-fe0985799395"
+          },
+          "dapAn": "that we can",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7f6592ae-83bd-47a7-b610-e6b8c7b12bd1"
+          },
+          "dapAn": "help the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8611d087-a408-4d24-b19f-09ac9c7b9e1b"
+          },
+          "dapAn": "patients",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cbdfb727-3fff-48ed-81ad-9935a8a21b3c"
+          },
+          "dapAn": "without doctors?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "03c1ef81-6da0-45c9-a12a-035e5b911f91"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để giả định một việc có thể xảy ra ở hiện tại, ta dùng cấu trúc: <b>If + Chủ ngữ 1 + Động từ (hiện tại đơn) 1 + Tân ngữ 1, Mệnh đề 2</b>. Ta có: <b>someone</b><i>(ai đó)</i>là chủ ngữ 1,<b> has</b> là động từ hiện tại đơn 1;<b>it is a good idea to take care of them</b> là mệnh đề 2<b>. </b>Câu hoàn chỉnh là <b><span style=\"color:red\">If someone has a cold or a cut, it is a good idea to take care of them. </span></b><i>(Nếu ai đó bị cảm lạnh hoặc bị đứt tay, bạn nên chăm sóc họ.). </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "424cdfa5-f3df-489f-80cb-623c978238e0"
+          },
+          "dapAn": "If someone",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7043369d-089d-49be-956a-109fda1be79c"
+          },
+          "dapAn": "has a cold",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f414ad1a-f56e-4d5a-ac7f-86c311934336"
+          },
+          "dapAn": "or a cut,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6dd759a9-5f79-4bf5-a658-e9ebbb92ae4e"
+          },
+          "dapAn": "it is a good",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "229fbc3d-5644-4483-bc89-5b5f0adfc55e"
+          },
+          "dapAn": "idea to take",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "06c66efc-893e-4906-8e3a-1d5de68163c7"
+          },
+          "dapAn": "care of them.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0a81af5e-7973-48e3-b4f0-2dfc0cea53da"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Áp dụng cấu trúc câu hỏi với câu điều kiện có thật ở hiện tại có từ để hỏi: <b>What + can + Chủ ngữ 1 + Động từ (nguyên thể) 1 + to + Động từ (nguyên thể) 2 + if + Chủ ngữ 2 + Động từ (hiện tại đơn) 3 + Tân ngữ</b>. Ta có <b>you </b>là chủ ngữ 1, <b>do </b>là động từ nguyên thể 1,<b> help </b><i>(giúp đỡ) </i>là động từ nguyên thể 2,<b> has </b>là động từ hiện tại đơn 3, <b>someone</b> (<i>ai đó) </i>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">What can you do to help if someone has a cut? </span></b><i>(Anh có thể làm gì để giúp đỡ nếu ai đó bị đứt tay?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "57116dba-5e8e-4eaa-952e-cc42511402a4"
+          },
+          "dapAn": "What",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4a435ca6-9ba9-4ac6-8f76-d24f403f22df"
+          },
+          "dapAn": "can you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8fe3e3bd-258e-4a0c-ab23-7b1fdb7d65a1"
+          },
+          "dapAn": "do to help if",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c6341556-d091-40ee-beb9-cd5149b36caa"
+          },
+          "dapAn": "someone",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ff4b89d2-4e10-4f69-b503-e69bf09dcfdd"
+          },
+          "dapAn": "has",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "330b62ea-8667-4ecf-98e1-6057659493c8"
+          },
+          "dapAn": "a cut?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f8e9d62d-f6ea-4c4e-bcbe-eae79d260495"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng điều đầu tiên cần làm là việc gì đó, ta dùng cấu trúc:<b>The first thing to do is + Động từ (nguyên thể) + Tân ngữ</b>. Ta có: <b>wash</b><i>(rửa)</i> là động từ nguyên thể và<b> your hands</b><i>(tay)</i>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">The first thing to do is washing your hands. </span></b><i>(Điều đầu tiên cần làm là rửa tay.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7023bf07-3c4d-4c53-839d-f9605b36fabd"
+          },
+          "dapAn": "The first",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0656198c-d8e6-4aa1-b5ee-1f81e640c640"
+          },
+          "dapAn": "thing",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7dfcb718-d0f9-4a8e-9696-cad9a4249a1b"
+          },
+          "dapAn": "to do",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3102a686-6152-45b0-b789-a3892e73264a"
+          },
+          "dapAn": "is washing",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "95d1ca5b-738d-4297-ab56-01d4241acbe7"
+          },
+          "dapAn": "your",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e5e489be-bba5-4d40-94b5-949d5cb92191"
+          },
+          "dapAn": "hands.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c70183f2-0e04-47d0-90f7-9ed077351245"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng cần phải làm hết việc này rồi đến việc kia ta dùng cấu trúc với <b>then</b>: <b>Chủ ngữ + need to + Động từ (nguyên thể) 1+ Tân ngữ 1 + Bổ ngữ, then + Động từ (nguyên thể) 2 + Tân ngữ 2 </b>. Ta có: <b>wash </b><i>(rửa)</i> làđộng từ nguyên thể 1, <b>the cut </b><i>(vết cắt) </i>là tân ngữ 1, <b>with soap and water </b><i>(bằng xà phòng và nước</i>) là bổ ngữ, <b>dry</b> <i>(lau khô) </i>là động từ nguyên thể 2, <b>it</b> là tân ngữ 2. Câu hoàn chỉnh là <b><span style=\"color:red\">You need to wash the cut with soap and water, then dry it before doing that. </span></b><i>(Bạn cần rửa vết cắt bằng xà phòng và nước, sau đó lau khô trước khi thực hiện băng bó.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b3be8972-366a-460d-9904-f199e6e2063c"
+          },
+          "dapAn": "You need to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "47ba06a9-ed49-4c02-9253-d2c16fd6120a"
+          },
+          "dapAn": "wash the cut",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5e1d4d1d-a308-4176-b467-5d927760face"
+          },
+          "dapAn": "with soap and",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "44927bea-53cf-44df-98d8-5f1616a424bb"
+          },
+          "dapAn": "water, then",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9c32d0ce-6af9-4045-9e6c-b7481b40a26a"
+          },
+          "dapAn": "dry it before",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "afc7e694-25cb-4668-b0ab-56d8949a70f5"
+          },
+          "dapAn": "doing that.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7ed99341-c427-4af8-b54c-992c9b9bf22b"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để khuyên ai đó làm gì, ta dùng cấu trúc với<b> should</b>: <b>Chủ ngữ + should +</b> <b>Động từ (nguyên thể) 1+ Tân ngữ 1 + to + Động từ (nguyên thể) 2 + Tân ngữ 2</b>. Ta có: <b>eat </b><i>(ăn)</i>là động từ nguyên thể 1,<b>healthy foods</b> (<i>thực phẩm lành mạnh</i>) là tân ngữ 1, <b>get </b><i>(có)</i>là động từ nguyên thể 2, <b>all the nutrients they need to get better </b><i>(tất cả các chất dinh dưỡng cần thiết để khỏe hơn</i>) là tân ngữ 2. Câu hoàn chỉnh là <b><span style=\"color:red\">They should eat healthy foods to get all the nutrients they need to get better. </span></b><i>(Họ nên ăn thực phẩm lành mạnh để có được tất cả các chất dinh dưỡng cần thiết để khỏe hơn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1845405d-af32-4aa0-bdd8-ea0788bbccc8"
+          },
+          "dapAn": "They should",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5c181c87-f6ec-4fe0-b770-2dc060e5be47"
+          },
+          "dapAn": "eat healthy",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ae370e70-1ee3-46db-a8bf-0ee4d6683581"
+          },
+          "dapAn": "foods to get all",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1dff47b1-c3c5-40d2-b57a-c604a735ca18"
+          },
+          "dapAn": "the nutrients",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c478d452-88a0-40bb-b39d-0b322df17be9"
+          },
+          "dapAn": "they need",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5c5f3a66-fc6c-42f7-8fa0-9c6a7fca66a3"
+          },
+          "dapAn": "to get better.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3c2b0e68-a150-42be-a5cd-77d8df45b80b"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng điều gì là một ý kiến hay nếu việc gì đó xảy ra, ta dùng cấu trúc: <b>Is it a good idea to + Động từ (nguyên thể) 1+ Tân ngữ 1 + if + Động từ (hiện tại đơn) 2 + Tân ngữ 2</b>.Ta có:<b>have </b>là động từ nguyên thể, <b>a cold bath </b>là tân ngữ 1, <b>have </b>là động từ hiện tại đơn 2, <b>a fever </b>là tân ngữ 2. Câu hoàn chỉnh là <b><span style=\"color:red\">Is it a good idea to have a cold bath if you have a fever? </span></b><i>(Tắm nước lạnh nếu bạn bị sốt có phải là một ý kiến hay không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ec06ebf9-9fe4-437f-9de4-f484771cfb31"
+          },
+          "dapAn": "Is it a",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dd8c64e8-7c95-43d3-9411-cf682b4f32ae"
+          },
+          "dapAn": "good idea",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c09ec9ac-c2e0-4a67-9c41-1e17b8dce86d"
+          },
+          "dapAn": "to have",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1e74cd7d-75ea-4bdf-ab40-acda30bfcd00"
+          },
+          "dapAn": "a cold bath",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b2c5870a-f1b7-4bcd-b0b7-dff33de5cc19"
+          },
+          "dapAn": "if you have",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c038b5ed-e1b1-4207-8d45-21049d3a80a5"
+          },
+          "dapAn": "a fever?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9b783153-5e34-4a87-8dcf-4bf1f435cdcb"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để giả định một việc có thể xảy ra ở hiện tại, ta dùng cấu trúc: <b>If + Chủ ngữ 1 + Động từ (hiện tại đơn) 1 + Tân ngữ 1, Chủ ngữ 2 + will + Trạng ngữ + Động từ (nguyên thể) 2 + Tính từ</b>. Ta có: <b>you </b>là chủ ngữ 1,<b> have </b>là động từ hiện tại đơn 1; <b>a cold bath </b>là tân ngữ 1<b>, you </b>là chủ ngữ 2,<b>get</b>là động từ nguyên thể 2, <b>worse</b>là tính từ. Câu hoàn chỉnh là <b><span style=\"color:red\">If you have a cold bath, the fever will probably get worse. </span></b><i>(Nếu bạn tắm nước lạnh, cơn sốt có thể sẽ trở nên tồi tệ hơn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "de13d9a7-f9f2-4b83-8a10-f5b01fa79c47"
+          },
+          "dapAn": "If you have",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bd2e645e-efd8-4ba2-8fe9-4fc5ae1af58b"
+          },
+          "dapAn": "a cold bath,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f537d00a-cc99-4af0-a304-99265e273d16"
+          },
+          "dapAn": "the fever",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "65fb5d72-e59c-40d8-afe7-c93a928bb4e8"
+          },
+          "dapAn": "will",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a1b92b28-dff8-4ea6-920c-b33bc09ec8e6"
+          },
+          "dapAn": "probably",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "26af1a89-46e7-451a-873a-50ef24ab7c51"
+          },
+          "dapAn": "get worse.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8c079986-8f0e-4999-820d-3cd94829567c"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng ai đó cần làm gì, ta dùng cấu trúc:<b> Chủ ngữ + need to + Động từ (nguyên thể) + Tân ngữ</b>. Ta có: <b>drink</b><i>(uống) </i>là động từ nguyên thể, <b>lots of liquids</b><i>(nhiều chất lỏng)</i>là tân ngữ.Câu hoàn chỉnh là <b><span style=\"color:red\">They need to drink lots of liquids. </span></b><i>(Họ cần uống nhiều chất lỏng.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "662fffae-af2c-4909-a28c-f43baf554d5a"
+          },
+          "dapAn": "They",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1a2eea82-9808-4d9a-900c-17982c1a5bfe"
+          },
+          "dapAn": "need",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "817756fb-d360-4d44-8e51-7ef6194b06e4"
+          },
+          "dapAn": "to drink",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "91376b26-c8f7-4ac0-b2aa-0af378359439"
+          },
+          "dapAn": "lots",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "988da6b9-d9ca-4203-b8c6-615cad9d25cd"
+          },
+          "dapAn": "of",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "40bedb35-8b86-4f62-a887-7ea401ed9b78"
+          },
+          "dapAn": "liquids.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f461b696-ac4e-41c5-b6b5-daac33f402d0"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói rằng ai đó cũng nên làm gì, ta dùng cấu trúc: <b>Chủ ngữ + should + also + Động từ (nguyên thể) 1 + Trạng ngữ + Động từ (nguyên thể) 2</b>. Ta có: <b>stay</b> <i>(nằm)</i> là động từ nguyên thể 1, <b>in bed</b> <i>(trên giường)</i> là trạng ngữ, <b>rest</b> <i>(nghỉ ngơi)</i> là động từ nguyên thể 2. Câu hoàn chỉnh là <b><span style=\"color:red\">They should also stay in bed and rest. </span></b><i>(Họ cũng nên nằm trên giường và nghỉ ngơi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "090d5c12-00e2-4c07-8e25-4145ec50b83f"
+          },
+          "dapAn": "They",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4a58d7d1-8801-479e-8c7e-c20fddec6da1"
+          },
+          "dapAn": "should",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8fe452e4-aac2-4209-8bdf-b238188eaa96"
+          },
+          "dapAn": "also stay",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "43493574-66b9-41ac-b531-8a669892305e"
+          },
+          "dapAn": "in bed",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b7908f50-43e2-45f9-9655-169fa402712f"
+          },
+          "dapAn": "and",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "26606233-9888-4584-8736-d18bd64a8866"
+          },
+          "dapAn": "rest.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ff92b237-91b1-461b-a5c3-9006cce63d18"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Áp dụng cấu trúc câu hỏi với câu điều kiện có thật ở hiện tại có từ để hỏi: <b>What + should + Chủ ngữ 1 + Động từ (nguyên thể) 1 + if + Chủ ngữ 2 + Động từ (hiện tại đơn) 2 + Tân ngữ</b>. Ta có <b>we </b><i>(chúng ta)</i>là chủ ngữ 1, <b>do </b><i>(làm)</i>là động từ nguyên thể 1,<b>someone</b> <i>(ai đó)</i> là chủ ngữ 2,<b>has </b>là động từ hiện tại đơn 2, <b>a very high fever </b>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">What should we do if someone has a very high fever? </span></b><i>(Chúng ta nên làm gì nếu ai đó bị sốt rất cao?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1938dc3f-7b37-4ef2-af28-a30b55b39858"
+          },
+          "dapAn": "What should",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d010502b-22b3-47b2-839f-b773a277fbe1"
+          },
+          "dapAn": "we do if",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "90cb6091-ef91-4dcf-b342-d52510b3f76c"
+          },
+          "dapAn": "someone has",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7091b48b-b076-4591-a5b3-8acb83d682cf"
+          },
+          "dapAn": "a very",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e43d17a3-807e-4977-b778-feafec926304"
+          },
+          "dapAn": "high",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "30bfa13b-bf2a-438b-a1f8-d930cb655332"
+          },
+          "dapAn": "fever?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9d57e114-fac7-4b97-a675-4bce1d65b48d"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để giả định một việc có thể xảy ra ở hiện tại, ta dùng cấu trúc: <b>If + Chủ ngữ 1 + Động từ (hiện tại đơn) 1 + Trạng ngữ 1, Chủ ngữ 2 + would + Động từ (nguyên thể) 2 + Tính từ + to + Động từ (nguyên thể) 3 + Tân ngữ + Trạng ngữ 2</b>. Ta có: <b>it </b>là chủ ngữ 1,<b> lasts </b>là động từ (hiện tại đơn) 1, <b>for over three days</b> là trạng ngữ 1, <b>it</b><i>(nó)</i>là chủ ngữ 2,<b> be </b>là động từ nguyên thể 2, better là tính từ, <b>take</b> là động từ nguyên thể 3, <b>to the doctor </b>là trạng ngữ 2. Câu hoàn chỉnh là <b><span style=\"color:red\">If it lasts for over three days, it would be better to take them to the doctor. </span></b><i>(Nếu nó kéo dài hơn ba ngày, tốt hơn là nên đưa họ đến gặp bác sĩ.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "54f6210f-a68c-4a73-9662-41ac447720f8"
+          },
+          "dapAn": "If it lasts",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a1789735-687e-4c5b-b010-72e557dcde7c"
+          },
+          "dapAn": "for over",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ea1518aa-22ad-48b6-868a-67d002aef8b8"
+          },
+          "dapAn": "three days,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "73f1c10d-3f7c-43eb-9d68-0501e7fbcdb8"
+          },
+          "dapAn": "it would be",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1609331d-adaa-47f2-9806-11672da1759e"
+          },
+          "dapAn": "better to take",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ce22df8a-5124-4aa3-b699-188faa2ca58e"
+          },
+          "dapAn": "them to the doctor.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "bb19159a-1390-4d23-b4d6-61e8e9efe5de"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để giả định một việc không có thật ở hiện tại, ta dùng cấu trúc: <b>Chủ ngữ 1 + would + Động từ (nguyên thể) 1 + If + Chủ ngữ 2 + Động từ (quá khứ đơn) 2 + Tân ngữ + Trạng ngữ</b>. Ta có: <b>It </b>là chủ ngữ 1,<b> be </b>là động từ nguyên thể 1;<b>you</b> <i>(bạn)</i> là chủ ngữ 2,<b> changed </b><i>(thay đổi)</i>là động từ quá khứ đơn 2, <b>what you eat </b><i>(những gì bạn ăn)</i>là tân ngữ, <b>a bit </b><i>(một chút)</i>là trạng ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">It would be great if you changed what you eat a bit. </span></b><i>(Sẽ thật tuyệt nếu bạn thay đổi những gì bạn ăn một chút.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4b188167-3fc1-4aaa-b033-be885863e5be"
+          },
+          "dapAn": "It would",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2a206592-5d11-49b5-8b58-abca974b3384"
+          },
+          "dapAn": "be great",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e7aa6899-4244-4040-9581-eab77f245bf1"
+          },
+          "dapAn": "if you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e5e9acf2-e405-4da7-b3b7-74ce6e08021d"
+          },
+          "dapAn": "changed",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5fd13efc-70d5-49c2-a80b-b70c82a2e8ab"
+          },
+          "dapAn": "what you eat",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5f36522d-6d4a-4432-bf36-7a6367d46a57"
+          },
+          "dapAn": "a bit.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "919a1f77-b616-48c2-91fd-1404dea9265e"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để giả định một việc có thể xảy ra ở hiện tại, ta dùng cấu trúc: <b>Chủ ngữ 1 + shouldn't + Động từ (nguyên thể) 1 + Tân ngữ + Trạng ngữ + if + Chủ ngữ 2 + Động từ (hiện tại đơn) 2</b>. Ta có: <b>You </b><i>(bạn)</i> là chủ ngữ 1,<b>help </b><i>(giúp)</i>là động từ nguyên thể 1, <b>someone </b><i>(ai đó)</i>là tân ngữ,<b> up right away</b> <i>(đứng dậy ngay lập tức)</i> là trạng ngữ, <b>he or she </b>là chủ ngữ 2, <b>falls </b><i>(ngã)</i>là động từ hiện tại đơn 2. Câu hoàn chỉnh là <b><span style=\"color:red\">You shouldn't help someone up right away if he or she falls. </span></b><i>(Bạn không nên giúp ai đó đứng dậy ngay lập tức nếu họ bị ngã.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6078e946-4ed6-4406-bc74-4311bca7c1b8"
+          },
+          "dapAn": "You",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cf074ff5-df85-470b-9b18-6fc223fdda17"
+          },
+          "dapAn": "shouldn't",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9b375a96-820a-41b6-a3a5-1b5be42a237d"
+          },
+          "dapAn": "help someone",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8b094ae5-1eb2-49f7-a770-703324ca9e21"
+          },
+          "dapAn": "up right away",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "aa39069b-ee04-4719-ba51-4ddb43daeb08"
+          },
+          "dapAn": "if he or",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "23aac05b-fe31-4ac3-83de-872128fd05fc"
+          },
+          "dapAn": "she falls.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5f70557b-e18e-4a9c-9128-2ed64547cedf"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để giả định một việc không có thật ở hiện tại, ta dùng cấu trúc: <b>If + Chủ ngữ 1 + Động từ (quá khứ đơn) 1 + Tân ngữ 1, Chủ ngữ 2 + would + Động từ (nguyên thể) 2 + Tân ngữ 2</b>. Ta có: <b>had</b> là động từ quá khứ đơn 1, <b>a cough </b>là tân ngữ 1;<b>buy </b><i>(mua)</i>là động từ nguyên thể 2, <b>some medicine </b><i>(thuốc)</i>là tân ngữ 2. Câu hoàn chỉnh là <b><span style=\"color:red\">If I had a cough, I would buy some medicine. </span></b><i>(Nếu tôi bị ho, tôi sẽ mua thuốc.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "32a6f56a-90f2-4784-8a18-d79c1a1b1c8b"
+          },
+          "dapAn": "If I had",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3f3dbfac-0585-46ba-a466-b9be1bb30176"
+          },
+          "dapAn": "a cough,",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e1148a35-d499-45e3-91bc-c9871042291d"
+          },
+          "dapAn": "I would",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7093a254-5bba-4063-93ab-be3eeebfc286"
+          },
+          "dapAn": "buy",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9dd976c0-d492-4d90-9b00-fb7d57a67c35"
+          },
+          "dapAn": "some",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c23640f3-f077-4abc-ac0a-b7c8048deed1"
+          },
+          "dapAn": "medicine.",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

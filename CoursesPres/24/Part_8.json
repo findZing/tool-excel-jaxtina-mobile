@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L24/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L24/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "41537cdf-fcfc-432b-978d-feff0fbd6172"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Alison",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "11a4c293-cb7a-48d2-8080-4b35fa721bd9"
+          },
+          "dapAn": "Welcome to my party, Jenny.",
+          "phienAm": "/ˈwelkəm tuː maɪ ˈpɑːti ˈʤeni/",
+          "yNghia": "\nChào mừng cậu đến bữa tiệc của tớ, Jenny.",
+          "normal": {
+            "start": "00:00:00.557",
+            "end": "00:00:02.332"
+          },
+          "slow": {
+            "start": "00:00:00.666",
+            "end": "00:00:02.984"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "cc7df7cd-9bf2-4f46-9886-b6b79fe0323e"
+          },
+          "dapAn": "Come and say hello to everyone. John’s here, too.",
+          "phienAm": "/kʌm ænd seɪ həˈləʊ tuː ˈevrɪwʌn/. /ʤɒnz hɪər tuː/",
+          "yNghia": "\nĐến đây và chào mọi người nào. John cũng ở đây đó.",
+          "normal": {
+            "start": "00:00:05.470",
+            "end": "00:00:08.772"
+          },
+          "slow": {
+            "start": "00:00:07.997",
+            "end": "00:00:12.342"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2b7c6eba-8084-43b8-9400-e02ddb9727c4"
+          },
+          "dapAn": "Yes, that’s right. He’s over there with my brother.",
+          "phienAm": "/jes ðæts raɪt/. /hiːz ˈəʊvər ðeər wɪð maɪ ˈbrʌðər/",
+          "yNghia": "\nỪ, đúng đó. Anh ấy đang ở đằng kia với anh trai tớ.",
+          "normal": {
+            "start": "00:00:14.489",
+            "end": "00:00:18.287"
+          },
+          "slow": {
+            "start": "00:00:21.005",
+            "end": "00:00:25.757"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f7791aea-9810-4d7c-95b4-d32932acad0d"
+          },
+          "dapAn": "Yeah, John has blond hair, and my brother has dark hair.",
+          "phienAm": "/jeə ʤɒn hæz blɒnd heər ænd maɪ ˈbrʌðər hæz dɑːk heər/",
+          "yNghia": "\nỪ, John có tóc màu vàng, và anh trai tớ có tóc sẫm màu.",
+          "normal": {
+            "start": "00:00:22.780",
+            "end": "00:00:28.067"
+          },
+          "slow": {
+            "start": "00:00:32.826",
+            "end": "00:00:38.476"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "db994a42-7cf5-42ef-ba98-423fca2b1b81"
+          },
+          "dapAn": "Yes, she is. The short woman on the right is her friend.",
+          "phienAm": "/jes ʃiː ɪz/. /ðə ʃɔːt ˈwʊmən ɒn ðə raɪt ɪz hɜːr frend/",
+          "yNghia": "\nĐúng vậy. Người phụ nữ thấp ở phía bên phải là bạn của bà ấy.",
+          "normal": {
+            "start": "00:00:32.322",
+            "end": "00:00:36.842"
+          },
+          "slow": {
+            "start": "00:00:46.531",
+            "end": "00:00:51.746"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "328d9239-df34-435a-9d1d-bb1615a778d8"
+          },
+          "dapAn": "Exactly! How do you know?",
+          "phienAm": "/ɪgˈzæktli/. /haʊ duː juː nəʊ/",
+          "yNghia": "\nChính xác! Làm sao cậu biết vậy?",
+          "normal": {
+            "start": "00:00:40.042",
+            "end": "00:00:42.126"
+          },
+          "slow": {
+            "start": "00:00:56.990",
+            "end": "00:00:59.279"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b27c7bbf-5c92-47a0-99be-2e5fd3740bc3"
+          },
+          "dapAn": "Right. But they don’t have the same eye color.",
+          "phienAm": "/raɪt/. /bʌt ðeɪ dəʊnt hæv ðə seɪm aɪ ˈkʌlər/",
+          "yNghia": "\nĐúng thế. Nhưng họ không có cùng màu mắt.",
+          "normal": {
+            "start": "00:00:45.449",
+            "end": "00:00:48.793"
+          },
+          "slow": {
+            "start": "00:01:05.044",
+            "end": "00:01:08.434"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "937c5346-6778-4308-a9e3-02706ce6be74"
+          },
+          "dapAn": "You look a bit tired today. Is everything okay?",
+          "phienAm": "/juː lʊk ə bɪt ˈtaɪəd təˈdeɪ/. /ɪz ˈevrɪθɪŋ ˈəʊˈkeɪ/",
+          "yNghia": "\nHôm nay nhìn cậu hơi mệt mỏi. Mọi thứ ổn chứ?",
+          "normal": {
+            "start": "00:00:51.394",
+            "end": "00:00:54.634"
+          },
+          "slow": {
+            "start": "00:01:11.911",
+            "end": "00:01:15.996"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f27b8d16-2175-4659-895e-b23196b367f3"
+          },
+          "dapAn": "Do you want a drink? There’s some orange juice and wine.",
+          "phienAm": "/duː juː wɒnt ə drɪŋk/. /ðeərz sʌm ˈɒrɪnʤ ʤuːs ænd waɪn/",
+          "yNghia": "\nCậu muốn uống gì không? Có một ít nước cam và rượu.",
+          "normal": {
+            "start": "00:00:58.246",
+            "end": "00:01:01.961"
+          },
+          "slow": {
+            "start": "00:01:21.182",
+            "end": "00:01:25.586"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6bbad96c-ff75-426d-bf29-810109f47cf1"
+          },
+          "dapAn": "Yes, come. Take these cookies.",
+          "phienAm": "/jes kʌm/. /teɪk ðiːz ˈkʊkiz/",
+          "yNghia": "\nCó, đến đây. Lấy những cái bánh quy này đi.",
+          "normal": {
+            "start": "00:01:06.172",
+            "end": "00:01:08.566"
+          },
+          "slow": {
+            "start": "00:01:33.409",
+            "end": "00:01:36.480"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "57352688-f676-454b-85f8-a32baa87a7e1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Jenny",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c3dcb399-0371-47c5-8028-938ee40a896c"
+          },
+          "dapAn": "Thank you for inviting me.",
+          "phienAm": "/θæŋk juː fɔːr ɪnˈvaɪtɪŋ miː/",
+          "yNghia": "\nCảm ơn cậu đã mời tớ.",
+          "normal": {
+            "start": "00:00:03.034",
+            "end": "00:00:04.974"
+          },
+          "slow": {
+            "start": "00:00:03.738",
+            "end": "00:00:07.127"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b38a1122-ba5e-4d51-a309-d2cd7103522b"
+          },
+          "dapAn": "OK. Who’s John? Is he your new co-worker?",
+          "phienAm": "/ˈəʊˈkeɪ/. /huːz ʤɒn/. /ɪz hiː jɔːr njuː kəʊ-ˈwɜːkər/",
+          "yNghia": "\nOK. Ai là John vậy? Anh ấy là đồng nghiệp mới của cậu à?",
+          "normal": {
+            "start": "00:00:09.507",
+            "end": "00:00:13.911"
+          },
+          "slow": {
+            "start": "00:00:13.414",
+            "end": "00:00:20.223"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "da96be7c-5f28-4c9b-8add-5f48217b21c1"
+          },
+          "dapAn": "Oh, they’re both tall and slim.",
+          "phienAm": "/əʊ ðeər bəʊθ tɔːl ænd slɪm/",
+          "yNghia": "\nỒ, họ đều cao và gầy.",
+          "normal": {
+            "start": "00:00:18.782",
+            "end": "00:00:22.291"
+          },
+          "slow": {
+            "start": "00:00:26.481",
+            "end": "00:00:31.725"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9daab35a-f163-417a-811d-33a53126fcc4"
+          },
+          "dapAn": "Oh, is that your mother? She looks happy.",
+          "phienAm": "/əʊ ɪz ðæt jɔːr ˈmʌðər/. /ʃiː lʊks ˈhæpi/",
+          "yNghia": "\nỒ, đó có phải là mẹ cậu không? Bà ấy trông rất vui vẻ.",
+          "normal": {
+            "start": "00:00:28.690",
+            "end": "00:00:31.435"
+          },
+          "slow": {
+            "start": "00:00:39.548",
+            "end": "00:00:45.517"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c3fc0133-95f3-432d-ac1f-f59ca679234d"
+          },
+          "dapAn": "Is the woman on the left her sister?",
+          "phienAm": "/ɪz ðə ˈwʊmən ɒn ðə left hɜːr ˈsɪstər/",
+          "yNghia": "\nNgười phụ nữ ở phía bên trái là chị của bà ấy phải không?",
+          "normal": {
+            "start": "00:00:37.276",
+            "end": "00:00:39.629"
+          },
+          "slow": {
+            "start": "00:00:52.615",
+            "end": "00:00:56.237"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "aa0418c8-1862-4111-ac54-674d22253a26"
+          },
+          "dapAn": "Well, they both have brown hair.",
+          "phienAm": "/wel ðeɪ bəʊθ hæv braʊn heər/",
+          "yNghia": "\nThì họ đều có tóc màu nâu.",
+          "normal": {
+            "start": "00:00:42.622",
+            "end": "00:00:44.933"
+          },
+          "slow": {
+            "start": "00:01:00.235",
+            "end": "00:01:04.436"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "91df6962-f204-4f49-8f58-cbeab3f9511b"
+          },
+          "dapAn": "That’s interesting.",
+          "phienAm": "/ðæts ˈɪntrɪstɪŋ/",
+          "yNghia": "\nThú vị đó.",
+          "normal": {
+            "start": "00:00:49.454",
+            "end": "00:00:50.754"
+          },
+          "slow": {
+            "start": "00:01:08.862",
+            "end": "00:01:11.354"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4feb742e-4797-4667-9787-79ac85f47887"
+          },
+          "dapAn": "Don’t worry, I’m fine.",
+          "phienAm": "/dəʊnt ˈwʌri aɪm faɪn/",
+          "yNghia": "\nĐừng lo, tớ ổn.",
+          "normal": {
+            "start": "00:00:55.625",
+            "end": "00:00:57.256"
+          },
+          "slow": {
+            "start": "00:01:16.865",
+            "end": "00:01:20.168"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c59b7371-f890-4d5b-9641-13f10c395ab8"
+          },
+          "dapAn": "Oh, is there any food? I’m hungry.",
+          "phienAm": "/əʊ ɪz ðeər ˈeni fuːd/. /aɪm ˈhʌŋgri/",
+          "yNghia": "\nỒ, có đồ ăn không? Tớ đói.",
+          "normal": {
+            "start": "00:01:02.787",
+            "end": "00:01:05.491"
+          },
+          "slow": {
+            "start": "00:01:26.253",
+            "end": "00:01:32.598"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c5892103-88bf-4683-af72-5534ca256996"
+          },
+          "dapAn": "Great! Thanks a lot.",
+          "phienAm": "/greɪt/. /θæŋks ə lɒt/",
+          "yNghia": "\nTuyệt! Cảm ơn cậu nhiều.",
+          "normal": {
+            "start": "00:01:09.144",
+            "end": "00:01:10.651"
+          },
+          "slow": {
+            "start": "00:01:36.915",
+            "end": "00:01:40.073"
+          }
+        }
+      ]
+    }
+  ]
+}

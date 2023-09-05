@@ -1,0 +1,406 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "e98f5d27-1533-4e6e-9e5f-42017bb07ace"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Bookstore",
+      "yNghia": "Hiệu sách",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d5ab9208-e815-4b7c-8db6-38c81817fb9e"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Dress",
+      "yNghia": "Váy",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f8cce75b-5aca-4dae-81d9-982a9e74dda9"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Pants",
+      "yNghia": "Quần",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4a763705-c8ed-44bc-99c0-5d9b91b08a4b"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "T-shirt",
+      "yNghia": "Áo phông",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b538edd2-e6a6-41b5-ac56-01d526b562d2"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Suit",
+      "yNghia": "Bộ com-lê",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f9ec2dc2-16aa-42b9-88f5-02cbaadc862e"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Boots",
+      "yNghia": "Đôi bốt",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d99f07cf-b40a-4867-9042-7ddded956801"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Restaurant",
+      "yNghia": "Nhà hàng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8f115638-0fd6-44ea-afd5-adc4d8f79b25"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Museum",
+      "yNghia": "Bảo tàng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7bb6be85-a5a3-494d-aab7-cb34d553b58a"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Jeans",
+      "yNghia": "Quần jeans",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "bd06a3a2-f431-4e43-9f1d-fe0572f12298"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Expensive",
+      "yNghia": "Đắt đỏ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c7621bf1-d9fb-4e99-8580-c0cba7515d7d"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Tight",
+      "yNghia": "Chật",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4d062f91-701c-4d87-b18b-1125bcb8a43c"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Loose",
+      "yNghia": "Rộng, lỏng lẻo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "01853780-c4a5-42ab-8d0c-24f7dee5cf0e"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Casual",
+      "yNghia": "Tự nhiên, đời thường",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ee512bb1-84dc-4b94-aa7e-bad528f7f2ae"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Short",
+      "yNghia": "Ngắn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c7cbf5d2-d388-4b97-bc54-c4c25cee50ac"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Cheap",
+      "yNghia": "Rẻ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "629f7725-fe2e-423e-a9a4-d3eecdbbe2f4"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Dressy",
+      "yNghia": "Sang trọng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "59e16629-f095-4eef-8a90-52d628b1c640"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Coffee shop",
+      "yNghia": "Quán cà phê",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b46a139f-0162-4b4e-b649-1aa72aefdb0e"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Buy a book",
+      "yNghia": "Mua quyển sách",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "985eeecf-8c48-4ced-b6ea-1d4088b2ffed"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "On the corner of",
+      "yNghia": "Ở góc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "832922f4-890d-4552-85ec-81a08852289b"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "On the right",
+      "yNghia": "Ở phía phải",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d7baf317-4225-48d9-8363-d4f4b3ac475d"
+      },
+      "cauHoiNho": [],
+      "STT": 21,
+      "cauHoi": "Take a nap",
+      "yNghia": "Có một giấc ngủ ngắn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "34fd6e06-429f-4f74-bc36-c030e1103593"
+      },
+      "cauHoiNho": [],
+      "STT": 22,
+      "cauHoi": "Listen to music",
+      "yNghia": "Nghe nhạc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b78391b5-e614-49bc-84cc-a6215759c8c5"
+      },
+      "cauHoiNho": [],
+      "STT": 23,
+      "cauHoi": "Check e-mail",
+      "yNghia": "Kiểm tra thư điện tử",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4c65c468-be0f-4eb1-9fae-9c5f568a4b13"
+      },
+      "cauHoiNho": [],
+      "STT": 24,
+      "cauHoi": "Go out for dinner",
+      "yNghia": "Ra ngoài ăn tối",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4e69bf68-6966-4e3a-9bb9-1bcbf92ef5eb"
+      },
+      "cauHoiNho": [],
+      "STT": 25,
+      "cauHoi": "Go to the movies",
+      "yNghia": "Đi xem phim",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3b4fae0f-e768-4889-bfa9-0523b83db01a"
+      },
+      "cauHoiNho": [],
+      "STT": 26,
+      "cauHoi": "Drive a car",
+      "yNghia": "Lái xe ô tô",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3d226685-c865-4336-baba-f3e5f26036bf"
+      },
+      "cauHoiNho": [],
+      "STT": 27,
+      "cauHoi": "Cook a meal",
+      "yNghia": "Nấu một bữa ăn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8567ec16-e0b8-4b31-aa1d-37acaaa14fad"
+      },
+      "cauHoiNho": [],
+      "STT": 28,
+      "cauHoi": "Do yoga",
+      "yNghia": "Tập yoga",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "cc6d26f3-588f-4244-8a8a-c9e3daab754f"
+      },
+      "cauHoiNho": [],
+      "STT": 29,
+      "cauHoi": "Wash the dishes",
+      "yNghia": "Rửa bát",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "bca3f4d6-c781-4fe5-86f8-4650215df97c"
+      },
+      "cauHoiNho": [],
+      "STT": 30,
+      "cauHoi": "Clean the house",
+      "yNghia": "Lau nhà",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2bf7a0ab-9580-4934-b0a7-2f8fc2cda007"
+      },
+      "cauHoiNho": [],
+      "STT": 31,
+      "cauHoi": "Do the laundry",
+      "yNghia": "Giặt quần áo",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3caa0541-4d85-4a47-8f5e-692f1498c10e"
+      },
+      "cauHoiNho": [],
+      "STT": 32,
+      "cauHoi": "Take out the garbage",
+      "yNghia": "Đổ rác",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4d588a43-a56d-4c72-bee4-c751acb5fff0"
+      },
+      "cauHoiNho": [],
+      "STT": 33,
+      "cauHoi": "Go shopping",
+      "yNghia": "Đi mua sắm",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "146fb719-5120-42d5-ae9b-7ebb8024af22"
+      },
+      "cauHoiNho": [],
+      "STT": 34,
+      "cauHoi": "Sunny",
+      "yNghia": "(Trời) nắng đẹp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5c079bbc-3c71-4019-b7e8-68cbbcab31b2"
+      },
+      "cauHoiNho": [],
+      "STT": 35,
+      "cauHoi": "Windy",
+      "yNghia": "(Trời) có gió",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9552db52-1274-48f1-9d2b-d6c60bbeeccd"
+      },
+      "cauHoiNho": [],
+      "STT": 36,
+      "cauHoi": "Snowy",
+      "yNghia": "(Trời) có tuyết rơi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ed7d756d-7fea-49ab-9e33-c00c1f8b39ab"
+      },
+      "cauHoiNho": [],
+      "STT": 37,
+      "cauHoi": "Rainy",
+      "yNghia": "(Trời) mưa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5456b530-f91c-410e-8b6d-8dec6192be3c"
+      },
+      "cauHoiNho": [],
+      "STT": 38,
+      "cauHoi": "Cloudy",
+      "yNghia": "(Trời) nhiều mây",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1f19db4f-7b22-4076-894f-65f78a03b679"
+      },
+      "cauHoiNho": [],
+      "STT": 39,
+      "cauHoi": "Cool",
+      "yNghia": "Mát mẻ",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0a229e75-0970-47a2-aaa4-2e1de5be2617"
+      },
+      "cauHoiNho": [],
+      "STT": 40,
+      "cauHoi": "Freezing",
+      "yNghia": "(Trời) rất lạnh",
+      "danhSachDapAn": []
+    }
+  ]
+}

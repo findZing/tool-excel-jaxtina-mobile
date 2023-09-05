@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "a86a6752-1937-415d-8be0-a5fa3ddba105"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’m going to start apartment hunting after _____________. How about you?",
+      "yNghia": "I'm going to start apartment hunting after <span style=\"color:red\">graduation</span>. How about you?<br />\r\n<i>Tôi sẽ bắt đầu tìm căn hộ để ở sau khi <span style=\"color:red\">tốt nghiệp</span>. Còn bạn thì sao?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "12b96a9c-b424-4417-87c0-4a26a0e5b3ae"
+          },
+          "dapAn": "marriage",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3ed2c109-c45e-47a8-b5c1-966f256f7a00"
+          },
+          "dapAn": "graduation",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8d796e92-8e2c-4f9e-87ed-b1587df67e55"
+          },
+          "dapAn": "contest",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_1. I ... you.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_1. I ... you.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "4c39bbfb-7351-438d-a477-3d67c3c1df69"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Uhm, I want to find a job in _______________, so maybe I’ll live in an apartment near the financial district.",
+      "yNghia": "Uhm, I want to find a job in <span style=\"color:red\">finance</span>, so maybe I'll live in an apartment near the financial district.<br />\r\n<i>Ừm, tôi muốn tìm một công việc trong <span style=\"color:red\">lĩnh vực tài chính</span>, vì vậy có lẽ tôi sẽ sống trong một căn hộ gần khu tài chính.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "aaf320a3-d311-44a6-a830-3bc8b7138671"
+          },
+          "dapAn": "accounting",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "75e6dd6c-7a1a-440d-ab98-e9e4bd5def3d"
+          },
+          "dapAn": "marketing",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "56e93704-0c70-4639-b755-c4380582e993"
+          },
+          "dapAn": "finance",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_2. Uhm ... district.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_2. Uhm ... district.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6df0104d-793f-49c9-bb9b-d50a84171cf7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "But if you don’t find a job, you ________________ be able to afford it.",
+      "yNghia": "But if you don't find a job, you <span style=\"color:red\">won't </span>be able to afford it.<br />\r\n<i>Nhưng nếu bạn không tìm được việc làm, bạn <span style=\"color:red\">sẽ không</span> đủ khả năng chi trả.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f5cbf94c-7b1e-48a0-8858-764cceb63c53"
+          },
+          "dapAn": "won't",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "20584007-eedb-4fa9-9d6f-9a89dc3a056e"
+          },
+          "dapAn": "will not",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "015ceba8-594b-48a7-9a28-c8c3c8a3cd54"
+          },
+          "dapAn": "will",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_3. But ... it.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_3. But ... it.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "bcf3c0c0-e69b-46db-9e3b-ae682412f8ac"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes. I _____________ still be at home with my mom and dad.",
+      "yNghia": "Yes. I <span style=\"color:red\">might </span>still be at home with my mom and dad.<br />\r\n<i>Đúng. Tôi <span style=\"color:red\">có thể </span>vẫn ở nhà với bố mẹ tôi.</i><br />\r\nYou could live with a <span style=\"color:red\">friend</span>.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ba2573be-3940-4d4f-aa8e-f7993335a531"
+          },
+          "dapAn": "may",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "323dc61b-ba08-4351-adea-329ea51a6ba4"
+          },
+          "dapAn": "might",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2d5e6e02-8441-45cd-be3a-f8b27709c01c"
+          },
+          "dapAn": "can",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_4. Yes ... dad.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_4. Yes ... dad.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c195f001-05dc-49cb-9ea7-696fb3de6684"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You could live with a _____________. My brother and a couple of friends rent an apartment together.",
+      "yNghia": "My brother and a couple of friends rent an apartment together.<br />\r\n<i>Bạn có thể sống với một <span style=\"color:red\">người bạn</span>. Anh trai tôi và một vài người bạn cùng nhau thuê một căn hộ.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3f0252c4-f9bc-4f6d-93ef-c1dafff20adb"
+          },
+          "dapAn": "colleague",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ba143c63-c6af-40a9-b126-c659d99a72b7"
+          },
+          "dapAn": "friend",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e82281c8-7fcd-486a-9634-0f6eee75d7ba"
+          },
+          "dapAn": "co-worker",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_5. You ... together.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_5. You ... together.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "bd6f136c-d1ff-478d-9c52-eb20a81687a5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That’s right. I can share the _____________ and the chores.",
+      "yNghia": "That's right. I can share the <span style=\"color:red\">bills </span>and the chores.<br />\r\n<i>Đúng rồi. Tôi có thể chia sẻ <span style=\"color:red\">các hóa đơn</span> và công việc nhà.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0976ae1c-04e3-4246-905a-b0e7eeb0ad87"
+          },
+          "dapAn": "bills",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2a778162-682d-4ef6-8531-f422fbd1e124"
+          },
+          "dapAn": "invoices",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9928e558-3b49-4196-9096-4603f46b2e6c"
+          },
+          "dapAn": "receipts",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_6. That ... chores.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_6. That ... chores.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "76c7a4ca-a7b6-4e00-804b-3126d1e32f3c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yep. My _____________ is doing the same.",
+      "yNghia": "Yep. My <span style=\"color:red\">brother </span>is doing the same.<br />\r\n<i>Chuẩn rồi. <span style=\"color:red\">Anh trai </span>tôi cũng đang làm như vậy.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1106976c-3ddf-4cfb-b744-68ff52ab18a0"
+          },
+          "dapAn": "niece",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5019c705-134e-4f7f-b8ab-c0c003e02d3f"
+          },
+          "dapAn": "sister",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8557ccfd-270b-4b77-8966-4fae32ffab94"
+          },
+          "dapAn": "brother",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_7. Yep ... same.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_7. Yep ... same.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "77ad4887-7d54-4fdd-8207-c747a9a9bf47"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’d like to have roommates, but _____________ is so expensive.",
+      "yNghia": "I'd like to have roommates, but <span style=\"color:red\">renting </span>is so expensive.<br />\r\n<i>Tôi muốn có bạn cùng phòng, nhưng <span style=\"color:red\">tiền thuê </span>quá đắt.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6cd1e68a-45bf-4751-8592-c17b857ad880"
+          },
+          "dapAn": "buying",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5c530b9d-b48c-458f-a6d9-a46b98a4e369"
+          },
+          "dapAn": "renting",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "beed76dd-38cf-49a6-80f9-5b7e8ac941d5"
+          },
+          "dapAn": "selling",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_8. I_d ... expensive.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_8. I_d ... expensive.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b38c4be6-b3f7-4590-8534-d632925bcb6b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You might have the problem of _____________ to work.",
+      "yNghia": "You might have the problem of <span style=\"color:red\">travelling </span>to work.<br />\r\n<i>Bạn sẽ có thể gặp vấn đề với <span style=\"color:red\">việc đi lại </span>tới chỗ làm.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9ee7375e-13d3-4529-ba4e-9f9feaba51ca"
+          },
+          "dapAn": "moving",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5e914e19-4937-4a4a-bc23-5e64c7e220dc"
+          },
+          "dapAn": "going",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8b935074-256e-4bdc-84ed-cd014887b1a3"
+          },
+          "dapAn": "travelling",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_9. You ... work.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_9. You ... work.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "4878f599-9da5-4a36-893e-1f845bfc8bc2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "If I find a good job, I might rent a studio apartment _____________.",
+      "yNghia": "If I find a good job, I might rent a studio apartment <span style=\"color:red\">downtown</span>.<br />\r\n<i>Nếu tôi tìm được một công việc tốt, tôi có thể thuê một căn hộ nhỏ <span style=\"color:red\">ở khu trung tâm thành phố</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fc091001-af50-442d-865c-5739f1d0699f"
+          },
+          "dapAn": "in metropolitan districts",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a89d8f03-72a2-461c-9a45-22aa386320fe"
+          },
+          "dapAn": "downtown",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5c31070c-dfad-42a5-8bf8-e7c5eadd5073"
+          },
+          "dapAn": "outside the city",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_10. If ... downtown.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_10. If ... downtown.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b37451e3-9402-485b-98e6-075eeacd3fd5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It’s so convenient because you’d be close to all the _____________ and places to go.",
+      "yNghia": "It's so convenient because you'd be close to all the <span style=\"color:red\">restaurants </span>and places to go.<br />\r\n<i>Thật tiện lợi vì bạn sẽ ở gần tất cả các <span style=\"color:red\">nhà hàng </span>và địa điểm có thể tới.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1cbdf436-65c7-4626-ae30-e5860aea4797"
+          },
+          "dapAn": "restaurants",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8a7e80dd-1575-47d9-946a-86e7dde0d1c4"
+          },
+          "dapAn": "hospitals",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "61e7dc67-d637-4a91-ac6e-cd48bca24abb"
+          },
+          "dapAn": "schools",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_11. It_s ... go.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_11. It_s ... go.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "0be3adef-3785-457f-993c-e9b4b58cae7b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Exactly what I _____________. I’d like to be downtown.",
+      "yNghia": "Exactly what I <span style=\"color:red\">want</span>. I'd like to be downtown.<br />\r\n<i>Chính xác những gì tôi <span style=\"color:red\">muốn</span>. Tôi muốn ở trung tâm thành phố.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "316c34fb-568c-4c38-aba0-41b06db267f7"
+          },
+          "dapAn": "like",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f1225f32-879d-4e27-94b3-88e8e4fa7666"
+          },
+          "dapAn": "love",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1e38ab20-9395-42ac-ad50-ee540dc7bad6"
+          },
+          "dapAn": "want",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_12. Exactly ... downtown.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_12. Exactly ... downtown.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "01fd80a1-5f8d-4ff8-b2c0-98b1fb813114"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That sounds _____________, but you might get lonely living alone.",
+      "yNghia": "That sounds <span style=\"color:red\">great</span>, but you might get lonely living alone.<br />\r\n<i>Điều đó nghe có vẻ <span style=\"color:red\">tuyệt vời</span>, nhưng bạn có thể cảm thấy cô đơn khi sống một mình.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f10157e2-00f3-4704-a0d6-a65b9f88afed"
+          },
+          "dapAn": "interesting",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "53072ef5-1a50-41f1-898b-a8586d31ff86"
+          },
+          "dapAn": "good",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "816090d2-be14-440a-94b2-6860764dc16b"
+          },
+          "dapAn": "great",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_13. That ... alone.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_13. That ... alone.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "713045a5-702a-4247-afa2-64d97b6de91f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I think I _____________ ask my brother to live with me!",
+      "yNghia": "I think I <span style=\"color:red\">might </span>ask my brother to live with me!<br />\r\n<i>Tôi nghĩ rằng tôi <span style=\"color:red\">có thể đề nghị </span>anh trai tôi sống với tôi!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2364fda4-4319-4af4-9b08-689c9d4bd096"
+          },
+          "dapAn": "might",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d42c93a0-2ba6-43f1-8e28-46801428a94d"
+          },
+          "dapAn": "definitely",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6614ec5f-8e28-43f6-a6b4-899151451560"
+          },
+          "dapAn": "probably",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_14. I ... me.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_14. I ... me.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "4449bcee-af37-4ea6-b400-b70496cf6529"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Good idea! Won’t you miss living with your _____________?",
+      "yNghia": "Good idea! Won't you miss living with your <span style=\"color:red\">family</span>?<br />\r\n<i>Ý tưởng hay đó! Bạn sẽ không nhớ lúc sống với <span style=\"color:red\">gia đình </span>của bạn hay sao?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "769b8dc6-cb26-4d1b-9739-b060d5329e52"
+          },
+          "dapAn": "parents",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a6eec4f7-405e-41ce-8ecb-7a3a3431d98e"
+          },
+          "dapAn": "family",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e8ed4586-ec3e-4a31-b839-184888f70ff2"
+          },
+          "dapAn": "siblings",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_15. Good ... family.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_15. Good ... family.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "0945d26b-bea4-4a59-a406-d8756d0afa9a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I will _____________ miss them! But they could come and see me.",
+      "yNghia": "I will <span style=\"color:red\">definitely </span>miss them! But they could come and see me.<br />\r\n<i>Tôi <span style=\"color:red\">chắc chắn </span>sẽ nhớ họ! Nhưng họ có thể đến gặp tôi.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "42a79d64-6b26-4021-8bb4-da8b0ae1df07"
+          },
+          "dapAn": "might",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0b8e59dd-c207-4fb9-bcf6-1d7f47714ed0"
+          },
+          "dapAn": "definitely",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a1a570d5-b8df-4ca0-a8ce-316e79d1f2c4"
+          },
+          "dapAn": "probably",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_14. I ... me.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_14. I ... me.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "cdbf3bae-1754-4b6d-9622-ecb56dab0358"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I think you can ask your brother what it’s like. So what is your _____________ apartment?",
+      "yNghia": "I think you can ask your brother what it's like. So what is your <span style=\"color:red\">ideal </span>apartment?<br />\r\n<i>Tôi nghĩ bạn có thể hỏi anh trai của bạn xem nó như thế nào. Vậy căn hộ <span style=\"color:red\">lý tưởng</span> của bạn là gì?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4437774b-dfff-4148-b651-985d5f61295e"
+          },
+          "dapAn": "perfect",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6497dd54-b6c3-48bf-8169-3cff85f9c334"
+          },
+          "dapAn": "ideal",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "636706d0-79ac-4dd2-9d61-8bbe1897b2fc"
+          },
+          "dapAn": "favorite",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_17. I ... apartment.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_17. I ... apartment.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ade1a48f-28c3-4c28-bba2-ee321d9d9cd8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Well, I want to have a hall and a _____________. I will relax on the couch on the balcony every night after work.",
+      "yNghia": "Well, I want to have a hall and a <span style=\"color:red\">balcony</span>. I will relax on the couch on the balcony every night after work.<br />\r\n<i>À, tôi muốn có sảnh và <span style=\"color:red\">ban công</span>. Tôi sẽ thư giãn trên chiếc ghế sofa ngoài ban công mỗi tối sau giờ làm việc.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3f602e8a-f1c5-48ba-a4fc-793f3360f6d1"
+          },
+          "dapAn": "yard",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d4840726-d1b6-4c31-b425-6992d4fade23"
+          },
+          "dapAn": "balcony",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "54d4408c-5b71-4a64-bdf5-c1b21adc7fb9"
+          },
+          "dapAn": "garden",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_18. Welll work.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_18. Welll work.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "4f3ed8c8-dab3-4cc2-a773-d399b66f4d8a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It would be even more wonderful if you had a cup of _____________.",
+      "yNghia": "It would be even more wonderful if you had a cup of <span style=\"color:red\">coffee</span>.<br />\n<i>Sẽ càng tuyệt vời hơn nếu bạn có một tách <span style=\"color:red\">cà phê</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "492c85eb-9503-4464-8187-8d6e1e194b5e"
+          },
+          "dapAn": "milk",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7c52430c-2b72-4486-9514-3867edc327ca"
+          },
+          "dapAn": "coffee",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "80c7afcf-7aa2-4eba-87b2-a52080a35dea"
+          },
+          "dapAn": "tea",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_19. It ... coffee.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_19. It ... coffee.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2b3979c3-367e-4454-bfb8-8600b52b7e66"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Exactly! I will also buy some modern _____________ if I can.",
+      "yNghia": "Exactly! I will also buy some modern <span style=\"color:red\">appliances </span>if I can.<br />\r\n<i>Đúng vậy! Tôi cũng sẽ mua một số <span style=\"color:red\">thiết bị </span>hiện đại nếu tôi có thể.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4bc23def-cf2a-400c-b80d-2bbd23560a5b"
+          },
+          "dapAn": "equipment",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8388ca66-9715-4550-80fe-e80858bcc846"
+          },
+          "dapAn": "tools",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1293790f-7ec3-461b-84ca-93ef616a35be"
+          },
+          "dapAn": "appliances",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L17/sounds/normal/TC_17_LISTENING_20. Exactly ... I can.mp3",
+      "soundSlow": "4SKILLS_TC_L17/sounds/slow/TC_17_LISTENING_20. Exactly ... I can.mp3"
+    }
+  ]
+}

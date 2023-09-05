@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "c047913a-8a59-472f-bb7b-cdbca8b7ff95"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "_____ are you from?",
+      "yNghia": "<span style=\"color:red\">Where</span> are you from?<br />\r\n<i>Bạn đến từ <span style=\"color:red\">đâu </span>thế?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "07eb235c-3dab-4153-a579-bb2b53ea23ba"
+          },
+          "dapAn": "Which city",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f8e8ca63-2a37-4bda-bee7-2e06a626a16c"
+          },
+          "dapAn": "Where",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "974b660b-fefe-49aa-9ac5-9de2f36bf742"
+          },
+          "dapAn": "Why",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_1. Where ... from.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_1. Where ... from.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1f0f0dbc-95b8-449e-b5a8-1e862f5fad31"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’m from _____.",
+      "yNghia": "I'm from <span style=\"color:red\">New York</span>.<br />\r\n<i>Mình đến từ <span style=\"color:red\">New York</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "18ce141e-af4f-4242-8ac6-19deffc0d278"
+          },
+          "dapAn": "New York",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "69d091b7-9024-4b41-ad26-7bdb03c524cf"
+          },
+          "dapAn": "London",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1f8d243f-5688-4585-b660-72a8cf8c81c1"
+          },
+          "dapAn": "Washing D.C",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_2. I_m ... York.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_2. I_m ... York.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "8a477fe5-e04c-43ee-bbb3-ff29fd5b5dc6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What’s your _____?",
+      "yNghia": "What's your <span style=\"color:red\">major</span>?<br />\n<i><span style=\"color:red\">Chuyên ngành </span></i><i>của bạn là gì vậy?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d6332b40-ce57-471b-b950-836fca513c38"
+          },
+          "dapAn": "subject",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ca3372be-460a-438b-ab16-ab55dc7d8da7"
+          },
+          "dapAn": "language",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "115a24f1-0721-463b-9c5a-f4c2ecbc3676"
+          },
+          "dapAn": "major",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_3. What ... major.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_3. What ... major.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "83007ecf-c9de-48af-8fbf-c23fcc1d1a48"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I study _____.",
+      "yNghia": "I study <span style=\"color:red\">Art</span>.<br />\r\n<i>Mình học <span style=\"color:red\">Mỹ thuật</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e6050cdb-42d7-44bf-9c3a-866aabfe07d8"
+          },
+          "dapAn": "Art",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "eb9ec1fd-93ab-4b50-a81e-f7d3b310906d"
+          },
+          "dapAn": "Maths",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f58420d0-4138-4aed-8848-a89fb6d2d6c2"
+          },
+          "dapAn": "History",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_4. I ... Art.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_4. I ... Art.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c0c49e72-e5ee-4a6f-b2e7-d35e1bdff302"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you _____?",
+      "yNghia": "Can you <span style=\"color:red\">draw</span>?<br />\r\n<i>Bạn có thể <span style=\"color:red\">vẽ</span> không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "64f9517d-f484-4e70-8521-f6661b98e5e1"
+          },
+          "dapAn": "do",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5b95c6be-4797-41f3-8deb-06c8c13c1ec8"
+          },
+          "dapAn": "draw",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f6ae9c1d-8e5b-4f84-b0df-58fbd5ed5cf4"
+          },
+          "dapAn": "dance",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_5. Can ... draw.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_5. Can ... draw.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e238af32-7410-4121-8159-1cb36723ad8c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What _____ you draw?",
+      "yNghia": "What <span style=\"color:red\">can </span>you draw?<br />\r\n<i>Bạn <span style=\"color:red\">có thể </span>vẽ gì vậy?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "26fc947e-192f-4083-a9e9-c67d1bdb3168"
+          },
+          "dapAn": "cannot",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "14108fb9-679e-4e15-a957-018c88062dc4"
+          },
+          "dapAn": "could",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3755d6e8-22db-42d3-b2a1-71e619094ac1"
+          },
+          "dapAn": "can",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_6. What ... draw.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_6. What ... draw.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ad1fcabb-db80-483d-ba33-e15b9d88af1f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you draw _____?",
+      "yNghia": "Can you draw <span style=\"color:red\">animals</span>?<br />\r\n<i>Bạn có thể vẽ <span style=\"color:red\">động vật </span>không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f8a72fea-de88-4e62-b0b2-eefda2d7a7a5"
+          },
+          "dapAn": "ants",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8aa0a792-601d-4a6a-b5d4-68218d8ab037"
+          },
+          "dapAn": "animals",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b8f4508e-4579-4598-b56f-763dee71f116"
+          },
+          "dapAn": "apes",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_7. Can ... animals.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_7. Can ... animals.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "135124d9-f237-4acf-89fb-7422f5a054b2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I _____ drawing animals.",
+      "yNghia": "I <span style=\"color:red\">love </span>drawing animals.<br />\r\n<i>Mình <span style=\"color:red\">rất thích </span>vẽ động vật.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "408be62d-b820-4b0c-9598-a0e73759e970"
+          },
+          "dapAn": "love",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "86612d38-92b7-4bf5-bd25-646800c1fc0e"
+          },
+          "dapAn": "like",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "066a09d6-a6f6-467f-ade4-d7d7e3ac50db"
+          },
+          "dapAn": "hate",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_8. I ... animals.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_8. I ... animals.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e58b5b7f-ab18-4251-a3f3-aa2a77d0d766"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "_____ you like sports?",
+      "yNghia": "<span style=\"color:red\">Do </span>you like sports?<br />\r\n<i>Bạn có thích thể thao không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "754c9cbb-80fb-4322-bbd2-337da6df86ae"
+          },
+          "dapAn": "Did",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a62d5a32-3ce7-4b08-a2ff-dfa031e3a690"
+          },
+          "dapAn": "Does",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8c44a98a-75de-4b19-ac29-cb59e1763480"
+          },
+          "dapAn": "Do",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_9. Do ... sports.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_9. Do ... sports.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2e6cc82d-7621-480a-9e6d-94257a3065fa"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "_____ you swim?",
+      "yNghia": "<span style=\"color:red\">Can</span> you swim?<br />\r\n<i>Bạn <span style=\"color:red\">có thể </span>bơi chứ?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "11d79b6e-dc63-4aab-a5e9-342bd09d6759"
+          },
+          "dapAn": "Cannot",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b1a00851-db92-4b84-8808-89dd3254b849"
+          },
+          "dapAn": "Could",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4f55b0b2-fc94-4901-8a2d-eeb9892caddb"
+          },
+          "dapAn": "Can",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_10. Can ... swim.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_10. Can ... swim.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e9df7419-2a67-48e0-aae9-c29a7d838578"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I _____ swim, but I can do karate.",
+      "yNghia": "I<span style=\"color:red\"> can't </span>swim, but I can do karate. <br />\r\n<i>Mình <span style=\"color:red\">không thể </span>bơi nhưng mình có thể đánh võ karate.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "297eb53b-0a80-46f6-9ed1-01a2b5e0b6e8"
+          },
+          "dapAn": "can't",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6a525591-c4db-4862-b8a8-68e04f8eb413"
+          },
+          "dapAn": "cannot",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a99090a0-8978-4d5e-be75-7e36fe2df049"
+          },
+          "dapAn": "can",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_11. I ... karate.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_11. I ... karate.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6716564a-39a6-4ea1-b794-119ebee61aad"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I can’t do karate, but I can play _____.",
+      "yNghia": "I can't do karate, but I can play <span style=\"color:red\">soccer</span>.<br />\r\n<i>Mình không biết đánh võ karate, nhưng mình có thể chơi </i><i><span style=\"color:red\">bóng đá</span></i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "348ecb4b-717c-4d3d-969f-79bfaffa7c42"
+          },
+          "dapAn": "football",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8f254057-2a4a-43a9-82cc-334523d3e384"
+          },
+          "dapAn": "soccer",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dcff3b54-fceb-418e-a1d1-2ae1ad413280"
+          },
+          "dapAn": "tennis",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_12. I ... soccer.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_12. I ... soccer.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "757d110a-10e4-4d3c-8137-324a33132a92"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "_____ do you play soccer?",
+      "yNghia": "<span style=\"color:red\">How</span> <span style=\"color:red\">often</span> do you play soccer?<br />\r\n<i>Bạn <span style=\"color:red\">có thường </span>chơi bóng đá không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ac3c4dcb-40b6-41d0-b733-f75bb78840a3"
+          },
+          "dapAn": "How often",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a6b94bbc-3bc7-41ed-9033-751fb445ea30"
+          },
+          "dapAn": "When",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "79b16fbc-f22c-4fa4-8c6a-e7fe11749aba"
+          },
+          "dapAn": "Where",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_13. How ... soccer.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_13. How ... soccer.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f5dc173b-4d0b-47f1-9dc9-de7da7466fe9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I play soccer _____ a week.",
+      "yNghia": "I play soccer <span style=\"color:red\">once</span> a week. <br />\n<i>Mình chơi bóng đá <span style=\"color:red\">một lần </span>một tuần.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2365dabb-7322-4a37-b628-536a4988a670"
+          },
+          "dapAn": "once",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b4d7e05b-ab9c-49db-bdc2-da319040f8ba"
+          },
+          "dapAn": "twice",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4c3c0f47-431c-4e49-90ba-c44341b995dc"
+          },
+          "dapAn": "three times",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_14. I ... week.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_14. I ... week.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9b928016-0e2a-40ea-9885-6e537c3c355e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you _____ do karate in your free time?",
+      "yNghia": "Do you <span style=\"color:red\">often</span> do karate in your free time? <br /><i>Bạn có <span style=\"color:red\">thường</span> tập karate vào thời gian rảnh không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ba46fea9-7a33-43fd-a17f-dee1fada8c04"
+          },
+          "dapAn": "never",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5b5ba95a-7409-49c3-94e3-3b2d770699cc"
+          },
+          "dapAn": "often",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8cf4eb24-2dd9-4f30-88ac-8958fae3e73d"
+          },
+          "dapAn": "sometimes",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_15. Do ... time.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_15. Do ... time.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "13ea5b93-3c53-4da5-b75c-e78edffef0c6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Our college has over 75 sports _____.",
+      "yNghia": "Our college has over 75 sports <span style=\"color:red\">clubs</span>.<br />\r\n<i>Trường đại học của chúng ta có hơn 75 <span style=\"color:red\">câu lạc bộ </span>thể thao. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "177b9cec-0a6f-4ace-8d90-694076053fb9"
+          },
+          "dapAn": "teams",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5883392f-90d5-49f7-8813-063c049197b6"
+          },
+          "dapAn": "clubs",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9149946b-9833-436e-a48a-194c2ced425d"
+          },
+          "dapAn": "classes",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_16. Our ... clubs.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_16. Our ... clubs.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ff0ad016-4db9-402b-8d69-126b1187add2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Are you in any _____ clubs?",
+      "yNghia": "Are you in any <span style=\"color:red\">sports</span> clubs?<br />\r\n<i>Bạn có tham gia câu lạc bộ <span style=\"color:red\">thể thao </span>nào không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "56fc460f-1ae9-4455-8120-5f3835e88819"
+          },
+          "dapAn": "sports",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "122fe586-f4fc-4407-b32e-7fd46213859f"
+          },
+          "dapAn": "dance",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "070a2978-18b8-454b-8471-f70d18a47d08"
+          },
+          "dapAn": "swimming",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_17. Are ... clubs.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_17. Are ... clubs.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "4969c48c-c7ff-4586-9487-3a6d88831f8d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I joined the ­_____ Club.",
+      "yNghia": "I joined the <span style=\"color:red\">Football</span> Club.<br />\n<i>Mình đã tham gia câu lạc bộ <span style=\"color:red\">Bóng đá</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "12c0e707-e4ef-4f30-a9b3-f2ab3a608ade"
+          },
+          "dapAn": "Football",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "99d5dfb2-6783-4ac4-b9cb-e079c95283a3"
+          },
+          "dapAn": "Soccer",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "cd06baeb-44eb-4e5f-95da-87db0c2ad875"
+          },
+          "dapAn": "Foot",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_18. I ... Club.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_18. I ... Club.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "64a07913-9701-4804-8d99-e9acab3bea53"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you think I can _____ the Karate Club?",
+      "yNghia": "Do you think I can <span style=\"color:red\">join</span> the Karate Club? <br/>\r\n<i>Bạn nghĩ mình có thể <span style=\"color:red\">tham gia</span> Câu lạc bộ Karate được không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "184aa29c-d67a-4416-be80-313508aa37c6"
+          },
+          "dapAn": "join",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8ab4d7f6-1f69-41fe-9977-abecfb452ba9"
+          },
+          "dapAn": "enjoy",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "28ea72f0-ac13-4e35-a979-b174e1ce9116"
+          },
+          "dapAn": "jog",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_19. Do ... Club.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_19. Do ... Club.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "dbb91969-ebd6-46ee-8071-8c9b462f36e4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "_____ a club for every sport!",
+      "yNghia": "<span style=\"color:red\">There's</span> a club for every sport!<br />\r\n<i><span style=\"color:red\">Có</span> một câu lạc bộ cho mỗi môn thể thao mà!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "01b7cd06-b035-4a80-b6fb-4bfba91f5ff0"
+          },
+          "dapAn": "There is",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "29c87282-5a2c-4b12-baa9-3caea4dc2429"
+          },
+          "dapAn": "There're",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3b1b6cf3-ede6-4fb0-afec-9cf3bc2376ab"
+          },
+          "dapAn": "There's",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L17/sounds/normal/PRES_17_LISTENING_20. There ... sport.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L17/sounds/slow/PRES_17_LISTENING_20. There ... sport.mp3"
+    }
+  ]
+}

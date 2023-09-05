@@ -1,0 +1,470 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "VOCABULARY",
+  "videoUrl": "4SKILLS_PRE_S_L6/vocabulary.mp4",
+  "newWords": [
+    {
+      "word": "brush",
+      "loaiTu": "n",
+      "phatAm": "/brʌʃ/",
+      "meaning": "bàn chải",
+      "viDu": "My brush is pink.\n(Bàn chải của tôi có màu hồng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/105.brush.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/105.brush.png"
+    },
+    {
+      "word": "phone",
+      "loaiTu": "n",
+      "phatAm": "/fəʊn/",
+      "meaning": "điện thoại",
+      "viDu": "My phone is old.\n(Điện thoại của tôi cũ rồi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/106.phone.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/106.phone.png"
+    },
+    {
+      "word": "laptop",
+      "loaiTu": "n",
+      "phatAm": "/ˈlæptɒp/",
+      "meaning": "máy tính xách tay",
+      "viDu": "This laptop is expensive.\n(Chiếc máy tính xách tay này đắt.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/107.laptop.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/107.laptop.png"
+    },
+    {
+      "word": "umbrella",
+      "loaiTu": "n",
+      "phatAm": "/ʌmˈbrelə/",
+      "meaning": "cây dù",
+      "viDu": "I have a pink umbrella.\n(Tôi có một cây dù màu hồng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/108.umbrella.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/108.umbrella.png"
+    },
+    {
+      "word": "notebook",
+      "loaiTu": "n",
+      "phatAm": "/ˈnəʊtbʊk/",
+      "meaning": "sổ ghi chú",
+      "viDu": "I use my notebook often.\n(Tôi sử dụng sổ ghi chú thường xuyên.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/109.notebook.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/109.notebook.png"
+    },
+    {
+      "word": "wallet",
+      "loaiTu": "n",
+      "phatAm": "/ˈwɒlɪt/",
+      "meaning": "ví tiền",
+      "viDu": "I keep my money in my wallet.\n(Tôi cất tiền trong ví tiền của tôi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/110.wallet.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/110.wallet.png"
+    },
+    {
+      "word": "pen",
+      "loaiTu": "n",
+      "phatAm": "/pen/",
+      "meaning": "cây bút viết",
+      "viDu": "I need a pen.\n(Tôi cần một cây bút viết.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/111.pen.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/111.pen.png"
+    },
+    {
+      "word": "watch",
+      "loaiTu": "n",
+      "phatAm": "/wɒtʃ/",
+      "meaning": "đồng hồ",
+      "viDu": "My watch is blue.\n(Đồng hồ của tôi có màu xanh.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/112.watch.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/112.watch.png"
+    },
+    {
+      "word": "table",
+      "loaiTu": "n",
+      "phatAm": "/ˈteɪbl/",
+      "meaning": "cái bàn",
+      "viDu": "This table is big.\n(Cái bàn này lớn.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/113.table.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/113.table.png"
+    },
+    {
+      "word": "laptop case",
+      "loaiTu": "n.p",
+      "phatAm": "/ˈlæptɒp keɪs/",
+      "meaning": "túi/cặp đựng máy tính xách tay",
+      "viDu": "My laptop case is beautiful.\n(Cặp đựng máy tính xách tay của tôi đẹp.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/114.laptop.case.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/114.laptop.case.png"
+    },
+    {
+      "word": "transit card",
+      "loaiTu": "n.p",
+      "phatAm": "/ˈtrænzɪt kɑːd/",
+      "meaning": "thẻ quá cảnh",
+      "viDu": "My transit card is in my bag.\n(Thẻ quá cảnh của tôi ở trong túi tôi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/115.transit.card.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/115.transit.card.png"
+    },
+    {
+      "word": "ID card",
+      "loaiTu": "n.p",
+      "phatAm": "/ˌaɪˈdiː kɑːd/",
+      "meaning": "thẻ căn cước",
+      "viDu": "I always bring my ID card with me.\n(Tôi luôn luôn mang theo thẻ căn cước.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/116.id.card.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/116.id.card.png"
+    }
+  ],
+  "scriptVideo": [
+    {
+      "start": "0:01:02",
+      "end": "0:01:11",
+      "english": "phone",
+      "subScriptEnglish": " _phone_ ",
+      "matchedNewWords": [
+        "phone"
+      ],
+      "vietnamese": "chiếc điện thoại"
+    },
+    {
+      "start": "0:01:22",
+      "end": "0:01:25",
+      "english": "laptop",
+      "subScriptEnglish": " _laptop_ ",
+      "matchedNewWords": [
+        "laptop"
+      ],
+      "vietnamese": "máy tính xách tay"
+    },
+    {
+      "start": "0:01:26",
+      "end": "0:01:31",
+      "english": "laptop case",
+      "subScriptEnglish": " _laptop_case_ ",
+      "matchedNewWords": [
+        "laptop case"
+      ],
+      "vietnamese": "cặp đựng laptop"
+    },
+    {
+      "start": "0:01:34",
+      "end": "0:01:40",
+      "english": "laptop",
+      "subScriptEnglish": " _laptop_ ",
+      "matchedNewWords": [
+        "laptop"
+      ],
+      "vietnamese": "máy tính xách tay"
+    },
+    {
+      "start": "0:01:40",
+      "end": "0:01:48",
+      "english": "laptop case",
+      "subScriptEnglish": " _laptop_case_ ",
+      "matchedNewWords": [
+        "laptop case"
+      ],
+      "vietnamese": "cặp đựng laptop"
+    },
+    {
+      "start": "0:01:56",
+      "end": "0:02:05",
+      "english": "table",
+      "subScriptEnglish": " _table_ ",
+      "matchedNewWords": [
+        "table"
+      ],
+      "vietnamese": "bàn"
+    },
+    {
+      "start": "0:02:16",
+      "end": "0:02:25",
+      "english": "umbrella",
+      "subScriptEnglish": " _umbrella_ ",
+      "matchedNewWords": [
+        "umbrella"
+      ],
+      "vietnamese": "ô"
+    },
+    {
+      "start": "0:02:32",
+      "end": "0:02:43",
+      "english": "notebook",
+      "subScriptEnglish": " _notebook_ ",
+      "matchedNewWords": [
+        "notebook"
+      ],
+      "vietnamese": "sổ ghi chép"
+    },
+    {
+      "start": "0:02:47",
+      "end": "0:02:57",
+      "english": "pen",
+      "subScriptEnglish": " _pen_ ",
+      "matchedNewWords": [
+        "pen"
+      ],
+      "vietnamese": "cây bút viết"
+    },
+    {
+      "start": "0:03:04",
+      "end": "0:03:14",
+      "english": "watch",
+      "subScriptEnglish": " _watch_ ",
+      "matchedNewWords": [
+        "watch"
+      ],
+      "vietnamese": "đồng hồ"
+    },
+    {
+      "start": "0:03:24",
+      "end": "0:03:35",
+      "english": "brush",
+      "subScriptEnglish": " _brush_ ",
+      "matchedNewWords": [
+        "brush"
+      ],
+      "vietnamese": "bàn chải đánh răng"
+    },
+    {
+      "start": "0:03:48",
+      "end": "0:03:53",
+      "english": "ID card",
+      "subScriptEnglish": " _ID_card_ ",
+      "matchedNewWords": [
+        "ID card"
+      ],
+      "vietnamese": "thẻ căn cước"
+    },
+    {
+      "start": "0:03:54",
+      "end": "0:04:00",
+      "english": "transit card",
+      "subScriptEnglish": " _transit_card_ ",
+      "matchedNewWords": [
+        "transit card"
+      ],
+      "vietnamese": "thẻ quá cảnh"
+    },
+    {
+      "start": "0:04:01",
+      "end": "0:04:09",
+      "english": "ID card",
+      "subScriptEnglish": " _ID_card_ ",
+      "matchedNewWords": [
+        "ID card"
+      ],
+      "vietnamese": "thẻ căn cước"
+    },
+    {
+      "start": "0:04:09",
+      "end": "0:04:18",
+      "english": "transit card",
+      "subScriptEnglish": " _transit_card_ ",
+      "matchedNewWords": [
+        "transit card"
+      ],
+      "vietnamese": "thẻ quá cảnh"
+    },
+    {
+      "start": "0:04:23",
+      "end": "0:04:33",
+      "english": "wallet",
+      "subScriptEnglish": " _wallet_ ",
+      "matchedNewWords": [
+        "wallet"
+      ],
+      "vietnamese": "ví tiền"
+    }
+  ],
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:00:49.132",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "bfed1c20-0356-4c38-99fa-ad5237e07328",
+                "dapAn": "D"
+              },
+              {
+                "_id": "4110df9b-1c4d-44e2-bf5e-dd03d028a92f",
+                "dapAn": "V"
+              },
+              {
+                "_id": "1be7ee9e-498c-492a-b21f-a342e709f279",
+                "dapAn": "D"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "20146810-4e35-4e2c-9c34-a148e0ab370e",
+                "dapAn": "b"
+              },
+              {
+                "_id": "9b7f205f-226a-4a34-a833-4a5d7522c35f",
+                "dapAn": "i"
+              },
+              {
+                "_id": "e5b9972b-52d7-4f03-b8cd-72b7aff25b2e",
+                "dapAn": "c"
+              },
+              {
+                "_id": "23838149-7862-41d0-9e8e-ee943e42cc04",
+                "dapAn": "y"
+              },
+              {
+                "_id": "264fea0a-8545-47f8-9f5a-6992850392b0",
+                "dapAn": "c"
+              },
+              {
+                "_id": "a08f7c12-b01a-40da-8324-b3dacfb920e4",
+                "dapAn": "l"
+              },
+              {
+                "_id": "72572a1d-5946-45c0-a284-fb4b14ad98f4",
+                "dapAn": "e"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "6a5a3e90-321f-420c-a448-76225cfd6316",
+                "dapAn": "c"
+              },
+              {
+                "_id": "59acad1a-631c-43e7-b910-ceb229d309c2",
+                "dapAn": "h"
+              },
+              {
+                "_id": "5d8d2176-16d5-468e-80d8-f42cba7f0873",
+                "dapAn": "a"
+              },
+              {
+                "_id": "fbf0ce33-2752-4f32-b30a-5ad4d8a76e68",
+                "dapAn": "i"
+              },
+              {
+                "_id": "2ef72a09-5e7a-4546-843a-9dbfcfafdcf5",
+                "dapAn": "r"
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "00eeed00-e072-4fa7-88f9-2c067f1df000",
+                "dapAn": "e"
+              },
+              {
+                "_id": "ac458279-5ce9-4e5f-8114-6b5df1f83b25",
+                "dapAn": "-"
+              },
+              {
+                "_id": "c87b4c1e-7475-4515-b7b6-00f133b0c794",
+                "dapAn": "r"
+              },
+              {
+                "_id": "c64fc09e-3b47-45e0-a7e2-7a2ca8f9b7e0",
+                "dapAn": "e"
+              },
+              {
+                "_id": "7745e0cf-70a7-48ea-9895-da5d2a6058a6",
+                "dapAn": "a"
+              },
+              {
+                "_id": "53ff9fff-5b59-4a34-a2be-9a56d9919bbc",
+                "dapAn": "d"
+              },
+              {
+                "_id": "437aa57b-f586-4bec-bda5-3c74f89efa66",
+                "dapAn": "e"
+              },
+              {
+                "_id": "a0a2a1e5-f00e-4b5c-8e6f-a4ab2ecfcc74",
+                "dapAn": "r"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:00:49.132",
+      "timeEnd": "0:04:45.884",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "ID card",
+            "_id": {
+              "$oid": "a879934d-7080-481e-b9e7-4c7e1678504a"
+            },
+            "yNghia": "Thẻ căn cước"
+          },
+          {
+            "cauHoi": "Wallet",
+            "_id": {
+              "$oid": "1273e4ae-f8b9-46d0-9115-58438fc21177"
+            },
+            "yNghia": "Ví tiền"
+          },
+          {
+            "cauHoi": "Phone",
+            "_id": {
+              "$oid": "2b4d1de6-1dd8-443a-8527-24805800afc4"
+            },
+            "yNghia": "Điện thoại"
+          },
+          {
+            "cauHoi": "Pen",
+            "_id": {
+              "$oid": "5591397b-aa07-4857-ae15-5357136ef657"
+            },
+            "yNghia": "Cây bút viết"
+          },
+          {
+            "cauHoi": "Watch",
+            "_id": {
+              "$oid": "d88d10cf-b1a2-4f29-84d0-5ffd89f012b3"
+            },
+            "yNghia": "Đồng hồ"
+          },
+          {
+            "cauHoi": "Notebook",
+            "_id": {
+              "$oid": "a37384ee-534b-43d3-91ce-9dd766805f70"
+            },
+            "yNghia": "Sổ ghi chú"
+          },
+          {
+            "cauHoi": "Umbrella",
+            "_id": {
+              "$oid": "ae4b4000-828b-4cdb-937b-a7a41341e534"
+            },
+            "yNghia": "Cây dù"
+          },
+          {
+            "cauHoi": "Brush",
+            "_id": {
+              "$oid": "6212a242-aad6-4550-888e-b8193c66de7a"
+            },
+            "yNghia": "Bàn chải"
+          }
+        ]
+      }
+    }
+  ]
+}

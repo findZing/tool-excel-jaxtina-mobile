@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "1df74b86-d70b-4433-a68a-ed26bc63793a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I am fine. How are you? Why are you looking so __________?",
+      "yNghia": "I am fine. How are you? Why are you looking so <span style=\"color:red\">worried</span>?<br />\r\n<i>Tôi ổn. Bạn khỏe không? Tại sao bạn trông rất <span style=\"color:red\">lo lắng</span>?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "afa47e22-1542-4069-89a0-5b60324a2809"
+          },
+          "dapAn": "worried",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "633199ab-64ee-44bb-8bde-f57ec2d8a58c"
+          },
+          "dapAn": "stressed",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fbcdcdc5-34a3-457b-93c9-f1432794af1e"
+          },
+          "dapAn": "sad",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_1. I_m ... worried.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_1. I_m ... worried.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b997be21-e08b-4851-9958-02477c090c0c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I am okay, but I am feeling a bit __________ about the environment.",
+      "yNghia": "I am okay, but I am feeling a bit <span style=\"color:red\">tense </span>about the environment issues.<br />\r\n<i>Tôi không sao, nhưng tôi cảm thấy hơi <span style=\"color:red\">căng thẳng</span> với các vấn đề về môi trường.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b2e3901e-5c22-4c89-ae1d-f1825d764cdb"
+          },
+          "dapAn": "anxious",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b34bae10-e5a4-48ce-835f-e9e0c9bf8bf8"
+          },
+          "dapAn": "worried",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "73e90017-3e03-479d-83ca-5cad6db64ea3"
+          },
+          "dapAn": "tense",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_2. I ... issues.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_2. I ... issues.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "66be12fc-7f2f-4584-a5f2-e9d0b46d491f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes, there are so many environmental __________ that we have to cope with.",
+      "yNghia": "Yes, there are so many environmental <span style=\"color:red\">problems </span>that we have to cope with.<br />\r\n<i>Vâng, có rất nhiều <span style=\"color:red\">vấn đề</span> về môi trường mà chúng ta phải đương đầu.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b1332182-2bfa-461b-9d01-a8968e912c70"
+          },
+          "dapAn": "advantages",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8ca32f36-3ba5-46fa-97f2-993af1de9efa"
+          },
+          "dapAn": "problems",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "94e2d5fd-74b6-4f4e-9fa3-d39f3eba4bee"
+          },
+          "dapAn": "benefits",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_3. Yes ... with.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_3. Yes ... with.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ed98c799-5fb3-4b94-8137-05ace9ac341b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yeah, I have read an article in today’s newspaper about __________ pollution.",
+      "yNghia": "Yeah, I have read an article in today's newspaper about <span style=\"color:red\">plastic </span>pollution.<br />\r\n<i>Vâng, tôi đã đọc một bài báo trên tờ báo ngày nay về ô nhiễm <span style=\"color:red\">nhựa</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ea737a10-e508-4615-b623-2c029e19adb8"
+          },
+          "dapAn": "plastic",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "425789d1-decb-490c-8fdc-7a956840b7e4"
+          },
+          "dapAn": "water",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "37ec6603-f2ce-4cef-973b-a3405b6e2712"
+          },
+          "dapAn": "air",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_4. Yeah ... pollution.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_4. Yeah ... pollution.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c638c8af-6406-4eba-bdc7-b31a13f73be7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Plastic waste is a big __________ to the entire environment.",
+      "yNghia": "Plastic waste is a big <span style=\"color:red\">threat </span>to the entire environment.<br />\r\n<i>Rác thải nhựa đang là <span style=\"color:red\">mối đe dọa</span> lớn đối với toàn bộ môi trường.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "daa78639-a209-4e78-a9e8-c9b300aae120"
+          },
+          "dapAn": "threat",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9fa8b4db-d547-43d4-a78a-5e0a9d1012e9"
+          },
+          "dapAn": "risk",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "737f1dcd-2b55-4f7b-8005-8a14a94ed538"
+          },
+          "dapAn": "problem",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_5. Plastic ... environment.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_5. Plastic ... environment.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9a9fa834-640b-47fa-b3e8-600fdbb2f1b3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It is harming __________ and causing pollution.",
+      "yNghia": "It is harming <span style=\"color:red\">wildlife </span>and causing pollution.<br />\r\n<i>Nó đang làm hại <span style=\"color:red\">động vật hoang dã</span> và gây ô nhiễm.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "11ef44a8-2013-42ec-87c4-8f78da5df15b"
+          },
+          "dapAn": "wildlife",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "455d7723-4942-4c4c-8db1-c5b5325820c0"
+          },
+          "dapAn": "environment",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4f182ff7-d6c5-4141-8f2d-6792f7098b61"
+          },
+          "dapAn": "people",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_6. It ... pollution.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_6. It ... pollution.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f6d4d542-ed8a-40ea-bda9-82c9ff39edad"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Oh God, I never __________ about that before. Can you share more information with me?",
+      "yNghia": "Oh God, I never <span style=\"color:red\">heard </span>about that before. Can you share more information with me?<br />\r\n<i>Chúa ơi, tôi chưa bao giờ <span style=\"color:red\">nghe nói </span>về điều đó trước đây. Bạn có thể chia sẻ thêm thông tin với tôi không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d8986876-505f-499e-abab-e58fc1801cdd"
+          },
+          "dapAn": "thought",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a95e380b-e57d-4bb9-84f2-70a1b1b26f73"
+          },
+          "dapAn": "heard",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4325616c-0e86-404d-ab05-2c9d8aaa312b"
+          },
+          "dapAn": "read",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_7. Oh ... me.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_7. Oh ... me.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d75f0441-ea6e-4b10-b0f8-2772922f09d6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Are you talking about the __________ that we are using every day?",
+      "yNghia": "Are you talking about the <span style=\"color:red\">plastics </span>that we are using every day?<br />\r\n<i>Bạn đang nói về <span style=\"color:red\">nhựa </span>mà chúng ta đang sử dụng hàng ngày phải không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "68848f89-6777-445d-9e42-284fef3e705c"
+          },
+          "dapAn": "products",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d9c22bde-26ec-41f6-89d3-89fd555e19e6"
+          },
+          "dapAn": "plastics",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7a573cf2-e0cd-4ddf-a3f2-2667ab38b1aa"
+          },
+          "dapAn": "water",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_8. Are ... everyday.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_8. Are ... everyday.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c0e52542-b5ef-4567-8d01-1b8ae809fa37"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yes. You know, most of our __________ and many other items are packaged in plastics.",
+      "yNghia": "Yes. You know, most of our <span style=\"color:red\">food </span>and many other items are packaged in plastics.<br />\r\n<i>Đúng. Bạn biết đấy, hầu hết <span style=\"color:red\">thực phẩm </span>của chúng ta và nhiều mặt hàng khác được đóng gói bằng nhựa.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "55f58b27-3e4a-485c-9e01-02cf6237ebb6"
+          },
+          "dapAn": "food",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "86b3b4dd-cc23-436c-add0-29ad06a1df16"
+          },
+          "dapAn": "products",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ef74dfd1-0482-46c6-a5d4-b6feb9ca944d"
+          },
+          "dapAn": "drinks",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_9. Yes ... plastics.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_9. Yes ... plastics.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f4d400d3-b231-4feb-8e0d-16bea72f688b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Even drinking __________ are plastic, right?.",
+      "yNghia": "Even drinking <span style=\"color:red\">straws </span>are plastic, right?. <br />\r\n<i>Ngay cả <span style=\"color:red\">ống hút </span>cũng bằng nhựa phải không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7802a281-31e8-45da-9ee5-145d06d6fe51"
+          },
+          "dapAn": "bottles",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e401ff53-1392-4e18-95b8-f160bb614891"
+          },
+          "dapAn": "straws",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6fe3cbbd-b2e3-4e7c-b804-6ac8a7ce88ad"
+          },
+          "dapAn": "packagings",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_10. Even ... right.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_10. Even ... right.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f4c0ef21-f3fa-4b68-807e-75be0867c9a1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Exactly. Do you know what we do with the __________ plastics?",
+      "yNghia": "Exactly. Do you know what we do with the <span style=\"color:red\">waste </span>plastics?<br />\r\n<i>Chính xác. Bạn có biết chúng tôi làm gì với <span style=\"color:red\">rác thải </span>nhựa không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f273c6b1-300b-4476-83f1-5641f4800304"
+          },
+          "dapAn": "waste",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "13c542a2-704a-4d23-8962-56e72443d3a2"
+          },
+          "dapAn": "bottled",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "47da20ca-881b-4c61-875a-dd796b8d8f05"
+          },
+          "dapAn": "old",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_11. Exactly ... plastics.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_11. Exactly ... plastics.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "40b9ab31-5fd9-4866-8019-f75f41b8ab9d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "After we __________ them away, do they decompose?",
+      "yNghia": "After we <span style=\"color:red\">throw </span>them away, do they decompose? <br />\r\n<i>Sau khi chúng ta <span style=\"color:red\">vứt </span>chúng đi, chúng có bị phân hủy không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9bbd9e26-5f3f-477e-9085-c53dd0e38fcb"
+          },
+          "dapAn": "give",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "57d91f5c-e62c-45f2-806f-c2eb523320b7"
+          },
+          "dapAn": "throw",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e2aeeabb-4da6-45f6-8090-be32ea7fe103"
+          },
+          "dapAn": "put",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_12. After ... decompose.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_12. After ... decompose.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "0ed1e729-2c9a-43e5-8eec-24a414c50dee"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They stay the same for hundreds of years under the __________ and spoil the soil’s ability to grow trees and other plants.",
+      "yNghia": "They stay the same for hundreds of years under the <span style=\"color:red\">soil </span>and spoil the soil's ability to grow trees and other plants.<br />\r\n<i>Chúng không thay đổi trong hàng trăm năm dưới <span style=\"color:red\">đất </span>và làm hỏng khả năng trồng cây và các loại thực vật khác của đất.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ae97603f-88c9-4f5d-af30-b2697a35b6c2"
+          },
+          "dapAn": "land",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2015a6ae-9fe8-40e6-ad10-0fd5e8e0fb17"
+          },
+          "dapAn": "soil",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8b23fa41-8073-476a-9f63-3675e4726084"
+          },
+          "dapAn": "ground",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_13. They ... plants.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_13. They ... plants.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "96036da3-94ee-45b9-8932-8013fc87df94"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Oh my god. Then what should we do to __________ this problem?",
+      "yNghia": "Oh my god. Then what should we do to <span style=\"color:red\">prevent </span>this problem?<br />\r\n<i>Ôi chúa ơi. Vậy chúng ta nên làm gì để <span style=\"color:red\">ngăn chặn</span> vấn đề này?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4216287d-3560-4997-b35c-e830eb28439b"
+          },
+          "dapAn": "prevent",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "05497281-68df-43f2-9a88-a87f9b6a7972"
+          },
+          "dapAn": "cope with",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e2f84230-5374-42d4-8674-79216bcc4ef0"
+          },
+          "dapAn": "tackle",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_14. Oh ... problem.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_14. Oh ... problem.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f62c35e6-a955-4708-9172-9da7a1420968"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We need to reuse and __________ our use of plastics.",
+      "yNghia": "We need to reuse and <span style=\"color:red\">reduce </span>our use of plastics.<br />\r\n<i>Chúng ta cần tái sử dụng và <span style=\"color:red\">giảm </span>sử dụng nhựa.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9e59eec5-76b7-4daa-84c7-6351f4ffa22a"
+          },
+          "dapAn": "reduce",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d9c4065d-6536-4a72-96ff-17583639b610"
+          },
+          "dapAn": "minimize",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4b455679-cdf5-4860-9261-42b28b0c5360"
+          },
+          "dapAn": "increase",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_15. We ... plastics.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_15. We ... plastics.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "bb7c1661-d10e-477c-bdda-1e15ca9396a8"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There are lots of countries in the world where plastic is totally __________.",
+      "yNghia": "There are lots of countries in the world where plastic is totally <span style=\"color:red\">banned</span>.<br />\r\n<i>Có rất nhiều quốc gia trên thế giới <span style=\"color:red\">cấm </span>nhựa hoàn toàn.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "450805ba-2e0b-424a-901f-9609e58c6fa6"
+          },
+          "dapAn": "banned",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a5607b58-835d-49bb-8b8a-1140256de3de"
+          },
+          "dapAn": "gone",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9aff3523-a07c-458f-aaa1-310496540ac0"
+          },
+          "dapAn": "recycled",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_16. There ... banned.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_16. There ... banned.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "25da6d16-bdf7-4755-a402-3773c371c801"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I think this is a __________ decision to make for a country.",
+      "yNghia": "I think this is a <span style=\"color:red\">challenging </span>decision to make for a country.<br />\r\n<i>Tôi nghĩ rằng đây là một quyết định <span style=\"color:red\">đầy thách thức</span> đối với một quốc gia.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1a37a8e1-4f04-4f8c-91fa-999f77ada5aa"
+          },
+          "dapAn": "big",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "99f3c4db-8aab-4eb6-9219-8adb7935cbbe"
+          },
+          "dapAn": "important",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bab760eb-51f5-4f2f-9ae6-b03410fbe6f2"
+          },
+          "dapAn": "challenging",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_17. I ... country.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_17. I ... country.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "7bbc37ca-cf93-41a2-af76-51b27535a1fe"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The plastic __________ makes a lot of money.",
+      "yNghia": "The plastic <span style=\"color:red\">industry </span>makes a lot of money.<br />\n<i><span style=\"color:red\">Ngành </span>nhựa kiếm được rất nhiều tiền.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5a6e4f86-90fd-4b16-90cd-2501dba877df"
+          },
+          "dapAn": "industry",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "20f26d6d-59dc-4aaa-9fb7-a93d6926731d"
+          },
+          "dapAn": "company",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c2b20e58-10ec-4518-80b2-c9b350daf243"
+          },
+          "dapAn": "consumer",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_18. The  .... money.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_18. The  .... money.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b26793a9-6a49-4feb-8d7d-b792af8874f3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We ourselves should keep plastics in the recycle __________.",
+      "yNghia": "We ourselves should keep plastics in the recycle <span style=\"color:red\">bin</span>. <br />\r\n<i>Bản thân chúng ta nên bỏ nhựa vào <span style=\"color:red\">thùng rác</span> tái chế.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6b7df8a4-1908-483d-973b-e02abbe4dfaf"
+          },
+          "dapAn": "basket",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "adbd6676-6269-46fa-8762-a0982acb7291"
+          },
+          "dapAn": "place",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "14c00f71-47cc-4e34-b5bb-1f8d092f9665"
+          },
+          "dapAn": "bin",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_19. We ... bin.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_19. We ... bin.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "7cd9f2fe-f436-413e-94b0-737fce0ea0fd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "A lot of plastic __________ are thrown away and end up as trash in the streets.",
+      "yNghia": "A lot of plastic <span style=\"color:red\">bags </span>are thrown away and end up as trash in the streets.<br />\r\n<i>Rất nhiều <span style=\"color:red\">túi </span>nhựa bị vứt ra và cuối cùng trở thành rác trên các đường phố.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "58fe195c-5cdd-4495-864c-378f51a10e94"
+          },
+          "dapAn": "bags",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "368c4b2f-4e02-471d-ba7f-02a46150ddce"
+          },
+          "dapAn": "waste",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6586e242-e3e5-4f3b-ab80-539f0ad46ad6"
+          },
+          "dapAn": "bottles",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L22/sounds/normal/TC_22_LISTENING_20. A ... streets.mp3",
+      "soundSlow": "4SKILLS_TC_L22/sounds/slow/TC_22_LISTENING_20. A ... streets.mp3"
+    }
+  ]
+}

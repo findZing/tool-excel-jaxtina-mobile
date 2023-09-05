@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L14/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L14/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "16b4bd95-0a32-40ca-b3b6-289e04c582d7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "David",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "34ce1c73-3aea-41b3-ba82-f6e3ea19872f"
+          },
+          "dapAn": "Hi. I'm David, I'm a tourist. This is my first time here.",
+          "phienAm": "/haɪ/. /aɪm ˈdeɪvɪd aɪm eɪ ˈtʊərɪst/. /ðɪs ɪz maɪ fɜːst taɪm hɪər/",
+          "yNghia": " Xin chào. Tôi là David, tôi là một du khách. Đây là lần đầu tiên tôi đến đây.",
+          "normal": {
+            "start": "00:00:00.727",
+            "end": "00:00:06.812"
+          },
+          "slow": {
+            "start": "00:00:00.819",
+            "end": "00:00:07.929"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "63b66a40-3064-4b17-a143-696d76f2dab3"
+          },
+          "dapAn": "Is there a bus stop near here?",
+          "phienAm": "/ɪz ðeər eɪ bʌs stɒp nɪər hɪər/",
+          "yNghia": "\nCó trạm dừng xe buýt nào gần đây không?",
+          "normal": {
+            "start": "00:00:11.384",
+            "end": "00:00:13.564"
+          },
+          "slow": {
+            "start": "00:00:15.857",
+            "end": "00:00:18.399"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "8d41351e-4876-4314-8954-21af182b84d0"
+          },
+          "dapAn": "Thanks. Are you from here?",
+          "phienAm": "/θæŋks/. /ɑːr juː frɒm hɪər/",
+          "yNghia": " Cảm ơn. Bạn đến từ đây à?",
+          "normal": {
+            "start": "00:00:22.860",
+            "end": "00:00:25.009"
+          },
+          "slow": {
+            "start": "00:00:31.113",
+            "end": "00:00:33.869"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fe0fbdd9-94cc-40da-915f-a2d330a3efa3"
+          },
+          "dapAn": "I'm from Italy. Could you tell me where the grocery store is?",
+          "phienAm": "/aɪm frɒm ˈɪtəli/. /kʊd juː tel miː weər ðə ˈgrəʊsəri stɔːr ɪz/",
+          "yNghia": " Tôi đến từ nước Ý. Bạn có thể cho tôi biết cửa hàng tạp hóa ở đâu không?",
+          "normal": {
+            "start": "00:00:28.915",
+            "end": "00:00:33.215"
+          },
+          "slow": {
+            "start": "00:00:42.228",
+            "end": "00:00:47.571"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "66deca06-c524-4ea9-8f77-66a13ae6df23"
+          },
+          "dapAn": "Where does the bus stop?",
+          "phienAm": "/weə dʌz ðə bʌs stɒp/",
+          "yNghia": " Xe buýt dừng ở đâu vậy?",
+          "normal": {
+            "start": "00:00:41.238",
+            "end": "00:00:42.782"
+          },
+          "slow": {
+            "start": "00:01:01.059",
+            "end": "00:01:03.487"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "05b88efa-20d6-429f-81d2-96746e817ccb"
+          },
+          "dapAn": "I understand. What about the museum?",
+          "phienAm": "/aɪ ˌʌndəˈstænd/. /wɒt əˈbaʊt ðə mjuːˈzɪəm/",
+          "yNghia": " Tôi hiểu rồi. Vậy còn bảo tàng thì sao?",
+          "normal": {
+            "start": "00:00:50.352",
+            "end": "00:00:53.561"
+          },
+          "slow": {
+            "start": "00:01:14.804",
+            "end": "00:01:18.725"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "82d866dc-f10a-45af-a9d9-e59bde1a6410"
+          },
+          "dapAn": "No, the science museum.",
+          "phienAm": "/nəʊ ðə ˈsaɪəns mjuːˈzɪəm/",
+          "yNghia": " Không, bảo tàng khoa học.",
+          "normal": {
+            "start": "00:00:57.194",
+            "end": "00:00:59.193"
+          },
+          "slow": {
+            "start": "00:01:24.327",
+            "end": "00:01:26.956"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "36b2e7a8-14f4-49d8-bf35-b24b7904538c"
+          },
+          "dapAn": "Great. Thanks for your help.",
+          "phienAm": "/greɪt/. /θæŋks fɔːr jɔːr help/",
+          "yNghia": " Tuyệt. Cảm ơn sự giúp đỡ của bạn.",
+          "normal": {
+            "start": "00:01:16.935",
+            "end": "00:01:18.843"
+          },
+          "slow": {
+            "start": "00:01:53.111",
+            "end": "00:01:55.610"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "59b31665-1de8-4ead-9126-3196dab1b0a6"
+          },
+          "dapAn": "OK, thanks. I also want to visit the Mermaid Aquarium. Is it near here?",
+          "phienAm": "/əʊˈkeɪ θæŋks/. /aɪ ˈɔːlsəʊ wɒnt tuː ˈvɪzɪt ðə ˈmɜːmeɪd əˈkweərɪəm/. /ɪz ɪt nɪər hɪər/",
+          "yNghia": " Được, cảm ơn. Tôi cũng muốn đi thăm Thủy cung Nàng tiên cá. Nó có ở gần đây không?",
+          "normal": {
+            "start": "00:01:26.443",
+            "end": "00:01:32.498"
+          },
+          "slow": {
+            "start": "00:02:06.814",
+            "end": "00:02:14.742"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e9a41520-9792-4f0e-b899-bb15892ff2dc"
+          },
+          "dapAn": "Yeah, thank you very much.",
+          "phienAm": "/jeə θæŋk juː ˈveri mʌʧ/",
+          "yNghia": " Cảm ơn bạn rất nhiều.",
+          "normal": {
+            "start": "00:01:38.463",
+            "end": "00:01:40.612"
+          },
+          "slow": {
+            "start": "00:02:22.455",
+            "end": "00:02:25.041"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "80f9a66a-e10e-464e-bf95-058753efddd9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Linda",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "902d4dec-fe5b-4d83-b2f4-7d077a6cbefd"
+          },
+          "dapAn": "Oh, hello. How can I help you?",
+          "phienAm": "/əʊ həˈləʊ/. /haʊ kæn aɪ help juː/",
+          "yNghia": " Ồ, xin chào. Tôi có thể giúp gì cho bạn?",
+          "normal": {
+            "start": "00:00:07.660",
+            "end": "00:00:10.385"
+          },
+          "slow": {
+            "start": "00:00:09.178",
+            "end": "00:00:14.392"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e2bd12a6-1cfb-45d4-a3e0-eacdff4bee8d"
+          },
+          "dapAn": "Yes, there is. Go straight up this street. The bus stop is on your left.",
+          "phienAm": "/jes ðeər ɪz/. /gəʊ streɪt ʌp ðɪs striːt/. /ðə bʌs stɒp ɪz ɒn jɔːr left/",
+          "yNghia": "\nCó đấy. Hãy đi thẳng lên con phố này. Trạm dừng xe buýt ở phía bên trái của bạn.",
+          "normal": {
+            "start": "00:00:14.806",
+            "end": "00:00:21.618"
+          },
+          "slow": {
+            "start": "00:00:19.908",
+            "end": "00:00:29.689"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "97249f9e-0073-4f07-b11d-e8a707592607"
+          },
+          "dapAn": "Yes, I am. Where are you from?",
+          "phienAm": "/jes aɪ æm/. /weər ɑːr juː frɒm/",
+          "yNghia": " Đúng vậy. Bạn đến từ đâu?",
+          "normal": {
+            "start": "00:00:25.727",
+            "end": "00:00:28.194"
+          },
+          "slow": {
+            "start": "00:00:35.549",
+            "end": "00:00:40.548"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "52662f9a-73fc-4b47-af64-e4e74ae9f39b"
+          },
+          "dapAn": "Oh sure. You can take bus number 18. Get off at the 3rd stop.",
+          "phienAm": "/əʊ ʃʊər/. /juː kæn teɪk bʌs ˈnʌmbər ˌeɪˈtiːn/. /get ɒf æt ðiː θɜːd stɒp/",
+          "yNghia": " Chắc chắn rồi. Bạn có thể bắt xe buýt số 18. Hãy xuống xe ở điểm dừng thứ ba.",
+          "normal": {
+            "start": "00:00:34.062",
+            "end": "00:00:40.027"
+          },
+          "slow": {
+            "start": "00:00:49.381",
+            "end": "00:00:59.163"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "beb7fbec-c28c-497d-a8ec-85f0912b594d"
+          },
+          "dapAn": "It stops across the street. The grocery store is opposite the bus stop.",
+          "phienAm": "/ɪt stɒps əˈkrɒs ðə striːt/. /ðə ˈgrəʊsəri stɔːr ɪz ˈɒpəzɪt ðəbʌs stɒp/",
+          "yNghia": " Nó dừng bên kia đường. Cửa hàng tạp hóa ở đối diện với trạm dừng xe buýt.",
+          "normal": {
+            "start": "00:00:44.175",
+            "end": "00:00:49.443"
+          },
+          "slow": {
+            "start": "00:01:04.333",
+            "end": "00:01:12.693"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a5ec32d3-7394-4e0d-b5fb-d3915fea9015"
+          },
+          "dapAn": "The history museum?",
+          "phienAm": "/ðə ˈhɪstəri mjuːˈzɪəm/",
+          "yNghia": " Bảo tàng lịch sử à?",
+          "normal": {
+            "start": "00:00:54.530",
+            "end": "00:00:55.953"
+          },
+          "slow": {
+            "start": "00:01:20.363",
+            "end": "00:01:22.647"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4e430bd7-f95c-45d0-9102-b6ad6beddf1a"
+          },
+          "dapAn": "Let me think ... OK. Go straight from the grocery store. Turn left. Take the second right. The science museum is on the left. It's between the park and the school.",
+          "phienAm": "/let miː θɪŋk/. /əʊˈkeɪ/. /gəʊ streɪt frɒm ðə ˈgrəʊsəri stɔːr/. /tɜːn left/. /teɪk ðə ˈsekənd raɪt/. /ðə ˈsaɪəns mjuːˈzɪəm ɪz ɒn ðə left/. /ɪts bɪˈtwiːn ðə pɑːk ænd ðə skuːl/",
+          "yNghia": " Để tôi nghĩ xem ... OK. Hãy đi thẳng từ cửa hàng tạp hóa. Rẽ trái. Rẽ phải ở ngã rẽ thứ hai. Bảo tàng khoa học nằm ở bên trái. Nó ở giữa công viên và trường học.",
+          "normal": {
+            "start": "00:01:00.283",
+            "end": "00:01:15.851"
+          },
+          "slow": {
+            "start": "00:01:28.852",
+            "end": "00:01:51.560"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4887c2b9-6ca3-4b58-8e23-ef1867333c92"
+          },
+          "dapAn": "Sure. The history museum is great, too. It's across from the park.",
+          "phienAm": "/ʃʊər/. /ðə ˈhɪstəri mjuːˈzɪəm ɪz greɪt tuː/. /ɪts əˈkrɒs frɒm ðə pɑːk/",
+          "yNghia": " Tất nhiên rồi. Bảo tàng lịch sử cũng tuyệt nữa. Nó ở đối diện với công viên.",
+          "normal": {
+            "start": "00:01:20.054",
+            "end": "00:01:24.959"
+          },
+          "slow": {
+            "start": "00:01:57.420",
+            "end": "00:02:05.004"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c27e730b-b61a-4d21-b03e-bea218acd5ed"
+          },
+          "dapAn": "Yes, it is. It's right behind the Central Park.",
+          "phienAm": "/jes ɪt ɪz/. /ɪts raɪt bɪˈhaɪnd ðə ˈsentrəl pɑːk/",
+          "yNghia": " Có. Nó ở ngay phía sau Công viên Trung tâm.",
+          "normal": {
+            "start": "00:01:33.951",
+            "end": "00:01:37.464"
+          },
+          "slow": {
+            "start": "00:02:15.906",
+            "end": "00:02:21.033"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "93f9d582-aa5b-44d1-a860-cd77a4eee820"
+          },
+          "dapAn": "No worries. Have a great day!",
+          "phienAm": "/nəʊ ˈwʌriz/. /hæv eɪ greɪt deɪ/",
+          "yNghia": " Không vấn đề gì. Chúc bạn một ngày tốt lành!",
+          "normal": {
+            "start": "00:01:41.309",
+            "end": "00:01:43.247"
+          },
+          "slow": {
+            "start": "00:02:25.489",
+            "end": "00:02:28.919"
+          }
+        }
+      ]
+    }
+  ]
+}

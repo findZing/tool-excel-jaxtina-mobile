@@ -1,0 +1,326 @@
+{
+  "dangCauHoi": "P0_2",
+  "elementType": "PRONUNCIATION",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "385d9277-6b46-4738-ac09-90d268cfad45"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_210.dress.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_210.dress.mp3",
+      "cauHoi": "Dress /dres/ (n): Váy",
+      "yNghia": "Váy",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_210.dress.png",
+      "phienAm": "/dres/",
+      "loaiTu": "n",
+      "tuKemTheo": "Dress",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "789e3952-cbac-437f-97e6-ec57f0d55c53"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_211.skirt.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_211.skirt.mp3",
+      "cauHoi": "Skirt /skɜːt/ (n): Chân váy",
+      "yNghia": "Chân váy",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_211.skirt.png",
+      "phienAm": "/skɜːt/",
+      "loaiTu": "n",
+      "tuKemTheo": "Skirt",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "f3034196-99a7-4483-8033-c058f9670e73"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_212.jacket.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_212.jacket.mp3",
+      "cauHoi": "Jacket /ˈdʒækɪt/ (n): Áo khoác",
+      "yNghia": "Áo khoác",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_212.jacket.jpg",
+      "phienAm": "/ˈdʒækɪt/",
+      "loaiTu": "n",
+      "tuKemTheo": "Jacket",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "c954ada8-3f1e-4da3-8a05-f5579c3f2baa"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_213.suit.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_213.suit.mp3",
+      "cauHoi": "Suit /suːt/ (n): Bộ com-lê",
+      "yNghia": "Bộ com-lê",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_213.suit.png",
+      "phienAm": "/suːt/",
+      "loaiTu": "n",
+      "tuKemTheo": "Suit",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "31ae395b-5211-4323-8d64-042600cd7eb2"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_214.pants.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_214.pants.mp3",
+      "cauHoi": "Pants /pænts/ (n): Quần",
+      "yNghia": "Quần",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_214.pants.png",
+      "phienAm": "/pænts/",
+      "loaiTu": "n",
+      "tuKemTheo": "Pants",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "756d58d8-0b4c-4968-a30f-ad1063e14ba0"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_215.jeans.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_215.jeans.mp3",
+      "cauHoi": "Jeans /dʒiːnz/ (n): Quần jean",
+      "yNghia": "Quần jean",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_215.jeans.png",
+      "phienAm": "/dʒiːnz/",
+      "loaiTu": "n",
+      "tuKemTheo": "Jeans",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "4a6bddf3-1dfb-49bf-8dd9-3c2e406e8f69"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_216.shirt.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_216.shirt.mp3",
+      "cauHoi": "Shirt /ʃɜːt/ (n): Áo sơ mi",
+      "yNghia": "Áo sơ mi",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_216.shirt.png",
+      "phienAm": "/ʃɜːt/",
+      "loaiTu": "n",
+      "tuKemTheo": "Shirt",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "b902a789-d59a-4d12-a2d7-c9cfe77a0b57"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_217.t.shirt.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_217.t.shirt.mp3",
+      "cauHoi": "T-shirt /ˈtiː ʃɜːt/ (n): Áo phông",
+      "yNghia": "Áo phông",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_217.t.shirt.png",
+      "phienAm": "/ˈtiː ʃɜːt/",
+      "loaiTu": "n",
+      "tuKemTheo": "T-shirt",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "3db999bc-391c-4c8e-8f35-a3d301187309"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_218.shoes.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_218.shoes.mp3",
+      "cauHoi": "Shoes /ʃuːz/ (n): Đôi giầy",
+      "yNghia": "Đôi giầy",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_218.shoes.jpg",
+      "phienAm": "/ʃuːz/",
+      "loaiTu": "n",
+      "tuKemTheo": "Shoes",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "ea59bc0d-da20-4899-946d-30be89a6d936"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_219.boots.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_219.boots.mp3",
+      "cauHoi": "Boots /buːts/ (n): Đôi bốt",
+      "yNghia": "Đôi bốt",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_219.boots.png",
+      "phienAm": "/buːts/",
+      "loaiTu": "n",
+      "tuKemTheo": "Boots",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "58d09d0f-1235-41ad-9406-5ad61c8a1884"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_220.loose.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_220.loose.mp3",
+      "cauHoi": "Loose /luːs/ (adj): Rộng, lỏng lẻo",
+      "yNghia": "Rộng, lỏng lẻo",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_220.loose.png",
+      "phienAm": "/luːs/",
+      "loaiTu": "adj",
+      "tuKemTheo": "Loose",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "6db19cec-6cca-4b91-8cd3-c95e159eb8b2"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_221.tight.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_221.tight.mp3",
+      "cauHoi": "Tight /taɪt/ (adj): Chật",
+      "yNghia": "Chật",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_221.tight.png",
+      "phienAm": "/taɪt/",
+      "loaiTu": "adj",
+      "tuKemTheo": "Tight",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "d456bdb1-6b43-4a58-9a8a-64c7cfa2002e"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_222.dressy.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_222.dressy.mp3",
+      "cauHoi": "Dressy /ˈdres.i/ (adj): Sang trọng",
+      "yNghia": "Sang trọng",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_222.dressy.png",
+      "phienAm": "/ˈdres.i/",
+      "loaiTu": "adj",
+      "tuKemTheo": "Dressy",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "2953ecb2-7947-42ae-ad45-ea729e257248"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_223.casual.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_223.casual.mp3",
+      "cauHoi": "Casual /ˈkæʒuəl/ (adj): Tự nhiên, đời thường",
+      "yNghia": "Tự nhiên, đời thường",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_223.casual.png",
+      "phienAm": "/ˈkæʒuəl/",
+      "loaiTu": "adj",
+      "tuKemTheo": "Casual",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "c75e6e72-f029-4a3f-af99-0daf226fbe89"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_224.long.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_224.long.mp3",
+      "cauHoi": "Long /lɒŋ/ (adj): Dài",
+      "yNghia": "Dài",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_224.long.png",
+      "phienAm": "/lɒŋ/",
+      "loaiTu": "adj",
+      "tuKemTheo": "Long",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "ff6ac93d-adfe-482b-86ad-2b058bca38fd"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_225.short.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_225.short.mp3",
+      "cauHoi": "Short /ʃɔːt/ (adj): Ngắn",
+      "yNghia": "Ngắn",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_225.short.jpg",
+      "phienAm": "/ʃɔːt/",
+      "loaiTu": "adj",
+      "tuKemTheo": "Short",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "e38ea201-83f4-4163-bdea-bb7d5b824ef0"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_226.cheap.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_226.cheap.mp3",
+      "cauHoi": "Cheap /tʃiːp/ (adj): Rẻ",
+      "yNghia": "Rẻ",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_226.cheap.jpg",
+      "phienAm": "/tʃiːp/",
+      "loaiTu": "adj",
+      "tuKemTheo": "Cheap",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "a629eb27-823e-4edb-9471-0a1f75240b33"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_227.expensive.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_227.expensive.mp3",
+      "cauHoi": "Expensive /ɪkˈspensɪv/ (adj): Đắt đỏ",
+      "yNghia": "Đắt đỏ",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_227.expensive.png",
+      "phienAm": "/ɪkˈspensɪv/",
+      "loaiTu": "adj",
+      "tuKemTheo": "Expensive",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "22e8750b-1b19-4d4b-aac6-7026be645b48"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_19.Size.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_19.Size.mp3",
+      "cauHoi": "Size /saɪz/ (n): Kích cỡ",
+      "yNghia": "Kích cỡ",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_19.size.png",
+      "phienAm": "/saɪz/",
+      "loaiTu": "n",
+      "tuKemTheo": "Size",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    },
+    {
+      "_id": {
+        "$oid": "69d66071-7b81-420c-9a7b-0425e3794ea9"
+      },
+      "cauHoiNho": [],
+      "amThanh": "4SKILLS_PRE_S_L15/sounds/normal/PRES_15_PRONUNCIATION_20.Pretty.mp3",
+      "amThanhCham": "4SKILLS_PRE_S_L15/sounds/slow/PRES_15_PRONUNCIATION_20.Pretty.mp3",
+      "cauHoi": "Pretty /ˈprɪti/ (adj): Đẹp",
+      "yNghia": "Đẹp",
+      "hinhAnh": "4SKILLS_PRE_S_L15/PRES_15_PRONUNCIATION_20.pretty.png",
+      "phienAm": "/ˈprɪti/",
+      "loaiTu": "adj",
+      "tuKemTheo": "Pretty",
+      "loaiBaiHoc": "IPA",
+      "dangCauHoi": "IPA_1"
+    }
+  ]
+}

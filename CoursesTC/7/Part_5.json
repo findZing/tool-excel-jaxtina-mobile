@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "f600e5bd-6ae5-4b24-9889-2e1eb3ae2132"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Today presentation’s topic is about __________.",
+      "yNghia": "Today presentation's topic is about <span style=\"color:red\">teamwork</span>.<br />\n<i>Chủ đề của bài thuyết trình hôm nay là về <span style=\"color:red\">làm việc nhóm</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "aa1f5535-2376-4da8-ab1d-e913db7c39eb"
+          },
+          "dapAn": "communication",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e93be5fc-412b-48cf-bb0a-27f6a82ff48f"
+          },
+          "dapAn": "teamwork",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "77a217f4-0f50-4c3d-afda-b75ad99799e0"
+          },
+          "dapAn": "sales",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_1. Presentation ... teamwork.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_1. Presentation ... teamwork.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b5ad389d-ea16-4a05-820c-3e4aa703131b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Lisa and I would like to talk about working as a part of a __________.",
+      "yNghia": "Lisa and I would like to talk about working as a part of a <span style=\"color:red\">team</span>.<br />\n<i>Lisa và tôi muốn nói về việc làm việc theo <span style=\"color:red\">nhóm</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e8399d52-bf9e-49e1-a5d4-7178aaf88bab"
+          },
+          "dapAn": "team",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5f64e203-6f17-447d-83c7-dc4aacec2b87"
+          },
+          "dapAn": "group",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b049a343-4610-4687-8aa6-633121bcb7da"
+          },
+          "dapAn": "company",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_2. Lisa ... team.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_2. Lisa ... team.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2c2adf48-afc7-4d32-9085-4b4fd6172a6c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What do we need to make our team the most __________?",
+      "yNghia": "What do we need to make our team the most <span style=\"color:red\">successful</span>?<br />\r\n<i>Chúng ta cần làm gì cho nhóm của mình <span style=\"color:red\">thành công </span>nhất?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "94c731e6-5a37-47f3-b669-f757174c7e54"
+          },
+          "dapAn": "creative",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c024e673-1f9a-4eee-87fc-80826159d389"
+          },
+          "dapAn": "outstanding",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "46576ee7-7a07-4339-8cb2-226c6224569d"
+          },
+          "dapAn": "successful",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_3. What ... successful.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_3. What ... successful.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a98cf446-aa75-42c9-b689-0ce9f354141f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Working as a team is one of the most __________ things.",
+      "yNghia": "Working as a team is one of the most <span style=\"color:red\">interesting </span>things.<br />\r\n<i>Làm việc theo nhóm là một trong những điều <span style=\"color:red\">thú vị </span>nhất.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ff1d7686-93fd-48dd-873f-d5445e42ba02"
+          },
+          "dapAn": "delightful",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f260bb35-f3f4-4140-88f9-cc196db2fb23"
+          },
+          "dapAn": "fascinating",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "64839643-57ee-4f59-b6bd-398c99c020fa"
+          },
+          "dapAn": "interesting",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_4. Working ... things.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_4. Working ... things.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "263e0540-30cf-4cc3-a450-6aedfac57764"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "People have very different __________.",
+      "yNghia": "People have very different <span style=\"color:red\">personalities</span>.<br />\r\n<i>Mọi người có <span style=\"color:red\">tính cách </span>rất khác nhau.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "23bcd161-18ad-42b5-ad1f-afff6c3303ba"
+          },
+          "dapAn": "identity",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d7561fed-72a9-4577-b193-26d26bb02a40"
+          },
+          "dapAn": "personalities",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e5483298-81ce-4630-8c77-4f98de1436cc"
+          },
+          "dapAn": "emotions",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_5. People ... personalities.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_5. People ... personalities.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "df8a7134-fb4d-4ca9-997c-562f22aa560e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How do you know who will work __________ together?",
+      "yNghia": "How do you know who will work <span style=\"color:red\">well </span>together?<br />\r\n<i>Làm thế nào để bạn biết ai sẽ làm việc <span style=\"color:red\">tốt </span>với nhau?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ab7992a0-e0a7-4f8b-a911-544b210b0a65"
+          },
+          "dapAn": "well ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "33d979a0-6325-4567-8898-71604d9455ca"
+          },
+          "dapAn": "better",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c632ef05-f977-403d-80f4-c995f93bffb4"
+          },
+          "dapAn": "hard",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_6. How ... together.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_6. How ... together.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a5895ab2-5633-429c-ad59-967571db2225"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You don’t want a team where all __________ are risk takers.",
+      "yNghia": "You don't want a team where all <span style=\"color:red\">members </span>are risk takers.<br />\r\n<i>Bạn không muốn một nhóm mà tất cả các <span style=\"color:red\">thành viên </span>đều là người thích mạo hiểm.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "58f874c3-2921-48a6-b442-ab6524f419c5"
+          },
+          "dapAn": "members",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "126300f6-5269-4a10-a6be-934411d5b42f"
+          },
+          "dapAn": "people",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "dda6763f-c25a-49d0-80f6-2820575a3512"
+          },
+          "dapAn": "leaders",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_7. You don_t want ... risk takers.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_7. You don_t want ... risk takers.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "546cf863-919f-411c-b59c-cba4ad32591a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That is the worst __________ a leader can make.",
+      "yNghia": "That is the worst <span style=\"color:red\">mistake </span>a leader can make.<br />\r\n<i>Đó là <span style=\"color:red\">sai lầm</span> tồi tệ nhất mà một nhà lãnh đạo có thể mắc phải.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b68985e1-beeb-43aa-be24-ff4d08706ebb"
+          },
+          "dapAn": "thing",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "afcfc230-29a8-4a79-bb05-d58c9a7e3c4b"
+          },
+          "dapAn": "mistake",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8d55567d-c2d2-410c-9d9d-2c8ee0630318"
+          },
+          "dapAn": "decision",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_8. That ... make.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_8. That ... make.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9685f355-dbf6-4401-809b-915aad021a47"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "A good __________ must be the best at solving problems.",
+      "yNghia": "A good <span style=\"color:red\">leader </span>must be the best at solving problems.<br />\n<i>Một <span style=\"color:red\">nhà lãnh đạo </span>giỏi phải là người giải quyết các vấn đề giỏi nhất.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c7632443-7af7-4c47-bf74-965f37646b0b"
+          },
+          "dapAn": "member",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c3359485-511a-44c6-899a-188c57471436"
+          },
+          "dapAn": "boss",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "93458bb7-a091-4570-b715-e932a3cec6be"
+          },
+          "dapAn": "leaders",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_9. A good ... problems.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_9. A good ... problems.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "874f61a5-413d-41cf-91c1-d64d91dd3d9f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They help team members __________.",
+      "yNghia": "They help team members <span style=\"color:red\">communicate</span>.<br />\r\n<i>Họ giúp các thành viên trong nhóm <span style=\"color:red\">giao tiếp </span>với nhau.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9b2ed0e4-745b-438c-a1ef-c6249221e660"
+          },
+          "dapAn": "work well",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0666a4c7-f744-49a0-b222-67314ca709b4"
+          },
+          "dapAn": "communicate",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b2418a03-ff21-41ea-b124-bab48dda5a27"
+          },
+          "dapAn": "grow",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_10. They ... communicate.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_10. They ... communicate.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ef28aba1-a370-46b5-946b-e5fe727c8af7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "__________ know when to lead and when to ask others to take the lead.",
+      "yNghia": "<span style=\"color:red\">They </span>know when to lead and when to ask others to take the lead.<br />\r\n<i><span style=\"color:red\">Họ </span></i><i>biết khi nào nên lãnh đạo và khi nào nên yêu cầu người khác dẫn dắt.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ce9a2806-53af-46f5-825c-9f09138fdc1e"
+          },
+          "dapAn": "We",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6489774e-e1ee-4838-a467-211b4a7469b2"
+          },
+          "dapAn": "They",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "92bef008-a901-4c53-814c-de2e722e6d69"
+          },
+          "dapAn": "Leaders",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_11. They ... lead.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_11. They ... lead.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "975b811a-aec2-4ba9-bf92-237f15d9913d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Most projects need __________ who have extensive knowledge.",
+      "yNghia": "Most projects need <span style=\"color:red\">experts </span>who have extensive knowledge.<br />\r\n<i>Hầu hết các dự án cần <span style=\"color:red\">các chuyên gia </span>có kiến ​​thức sâu rộng.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "11ef979a-4fdc-4620-9c07-1483d8e2eb65"
+          },
+          "dapAn": "experts",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "247bf72e-2d1c-4894-887d-4c05e5a783a5"
+          },
+          "dapAn": "trainers",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8c31f597-f706-424d-a98a-7582b84f0291"
+          },
+          "dapAn": "leaders",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_12. Most ... knowledge.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_12. Most ... knowledge.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5009a3de-82f5-4bb8-860c-ff082e3489b7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The expert can explain __________ to the team.",
+      "yNghia": "The expert can explain <span style=\"color:red\">details </span>to the team.<br />\r\n<i>Chuyên gia có thể giải thích <span style=\"color:red\">chi tiết </span>cho nhóm.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e32849fd-e6b5-4008-903b-77cc9b2b09a0"
+          },
+          "dapAn": "information",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e92e6db5-7999-4ea4-bc42-0c32c3abd699"
+          },
+          "dapAn": "details",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "07d5e90c-b1ad-4078-a4e9-8591ad678439"
+          },
+          "dapAn": "issues",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_13. The ... team.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_13. The ... team.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1d874e21-4966-4924-badc-e779d57c4714"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Is another important member the __________ thinker?",
+      "yNghia": "Is another important member the <span style=\"color:red\">creative </span>thinker?<br />\r\n<i>Một thành viên quan trọng khác có phải là người có tư duy <span style=\"color:red\">sáng tạo </span>không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "dff26c28-d156-4f32-9ce1-039f1dd8652c"
+          },
+          "dapAn": "creative",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2b24ba82-dd83-4e9b-9166-fb126552687d"
+          },
+          "dapAn": "innovative",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b7324a68-576f-44f3-8aef-6577effd3dff"
+          },
+          "dapAn": "gifted",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_14. Is ... thinker.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_14. Is ... thinker.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1360dcdb-0cb7-4567-8e8c-c35ce547d88c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They will probably think of good __________.",
+      "yNghia": "They will probably think of good <span style=\"color:red\">ideas</span>.<br />\r\n<i>Họ có thể sẽ nghĩ ra những <span style=\"color:red\">ý tưởng </span>hay.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "525b1c53-2be4-43d1-891c-51e3d50ac48d"
+          },
+          "dapAn": "solutions",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ff66af10-a782-4449-8272-22317b32b8bc"
+          },
+          "dapAn": "ideas",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "30c81ca7-84df-4f47-a42c-34b35d7285f7"
+          },
+          "dapAn": "plans",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_15. They ... ideas.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_15. They ... ideas.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "91859c85-3499-4d22-9b01-3c94fe7a162b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They are often not the most __________ person on the team.",
+      "yNghia": "They are often not the most <span style=\"color:red\">organized </span>person on the team.<i> </i><br />\r\n<i>Họ thường không phải là người <span style=\"color:red\">có tổ chức </span>nhất trong nhóm.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "04516d3e-08cb-4e1c-9390-f19c993d24bf"
+          },
+          "dapAn": "organized",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ac0bb888-0d11-4f0c-9250-487b52366895"
+          },
+          "dapAn": "interesting",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "42d8b399-5fce-4f55-a14c-49e3d6f058a0"
+          },
+          "dapAn": "creative",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_16. They ... team.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_16. They ... team.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "0673bc5f-62be-4bd6-b663-454347adbd3c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "These ideas can apply to all kinds of __________ at work for sure.",
+      "yNghia": "These ideas can apply to all kinds of <span style=\"color:red\">areas </span>at work for sure.<br />\n<i>Chắc chắn những ý tưởng này có thể áp dụng cho tất cả <span style=\"color:red\">các lĩnh vực </span>tại nơi làm việc.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "561d4add-91ae-429d-badd-94fba5c943ca"
+          },
+          "dapAn": "areas",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4b9bb8d4-4b7a-4813-8097-c72efd2d05d0"
+          },
+          "dapAn": "fields",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0ec8aeb4-bec1-4597-8c52-9755611f3be2"
+          },
+          "dapAn": "sections",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_17. These ... for sure.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_17. These ... for sure.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ef3d2c5d-0708-478c-9afd-d24b9fcfbade"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "We can also apply these to __________ area.",
+      "yNghia": "We can also apply these to <span style=\"color:red\">any </span>area.<br />\r\n<i>Chúng ta cũng có thể áp dụng những điều này cho <span style=\"color:red\">bất kỳ </span>lĩnh vực nào.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a78aa873-140a-426b-97e4-e392596878e3"
+          },
+          "dapAn": "all",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f02ab3e8-3902-4509-a967-b1eda9549cb1"
+          },
+          "dapAn": "any",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b2ce16c3-8ee1-494f-bc44-188bcc911768"
+          },
+          "dapAn": "other",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_18. We ... area.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_18. We ... area.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e082b008-29da-46ec-8a30-fa9224d202ae"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That might be a book club, a band, or even a __________.",
+      "yNghia": "That might be a book club, a band, or even a <span style=\"color:red\">classroom</span>.<br />\r\n<i>Đó có thể là một câu lạc bộ sách, một ban nhạc hoặc thậm chí là một <span style=\"color:red\">lớp học</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9a1ef87b-c960-4b5f-a29c-340b2e69f7fe"
+          },
+          "dapAn": "classroom",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5d8fa96d-b17b-4e7f-90f2-e3c73269bca6"
+          },
+          "dapAn": "workplace",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5d8b5226-2434-4a8c-bc23-0bd0f758b57d"
+          },
+          "dapAn": "team",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_19. That ... classroom.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_19. That ... classroom.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6e2a7f35-95b2-4988-a2ac-9f805cfcda63"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I __________ agree with you.",
+      "yNghia": "I <span style=\"color:red\">totally </span>agree with you.<br />\r\n<i>Tôi <span style=\"color:red\">hoàn toàn </span>đồng ý với bạn.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d66e8d13-34c9-462a-9236-1defba20eaf9"
+          },
+          "dapAn": "completely",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f4de3678-568a-408a-b5a2-7b6c59097104"
+          },
+          "dapAn": "totally",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "992949a0-fd1a-4196-9c0d-7c6bad34fb66"
+          },
+          "dapAn": "fully",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L7/sounds/normal/TC_7_LISTENING_20. I ... you.mp3",
+      "soundSlow": "4SKILLS_TC_L7/sounds/slow/TC_7_LISTENING_20. I ... you.mp3"
+    }
+  ]
+}

@@ -1,0 +1,998 @@
+{
+  "dangCauHoi": "P6",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "76095ae4-cdde-4708-bd33-8df9e8a04b31"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu ở thì Tương lai đơn với <b>help</b> mang nghĩa \"giúp ai đó làm gì\", ta dùng cấu trúc: <b>Chủ ngữ + will + help + Tân ngữ + Động từ (nguyên thể) + Cụm giới từ</b>.<br />\r\nTa có: <b>I</b> <i>(</i><i>Tôi</i><i>) </i>là chủ ngữ, <b>you</b> <i>(</i><i>bạn</i><i>)</i> là tân ngữ, <b>look</b> <i>(xem xét) </i>là động từ (nguyên thể), <b>at your options</b> <i>(các lựa chọn của mình) </i>là cụm giới từ. Câu hoàn chỉnh là <b><span style=\"color:red\">I will help you look at your options. </span></b><i>(Tôi sẽ giúp bạn xem xét các lựa chọn của mình.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c7d5e580-53c9-4fa2-8614-2b48165dfbc3"
+          },
+          "dapAn": "I will",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "47a175d7-f799-4986-af78-6e3606a2f16b"
+          },
+          "dapAn": "help",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "50986ea1-bc8b-41f8-9a42-cd9fd5f3ceed"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d370720c-6f92-478e-89b0-6f94cb007a61"
+          },
+          "dapAn": "look at",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2d20e864-d40f-4f30-9c84-6b2d018b42bc"
+          },
+          "dapAn": "your",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "594e6c18-1839-400c-9ef3-d2a210a6fd58"
+          },
+          "dapAn": "options.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d16a5186-b698-43f0-983b-3da1a63913d1"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để yêu cầu ai đó làm gì, ta dùng cấu trúc: <b>Could you + Động từ nguyên thể + Tân ngữ?</b><br />\r\nTa có: <b>talk more about</b> <i>(nói nhiều hơn về) </i>là cụm động từ với <b>talk</b> <i>(nói) </i>là động từ (nguyên thể), <b>a career with animals</b> <i>(công việc liên quan đến các loài động vật) </i>là tân ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Could you talk more about a </span></b><b><span style=\"color:red\">career with animals? </span></b><i>(Bạn có thể nói thêm về công việc liên quan đến các loài động vật được không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "710257b8-975c-44e5-be20-eebfc2c291f3"
+          },
+          "dapAn": "Could you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "759f8819-592e-4084-80cd-ff4da72b964b"
+          },
+          "dapAn": "talk more",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5ecdd8ef-8978-494e-a21a-31957a9cb3a5"
+          },
+          "dapAn": "about",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "873cf410-80f8-473a-b957-0d2a5a8783b7"
+          },
+          "dapAn": "a career",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "961d9153-391f-46ca-a8b3-a1fc5a4b4445"
+          },
+          "dapAn": "with",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "75e23023-3cbe-4d5f-a27a-5cfaed35a9f6"
+          },
+          "dapAn": "animals?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "46032c0b-845e-4c77-81e8-90bfa7c9ddfe"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó có quen thuộc với điều gì không, ta dùng cấu trúc: <b>Động từ to be + Chủ ngữ + familiar with + Danh từ?</b><br />\r\nTa có: <b>Are</b> là động từ to be, <b>you</b> <i>(bạn)</i> là chủ ngữ, <b>zookeepers</b> <i>(người trông coi vườn thú)</i> là danh từ. Câu hoàn chỉnh là <b><span style=\"color:red\">Are you </span></b><b><span style=\"color:red\">familiar with zookeepers? </span></b><i>(Bạn có quen thuộc với nghề là người trông coi vườn thú không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "39f08300-3c70-4fb0-b6e1-3fa129077434"
+          },
+          "dapAn": "Are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b7c5c159-aa72-4036-a123-37314f041a3f"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "327b4380-1ffc-4db2-8342-6c8551dd4642"
+          },
+          "dapAn": "familiar",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b8235c2e-9ccd-4e45-9a7d-aeaee56165b7"
+          },
+          "dapAn": "with",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1743796c-6953-4c2d-ad53-3c9fa5cfe066"
+          },
+          "dapAn": "zookeepers?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "00143816-1474-4b5a-914f-29b0cb7ef62c"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó có hứng thú với cái gì đó không, ta dùng cấu trúc: <b>Động từ to be + Chủ ngữ + interested in + Danh từ / Cụm danh từ?</b><br />\r\nTa có: <b>Are</b> là động từ to be, <b>you</b> <i>(bạn)</i> là chủ ngữ, <b>animal behavior</b> <i>(hành vi của động vật) </i>là cụm danh từ. Câu hoàn chỉnh là <b><span style=\"color:red\">Are you interested in animal behavior? </span></b><i>(Bạn có hứng thú với hành vi của động vật không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f09d4f41-6241-4b31-9653-686bca8ea8c5"
+          },
+          "dapAn": "Are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "79eaad70-5bc4-4dff-a9de-8588d0aed20d"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "db7ade2d-283b-4672-98c5-b33034071926"
+          },
+          "dapAn": "interested",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "15986a92-ea0f-4962-b6d0-830c37102578"
+          },
+          "dapAn": "in",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cdd4025a-b8a0-47e0-9d41-aba0e1928e48"
+          },
+          "dapAn": "animal",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a20631b1-97c4-4850-93c2-b5fa398acad7"
+          },
+          "dapAn": "behavior?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2f82932d-f0ef-4b3d-ab1e-b94eb03e399f"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu về việc ai đó cần biết cái gì, ta dùng cấu trúc: <b>Chủ ngữ + need to know + Mệnh đề danh từ</b>.<br />\r\nTa có: <b>You</b> <i>(Bạn)</i> là chủ ngữ, <b>what qualities employers are looking for</b> <i>(</i><i>nhà tuyển dụng đang tìm kiếm những phẩm chất gì)</i> là mệnh đề danh từ. Câu hoàn chỉnh là <b><span style=\"color:red\">Y</span></b><b><span style=\"color:red\">ou need </span></b><b><span style=\"color:red\">to know what qualities employers are looking for. </span></b><i>(Bạn cần biết nhà tuyển dụng đang tìm kiếm những phẩm chất gì.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "40286a86-f36b-4a20-a346-5158ed8102f2"
+          },
+          "dapAn": "You need to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "85e70765-e547-4d15-97e6-59a8a6e91355"
+          },
+          "dapAn": "know what",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5127af25-9018-4fae-aba7-774b443fa7ac"
+          },
+          "dapAn": "qualities",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dd727874-bf58-4d33-9a07-b67d5d694206"
+          },
+          "dapAn": "employers",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e42ae477-d0cd-4451-b1e2-b90e4e61b529"
+          },
+          "dapAn": "are looking",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3f570ba9-8350-4c14-b403-8138e9d52ae3"
+          },
+          "dapAn": "for.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4919f58a-7bfd-48fe-8b1b-a9fcfe8efbb3"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói ai đó muốn làm gì, ta dùng cấu trúc: <b>Chủ ngữ + want to + Động từ (nguyên thể) + Tân ngữ.</b><br />\r\nTa có: <b>I</b> <i>(Tôi)</i> là chủ ngữ, <b>ask about</b> <i>(hỏi về) </i>là cụm động từ với <b>ask</b> là động từ (nguyên thể), <b>a marine biologist</b> <i>(nhà sinh học biển)</i> là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">I want to ask about </span></b><b><span style=\"color:red\">a marine biologist</span></b><b><span style=\"color:red\">.</span></b><b> </b><i>(Tôi muốn hỏi về một nhà sinh học biển.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "64d54536-44d1-463f-b1d3-31984161a9f8"
+          },
+          "dapAn": "I want",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "abf82114-92d8-4e69-a561-16c70f1e619e"
+          },
+          "dapAn": "to ask",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "07bb2773-2d55-45d5-9668-946b6d3c70e0"
+          },
+          "dapAn": "about",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "eb06467c-ca14-40cd-9792-e947a9d90b73"
+          },
+          "dapAn": "a marine",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8e977ed5-5b21-416e-864b-f7fe50206447"
+          },
+          "dapAn": "biologist.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "752fda41-c678-4de5-969a-b8059cc92c54"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để kêu gọi mọi người hãy cùng làm việc gì, ta dùng cấu trúc: <b>Let's + Động từ (nguyên thể) + Tân ngữ</b>.<br />\r\nTa có: <b>start by looking at</b> <i>(</i><i>bắt đầu bằng cách xem xét</i><i>) </i>là cụm động từ với<i> </i><b>start</b> <i>(bắt đầu) </i>là động từ (nguyên thể), <b>a familiar career </b><i>(</i><i>một nghề nghiệp quen thuộc)</i><i> </i>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">L</span></b><b><span style=\"color:red\">et's start by looking at a familiar career. </span></b><i>(Hãy bắt đầu bằng cách xem xét một nghề nghiệp quen thuộc nhé.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ad922e16-11d7-4a49-a986-0fc2fe183585"
+          },
+          "dapAn": "Let's start",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a6caef7d-632d-4d6a-8fe9-fc9fdf7e4772"
+          },
+          "dapAn": "by",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e6db3241-bca8-464e-b0e0-d31bb45cb41c"
+          },
+          "dapAn": "looking",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "01eb8acf-36c3-4683-8e18-343c87e184d7"
+          },
+          "dapAn": "at",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c193707e-0049-45bc-911f-12e4b98f1588"
+          },
+          "dapAn": "a familiar",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d5150a20-ab41-4d76-bab3-7638b47a6b9f"
+          },
+          "dapAn": "career.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1e2bc1b1-0953-4a33-a5f8-5b6c62905eab"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu bị động với must, ta dùng cấu trúc: <b>Chủ ngữ + must + be + Động từ quá khứ phân từ</b>.<br />\r\nTa có: <b>All dogs</b> <i>(</i><i>Tất cả những con chó</i><i>)</i> là chủ ngữ, <b>microchipped</b> <i>(</i><i>được gắn vi mạch</i><i>) </i>là động từ quá khứ phân từ. Câu hoàn chỉnh là <b><span style=\"color:red\">All dogs must be microchipped. </span></b><i>(Tất cả những con chó phải được gắn vi mạch.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f4801ff1-1280-44cb-85e7-5d308eda4cfb"
+          },
+          "dapAn": "All",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "548453f2-5a01-46f8-91c6-9fb277132449"
+          },
+          "dapAn": "dogs",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "99b24078-d308-49d8-aeb5-875c0dd8f9bd"
+          },
+          "dapAn": "must",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "78a99215-bcc5-4a9f-92bb-61d56d173c8c"
+          },
+          "dapAn": "be",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6b311d15-0637-4c13-b5bc-5e4c0cd5d6e4"
+          },
+          "dapAn": "microchipped.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "edac80fd-5235-4124-8081-292cbfec87b1"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó có biết về cái gì đó không, ta dùng cấu trúc: <b>Do you know + Mệnh đề danh từ</b>.<br />\r\nTa có: <b>what the main duties of marine biologists are</b> <i>(</i><i>nhiệm vụ chính của các nhà sinh học biển là gì</i><i>)</i> là mệnh đề danh từ. Câu hoàn chỉnh là <b><span style=\"color:red\">Do you know what the main duties of marine biologists are? </span></b><i>(Bạn có biết nhiệm vụ chính của các nhà sinh học biển là gì không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3cf9d1d3-6810-4555-99ff-8d63756646c2"
+          },
+          "dapAn": "Do you know",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3851d016-1d7b-4b8a-a900-b34bac02e098"
+          },
+          "dapAn": "what the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6f1b0f40-e3b4-49a6-9936-018f43aa8ac7"
+          },
+          "dapAn": "main duties",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "99c04f27-3b2c-4118-af57-9e1e927563b7"
+          },
+          "dapAn": "of marine",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c7b72174-93a7-4940-809b-e6dd8a2322d9"
+          },
+          "dapAn": "biologists",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "957f044a-fcc2-454f-8663-41d4364a695c"
+          },
+          "dapAn": "are?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f131e6e8-29de-45b6-8d3f-39062988f3d5"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu bị động với <b>have to</b>, ta dùng câu trúc: <b>Chủ ngữ + have to + be + Động từ quá khứ phân từ + Tân ngữ</b>.<br />\r\nTa có: <b>Marine biologists</b> <i>(Các nhà sinh học biển) </i>là chủ ngữ, <b>prepared for</b> <i>(chuẩn bị cho) </i>là cụm động từ với <b>prepared</b> là động từ quá khứ phân từ, <b>some conditions</b> <i>(một số điều kiện)</i> là tân ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Marine biologists have to be prepared for some conditions.</span></b><b> </b><i>(Các nhà sinh học biển phải chuẩn bị cho một số điều kiện.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "81382a41-27ee-4204-b941-1be38cbb9c52"
+          },
+          "dapAn": "Marine",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c5b1e2c1-9648-42e1-b388-da856dac6eac"
+          },
+          "dapAn": "biologists",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "87825907-59f6-49fe-8f46-5c434b8da51c"
+          },
+          "dapAn": "have to be",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cd0deeb4-2c48-49f9-86c7-c88f8e8894aa"
+          },
+          "dapAn": "prepared",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "00db252c-f5d7-4d52-9dd0-a2dba2eb7cb7"
+          },
+          "dapAn": "for some",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0c42c8b4-029c-465a-a4d7-0a092dbff073"
+          },
+          "dapAn": "conditions.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6a964a73-c74e-4cf9-8ff5-74ea64943e76"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu ở thì Hiện tại đơn với dạng phủ định, ta dùng cấu trúc: <b>Chủ ngữ + don't / doesn't + Trạng từ + Động từ (nguyên thể) +Tân ngữ + Cụm giới từ</b>.<br />\r\nTa có: <b>They</b> <i>(Họ) </i>là chủ ngữ, <b>always</b> <i>(lúc nào cũng) </i>là trạng từ, <b>work</b> <i>(làm việc) </i>là động từ (nguyên thể), <b>dolphins</b> <i>(cá heo) </i>là tân ngữ, <b>in warm waters</b> <i>(ở vùng nước ấm) </i>là cụm giới từ. Câu hoàn chỉnh là <b><span style=\"color:red\">They don't always work with dolphins in warm waters! </span></b><i>(Không phải lúc nào họ cũng làm việc với cá heo ở vùng nước ấm!).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5efd5de8-7005-49f4-a148-46893761fc83"
+          },
+          "dapAn": "They don't",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5724e079-30e8-4fc2-a0f2-316073b21669"
+          },
+          "dapAn": "always",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "24cc7fe0-ff14-4ab8-b1da-a6e00c18f04a"
+          },
+          "dapAn": "work with",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "93b12bab-9f3e-4a03-97f9-20022cb73427"
+          },
+          "dapAn": "dolphins",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ac95ebc7-dda4-4c44-9ce4-e6d86897de61"
+          },
+          "dapAn": "in warm",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "07fc8d87-7c56-43a4-a386-b1ce160eedeb"
+          },
+          "dapAn": "waters!",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "05cc9425-c3c5-48ea-8497-cc992eda24c5"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu với động từ khuyết thiếu <b>can</b>, ta dùng cấu trúc: <b>Chủ ngữ + can + Động từ (nguyên thể)</b> + <b>Tân ngữ + Cụm giới từ</b>.<br />\r\nTa có: <b>They</b> <i>(Chúng) </i>là chủ ngữ, <b>pass</b> <i>(truyền) </i>là động từ (nguyên thể), <b>these</b> <b>diseases</b> <i>(những bệnh này) </i>là tân ngữ, <b>on</b> <b>to people</b> <i>(cho người) </i>là cụm giới từ. Câu hoàn chỉnh là <b><span style=\"color:red\">They can pass these diseases on to people.</span></b><b> </b><i>(Chúng có thể truyền những bệnh này cho người.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "477647e7-559c-442d-9089-20d7a45f41c5"
+          },
+          "dapAn": "They can",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cd0f22cd-f6f3-475f-a535-559b5d203659"
+          },
+          "dapAn": "pass",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d18e5ec4-08d0-47d2-9ce3-1d8814be686c"
+          },
+          "dapAn": "these",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "874bb867-b363-465e-b7c0-070e46756f11"
+          },
+          "dapAn": "diseases",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a67fad31-5be9-4e95-9334-41f4b6256438"
+          },
+          "dapAn": "on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fa4a8f65-feca-4ee9-af6b-01561a7b8465"
+          },
+          "dapAn": "to people.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "53d7e489-8d4c-42fb-8467-2ce4445e9793"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu ở thì Tương lai đơn với <b>will</b>, ta dùng cấu trúc: <b>Chủ ngữ + will + Động từ (nguyên thể) + Tân ngữ</b>.<br />\r\nTa có: <b>You</b> <i>(</i><i>Bạn</i><i>) </i>là chủ ngữ, <b>need</b> <i>(cần) </i>là động từ (nguyên thể), <b>a degree in biology</b> <i>(</i><i>bằng cấp về sinh học)</i> là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">You will need a degree in biology. </span></b><i>(Bạn sẽ cần bằng cấp về sinh học.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2e1784a8-df23-4f2f-b989-b2e04993eef8"
+          },
+          "dapAn": "You",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "60e2ff89-6388-417e-a79f-9a0a4476edc6"
+          },
+          "dapAn": "will",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9add74da-92d9-4afd-be34-8e7dd2392737"
+          },
+          "dapAn": "need",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b9f03d74-3ada-42b6-b933-1226de4f11b8"
+          },
+          "dapAn": "a degree",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "15415b44-794d-43a0-ae93-f12ac4e738c6"
+          },
+          "dapAn": "in",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "26e108a5-daeb-4afb-952f-5992eb2e422c"
+          },
+          "dapAn": "biology.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "84503213-0399-4c68-b976-a74480c705e3"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu ở thì Hiện tại đơn, ta dùng cấu trúc: <b>Chủ ngữ + Động từ (nguyên thể/s/es) + Tân ngữ</b>.<br />\r\nTa có: <b>You</b> <i>(</i><i>Bạn</i><i>) </i>là chủ ngữ, <b>mention </b><i>(đề cập đến) </i>là động từ, <b>an unusual career</b> <i>(</i><i>một nghề nghiệp khác thường)</i> là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">You mention an unusual career. </span></b><i>(Bạn đề cập đến một nghề nghiệp khác thường.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "55781ca3-8490-4487-b884-e6f1cd9ed039"
+          },
+          "dapAn": "You",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ceb18892-befa-4b79-bab7-7b7de8719ba7"
+          },
+          "dapAn": "mention",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b9c4d5fc-90e2-4688-a1b3-dff17c8ce7cc"
+          },
+          "dapAn": "an",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8a771c13-6c5f-4a72-83e7-f7311344bd94"
+          },
+          "dapAn": "unusual",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "67ea72da-b19e-40e4-b6ac-6b5664d07309"
+          },
+          "dapAn": "career.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "51f959da-424e-4245-9e09-b5c62f4fe43f"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu với cấu trúc <b>would / 'd like to</b> mang nghĩa \"muốn làm gì\", ta dùng cấu trúc: <b>Chủ ngữ + would / 'd like to + Động từ (nguyên thể) + Tân ngữ</b>.<br />\r\nTa có: <b>I</b> <i>(Tôi)</i> là chủ ngữ, <b>talk about</b> <i>(nói về) </i>là cụm động từ với <b>talk</b> là động từ (nguyên thể), <b>a snake milker</b> <i>(nghề nặn nọc rắn) </i>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">I'd like to talk about a snake milker! </span></b><i>(Tôi muốn nói về nghề nặn nọc rắn!).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "190404f2-bfd0-4b01-a403-f771e34d1d3b"
+          },
+          "dapAn": "I'd like",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6d5165e8-2a5b-43bc-b5f9-a588ebf068cf"
+          },
+          "dapAn": "to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5bfb7c6b-480f-471d-b227-36f929544149"
+          },
+          "dapAn": "talk",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "438b39f1-9dc3-4ccd-bad0-04c595cccd5d"
+          },
+          "dapAn": "about",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c37c1171-fd96-49f1-960b-17886ce75df8"
+          },
+          "dapAn": "a snake",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ba870b91-b31d-4e1f-8609-9b862bc3e56c"
+          },
+          "dapAn": "milker!",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "22a4572e-b8da-4f42-a2a1-c89a2203f50e"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu với động từ khuyết thiếu <b>can</b>, ta dùng cấu trúc: <b>Chủ ngữ + can + Trạng từ + Động từ (nguyên thể)</b> + <b>Tân ngữ + Cụm giới từ</b>.<br />\r\nTa có: <b>Stray animals </b><i>(Động vật hoang) </i>là chủ ngữ, <b>also</b> <i>(cũng) </i>là trạng từ, <b>carry</b> <i>(</i><i>mang</i><i>) </i>là động từ (nguyên thể), <b>diseases</b> <i>(bệnh) </i>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">Stray animals can also carry diseases. </span></b><i>(Động vật hoang cũng có thể mang bệnh.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "230cb0a5-6d73-45a4-966b-1b1a87f8ed62"
+          },
+          "dapAn": "Stray",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c6fa6859-6715-4afa-b4e6-bdcc859a0f67"
+          },
+          "dapAn": "animals",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7805f488-f9d2-4e23-aa39-94bd39c506db"
+          },
+          "dapAn": "can",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b144d108-d873-46ae-b577-4d96a30b9321"
+          },
+          "dapAn": "also",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a8941e27-e83d-45c1-8586-2a602b37481c"
+          },
+          "dapAn": "carry",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f5d7dfad-0580-472d-8c73-78ef736892e8"
+          },
+          "dapAn": "diseases.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "52530c27-65ac-4bc3-8880-72d6018ebb72"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu ở thì Hiện tại đơn, ta dùng cấu trúc: <b>Chủ ngữ + Động từ (nguyên thể/s/es) + Tân ngữ + Cụm giới từ</b>.<br />\r\nTa có: <b>A snake milker </b><i>(</i><i>Người nặn nọc rắn</i><i>) </i>là chủ ngữ, <b>takes </b><i>(lấy) </i>là động từ, <b>venom </b><i>(</i><i>nọc)</i> là tân ngữ, <b>from a snake</b> <i>(từ con rắn) </i>là cụm giới từ. Câu hoàn chỉnh là <b><span style=\"color:red\">A snake milker takes venom from a snake.</span></b> <i>(Người nặn nọc rắn sẽ lấy nọc từ con rắn.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "96eb1489-6115-4bf9-a44d-b190c789dbec"
+          },
+          "dapAn": "A snake",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "70cbfac4-ea84-4a7f-b244-b1b32a19bfef"
+          },
+          "dapAn": "milker",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d1d08c9d-3930-4113-a32b-1b75e738748a"
+          },
+          "dapAn": "takes",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5b0896a2-68e4-4e8a-ad79-057e11868252"
+          },
+          "dapAn": "venom",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d538bb6b-1fbf-49ee-a24b-5851a24a062c"
+          },
+          "dapAn": "from",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1281845e-713b-4e4d-9d65-a67a7f2807db"
+          },
+          "dapAn": "a snake.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "602b7355-f8d9-4d74-bc00-3a26bb7afd29"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu ở thì Tương lai đơn với <b>will</b>, ta dùng cấu trúc: <b>Chủ ngữ + will + Động từ (nguyên thể) + Tân ngữ</b>.<br />\r\nTa có: <b>Snake milkers </b><i>(</i><i>Những người nặn nọc rắn</i><i>) </i>là chủ ngữ, <b>need</b> <i>(cần) </i>là động từ (nguyên thể), <b>a lot of practical training </b><i>(</i><i>đào tạo thực tế rất nhiều)</i> là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">Snake milkers will need a lot of practical training. </span></b><i>(Những người nặn nọc rắn sẽ cần được đào tạo thực tế rất nhiều.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "88dab10d-2148-465d-a22e-7ae0e5510701"
+          },
+          "dapAn": "Snake",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4c573d95-58fd-49fe-96ca-8c3703a3a615"
+          },
+          "dapAn": "milkers",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f0b36a15-e3fd-4437-8b10-288f45ddded5"
+          },
+          "dapAn": "will need",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "79cbd93d-5d22-4448-9ed2-ad25c8315371"
+          },
+          "dapAn": "a lot of",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6586f503-4c20-4716-803a-6d4f69dc32e6"
+          },
+          "dapAn": "practical",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "369bcc65-51d4-4cd0-9277-0617acd4f3dd"
+          },
+          "dapAn": "training.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ff7aed79-72ab-422d-b578-5f6dd9220d13"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu ở thì Hiện tại đơn, ta dùng cấu trúc: <b>Chủ ngữ + Động từ (nguyên thể/s/es) + Tân ngữ + Mệnh đề bổ ngữ</b>.<br />\r\nTa có: <b>They </b><i>(</i><i>Họ</i><i>) </i>là chủ ngữ, <b>study </b><i>(nghiên cứu) </i>là động từ, <b>animals </b><i>(</i><i>động vật)</i> là tân ngữ, <b>that live in the sea </b><i>(</i><i>sống ở biển</i><i>) </i>là mệnh đề bổ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">They</span></b><b><span style=\"color:red\"> study animals that live in the sea. </span></b><i>(Họ nghiên cứu động vật sống ở biển.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "21c0cd55-4c2e-4de0-adfc-768dfe85a291"
+          },
+          "dapAn": "They",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b6b184ae-e885-4c13-944d-84b48ad073c1"
+          },
+          "dapAn": "study",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b5dfab5f-a825-4632-a771-1b56f54b8961"
+          },
+          "dapAn": "animals",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cd92cc86-93d2-4a53-9fae-31df7ecbc0d8"
+          },
+          "dapAn": "that live",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7c429092-4245-4fe9-85ba-126683d7164a"
+          },
+          "dapAn": "in",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "343d5820-670b-4dcb-b434-a01d48bf6bee"
+          },
+          "dapAn": "the sea.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3233f21d-51d0-4454-bb2e-2a059c5869c5"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để đặt câu với <b>There are</b>, ta dùng cấu trúc: <b>There are + Trạng từ 1 + Danh từ số nhiều + Trạng từ 2</b>.<br />\r\nTa có: <b>about</b> <i>(khoảng) </i>là trạng từ 1, <b>200 million stray dogs</b> <i>(</i><i>200 triệu con chó hoang</i><i>)</i> là danh từ số nhiều, <b>worldwide</b> <i>(trên toàn thế giới) </i>là trạng từ 2. Câu hoàn chỉnh là <b><span style=\"color:red\">There are about 200 million stray dogs worldwide. </span></b><i>(Có khoảng 200 triệu con chó hoang trên toàn thế giới.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a733909b-0a47-4b7b-b980-f49871070414"
+          },
+          "dapAn": "There are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "757df749-d37b-4f14-b731-1b61e56c9147"
+          },
+          "dapAn": "about 200",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "790ff5c0-ea02-4d8b-ace7-2f3a0fbde4ae"
+          },
+          "dapAn": "million",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e06b9bf2-8a9f-4c42-8e65-983f787690b7"
+          },
+          "dapAn": "stray",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "582d5eaa-bffc-4dfe-9cf6-68f4b86dd269"
+          },
+          "dapAn": "dogs",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8bbfc2a2-3e34-49a0-ba03-5dfe55e9ba56"
+          },
+          "dapAn": "worldwide.",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

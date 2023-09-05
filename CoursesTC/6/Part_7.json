@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P7",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "515fcb13-fbb4-423d-bf5a-66b2debb86c7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My sister is <b><span style=\"color:blue\">(quite)</span></b> ____________ than I am.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh hơn, tính từ <b>quiet</b> có hai âm tiết dạng so sánh hơn có thể thêm đuôi <b>er</b> hoặc thêm <b>more</b> phía trước, ta được <b>quieter / more quiet</b>.<b> </b>Câu hoàn chỉnh là<b> My sister is <span style=\"color:red\">quieter / more quiet </span>than I am. </b><i>(Chị gái tôi trầm tính hơn tôi.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9e21f578-54ba-43a8-9d28-bc7789e3bc20"
+          },
+          "dapAn": "quieter / more quiet",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c90d2420-1e8f-492a-8be9-bae7bee01cc2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Now I'm<b> <span style=\"color:blue\">(ambitious) </span></b>________________<b> </b>than I was then.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh hơn, tính từ <b>ambitious</b> có ba âm tiết nên thêm <b>more</b> ở đằng trước, ta được <b>more ambitious</b>. Câu hoàn chỉnh là<b> Now I'm <span style=\"color:red\">more ambitious </span>than I was then. </b><i>(Tôi tham vọng hơn so với lúc đó.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d5ec648d-1c12-4b74-b0a2-67f88cdc2d7f"
+          },
+          "dapAn": "more ambitious",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "46cac469-e910-40aa-82d4-6792cf57d69b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "He's a <b><span style=\"color:blue\">(good) </span></b>________ cook than his sister is.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh hơn, tính từ <b>good</b> có dạng so sánh hơn bất quy tắc, ta được <b>better</b>.<b> </b>Câu hoàn chỉnh là<b> He's a <span style=\"color:red\">better </span>cook than his sister is. </b><i>(Anh ấy nấu ăn ngon hơn chị gái mình.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7a768bd9-bf07-4ef8-afd1-e3f244c17585"
+          },
+          "dapAn": "better",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4367fb4c-7218-4873-aaae-1c3f23b054ce"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I am as <b><span style=\"color:blue\">(excite)</span></b> ________ as you are about it!",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh bằng, động từ <b>excite</b> chuyển thành tính từ, ta được <b>excited</b>. Câu hoàn chỉnh là <b>I am as <span style=\"color:red\">excited </span>as you are about it! </b><i>(Tôi cũng <span style=\"color:red\">háo hức </span>y như bạn về chuyện này.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "17e8223e-9033-4e81-8136-c53a106ae514"
+          },
+          "dapAn": "excited",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9d27c255-30de-4244-b263-3f9d124c4c74"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The salads at Forest Foods are <b><span style=\"color:blue\">(good)</span></b> ________ than the salads at Green Planet.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh hơn, tính từ <b>good</b> có dạng so sánh hơn bất quy tắc, ta được <b>better</b>.<b> </b>Câu hoàn chỉnh là <b>The salads at Forest Foods are <span style=\"color:red\">better </span>than the salads at Green Planet.</b> <i>(Salad ở Forest Foods ngon hơn salad ở Green Planet.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e6feeeb7-5123-41b9-bcfa-91b9d329fbf9"
+          },
+          "dapAn": "better",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b84d66ab-76a9-41d9-9f6c-c48a8a3af4ac"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I think that São Paulo isn't <b><span style=\"color:blue\">(pretty)</span></b> ________ than Rio de Janeiro. I really love Rio de Janeiro.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh hơn, tính từ <b>pretty</b> có 2 âm tiết nhưng kết thúc bằng đuôi <b>y</b> nên dạng so sánh hơn đuôi <b>y</b> đổi thành <b>i</b> và thêm đuôi <b>er</b>, ta được <b>prettier</b>. Câu hoàn chỉnh là <b>I think that São Paulo isn't <span style=\"color:red\">prettier </span>than Rio de Janeiro. I really love Rio de Janeiro.</b> <i>(Tôi nghĩ São Paulo không <span style=\"color:red\">đẹp hơn </span>Rio de Janeiro. Tôi rất yêu thích Rio de Janeiro.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9d29ec2f-ae9c-4d5b-b7e9-83d2bd15b312"
+          },
+          "dapAn": "prettier",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "579f75e2-6353-4f1d-a0e6-c0354116b730"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "This dress is _________ <b><span style=\"color:blue\">(long)</span></b> than that one.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh hơn, tính từ <b>long</b> có một âm tiết nên dạng so sánh hơn sẽ thêm đuôi <b>er</b>, ta được <b>longer</b>.<b> </b>Câu hoàn chỉnh là<b> This dress is <span style=\"color:red\">longer </span>than that one. </b><i>(Cái váy này <span style=\"color:red\">dài hơn </span>cái váy kia.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "04fa7ced-441d-48c5-bc6f-02567ae64e55"
+          },
+          "dapAn": "longer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "11de6998-e11a-4856-93b8-c22766074f92"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "His performance was as <b><span style=\"color:blue\">(bad)</span></b> _________ as her.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh bằng, tính từ <b>bad</b> được giữ nguyên thể. Câu hoàn chỉnh là <b>His</b><b> performance was as <span style=\"color:red\">bad </span>as hers. </b><i>(Anh</i><i> ấy thể hiện <span style=\"color:red\">kém </span>ngang cô ấy.</i><i>)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "78069c6f-6583-42b0-8f73-abf5fe18dc3f"
+          },
+          "dapAn": "bad",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d0546af8-ac90-4966-a836-0982933d601d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "There were fewer people waiting to visit the museum than the Statue of Liberty. The line for the Statue of Liberty is <b><span style=\"color:blue\">(long)</span></b> ________ than the line for the museum.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh hơn, tính từ <b>long</b> có một âm tiết nên dạng so sánh hơn sẽ thêm đuôi <b>er</b>, ta được <b>longer</b>.<b> </b>Câu hoàn chỉnh là<b> There were fewer people waiting to visit the museum than the Statue of Liberty. The line for the Statue of Liberty is <span style=\"color:red\">longer </span>than the line for the museum. </b><i>(Có ít người đợi để thăm bảo tàng hơn là Tượng nữ thần Tự do. Hàng người đợi ở Tượng nữ thần Tự do <span style=\"color:red\">dài hơn </span>hàng đợi ở bào tàng.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "027e1de5-dfa4-454f-bd24-6a05e88a7a29"
+          },
+          "dapAn": "longer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ac0cd68a-2039-419b-92ad-7dfd0c9090ec"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Cities are <b><span style=\"color:blue\">(expensive) </span></b>____________________ than rural areas.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh hơn, tính từ <b>expensive</b> có ba âm tiết nên dạng so sánh hơn thêm <b>more</b> ở đằng trước, ta được <b>more expensive</b>.<b> </b>Câu hoàn chỉnh là<b> Cities are <span style=\"color:red\">more expensive </span>than rural areas.</b> <i>(Các thành phố thì <span style=\"color:red\">đắt đỏ hơn </span>những vùng nông thôn.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "04bfe124-31ef-4966-9f0f-03aa5ca90348"
+          },
+          "dapAn": "more expensive",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "aee61851-c50b-4111-ace6-c39132c2d62b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "He is <b><span style=\"color:blue\">(handsome</span></b>) ______________ than his father.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh hơn, tính từ <b>handsome</b> có hai âm tiết, khi chuyển sang dạng so sánh hơn, ta thêm <b>more</b> ở đằng trước từ <b>handsome</b> hoặc thêm <b>er</b> phía sau, ta được <b>more handsome / handsomer</b>.<b> </b>Câu hoàn chỉnh là <b>He is <span style=\"color:red\">more handsome / handsomer </span>than his father. </b><i>(Anh ấy đẹp trai hơn bố mình.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "60f49c6c-1d02-4a9e-b53a-2700b4bdb9e2"
+          },
+          "dapAn": "more handsome / handsomer",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f7304409-563a-46be-a116-278fb6e66381"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Jonathan is <b><span style=\"color:blue\">(lazy)</span></b> __________ than Juan. He never does any cleaning.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh hơn, tính từ <b>lazy</b> có hai âm tiết nhưng kết thúc bằng đuôi <b>y</b> nên dạng so sánh hơn đuôi <b>y</b> đổi thành <b>i</b> và thêm đuôi <b>er</b>, ta được <b>lazier</b>. Câu hoàn chỉnh là <b>Jonathan is <span style=\"color:red\">lazier </span>than Juan. He never does any cleaning. </b><i>(Jonathan <span style=\"color:red\">lười hơn </span>Juan. Anh ấy chẳng bao giờ dọn dẹp gì.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "368a6b4f-6e71-442b-8dae-3050dc44d387"
+          },
+          "dapAn": "lazier",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c50f2835-d714-4bab-be2b-1804931285e7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She is as <b><span style=\"color:blue\">(friend)</span></b> _________ as her daughter.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh bằng, danh từ <b>friend</b> đổi thành tính từ ta được, <b>friendly</b>. Câu hoàn chỉnh là <b>She is as <span style=\"color:red\">friendly </span>as her daughter. </b><i>(Cô ấy cũng <span style=\"color:red\">thân thiện </span>y như con gái mình.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a353557a-b33d-4b2f-b072-cc2bbd717d56"
+          },
+          "dapAn": "friendly",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "412bd696-c86f-40ad-b43d-a7f066f2c9c5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I'm as <b><span style=\"color:blue\">(stress)</span></b> _______ as you are about this.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh bằng, danh từ <b>stress</b> đổi thành tính từ ta được, <b>stressed. </b>Câu hoàn chỉnh là<b> I'm as <span style=\"color:red\">stressed </span>as you are about this.</b> <i>(Tôi cũng <span style=\"color:red\">căng thẳng </span>như bạn về chuyện này.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "81d35c5f-69d2-4eee-a2af-fac00195e103"
+          },
+          "dapAn": "stressed",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "63fb9876-007f-48de-a198-1c954495a9e9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They are not as <b><span style=\"color:blue\">(hard-work)</span></b> _______________ as we are.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh bằng, danh từ <b>hard-work</b> đổi thành tính từ ta được, <b>hard-working. </b>Câu hoàn chỉnh là<b> They are not as <span style=\"color:red\">hard-working </span>as we are.</b> <i>(Họ không <span style=\"color:red\">chăm chỉ</span> như chúng ta.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0dddb152-1c02-4f59-84ea-8319b1bc7d19"
+          },
+          "dapAn": "hard-working",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9521ee99-0253-48aa-9cec-856f821fd8ae"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She's not as <b><span style=\"color:blue\">(optimist)</span></b> ____________ as she was.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh bằng, danh từ <b>optimist</b> đổi thành tính từ ta được, <b>optimistic. </b>Câu hoàn chỉnh là<b> She's</b><b> not as <span style=\"color:red\">optimistic </span>as she was.</b> <i>(Cô ấy không được lạc quan như trước nữa.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3ec2d9cd-bf3a-4c9c-ac19-fedf77e11352"
+          },
+          "dapAn": "optimistic",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4ae57411-9c31-41c1-ab9c-4db3d1e088fa"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "New York is <b><span style=\"color:blue\">(far)</span></b> _____________ from her than Chicago is.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh hơn, tính từ <b>far</b> có dạng so sánh hơn bất quy tắc, ta được <b>farther / further</b>.<b> </b>Câu hoàn chỉnh là <b>New York is <span style=\"color:red\">farther / further </span>from her than Chicago is.</b> <i>(Cô ấy ở <span style=\"color:red\">xa </span>New York <span style=\"color:red\">hơn </span>là Chicago.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "19905639-62ba-44d9-be0e-c2fd0b594f1a"
+          },
+          "dapAn": "farther / further",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b7bac4f7-e51d-4c2f-bcb7-2583b282a1a3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It's a lot <b><span style=\"color:blue\">(easy)</span></b> _____________ to watch films on Netflix than on TV.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh hơn, tính từ <b>easy</b> có 2 âm tiết nhưng kết thúc bằng đuôi <b>y </b>nên dạng so sánh hơn đuôi <b>y</b> đổi thành <b>i</b> và thêm đuôi <b>er</b>, ta được <b>easier</b>. Câu hoàn chỉnh là<b> It's a lot <span style=\"color:red\">easier </span>to watch films on Netflix than on TV.</b> <i>(Xem phim trên Netflix <span style=\"color:red\">dễ hơn </span>nhiều so với xem trên TV.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "413ed904-474a-4160-9366-51d52b0d143a"
+          },
+          "dapAn": "easier",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a2e2548f-2174-4722-b361-45cbec9c89d6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It is <b><span style=\"color:blue\">(healthy)</span></b> _____________ for us to go to bed early.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh bằng, tính từ <b>health</b><b>y</b> có 2 âm nhưng kết thúc bằng đuôi <b>y</b> nên dạng so sánh hơn đuôi <b>y</b> đổi thành <b>i</b> và thêm đuôi <b>er</b>, ta được <b>healthier</b>. Câu hoàn chỉnh là <b>It</b><b> is <span style=\"color:red\">healthier </span>for us to go to bed early</b><b>. </b><i>(Đi</i><i> ngủ sớm sẽ <span style=\"color:red\">t</span><span style=\"color:red\">ốt cho sức khoẻ hơn </span>cho chúng ta.</i><i>)</i><b> </b>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f8667154-9e64-4567-b1c5-1a8f99fffa1b"
+          },
+          "dapAn": "healthier",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "feebdbc3-0455-47cb-a3d3-0f138ee33874"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "That girl is as (<b><span style=\"color:blue\">beauty) </span></b>______________<b> </b>as her mother is.",
+      "yNghia": "Câu này sử dụng cấu trúc so sánh bằng, danh từ <b>beauty</b> được chia ở dạng tính từ<b>, </b>ta được <b>beautiful. </b>Câu hoàn chỉnh là <b>That girl is as <span style=\"color:red\">beautiful </span>as her</b><b> mother is. </b><i>(Cô gái đó xinh hệt như mẹ cô ấy vậy.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9864a99e-63ab-4684-98e9-2a7720ddce42"
+          },
+          "dapAn": "beautiful",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L2/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L2/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "d9d5f8bd-ff25-4d78-b9ae-d41deaaba7b5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Josh",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "13f4da4e-2dbb-499c-ac7c-af28916e35bd"
+          },
+          "dapAn": "Hi, I'm Josh. Are you new?",
+          "phienAm": "/haɪ aɪm ʤɒʃ/. /ɑːr juː njuː/",
+          "yNghia": "\nXin chào, tôi tên là Josh. Bạn là người mới ở đây à?",
+          "normal": {
+            "start": "00:00:00.762",
+            "end": "00:00:04.000"
+          },
+          "slow": {
+            "start": "00:00:01.076",
+            "end": "00:00:05.575"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "69bd5070-5b2a-4ae6-987f-5dec17d42465"
+          },
+          "dapAn": "Welcome! What's your name?",
+          "phienAm": "/ˈwelkəm/. /wɒts jɔːr neɪm/",
+          "yNghia": "\nChào mừng bạn! Bạn tên là gì?",
+          "normal": {
+            "start": "00:00:08.356",
+            "end": "00:00:10.829"
+          },
+          "slow": {
+            "start": "00:00:11.687",
+            "end": "00:00:14.699"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "440d7058-39b2-4e70-b310-c8bb892f12d5"
+          },
+          "dapAn": "Nice to meet you.",
+          "phienAm": "/naɪs tuː miːt juː/",
+          "yNghia": "\nRất vui khi được gặp bạn.",
+          "normal": {
+            "start": "00:00:13.522",
+            "end": "00:00:14.951"
+          },
+          "slow": {
+            "start": "00:00:18.391",
+            "end": "00:00:20.184"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "555eeccc-304d-407b-97f4-b250c2fe978e"
+          },
+          "dapAn": "Where are you from?",
+          "phienAm": "/weər ɑːr juː frɒm/",
+          "yNghia": "\nBạn đến từ đâu?",
+          "normal": {
+            "start": "00:00:18.270",
+            "end": "00:00:19.726"
+          },
+          "slow": {
+            "start": "00:00:24.880",
+            "end": "00:00:26.655"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "85a1f71b-4b5e-4443-95a1-c3b9baa5d9f3"
+          },
+          "dapAn": "Where is Dresden?",
+          "phienAm": "/weər ɪz ˈdrezdən/",
+          "yNghia": "\nDresden là ở đâu?",
+          "normal": {
+            "start": "00:00:23.072",
+            "end": "00:00:24.582"
+          },
+          "slow": {
+            "start": "00:00:30.635",
+            "end": "00:00:32.463"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "2bd085da-d49c-4ba9-b04b-11f64ce42006"
+          },
+          "dapAn": "Are you German?",
+          "phienAm": "/ɑːr juː ˈʤɜːmən/",
+          "yNghia": "\nBạn là người Đức đúng không?",
+          "normal": {
+            "start": "00:00:27.711",
+            "end": "00:00:29.031"
+          },
+          "slow": {
+            "start": "00:00:37.231",
+            "end": "00:00:38.719"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "11c028a8-f8ef-4988-b8a6-0071e700561f"
+          },
+          "dapAn": "Is English your first language?",
+          "phienAm": "/ɪz ˈɪŋglɪʃ jɔːr fɜːst ˈlæŋgwɪʤ/",
+          "yNghia": "\nTiếng Anh là ngôn ngữ đầu tiên của bạn phải không?",
+          "normal": {
+            "start": "00:00:31.874",
+            "end": "00:00:34.336"
+          },
+          "slow": {
+            "start": "00:00:43.648",
+            "end": "00:00:46.499"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "4ad13d71-05fa-48b6-b421-20ed497a4f79"
+          },
+          "dapAn": "I'm from Beijing.",
+          "phienAm": "/aɪm frɒm beɪˈʒɪŋ/",
+          "yNghia": "\nTôi đến từ Bắc Kinh.",
+          "normal": {
+            "start": "00:00:39.274",
+            "end": "00:00:40.880"
+          },
+          "slow": {
+            "start": "00:00:52.952",
+            "end": "00:00:54.744"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "11d3c53e-01a5-4140-bd07-4a99dc63310a"
+          },
+          "dapAn": "It's in China.",
+          "phienAm": "/ɪts ɪn ˈʧaɪnə/",
+          "yNghia": "\nNó ở Trung Quốc.",
+          "normal": {
+            "start": "00:00:43.900",
+            "end": "00:00:45.301"
+          },
+          "slow": {
+            "start": "00:00:59.172",
+            "end": "00:01:00.624"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fe9d4831-20f3-4ae5-bce5-e4c1980079dc"
+          },
+          "dapAn": "Yeah, thank you. It's time to start our lesson.",
+          "phienAm": "/jeə θæŋk juː/. /ɪts taɪm tuː stɑːt ˈaʊər ˈlesn/",
+          "yNghia": "\nTuyệt, cảm ơn bạn. Đến giờ vào học rồi.",
+          "normal": {
+            "start": "00:00:48.362",
+            "end": "00:00:52.470"
+          },
+          "slow": {
+            "start": "00:01:04.657",
+            "end": "00:01:09.748"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "170a1716-9610-48fa-875a-7f01eff3165f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Linda",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6d86e8be-1760-457d-bb79-027d5f5b4eb5"
+          },
+          "dapAn": "Hi, Josh. Yes, I am.",
+          "phienAm": "/haɪ ʤɒʃ/. /jes aɪ æm/",
+          "yNghia": "\nChào Josh. Đúng vậy, tôi là người mới.",
+          "normal": {
+            "start": "00:00:04.612",
+            "end": "00:00:07.537"
+          },
+          "slow": {
+            "start": "00:00:06.220",
+            "end": "00:00:10.684"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "7b8cd348-3ad9-4885-b444-f42a5ee65bc9"
+          },
+          "dapAn": "I'm Linda.",
+          "phienAm": "/aɪm ˈlɪndə/",
+          "yNghia": "\nTôi là Linda.",
+          "normal": {
+            "start": "00:00:11.275",
+            "end": "00:00:12.529"
+          },
+          "slow": {
+            "start": "00:00:15.756",
+            "end": "00:00:17.513"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "11a863c6-efd2-4e3b-ba8d-2392eac9b437"
+          },
+          "dapAn": "Nice to meet you, too.",
+          "phienAm": "/naɪs tuː miːt juː tuː/",
+          "yNghia": "\nTôi cũng rất vui khi được gặp bạn.",
+          "normal": {
+            "start": "00:00:15.916",
+            "end": "00:00:17.671"
+          },
+          "slow": {
+            "start": "00:00:21.080",
+            "end": "00:00:24.056"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "3cab62b1-d57a-4e58-be81-5c3d5fd01572"
+          },
+          "dapAn": "I'm from Dresden.",
+          "phienAm": "/aɪm frɒm ˈdrezdən/",
+          "yNghia": "\nTôi đến từ Dresden.",
+          "normal": {
+            "start": "00:00:20.691",
+            "end": "00:00:22.215"
+          },
+          "slow": {
+            "start": "00:00:27.533",
+            "end": "00:00:30.079"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "a576c924-2eb7-45f7-8570-29a137039812"
+          },
+          "dapAn": "It's in Germany.",
+          "phienAm": "/ɪts ɪn ˈʤɜːməni/",
+          "yNghia": "\nNó ở nước Đức.",
+          "normal": {
+            "start": "00:00:25.217",
+            "end": "00:00:26.500"
+          },
+          "slow": {
+            "start": "00:00:33.108",
+            "end": "00:00:35.313"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f4085d62-ef42-4865-8f9c-3a0a4d0f2194"
+          },
+          "dapAn": "Yes, I am.",
+          "phienAm": "/jes aɪ æm/",
+          "yNghia": "\nĐúng vậy, tôi là người Đức.",
+          "normal": {
+            "start": "00:00:29.584",
+            "end": "00:00:31.071"
+          },
+          "slow": {
+            "start": "00:00:39.561",
+            "end": "00:00:42.035"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "bcdded5e-3f64-4115-86af-3cfedd1aecb0"
+          },
+          "dapAn": "No, German. Where are you from?",
+          "phienAm": "/nəʊ ˈʤɜːmən/. /weər ɑːr juː frɒm/",
+          "yNghia": "\nKhông, tiếng Đức. Còn bạn đến từ đâu?",
+          "normal": {
+            "start": "00:00:34.867",
+            "end": "00:00:38.295"
+          },
+          "slow": {
+            "start": "00:00:47.287",
+            "end": "00:00:52.127"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "340d29de-9061-4ef6-84c3-b11dbde8ae35"
+          },
+          "dapAn": "Where's Beijing?",
+          "phienAm": "/weəz beɪˈʒɪŋ/",
+          "yNghia": "\nBắc Kinh là ở đâu?",
+          "normal": {
+            "start": "00:00:41.709",
+            "end": "00:00:43.029"
+          },
+          "slow": {
+            "start": "00:00:55.748",
+            "end": "00:00:57.917"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "9f793e7f-37d8-45aa-a971-90bc1576d4c7"
+          },
+          "dapAn": "I love China.",
+          "phienAm": "/aɪ lʌv ˈʧaɪnə/",
+          "yNghia": "\nTôi rất thích Trung Quốc.",
+          "normal": {
+            "start": "00:00:46.022",
+            "end": "00:00:47.450"
+          },
+          "slow": {
+            "start": "00:01:01.699",
+            "end": "00:01:03.940"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6e503c43-1c93-4806-adde-a069ff88e125"
+          },
+          "dapAn": "Okay.",
+          "phienAm": "/əʊˈkeɪ/",
+          "yNghia": "\nĐược.",
+          "normal": {
+            "start": "00:00:53.180",
+            "end": "00:00:53.898"
+          },
+          "slow": {
+            "start": "00:01:10.321",
+            "end": "00:01:11.236"
+          }
+        }
+      ]
+    }
+  ]
+}

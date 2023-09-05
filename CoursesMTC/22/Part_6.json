@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "b83fafed-d456-47e2-950b-f31ceb4d5d17"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\n                        <td>Maxi, I've tried to <b>(1)</b> ____ for our flights to Vietnam, but it says I've got no money in my account.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Maxi:</b></td>\n                        <td>Really? If you used that app I told you about, that kind of thing wouldn't <b>(2) </b>____.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\n                        <td>I remember what I bought. I don't believe it!</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Maxi:</b></td>\n                        <td>The app helps you <b>(3) </b>____ your money and see how much you're <b>(4) </b>____.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\n                        <td>Maxi, I've tried to <b>(1)</b> <b><span style=\"color:red\">pay</span> </b> for our flights to Vietnam, but it says I've got no money in my account.<br />\n                        <i>Maxi, tôi đã cố </i><i><span style=\"color:red\">thanh toán </span> </i><i><span style=\"color:#202124\">cho các chuyến bay của chúng tôi đến Việt Nam, nhưng thông báo cho biết tôi không có tiền trong tài khoản.</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Maxi:</b></td>\n                        <td>Really? If you used that app I told you about, that kind of thing wouldn't <b>(2) </b><b><span style=\"color:red\">happen</span> </b>.<br />\n                        <i>Có thật không? Nếu bạn sử dụng ứng dụng mà tôi đã nói với bạn, điều đó sẽ không </i><i><span style=\"color:red\">xảy ra</span> </i><i><span style=\"color:#202124\">.</span> </i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\n                        <td>I remember what I bought. I don't believe it!<br />\n                        <i>Tôi nhớ những gì tôi đã mua. Tôi không tin điều đó!</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Maxi:</b></td>\n                        <td>The app helps you <b>(3) </b><b><span style=\"color:red\">manage </span> </b>your money and see how much you're <b>(4) </b><b><span style=\"color:red\">spending</span> </b>.<br />\n                        <i>Ứng dụng giúp bạn </i><i><span style=\"color:red\">quản lý </span> </i><i><span style=\"color:#202124\">tiền của mình và xem số tiền bạn </span> </i><i><span style=\"color:red\">đang chi tiêu</span> </i><i>.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "pay",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "b38e22a3-8ce0-49d7-990d-b97d75ddb18c"
+          }
+        },
+        {
+          "dapAn": "happen",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2857eb65-f83b-4599-83d4-d32ee4f6eda6"
+          }
+        },
+        {
+          "dapAn": "manage",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "46890015-f11c-49d7-82a7-5edc94602b0a"
+          }
+        },
+        {
+          "dapAn": "spending",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "80915a4b-8090-407b-96af-a26482b9c58d"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f40bed2c-f2fd-40f7-988d-004704da077c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Maria:</b></td>\r\n\t\t\t<td colspan=\"3\">Look at the screen! It says I've made all these <b>(1) </b>____ with my debit card.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Maxi:</b></td>\r\n\t\t\t<td colspan=\"3\">Well, you bought a lot of stuff by <b>(2)</b> ____ payment. </td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Maria:</b></td>\r\n\t\t\t<td colspan=\"3\">But according to my bank, there were three <b>(3) </b>____ purchases of $500 at the supermarket on Monday.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Maxi:</b></td>\r\n\t\t\t<td colspan=\"3\">That's really weird, because you didn't go to the <b>(4) </b>____ on that day.</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\r\n                        <td>Look at the screen! It says I've made all these <b>(1) </b><b><span style=\"color:red\">purchases</span> </b> with my debit card.<br />\r\n                        <i><span style=\"color:#202124\">Nhìn vào màn hình này! Nó nói rằng tôi đã thực hiện tất cả </span> </i><i><span style=\"color:red\">các giao dịch mua</span> </i><i> này bằng thẻ ghi nợ của mình.</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maxi:</b></td>\r\n                        <td>Well, you bought a lot of stuff by <b>(2)</b> <b><span style=\"color:red\">contactless</span> </b> payment. <br />\r\n                        <i>Chà, bạn đã mua rất nhiều thứ bằng cách thanh toán </i><i><span style=\"color:red\">bằng thẻ hoặc chuyển khoản</span> </i><i><span style=\"color:#202124\">.</span> </i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\r\n                        <td>But according to my bank, there were three <b>(3) </b><b><span style=\"color:red\">identical</span> </b> purchases of $500 at the supermarket on Monday.<br />\r\n                        <i>Nhưng theo ngân hàng của tôi, đã có ba giao dịch mua trị giá 500 đô la </span> </i><i><span style=\"color:red\">giống hệt nhau </span> </i><i>tại siêu thị vào thứ Hai.</span> </i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maxi:</b></td>\r\n                        <td>That's really weird, because you didn't go to the <b>(4) </b><b><span style=\"color:red\">supermarket</span> </b> on that day.<br />\r\n                        <i>Điều đó thực sự kỳ lạ, bởi vì bạn đã không đi </i><i><span style=\"color:red\">siêu thị </span> </i><i>vào ngày hôm đó.</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "purchases",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "24ac54c9-ee2b-4d86-90e4-cf2992ea9612"
+          }
+        },
+        {
+          "dapAn": "contactless",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2b228c90-f910-4e5f-a66d-4faec0b3c191"
+          }
+        },
+        {
+          "dapAn": "identical",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "861b0502-8fe6-4102-ad23-cb8a2fcf4d17"
+          }
+        },
+        {
+          "dapAn": "supermarket",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d9f5a68b-924a-4100-bc1d-31c1e6655e2e"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "516fb0d8-02b9-4f32-86eb-f6aeec7e28a2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Maria:</b></td>\r\n\t\t\t<td colspan=\"2\">That's right. I think someone's got my account <b>(1)</b> ____.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Maxi:</b></td>\r\n\t\t\t<td colspan=\"2\">Maybe they have. Do you remember when that happened to me last year?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Maria:</b></td>\r\n\t\t\t<td colspan=\"2\">Yes, that's because you left your <b>(2)</b> ____ in the ATM.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Maxi:</b></td>\r\n\t\t\t<td colspan=\"2\">Nobody even needed to steal my personal <b>(3)</b> ____ number, but my money was <b>(4)</b> ____.</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\r\n                        <td>That's right. I think someone's got my account <b>(1)</b> <b><span style=\"color:red\">details</span> </b>.<br />\r\n                        <i>Đúng rồi. Tôi nghĩ ai đó đã có </i><i><span style=\"color:red\">thông tin </span> </i><i>tài khoản của tôi.</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maxi:</b></td>\r\n                        <td>Maybe they have. Do you remember when that happened to me last year?<br />\r\n                        <i>Có thể đấy. Bạn có nhớ năm ngoái điều tương tự cũng xảy ra với tôi không?</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\r\n                        <td>Yes, that's because you left your <b>(2)</b> <b><span style=\"color:red\">card</span> </b> in the ATM!<br />\r\n                        <i>Ừ</span> </i><i>, đó là bởi vì bạn đã để quên </i><i><span style=\"color:red\">thẻ </span> </i><i>của mình trong máy ATM!</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Maxi:</b></td>\r\n                        <td>Nobody even needed to steal my personal <b>(3)</b> <b><span style=\"color:red\">identification</span> </b> number, but my money was <b>(4)</b> <b><span style=\"color:red\">stolen</span> </b>.<br />\r\n                        <i>Thậm chí không ai cần đánh cắp số </i><i><span style=\"color:red\">nhận dạng </span> </i><i>cá nhân của tôi, nhưng tiền của tôi </i><i>lại</i> <i>bị <span style=\"color:red\">đánh cắp</span> .</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>\r",
+      "danhSachDapAn": [
+        {
+          "dapAn": "details",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0a62cc01-f3f4-4af0-898f-d76ad4fca455"
+          }
+        },
+        {
+          "dapAn": "card",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "cf7706c2-33d4-4fa1-9909-3b59727ac343"
+          }
+        },
+        {
+          "dapAn": "identification",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ec7d436c-2f2a-406a-9071-188d35cd73c6"
+          }
+        },
+        {
+          "dapAn": "stolen",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ab00bacf-3a34-41a7-9867-5ddbaac79f9b"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "061d2090-4690-44aa-bcc6-f8602525c489"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I suppose I belong to the generation that <b>(1)</b>  ____ everything via a <b>(</b><b>2</b><b>)</b> ____. My phone helps me to transfer money between bank <b>(</b><b>3</b><b>)</b> ____ and pay people through <b>(</b><b>4</b><b>)</b> ____ banking, which is convenient.",
+      "yNghia": "I suppose I belong to the generation that <b>(1)</b>  <b><span style=\"color:red\">controls</span> </b> everything via a <b>(</b><b>2</b><b>)</b> <b><span style=\"color:red\">smartphone</span> </b>. My phone helps me to transfer money between bank <b>(</b><b>3</b><b>)</b> <b><span style=\"color:red\">accounts</span> </b> and pay people through <b>(</b><b>4</b><b>)</b> <b><span style=\"color:red\">online</span> </b> banking, which is convenient.<br />\n<br />\n<i>Tôi</i><i> đoán mình thuộc thế hệ mà </i><i><span style=\"color:red\">kiểm soát </span> </i><i>mọi việc qua </i><i><span style=\"color:red\">điện thoại thông minh</span> </i><i>. Điện thoại giúp tôi chuyển tiền giữa </i><i><span style=\"color:red\">các tài khoản</span> </i><i> ngân hàng và thanh toán với mọi người thông qua ngân hàng </i><i><span style=\"color:red\">trực tuyến</span> </i><i>, rất tiện.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "controls",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "4f346493-ff14-4389-a3f5-5ac7745cc6a7"
+          }
+        },
+        {
+          "dapAn": "smartphone",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "086bebbe-a152-4b6e-b30d-997a8ba0fee9"
+          }
+        },
+        {
+          "dapAn": "accounts",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "804089bd-08e3-4a49-8d5e-188ea57784e2"
+          }
+        },
+        {
+          "dapAn": "online",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ef7d75a9-82da-4da0-b08a-23cd30b073b4"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d549fc48-1024-4c28-b4ed-652b67c0be66"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Nowadays, so many <b>(1)</b> ____ are <b>(2)</b> ____, which perfectly fits me because remembering my PIN has never been easy for me . I don't have a <b>(3)</b> ____ card since I don't enjoy taking out bank <b>(4)</b> ____.",
+      "yNghia": "Nowadays, so many <b>(1)</b> <b><span style=\"color:red\">transactions</span> </b> are <b>(2)</b> <b><span style=\"color:red\">contactless</span> </b>, which perfectly fits me because remembering my PIN has never been easy for me . I don't have a <b>(3)</b> <b><span style=\"color:red\">credit</span> </b> card since I don't enjoy taking out bank <b>(4)</b> <b><span style=\"color:red\">loans</span> </b>.<br />\n<br />\n<i>Ngày nay, rất nhiều <span style=\"color:red\">giao dịch bằng thẻ hoặc chuyển khoản</span> , điều này rất phù hợp với tôi vì việc ghi nhớ mã PIN chưa bao giờ là điều dễ dàng với tôi. Tôi không có thẻ <span style=\"color:red\">tín dụng</span>  vì tôi không thích </span> <span style=\"color:red\">vay tiền từ ngân hàng.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "transactions",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "5d2c9d1c-d3a7-4eb2-bf5b-d78c292ccaf2"
+          }
+        },
+        {
+          "dapAn": "contactless",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "fa0d74ba-5ccd-4d26-b5d3-7ca7dd1d11f0"
+          }
+        },
+        {
+          "dapAn": "credit",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "cd8157b6-d807-4135-8bc5-cde5d1d20ef6"
+          }
+        },
+        {
+          "dapAn": "loans",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "066af8a8-10c3-45ee-a8d9-c6de809c8cdc"
+          }
+        }
+      ]
+    }
+  ]
+}

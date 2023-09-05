@@ -1,0 +1,676 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "VOCABULARY",
+  "videoUrl": "4SKILLS_PRE_S_L11/vocabulary.mp4",
+  "newWords": [
+    {
+      "word": "study",
+      "loaiTu": "v",
+      "phatAm": "/ˈstʌdi/",
+      "meaning": "học bài",
+      "viDu": "I study every evening.\n(Tôi học bài mỗi tối.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/170.study.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/170.study.png"
+    },
+    {
+      "word": "shave",
+      "loaiTu": "v",
+      "phatAm": "/ʃeɪv/",
+      "meaning": "cạo râu",
+      "viDu": "I shave every morning.\n(Tôi cạo râu vào mỗi buổi sáng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/171.shave.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/171.shave.png"
+    },
+    {
+      "word": "get up",
+      "loaiTu": "v.p",
+      "phatAm": "/ɡet ʌp/",
+      "meaning": "thức dậy",
+      "viDu": "I get up at 6:30 a.m. every day.\n(Tôi thức dậy lúc 6:30 sáng mỗi ngày.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/172.get.up.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/172.get.up.png"
+    },
+    {
+      "word": "get dressed",
+      "loaiTu": "v.p",
+      "phatAm": "/ɡet drest/",
+      "meaning": "mặc quần áo",
+      "viDu": "I get dressed at 7:00 a.m.\n(Tôi mặc quần áo vào lúc 7:00 sáng.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/173.get.dressed.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/173.get.dressed.png"
+    },
+    {
+      "word": "brush my teeth",
+      "loaiTu": "v.p",
+      "phatAm": "/brʌʃ maɪ tiːθ/",
+      "meaning": "đánh răng",
+      "viDu": "I brush my teeth twice a day.\n(Một ngày tôi đánh răng hai lần.)\n",
+      "urlSound": "COURSE_VOCABULARY/sounds/174.brush.my.teeth.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/174.brush.my.teeth.png"
+    },
+    {
+      "word": "comb my hair",
+      "loaiTu": "v.p",
+      "phatAm": "/kəʊm maɪ heər/",
+      "meaning": "chải tóc",
+      "viDu": "I comb my hair every morning.\n(Tôi chải tóc mỗi buổi sáng.)\n",
+      "urlSound": "COURSE_VOCABULARY/sounds/175.comb.my.hair.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/175.comb.my.hair.png"
+    },
+    {
+      "word": "brush my hair",
+      "loaiTu": "v.p",
+      "phatAm": "/brʌʃ maɪ heər/",
+      "meaning": "chải tóc",
+      "viDu": "I brush my hair every morning.\n(Tôi chải tóc mỗi buổi sáng.)\n",
+      "urlSound": "COURSE_VOCABULARY/sounds/1259.brush.my.hair.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/1259.brush.my.hair.png"
+    },
+    {
+      "word": "put on make up",
+      "loaiTu": "v.p",
+      "phatAm": "/pʊt ɒn meɪk ʌp/",
+      "meaning": "trang điểm",
+      "viDu": "I love putting on make up.\n(Tôi thích trang điểm.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/176.put.on.make.up.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/176.put.on.make.up.png"
+    },
+    {
+      "word": "eat breakfast",
+      "loaiTu": "v.p",
+      "phatAm": "/iːt ˈbrekfəst/",
+      "meaning": "ăn sáng",
+      "viDu": "I always eat breakfast with milk.\n(Tôi luôn ăn sáng với sữa.)\n",
+      "urlSound": "COURSE_VOCABULARY/sounds/177.eat.breakfast.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/177.eat.breakfast.png"
+    },
+    {
+      "word": "come home",
+      "loaiTu": "v.p",
+      "phatAm": "/kʌm həʊm/",
+      "meaning": "trở về nhà",
+      "viDu": "I always come home before 10:00 p.m.\n(Tôi luôn về nhà trước 10:00 tối.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/178.come.home.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/178.come.home.png"
+    },
+    {
+      "word": "make dinner",
+      "loaiTu": "v.p",
+      "phatAm": "/meɪk ˈdɪnər/",
+      "meaning": "nấu bữa tối",
+      "viDu": "I make dinner every night.\n(Tôi nấu bữa tối mỗi tối.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/179.make.dinner.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/179.make.dinner.png"
+    },
+    {
+      "word": "watch TV",
+      "loaiTu": "v.p",
+      "phatAm": "/wɒtʃ ˌtiː ˈviː/",
+      "meaning": "xem ti-vi",
+      "viDu": "I like watching TV.\n(Tôi thích xem ti-vi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/180.watch.tv.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/180.watch.tv.png"
+    },
+    {
+      "word": "get undressed",
+      "loaiTu": "v.p",
+      "phatAm": "/ɡet ʌnˈdrest/",
+      "meaning": "cởi đồ ra",
+      "viDu": "I get undressed and take a shower.\n(Tôi cởi đồ ra và tắm vòi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/181.get.undressed.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/181.get.undressed.png"
+    },
+    {
+      "word": "take a shower",
+      "loaiTu": "v.p",
+      "phatAm": "/teɪk eɪ ˈʃaʊər/",
+      "meaning": "tắm vòi",
+      "viDu": "I get undressed and take a shower.\n(Tôi cởi đồ ra và tắm vòi.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/182.take.a.shower.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/182.take.a.shower.png"
+    },
+    {
+      "word": "take a bath",
+      "loaiTu": "v.p",
+      "phatAm": "/teɪk eɪ bɑːθ/",
+      "meaning": "tắm bồn",
+      "viDu": "I love taking a bath.\n(Tôi thích tắm bồn.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/1260.take.a.bath.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/1260.take.a.bath.png"
+    },
+    {
+      "word": "go to bed",
+      "loaiTu": "v.p",
+      "phatAm": "/ɡəʊ tuː bed/",
+      "meaning": "đi ngủ",
+      "viDu": "I usually go to bed at 10:30 p.m.\n(Tôi thường đi ngủ vào lúc 10:30 tối.)",
+      "urlSound": "COURSE_VOCABULARY/sounds/183.go.to.bed.mp3",
+      "urlImage": "COURSE_VOCABULARY/pictures/183.go.to.bed.png"
+    }
+  ],
+  "scriptVideo": [
+    {
+      "start": "0:01:11",
+      "end": "0:01:21",
+      "english": "get up",
+      "subScriptEnglish": " _get_up_ ",
+      "matchedNewWords": [
+        "get up"
+      ],
+      "vietnamese": "thức dậy"
+    },
+    {
+      "start": "0:01:29",
+      "end": "0:01:40",
+      "english": "get dressed",
+      "subScriptEnglish": " _get_dressed_ ",
+      "matchedNewWords": [
+        "get dressed"
+      ],
+      "vietnamese": "thay quần áo"
+    },
+    {
+      "start": "0:01:44",
+      "end": "0:01:48",
+      "english": "brush my teeth",
+      "subScriptEnglish": " _brush_my_teeth_ ",
+      "matchedNewWords": [
+        "brush my teeth"
+      ],
+      "vietnamese": "đánh răng"
+    },
+    {
+      "start": "0:01:48",
+      "end": "0:01:55",
+      "english": "comb my hair - brush my hair",
+      "subScriptEnglish": " _comb_my_hair__ -  _brush_my_hair_ ",
+      "matchedNewWords": [
+        "brush my hair",
+        "comb my hair"
+      ],
+      "vietnamese": "chải tóc"
+    },
+    {
+      "start": "0:01:59",
+      "end": "0:02:10",
+      "english": "brush my teeth",
+      "subScriptEnglish": " _brush_my_teeth_ ",
+      "matchedNewWords": [
+        "brush my teeth"
+      ],
+      "vietnamese": "đánh răng"
+    },
+    {
+      "start": "0:02:10",
+      "end": "0:02:22",
+      "english": "comb my hair",
+      "subScriptEnglish": " _comb_my_hair_ ",
+      "matchedNewWords": [
+        "comb my hair"
+      ],
+      "vietnamese": "chải tóc"
+    },
+    {
+      "start": "0:02:22",
+      "end": "0:02:33",
+      "english": "brush my hair",
+      "subScriptEnglish": " _brush_my_hair_ ",
+      "matchedNewWords": [
+        "brush my hair"
+      ],
+      "vietnamese": "chải tóc"
+    },
+    {
+      "start": "0:02:40",
+      "end": "0:02:51",
+      "english": "shave",
+      "subScriptEnglish": " _shave_ ",
+      "matchedNewWords": [
+        "shave"
+      ],
+      "vietnamese": "cạo râu"
+    },
+    {
+      "start": "0:02:57",
+      "end": "0:03:10",
+      "english": "put on make up",
+      "subScriptEnglish": " _put_on_make_up_ ",
+      "matchedNewWords": [
+        "put on make up"
+      ],
+      "vietnamese": "trang điểm"
+    },
+    {
+      "start": "0:03:18",
+      "end": "0:03:34",
+      "english": "eat breakfast",
+      "subScriptEnglish": " _eat_breakfast_ ",
+      "matchedNewWords": [
+        "eat breakfast"
+      ],
+      "vietnamese": "ăn sáng"
+    },
+    {
+      "start": "0:03:46",
+      "end": "0:03:59",
+      "english": "come home",
+      "subScriptEnglish": " _come_home_ ",
+      "matchedNewWords": [
+        "come home"
+      ],
+      "vietnamese": "về nhà"
+    },
+    {
+      "start": "0:04:11",
+      "end": "0:04:21",
+      "english": "make dinner",
+      "subScriptEnglish": " _make_dinner_ ",
+      "matchedNewWords": [
+        "make dinner"
+      ],
+      "vietnamese": "nấu bữa tối"
+    },
+    {
+      "start": "0:04:25",
+      "end": "0:04:29",
+      "english": "study",
+      "subScriptEnglish": " _study_ ",
+      "matchedNewWords": [
+        "study"
+      ],
+      "vietnamese": "học bài"
+    },
+    {
+      "start": "0:04:32",
+      "end": "0:04:37",
+      "english": "watch TV",
+      "subScriptEnglish": " _watch_TV_ ",
+      "matchedNewWords": [
+        "watch TV"
+      ],
+      "vietnamese": "xem phim"
+    },
+    {
+      "start": "0:04:38",
+      "end": "0:04:45",
+      "english": "study",
+      "subScriptEnglish": " _study_ ",
+      "matchedNewWords": [
+        "study"
+      ],
+      "vietnamese": "học bài"
+    },
+    {
+      "start": "0:04:45",
+      "end": "0:04:56",
+      "english": "watch TV",
+      "subScriptEnglish": " _watch_TV_ ",
+      "matchedNewWords": [
+        "watch TV"
+      ],
+      "vietnamese": "xem phim"
+    },
+    {
+      "start": "0:05:05",
+      "end": "0:05:08",
+      "english": "get undressed",
+      "subScriptEnglish": " _get_undressed_ ",
+      "matchedNewWords": [
+        "get undressed"
+      ],
+      "vietnamese": "cởi đồ"
+    },
+    {
+      "start": "0:05:09",
+      "end": "0:05:13",
+      "english": "take a shower",
+      "subScriptEnglish": " _take_a_shower_ ",
+      "matchedNewWords": [
+        "take a shower"
+      ],
+      "vietnamese": "tắm vòi hoa sen"
+    },
+    {
+      "start": "0:05:14",
+      "end": "0:05:18",
+      "english": "take a bath",
+      "subScriptEnglish": " _take_a_bath_ ",
+      "matchedNewWords": [
+        "take a bath"
+      ],
+      "vietnamese": "tắm bồn"
+    },
+    {
+      "start": "0:05:20",
+      "end": "0:05:30",
+      "english": "get undressed",
+      "subScriptEnglish": " _get_undressed_ ",
+      "matchedNewWords": [
+        "get undressed"
+      ],
+      "vietnamese": "cởi đồ"
+    },
+    {
+      "start": "0:05:30",
+      "end": "0:05:40",
+      "english": "take a shower",
+      "subScriptEnglish": " _take_a_shower_ ",
+      "matchedNewWords": [
+        "take a shower"
+      ],
+      "vietnamese": "tắm vòi hoa sen"
+    },
+    {
+      "start": "0:05:41",
+      "end": "0:05:52",
+      "english": "take a bath",
+      "subScriptEnglish": " _take_a_bath_ ",
+      "matchedNewWords": [
+        "take a bath"
+      ],
+      "vietnamese": "tắm bồn"
+    },
+    {
+      "start": "0:06:04",
+      "end": "0:06:16",
+      "english": "go to bed",
+      "subScriptEnglish": " _go_to_bed_ ",
+      "matchedNewWords": [
+        "go to bed"
+      ],
+      "vietnamese": "đi ngủ"
+    }
+  ],
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:00:39.590",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P0",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Monday",
+            "_id": {
+              "$oid": "c03aee68-ad53-486e-9491-3258ea688a14"
+            },
+            "yNghia": "Thứ 2"
+          },
+          {
+            "cauHoi": "Thursday",
+            "_id": {
+              "$oid": "42aed4bc-6dc8-43d6-adff-97fc0c84eced"
+            },
+            "yNghia": "Thứ 5"
+          },
+          {
+            "cauHoi": "Saturday",
+            "_id": {
+              "$oid": "fa78fa90-76a8-4791-ad9f-e2f396403503"
+            },
+            "yNghia": "Thứ 7"
+          },
+          {
+            "cauHoi": "January",
+            "_id": {
+              "$oid": "e492a801-00a7-4c57-ae0d-4302629baf6b"
+            },
+            "yNghia": "Tháng 1"
+          },
+          {
+            "cauHoi": "December",
+            "_id": {
+              "$oid": "5dcaa0aa-a034-4444-8009-030822a6ef0c"
+            },
+            "yNghia": "Tháng 12"
+          },
+          {
+            "cauHoi": "Sunday",
+            "_id": {
+              "$oid": "f992c3e2-5112-4881-81c3-e8c91f3f778f"
+            },
+            "yNghia": "Chủ Nhật"
+          },
+          {
+            "cauHoi": "April",
+            "_id": {
+              "$oid": "11158850-c078-4e85-a6b4-a9ccb7baf2f1"
+            },
+            "yNghia": "Tháng 4"
+          },
+          {
+            "cauHoi": "Friday",
+            "_id": {
+              "$oid": "231be1f1-8403-4642-80cb-4b9bca0e87b4"
+            },
+            "yNghia": "Thứ 6"
+          },
+          {
+            "cauHoi": "October",
+            "_id": {
+              "$oid": "030f829b-25cd-4b36-a8d0-9aa2e9ab8ceb"
+            },
+            "yNghia": "Tháng 10"
+          },
+          {
+            "cauHoi": "November",
+            "_id": {
+              "$oid": "ddee6d98-e522-4c74-acc6-5147cccbc997"
+            },
+            "yNghia": "Tháng 11"
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:00:39.590",
+      "timeEnd": "0:00:45.186",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P1",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Her English class is at ___________.",
+            "_id": "eba3dad5-18be-40bd-b15e-e2957544ade5",
+            "soundCauhoi": "4SKILLS_PRE_S_L11/sounds/video-practice/1.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "3:00",
+                "_id": "c048219a-a346-4d9e-ac33-04ccabb293d3"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "4:00",
+                "_id": {
+                  "$oid": "3622d074-b310-41ea-9156-6e9a27b46f8f"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "5:30",
+                "_id": {
+                  "$oid": "49b1b18c-5642-4812-9e8a-b83a484e9fdb"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "She goes home at ___________.",
+            "_id": "daa82f1d-b03e-41a9-bc18-da0b5aef57ba",
+            "soundCauhoi": "4SKILLS_PRE_S_L11/sounds/video-practice/2.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "3:00",
+                "_id": "aefd5671-4a13-4aad-9f14-548eb6612ad9"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "4:00",
+                "_id": {
+                  "$oid": "9e9c4bd2-6a4e-4bd9-b888-3d51c5561d74"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "5:30",
+                "_id": {
+                  "$oid": "c0dc47fe-88b8-40f2-97a4-2d38e953473e"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "They finish work at ___________.",
+            "_id": "109a61ef-8218-420b-9124-8a7dd4fb7fcb",
+            "soundCauhoi": "4SKILLS_PRE_S_L11/sounds/video-practice/3.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "3:00",
+                "_id": "4016aa87-082d-4468-98b1-aeafb6d9ff06"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "4:00",
+                "_id": {
+                  "$oid": "69227c4a-ea97-44a5-887d-4b73b7fedc34"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "5:30",
+                "_id": {
+                  "$oid": "c3ecdd55-50e5-4dfb-936d-d55fd53372ed"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "They start work at ___________.",
+            "_id": "6a491155-7cef-4ac1-b7ed-31d9d6362110",
+            "soundCauhoi": "4SKILLS_PRE_S_L11/sounds/video-practice/4.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "8:45",
+                "_id": "c6d048a9-15f0-4fa2-a8a9-d3f0b951422e"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "8:00",
+                "_id": {
+                  "$oid": "55e383e5-3386-4426-af2f-b915c32e85f5"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "7:45",
+                "_id": {
+                  "$oid": "6d41a212-ef83-4449-ab7d-96a432b2f682"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "The shopping center opens at ____________.",
+            "_id": "f9b08d5e-0dac-41a7-b0ea-b89bcf2f6a73",
+            "soundCauhoi": "4SKILLS_PRE_S_L11/sounds/video-practice/5.wav",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "9:00",
+                "_id": "c38df7b9-4b6f-48e0-9a67-9b58f397e4eb"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "9:15",
+                "_id": {
+                  "$oid": "be6923ec-0f60-4ddf-a7d8-b7c674b6c3cb"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "9:30",
+                "_id": {
+                  "$oid": "7670a3fe-4429-45c7-be75-fd201d33ea25"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:00:45.186",
+      "timeEnd": "0:06:29.422",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P7",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Ed __________ <b><span style=\"color:blue\">(get)</span></b> up at 6.00, but his wife, Amy gets up at 7.00.",
+            "_id": {
+              "$oid": "beeecec7-ee5a-4a00-bb0a-0b9ff0b721c6"
+            },
+            "yNghia": "gets"
+          },
+          {
+            "cauHoi": "Amy eats breakfast at 7.30 a.m., but Ed __________ <b><span style=\"color:blue\">(have)</span></b> breakfast at 6.30.",
+            "_id": {
+              "$oid": "ca31ae41-1f06-4b19-ba63-df8bd6af0bc0"
+            },
+            "yNghia": "has"
+          },
+          {
+            "cauHoi": "After breakfast, Ed __________ <b><span style=\"color:blue\">(shave)</span></b>, and Amy puts on makeup.",
+            "_id": {
+              "$oid": "d43d7c8c-d794-4cba-a4a3-71cfbd7eaedc"
+            },
+            "yNghia": "shaves"
+          },
+          {
+            "cauHoi": "Ed and Amy __________ <b><span style=\"color:blue\">(watch)</span></b> TV in the evening.",
+            "_id": {
+              "$oid": "d738ac23-8873-4737-b236-781195b70756"
+            },
+            "yNghia": "watch"
+          },
+          {
+            "cauHoi": "Amy goes to bed at 10.00 p.m., but Ed __________ <b><span style=\"color:blue\">(go)</span></b> to bed at 11.00.",
+            "_id": {
+              "$oid": "3689c636-2582-45a7-a6ae-53bbf2ef08b2"
+            },
+            "yNghia": "goes"
+          },
+          {
+            "cauHoi": "Amy __________ <b><span style=\"color:blue\">(make)</span></b> dinner on weekdays, and Ed makes<b><i> </i></b>dinner on weekends.",
+            "_id": {
+              "$oid": "136c3133-1294-40dd-b8cd-5452e0158cd2"
+            },
+            "yNghia": "makes"
+          },
+          {
+            "cauHoi": "Ed takes a shower in the morning, but Amy __________ <b><span style=\"color:blue\">(take)</span></b> a bath.",
+            "_id": {
+              "$oid": "50077618-3edd-4210-9f7f-ea163f872d62"
+            },
+            "yNghia": "takes"
+          },
+          {
+            "cauHoi": "They both __________ <b><span style=\"color:blue\">(brush)</span></b> their teeth in the morning and the evening.",
+            "_id": {
+              "$oid": "009aaf17-4be0-4c5b-b6ea-d4fd47bd6ffe"
+            },
+            "yNghia": "brush"
+          }
+        ]
+      }
+    }
+  ]
+}

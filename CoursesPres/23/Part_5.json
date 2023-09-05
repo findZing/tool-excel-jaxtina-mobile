@@ -1,0 +1,176 @@
+{
+  "dangCauHoi": "P2",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "18ba7bd1-1fc8-4c67-986e-4de1fc5ded05"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_PRE_S_L23/sounds/normal/PRE_S_23_LISTENING_Listening 1.mp3",
+      "yNghia": "My name is Ben. <span style=\"color:red\">It's easy to describe my daily routine.</span> On weekdays, I always get up at 7.00 a.m. and go to work at 8.00 a.m. <span style=\"color:red\">My job is easy, but it isn't interesting.</span> I often feel bored at work. At 12.00 p.m., my co-workers and I usually have lunch in a restaurant. I really like the sandwiches there. <span style=\"color:red\">Sometimes when I am very hungry, I can eat three sandwiches for lunch! </span>I often come home at 5.00 p.m. and make dinner at 7.00 p.m. After dinner, I usually wash the dishes and take out the garbage. I rarely go to bed after 11.00 p.m. <span style=\"color:red\">At weekends, I often get up late. </span>But this Saturday, I need to get up early to get ready for a vacation with my friends in Hawaii. <span style=\"color:red\">I'm really excited about this trip!</span><br />\n<br />\n<i>Tên tôi là Ben. Rất dễ để miêu tả thói quen hàng ngày của tôi. Vào các ngày trong tuần, tôi luôn dậy lúc 7 giờ sáng và đi làm lúc 8 giờ sáng. Công việc của tôi rất dễ nhưng không thú vị. Tôi thường thấy buồn chán trong công việc. Vào 12 giờ trưa, tôi và các đồng nghiệp thường ăn trưa ở nhà hàng. Tôi rất thích bánh mì sandwich ở đó. Thỉnh thoảng khi tôi rất đói, tôi có thể ăn ba cái bánh mì sandwich cho bữa trưa! Tôi thường về nhà lúc 5 giờ chiều và nấu bữa tối lúc 7 giờ tối. Sau bữa tối, tôi thường rửa bát và đổ rác. Tôi hiếm khi đi ngủ sau 11 giờ đêm. Vào các ngày cuối tuần, tôi thường dậy muộn. Nhưng thứ Bảy này, tôi cần dậy sớm để chuẩn bị cho kì nghỉ với các bạn tôi ở Hawaii. Tôi thực sự hào hứng về chuyến đi này!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fc4b4e96-900e-4ddc-89de-0acf345a709d"
+          },
+          "dapAn": "It’s easy to describe my daily routine.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a83c806b-3c99-4e13-a428-6cb1334b159e"
+          },
+          "dapAn": "My job is easy, but it isn’t interesting.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "af95c6e6-ca2b-4b45-8805-516ce043093f"
+          },
+          "dapAn": "Sometimes when I am very hungry, I can eat three sandwiches for lunch!",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "038ee579-2261-4e91-86e1-d0ec826ec46c"
+          },
+          "dapAn": "At weekends, I often get up late.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7ca72953-3366-4f5b-a929-7c917af92fb6"
+          },
+          "dapAn": "I’m really excited about this trip!",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4cfbe0de-6812-49e5-8ff1-69a822e121fa"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_PRE_S_L23/sounds/normal/PRE_S_23_LISTENING_Listening 2.mp3",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nick:</b></td>\n                        <td>Excuse me, is this A604 classroom?<br />\n                        <i>Xin lỗi cho mình hỏi, đây có phải là phòng học A604 không?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Lily:</b></td>\n                        <td>Yes, it is. Is this your first lesson here?<br />\n                        <i>Đúng rồi đó. Đây là tiết học đầu tiên của bạn ở đây à?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nick:</b></td>\n                        <td><span style=\"color:red\">Yes. I am a new student. I just move from another place. </span><br />\n                        <i>Đúng vậy. Mình là học sinh mới. Vừa chuyển đến từ nơi khác.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Lily:</b></td>\n                        <td>Oh, nice to meet you. Let me introduce myself. I'm Lily. I'm from Kentucky.<br />\n                        <i>Ồ, rất vui được gặp bạn. Để mình giới thiệu bản thân. Mình là Lily. Mình đến từ Kentucky.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nick:</b></td>\n                        <td><span style=\"color:red\">Nice to meet you, too. My name is Nick. </span><br />\n                        <i>Cũng rất vui được gặp bạn. Tên mình là Nick.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Lily:</b></td>\n                        <td>Where is your hometown? <br />\n                        <i>Quê của bạn ở đâu vậy?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nick:</b></td>\n                        <td>I'm from Texas. It's rather far from here.<br />\n                        <i>Mình đến từ Texas. Nó khá xa nơi này.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Lily:</b></td>\n                        <td><span style=\"color:red\">Is your new house OK?</span><br />\n                        <i>Nhà mới của bạn có ổn không?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nick:</b></td>\n                        <td>Yes, it is. I'm happy to be here and meet new people. <br />\n                        <i>Có. Mình rất vui khi ở đây và gặp gỡ những người mới.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Lily:</b></td>\n                        <td>Yeah, people are very friendly in Kentucky.<br />\n                        <i>Mọi người rất thân thiện ở Kentucky.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nick:</b></td>\n                        <td><span style=\"color:red\">Are there any famous people from Kentucky?</span><br />\n                        <i>Có người nổi tiếng nào đến từ Kentucky không?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Lily:</b></td>\n                        <td>Do you know Johnny Depp?<br />\n                        <i>Bạn có biết Johnny Depp không?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nick:</b></td>\n                        <td>I really admire him. He's a great actor.<br />\n                        <i>Mình thực sự ngưỡng mộ anh ấy. Anh ấy là một diễn viên tuyệt vời.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Lily:</b></td>\n                        <td>He's also from Kentucky. <br />\n                        <i>Anh ấy cũng đến từ Kentucky.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nick:</b></td>\n                        <td>Wow, that's great! How about food? What's Kentucky famous for?<br />\n                        <i>Ồ, thật tuyệt! Còn đồ ăn thì sao? Kentucky nổi tiếng về món gì?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Lily:</b></td>\n                        <td><span style=\"color:red\">You have to try Kentucky fried chicken. Are you hungry now?</span><br />\n                        <i>Bạn phải thử gà rán Kentucky. Giờ bạn có đói không?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nick:</b></td>\n                        <td>A bit. Let's go out to eat after class.<br />\n                        <i>Một chút. Hãy cùng ra ngoài ăn sau giờ học nhé.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Lily:</b></td>\n                        <td>OK. Let me show you a great restaurant. I often go there for lunch.<br />\n                        <i>Được. Để mình chỉ cho bạn một nhà hàng rất tuyệt. Mình thường tới đó để ăn trưa.</i></td>\n                </tr>\n        </tbody>\n</table>\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6819fea3-de66-4ed0-9887-ba7f41bce097"
+          },
+          "dapAn": "Yes. I am a new student. I just move from another place.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cad75540-3e90-4228-be23-55599d902526"
+          },
+          "dapAn": "Nice to meet you, too. My name is Nick.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "69a51d18-d505-4b29-9db7-60c66baa2a30"
+          },
+          "dapAn": "Is your new house OK?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "035b0370-5fc4-47ca-a74a-14598490b7a3"
+          },
+          "dapAn": "Are there any famous people from Kentucky?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9a13ff28-c1a0-4353-b6b6-e9eab8d0cb6e"
+          },
+          "dapAn": "You have to try Kentucky fried chicken. Are you hungry now?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b209a971-e2e7-4bff-a104-42452c6aa20a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "4SKILLS_PRE_S_L23/sounds/normal/PRE_S_23_LISTENING_Listening 3.mp3",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Mike:</b></td>\n                        <td>Look! These are some pictures of my family.<br />\n                        <i>Nhìn này! Đây là một vài bức ảnh của gia đình tớ.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nina:</b></td>\n                        <td><span style=\"color:red\">Wow! Who is this woman? She looks very happy.</span><br />\n                        <i>Ồ! Người phụ nữ này là ai vậy? Cô ấy trông rất hạnh phúc.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Mike:</b></td>\n                        <td>That's my grandmother. She's young in this picture.<br />\n                        <i>Đó là bà của tớ. Bà còn trẻ trong bức ảnh này.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nina:</b></td>\n                        <td>She's beautiful. <br />\n                        <i>Bà thật đẹp.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Mike:</b></td>\n                        <td><span style=\"color:red\">And the boy in that picture is my brother.</span><br />\n                        <i>Và cậu bé trong bức ảnh này là em trai của tớ.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nina:</b></td>\n                        <td>He looks excited. <br />\n                        <i>Em ấy trông rất hào hứng.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Mike:</b></td>\n                        <td><span style=\"color:red\">Yeah, I think he likes the bike in the picture.</span><br />\n                        <i>Ừ, tớ nghĩ em ấy thích chiếc xe đạp trong bức ảnh.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nina:</b></td>\n                        <td>And the girl in this picture? Who is she?<br />\n                        <i>Và cô gái trong bức ảnh này thì sao? Cô ấy là ai?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Mike:</b></td>\n                        <td><span style=\"color:red\">My sister. She looks sad because of the rain.</span><br />\n                        <i>Chị tớ. Chị ấy buồn bởi vì trời mưa.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nina:</b></td>\n                        <td><span style=\"color:red\">Oh, are they your parents?</span><br />\n                        <i>Ô, họ có phải là bố mẹ cậu không?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Mike:</b></td>\n                        <td>Yes, they are. They're tired from working.<br />\n                        <i>Đúng vậy. Họ đang mệt mỏi vì làm việc.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nina:</b></td>\n                        <td><span style=\"color:red\">I guess they don't have much free time.</span><br />\n                        <i>Tớ đoán là họ không có nhiều thời gian rảnh.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Mike:</b></td>\n                        <td>Yeah. And that man is my grandfather.<br />\n                        <i>Ừ. Và người đàn ông đó là ông của tớ.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nina:</b></td>\n                        <td>Oh, he's sitting on the swing. <br />\n                        <i>Ồ, ông ấy đang ngồi trên xích đu.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Mike:</b></td>\n                        <td><span style=\"color:red\">He looks sad. I think he misses us.</span><br />\n                        <i>Ông có vẻ buồn. Tớ nghĩ ông nhớ chúng tớ.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nina:</b></td>\n                        <td><span style=\"color:red\">I see. And who is that boy with all the cookies?</span><br />\n                        <i>Tớ hiểu. Và cậu bé với tất cả những cái bánh quy đó là ai?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Mike:</b></td>\n                        <td>It's me. I think I'm hungry in that picture.<br />\n                        <i>Là tớ. Tớ nghĩ tớ đang đói trong bức ảnh đó.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nina:</b></td>\n                        <td><span style=\"color:red\">Are you hungry now?</span><br />\n                        <i>Bây giờ cậu có đói không?</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Mike:</b></td>\n                        <td>A bit. Let's go out for dinner.<br />\n                        <i>Một chút. Cùng ra ngoài ăn tối đi.</i></td>\n                </tr>\n                <tr>\n                        <td style=“vertical-align: top;”><b>Nina:</b></td>\n                        <td><span style=\"color:red\">That's a good idea. </span><br />\n                        <i>Ý hay đó.</i></td>\n                </tr>\n        </tbody>\n</table>\n",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7ee10c8b-456b-4b32-831d-7b29de48f219"
+          },
+          "dapAn": "Wow! Who is this woman? She looks very happy.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5765f501-5f00-417b-abd6-b39c61ccfb0b"
+          },
+          "dapAn": "And the boy in that picture is my brother.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e52d9d79-0dd1-4896-9b3c-419209cf61ec"
+          },
+          "dapAn": "Yeah, I think he likes the bike in the picture.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7ec891e3-1d65-411f-b227-cd411b707fdd"
+          },
+          "dapAn": "My sister. She looks sad because of the rain.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "421a7b2f-447e-42f1-a16d-1f04b80bb2af"
+          },
+          "dapAn": "Oh, are they your parents?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a01d9400-e3d8-45bc-8322-45b39f89660f"
+          },
+          "dapAn": "I guess they don’t have much free time.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2a8a1f0a-b5d0-42b2-8a1a-3096cdfc169a"
+          },
+          "dapAn": "He looks sad. I think he misses us.",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "38f183a0-6d66-4355-aba6-e4087bb3d779"
+          },
+          "dapAn": "I see. And who is that boy with all the cookies?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "24e03022-5459-42b5-889c-a291f87b43a6"
+          },
+          "dapAn": "Are you hungry now?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d17d00b4-745d-47cc-af45-e75be0cf2804"
+          },
+          "dapAn": "That’s a good idea.",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

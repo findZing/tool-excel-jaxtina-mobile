@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "37c49eb8-e67c-418a-b344-895beefea4a5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Katy:</b></td> \n                        <td colspan=\"2\">How about the cake? I have no <b>(1) ______</b> how to make a cake.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Abril:</b></td> \n                        <td colspan=\"2\">Me neither. I think we can learn on the <b>(2</b>)<b> ______</b>.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Katy:</b></td> \n                        <td colspan=\"2\">We can try to make a cake at my house. I've just bought a new <b>(3) ______</b>.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Abril:</b></td> \n                        <td>Let's do it at the <b>(4) ______</b>. We will have a lot more free time.</td>\n                        <td> </td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Katy:</b></td> \r\n                        <td>How about the cake? I have no <b>(1) <span style=\"color:red\">idea</span> </b> how to make a cake.<br />\r\n                        <i>Thế còn vụ bánh thì sao? Tôi không biết làm bánh.</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Abril:</b></td> \r\n                        <td>Me neither. I think we can learn on the <b>(2) <span style=\"color:red\">Internet</span> </b>.<br />\r\n                        <i>Tôi cũng không biết. Tôi nghĩ chúng ta có thể học trên <span style=\"color:red\">mạng</span> .</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Katy:</b></td> \r\n                        <td>We can try to make a cake at my house. I've just bought a new <b>(3) <span style=\"color:red\">oven</span> </b>.<br />\r\n                        <i>Chúng ta có thể thử làm một chiếc bánh ở nhà tôi. Tôi mới mua một cái <span style=\"color:red\">lò nướng </span> mới.</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Abril:</b></td> \r\n                        <td>Let's do it at the <b>(3) <span style=\"color:red\">weekend</span> </b>. We will have a lot more free time.<br />\r\n                        <i>Hãy làm bánh vào <span style=\"color:red\">cuối tuần</span> . Chúng ta sẽ có nhiều thời gian rảnh rỗi hơn.</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "idea",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2435dbbc-3345-495d-953a-789475260cf5"
+          }
+        },
+        {
+          "dapAn": "Internet",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "cfb7ab1b-92c9-4fea-9a25-c31ee70d86cd"
+          }
+        },
+        {
+          "dapAn": "oven",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c9fb97df-a633-4ba5-b264-9645b8e52b8c"
+          }
+        },
+        {
+          "dapAn": "weekend",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "9e7b108f-f157-4c26-9c6f-51766c1b9dee"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4e3893c7-e04d-400f-9273-788317d86d5e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I love <b>(1) ______</b> music. I especially love the sound of the cello. That's why my <b>(2) ______</b> model is Yo-Yo Ma, a cellist and musical <b>(3) ______</b>. Yo-Yo Ma was born in Paris on October 7, 1955 to Chinese parents. He started playing the violin at age three, and by four he was playing the cello, a very large <b>(4) ______</b>. Ma's teacher was his father, and he woke him up at 5 a.m. every morning to practice.",
+      "yNghia": "I love <b>(1) </b><b><span style=\"color:red\">classical</span> </b> music. I especially love the sound of the cello. That's why my <b>(2) </b><b><span style=\"color:red\">role</span> </b> model is Yo-Yo Ma, a cellist and musical <b>(3) </b><b><span style=\"color:red\">composer</span> </b>. Yo-Yo Ma was born in Paris on October 7, 1955 to Chinese parents. He started playing the violin at age three, and by four he was playing the cello, a very large <b>(4) </b><b><span style=\"color:red\">instrument</span> </b>. Ma's teacher was his father, and he woke him up at 5 a.m. every morning to practice.<br />\n<i>Tôi yêu âm nhạc <span style=\"color:red\">cổ điển</span> . Tôi đặc biệt yêu thích tiếng đàn </i><i>trung vĩ cầm.</i><i> Đó là lý do tại sao hình mẫu của tôi là Yo-Yo Ma là một nghệ sĩ </i><i>đàn trung vĩ cầm</i><i> và <span style=\"color:red\">nhà soạn nhạc</span> . Yo-Yo Ma sinh ra ở Pa</i><i>-ri</i><i> vào ngày 7 tháng 10 năm 1955 với cha mẹ là người Trung Quốc. </i><i>Ông</i><i> ấy bắt đầu chơi </i><i>đàn vĩ cầm</i><i> từ năm ba tuổi, và đến năm bốn tuổi, ông ấy đã chơi đàn </i><i>trung vĩ cầm</i><i>, một <span style=\"color:red\">nhạc cụ </span> rất lớn. Giáo viên của Ma là cha của ông ấy, và </i><i>cha </i><i>ông ấy đánh thức </i><i>ông </i><i>ấy dậy lúc 5 giờ sáng mỗi sáng để tập luyện.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "classical",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "44c3b3b2-fd0b-449d-a699-2ad6597f4884"
+          }
+        },
+        {
+          "dapAn": "role",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "9d9adc45-d3b7-4439-a2ac-299ff47e9af5"
+          }
+        },
+        {
+          "dapAn": "composer",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "5a947187-fd84-4729-be90-c1ed2989dbf6"
+          }
+        },
+        {
+          "dapAn": "instrument",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "65ed9e8e-5391-44fd-9f5c-ac7df55e3099"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "97ce832f-c9ba-49eb-8283-4c9ee7987c10"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Andy:</b></td> \n                        <td>Hi Fiorella, did you speak to David about the money for the 4th of July <b>(1) ______</b>? He thinks that there is not enough money to buy everything we need.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Fiorella:</b></td> \n                        <td>Yes, he told me. The main problem is <b>(2) ______</b>. He's worried that there isn't enough time to get everything ready.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Andy:</b></td> \n                        <td>Hmm. Well, don't you have enough time to have a <b>(3) ______</b> with him about it this afternoon? I think it would be a good idea.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Fiorella:</b></td> \n                        <td>Yes, that's a good idea. I was thinking that there are enough people here to make the preparations quickly. Then it isn't going to take a long time to do everything with everyone's <b>(4) ______</b>.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Andy:</b></td> \n                        <td>Hi Fiorella, did you speak to David about the money for the 4th of July <b>(1) </b><b><span style=\"color:red\">party</span> </b>? He thinks that there is not enough money to buy everything we need.<br />\n                        <i>Xin chào Fiorella, bạn đã nói chuyện với David về số tiền cho <span style=\"color:red\">bữa tiệc</span>  ngày 4 tháng 7 chưa? Anh ấy nghĩ rằng không có đủ </i><i>tiền </i><i>để mua mọi thứ chúng tôi cần.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Fiorella:</b></td> \n                        <td>Yes, he told me. The main problem is <b>(2) </b><b><span style=\"color:red\">time</span> </b>. He's worried that there isn't enough time to get everything ready.<br />\n                        <i>Vâng, anh ấy đã nói với tôi. Vấn đề chính là <span style=\"color:red\">thời gian</span> . Anh ấy lo lắng rằng không có đủ thời gian để chuẩn bị mọi thứ sẵn sàng.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Andy:</b></td> \n                        <td>Hmm. Well, don't you have enough time to have a <b>(3) </b><b><span style=\"color:red\">meeting</span> </b> with him about it this afternoon? I think it would be a good idea.<br />\n                        <i>Hừm. Chà, bạn không có đủ thời gian để gặp anh ấy về điều đó </i><i>vào </i><i>chiều nay sao? Tôi nghĩ rằng nó sẽ là một ý tưởng tốt.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Fiorella:</b></td> \n                        <td>Yes, that's a good idea. I was thinking that there are enough people here to make the preparations quickly. Then it isn't going to take a long time to do everything with everyone's <b>(4) </b><b><span style=\"color:red\">help</span> </b>.<br />\n                        <i>Vâng, đó là một ý kiến ​​hay. Tôi đã nghĩ rằng có đủ người ở đây để chuẩn bị nhanh chóng. Sau đó, sẽ không mất nhiều thời gian để làm mọi thứ với <span style=\"color:red\">sự giúp đỡ </span> của mọi người.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "party",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "61da0e40-f195-447f-ac4a-c4f68f469ba7"
+          }
+        },
+        {
+          "dapAn": "time",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "5019a833-8d16-4273-aed4-20d86d85617f"
+          }
+        },
+        {
+          "dapAn": "meeting",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "6eda8005-49b8-4c4e-b0d3-9fe408db30d5"
+          }
+        },
+        {
+          "dapAn": "help",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "b6df63f1-fcdf-4d0d-b22c-8f6f9a12bd4e"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c2421a75-b597-4182-add0-54fdb85363f1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "In the US, it's <b>(1) ______</b> for a famous person (sometimes a graduate of the <b>(2) ______</b>) or a politician to give a speech to congratulate the graduates. In some large American <b>(3) ______</b>, the ceremony happens in a sports stadium. Students normally wear special caps and <b>(4) ______</b> in the colors of their university or department.",
+      "yNghia": "In the US, it's <b>(1) </b><b><span style=\"color:red\">common</span> </b> for a famous person (sometimes a graduate of the <b>(2) </b><b><span style=\"color:red\">university</span> </b>) or a politician to give a speech to congratulate the graduates. In some large American <b>(3) </b><b><span style=\"color:red\">universities</span> </b>, the ceremony happens in a sports stadium. Students normally wear special caps and <b>(4) </b><b><span style=\"color:red\">gowns</span> </b> in the colors of their university or department.<br />\n<i>Ở Mỹ, việc một người nổi tiếng (đôi khi là sinh viên tốt nghiệp <span style=\"color:red\">đại học</span> ) hoặc một chính trị gia phát biểu chúc mừng sinh viên tốt nghiệp là điều <span style=\"color:red\">bình thường</span> . Ở <span style=\"color:red\">một số trường đại học</span>  lớn của Mỹ, buổi lễ diễn ra trong một sân vận động thể thao. Sinh viên thường đội mũ và mặc <span style=\"color:red\">áo choàng </span> có màu của trường đại học hoặc khoa của họ</i><i> học.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "common",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "91892e08-0c99-4ed0-b8dd-ef6ce80b8b2d"
+          }
+        },
+        {
+          "dapAn": "university",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "1f682153-5dd1-48c2-908a-688722ddd024"
+          }
+        },
+        {
+          "dapAn": "universities",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "75d444f1-4aed-4d99-b1c5-0be9709fc588"
+          }
+        },
+        {
+          "dapAn": "gowns",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "98901da2-c741-40f9-9d0c-b367007a72c0"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4fa5abfd-0bd6-435b-8417-c0a6a047cb0b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Pasteles de hoja are a popular <b>(1) ______</b> in Puerto Rico, but they are also made in the Dominican Republic, Colombia, and El Salvador. They are usually made <b>(2) ______</b> Christmas and families often spend a few days <b>(3) ______</b> them. People usually freeze them to enjoy on Three Kings Day on January 6. Or they take some boxes of pasteles as a <b>(4) ______</b> to family or friends.",
+      "yNghia": "Pasteles de hoja are a popular <b>(1) </b><b><span style=\"color:red\">dish</span> </b> in Puerto Rico, but they are also made in the Dominican Republic, Colombia, and El Salvador. They are usually made <b>(2) </b><b><span style=\"color:red\">around</span> </b> Christmas and families often spend a few days <b>(3) </b><b><span style=\"color:red\">preparing</span> </b> them. People usually freeze them to enjoy on Three Kings Day on January 6. Or they take some boxes of pasteles as a <b>(4) </b><b><span style=\"color:red\">gift</span> </b> to family or friends.<br />\n<i>Pasteles de hoja là một <span style=\"color:red\">món ăn </span> phổ biến ở Puerto Rico, nhưng chúng cũng được chế biến ở Cộng hòa Dominica, Colombia và El Salvador. Chúng thường được làm vào <span style=\"color:red\">gần</span>  dịp Giáng sinh và các gia đình thường dành vài ngày để <span style=\"color:red\">chuẩn bị</span> . Mọi người thường đông lạnh chúng để thưởng thức vào Ngày Tam Vương mùng 6 tháng Giêng. Hoặc họ lấy một số hộp làm <span style=\"color:red\">quà </span> cho gia đình hoặc bạn bè.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "dish",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ae277ae9-28b9-42c2-8564-853ad623926f"
+          }
+        },
+        {
+          "dapAn": "around",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0d381e22-bf62-42d0-b69e-41f1ad77ed60"
+          }
+        },
+        {
+          "dapAn": "preparing",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8e6fbc0d-aac0-41e3-9545-fc075e35b33e"
+          }
+        },
+        {
+          "dapAn": "gift",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a21cf328-2ee7-4963-83ac-370fc1fe9272"
+          }
+        }
+      ]
+    }
+  ]
+}

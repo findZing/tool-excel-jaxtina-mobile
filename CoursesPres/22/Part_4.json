@@ -1,0 +1,299 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "Grammar",
+  "videoUrl": "4SKILLS_PRE_S_L22/grammar.mp4",
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:00:46",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "f511885e-8c15-48ce-bab6-483e927079f3",
+                "dapAn": "He has"
+              },
+              {
+                "_id": "01748ccc-2d9c-40df-9bbc-b278820a1209",
+                "dapAn": "brown"
+              },
+              {
+                "_id": "ed99d046-3af6-46d1-810e-460c055cf3f3",
+                "dapAn": "eyes"
+              },
+              {
+                "_id": "0bb583ae-3c60-4496-99d5-402d2a16c0cf",
+                "dapAn": "and brown"
+              },
+              {
+                "_id": "033c59aa-3ed9-4951-a6e8-6de94d81fb26",
+                "dapAn": "hair."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "e3d50024-aae1-4c8d-8baf-cfc8e517e94d",
+                "dapAn": "They"
+              },
+              {
+                "_id": "4ad908e6-bbc3-4a83-af10-8d593d1ff3f7",
+                "dapAn": "are"
+              },
+              {
+                "_id": "47292d2b-3e23-4ef7-aefe-27c2ff56c60c",
+                "dapAn": "tall and"
+              },
+              {
+                "_id": "5e025220-d879-4e59-a8e0-937c4c608f76",
+                "dapAn": "heavy."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "592d9b72-da45-4bad-bb5e-78436aa54ac7",
+                "dapAn": "I don't"
+              },
+              {
+                "_id": "ddcb175e-1241-455d-8b5c-ead30df4b7a5",
+                "dapAn": "have"
+              },
+              {
+                "_id": "54bfa016-1501-4e18-85bf-e3aae2984668",
+                "dapAn": "gray"
+              },
+              {
+                "_id": "b560eb5f-8244-402d-85b8-c353070574ff",
+                "dapAn": "hair."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "7a96c14d-2aaf-4c58-83ea-5a1485a9b0ba",
+                "dapAn": "She"
+              },
+              {
+                "_id": "916513bd-06a6-4048-9a17-db6171f852a5",
+                "dapAn": "has a"
+              },
+              {
+                "_id": "e1dedd80-02ea-41e2-a360-6c3c9bf04ae1",
+                "dapAn": "very big"
+              },
+              {
+                "_id": "45b32f9c-8fd2-432a-ac0c-a25a9afbeea3",
+                "dapAn": "nose."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "3c5ed8ea-1ab7-4432-9f1b-0e95d1201787",
+                "dapAn": "Fiona"
+              },
+              {
+                "_id": "946c1625-116c-4f63-86d6-72b599cd343b",
+                "dapAn": "is young"
+              },
+              {
+                "_id": "ed64c3a2-37ee-43c4-91ab-bbdbba9963b7",
+                "dapAn": "and"
+              },
+              {
+                "_id": "9d07b495-3f65-4f46-a47d-c96489fdbe06",
+                "dapAn": "beautiful."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:00:46",
+      "timeEnd": "0:05:35",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P5",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "There are _____ eggs on the table.",
+            "_id": "000ba73d-ce3f-4c82-9f42-55e6b0af626a",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "any",
+                "_id": "815bd968-6945-4fc7-b2f3-d52edaabab74"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "some",
+                "_id": {
+                  "$oid": "ac139c9e-a561-4286-89ea-0ec3390ff73c"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "a",
+                "_id": {
+                  "$oid": "cd7ffd8a-73bc-456d-b77e-c19faea22a76"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "They don’t have _____ time to make breakfast.",
+            "_id": "037947c0-fce1-4aa1-a45c-79be2d5d4665",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "any",
+                "_id": "df621cb4-0b45-4b70-b5c3-8504588a8e7c"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "some",
+                "_id": {
+                  "$oid": "122d93f8-d2a4-46a4-9063-afc83d274fca"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "a",
+                "_id": {
+                  "$oid": "27a822c0-2216-463b-9309-d9731befd2f9"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "There is _____ sandwich for lunch.",
+            "_id": "98c3ac05-9b2a-4877-b023-b47f482a856d",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "any",
+                "_id": "febdad67-b47d-4b79-93ee-8c6f21328ecb"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "an",
+                "_id": {
+                  "$oid": "da0b0ca9-de9a-48f5-8337-53350c62de02"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "a",
+                "_id": {
+                  "$oid": "75cfa41e-bea4-47ef-bbec-b513f2d37250"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "Sorry, there isn’t _____ coffee.",
+            "_id": "e2bcb6d0-478a-4ea0-ac42-df71593d8296",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "any",
+                "_id": "75e8120e-c254-4f84-87de-f562b5bf3cd7"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "some",
+                "_id": {
+                  "$oid": "04238648-c5b2-4568-84a6-0f8f86d1f032"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "a",
+                "_id": {
+                  "$oid": "e788f7b5-a9b8-4728-975e-3becee15b050"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "I have _____ apple every morning.",
+            "_id": "10aaa151-e48f-4075-9031-c0d1b133f6ec",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "any",
+                "_id": "6631abf8-d410-4c44-bab9-618fd306a213"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "an",
+                "_id": {
+                  "$oid": "1df44465-9912-47b8-85c3-10a80c429427"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "a",
+                "_id": {
+                  "$oid": "e47e7a0d-9247-4b12-adb9-6544113cac3c"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "There are _____ delicious vegetarian meals.",
+            "_id": "26234498-955f-4089-9682-53156d051d76",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "any",
+                "_id": "ac00314f-32de-4e99-bb1e-8208c2013427"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "some",
+                "_id": {
+                  "$oid": "8ee3be75-f147-4d6f-8e32-5ab6df4c7eaf"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "a",
+                "_id": {
+                  "$oid": "59ad26d4-9960-4c87-b26f-91ed19f56e3a"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "noiDungVideo": [
+    {
+      "timeEnd": "0:00:46",
+      "noiDung": "<b><span style=\"color:red\">Have / Has, Don't have / Doesn't have</span> </b><br />\n<b>Function <i>(Cách dùng)</i></b><br />\nChúng ta sử dụng cấu trúc <i>have</i> để nói về hình dáng của một ai đó, hoặc nói về một đồ vật, sự vật mà một ai đó sở hữu.<br />\n<br />\n<b>Form <i>(Cấu trúc)</i></b><br />\n \n<table>\n        <tbody>\n                <tr>\n                        <td colspan=\"3\"><b>Affirmative <i>(Khẳng định)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>Pronoun</b><br />\n                        <b><i>(Đại từ nhân xưng)</i></b></td>\n                        <td><b><i>have</i></b></td>\n                        <td><b>(Adjective +) Noun</b><br />\n                        <b><i>(Tính từ +) Danh từ</i></b></td>\n                </tr>\n                <tr>\n                        <td>I / You / We / They</td>\n                        <td><b>have</b></td>\n                        <td>brown eyes.</td>\n                </tr>\n                <tr>\n                        <td>He / She</td>\n                        <td><b>has</b></td>\n                        <td>a big nose.</td>\n                </tr>\n        </tbody>\n</table>\n \n\n<table>\n        <tbody>\n                <tr>\n                        <td colspan=\"4\"><b>Negative <i>(Phủ định)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>Pronoun</b><br />\n                        <b><i>(Đại từ nhân xưng)</i></b></td>\n                        <td><b><i>don't / doesn't</i></b></td>\n                        <td><b><i>have</i></b></td>\n                        <td><b>(Adjective +) Noun</b><br />\n                        <b><i>(Tính từ +) Danh từ</i></b></td>\n                </tr>\n                <tr>\n                        <td>I / You / We / They</td>\n                        <td><b>don't</b></td>\n                        <td rowspan=\"2\"><b>have</b></td>\n                        <td>brown eyes.</td>\n                </tr>\n                <tr>\n                        <td>He / She</td>\n                        <td><b>doesn't</b></td>\n                        <td>a big nose.</td>\n                </tr>\n        </tbody>\n</table>"
+    },
+    {
+      "timeEnd": "0:05:35",
+      "noiDung": "<b><span style=\"color:red\">Some and Any</span></b><br />\n<b>Function <i>(Cách dùng)</i></b><br />\nChúng ta sử dụng <b>some</b> và <b>any</b> khi không muốn nêu cụ thể, chính xác về số lượng<br />\n<b><i>Some</i></b> mang nghĩa là một vài, một số.<br />\nChúng ta sử dụng <i><b>any</b></i> <b></b>để hỏi có gì không hoặc nói rằng không có sự vật nào đó, hoặc chúng ta không có gì.<br />\n<br />\n<b>Form <i>(Cấu trúc)</i></b><br />\n \n<table>\n        <tbody>\n                <tr>\n                        <td><b>Question <i>(Câu hỏi)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>any</b> + noun<br />\n                        <i>(any + danh từ)</i><br />\n                        Is there <b>any</b> coffee?<br />\n                        Are there <b>any</b> vegetables?</td>\n                </tr>\n                <tr>\n                        <td><b>Affirmative <i>(Câu khẳng định)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>For one thing:</b><br />\n                        <b><i>(Đối với một thứ)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>a / an</b> + singular noun<br />\n                        <i>(a / an + danh từ số ít)</i><br />\n                        Ví dụ:<br />\n                        There's <b>a</b> cup of tea on the table.<br />\n                        There's <b>an</b> egg.</td>\n                </tr>\n                <tr>\n                        <td><b>For two or more things:</b><br />\n                        <b><i>(Đối với hai thứ trở lên)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>some</b> + plural noun<br />\n                        <i>(some + danh từ số nhiều)</i><br />\n                        Ví dụ:<br />\n                        There are <b>some</b> pancakes.</td>\n                </tr>\n                <tr>\n                        <td><b>Negative <i>(Câu phủ định)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>any</b> + noun<br />\n                        <i>(any + danh từ)</i><br />\n                        Ví dụ:<br />\n                        I don't have <b>any</b> milk.</td>\n                </tr>\n        </tbody>\n</table>"
+    }
+  ]
+}

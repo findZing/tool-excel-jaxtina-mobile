@@ -1,0 +1,866 @@
+{
+  "dangCauHoi": "P9Cham1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "f53b7585-b6b4-4e2b-8902-d8781fb9f6e0"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "38d5e31f-0fd3-49ac-91f1-848e7450a4b0"
+          },
+          "cauHoi": "Where is Tuan from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "aa58bd48-5155-45e5-9d5b-315a87d6ec23"
+              },
+              "dapAn": "A.  Vietnam",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b7a99179-2aaf-4b1b-9038-bb3c04478ba2"
+              },
+              "dapAn": "B. Canada",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b095da7d-26c9-4355-9a11-63fb1d481f3b"
+              },
+              "dapAn": "C. China",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0db8eafd-adb3-47eb-8300-09b2efd37a46"
+              },
+              "dapAn": "D. France",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "Hi, my name is Tuan. I'm from Vietnam. I'm Vietnamese.<br />\n<i>Xin chào, tôi tên là Tuấn. Tôi đến từ nước Việt Nam. Tôi là người Việt Nam.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L2/sounds/normal/PRES_2_LISTENING_1. Hi ... Vietnamese.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ffe546f0-b5da-4e0e-a9fe-8c78530d3431"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "903efc77-17c5-43c2-a83a-ec0be71feb79"
+          },
+          "cauHoi": "What is Mike’s first language?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2f8b684b-2738-46af-bfc1-38baac506f00"
+              },
+              "dapAn": "A. United States",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c11f987c-d020-4f57-8323-08fa16346277"
+              },
+              "dapAn": "B. English",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "95d38d13-4a5c-431e-adad-e4b862632915"
+              },
+              "dapAn": "C. England",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e6cb485b-b9ad-4046-a28e-4dfec0b3ce83"
+              },
+              "dapAn": "D. American",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "Mike is from the United States. He's American. His first language is English.<br />\n<i>Mike đến từ nước Hoa Kỳ. Anh ấy là người Mỹ. Ngôn ngữ đầu tiên của anh ấy là tiếng Anh.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L2/sounds/normal/PRES_2_LISTENING_2. Mike ... English.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "128a2508-02ea-4801-89ce-8529a6db3df4"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "de0fc55a-b98c-4ec7-861c-eb74f07f0c27"
+          },
+          "cauHoi": "What is Alberto and Tino’s nationality?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7bc62460-4cad-4d5c-9bb9-3d5ef16163bf"
+              },
+              "dapAn": "A. Mexican",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "086b1fab-c8a1-41b8-8c61-4f44d040fd9b"
+              },
+              "dapAn": "B. Mexico",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e88804ed-afc3-409f-82c1-9b244166ff61"
+              },
+              "dapAn": "C. Canadian",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d31df9fd-0e49-4512-ae1d-c053949f5d75"
+              },
+              "dapAn": "D. France",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "Alberto and Tino are friends. They are from Mexico. They are Mexican.<br /><i>Alberto và Tino là bạn bè. Họ đến từ nước Mê-xi-cô. Họ là người Mê-xi-cô.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L2/sounds/normal/PRES_2_LISTENING_3. Alberto ... Mexican.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1b2dbbed-6869-4bd5-9092-152ae5b3f182"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "933c85e9-e75e-4b4d-bfc1-d2882b50cf26"
+          },
+          "cauHoi": "Where is Jane from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7769108a-02af-4378-b994-97aed7362d3a"
+              },
+              "dapAn": "A. England",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "1650d1d8-e526-4f24-9306-e2993ea57fa3"
+              },
+              "dapAn": "B. Canada",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "85627eec-8f28-46e7-bc1f-5b38c80f26d7"
+              },
+              "dapAn": "C. American",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0d35f8e3-6d30-40f2-b460-dc7fcfa9f36b"
+              },
+              "dapAn": "D. France",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "Jane is from England. She is English. Her language is English.<br /><i>Jane đến từ nước Anh. Cô ấy là người Anh. Ngôn ngữ của cô ấy là tiếng Anh.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L2/sounds/normal/PRES_2_LISTENING_4. Jane ... English.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "10c4b03b-fc04-446c-ad1a-4d2c122359c8"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "f460a3bb-fcc0-49e5-b1c4-8ec82dfb1d86"
+          },
+          "cauHoi": "What is Peter’s nationality?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2b843cf1-ab77-4c44-b9fa-b2561686e2e4"
+              },
+              "dapAn": "A. German",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b88f249c-63e9-4ae0-8112-025885ec232c"
+              },
+              "dapAn": "B. Canada",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "eac87f59-d3ee-4d4b-b021-f43c7436d2d2"
+              },
+              "dapAn": "C. American",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "df777323-7aeb-455b-989f-9a00f1efe172"
+              },
+              "dapAn": "D. Chinese",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "yNghia": "Hello, I'm Peter. I'm from China. I'm Chinese.<br /><i>Xin chào, tôi là Peter. Tôi đến từ nước Trung Quốc. Tôi là người Trung Quốc.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L2/sounds/normal/PRES_2_LISTENING_5. Hello ... Chinese.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "db37a762-1ac3-4a06-b462-3e3e3299a2c9"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "b4f412ad-4d9a-4d66-a546-ef41731fa350"
+          },
+          "cauHoi": "Where is Elke from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ce326856-04bc-4780-bfd1-1c98e91193d3"
+              },
+              "dapAn": "A. German",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "62868033-8862-4528-b6cd-e0cf35bd2a7c"
+              },
+              "dapAn": "B. Germany",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "05fbb5b4-6158-46a7-b296-8dd9e9eb7a51"
+              },
+              "dapAn": "C. China",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d57e8df8-9d87-4bce-9991-8132bda78bc4"
+              },
+              "dapAn": "D. Chinese",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "This is Elke. She is from Germany. Her first language is German.<br /><i>Đây là Elke. Cô ấy đến từ nước Đức. Ngôn ngữ đầu tiên của cô ấy là tiếng Đức.",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L2/sounds/normal/PRES_2_LISTENING_6. This ... German.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c41f3fa3-47f6-41c1-9ff7-38aa76c81ae8"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "729ae514-41c3-4978-89ea-74e988ccf941"
+          },
+          "cauHoi": "Where are Joshua and Heather from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "309d3b2f-10d7-4d91-b0ed-377ef589d483"
+              },
+              "dapAn": "A. Brazil",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "529f0de8-107d-4bac-af61-e9405fc475e1"
+              },
+              "dapAn": "B. Germany",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "beb6bc8f-1e4a-4a5f-ba7d-9fe2fbf67525"
+              },
+              "dapAn": "C. Canada",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "34e9ee58-93f2-4d22-a7b6-ac61c4d52693"
+              },
+              "dapAn": "D. Egypt",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "They are Joshua and Heather Wilson. Their surname is Wilson. They are from Canada.<br /><i>Họ là Joshua và Heather Wilson. Họ trong tên đầy đủ của họ là Wilson. Họ đến từ nước Canada.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L2/sounds/normal/PRES_2_LISTENING_7. They ... Canada.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b22b7a00-65c4-47da-9c31-905f6c51f9ff"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "82d1e775-4c96-4ad7-85b9-e28b9d6214f8"
+          },
+          "cauHoi": "What is Anton’s nationality?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "674aa4c7-4816-455d-a941-dd513eef33eb"
+              },
+              "dapAn": "A. Egyptian ",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b51e0841-c39b-458d-8201-505b9e81b873"
+              },
+              "dapAn": "B. Mexican",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "84581596-21c4-4439-b2a7-0063a755db0f"
+              },
+              "dapAn": "C. Canadian",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8f05c13b-45ce-40ba-a237-32d0af3a9c52"
+              },
+              "dapAn": "D. French",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "Anton is my classmate. He is from Egypt. He is Egyptian.<br /><i>Anton là bạn cùng lớp của tôi. Anh ấy đến từ nước Ai Cập. Anh ấy là người Ai Cập.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L2/sounds/normal/PRES_2_LISTENING_8. Anton ... Egyptian.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "861c50f6-f27b-4712-a82e-0c18060fe105"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "efdd74b0-5377-4030-a539-7bf6c43b70db"
+          },
+          "cauHoi": "Where is Kate from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "dca2dcaa-ca9a-45d4-81b5-e11b50a5c1b0"
+              },
+              "dapAn": "A. Vietnam",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "81d128f0-2f73-4097-91e2-665b1e9d21fc"
+              },
+              "dapAn": "B. England",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a76b16c0-3714-4b17-b887-395ad08484d4"
+              },
+              "dapAn": "C. France",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9f02cc57-d7f4-4a18-9e78-9985dbbddd04"
+              },
+              "dapAn": "D. Brazil",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "yNghia": "She is Kate Donnerlly. Her surname is Donnerly. She is from Brazil.<br /><i>Cô ấy là Kate Donnerlly. Họ của cô ấy là Donnerly. Cô ấy đến từ nước Bra-zin.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L2/sounds/normal/PRES_2_LISTENING_9. She ... Brazil.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "bd584eab-f11f-4c1a-b2fe-c283dbdabdb6"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "426fa723-6e41-4665-9efc-f1d2459c0e0e"
+          },
+          "cauHoi": "Where is the speaker from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b0fb656f-ea4b-423b-9f25-522b85206fa6"
+              },
+              "dapAn": "A. Vietnam",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8ebb8e52-ebb2-4b58-affa-b80fa99562e9"
+              },
+              "dapAn": "B. England",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ff7ede7f-9f12-4adf-9b10-9c19db79f505"
+              },
+              "dapAn": "C. France",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "861f5b3a-d8be-480d-83a8-9f01bf6517c4"
+              },
+              "dapAn": "D. Brazil",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "My family is in America, but we are from France. We are French.<br />\n<i>Gia đình tôi ở Mỹ, nhưng chúng tôi đến từ nước Pháp. Chúng tôi là người Pháp.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L2/sounds/normal/PRES_2_LISTENING_10. My ... French.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6d2e0795-6944-468d-908a-8f0ae0a88b89"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "e877e4ac-8fbe-4cc4-90ac-aa5ec80fd180"
+          },
+          "cauHoi": "Where is Linda from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b39efb06-6db7-4e72-a3b3-ac88487e2e2a"
+              },
+              "dapAn": "A. Canada ",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "36b11cae-ee97-44c8-9f8b-16bd4d5e0e53"
+              },
+              "dapAn": "B. Egypt",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "66f13df5-3c8d-4bc3-950d-1f8e48ffb144"
+              },
+              "dapAn": "C. America",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e0acf6eb-d404-496b-8f2b-194cb1206085"
+              },
+              "dapAn": "D. France",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "Linda is from Canada. She is not from France. She is Canadian.<br /><i>Linda đến từ Ca-na-đa. Cô ấy không đến từ nước Pháp. Cô ấy là người Ca-na-đa.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L2/sounds/normal/PRES_2_LISTENING_11. Linda ... Canadian.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b9aebf09-9e2b-4f6b-9d9f-d5c8e0b9c964"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "b1ede389-251b-416d-981c-ce36fa2e91b6"
+          },
+          "cauHoi": "Where is the speaker from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f3dc8e5f-b741-45ab-a478-07d1961fa441"
+              },
+              "dapAn": "A. Mexico",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "766775e5-2e7f-44bc-8b28-e477672cd8c4"
+              },
+              "dapAn": "B. Brazil",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c5dc978c-31da-49de-a78c-b095aff97153"
+              },
+              "dapAn": "C. Egypt",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "1a3405e8-ec6f-48c9-b3a2-f8c408c6d47c"
+              },
+              "dapAn": "D. Vietnam",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "b830e2ec-a2d1-4d58-a4b0-e8f93f8781f3"
+          },
+          "cauHoi": "What is the speaker’s nationality?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2c4e8073-8b9b-4d30-87f9-80b3d23341b9"
+              },
+              "dapAn": "A. American",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "412f5a6a-6f82-4cd5-9f08-8d4bdddcd85c"
+              },
+              "dapAn": "B. Mexican",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "bb97f875-8ba7-4f83-a3ec-26b67ea77255"
+              },
+              "dapAn": "C. Chinese",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8974e4e2-e165-440e-8eca-705dae7d6564"
+              },
+              "dapAn": "D. German",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "8ed1f37b-a1f8-407f-9c05-5359c22a3a1e"
+          },
+          "cauHoi": "Where is Julie from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c3c2ed56-27bc-4dad-8825-0bfe8c836518"
+              },
+              "dapAn": "A. Canada",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0347f88f-d808-4575-8df5-0a4d1d7209b0"
+              },
+              "dapAn": "B. France",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5e84bd44-3ec8-4d8c-8d51-84384a5a22a0"
+              },
+              "dapAn": "C. China",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "532dce76-7187-4fcf-91af-3feb1e47e0fc"
+              },
+              "dapAn": "D. Brazil",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "yNghia": "I'm Liam. I'm from Mexico. I'm Mexican. This is Julie. She is my friend. She is from Brazil. She is Brazilian. We are great friends!<br /><i>Tôi là Liam. Tôi đến từ nước Mê-xi-cô. Tôi là người Mê-xi-cô. Đây là Julie. Cô ấy là bạn tôi. Cô ấy đến từ nước Bra-zin. Cô ấy là người Bra-xin. Chúng tôi là những người bạn tốt của nhau!</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L2/sounds/normal/PRES_2_LISTENING_12. Im ... friends.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "152f3258-2e73-49da-b165-083fdc9a90e8"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "6e4ccb67-54a6-4834-b253-3e2a85020bb9"
+          },
+          "cauHoi": "What is Johnny’s full name?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ba6896d6-6d3f-4d24-b511-daf5f0b1ff93"
+              },
+              "dapAn": "A. Johnny Depp",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b717c6d9-385d-4b4d-82eb-fa10e87c890e"
+              },
+              "dapAn": "B. Johnny Wood",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f766ca41-4537-4dcf-8cc7-06d2b9c43f01"
+              },
+              "dapAn": "C. Johnny Bravo",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7536ce9b-cde0-4acb-a29d-f08aaa306be0"
+              },
+              "dapAn": "D. Johnny Grey",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ffddc0d5-5859-44e2-8bfa-8658f840ceee"
+          },
+          "cauHoi": "Where is John from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "ef8107c1-9b19-4534-a9e8-5208b49f2771"
+              },
+              "dapAn": "A. America",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3998ae8c-96a5-4ce5-8904-f924dfd01de4"
+              },
+              "dapAn": "B. American",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2e92676a-a783-4c40-b34a-c1726a1e61b1"
+              },
+              "dapAn": "C. English",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d4d05329-94da-469f-a2ac-177049d98d97"
+              },
+              "dapAn": "D. England",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "00899f22-5d46-4711-974f-ce0458badb5a"
+          },
+          "cauHoi": "What is John’s nationality?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "cc550aaa-a094-443d-969b-561c48fd14b6"
+              },
+              "dapAn": "A. Vietnamese",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9851a288-3dfd-477c-932b-f826c0db6399"
+              },
+              "dapAn": "B. Brazilian",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "089624c8-4d1e-43dc-b0dc-29ed082b36bf"
+              },
+              "dapAn": "C. Chinese",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "ab409eb0-755d-44fe-8d43-77fcd240a660"
+              },
+              "dapAn": "D. American",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "yNghia": "My best friend is Johnny. His full name is Johnny Depp. His nickname is JD. He is from America. He is American.<br /><i>Bạn thân nhất của tôi là Johnny. Tên đầy đủ của anh ấy là Johnny Depp. Biệt danh của anh ấy là JD. Anh ấy đến từ nước Mỹ. Anh ấy là người Mỹ.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L2/sounds/normal/PRES_2_LISTENING_13. My ... American.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d79c7e75-c81f-4f56-8cd5-e975c6eaefc7"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "78a7044b-39c7-4c32-9b67-a254dfe08645"
+          },
+          "cauHoi": "Where is Laura from?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "580c37aa-3fe2-410b-af9a-c67631cb29d1"
+              },
+              "dapAn": "A. China",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d30514f2-7059-45ed-a383-326f9bd57d2b"
+              },
+              "dapAn": "B. Germany",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c4c5e56f-c30f-43f3-875a-1bf1cb52b070"
+              },
+              "dapAn": "C. England",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "ccfbf87d-5c17-4d0c-8ea9-b79af4fe94e1"
+              },
+              "dapAn": "D. Egypt",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "7b7c795e-1e5f-42cf-a429-54b660568e48"
+          },
+          "cauHoi": "What is her parents’ nationality?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c8e3bece-89e4-45e7-928a-915bfd6596fa"
+              },
+              "dapAn": "A. English",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "07c70441-10c6-402d-b4a9-ad6b6de59588"
+              },
+              "dapAn": "B. England",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e73f9bf1-385d-4a4f-b239-eff141d06a8a"
+              },
+              "dapAn": "C. China",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "05126886-29f7-4964-8ee5-c435ab0a7a35"
+              },
+              "dapAn": "D. Chinese",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "3908793e-2acf-4330-93d2-738ffde10f6d"
+          },
+          "cauHoi": "What is her first language?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "9c556aad-7b14-4d0d-bda8-5c0fcf549b1b"
+              },
+              "dapAn": "A. Chinese",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3e1ed0c3-a80d-4920-a9d2-7c6d4351c28a"
+              },
+              "dapAn": "B. English",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "0665f627-a750-4e9c-bec9-82e84d831106"
+              },
+              "dapAn": "C. Egyptian",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "89ebcf27-f2b9-47e8-9b92-99491e81b3d3"
+              },
+              "dapAn": "D. French",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "yNghia": "Laura is my friend. She is from England, but her parents are Chinese. Her first language is not Chinese. It is English.<br />\n<i>Laura là bạn của tôi. Cô ấy đến từ nước Anh, nhưng bố mẹ cô ấy là người Trung Quốc. Ngôn ngữ mẹ đẻ của cô ấy không phải là tiếng Trung. Mà là tiếng Anh.</i>",
+      "danhSachDapAn": [],
+      "audioUrl": "4SKILLS_PRE_S_L2/sounds/normal/PRES_2_LISTENING_14. Laura ... English.mp3"
+    }
+  ]
+}

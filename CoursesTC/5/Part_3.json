@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0_1",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "496f9148-42c7-49d7-9d6f-2cab9a87298b"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Act",
+      "yNghia": "Tiết mục",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e012f845-a1d3-4230-ab0b-ed5ea5cccb5e"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Puppet",
+      "yNghia": "Con rối",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5c055fda-9254-4f67-840f-3970b3faab8f"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Circus",
+      "yNghia": "Đoàn xiếc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "fa4e1e08-567f-427f-98f3-94803cd14e16"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Magic wand",
+      "yNghia": "Đũa thần",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "919a2184-018a-4391-9989-f05d16eaff43"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Flame",
+      "yNghia": "Ngọn lửa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8f7ecaf1-3222-4462-8c48-fc0c23d4c54c"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "String",
+      "yNghia": "Dây, chuỗi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "985f3226-f585-4258-abcc-d60e306b90ff"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Crowd",
+      "yNghia": "Đám đông",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "351c27ef-64c8-4d13-a60d-0878d73aa383"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Performance",
+      "yNghia": "Màn trình diễn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d71c8b04-7868-4241-b268-945a5ad622fa"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Director",
+      "yNghia": "Đạo diễn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "817ab259-a560-4e57-b053-ea2c7ffb6c7c"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Lead vocalist",
+      "yNghia": "Người hát chính",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "fc1bcb32-f082-4cd5-ab0f-a7414869397e"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Awesome",
+      "yNghia": "Hoành tráng, ngoạn mục",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "245b85d7-dead-4678-a5e1-606be2eed037"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Backup singer",
+      "yNghia": "Người hát bè",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "eda4c123-9631-41c4-9f92-19196c4bb17e"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Sound technician",
+      "yNghia": "Kỹ thuật viên âm thanh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c88f1db5-409b-4570-b68d-e25a4107d3c5"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Take place",
+      "yNghia": "Diễn ra",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5e845734-5e73-4116-b5b4-e34c4c35677a"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Trick",
+      "yNghia": "Thủ thuật (trong ảo thuật)",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6598850e-1422-4c16-9bc6-27d4d1d848fc"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Push out",
+      "yNghia": "Đẩy ra ngoài",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9e1455e9-43d0-4dd8-85c8-0c5ea6fcac07"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Producer",
+      "yNghia": "Nhà sản xuất",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4fe96ee9-a169-48ec-82c3-5df5123aa090"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Put out",
+      "yNghia": "Dập tắt",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "f66845a5-df0f-4a45-bb8f-dc113f5453ad"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Float",
+      "yNghia": "Nổi trôi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0fdc3253-730d-4a92-b5af-d7ec48e3e24d"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Acrobat",
+      "yNghia": "Diễn viên xiếc",
+      "danhSachDapAn": []
+    }
+  ]
+}

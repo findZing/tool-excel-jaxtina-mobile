@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "e3f80c49-3c3c-4b07-b978-1dce21f3f7a7"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Inverter",
+      "yNghia": "Bộ biến tần",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b2a6eb45-4e74-4cdd-9a02-4f77d7d909fd"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Dishwasher",
+      "yNghia": "Máy rửa bát",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4ba39e1c-d6ea-4a5c-9a43-6d813d0d9452"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Lighting",
+      "yNghia": "Thiết bị ánh sáng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "059c649e-74b6-4afe-9494-62e52799e7ee"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Heater",
+      "yNghia": "Máy sưởi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5effc4a1-baa6-48e3-b341-951b8a402d9b"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Generate",
+      "yNghia": "Tạo ra",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a1da05af-c47d-43fb-9bdc-8405c8082b2e"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Convert",
+      "yNghia": "Chuyển đổi, biến đổi",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8fc22dfb-876d-4246-a4bc-1c10ad41b6c0"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Electricity grid",
+      "yNghia": "Hệ thống đường dây điện",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "91425bf2-c925-4600-99b4-500745a9929e"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Air conditioner",
+      "yNghia": "Máy điều hòa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d982a94e-44d2-4885-ae94-a2784ee8a1ef"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Utility meter",
+      "yNghia": "Đồng hồ đo điện, nước, ga, ...",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a588aa51-f755-43c0-8b95-f930c256106a"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Washing machine",
+      "yNghia": "Máy giặt",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2ec16e3d-d68b-4ebd-9a89-c7002e30c747"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Kitchen stove",
+      "yNghia": "Bếp lò",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "302914bf-72e5-44ca-9bd1-a09f32de4086"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Solar panel",
+      "yNghia": "Tấm quang năng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "febe1858-2b63-491f-9f73-81baf198c2d9"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Living space",
+      "yNghia": "Không gian sống",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9ab8ecb1-de54-4706-be84-69e5abf89e6b"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Housing price",
+      "yNghia": "Giá nhà",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "794c9392-62db-439f-8f97-24e6e727976c"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Smart equipment",
+      "yNghia": "Thiết bị thông minh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e9b4eec0-f22e-4637-954d-6abe2fad7432"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Electric current",
+      "yNghia": "Dòng điện",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "23d11a5d-5ab0-4e5d-a9f3-4f88e8babd41"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Appliance",
+      "yNghia": "Thiết bị",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "49a9a8ef-fc8d-440a-bd0a-163c1f483533"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Direct",
+      "yNghia": "Điều hướng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "afbc4875-bac8-4506-9bec-b8c83d455679"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Provide power",
+      "yNghia": "Cung cấp năng lượng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "eeba5229-cb15-4c21-8533-c72ad2c99bc6"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Special material",
+      "yNghia": "Vật liệu đặc biệt",
+      "danhSachDapAn": []
+    }
+  ]
+}

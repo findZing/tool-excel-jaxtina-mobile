@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "0ab43591-1b8d-471b-b3f2-7d0da3107f6a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I carry a big <b>(1)</b> ____ with brochures and gifts for new customers, such as pens <b>(2)</b> ____ umbrellas. I also carry my <b>(3)</b> ____. I book vacations for customers on<b> (4)</b> ____ laptop.<br />",
+      "yNghia": "I carry a big <b>(1)</b> <span style=\"color:red\"><b>bag</b></span>  with brochures and gifts for new customers, such as pens <b>(2)</b> <span style=\"color:red\"><b>and</b></span>  umbrellas. I also carry my <b>(3) </b><span style=\"color:red\"><b>laptop</b></span> . I book vacations for customers on <b>(4) </b><span style=\"color:red\"><b>my</b></span>  laptop.<br />\n<i>Tôi mang theo một cái </i><span style=\"color:red\"><i>túi</i></span> <i> lớn đựng các tờ quảng cáo </i><span style=\"color:red\"><i>và </i></span> <i>quà tặng cho khách hàng mới, chẳng hạn như bút và ô. Tôi cũng mang theo </i><span style=\"color:red\"><i>máy tính xách tay </i></span> <i>của mình. Tôi đặt kỳ nghỉ cho khách hàng trên máy tính xách tay </i><span style=\"color:red\"><i>của mình</i></span> <i>.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "bag",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d180d295-44ff-4867-8f5e-0c260c9ed425"
+          }
+        },
+        {
+          "dapAn": "and",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "7fe94c9a-bbf7-49e8-a593-da09bf440c4f"
+          }
+        },
+        {
+          "dapAn": "laptop",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "51d4bb23-65f1-4efa-8438-07148856371c"
+          }
+        },
+        {
+          "dapAn": "my",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f122114f-6380-4c8d-8b02-3a0d127aa71f"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3f3d7bf1-6570-4f1a-86fb-92813840cbab"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I need my <b>(1) ________</b> every day - every minute! It's really <b>(2) </b>________. I speak with customers. I send <b>(3) </b>________ to <b>(4) </b>________. I check new software. My phone is my business!",
+      "yNghia": "I need my <b>(1) <span style=\"color:red\">phone</span> </b> every day - every minute! It's really <b>(2) <span style=\"color:red\">important</span> </b>. I speak with customers. I send <b>(3) <span style=\"color:red\">emails</span> </b> to <b>(4) <span style=\"color:red\">co-workers</span> </b>. I check new software. My phone is my business!<br />\n<i>Tôi cần<span style=\"color:red\"> điện thoại </span> của tôi mỗi ngày - mỗi phút! Nó thực sự <span style=\"color:red\">quan trọng</span> . Tôi nói chuyện với khách hàng. Tôi gửi <span style=\"color:red\">thư điện tử </span> cho <span style=\"color:red\">đồng nghiệp</span> . Tôi kiểm tra phần mềm mới. Điện thoại của tôi là sự nghiệp của tôi!</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "phone",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e1959e3d-4cdc-4c0b-846c-6bb89e50a941"
+          }
+        },
+        {
+          "dapAn": "important",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "249c24ed-d558-45fa-a030-24ed3bf77ea0"
+          }
+        },
+        {
+          "dapAn": "emails",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "611585cb-c29e-4ae4-ac41-99241fc2e78b"
+          }
+        },
+        {
+          "dapAn": "co-workers",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "1f1e161e-7f6c-4f95-a6c1-3a04024d56cb"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5c043c21-974b-4c3f-bdbd-4d30b45c476e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I have a <b>(1) </b>_________ for my <b>(2) </b>_________. It has a few pockets where I can <b>(3) </b> ________ my phone, <b>(4) </b>_________, and wallet in.",
+      "yNghia": "I have a <b>(1) <span style=\"color:red\">case</span> </b> for my <b>(2) <span style=\"color:red\">laptop</span> </b>. It has a few pockets where I can <b>(3) <span style=\"color:red\">put</span>  </b>my phone, <b>(4) <span style=\"color:red\">pens</span> </b>, and wallet in.<br />\r\n<i>Tôi có một <span style=\"color:red\">cái cặp</span>  đựng <span style=\"color:red\">máy tính xách tay</span> . Nó có một vài túi để tôi có thể <span style=\"color:red\">đặt </span> điện thoại, <span style=\"color:red\">những cây bút viết </span> và ví vào.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "case",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d84620ab-f809-474e-929c-56040ab1c802"
+          }
+        },
+        {
+          "dapAn": "laptop",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "3934b28d-2cbc-4a5d-be25-438f56b26519"
+          }
+        },
+        {
+          "dapAn": "put",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e65db6c2-8ec4-4881-b559-8ef41ea18acb"
+          }
+        },
+        {
+          "dapAn": "pens",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f71967ad-3d15-456b-93a5-cf2a93de3a10"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1e69e2ae-a3be-4375-854b-6af7b252cae7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I put my<b> (1) </b>________ in the right pocket of my jeans. <b>(2) </b>________ my wallet <b>(3) </b>________ is my transit card, ID <b>(4) </b>________, and credit cards.",
+      "yNghia": "I put my<b> (1) <span style=\"color:red\">wallet</span> </b> in the right pocket of my jeans. <b>(2) <span style=\"color:red\">Inside</span>  </b>my wallet <b>(3) <span style=\"color:red\">there</span> </b> is my transit card, ID <b>(4) <span style=\"color:red\">card</span> </b>, and credit cards.<br />\r\n<i>Tôi bỏ <span style=\"color:red\">ví tiền</span>  vào túi quần jean bên phải của mình. <span style=\"color:red\">Bên trong</span>  ví của tôi có thẻ quá cảnh, <span style=\"color:red\">thẻ</span>  căn cước, và thẻ tín dụng.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "wallet",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "84106a4f-30f0-439f-bf24-e8ef5e062ea3"
+          }
+        },
+        {
+          "dapAn": "Inside",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f45878d0-eff8-4b26-8e4c-425565269be3"
+          }
+        },
+        {
+          "dapAn": "there",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "621fe95e-921d-43e5-bd1d-6e9981658676"
+          }
+        },
+        {
+          "dapAn": "card",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "359c3c83-1617-497f-95a4-e3542c5cd527"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2a70e926-1d5f-4af0-9c3e-dd2cdaaaa1ff"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "On sunny <b>(1) </b>__________, I like to wear <b>(2) </b>__________ and ride my <b>(3) </b>__________ around my beautiful neighborhood. There <b>(4) </b>__________ a lake and there are a lot of trees here.<br />",
+      "yNghia": "On sunny <b>(1) <span style=\"color:red\">days</span> </b>, I like to wear <b>(2) <span style=\"color:red\">sunglasses</span> </b> and ride my <b>(3) <span style=\"color:red\">bicycle</span> </b> around my beautiful neighborhood. There <b>(4) <span style=\"color:red\">is</span> </b> a lake and there are a lot of trees here.<br />\n<i>Vào <span style=\"color:red\">những ngày</span>  nắng, tôi thích đeo <span style=\"color:red\">kính râm</span>  và đi <span style=\"color:red\">xe đạp</span>  quanh khu phố xinh đẹp của tôi. Có một cái hồ và rất nhiều cây ở đó.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "days",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a5d8c2f5-a9f1-4d0f-9eb7-88a82727ca91"
+          }
+        },
+        {
+          "dapAn": "sunglasses",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c6fbf53f-cb5a-45b8-920d-ee6e568af600"
+          }
+        },
+        {
+          "dapAn": "bicycle",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "790ab5df-43ef-4e82-bfc1-fdc1450866e1"
+          }
+        },
+        {
+          "dapAn": "is ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2fcaa796-e899-47dc-aa69-8b787b994926"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P5",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "1f310d47-29a9-4628-9011-012e24c1aec0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Good morning, everyone. My name’s Nancy Rubin. I’m a career advisor, and today I’m here to help you look at _______ options. ",
+      "yNghia": "<b>Good morning everyone. My name's Nancy Rubin. I'm a career advisor, and today I'm here to help you look at </b><span style=\"color:red\"><b>your </b></span><b>options. </b><br />\r\n<i>Chào buổi sáng mọi người. Tên tôi là Nancy Rubin. Tôi là cố vấn nghề nghiệp và hôm nay tôi ở đây để giúp bạn xem xét các lựa chọn </i><span style=\"color:red\"><i>của mình</i></span><i>.</i><br />\r\n<b>your</b> là đáp án đúng vì chỗ trống cần điền là một tính từ sở hữu, kết hợp với danh từ <b>options</b> phía sau, mang nghĩa \"các lựa chọn của mình\".<br />\r\n<b>you</b> và <b>you're</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "329b515d-cead-407e-828b-2dcade86cb2e"
+          },
+          "dapAn": "A. you",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ec6fe284-5061-4c2b-b0d8-e9a223d06b1a"
+          },
+          "dapAn": "B. your",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b6499322-dad6-4bb3-8cec-5e6bed3d7749"
+          },
+          "dapAn": "C. you’re",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "630dbc93-40fe-4149-b8b4-460479283c4f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Hi, Ms. Rubin. I’m Jack. Could you _______ more about a career with animals?",
+      "yNghia": "<b>Hi, Ms. Rubin. I'm Jack.</b><b> </b><b>Could you <span style=\"color:red\">talk </span>more about a </b><b>career with animals?</b><br />\n<i>Chào cô Rubin. Tôi là Jack. Bạn có thể <span style=\"color:red\">nói </span>thêm về công việc liên quan đến các loài động vật được không?</i><br />\n<b>talk</b> là đáp án đúng vì động từ sau <b>Could</b> ta giữ ở dạng nguyên thể.<br />\n<b>talks</b> và <b>talking</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2183250c-6e8e-4c9b-8bef-c6b2ff5f92f4"
+          },
+          "dapAn": "A. talk",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "27d75303-5ad8-4acd-abde-d5398b2743fd"
+          },
+          "dapAn": "B. talks",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4805879c-0bb3-416d-b9f6-061bfab9d5ec"
+          },
+          "dapAn": "C. talking",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "cb8237c4-3320-4b3a-82ab-b689c1d53670"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Alright, Jack. Are you familiar with some _______, such as zookeepers and veterinarians?",
+      "yNghia": "<b>Alright, Jack. Are you </b><b>familiar with some <span style=\"color:red\">professions</span>, such as zookeepers and veterinarians?</b><br />\n<i>Được rồi, Jack. Bạn có quen thuộc với một số <span style=\"color:red\">nghề</span>, chẳng hạn như người trông coi vườn thú và bác sĩ thú y không?</i><br />\n<b>professions</b> là đáp án đúng vì trước chỗ trống là lượng từ <b>some</b> nên ta cần điền một danh từ ở dạng số nhiều.<br />\n<b>profession</b> và <b>professional</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2cdaad1e-0579-42ea-b0c0-0749b9bae424"
+          },
+          "dapAn": "A. profession",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "96e0071a-558b-4d0e-b516-5411028aa432"
+          },
+          "dapAn": "B. professional",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f5b68b38-c0ff-440b-bcd9-7f29b6bfcb1d"
+          },
+          "dapAn": "C. professions",
+          "isCorrect": true
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "fb91ce6c-c1a2-4b5c-928e-7beb022a99b2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Of course, you need to enjoy _______ with animals. More than that, though, you have to be interested in animal behavior.",
+      "yNghia": "<b>Of course, you need to enjoy <span style=\"color:red\">working </span>with animals. More than that, though, you have to be interested in animal behavior.</b><br />\n<i>Tất nhiên, bạn cần thích <span style=\"color:red\">làm việc </span>với động vật. Tuy nhiên, hơn thế nữa, bạn phải hứng thú với hành vi của động vật.</i><br />\n<b>working</b> là đáp án đúng vì động từ sau <b>enjoy</b> ta chia về dạng Động từ <b>(-ing)</b>.<br />\n<b>works</b> và <b>work</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "19261f8e-10b4-4340-bd5e-5dcbef5279f5"
+          },
+          "dapAn": "A. works",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "58514287-c12d-4d7b-9eb4-9da9987e900d"
+          },
+          "dapAn": "B. work",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f1254f99-958c-43fa-9f81-d7a369cdcce1"
+          },
+          "dapAn": "C. working",
+          "isCorrect": true
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "0c325cb5-d45d-4632-bc03-3bce2ebb1340"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Yeah, to do these jobs, you need to know what qualities employers are looking for, what exams you need to pass and what experience is _______.",
+      "yNghia": "<b>Yeah, to do these jobs, you need </b><b>to know what qualities employers are looking for, what exams you need to pass</b><b> </b><b>and what experience is <span style=\"color:red\">required</span></b><b>.</b><br />\n<i>Vâng, để làm những công việc này, bạn cần biết nhà tuyển dụng đang tìm kiếm những phẩm chất gì, bạn cần vượt qua kỳ thi nào và <span style=\"color:red\">cần có </span>kinh nghiệm gì.</i><br />\n<b>required</b> là đáp án đúng vì câu mang nghĩa bị động, đã có động từ to be <b>is</b>, ta còn thiếu một động từ ở dạng quá khứ phân từ, nên <b>require</b> được thêm \"<b>d</b>\" để thành dạng quá khứ phân từ là <b>required</b>.<br />\n<b>requires</b> và <b>require</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3e90b7bd-e164-455c-8dbf-0d29c1ce3af8"
+          },
+          "dapAn": "A. required",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4b5a8f4a-5188-4f87-bcac-163588608569"
+          },
+          "dapAn": "B. requires",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0f5071b0-779a-413b-9e2c-0c676098197a"
+          },
+          "dapAn": "C. require",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "7adedccd-f1df-453a-9bbf-d785be2208af"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Sometimes it’s the responsibility of looking after an adult _______ that causes problems and sometimes there are financial reasons.",
+      "yNghia": "<b>Sometimes</b><b> </b><b>it's the responsibility of looking after an adult</b><b> </b><b><span style=\"color:red\">animal </span></b><b>that causes problems and sometimes</b><b> </b><b>there are financial reasons.</b><br />\n<i>Đôi khi đó là trách nhiệm chăm sóc một <span style=\"color:red\">con vật </span>trưởng thành gây ra vấn đề và đôi khi có những lý do về mặt tài chính.</i><br />\n<b>animal</b> là đáp án đúng vì trước đó ta thấy mạo từ \"<b>an</b>\" nên danh từ theo sau sẽ phải ở dạng số ít.<br />\n<b>animals</b> và <b>pets</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0b1e0ab9-5655-4a05-8cbc-4962a941ee50"
+          },
+          "dapAn": "A. animals",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0b1c7909-93be-4c2b-a3f8-0e4b67a56646"
+          },
+          "dapAn": "B. animal",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "60a21318-5111-4e4d-9df3-6fdf9c171b9b"
+          },
+          "dapAn": "C. pets",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "b5e4c6d4-3603-4d00-b012-61acfb6a3b67"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Okay. Let’s start by looking at a familiar _______, and an unusual one.",
+      "yNghia": "<b>Okay. L</b><b>et's start by looking at a familiar <span style=\"color:red\">career</span>, and an unusual one.</b><br />\n<i>Được chứ. Hãy bắt đầu bằng cách xem xét một <span style=\"color:red\">nghề nghiệp </span>quen thuộc và một nghề nghiệp khác thường nhé.</i><br />\n<b>career</b> là đáp án đúng vì trước đó ta thấy mạo từ \"<b>a</b>\" nên danh từ theo sau sẽ phải ở dạng số ít.<br />\n<b>careers</b> và <b>ones</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8c0b8e17-2819-49a8-bc71-81eb31c71ff3"
+          },
+          "dapAn": "A. career",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fb603464-5665-48b3-bcb3-56b4bce66217"
+          },
+          "dapAn": "B. careers",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6ba2765e-f78d-42ed-95f6-b0676c9c8882"
+          },
+          "dapAn": "C. ones",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "eaf21c94-f98b-4c9b-bde9-655d581e4eb9"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "All dogs must be _______. This means that a small chip – the size of a grain of rice – is inserted under the dog’s skin.",
+      "yNghia": "<b>All dogs must be <span style=\"color:red\">microchipped</span>. This</b><b> </b><b>means that a small chip – the size of a grain of</b><b> </b><b>rice – is inserted under the dog's skin.</b><br />\n<i>Tất cả những con chó phải <span style=\"color:red\">được gắn vi mạch</span>. Điều này có nghĩa là một con chíp nhỏ - kích thước bằng hạt gạo - được đưa vào dưới da của con chó.</i><br />\n<b>microchipped </b>là đáp án đúng vì câu mang nghĩa bị động, đã có động từ to be <b>be</b>, ta còn thiếu một động từ ở dạng quá khứ phân từ, nên <b>microchip </b>được thêm \"<b>ed</b>\" để thành dạng quá khứ phân từ là <b>microchipped</b>.<br />\n<b>microchip </b>và <b>microchips </b>là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "292c1ac6-7a8f-4945-a905-b9d18c7a8a87"
+          },
+          "dapAn": "A. microchipped",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "038e1e4c-2619-4c3a-b93e-aeca97b40dba"
+          },
+          "dapAn": "B. microchip",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1814a2b2-b6c8-45ee-9a87-4ba9c682daee"
+          },
+          "dapAn": "C. microchips",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "aae6768f-d006-46ef-ab76-74ed1b85f84f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you know what the main duties of marine biologists _______?",
+      "yNghia": "<b>Do you know what the main duties of marine biologists <span style=\"color:red\">are</span>?</b><br />\n<i>Bạn có biết nhiệm vụ chính của các nhà sinh học biển <span style=\"color:red\">là </span>gì không?</i><br />\n<b>are</b> là đáp án đúng vì danh từ <b>duties</b> ở dạng số nhiều nên động từ to be đi kèm sẽ là <b>are</b>.<br />\n<b>am</b> và <b>is</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "57488193-f754-4b22-824a-68d25dad6b9a"
+          },
+          "dapAn": "A. am",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "486970c8-1569-46e1-8b23-c84a1e778896"
+          },
+          "dapAn": "B. is",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6d442abe-2375-45f6-95ef-3088a5477d80"
+          },
+          "dapAn": "C. are",
+          "isCorrect": true
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "2de0e404-d5e9-43fb-bcf6-f069407b8ebb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Exactly, but marine biologists have to be prepared for _______ harsh conditions.",
+      "yNghia": "<b>Exactly, but marine biologists have to be prepared for <span style=\"color:red\">some </span>harsh conditions.</b><br />\n<i>Chính xác, nhưng các nhà sinh học biển phải được chuẩn bị cho <span style=\"color:red\">một số </span>điều kiện khắc nghiệt.</i><br />\n<b>some</b> là đáp án đúng vì phía sau ta thấy danh từ số nhiều <b>conditions</b> nên ta chọn <b>some</b> thay vì <b>a</b> hay <b>an</b>.<br />\n<b>a</b> và <b>an</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f4862eab-1062-48a8-898b-3d38f82068f0"
+          },
+          "dapAn": "A. some",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4b28f56d-9008-4c2e-bda5-96b870903fa1"
+          },
+          "dapAn": "B. a",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0f506ab0-2e6b-4aea-988b-81a5ba02b8c9"
+          },
+          "dapAn": "C. an",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "8542d31e-e6c7-40c8-aca5-3b1bfc7d5c1a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They don’t always _______ with dolphins in warm waters!",
+      "yNghia": "<b>They don't always <span style=\"color:red\">work </span>with dolphins in warm waters!</b><br />\n<i>Không phải lúc nào họ cũng <span style=\"color:red\">làm việc </span>với cá heo ở vùng nước ấm!</i><br />\n<b>work</b> là đáp án đúng vì sau trợ động từ <b>don't</b>, động từ sẽ được giữ nguyên dạng.<br />\n<b>works</b> và <b>working</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "63ec4e8d-b48d-44ad-9fed-15ea7feae766"
+          },
+          "dapAn": "A. works",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a19bc034-4696-4ad8-bb3b-2be0769bb948"
+          },
+          "dapAn": "B. working",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "79f34483-d8fa-462d-8e79-870203a67552"
+          },
+          "dapAn": "C. work",
+          "isCorrect": true
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "5cd1b098-cb90-47d4-b552-226e73c3a793"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What qualifications do I need if I choose this career _______?",
+      "yNghia": "<b>What qualifications do I need if I </b><b>choose this career <span style=\"color:red\">path</span>?</b><br />\n<i>Tôi cần những bằng cấp gì nếu tôi chọn <span style=\"color:red\">con đường </span>sự nghiệp này?</i><br />\n<b>path</b> là đáp án đúng vì trước đó ta thấy từ chỉ định <b>this</b> nên danh từ theo sau sẽ phải ở dạng số ít.<br />\n<b>paths</b> và <b>a path</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a8b22df3-9052-48ea-8d97-c7709b376698"
+          },
+          "dapAn": "A. path",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8e3b4a31-50b9-4eb2-b88d-5c4da6ac952d"
+          },
+          "dapAn": "B. paths",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d17684e9-8d07-4913-8607-4de264cfaac6"
+          },
+          "dapAn": "C. a path",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "1b2cc14b-148e-4956-9484-a766c809ba1d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You’ll need a _______ in biology or marine biology, and then get a doctoral degree.",
+      "yNghia": "<b>You'll need a <span style=\"color:red\">degree </span>in biology or marine biology, and then get a doctoral degree.</b><br />\n<i>Bạn sẽ cần <span style=\"color:red\">bằng cấp </span>về sinh học hoặc sinh học biển, sau đó lấy bằng tiến sĩ.</i><br />\n<b>degree</b> là đáp án đúng vì trước đó ta thấy mạo từ \"<b>a</b>\" nên danh từ theo sau sẽ phải ở dạng số ít.<br />\n<b>degrees</b> và <b>the degree</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "50e31a1e-9537-48f5-be29-45954ce3a939"
+          },
+          "dapAn": "A. degrees",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "91d045c1-b47c-4b2b-8533-5baaa1fb0603"
+          },
+          "dapAn": "B. degree",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6797fba0-f368-4a67-b155-5b1407a4f5ae"
+          },
+          "dapAn": "C. the degree",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "9c172703-9249-4246-8e47-88588665b2dc"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Thank you. You also mention an unusual career. What _______ that?",
+      "yNghia": "<b>Thank you. You also mention an unusual career. What <span style=\"color:red\">is</span> that?</b><br />\n<i>Cảm ơn bạn. Bạn cũng đề cập đến một nghề nghiệp khác thường. Đó <span style=\"color:red\">là </span>nghề gì vậy?</i><br />\n<b>is</b> là đáp án đúng vì động từ to be <b>is</b> đi kèm với chủ ngữ số ít <b>that</b>.<br />\n<b>am</b> và <b>are</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5f648e4d-4c22-46ad-b8e9-36b408c013ea"
+          },
+          "dapAn": "A. is",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "173161c8-cf64-45fb-9ea1-74c8ae4835dd"
+          },
+          "dapAn": "B. are",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "37ccd121-c0f6-41c8-8688-a21b214b0822"
+          },
+          "dapAn": "C. am",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "84935999-852b-4de0-91b2-087f096f83e3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The second career I’d like to talk more about is a snake _______!",
+      "yNghia": "<b>The second career I'd like to talk more about is a snake <span style=\"color:red\">milker</span>!</b><br />\n<i>Nghề thứ hai mà tôi muốn nói nhiều hơn là <span style=\"color:red\">nghề nặn </span>nọc rắn!</i><br />\n<b>milker</b> là đáp án đúng vì trước đó ta thấy mạo từ \"<b>a</b>\" nên danh từ theo sau sẽ phải ở dạng số ít.<br />\n<b>milkers</b> và <b>the milkers</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d43782dc-1826-4326-9b59-f9c0dede662a"
+          },
+          "dapAn": "A. milkers",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ac8e4774-950d-4af2-88fb-a62ec39e48e5"
+          },
+          "dapAn": "B. the milkers",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0499a042-9d41-48b1-9887-87d9283f142d"
+          },
+          "dapAn": "C. milker",
+          "isCorrect": true
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "f80583c8-9963-4116-89cf-3118c84d064c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Stray animals can also carry diseases. They can _______ these diseases on to people or to domestic pets.",
+      "yNghia": "<b>Stray animals can also carry diseases. They can <span style=\"color:red\">pass </span>these diseases on to people or to domestic pets.</b><br />\n<i>Động vật hoang cũng có thể mang bệnh. Chúng có thể <span style=\"color:red\">truyền </span>những bệnh này cho người hoặc vật nuôi trong nhà.</i><br />\n<b>pass</b> là đáp án đúng vì sau <b>can</b> động từ sẽ ở dạng nguyên thể.<br />\n<b>passing</b> và <b>passes</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "106f0742-3bb0-4d3c-9494-c4e73b7ac914"
+          },
+          "dapAn": "A. pass",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8d5a7314-fa6e-4df3-9d05-c3a4f3ba94f0"
+          },
+          "dapAn": "B. passing",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "956ce060-2c77-4289-a2c8-b76899048173"
+          },
+          "dapAn": "C. passes",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "9abb262f-9b29-484e-9a8f-0a21bc5bf7f4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "But they have venom, the poison they use to kill the animal they eat. A snake milker takes venom from a _______.",
+      "yNghia": "<b>But they have venom, the poison they use to kill the animal they eat. A snake milker takes venom from a <span style=\"color:red\">snake</span>.</b><br />\n<i>Nhưng chúng có nọc độc, chất độc chúng dùng để giết con vật mà chúng ăn. Người nặn nọc rắn sẽ lấy nọc từ <span style=\"color:red\">con rắn</span>.</i><br />\n<b>snake</b> là đáp án đúng vì trước đó ta thấy mạo từ \"<b>a</b>\" nên danh từ theo sau sẽ phải ở dạng số ít.<br />\n<b>snaking</b> và <b>snakes</b> là đáp án sai vì ngữ nghĩa không phù hợp và ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3a85ef66-da84-4181-befe-428725d3510f"
+          },
+          "dapAn": "A. snaking",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bdd9c6ae-8dc3-44c6-ae44-8a8feefe8823"
+          },
+          "dapAn": "B. snake",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6f9c61ab-696d-44e5-9bb2-5ae53b50c0a4"
+          },
+          "dapAn": "C. snakes",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "16338e30-0a3a-470f-80c8-894218df315d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Oh, this job is very dangerous! I think snake milkers will need a lot of _______ training.",
+      "yNghia": "<b>Oh, this job is very dangerous! I think snake milkers will need a lot of <span style=\"color:red\">practical </span>training.</b><br />\n<i>Ôi nghề này nguy hiểm lắm! Tôi nghĩ những người nặn nọc rắn sẽ cần được đào tạo <span style=\"color:red\">thực tế</span> rất nhiều.</i><br />\n<b>practical</b> là đáp án đúng vì phía sau ta thấy là một danh từ <b>training</b> nên chỗ trống ta cần điền là một tính từ.<br />\n<b>practice</b> và <b>practices</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d7b93f66-bd67-4cd1-8832-e63322bdfe26"
+          },
+          "dapAn": "A. practices",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c4ba13eb-5aff-4e96-a73b-b0c3862fd2d7"
+          },
+          "dapAn": "B. practice",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a2f3f19b-f02e-43a2-91ce-7eb1fefe94ff"
+          },
+          "dapAn": "C. practical",
+          "isCorrect": true
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "67f61371-b035-4eb4-8013-ad972e252cfe"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Besides, they also _______ a degree in biology, chemistry, or biochemistry.",
+      "yNghia": "<b>Besides, they also <span style=\"color:red\">need </span>a degree in biology, chemistry, or biochemistry.</b><br />\n<i>Bên cạnh đó, họ cũng <span style=\"color:red\">cần có </span>bằng cấp về sinh học, hóa học hoặc hóa sinh.</i><br />\n<b>need</b> là đáp án đúng vì <b>they</b> là chủ ngữ ngôi thứ ba số nhiều nên động từ theo sau sẽ được giữ nguyên dạng.<br />\n<b>needs</b> và <b>needed</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f712685c-cd4e-4351-9cee-69d75f61d04f"
+          },
+          "dapAn": "A. need",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d8941821-3616-481e-8b36-1ff65963b2fe"
+          },
+          "dapAn": "B. needs",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "dc1e8b84-6b78-445f-80bc-652668ed6fd0"
+          },
+          "dapAn": "C. needed",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    },
+    {
+      "_id": {
+        "$oid": "8e7fb9e4-42fb-4cea-9503-0b5bcc66f17b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The World Health Organization estimates\nthat there are about 200 million stray _______ \nworldwide.",
+      "yNghia": "<b>The World Health Organization estimates that there are about 200 million stray <span style=\"color:red\">dogs </span>worldwide.</b><br />\n<i>Tổ chức Y tế Thế giới ước tính rằng có khoảng 200 triệu <span style=\"color:red\">con chó </span>hoang trên toàn thế giới.</i><br />\n<b>dogs</b> là đáp án đúng vì trước đó ta thấy cụm <b>200 million</b> <i>(200 triệu)</i> nên danh từ theo sau sẽ phải ở dạng số nhiều.<br />\n<b>dog</b> và <b>cat</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5e50feb7-c61a-436c-a8f1-bca80a61266b"
+          },
+          "dapAn": "A. dogs",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f5612cfc-e214-47fc-b33c-13dec2d4986f"
+          },
+          "dapAn": "B. dog",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2b7d150f-6c5b-4e60-b689-c4d1a6dcbd46"
+          },
+          "dapAn": "C. cat",
+          "isCorrect": false
+        }
+      ],
+      "lyThuyetDu": "<b>1. INDEFINITE ARTICLES </b><br />\n<i>MẠO TỪ KHÔNG XÁC ĐỊNH (A/AN)</i><br />\nCác trường hợp dùng <b>a/an</b>:<br />\n- Nói đến một vật chung chung, chưa xác định cụ thể.<br />\nVí dụ: <b>I want to buy a laptop.</b><br />\n<i>(Tôi muốn mua một chiếc máy tính xách tay.)</i><br />\n--&gt; <b>laptop</b> ở đây chưa xác định cụ thể là cái máy tính xách tay nào.<br />\n-<b> a</b> đứng trước các danh từ âm đầu tiên là một phụ âm.<br />\nVí dụ: <b>a book</b> /eɪ bʊk/<br />\n- <b>an</b> đứng trước các danh từ có âm đầu tiên là một nguyên âm.<br />\nVí dụ: <b>an apple</b> /æn ˈæpl/<br />\n<br />\n<b>2. DEFINITE ARTICLES </b><br />\n<i>MẠO TỪ XÁC ĐỊNH (THE)</i><br />\nCác trường hợp dùng <b>the</b>:<br />\n- Khi danh từ sau nó là thứ duy nhất, không có cái tương tự.<br />\nVí dụ: <b>the sun</b><i> (mặt trời)</i><br />\n- Khi danh từ đó đã được đề cập đến từ trước.<br />\nVí dụ: <b>Yesterday Linda bought a car. The car is red.</b><br />\n<i>(Hôm qua Linda đã mua một chiếc xe ô tô. Chiếc xe đó màu đỏ.)</i><br />\n--&gt; <b>car </b>trong câu thứ hai đã được đề cập đến ở câu trước.<br />\n<i>-</i> Trước tính từ để chỉ một nhóm người.<br />\nVí dụ: <b>the rich </b><i>(những người giàu)</i><br />\n<br />\n<b>3. NO ARTICLE </b><br />\n<i>KHÔNG DÙNG MẠO TỪ</i><br />\nCác trường hợp không dùng mạo từ:<br />\n- Sự việc, sự vật chung, có tính khái quát.<br />\nVí dụ:  <b>Water is good for you.</b><br />\n<i>(Nước tốt cho bạn.)</i>",
+      "lyThuyetGon": "Mạo từ bao gồm <b>a</b>, <b>an</b>, <b>the</b> đứng trước danh từ và cho biết danh từ ấy nói đến một đối tượng xác định hay không xác định. <b>A/An</b> đứng trước danh từ đếm được số ít, không xác định. <b>The</b> đứng trước danh từ xác định.<br />\nVí dụ:<br />\n<b>a book</b><i> (một quyển sách)</i><br />\n<b>an apple</b> <i>(một quả táo)</i><br />\n<b>the bicycle</b> <i>(chiếc xe đạp)</i>"
+    }
+  ]
+}

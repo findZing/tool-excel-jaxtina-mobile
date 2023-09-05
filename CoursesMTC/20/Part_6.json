@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "fd0adf89-791f-4833-a232-2534a3e84499"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Hi, would you like to <b>(1) ____ </b>our survey?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Garry:</b></td>\n                        <td>What is it about? I wouldn't say what I don't know.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>It's very straightforward and just about TV talent shows. First, what's your name?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Garry:</b></td>\n                        <td>Garry. I know quite a lot about <b>(2) ____ </b>TV show. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Garry. Thank you. How often do you watch TV talent shows?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Garry:</b></td>\n                        <td>Oh, I really love them. I watch them all the time.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>So, what's <b>(3) </b>____ of TV talent shows?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Garry:</b></td>\n                        <td>I think there are many <b>(4) </b>____ talent shows out there with lots of talented people.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Hi, would you like to <b>(1) </b><span style=\"color:red\"><b>participate in</b></span> <span style=\"color:red\"> </span> our survey?<br />\n                        <i>Xin chào, bạn có muốn </i><span style=\"color:red\"><i>tham gia vào </i></span> <i>cuộc khảo sát của chúng tôi không?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Garry:</b></td>\n                        <td>What is it about? I wouldn't say what I don't know.<br />\n                        <i>Nó là về cái gì vậy? Tôi sẽ không nói những gì tôi không biết.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>It's very straightforward and just about TV talent shows. First, what's your name?<br />\n                        <i>Nó rất đơn giản và chỉ nói về các chương trình tìm kiếm tài năng trên truyền hình thôi. Đầu tiên, tên của bạn là gì nhỉ?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Garry:</b></td>\n                        <td>Garry. I know quite a lot about <b>(2) </b><span style=\"color:red\"><b>this kind of</b></span> <span style=\"color:red\"> </span> TV show. <br />\n                        <i>Tôi là Garry. Tôi biết khá nhiều về </i><span style=\"color:red\"><i>loại </i></span> <i>chương trình truyền hình </i><span style=\"color:red\"><i>này</i></span> <i>.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Garry. Thank you. How often do you watch TV talent shows?<br />\n                        <i>Garry. Cảm ơn bạn. Bạn có thường xuyên xem các chương trình tìm kiếm tài năng trên TV không?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Garry:</b></td>\n                        <td>Oh, I really love them. I watch them all the time.<br />\n                        <i>Ồ, tôi thực sự yêu thích chúng. Tôi xem chúng mọi lúc.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>So, what's <b>(3) </b><span style=\"color:red\"><b>your opinion</b></span> <span style=\"color:red\"> </span> of TV talent shows?<br />\n                        <i>Vậy thì </i><span style=\"color:red\"><i>ý kiến ​​của bạn </i></span> <i>về các chương trình tìm kiếm tài năng trên TV là gì?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Garry:</b></td>\n                        <td>I think there are many <b>(4) </b><span style=\"color:red\"><b>great</b></span> <span style=\"color:red\"> </span> talent shows out there with lots of talented people.<br />\n                        <i>Tôi nghĩ rằng có rất nhiều chương trình tìm kiếm tài năng </i><span style=\"color:red\"><i>tuyệt vời </i></span> <i>với rất nhiều người tài năng.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "parrticipate in",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e42ad8ce-5613-42cf-8808-af40ae8ff975"
+          }
+        },
+        {
+          "dapAn": "this kind of ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "dac4baa9-52b4-43de-a5c7-2953fa64ff20"
+          }
+        },
+        {
+          "dapAn": "your opinion",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "bf7f19ca-bdb4-4cad-9d53-280f401e7aa8"
+          }
+        },
+        {
+          "dapAn": "great",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8ccae19e-1c89-47bd-8943-be294fdfdd08"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "58efae38-6a13-46c0-9083-add3ca274d44"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Garry:</b></td>\n                        <td>I like the show Dance Off <b>(1) </b>____. Actually, my sister was on that show.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Really? Can you tell more about your sister's journey in the show?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Garry:</b></td>\n                        <td>Yes, she <b>(2) </b>____ with a professional dancer and came in second place.</td>\n                </tr>\n                <tr>\n                        <td><b>Host:</b></td>\n                        <td>Do you think some talent shows feature people who aren't very talented?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Garry:</b></td>\n                        <td>Of course, but that's OK. I think it's <b>(3) </b>____ to hear what the judges say.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>But some people do not take it very well. They have some awful comments.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Garry:</b></td>\n                        <td>Yes, they have a <b>(4) </b>____. It's very hard to control this problem.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Garry:</b></td>\n                        <td>I like the show Dance Off <b>(1)</b> <span style=\"color:red\"><b>the best</b></span> . Actually, my sister was on that show.<br />\n                        <i>Tôi thích chương trình Dance Off </i><span style=\"color:red\"><i>nhất</i></span> <i>. Thực ra, em gái tôi đã tham gia chương trình đó.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Really? Can you tell more about your sister's journey in the show?<br />\n                        <i>Thật vậy không? Bạn có thể kể thêm về hành trình của em gái mình trong chương trình đó không?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Garry:</b></td>\n                        <td>Yes, she <b>(2) </b><span style=\"color:red\"><b>danced</b></span> <span style=\"color:red\"> </span> with a professional dancer and came in second place.<br />\n                        <i>Được, em ấy </i><span style=\"color:red\"><i>đã nhảy </i></span> <i>với một vũ công chuyên nghiệp và xếp hạng ở vị trí thứ hai.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>Do you think some talent shows feature people who aren't very talented?<br />\n                        <i>Bạn có nghĩ rằng một số chương trình tìm kiếm tài năng có những người không tài năng lắm không?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Garry:</b></td>\n                        <td>Of course, but that's OK. I think it's <b>(3)</b> <span style=\"color:red\"><b>interesting</b></span> <span style=\"color:red\"> </span> to hear what the judges say.<br />\n                        <i>Tất nhiên, nhưng điều đó không sao cả. Tôi nghĩ thật </i><span style=\"color:red\"><i>thú vị </i></span> <i>khi nghe những gì ban giám khảo nói.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Host:</b></td>\n                        <td>But some people do not take it very well. They have some awful comments.<br />\n                        <i>Nhưng một số người không chấp nhận điều đó cho lắm. Họ có một số bình luận khủng khiếp.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Garry:</b></td>\n                        <td>Yes, they have a <b>(4) </b><span style=\"color:red\"><b>bad attitude</b></span> . It's very hard to control this problem.<br />\n                        <i>Đúng vậy, họ có một </i><span style=\"color:red\"><i>thái độ rất xấu</i></span> <i>. Rất khó để kiểm soát vấn đề này.</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "the best",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "30c8504f-86ac-4cc4-affc-01d0d4d8d105"
+          }
+        },
+        {
+          "dapAn": "danced ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "9fb30fb1-473b-434a-bc7d-9c538576e0cb"
+          }
+        },
+        {
+          "dapAn": "interesting ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "773a0c63-7099-47c1-b6c1-9860399c8377"
+          }
+        },
+        {
+          "dapAn": "bad attitude",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "66818c65-bec5-4656-8ea4-1bb3cb517854"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5029750d-3c8e-4ca1-82d2-a0ba81b12501"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I work as a <b>(1) </b>____. I travel around the country to different events so that I can <b>(2) </b>____ sports people. I feel like I have an exciting job, especially today, because I'm on my way to Barcelona to interview a famous <b>(3) </b>____. My job is to speak to sports people before and after they have competed so that the fans can <b>(4) </b>____ their opinions. I love it, but it can be a hard job, because I am away from home a lot.",
+      "yNghia": "I work as a <b>(1) </b><span style=\"color:red\"><b>sports journalist</b></span> . I travel around the country to different events so that I can <b>(2) </b><span style=\"color:red\"><b>interview</b></span> <span style=\"color:red\"> </span> sports people. I feel like I have an exciting job, especially today, because I'm on my way to Barcelona to interview a famous <b>(3) </b><span style=\"color:red\"><b>soccer player</b></span> . My job is to speak to sports people before and after they have competed so that the fans can <b>(4) </b><span style=\"color:red\"><b>hear</b></span> <span style=\"color:red\"> </span> their opinions. I love it, but it can be a hard job, because I am away from home a lot.<br />\n<i>Tôi là một </i><span style=\"color:red\"><i>nhà báo thể thao</i></span> <i>. Tôi đi khắp đất nước tới các sự kiện khác nhau để có thể </i><span style=\"color:red\"><i>phỏng vấn </i></span> <i>những người chơi thể thao. Tôi cảm thấy mình có một công việc thật thú vị, đặc biệt là hôm nay, vì tôi đang trên đường đến Barcelona để phỏng vấn một </i><span style=\"color:red\"><i>cầu thủ bóng đá </i></span> <i>nổi tiếng. Công việc của tôi là nói chuyện với những người chơi thể thao trước và sau khi họ thi đấu, để người hâm mộ có thể </i><span style=\"color:red\"><i>nghe </i></span> <i>ý kiến của họ. Tôi thích công việc đó, nhưng nó có thể là một công việc khó khăn, bởi vì tôi xa nhà rất nhiều.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "sports journalist ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "89d5a3ef-9bdb-4629-8734-5f2239d7038f"
+          }
+        },
+        {
+          "dapAn": "interview",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "dbb1c6b8-8414-4d99-8d3a-8d9295545346"
+          }
+        },
+        {
+          "dapAn": "soccer player",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "291f8db9-1ebe-491c-a18a-0a4d06e71f8b"
+          }
+        },
+        {
+          "dapAn": "hear",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "660a1947-1524-4920-87f9-a1d8775de104"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "a518f268-2685-4fc7-ac10-288b5ec4452c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I've been reading about this subject a lot, and a study I recently read goes against what I've always <b>(1) </b>____. I used to think that hard work was <b>(2) </b>____ than talent. If you think about it, that's what people <b>(3) </b>____ believe. When we believe that, it gives us <b>(4) </b>____ that if we work hard, we can be anything.",
+      "yNghia": "I've been reading about this subject a lot, and a study I recently read goes against what I've always <b>(1) </b><span style=\"color:red\"><b>believed</b></span> . I used to think that hard work was <b>(2) </b><span style=\"color:red\"><b>better</b></span> <span style=\"color:red\"> </span> than talent. If you think about it, that's what people <b>(3) </b><span style=\"color:red\"><b>want to</b></span> <span style=\"color:red\"> </span> believe. When we believe that, it gives us <b>(4) </b><span style=\"color:red\"><b>hope</b></span> <span style=\"color:red\"> </span> that if we work hard, we can be anything.<br />\n<i>Tôi đã đọc rất nhiều về chủ đề này, và một nghiên cứu mà tôi đọc gần đây đi ngược lại với những gì tôi luôn </i><span style=\"color:red\"><i>tin tưởng</i></span> <i>. Tôi đã từng nghĩ rằng làm việc chăm chỉ </i><span style=\"color:red\"><i>tốt hơn </i></span> <i>tài năng. Nếu bạn nghĩ về điều đó, nó là những gì mọi người </i><span style=\"color:red\"><i>muốn </i></span> <i>tin. Khi chúng ta tin vào điều đó, chúng ta </i><span style=\"color:red\"><i>hy vọng</i></span> <i> rằng nếu chúng ta làm việc chăm chỉ, chúng ta có thể trở thành bất cứ thứ gì.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "believed",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c8a5b125-71d1-4200-8978-258130cf03cc"
+          }
+        },
+        {
+          "dapAn": "better",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e396f46c-8b0b-4d9b-bd49-7f81ffe377d2"
+          }
+        },
+        {
+          "dapAn": "want to",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "875c2003-a86a-444c-850c-edb7f0b5c6d2"
+          }
+        },
+        {
+          "dapAn": "hope",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "84dff173-f7e0-46be-a982-6c0ad03065bb"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7135e14c-51cb-451e-b257-fe21f0e4a931"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Well, the study I read on talent versus hard work, by Kell, Lubinski, and Benbow, followed more than 2,000 people <b>(1) </b>____ scored very highly on a college entrance exam. These people <b>(2) </b>____ two groups: those that scored better than 99.1% of all test takers, and those that <b>(3) </b>____ better than 99.9%. As the researchers followed these students through life, the 99.9% group were <b>(4) </b>____ times more likely to earn a doctorate degree, publish literary work, or secure a patent for an invention.",
+      "yNghia": "Well, the study I read on talent versus hard work, by Kell, Lubinski, and Benbow, followed more than 2,000 people <b>(1) </b><span style=\"color:red\"><b>who</b></span> <span style=\"color:red\"> </span> scored very highly on a college entrance exam. These people <b>(2) </b><span style=\"color:red\"><b>fell into</b></span> <span style=\"color:red\"> </span> two groups: those that <b>(3) </b><span style=\"color:red\"><b>scored</b></span> <span style=\"color:red\"> </span> better than 99.1% of all test takers, and those that scored better than 99.9%. As the researchers followed these students through life, the 99.9% group were <b>(4)</b> <span style=\"color:red\"><b>three to five</b></span> <span style=\"color:red\"> </span> times more likely to earn a doctorate degree, publish literary work, or secure a patent for an invention. <br />\n<i>Chà, nghiên cứu mà tôi đã đọc về tài năng so với sự chăm chỉ, của Kell, Lubinski và Benbow, đã theo dõi hơn 2.000 </i><span style=\"color:red\"><i>người </i></span> <i>đạt điểm rất cao trong kỳ thi tuyển sinh đại học. Những người này </i><span style=\"color:red\"><i>chia thành </i></span> <i>hai nhóm: những người </i><span style=\"color:red\"><i>đạt </i></span> <i>điểm cao hơn 99,1% trong số tất cả những người tham gia bài kiểm tra và những người đạt điểm cao hơn 99,9%. Khi các nhà nghiên cứu theo dõi những sinh viên này trong suốt cuộc đời, nhóm 99,9% có khả năng kiếm được bằng tiến sĩ, xuất bản tác phẩm văn học hoặc có được bằng sáng chế cho một phát minh cao gấp </i><span style=\"color:red\"><i>ba đến năm</i></span> <i> lần.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "who ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "84a154c7-96d9-4cc4-bc17-1f525ad73f7c"
+          }
+        },
+        {
+          "dapAn": "fell into",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "336f40ad-5059-47a4-9809-f3638d3a471d"
+          }
+        },
+        {
+          "dapAn": "scored",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "a759af7c-7d09-4dc9-9f14-2dbc4fe0ba43"
+          }
+        },
+        {
+          "dapAn": "three to five",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "01bbfcbd-f93b-401f-87f2-cca8b61e47ee"
+          }
+        }
+      ]
+    }
+  ]
+}

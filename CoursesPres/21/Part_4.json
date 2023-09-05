@@ -1,0 +1,209 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "Grammar",
+  "videoUrl": "4SKILLS_PRE_S_L21/grammar.mp4",
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:07:43",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P7",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "You ______ <b><span style=\"color:blue\">(not / have)</span></b> brown hair. Your hair is blond.",
+            "_id": {
+              "$oid": "e7c00335-8865-4a16-9bed-38ffce5ef19f"
+            },
+            "yNghia": "don't have // do not have"
+          },
+          {
+            "cauHoi": "She ______ <b><span style=\"color:blue\">(have)</span></b> a big nose.",
+            "_id": {
+              "$oid": "a270a1ee-d9a4-4b1a-b407-4934be01851d"
+            },
+            "yNghia": "has"
+          },
+          {
+            "cauHoi": "I ______ <b><span style=\"color:blue\">(have)</span></b> big ears and a big mouth.",
+            "_id": {
+              "$oid": "8c38de86-94ef-4f4a-918d-cf16b0247512"
+            },
+            "yNghia": "have"
+          },
+          {
+            "cauHoi": "We ______ <b><span style=\"color:blue\">(not / have)</span></b> big eyes. We have small eyes.",
+            "_id": {
+              "$oid": "4fddeecb-a72e-4494-817a-0e84195965d5"
+            },
+            "yNghia": "don't have // do not have"
+          },
+          {
+            "cauHoi": "She ______ <b><span style=\"color:blue\">(have)</span></b> dark hair and brown eyes.",
+            "_id": {
+              "$oid": "bebbd1c6-1531-4cf2-a6a0-96bb6e649e6a"
+            },
+            "yNghia": "has"
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:07:43",
+      "timeEnd": "0:07:51",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "c2b408ea-1389-40c5-a32e-de7a4ccd989d",
+                "dapAn": "She"
+              },
+              {
+                "_id": "6c27388d-3a31-4779-9d8f-ebdab24db58e",
+                "dapAn": "doesn't"
+              },
+              {
+                "_id": "cbabc8fd-a765-4e1d-9e7d-9d8931646f3d",
+                "dapAn": "have"
+              },
+              {
+                "_id": "3553607b-32ff-4eae-8646-0ba01afa18d3",
+                "dapAn": "dark"
+              },
+              {
+                "_id": "79f612e8-3bce-4b44-85b8-8ef6b77cbb53",
+                "dapAn": "hair."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "b74b21c9-d31a-47b8-b911-f1759cfc8a42",
+                "dapAn": "The"
+              },
+              {
+                "_id": "08e4ee93-5fbc-4a42-8392-5f07a98e3552",
+                "dapAn": "brothers"
+              },
+              {
+                "_id": "9cfb98b1-55f2-414d-894e-ba00aaa16bf9",
+                "dapAn": "have brown"
+              },
+              {
+                "_id": "0bd1429d-d8c9-4687-8558-cbe838843d73",
+                "dapAn": "hair and"
+              },
+              {
+                "_id": "0a61df8a-5e16-4e2d-85e4-a19365b5c6ce",
+                "dapAn": "blue eyes."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "5c6342da-32ef-4ce2-897a-92a3937b0587",
+                "dapAn": "She is"
+              },
+              {
+                "_id": "362c8c27-ae79-40cb-9080-fe3bdf13e3b9",
+                "dapAn": "short and"
+              },
+              {
+                "_id": "f694bfc5-2c7c-4649-bc79-2da8774beb47",
+                "dapAn": "slim."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "104d4c90-084f-4fff-8c65-b2748b0eea82",
+                "dapAn": "He has"
+              },
+              {
+                "_id": "68bd73ff-c4c6-4177-af3c-d385367f442e",
+                "dapAn": "blond"
+              },
+              {
+                "_id": "7a39c4c8-468a-4a8e-87b4-943bf8ffe2a6",
+                "dapAn": "hair and"
+              },
+              {
+                "_id": "bc481fde-4738-4eaf-905f-98877f2cb756",
+                "dapAn": "green"
+              },
+              {
+                "_id": "30d8ff33-11c2-4938-9e28-ce8da38b8b19",
+                "dapAn": "eyes."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "f46a8b8e-bcac-408a-a157-e97c2cf5b26c",
+                "dapAn": "My"
+              },
+              {
+                "_id": "fe6e9433-11ea-4eec-b8ef-54e8ce9d0719",
+                "dapAn": "parents"
+              },
+              {
+                "_id": "220ca595-a42a-40cd-b7c6-600d30da7f34",
+                "dapAn": "are tall"
+              },
+              {
+                "_id": "a96bed9a-2f1d-4b82-9c64-ef7a34abda8a",
+                "dapAn": "and heavy."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "de879bea-829d-447b-95d7-47c4bbf8b863",
+                "dapAn": "They"
+              },
+              {
+                "_id": "91dbe110-cca0-405f-b89b-64fb0aeeeb59",
+                "dapAn": "don't have"
+              },
+              {
+                "_id": "f1ab0f5d-e533-4bc8-b316-8a8749e23d35",
+                "dapAn": "blue"
+              },
+              {
+                "_id": "fa1189bf-3376-4c9e-8ced-d2e49d06d86c",
+                "dapAn": "eyes."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "noiDungVideo": [
+    {
+      "timeEnd": "0:07:43",
+      "noiDung": "<b><span style=\"color:red\">Have / Has, Don't have / Doesn't have</span> </b><br />\n<b>Function <i>(Cách dùng)</i></b><br />\nChúng ta sử dụng cấu trúc <i>have</i> để nói về hình dáng của một ai đó, hoặc nói về một đồ vật, sự vật mà một ai đó sở hữu.<br />\n<br />\n<b>Form <i>(Cấu trúc)</i></b><br />\n \n<table>\n        <tbody>\n                <tr>\n                        <td colspan=\"3\"><b>Affirmative <i>(Khẳng định)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>Pronoun</b><br />\n                        <b><i>(Đại từ nhân xưng)</i></b></td>\n                        <td><b><i>have</i></b></td>\n                        <td><b>(Adjective +) Noun</b><br />\n                        <b><i>(Tính từ +) Danh từ</i></b></td>\n                </tr>\n                <tr>\n                        <td>I / You / We / They</td>\n                        <td><b>have</b></td>\n                        <td>brown eyes.</td>\n                </tr>\n                <tr>\n                        <td>He / She</td>\n                        <td><b>has</b></td>\n                        <td>a big nose.</td>\n                </tr>\n        </tbody>\n</table>\n \n\n<table>\n        <tbody>\n                <tr>\n                        <td colspan=\"4\"><b>Negative <i>(Phủ định)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>Pronoun</b><br />\n                        <b><i>(Đại từ nhân xưng)</i></b></td>\n                        <td><b><i>don't / doesn't</i></b></td>\n                        <td><b><i>have</i></b></td>\n                        <td><b>(Adjective +) Noun</b><br />\n                        <b><i>(Tính từ +) Danh từ</i></b></td>\n                </tr>\n                <tr>\n                        <td>I / You / We / They</td>\n                        <td><b>don't</b></td>\n                        <td rowspan=\"2\"><b>have</b></td>\n                        <td>brown eyes.</td>\n                </tr>\n                <tr>\n                        <td>He / She</td>\n                        <td><b>doesn't</b></td>\n                        <td>a big nose.</td>\n                </tr>\n        </tbody>\n</table>"
+    },
+    {
+      "timeEnd": "0:07:51",
+      "noiDung": "<b><span style=\"color:red\">Have / Has, Don't have / Doesn't have</span> </b><br />\n<b>Function <i>(Cách dùng)</i></b><br />\nChúng ta sử dụng cấu trúc <i>have</i> để nói về hình dáng của một ai đó, hoặc nói về một đồ vật, sự vật mà một ai đó sở hữu.<br />\n<br />\n<b>Form <i>(Cấu trúc)</i></b><br />\n \n<table>\n        <tbody>\n                <tr>\n                        <td colspan=\"3\"><b>Affirmative <i>(Khẳng định)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>Pronoun</b><br />\n                        <b><i>(Đại từ nhân xưng)</i></b></td>\n                        <td><b><i>have</i></b></td>\n                        <td><b>(Adjective +) Noun</b><br />\n                        <b><i>(Tính từ +) Danh từ</i></b></td>\n                </tr>\n                <tr>\n                        <td>I / You / We / They</td>\n                        <td><b>have</b></td>\n                        <td>brown eyes.</td>\n                </tr>\n                <tr>\n                        <td>He / She</td>\n                        <td><b>has</b></td>\n                        <td>a big nose.</td>\n                </tr>\n        </tbody>\n</table>\n \n\n<table>\n        <tbody>\n                <tr>\n                        <td colspan=\"4\"><b>Negative <i>(Phủ định)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>Pronoun</b><br />\n                        <b><i>(Đại từ nhân xưng)</i></b></td>\n                        <td><b><i>don't / doesn't</i></b></td>\n                        <td><b><i>have</i></b></td>\n                        <td><b>(Adjective +) Noun</b><br />\n                        <b><i>(Tính từ +) Danh từ</i></b></td>\n                </tr>\n                <tr>\n                        <td>I / You / We / They</td>\n                        <td><b>don't</b></td>\n                        <td rowspan=\"2\"><b>have</b></td>\n                        <td>brown eyes.</td>\n                </tr>\n                <tr>\n                        <td>He / She</td>\n                        <td><b>doesn't</b></td>\n                        <td>a big nose.</td>\n                </tr>\n        </tbody>\n</table>"
+    }
+  ]
+}

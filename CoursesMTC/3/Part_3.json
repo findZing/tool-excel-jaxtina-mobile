@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0_1",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "d976ba3f-8a58-4a92-991e-b14ec1ec4438"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Breeder",
+      "yNghia": "Người chăn nuôi, người gây giống",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "8f12b536-2140-4187-9c63-b4a106323189"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Surgery",
+      "yNghia": "Phẫu thuật",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2d643f78-670a-4489-a9a7-4174417b686c"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Vet",
+      "yNghia": "Bác sĩ thú y",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "bf1444d9-0835-454d-b5be-82978e38c465"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Veterinarian",
+      "yNghia": "Bác sĩ thú y",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c71c6d6f-f27e-489f-b3b6-72b6317912e3"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Zoologist",
+      "yNghia": "Nhà động vật học",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1c31e3b7-7a6b-4449-812a-4645a81919bc"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Porcupine",
+      "yNghia": "Nhím",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e66dda4e-fd3e-4fd4-b7a6-67553e1f711d"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Quill",
+      "yNghia": "Lông nhím",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "480c7594-da57-491e-92b0-472a053106d8"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Puma",
+      "yNghia": "Báo sư tử",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "1a1b7a33-e594-4d07-b1de-f37606c099a7"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Jungle",
+      "yNghia": "Rừng nhiệt đới",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a28d0e87-f6da-4a7a-82b1-42a5287272df"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Dog handler",
+      "yNghia": "Người chăm sóc chó",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4bef481b-34e3-408d-ba05-7fdc5efbae5b"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Marine biologist",
+      "yNghia": "Nhà sinh học biển",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "18da3589-2302-4c37-854a-267e811a7fad"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Horse trainer",
+      "yNghia": "Người huấn luyện ngựa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "9b40359e-9e8c-48af-baa9-06956b7c53ad"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Snake milker",
+      "yNghia": "Người nặn nọc rắn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e967b986-ccb0-4485-b325-d95f47669308"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Polar bear",
+      "yNghia": "Gấu trắng Bắc Cực",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "e8ed4192-e205-4950-ab6d-1a93b61542bd"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Snake venom",
+      "yNghia": "Nọc rắn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a2d525d5-0845-4530-b8af-fc3ae4393076"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Land animal",
+      "yNghia": "Động vật trên cạn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d9d0d0b9-a872-4b34-b3e5-dfa00515363a"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Marine animal",
+      "yNghia": "Động vật dưới nước",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "dcf1e7ea-49fe-4913-8ede-26a8ae2ae7d2"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Practical training",
+      "yNghia": "Đào tạo thực tế",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c69003ba-4b5a-4eac-909f-2207d5e025c4"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Biochemistry",
+      "yNghia": "Hóa sinh",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "56ff795e-997c-4c38-bb02-d4e62e4bba07"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Doctoral degree",
+      "yNghia": "Bằng tiến sĩ",
+      "danhSachDapAn": []
+    }
+  ]
+}

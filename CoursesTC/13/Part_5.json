@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "cc565eca-a206-43a8-81bc-4f08fa2a8eca"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Mary, congratulations on your new ______! Have you started working yet?",
+      "yNghia": "Mary, congratulations on your new <span style=\"color:red\">job</span>! Have you started working yet?<br />\n<i>Mary, chúc mừng </span></i><i><span style=\"color:red\">công việc </span></i><i>mới của bạn! Bạn đã bắt đầu làm việc chưa?</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1e3bc90a-a1c9-4b74-86b4-5f7db6f72aa3"
+          },
+          "dapAn": "car",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "20736e4a-b6b6-4406-bf05-aff6b86224ce"
+          },
+          "dapAn": "apartment",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "369d603b-d85a-40a6-b96e-67daf262f9e0"
+          },
+          "dapAn": "job",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_1. Mary ... yet.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_1. Mary ... yet.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1fc72936-71d7-4403-b457-307ae75f6714"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "No, I haven’t. I have to ________ my training.",
+      "yNghia": "No, I haven't. I have to finish my training.<br />\n<i>Tôi chưa. Tôi phải hoàn thành </span></i><i><span style=\"color:red\">khóa đào tạo </span></i><i>của mình.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9868624a-31b4-4fcd-9d1f-a4a8e77c7034"
+          },
+          "dapAn": "finish",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8b598806-4df4-46c7-bb4f-ec03cf2bfebd"
+          },
+          "dapAn": "start",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fe55c08a-03c4-4360-8cf5-492581b1cd99"
+          },
+          "dapAn": "practice",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_2. No ... training.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_2. No ... training.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "92c93687-044e-4f5c-bc59-d988107fb46d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My manager informed me that it might be ______ weeks.",
+      "yNghia": "My manager informed me that it might be <span style=\"color:red\">three</span> weeks.<br />\n<i>Người quản lý của tôi đã thông báo rằng có thể là </span></i><i><span style=\"color:red\">ba</span></i><i> tuần.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e90f560d-c0b7-4dec-bae4-dfcec3fa097a"
+          },
+          "dapAn": "three",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "266dec13-6ac4-43e4-9325-9cd37b2fc136"
+          },
+          "dapAn": "two",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "10b5fe92-aa36-41fb-acb7-2fb117988380"
+          },
+          "dapAn": "five",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_3. My ... weeks.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_3. My ... weeks.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "91a5f606-a6e7-4648-bccc-08b69fe938a6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My training was only one ______ when I began my job.",
+      "yNghia": "My training was only one <span style=\"color:red\">week</span> when I began my job.  <br />\n<i>Quá trình đào tạo của tôi chỉ diễn ra trong 1 tuần khi tôi bắt đầu công việc của mình.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "04e350d9-bea1-4a91-a641-e3c4f48334b7"
+          },
+          "dapAn": "day",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "60528daa-85da-42a2-a792-7c10bd8972c7"
+          },
+          "dapAn": "week",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "04687415-f692-4dfe-adb0-8674cb48061b"
+          },
+          "dapAn": "month",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_4. My ... job.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_4. My ... job.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5eae7199-399c-4229-a328-d58b1ca5e0f3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Have you already got some _____________?",
+      "yNghia": "Have you already got some <span style=\"color:red\">qualifications</span>?<br />\n<i>Bạn đã có </span></i><i><span style=\"color:red\">bằng cấp</span></i><i> gì chưa?</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "14cf5ed1-cd25-44a8-a854-2ce47637ce4d"
+          },
+          "dapAn": "skills",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "62137b45-fbbd-464f-82a3-435a42e34cbe"
+          },
+          "dapAn": "knowledge",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "17f83c13-a12c-4bc7-a868-405a28477015"
+          },
+          "dapAn": "qualifications",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_5. Have ... qualifications.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_5. Have ... qualifications.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "86420e45-6102-4b85-829f-18caa1d44481"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’ve just had my __________ degree since last month.",
+      "yNghia": "I've just had my <span style=\"color:red\">college</span> degree since last month.<br />\n<i>Tôi vừa có bằng </span></i><i><span style=\"color:red\">đại học </span></i><i>từ tháng trước</span></i>. </span>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b3017a8b-b163-48ce-b454-35dbc9605c36"
+          },
+          "dapAn": "college",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5cea50b3-8dca-46c1-a375-4e05a68d5295"
+          },
+          "dapAn": "language",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "da61f23e-34dc-4852-9a5e-66f9b51cd5b7"
+          },
+          "dapAn": "English",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_6. I_ve ... month.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_6. I_ve ... month.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "bdcb06da-fdb5-491a-86ff-e984a8ccc228"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "However, I haven’t had an English ______________.",
+      "yNghia": "However, I haven't had an English <span style=\"color:red\">certificate</span>.<br />\n<i>Tuy nhiên, tôi chưa có </span></i><i><span style=\"color:red\">chứng chỉ </span></i><i>tiếng Anh</span></i>.</span>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9ec5e47e-3775-4f25-ac7c-3eb52758d3fa"
+          },
+          "dapAn": "certificate",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fc5bd989-ef70-4122-aadc-e67282704387"
+          },
+          "dapAn": "degree",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6c142324-c226-47e2-b5a9-b796279db5c3"
+          },
+          "dapAn": "award",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_7.However ... certificate.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_7.However ... certificate.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f7469636-de6a-4861-9bab-b1fa5c3a6144"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Don’t worry! You are at entry-_________.",
+      "yNghia": "Don't worry!<b> </b>You are at entry-<span style=\"color:red\">level.</span><br />\r\n<i>Đừng lo! Bạn đang ở </span></i><i><span style=\"color:red\">trình độ </span></i><i>đầu vào.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d3468946-04e3-4315-a97d-6ffa1ebdc278"
+          },
+          "dapAn": "level",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "abc61d96-6754-4d37-91d4-adf7add05cfc"
+          },
+          "dapAn": "skill",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e2c7cee7-9411-47c4-aac2-038e39921148"
+          },
+          "dapAn": "degree",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_8. Don_t ... level.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_8. Don_t ... level.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "cdf88c3c-780b-4999-ad13-af5cd23fcf43"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You have time to learn and _________ yourself.",
+      "yNghia": "You have time to learn and <span style=\"color:red\">develop</span> yourself. <br />\r\n<i>Bạn có thời gian để học hỏi và </span></i><i><span style=\"color:red\">phát triển </span></i><i>bản thân.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "488adefc-f9db-4fd8-a63c-603cc6393aa6"
+          },
+          "dapAn": "take care of",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "29a068be-77b2-4572-b994-c1e154820251"
+          },
+          "dapAn": "train",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1de1a4e7-932a-4261-8c96-19c8805aef97"
+          },
+          "dapAn": "develop",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_9. You ... yourself.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_9. You ... yourself.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5b046c2e-59ad-43fa-82c6-6a2b356e5f19"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "English is very important for your career _________ in the economic area.",
+      "yNghia": "English is very important for your career <span style=\"color:red\">path</span> in the economic area.<br />\r\n<i>Tiếng Anh rất quan trọng cho </span></i><i><span style=\"color:red\">con đường </span></i><i>sự nghiệp của bạn trong lĩnh vực kinh tế</span></i>.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f577f9b1-2e20-4027-864f-d41f2677e408"
+          },
+          "dapAn": "opportunities",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d71ed640-052c-467c-b2c0-9078ebfac9e3"
+          },
+          "dapAn": "path",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a72fcea9-6384-46de-891a-14a43a187a6c"
+          },
+          "dapAn": "future",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_10. English ... area.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_10. English ... area.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5ea430f8-5ad7-4f18-8db0-a2d7e9b20429"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I know but I don’t have much ______________ to study English.",
+      "yNghia": "I know but I don't have much <span style=\"color:red\">motivation </span>to study English.<br />\r\n<i>Tôi biết nhưng tôi không có nhiều </span></i><i><span style=\"color:red\">động lực </span></i><i>để học tiếng Anh.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "32f90014-9f27-4f92-8242-fe0907b70e23"
+          },
+          "dapAn": "motivation",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f6e459e2-a3ad-422f-9f22-b9652bdb4e49"
+          },
+          "dapAn": "inspiration",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fb7c028a-02e5-401a-9777-d8bcc83f750c"
+          },
+          "dapAn": "time",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_11. I ... english.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_11. I ... english.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "13b23ad9-12ce-4dab-8d17-3ab628771e63"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Both English and your job need ______________ practice.",
+      "yNghia": "Both English and your job need <span style=\"color:red\">frequent </span>practice.<br />\n<i>Cả tiếng Anh và công việc của bạn đều cần luyện tập </span></i><i><span style=\"color:red\">thường xuyên</span></i>.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5c117557-778c-4c06-9126-ab6020ffaf66"
+          },
+          "dapAn": "a lot of",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "778bace0-9aef-4d95-b678-d6e33209d359"
+          },
+          "dapAn": "some",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c44c799d-79dc-42b5-9fc6-db97079b4b97"
+          },
+          "dapAn": "frequent",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_12. Both ... practice.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_12. Both ... practice.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "014db362-04c4-4595-9532-a0edb050d08f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "If I have an English certificate, I will get a _________.",
+      "yNghia": "If I have an English <span style=\"color:red\">certificate</span>, I will get a raise. <br />\r\n<i>Nếu tôi có </span></i><i><span style=\"color:red\">chứng chỉ </span></i><i>tiếng Anh, tôi sẽ được tăng lương.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b64c4ff2-2f50-4a09-9ee9-224222424c2f"
+          },
+          "dapAn": "raise",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b326605e-3dfa-470f-bc81-b450d604729d"
+          },
+          "dapAn": "job",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fdc0cbfa-a66e-436e-8c39-817005819fe6"
+          },
+          "dapAn": "chance",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_13. If ... raise.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_13. If ... raise.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c6e5039b-3a1e-44e5-b133-327d7599073b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’m going to have a test on customer ___________.",
+      "yNghia": "I'm going to have a test on customer <span style=\"color:red\">communication</span>.<br />\r\n<i>Tôi sắp có một bài kiểm tra về giao tiếp với khách hàng.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1ff56f4b-ff96-4b97-98c8-4c4a659e8f7e"
+          },
+          "dapAn": "service",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "46a86cdf-658c-4411-b20f-e2e4436b101b"
+          },
+          "dapAn": "communication",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "634bafac-7e62-418c-a479-6b1f61b9e7bf"
+          },
+          "dapAn": "care",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_14. I_m ... communication.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_14. I_m ... communication.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a710c413-37e6-458b-9b4e-c9df2bc89696"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You can try calling a company’s ___________, asking for information and noting how they reply.",
+      "yNghia": "You can try calling a company's <span style=\"color:red\">hotline</span>, asking for information and noting how they reply.<br />\r\n<i>Bạn có thể thử gọi đến </span></i><i><span style=\"color:red\">đường dây nóng </span></i><i>của công ty, hỏi thông tin và để ý cách họ trả lời.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ae10035b-727d-4599-a4f0-90a4e70718c5"
+          },
+          "dapAn": "hotline",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "92446fc5-1509-4f68-9abd-aaeeb032b92e"
+          },
+          "dapAn": "phone",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9c74fcbe-6d34-4495-8b6b-1c8ef3039e35"
+          },
+          "dapAn": "director",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_15. You ... reply.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_15. You ... reply.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1099a3cc-1f81-451e-8aa5-390e0a34e42b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I have been in business for ___________ years now.",
+      "yNghia": "I have been in business for <span style=\"color:red\">five </span>years now<br />\r\n<i>Tôi ở trong nghề tới nay được <span style=\"color:red\">năm </span>năm rồi. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "92d1ef0c-6c2a-41a3-989f-69523fb16231"
+          },
+          "dapAn": "four",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b823a038-987a-45a9-ad1b-e90bc9e5f5cb"
+          },
+          "dapAn": "ten",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5a03c75f-e84a-4909-9eea-5f4aed91547b"
+          },
+          "dapAn": "five",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_16. I ... now.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_16. I ... now.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "934649ba-ae0d-47ad-b29b-1ca9919cd145"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "When I started, I hired one employee. I made the ice cream and she _________ the customers.",
+      "yNghia": "When I started, I hired one employee. I made the ice cream and she <span style=\"color:red\">serves</span> the customers.<br />\r\n<i>Khi tôi bắt đầu, tôi đã thuê một nhân viên. Tôi làm kem và cô ấy phục vụ khách hàng.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b13f9a22-21d9-4270-8a8f-64a90228b994"
+          },
+          "dapAn": "takes care of",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "354f5585-1a0a-427e-962f-0f9256974bed"
+          },
+          "dapAn": "serves",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "32239659-f3d7-49ea-b90d-38c1c606168f"
+          },
+          "dapAn": "gives",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_17. When ... customers.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_17. When ... customers.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e19a0118-786a-46c1-a538-f51b91920c45"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’m interviewing Carmen Vega, a very successful ________________ in our community.",
+      "yNghia": "I'm interviewing Carmen Vega, a very successful <span style=\"color:red\">entrepreneur </span>in our community<i>.</i><br />\r\n<i>Tôi đang phỏng vấn Carmen Vega, một <span style=\"color:red\">doanh nhân khởi nghiệp </span>thành công trong cộng đồng của chúng ta. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fe048f1b-9faf-4025-8519-09cfce85a2b5"
+          },
+          "dapAn": "entrepreneur",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "82e846fc-ed23-4c21-9f0c-dc30caff4f51"
+          },
+          "dapAn": "businessman",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3a5ded2a-4e60-41d4-9a16-0844ed2e4824"
+          },
+          "dapAn": "seller",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_18. I_m ... community.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_18. I_m ... community.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "47d9341f-bc2c-4b85-a813-ccc738abf616"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The ice cream is fantastic, but for a business to succeed, it also needs good __________________.",
+      "yNghia": "The ice cream is fantastic, but for a business to succeed, it also needs good <span style=\"color:red\">management</span>.<br />\r\n<i>Món kem thật tuyệt vời, nhưng để kinh doanh thành công cũng cần có một </span></i><i><span style=\"color:red\">sự quản lý </span></i><i>tốt.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a8ad1d46-1e6d-4853-b8f5-0760f730b605"
+          },
+          "dapAn": "management",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7ae0e4d5-2508-406f-a366-8ead8647a688"
+          },
+          "dapAn": "manager",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c074476d-e7b9-40f3-a7f6-1b42e36d4691"
+          },
+          "dapAn": "employee",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_19. The ... management.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_19. The ... management.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "63299f89-1638-4ece-887d-9033afa748be"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I didn’t have to apply for a job, try to get a raise or a promotion, or climb the ____________ ladder.",
+      "yNghia": "I didn't have to apply for a job, try to get a raise or a promotion, or climb the <span style=\"color:red\">corporate </span>ladder.<br />\r\n<i>Tôi không cần phải nộp đơn xin việc, cố gắng để được tăng lương hay thăng chức, hay theo đuổi sự thăng tiến trong nấc thang sự nghiệp.</span></i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e19995ee-408c-4d2a-90cb-b8c350967c1c"
+          },
+          "dapAn": "company",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "219bdcf3-c10d-491c-80b7-64d3b2a3be76"
+          },
+          "dapAn": "corporate",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d41d1022-4b90-4c18-b46c-ee4f4b74387b"
+          },
+          "dapAn": "firm",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_TC_L13/sounds/normal/TC_13_LISTENING_20. I ... ladder.mp3",
+      "soundSlow": "4SKILLS_TC_L13/sounds/slow/TC_13_LISTENING_20. I ... ladder.mp3"
+    }
+  ]
+}

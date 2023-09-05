@@ -1,0 +1,776 @@
+{
+  "dangCauHoi": "P3",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "be3e7547-4127-49c7-a5cc-f3c370388167"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "8e782a9b-49a2-44f1-b01d-fa885447f9c2"
+          },
+          "cauHoi": "What kind of campaigns are mentioned?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "22821958-5351-42e7-9cd8-413b96b7224b"
+              },
+              "dapAn": "A. product launch campaigns",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c7c612db-9511-4ea5-a44e-b7bcb388306d"
+              },
+              "dapAn": "B. advertising campaigns",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "37ba4f80-3b69-4e3a-ad3a-1626ba9cd5c7"
+              },
+              "dapAn": "C. brand awareness campaigns",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "22c83bb8-6575-45ee-a154-e1ccfaf17c59"
+              },
+              "dapAn": "D. brand launch campaigns",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "79a75efe-be75-4507-abb8-b3b8de3b8335"
+          },
+          "cauHoi": "What do they need to do first in their advertising campaigns?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "50cf7874-e057-4d7d-87bf-87677c39a517"
+              },
+              "dapAn": "A. identify customers’ needs",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "af162412-2150-4630-840c-8e26b70de448"
+              },
+              "dapAn": "B. research their market",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "72a5907d-40ad-49d9-bdf6-34845d6334aa"
+              },
+              "dapAn": "C. identify their target customers in the market",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "b7354858-8e1e-483f-b91d-aff2c7d4bc5f"
+              },
+              "dapAn": "D. raise brand’s awareness",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "83d84d23-4453-48f6-9b8a-fa6338976aa8"
+          },
+          "cauHoi": "How can they identify their customers?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "f3b61d96-e9bb-485b-a66a-5d74cbd73b32"
+              },
+              "dapAn": "A. using 6 different categories",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a5b2eefa-ada3-4552-b3c6-6e45fe77c3f9"
+              },
+              "dapAn": "B. their sense",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "5b74741b-ab70-49d7-bb06-7bb64ef844c4"
+              },
+              "dapAn": "C. their knowledge",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3dc639c7-bf93-4203-8a6b-077f4ca79957"
+              },
+              "dapAn": "D. their skill",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "bec831ee-62c2-48a4-ab99-8cbdcd788d67"
+          },
+          "cauHoi": "What factor below is not mentioned among 6 categories used to find their customers? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "04b99c35-5109-43e5-bd8c-18eac7242719"
+              },
+              "dapAn": "A. gender",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "d5c2ebcb-d787-4141-bfa2-27ca1887aaff"
+              },
+              "dapAn": "B. location",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2d177680-2228-454e-a165-e30fd9e34c2e"
+              },
+              "dapAn": "C. jobs",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "c94db538-6f7a-47c0-81cf-85d45d239f6a"
+              },
+              "dapAn": "D. personality",
+              "isCorrect": true
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Frank:</b></td>\r\n                        <td>What do you think about our advertising campaigns?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Seth:</b></td>\r\n                        <td>One of the first things we have to do is carefully identify our target market.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Frank:</b></td>\r\n                        <td>Can you tell me more?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Seth:</b></td>\r\n                        <td>We identify our customers using six different categories.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Frank:</b></td>\r\n                        <td>Gender; age; occupation; relationship status; geographic location and behavior, right?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Seth:</b></td>\r\n                        <td>Exactly. </td>\r\n                </tr>\r\n        </tbody>\r\n</table>\r\n",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What kind of campaigns</b> <b>are</b> <b>mentioned?</b> <i>(Kiểu</i> <i>chiến dịch nào được nhắc tới</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>What do you think about our advertising campaigns?</b> <i>(Bạn nghĩ gì về các chiến dịch quảng cáo của chúng ta?</i><i>).</i> Nên đáp án là <span style=\"color:red\"><b>B. advertising campaigns</b></span> <i>(các</i> <i></i><i>chiến</i> <i>dịch quảng cáo</i><i>).</i><br />\n<b>2.</b> Với câu hỏi <b>What do they need to do first in their advertising campaigns?</b> <i>(Họ</i> <i>cần phải làm gì đầu tiên trong các chiến dịch quảng cáo?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b>One of the first things we have to do is carefully identify our target market. <i></i></b><i>(Một trong những điều đầu tiên chúng ta phải làm là xác định cẩn thận thị trường mục tiêu của mình.)</i><i>.</i> <i></i>Nên đáp án là <b><span style=\"color:red\">C. identify their target customers in the market</span></b> <i>(xác</i> <i>định khách hàng mục tiêu trong thị trường</i><i>).</i><br />\n<b>3.</b> Với câu hỏi <b>How can they identify their customers</b><b>?</b> <i>(Họ</i> <i>xác định khách hàng như thế nào</i><i>?)</i> câu trong bài đọc liên quan là <b>We identify our customers using six different categories.</b> <i>(Chúng ta xác định khách hàng của mình bằng cách sử dụng sáu nhóm phân loại khác nhau.)</i><i>.</i> Nên đáp án là <span style=\"color:red\"><b>A. using</b></span><b> <span style=\"color:red\">6 different categories</span></b> <i>(sử</i> <i>dụng 6 nhóm phân loại</i><i>).</i><br />\n<b>4.</b> Với câu hỏi <b>What</b> <b>factor below is not mentioned among 6 categories used to find their customers</b><b>?</b> <i>(Yếu</i> <i>tố nào dưới đây không được nhắc tới trong 6 nhóm được sử dụng để tìm kiếm khách hàng của họ</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>Gender; age; occupation; relationship status; geographic location and behavior, right?</b> <i>(Giới tính; lứa tuổi; nghề nghiệp; tình trạng quan hệ; vị trí địa lý và hành vi, phải không?)</i><i>.</i> <i></i>Nên đáp án là <span style=\"color:red\"><b>D. personality <i></i></b></span><i>(tính</i> <i>cách</i><i>).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "5531829e-6984-4402-8c5e-c7987fe6909d"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "6225ceba-8cb7-4065-8e62-5685daf7671e"
+          },
+          "cauHoi": "What are they thinking about?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c768232b-beee-4be4-ac0b-0321e1b23057"
+              },
+              "dapAn": "A. ways to promote the product",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "67d124df-bd6b-49bc-bacd-3a5e5548e6ac"
+              },
+              "dapAn": "B. ways to raise their band’s awareness",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e66d3fa7-abe4-45fc-8ada-0b9c95f5559b"
+              },
+              "dapAn": "C. ways to up sales",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8bf26474-3b54-4770-9f53-6df2256324fa"
+              },
+              "dapAn": "D. way to launch the product",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "14668e68-d6f9-4744-af91-61f1c0f38df9"
+          },
+          "cauHoi": "What do they expect about their product when it is launched in the market?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "d9bbe2ee-ea66-43c3-b4f9-0b3af4a14388"
+              },
+              "dapAn": "A. to be the most attractive to target customers.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "5f04ad49-0379-4214-86ea-1a43261c75fc"
+              },
+              "dapAn": "B. to be one of the most expensive products.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e1796184-8ffa-4294-b056-5df6b55f23df"
+              },
+              "dapAn": "C. to be at the best quality",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7cc60fd5-bcbe-4bbe-b0e5-7afbfc43952a"
+              },
+              "dapAn": "D. to be the best selling product",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "e1891b59-f749-413e-8a9d-331b1ff2bf4e"
+          },
+          "cauHoi": "Which factor are they considering to prepare for their marketing plan?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7eabe6c3-a729-47c4-a91a-faffc047cc10"
+              },
+              "dapAn": "A. age",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "ea17cfc5-f6ce-4738-8296-19367c7a3d83"
+              },
+              "dapAn": "B. gender",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "fae6763a-5d06-4db7-b644-2ab67bc82711"
+              },
+              "dapAn": "C. personality",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8a02026b-cda2-4aeb-84ab-609a6ab0b4a0"
+              },
+              "dapAn": "D. geographic location",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "a40a1209-b481-475a-a94c-278189087f2c"
+          },
+          "cauHoi": "What differentiates marketing to young adults and marketing to elderly?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b15527fa-11ca-4288-bccc-cb58c2ebe589"
+              },
+              "dapAn": "A. quality",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e27e5daf-643b-4ae2-9985-2f3af26ed25f"
+              },
+              "dapAn": "B. price",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "2815ae7e-23f8-41a3-8516-e88eafa5ec74"
+              },
+              "dapAn": "C. music used in the campaign",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3207f3bb-e170-444a-bd2e-cea1b0556410"
+              },
+              "dapAn": "D. images used in the campaign",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Frank:</b></td>\r\n                        <td>We start to think about how we're going to promote the product.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Seth:</b></td>\r\n                        <td>Also how to make our product the most attractive to that group of people.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Frank:</b></td>\r\n                        <td>What is the difference between marketing to young adults and marketing to older people?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Seth:</b></td>\r\n                        <td>It is the type of music we use in the advertising campaign.</td>\r\n                </tr>\r\n        </tbody>\r\n</table>\r\n",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What</b> <b>are they thinking about</b><b>?</b> <i>(H</i><i>ọ đang suy nghĩ tới việc gì</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>We start to think about how we're going to promote the product.</b> <i>(Chúng ta bắt đầu nghĩ về cách mà ta sẽ quảng bá sản phẩm thôi.</i><i>).</i> Nên đáp án là <span style=\"color:red\"><b>A. ways</b> <b>to promote the product</b></span> <b><i></i></b><i>(các</i> <i>cách để quảng bá sản phẩm)</i><i>.</i><br />\n<b>2.</b> Với câu hỏi <b>What</b> <b>do they expect about their product when it is launched in the market</b><b>?</b> <i>(Họ</i> <i>mong đợi thế nào về sản phẩm khi nó được tung ra thị trường?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b>Also how to make our product the most attractive to that group of people.</b> <i>(Ngoài ra làm sao để sản phẩm của mình hấp dẫn nhất đối với nhóm người đó.</i><i>)</i><i>.</i> <i></i>Nên đáp án là <span style=\"color:red\"><b>A. to be the most attractive to target</b> <b>customers</b><b>.</b></span> <i>(là</i> <i>sản phẩm hấp dẫn nhất đối với nhóm khách hàng mục tiêu</i><i>).</i><br />\n<b>3.</b> Với câu hỏi <b>Which factor are they considering to prepare for their marketing plan</b><b>?</b> <i>(Họ đang cân nhắc yếu tố nào khi chuẩn bị cho kế hoạch quảng cáo của mình?</i><i>)</i><i>,</i> <i></i>câu trong bài đọc liên quan là <b>What is the difference between marketing to young adults and marketing to older people?</b> <b></b><i>(</i><i>Sự khác biệt giữa tiếp thị cho thanh niên và tiếp thị cho người lớn tuổi là gì</i><i>?</i><i>).</i> Nên đáp án là <b><span style=\"color:red\">A. age</span></b> <i>(</i><i>t</i><i>uổi).</i><br />\n<b>4.</b> Với câu hỏi <b>What</b> <b>differentiates marketing to young adults and marketing to elderly</b><b>?</b> <b></b><i>(Cái</i> <i>gì phân biệt giữa quảng cáo cho người trẻ và quảng cáo cho người già?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b>It is the type of music we use in the advertising campaign. <i></i></b><i>(Đó là loại nhạc chúng tôi sử dụng trong chiến dịch quảng cáo.</i><i>)</i><i>.</i> <i></i>Nên đáp án là <b><span style=\"color:red\">C. music used in the campaign</span></b> <i>(nhạc</i> <i>sử dụng trong chiến dịch</i><i>).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "b3b0396c-f985-46b8-81f6-d885eb93624d"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "cbfab66f-6cc3-4c78-8265-a8d909e3e639"
+          },
+          "cauHoi": "How do youngsters want their music to be?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "5ca10fdb-3d0a-4f39-acbd-b1cc42af14f6"
+              },
+              "dapAn": "A. calm",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "50dc00c1-16a3-44d6-b9d4-50f4c96466f9"
+              },
+              "dapAn": "B. slow and calm",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e3306009-63fb-454a-bbfb-a5690241d215"
+              },
+              "dapAn": "C. noisy",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "71c5751e-fc15-4a09-9e89-d630d054a24b"
+              },
+              "dapAn": "D. energetic",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "a2688e35-0915-4c2e-a82b-3df0738c237c"
+          },
+          "cauHoi": "How do the older customers want their music to be?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6818945d-6716-422b-b9af-e2d34952fc08"
+              },
+              "dapAn": "A. fast",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6848ee07-0426-4820-a1a3-d98804994375"
+              },
+              "dapAn": "B. energetic",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4c2fa0e3-9422-4c58-8467-132a6165df5c"
+              },
+              "dapAn": "C. calm and less noisy",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "11c710f9-f2b2-48c4-983f-b3f688ae18b8"
+              },
+              "dapAn": "D. loud and fast",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "81079dcf-ec3f-459d-ab6e-90f12d68118a"
+          },
+          "cauHoi": "How do actors from advertisements targeting old people speak? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "c1923464-5b06-4e7f-b348-2b33a6a2e8eb"
+              },
+              "dapAn": "A. quicky",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "04b6f263-cd8b-4481-985d-73bb1fedb353"
+              },
+              "dapAn": "B. informally",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "72ed90fa-f94c-4da4-87df-d0c052522433"
+              },
+              "dapAn": "C. loudly",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "4564182b-c805-43b9-84dd-dc03a48ed039"
+              },
+              "dapAn": "D. seriously",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "f0ac8678-e1bf-4d10-a643-3a30cd05ad41"
+          },
+          "cauHoi": "Which one do they need for their slogan, a short or long sentence? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "94ea11d7-0903-4d04-9216-b3d1d580e18c"
+              },
+              "dapAn": "A. a long sentence",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "06613ac8-7721-4f59-94ce-1615ac1acaca"
+              },
+              "dapAn": "B. a short sentence",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "d4c60ebb-e91d-4a51-b120-279bac68ceb6"
+              },
+              "dapAn": "C. neither a short or a long sentence",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "bfec1855-7a40-49d0-b99d-0d4c4bf5855a"
+              },
+              "dapAn": "D. both a short and a long sentence",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Frank:</b></td>\r\n                        <td>I guess young people want faster, more energetic music.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Seth:</b></td>\r\n                        <td>That's right. Older people want calmer and less noisy music.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Frank:</b></td>\r\n                        <td>What about advertisements on TV or radio?</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Seth:</b></td>\r\n                        <td>In those advertisements directed at older people, actors usually speak more seriously and less quickly.</td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Seth:</b></td>\r\n                        <td>Correct. Then we have to come up with a slogan in a phrase or short sentence. </td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>How</b> <b>do youngsters want their music to be</b><b>?</b> <i>(Người</i> <i>trẻ thì muốn nhạc của họ</i> <i>như</i> <i>thế nào</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>I guess young people want faster, more energetic music.</b> <i>(Tôi đoán giới trẻ muốn âm nhạc nhanh hơn, tràn đầy năng lượng hơn.</i><i>).</i> Nên đáp án là <b><span style=\"color:red\">D. energetic</span> <i></i></b><i>(năng</i> <i>lượng)</i><i>.</i><br />\n<b>2.</b> Với câu hỏi <b>How</b> <b>do the older customers want their music to be</b><b>?</b> <i>(Những</i> <i>khách hàng</i> <i>lớn tuổi</i> <i>muốn nhạc của họ thế nào?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b>Older people want calmer and less noisy music.</b> <i>(Người lớn tuổi muốn âm nhạc dễ chịu và ít ồn ào hơn</i><i>.</i><i>)</i><i>.</i> <i></i>Nên đáp án là <span style=\"color:red\"><b>C. calm</b> <b>and less noisy</b></span> <b></b><i>(dễ</i> <i>chịu và đỡ ồn ào</i><i>).</i><br />\n<b>3.</b> Với câu hỏi <b>How do actors from advertisements targeting old people speak</b><b>?</b> <i>(Diễn viên trong những quảng cáo dành cho người già nói như thế nào?</i><i>)</i> câu trong bài đọc liên quan là <b>In those advertisements directed at older people, actors usually speak more seriously and less quickly.</b> <i>(Trong những quảng cáo hướng đến người lớn tuổi, các diễn viên thường nói nghiêm túc hơn và</i> <i>chậm</i> <i>hơn</i><i>.</i><i>).</i> Nên đáp án là <span style=\"color:red\"><b>D. seriously</b></span> <i>(nghiêm</i> <i>túc</i><i>).</i><br />\n<b>4.</b> Với câu hỏi <b>Which</b> <b>one do they need for their slogan, a short or long sentence</b><b>?</b> <i>(Họ</i> <i>cần cái nào cho câu khẩu lệnh của họ, một câu ngắn hay một câu dài?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b>Then we have to come up with a slogan in a phrase or short sentence.</b> <i>(Sau đó, chúng ta phải nghĩ ra một khẩu hiệu trong một cụm từ hoặc một câu ngắn</i><i>.)</i><i>.</i> <i></i>Nên đáp án là <b><span style=\"color:red\">B. a short sentence</span></b> <i>(một</i> <i>câu ngắn</i><i>).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "0f2e22f6-0a54-4bd9-92f9-5d683b1f1f59"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "2778c963-842c-41cf-acbc-091fa4e20257"
+          },
+          "cauHoi": "What do we tend to do as referred by confirmation bias?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "aced3960-395f-4204-a6f2-d67b91eb8477"
+              },
+              "dapAn": "A. seek out information that confirms or supports one's opinions or ideals",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "00be8cd6-4022-49e0-b869-1580314592b6"
+              },
+              "dapAn": "B. ignore information that confirms or supports one's opinions or ideals",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "3133ae84-09c2-4fe5-ad4f-6f64b8bb24ca"
+              },
+              "dapAn": "C. support biased opinions",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "0ddd2150-c26f-45b7-af6f-aa43acc7beb0"
+              },
+              "dapAn": "D. ignore others’ opinions",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "6242eb4b-4654-4961-9370-cc2feaf5cee4"
+          },
+          "cauHoi": "What do people only listen to when they display their bias?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "7f69f055-868b-4b4f-8278-6c8635947847"
+              },
+              "dapAn": "A. others’ opinions",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "329c5dac-6b26-4c63-8400-3bf775c885a5"
+              },
+              "dapAn": "B. others’ thoughts",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "b4eb8acf-9f25-4b19-bbe2-9f4b79be8c87"
+              },
+              "dapAn": "C. what they already believe",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "a40fcd8c-72d3-47a0-8e17-a8ea0bc6c9c2"
+              },
+              "dapAn": "D. what others believe",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "44b5b5cb-98a5-445b-8ef0-f7a81e1c1dea"
+          },
+          "cauHoi": "What would people try to ignore when they display their bias?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "547c95e5-b252-42b3-9ace-623f1b38927f"
+              },
+              "dapAn": "A. what goes against their beliefs.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "cb9fe006-82b1-4470-96a2-5bf861b205fa"
+              },
+              "dapAn": "B. what supports their beliefs",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "772dc097-eb3d-4c97-91d2-bc743e508568"
+              },
+              "dapAn": "C. what they don’t know",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "f117826a-3947-4a37-ad80-82c18a7c52c3"
+              },
+              "dapAn": "D. what others believe",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "03548d8b-b9df-4ba3-8d37-39943e0ebef0"
+          },
+          "cauHoi": "Can their bias be managed? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "6eb81553-ed7a-4081-b27f-583e361ff300"
+              },
+              "dapAn": "A. Yes, it can.",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "3332c250-bb5f-40d7-b37c-4e80cd4ac381"
+              },
+              "dapAn": "B. No, it can’t.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "903f4f7c-a1c6-4a26-8091-c71ddba28471"
+              },
+              "dapAn": "C. It depends.",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "9adfb183-7387-4260-8d3e-a08ef3b6f3ca"
+              },
+              "dapAn": "D. No, it definitely can’t.",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Confirmation bias is the tendency to search for information in a way that confirms or supports one's beliefs or values. People display their bias when they only listen to evidence that supports what they already believe and ignore evidence that goes against what they believe. It cannot be eliminated, but it can be managed.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What</b> <b>do</b> <b>we tend to do as refer</b><b>r</b><b>ed by confirmation bias?</b> <i>(Chúng</i> <i>ta có xu hướng làm gì theo như thiên kiến xác nhận</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>Confirmation bias is the tendency to search for information in a way that confirms or supports one's beliefs or values. </b> <i>(Thiên kiến xác nhận là một thuật ngữ chỉ xu hướng chỉ tìm kiếm thông tin hỗ trợ cho quan điểm của một người.</i><i>).</i> Nên đáp án là <b><span style=\"color:red\">A. seek out information that confirms or supports one's opinions or ideals.</span></b> <i>(</i><i>t</i><i>ìm kiếm thông tin hỗ trợ cho quan điểm của một ngườ</i><i>i</i><i>)</i><i>.</i><br />\n<b>2.</b> Với câu hỏi <b>What</b> <b>do people only listen to when they display their bias</b><b>?</b> <i>(Khi</i> <i>thể hiện thiên kiến của bản thân, người ta sẽ chỉ nghe gì?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b>People display their bias when they only listen to evidence that supports what they already believe and ignore evidence that goes against what they believe. <i></i></b><i>(</i><i>Mọi người thể hiện sự thiên kiến</i> <i></i><i>này khi họ chọn thông tin ủng hộ quan điểm của họ, bỏ qua thông tin trái ngược.)</i><i>.</i> <i></i>Nên đáp án là <span style=\"color:red\"><b>C. what</b> <b>they already believe</b></span> <b><i></i></b><i>(những</i> <i>gì họ đã tin</i><i>).</i><br />\n<b>3.</b> Với câu hỏi <b>What would people try to ignore when they display their bias?</b> <i>(Mọi người sẽ cố gắng lờ đi điều gì khi họ thể hiện thiên kiến?</i><i>)</i> câu trong bài đọc liên quan là <b>People display their bias when they only listen to evidence that supports what they already believe and ignore evidence that goes against what they believe.</b> <i>(Mọi người thể hiện sự thiên kiến</i> <i></i><i>này khi họ chọn thông tin ủng hộ quan điểm của họ, bỏ qua thông tin trái ngược.</i><i>).</i> Nên đáp án là <span style=\"color:red\"><b>A.</b> <b>what</b> <b>goes against their beliefs</b></span> <b></b><i>(những</i> <i>gì đi ngược lại với niềm tin của họ</i><i>).</i><br />\n<b>4.</b> Với câu hỏi <b>Can</b> <b>their bias be managed</b><b>?</b> <b></b><i>(Sự thiên vị có thể được kiểm soát không?)</i>, <b></b>câu trong bài đọc liên quan là <b>It cannot be eliminated, but it can be managed. <i></i></b><i>(Chúng ta không thể loại bỏ thiên kiến xác nhận nhưng có thể kiểm soát được chúng.).</i> <i></i>Nên đáp án là <span style=\"color:red\"><b>A.</b> <b></b><b>Yes</b></span><b><span style=\"color:red\">, it can.</span></b> <i>(Có thể).</i>",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a051a89f-f57c-4ef4-854d-27622ce80b4b"
+      },
+      "cauHoiNho": [
+        {
+          "_id": {
+            "$oid": "e02d205f-3b69-4d10-a6fc-75cb54fe8a7e"
+          },
+          "cauHoi": "What case do they take as an example?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "b394005a-0ab3-44f4-8a54-7504cba509e0"
+              },
+              "dapAn": "A. Media bias",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "5e068e4d-ab4d-4783-855e-9f7fb6f00555"
+              },
+              "dapAn": "B. Cognitive bias",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6e577d8f-5610-459c-8c61-21f16299521a"
+              },
+              "dapAn": "C. Statistical bias",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "e6b2fc95-6542-4b53-b252-47b27a3c80ba"
+              },
+              "dapAn": "D. Contextual bias",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "ec14e156-b621-4b3c-9528-721f143bc3ca"
+          },
+          "cauHoi": "Whose bias is mentioned?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "fb941624-074e-4365-b3fb-873b5c9d2617"
+              },
+              "dapAn": "A. consumers",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "73e31231-c62f-4090-bbf7-9c2814b2245a"
+              },
+              "dapAn": "B. readers",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "6c8440d4-fa4b-4092-a257-e193960be0b2"
+              },
+              "dapAn": "C. journalists",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "6b0d3e87-b63a-49f9-b168-e53ef55a0a85"
+              },
+              "dapAn": "D. marketers",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "bb577d7e-7413-4713-babe-7e3797f29d76"
+          },
+          "cauHoi": "When do they display their bias? ",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "2ee4147e-65dd-450b-bf53-b35aef6b2e09"
+              },
+              "dapAn": "A. when choosing their interviewers",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "144b119b-7072-4bbd-b862-fab3c09b749a"
+              },
+              "dapAn": "B. when choosing images",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "7a45435b-b19e-4b20-a519-1d0ab325a242"
+              },
+              "dapAn": "C. when choosing what to report",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "17201ef6-e7c4-401f-94fe-ca51759fe7d3"
+              },
+              "dapAn": "D. when choosing music",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "_id": {
+            "$oid": "61a966f5-d2d9-4c9b-8f24-35e89ac6ca97"
+          },
+          "cauHoi": "How can a company have their services reported in a positive light?",
+          "danhSachDapAn": [
+            {
+              "_id": {
+                "$oid": "17755830-a02d-4c95-bcf9-a6b827677b09"
+              },
+              "dapAn": "A. paying the media",
+              "isCorrect": true
+            },
+            {
+              "_id": {
+                "$oid": "f4574db4-7c4d-4e59-9417-43292b13b4de"
+              },
+              "dapAn": "B. they can’t do that",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "a6975ce4-0893-499e-b736-631cebf18529"
+              },
+              "dapAn": "C. they don’t have to do anything",
+              "isCorrect": false
+            },
+            {
+              "_id": {
+                "$oid": "8c304531-ade6-464b-975a-a1539ad5cb36"
+              },
+              "dapAn": "D. upgrade their service",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "cauHoi": "Take media bias as an example. It is the bias of journalists within the mass media in the selection of events and stories that are reported. A company which wants to promote a service can pay the media to have their services reported in a positive light.",
+      "yNghia": "<b>1.</b> Với câu hỏi <b>What case do they take as an example?</b> <i>(Trường</i> <i>hợp nào được lấy ra làm ví dụ</i><i>?),</i> <b></b>câu trong bài đọc liên quan là <b>Take media bias as an example <i></i></b><i>(Một ví</i> <i>dụ</i> <i>là sự thiên kiến</i> <i></i><i>của phương tiện truyền thông.</i><i>).</i> Nên đáp án là <b><span style=\"color:red\">A. Media bias</span></b> <i>(</i><i>thiên kiến</i> <i></i><i>của phương tiện truyền thông.</i><i>)</i><i>.</i><br />\n<b>2.</b> Với câu hỏi <b>Whose bias is mentioned</b><b>?</b> <i>(Thiên</i> <i>kiến của ai được nhắc tới?</i><i>),</i> <b></b>câu trong bài đọc liên quan là <b>It is the bias of journalists within the mass media</b><b>.</b> <b><i></i></b><i>(</i><i>Đó là sự thiên kiến</i> <i></i><i>của các nhà báo trong các phương tiện truyền thông đại chúng</i><i>.</i><i>)</i><i>.</i> <i></i>Nên đáp án là <b><span style=\"color:red\">C. journalists</span> <i></i></b><i>(</i><i>các</i> <i>nhà</i> <i>báo</i><i>).</i><br />\n<b>3.</b> Với câu hỏi <b>When do they display their bias?</b> <i>(Khi nào thì họ thể hiện sự thiên vị của họ?</i><i>)</i> câu trong bài đọc liên quan là <b>It is the bias of journalists within the mass media in the selection of events and stories that are reported.</b> <i>(Đó là sự thiên kiến của các nhà báo trong các phương tiện truyền thông đại chúng trong việc lựa chọn sự kiện và câu chuyện để đưa tin.</i><i>)</i><i>.</i> <i></i>Nên đáp án là <span style=\"color:red\"><b>C. when</b></span><b> <span style=\"color:red\">choosing what to report</span></b> <i>(khi</i> <i>lựa chọn đưa thông tin gì</i><i>).</i><br />\n<b>4.</b> Với câu hỏi <b>How can a company have their services reported in a positive light? <i></i></b><i>(Một công ty có thể làm gì để dịch vụ của họ có thể được đưa tin theo hướng tích cực?),</i> <b></b>câu trong bài đọc liên quan là <b>A company which wants to promote a service can pay the media to have their services reported in a positive light. <i></i></b><i>(Một công ty khi muốn quảng bá một dịch vụ có thể trả tiền cho các phương tiện truyền thông để dịch vụ của họ được đưa tin theo hướng tích cực.)</i> Nên đáp án là <b><span style=\"color:red\">A. paying the media</span></b> <i>(trả tiền cho các phương tiện truyền thông).</i>",
+      "danhSachDapAn": []
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "07fc2af9-eb76-4f56-b30e-eba85b755096"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>David:</b></td>\n                        <td>It's Mom's <b>(1)</b> <b>_________</b> next week. Let's buy a present for her.<br />\n                        </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td>\n                        <td>OK. What shall we <b>(2) _________</b>?<br />\n                        </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>David:</b></td>\n                        <td>Well, she loves clothes.<br />\n                        </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td>\n                        <td>There <b>(3) _________</b> a lot of great clothes at <b>(4) _________</b> store.<br />\n                        </td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>David:</b></td>\n                        <td>It's Mom's <b>(1)</b> <b><span style=\"color:red\">birthday</span> </b> next week. Let's buy a present for her.<br />\n                        <i>Tuần tới là đến <span style=\"color:red\">sinh nhật </span> mẹ rồi. Hãy mua một món quà cho mẹ đi.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td>\n                        <td>OK. What shall we <b>(2) <span style=\"color:red\">buy</span> </b>?<br />\n                        <i>Đồng ý. Chúng ta sẽ <span style=\"color:red\">mua </span> gì?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>David:</b></td>\n                        <td>Well, she loves clothes.<br />\n                        <i>Chà, mẹ thích quần áo.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td>\n                        <td>There <b>(3) <span style=\"color:red\">are</span> </b> a lot of great clothes at <b>(4) <span style=\"color:red\">this</span> </b> store.<br />\n                        <i>Có rất nhiều quần áo đẹp ở cửa hàng <span style=\"color:red\">này</span> .</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "birthday",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "9aed24a0-93e7-4e1f-9692-cedf6a129313"
+          }
+        },
+        {
+          "dapAn": "buy",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "5d0b6557-adb9-4c23-81fb-ca9f9b4880b1"
+          }
+        },
+        {
+          "dapAn": "are",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f112f147-ca8c-441f-83d2-64f7c6998d4d"
+          }
+        },
+        {
+          "dapAn": "this",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "34b5dcb8-7538-4bc3-97d2-1dc46d8b9a67"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "b3c4c8bb-b903-4a00-8bf7-b17b6eb7455c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td> \n                        <td>Yeah. Look at <b>(1) </b>_____ T-shirts! They're pretty.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>David:</b></td> \n                        <td>Yes, they <b>(2) </b>_____. Look! This red T-shirt is nice.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td> \n                        <td>It's $50!</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>David:</b></td> \n                        <td>$50 is <b>(3) </b>_____!</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td> \n                        <td>You're right. Do you <b>(4) </b>_____ this blue T-shirt?<br />\n                         </td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td>\r\n                        <td>Yeah. Look at <b>(1) </b><b><span style=\"color:red\">these</span> </b> T-shirts! They're pretty.\r\n                        </br><i>Nhìn những chiếc áo phông <span style=\"color:red\">này</span> ! Chúng đẹp quá.</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>David:</b></td>\r\n                        <td>Yes, they <b>(2) </b><b><span style=\"color:red\">are</span> </b>. Look! This red T-shirt is nice.\r\n                        </br><i>Đúng vậy. Nhìn này! Chiếc áo phông màu đỏ này thật đẹp.</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td>\r\n                        <td>It's $50!\r\n                        </br><i>Nó có giá 50 đô.</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>David:</b></td>\r\n                        <td>$50 is <b>(3) <span style=\"color:red\">expensive</span> </b>!\r\n                        </br><i>50 đô thì <span style=\"color:red\">đắt quá</span> !</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Anna:</b></td>\r\n                        <td>You're right. Do you <b>(4) <span style=\"color:red\">like</span> </b> this blue T-shirt?\r\n                        </br><i>Em nói đúng. Em có <span style=\"color:red\">thích </span> chiếc áo phông màu xanh dương này không?</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "these",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "c5d520af-2ca2-4817-9baa-3d5803ac0da9"
+          }
+        },
+        {
+          "dapAn": "are",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "8a65f08b-c10a-4fc8-9c03-72ac0b4a61a5"
+          }
+        },
+        {
+          "dapAn": "expensive",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "54812bbf-ba24-4081-bdb6-d08669434ecb"
+          }
+        },
+        {
+          "dapAn": "like",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e2426c66-3e4b-419b-80de-24c7c31ca389"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "aa3c574e-b883-4d05-a518-6ca95b227c66"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td> \n                        <td>I like your dress. It's <b>(1) </b>_______. Is it new?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Tom:</b></td>\n                        <td>Oh, thank you. No, it <b>(2) </b>_______ old. But it's my <b>(3) </b>_______. I like your jeans. And your <b>(4) </b>_______ is nice, it is a great color! Blue? Purple?</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td>\n                        <td>I like your dress. It's <b>(1) </b><b><span style=\"color:red\">beautiful</span> </b>. Is it new?<br />\n                        <i>Tôi thích chiếc váy của bạn. Nó </span> </i><i><span style=\"color:red\">thật đẹp</span> </i><i>! Đó là chiếc váy mới à?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Tom:</b></td>\n                        <td>\nOh, thank you. No, it </span> <b>(2) </b><b><span style=\"color:red\">is</span> </b> old. But it's my </span> <b>(3) </b><b><span style=\"color:red\">favorite</span> </b>\n I like your jeans. And your </span> <b>(4) </b><b><span style=\"color:red\">shirt</span> </b> is nice, it is a great color! Blue? Purple?</span> <br />\n                        <i>Ồ, cảm ơn bạn. Không, nó </span> </i><i><span style=\"color:red\">là</span> </i><i> đồ cũ. Nhưng nó là chiếc váy </span> </i><i><span style=\"color:red\">yêu thích</span> </i><i> của tôi. Tôi thích quần bò của bạn. Và </span> </i><i><span style=\"color:red\">áo sơ mi </span> </i><i>của bạn thật đẹp, màu cũng đẹp! Là màu xanh dương hay màu tím?</span> </i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "beautiful ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d7d1b3c8-0ad0-4197-9c01-969820607466"
+          }
+        },
+        {
+          "dapAn": "is",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "fbf2632a-ea03-4e76-8722-fe82bc58716a"
+          }
+        },
+        {
+          "dapAn": "favorite",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0d874fd2-f284-43cb-b75e-b76b578cc781"
+          }
+        },
+        {
+          "dapAn": "shirt",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "ab90f3ba-9f63-4670-ac1b-cb96a2cf6410"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ea98ba60-29c5-4060-9206-f69a2066e941"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td> \n                        <td>You look <b>(1) </b>_______! The shirt is very <b>(2) </b>_______ ... and very expensive?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Tom:</b></td> \n                        <td>Uh, yeah. $200.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td> \n                        <td>Excuse <b>(3) </b>_______? $200? That is expensive!</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Tom:</b></td> \n                        <td>Yeah, I know ... but I <b>(4) </b>_______ it!</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td>\n                        <td>You look <b>(1) </b><span style=\"color:red\"><b>great</b></span> ! The shirt is very <b>(2) </b><span style=\"color:red\"><b>dressy</b></span>  ... and very expensive?<br />\n                        <i>Bạn trông </i><i>thật <span style=\"color:red\">tuyệt</span> </i><i>! Chiếc áo sơ mi rất <span style=\"color:red\">sang trọng </span> ... và rất đắt nhỉ?</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Tom:</b></td>\n                        <td>Uh, yeah. $200.<br />\n                        <i>Ừ, đúng vậy. 200 đô.</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td>\n                        <td>Excuse <b>(3) </b><span style=\"color:red\"><b>me</b></span> ? $200? That is expensive!<br />\n                        <i>Xin lỗi? 200 đô sao. Vậy thì đắt quá!</i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Tom:</b></td>\n                        <td>Yeah, I know ... but I <b>(4) </b><span style=\"color:red\"><b>love</b></span>  it!<br />\n                        <i>Uh, tôi biết ... nhưng tôi </i><i><span style=\"color:red\">thích</span>  </i><i>nó!</i></td>\n                </tr>\n        </tbody>\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "great",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "1df60080-4a36-4362-ad07-47d4284244aa"
+          }
+        },
+        {
+          "dapAn": "dressy",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "cf4cefcf-62c2-4ed9-bde3-30535ada574f"
+          }
+        },
+        {
+          "dapAn": "me",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "3efa34c0-7673-46f6-89e4-32bab0c23776"
+          }
+        },
+        {
+          "dapAn": "love",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "045f2161-a09b-49a3-a339-4196258c5e49"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "076e1e3c-baf6-4c3e-80d0-19efd44916af"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td> \n                        <td>Look at this <b>(1) </b>_______! These <b>(2) </b>_______ are great!</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Tom:</b></td> \n                        <td>Let me see. Wow! They are <b>(3)</b> _______, too. Look – all clothes are under $30.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td> \n                        <td>Great! Look at this green dress!</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Tom:</b></td> \n                        <td>What <b>(4) </b>_______ the size?</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td>\r\n                        <td>Look at this <b>(1) <span style=\"color:red\">website</span> </b>! These <b>(2) <span style=\"color:red\">clothes</b></span>  are great!<br />\r\n                        <i>Hãy nhìn vào <span style=\"color:red\">trang</span>  <span style=\"color:red\">mạng</span>  này! <span style=\"color:red\">Những bộ quần áo</span>  này thật đẹp!</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Tom:</b></td>\r\n                        <td>Let me see. Wow! They are <b>(3) <span style=\"color:red\">cheap</span> </b>, too. Look – all clothes are under $30.<br />\r\n                        <i>Để tôi xem nào. Ồ! Chúng <span style=\"color:red\">rẻ</span>  nữa. Nhìn kìa – tất cả quần áo đều dưới 30 đô.</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Jenny:</b></td>\r\n                        <td>Great! Look at this green dress!<br />\r\n                        <i>Tuyệt thật! Nhìn chiếc váy màu xanh lá cây kìa!</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Tom:</b></td>\r\n                        <td>What <b>(4) <span style=\"color:red\">is</span> </b> the size?<br />\r\n                        <i>Nó cỡ gì?</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "website",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0eb439c4-0608-45e2-93cb-c7acd29a2485"
+          }
+        },
+        {
+          "dapAn": "clothes",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "9d4387d2-4510-44e7-a8e5-7f770b028648"
+          }
+        },
+        {
+          "dapAn": "cheap ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "80d86513-6b01-4e3f-b06a-39dbcf5c8451"
+          }
+        },
+        {
+          "dapAn": "is",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "d855eb67-5992-46d0-b53f-a3d6597f05db"
+          }
+        }
+      ]
+    }
+  ]
+}

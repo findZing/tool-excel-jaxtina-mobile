@@ -1,0 +1,346 @@
+{
+  "dangCauHoi": "P8",
+  "elementType": "SPEAKING",
+  "urlAudio": "4SKILLS_PRE_S_L19/sounds/normal/Normal_Speaking.mp3",
+  "urlAudioSlow": "4SKILLS_PRE_S_L19/sounds/slow/Slow_Speaking.mp3",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "1c3784df-1445-4ee6-bb5d-244e7bc1afe2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Charlie",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "aa51f442-4056-4299-ba4e-29687ce8d103"
+          },
+          "dapAn": "Hello, Barney. How are you?",
+          "phienAm": "/həˈləʊ ˈbɑːni/. /haʊ ɑːr juː/",
+          "yNghia": " Xin chào, Barney. Bạn khỏe không?",
+          "normal": {
+            "start": "00:00:01.095",
+            "end": "00:00:03.285"
+          },
+          "slow": {
+            "start": "00:00:00.883",
+            "end": "00:00:04.644"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1b5bdbd0-984c-49e6-8201-8bb3e0f60b44"
+          },
+          "dapAn": "Yeah, we are at the beach. The weather's great, it's very sunny. Look.",
+          "phienAm": "/jeə wiː ɑːr æt ðə biːʧ/. /ðə ˈweðərz greɪt ɪts ˈveri ˈsʌni/. /lʊk/",
+          "yNghia": " Đúng rồi, chúng tôi đang ở bãi biển. Thời tiết thật tuyệt, trời rất nắng. Hãy nhìn này.",
+          "normal": {
+            "start": "00:00:10.332",
+            "end": "00:00:16.141"
+          },
+          "slow": {
+            "start": "00:00:13.802",
+            "end": "00:00:23.319"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "eee0ab40-b445-444e-a863-c353e4951428"
+          },
+          "dapAn": "Yes. It's about 35 degrees.",
+          "phienAm": "/jes/. /ɪts əˈbaʊt ˈθɜːti faɪv dɪˈgriːz/",
+          "yNghia": " Có. Khoảng 35 độ.",
+          "normal": {
+            "start": "00:00:20.046",
+            "end": "00:00:22.903"
+          },
+          "slow": {
+            "start": "00:00:27.963",
+            "end": "00:00:32.771"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "c4a350bc-7cb4-4c6e-8b30-cdcf497b12df"
+          },
+          "dapAn": "I’m here with my parents, and my brother, Andy.",
+          "phienAm": "/aɪm hɪər wɪð maɪ ˈpeərənts ænd maɪ ˈbrʌðər ˈændi/",
+          "yNghia": " Tôi ở đây với bố mẹ và anh trai tôi, Andy.",
+          "normal": {
+            "start": "00:00:26.759",
+            "end": "00:00:30.426"
+          },
+          "slow": {
+            "start": "00:00:37.677",
+            "end": "00:00:43.466"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "b76b88a3-3aec-498b-b338-f4211533863c"
+          },
+          "dapAn": "He's good. Can you see him?",
+          "phienAm": "/hiːz gʊd/. /kæn juː siː hɪm/",
+          "yNghia": " Anh ấy ổn. Bạn có nhìn thấy anh ấy không?",
+          "normal": {
+            "start": "00:00:33.664",
+            "end": "00:00:35.282"
+          },
+          "slow": {
+            "start": "00:00:47.587",
+            "end": "00:00:50.661"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "5a3e821b-33ec-4db2-aadc-7a26db9615be"
+          },
+          "dapAn": "He's swimming in the sea.",
+          "phienAm": "/hiːz ˈswɪmɪŋ ɪn ðə siː/",
+          "yNghia": " Anh ấy đang bơi trên biển.",
+          "normal": {
+            "start": "00:00:40.044",
+            "end": "00:00:42.044"
+          },
+          "slow": {
+            "start": "00:00:57.203",
+            "end": "00:00:59.952"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "832eac6b-2e28-4e4b-aa16-0a27353a4080"
+          },
+          "dapAn": "My mom is reading a book. Dad is getting coffee for us. So what time is it there?",
+          "phienAm": "/maɪ mɒm ɪz ˈriːdɪŋ eɪ bʊk/. /dæd ɪz ˈgetɪŋ ˈkɒfi fɔːr ʌs/. /səʊ wɒt taɪm ɪz ɪt ðeər/",
+          "yNghia": " Mẹ tôi đang đọc sách. Bố đang lấy cà phê cho chúng tôi. Ở đó đang là mấy giờ thế?",
+          "normal": {
+            "start": "00:00:45.758",
+            "end": "00:00:52.567"
+          },
+          "slow": {
+            "start": "00:01:04.071",
+            "end": "00:01:14.962"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "1b5e4b50-7136-4479-bab3-ef0082b8da7d"
+          },
+          "dapAn": "What's the weather like?",
+          "phienAm": "/wɒts ðə ˈweðər laɪk/",
+          "yNghia": " Thời tiết như thế nào?",
+          "normal": {
+            "start": "00:00:55.804",
+            "end": "00:00:57.280"
+          },
+          "slow": {
+            "start": "00:01:18.854",
+            "end": "00:01:21.012"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "ad6ab9df-ee6c-4404-a8b3-19df8738f474"
+          },
+          "dapAn": "Oh no. What are you doing?",
+          "phienAm": "/əʊ nəʊ/. /wɒt ɑːr juː ˈduːɪŋ/",
+          "yNghia": " Ôi không. Bạn đang làm gì vậy?",
+          "normal": {
+            "start": "00:01:02.280",
+            "end": "00:01:04.470"
+          },
+          "slow": {
+            "start": "00:01:26.932",
+            "end": "00:01:31.151"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "e92b527b-7982-43ac-ba0d-7e13797c4ab7"
+          },
+          "dapAn": "Oh, dad is calling my name. Sorry, let's talk later. Enjoy your time.",
+          "phienAm": "/əʊ dæd ɪz ˈkɔːlɪŋ maɪ neɪm/. /ˈsɒri lets tɔːk ˈleɪtər/. /ɪnˈʤɔɪ jɔːr taɪm/",
+          "yNghia": " Ồ, bố đang gọi tên tôi. Xin lỗi, chúng ta hãy nói chuyện sau. Xem phim vui vẻ nhé.",
+          "normal": {
+            "start": "00:01:12.184",
+            "end": "00:01:17.564"
+          },
+          "slow": {
+            "start": "00:01:40.865",
+            "end": "00:01:49.663"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "963e41c6-48fb-44a5-abfc-2c6928da3bc7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Barney",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d2fe98e1-5c3c-4616-bf98-6b81897945fb"
+          },
+          "dapAn": "Hi, Charlie. I'm great, thanks. Where are you? Is that a beach?",
+          "phienAm": "/haɪ ˈʧɑːli/. /aɪm greɪt θæŋks/. /weər ɑːr juː/. /ɪz ðæt eɪ biːʧ/",
+          "yNghia": " Chào, Charley. Tôi khỏe, cảm ơn bạn. Bạn đang ở đâu thế? Có phải là bạn đang ở biển không?",
+          "normal": {
+            "start": "00:00:04.285",
+            "end": "00:00:09.332"
+          },
+          "slow": {
+            "start": "00:00:06.149",
+            "end": "00:00:12.494"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "156a1259-8b2d-4105-88d8-62f3d658f61e"
+          },
+          "dapAn": "Wow! Is it hot?",
+          "phienAm": "/waʊ/. /ɪz ɪt hɒt/",
+          "yNghia": " Oa! Trời có nóng không?",
+          "normal": {
+            "start": "00:00:16.951",
+            "end": "00:00:19.093"
+          },
+          "slow": {
+            "start": "00:00:24.300",
+            "end": "00:00:26.557"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f39551a2-bc4c-4823-adcb-6dd1664d656c"
+          },
+          "dapAn": "Oh, who are you with?",
+          "phienAm": "/əʊ huː ɑːr juː wɪð/",
+          "yNghia": " Ồ, bạn đang ở với ai vậy?",
+          "normal": {
+            "start": "00:00:23.617",
+            "end": "00:00:25.569"
+          },
+          "slow": {
+            "start": "00:00:34.112",
+            "end": "00:00:36.336"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "f53154f3-81b7-466d-8696-5c9832e65b79"
+          },
+          "dapAn": "How is your brother?",
+          "phienAm": "/haʊ ɪz jɔːr ˈbrʌðər/",
+          "yNghia": " Anh trai của bạn thế nào?",
+          "normal": {
+            "start": "00:00:31.188",
+            "end": "00:00:32.616"
+          },
+          "slow": {
+            "start": "00:00:44.742",
+            "end": "00:00:46.344"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "d2d351a0-93ef-4357-99cf-cd82f8767095"
+          },
+          "dapAn": "I can't see well. What is he doing?",
+          "phienAm": "/aɪ kɑːnt siː wel/. /wɒt ɪz hiː ˈduːɪŋ/",
+          "yNghia": " Tôi không thể nhìn rõ. Anh ấy đang làm gì vậy?",
+          "normal": {
+            "start": "00:00:36.473",
+            "end": "00:00:38.806"
+          },
+          "slow": {
+            "start": "00:00:52.395",
+            "end": "00:00:55.763"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "fef44545-7d07-457d-8b82-daa5fc9ab18d"
+          },
+          "dapAn": "Where are your parents?",
+          "phienAm": "/weər ɑːr jɔːr ˈpeərənts/",
+          "yNghia": " Bố mẹ bạn đâu?",
+          "normal": {
+            "start": "00:00:43.091",
+            "end": "00:00:44.424"
+          },
+          "slow": {
+            "start": "00:01:01.160",
+            "end": "00:01:02.926"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "0aa78bee-dc59-4585-ace6-9fcd6a4517e9"
+          },
+          "dapAn": "It's 8:00 p.m.\n",
+          "phienAm": "/ɪts eɪt piː em/",
+          "yNghia": "\nBây giờ là 8 giờ tối.",
+          "normal": {
+            "start": "00:00:53.852",
+            "end": "00:00:55.138"
+          },
+          "slow": {
+            "start": "00:01:16.107",
+            "end": "00:01:17.611"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "29b370e8-2483-4253-af24-9acb92ed9892"
+          },
+          "dapAn": "It's rainy, windy, and very cold.",
+          "phienAm": "/ɪts ˈreɪni ˈwɪndi ænd ˈveri kəʊld/",
+          "yNghia": " Trời mưa, gió, và rất lạnh.",
+          "normal": {
+            "start": "00:00:58.133",
+            "end": "00:01:01.471"
+          },
+          "slow": {
+            "start": "00:01:22.157",
+            "end": "00:01:25.951"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "59fbf768-5e32-492c-955e-dd4f2181207f"
+          },
+          "dapAn": "I'm not going out because the weather is bad. I'm watching a movie and eating dinner.",
+          "phienAm": "/aɪm nɒt ˈgəʊɪŋ aʊt bɪˈkəz ðə ˈweðər ɪz bæd/. /aɪm ˈwɒʧɪŋ eɪ ˈmuːvi ænd ˈiːtɪŋ ˈdɪnər/",
+          "yNghia": " Vì thời tiết xấu nên tôi sẽ không ra ngoài. Tôi đang xem phim và ăn tối.",
+          "normal": {
+            "start": "00:01:05.994",
+            "end": "00:01:10.993"
+          },
+          "slow": {
+            "start": "00:01:32.230",
+            "end": "00:01:39.491"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "11321432-bc1b-40b1-a303-05240804a382"
+          },
+          "dapAn": "Yeah, thank you. Bye.",
+          "phienAm": "/jeə θæŋk juː/. /baɪ/",
+          "yNghia": " Ừ, cảm ơn nhé. Tạm biệt.",
+          "normal": {
+            "start": "00:01:18.897",
+            "end": "00:01:21.088"
+          },
+          "slow": {
+            "start": "00:01:50.703",
+            "end": "00:01:53.293"
+          }
+        }
+      ]
+    }
+  ]
+}

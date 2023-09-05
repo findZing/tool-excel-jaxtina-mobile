@@ -1,0 +1,206 @@
+{
+  "dangCauHoi": "P0_1",
+  "elementType": "VOCABULARY",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "d6f90370-2420-4fd9-b1a3-b39650700921"
+      },
+      "cauHoiNho": [],
+      "STT": 1,
+      "cauHoi": "Reservation",
+      "yNghia": "Sự đặt chỗ trước",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "41b07422-2c95-424a-a4b7-cf37a02505b2"
+      },
+      "cauHoiNho": [],
+      "STT": 2,
+      "cauHoi": "Clerk",
+      "yNghia": "Nhân viên tiếp đón khách",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d16ef2fe-abb5-4b41-a346-12f649d470ff"
+      },
+      "cauHoiNho": [],
+      "STT": 3,
+      "cauHoi": "Buffet",
+      "yNghia": "Tiệc ăn tự chọn",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "3636b210-d7f6-4d1b-a124-b62941d4780c"
+      },
+      "cauHoiNho": [],
+      "STT": 4,
+      "cauHoi": "Voucher",
+      "yNghia": "Phiếu giảm giá / khuyến mại",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "726453d4-3606-4663-a9f3-f34fdd4ec9bf"
+      },
+      "cauHoiNho": [],
+      "STT": 5,
+      "cauHoi": "Invitation",
+      "yNghia": "Lời mời, thiệp/giấy mời",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "82cae503-0472-472e-95bd-053776106e90"
+      },
+      "cauHoiNho": [],
+      "STT": 6,
+      "cauHoi": "Decoration",
+      "yNghia": "Sự trang trí",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "7eca983f-e55b-422b-a9b0-492a3c568203"
+      },
+      "cauHoiNho": [],
+      "STT": 7,
+      "cauHoi": "Arrangement",
+      "yNghia": "Sự sắp xếp",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "594748ff-ee5f-4cee-b415-e991aa65a014"
+      },
+      "cauHoiNho": [],
+      "STT": 8,
+      "cauHoi": "Permission",
+      "yNghia": "Sự cho phép",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "6b9d1608-6d4d-4e21-a65c-966b420333d6"
+      },
+      "cauHoiNho": [],
+      "STT": 9,
+      "cauHoi": "Request",
+      "yNghia": "Lời đề nghị, yêu cầu",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "d659d967-1854-4c84-935b-23d080c9934e"
+      },
+      "cauHoiNho": [],
+      "STT": 10,
+      "cauHoi": "Auditorium",
+      "yNghia": "Khán phòng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c4b1baef-de6d-4634-a011-58696118e8aa"
+      },
+      "cauHoiNho": [],
+      "STT": 11,
+      "cauHoi": "Guest",
+      "yNghia": "Khách mời",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "270130e5-e3f9-4660-ba3d-37c1e6ad9723"
+      },
+      "cauHoiNho": [],
+      "STT": 12,
+      "cauHoi": "Host",
+      "yNghia": "Chủ tiệc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "4e088570-3405-4f17-b38e-23408bed271a"
+      },
+      "cauHoiNho": [],
+      "STT": 13,
+      "cauHoi": "Attend",
+      "yNghia": "Tham dự",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "a4cddc75-4b70-4545-a3ad-bd1f4f237717"
+      },
+      "cauHoiNho": [],
+      "STT": 14,
+      "cauHoi": "Register",
+      "yNghia": "Đăng ký",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "94f949b2-f905-43e7-b271-63dd6fbc26be"
+      },
+      "cauHoiNho": [],
+      "STT": 15,
+      "cauHoi": "Traditional",
+      "yNghia": "Truyền thống",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ba50b47f-fab7-463e-b7be-7e9d1491c9a7"
+      },
+      "cauHoiNho": [],
+      "STT": 16,
+      "cauHoi": "Throw a party",
+      "yNghia": "Tổ chức tiệc",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "ba63e1d5-1cc0-457e-aef8-4cb00b3d86c8"
+      },
+      "cauHoiNho": [],
+      "STT": 17,
+      "cauHoi": "Institute",
+      "yNghia": "Viện (nghiên cứu), học viện",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "fa88509d-1711-4713-a2f5-26d85ccf4b72"
+      },
+      "cauHoiNho": [],
+      "STT": 18,
+      "cauHoi": "Speaker",
+      "yNghia": "Loa",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "2597a0f7-5b85-445a-b223-044f0593c36f"
+      },
+      "cauHoiNho": [],
+      "STT": 19,
+      "cauHoi": "Formal",
+      "yNghia": "Trang trọng",
+      "danhSachDapAn": []
+    },
+    {
+      "_id": {
+        "$oid": "c6760154-6ad9-4500-a9ee-6bcc3dc9c0fa"
+      },
+      "cauHoiNho": [],
+      "STT": 20,
+      "cauHoi": "Informal",
+      "yNghia": "Không trang trọng, thân mật",
+      "danhSachDapAn": []
+    }
+  ]
+}

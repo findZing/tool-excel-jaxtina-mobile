@@ -1,0 +1,196 @@
+{
+  "dangCauHoi": "P4",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "f4dd382a-5c05-4905-9ddc-bcea6a58276a"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Diana:</b></td>\n                        <td>Hey Vic, what is the <b>(1)</b> ____ for your next presentation?</td>\n                </tr>\n                <tr>\n                                                <td style=\"vertical-align: top;\"><b>Vic:</b></td>\n                        <td>I want to talk about a <b>(2)</b>  ____ cosmonaut. But I haven't decided who.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Diana:</b></td>\n                        <td>Have you ever heard about Valentina Tereshkova?</td>\n                </tr>\n                <tr>\n                                                <td style=\"vertical-align: top;\"><b>Vic:</b></td>\n                        <td>No, I only know Yuri Gagarin, the first human to journey into <b>(3)</b> ____ space.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Diana:</b></td>\n                        <td>I think Valentina, the first woman to travel into <b>(4)</b>  ____, is more suitable for you. </td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Diana:</b></td>\r\n\t\t\t<td>Hey Vic, what is the <b>(1)</b> <span style=\"color:red\"><b>topic</b></span> <span style=\"color:red\"> </span> for your next presentation?<br />\r\n\t\t\t<i>Này Vic, <span style=\"color:red\">chủ đề </span> cho bài thuyết trình tiếp theo của bạn là gì?</i></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Vic:</b></td>\r\n\t\t\t<td>I want to talk about a <b>(2)</b>  <span style=\"color:red\"><b>famous</b></span> <b> </b>cosmonaut. But I haven't decided who.<br />\r\n\t\t\t<i>Tôi muốn nói về một nhà du hành vũ trụ <span style=\"color:red\">nổi tiếng</span> . Nhưng tôi chưa quyết định ai.</i></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Diana:</b></td>\r\n\t\t\t<td>Have you ever heard about Valentina Tereshkova?<br />\r\n\t\t\t<i>Bạn đã bao giờ nghe nói về Valentina Tereshkova chưa?</i></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Vic:</b></td>\r\n\t\t\t<td>No, I only know Yuri Gagarin, the first human to journey into <b>(3)</b> <span style=\"color:red\"><b>outer</b></span>  space.<br />\r\n\t\t\t<i>Chưa, tôi chỉ biết Yuri Gagarin, người đầu tiên du hành vào vũ trụ.</i></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=“vertical-align: top;”><b>Diana:</b></td>\r\n\t\t\t<td>I think Valentina, the first woman to travel into <b>(4)</b>  <span style=\"color:red\"><b>space</b></span> , is more suitable for you.<br />\r\n\t\t\t<i>Tôi nghĩ Valentina, người phụ nữ đầu tiên du hành vào <span style=\"color:red\">vũ trụ</span> , phù hợp với bạn hơn.</i></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "topic",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "759be009-278a-40c9-82ed-ee7675bf259a"
+          }
+        },
+        {
+          "dapAn": "famous",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0e688a74-8737-4377-b02d-805efd8773d8"
+          }
+        },
+        {
+          "dapAn": "outer",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "9947fdd1-a3cd-4e70-8ec1-a0972af72b30"
+          }
+        },
+        {
+          "dapAn": "space",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "2a80bb8e-c2fe-496f-b061-fd26da450d6e"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3780118a-6345-4eb6-8968-b5dea75148a2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Diana:</b></td>\n                        <td colspan=\"3\">As far as I know, at that time, Valentina was a <b>(1) </b>____ in science and space travel.</td>\n                </tr>\n                <tr>\n                                                <td style=\"vertical-align: top;\"><b>Vic:</b></td>\n                        <td colspan=\"3\">Why did she become a <b>(2) </b>____?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Diana:</b></td>\n                        <td colspan=\"3\">In 1954, she learned to <b>(3)</b> ____, and was <b>(4) </b>____ to train as a cosmonaut in 1962.</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Diana:</b></td>\r\n                        <td>As far as I know, at that time, Valentina was a <b>(1) </b>  <span style=\"color:red\"><b>breakthrough</b></span>  in science and space travel.<br />\r\n                        <i>Theo như tôi biết, vào thời điểm đó, Valentina là một </i></span> <span style=\"color:red\"><i>bước đột phá </span> </i></span<i>trong khoa học và du hành vũ trụ.</i></td>\r\n                </tr>\r\n                <tr>\r\n                                                <td style=\"vertical-align: top;\"><b>Vic:</b></td>\r\n                        <td>Why did she become a <b>(2) </b><span style=\"color:red\"><b>cosmonaut</b></span> ?<br />\r\n                        <i>Tại sao cô ấy trở thành một </i></span> <span style=\"color:red\"><i>phi hành gia</i></span<i>?</i></span> </td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Diana:</b></td>\r\n                        <td>In 1954, she learned to <b>(3)</b> <span style=\"color:red\"><b>parachute</b></span> , and was <b>(4) </b><span style=\"color:red\"><b>chosen</b></span> <span style=\"color:red\"> </span> to train as a cosmonaut in 1962.<br />\r\n                        <i>Năm 1954, cô </i></span> <i>học</i><span style=\"color:red\"><i> nhảy dù</span>  và <span style=\"color:red\"><i>được chọn</span>  để huấn luyện thành phi hành gia vào năm 1962.</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "breakthrough ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "351edf34-8b4c-4695-a20c-b0364db1cf7e"
+          }
+        },
+        {
+          "dapAn": "cosmonaut",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "1fe10561-d891-4336-8b16-61df18b8acb1"
+          }
+        },
+        {
+          "dapAn": "parachute",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "347606f8-cef4-4104-a8f4-8815209b9508"
+          }
+        },
+        {
+          "dapAn": "chosen",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "cec20578-8027-44a2-8fc7-dbea05b063c0"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "c869d9af-a553-4222-ad4c-da54402764bd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "<table>\n        <tbody>\n                <tr>\n                                                <td style=\"vertical-align: top;\"><b>Vic:</b></td>\n                        <td colspan=\"2\">Was there anything <b>(1) </b>____ about her flight?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Diana:</b></td>\n                        <td colspan=\"2\">She orbited the Earth 48 times, which was so <b>(2)</b><span style=\"color:red\"><b> </b></span>____. </td>\n                </tr>\n                <tr>\n                                                <td style=\"vertical-align: top;\"><b>Vic:</b></td>\n                        <td colspan=\"2\">Yeah, I can't believe it. Anything else?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Diana:</b></td>\n                        <td colspan=\"2\">When she <b>(3)</b> ____ to Earth, she parachuted over 6,000 meters from her <b>(4)</b> ____ to Earth!</td>\n                </tr>\n        </tbody>\n</table>",
+      "yNghia": "<table>\r\n        <tbody>\r\n                <tr>\r\n                                                <td style=\"vertical-align: top;\"><b>Vic:</b></td>\r\n                        <td>Was there anything <b>(1) </b><span style=\"color:red\"><b>special</b></span>  about her flight?<br />\r\n                        <i>Có điều gì </i></span> <span style=\"color:red\"><i>đặc biệt </span> về chuyến bay của cô ấy không?</i></td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Diana:</b></td>\r\n                        <td>She orbited the Earth 48 times, which was so <b>(2)</b><span style=\"color:red\"><b> unbelievable</b></span> .<br />\r\n                        <i>Cô ấy quay quanh Trái đất 48 lần, điều đó thật </i></span> <span style=\"color:red\"><i>khó tin</i></span> <i>.</i></td>\r\n                </tr>\r\n                <tr>\r\n                                                <td style=\"vertical-align: top;\"><b>Vic:</b></td>\r\n                        <td>Yeah, I can't believe it. Anything else?<br />\r\n                        <i>Đúng, thật khó mà tin nổi. Còn gì nữa không?</i></span> </td>\r\n                </tr>\r\n                <tr>\r\n                        <td style=\"vertical-align: top;\"><b>Diana:</b></td>\r\n                        <td>When she <b>(3)</b> <span style=\"color:red\"><b>returned</b></span> <span style=\"color:red\"> </span> to Earth, she parachuted over 6,000 meters from her <b>(4)</b> <span style=\"color:red\"><b>spacecraft</b></span> <span style=\"color:red\"> </span> to Earth!<br />\r\n                        <i>Khi </i></span> <span style=\"color:red\"><i>quay trở lại </span> Trái đất, cô ấy đã nhảy dù từ </i></span> <span style=\"color:red\"><i>tàu vũ trụ </span> của mình xuống Trái đất ở độ cao hơn 6.000 mét!</i></td>\r\n                </tr>\r\n        </tbody>\r\n</table>\r",
+      "danhSachDapAn": [
+        {
+          "dapAn": "special ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0a4d78fc-9742-44c3-a159-c570190fd6ff"
+          }
+        },
+        {
+          "dapAn": "unbelivable",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "5b6f3ccf-4a56-47a9-b423-96f16582dcbc"
+          }
+        },
+        {
+          "dapAn": "returned",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "e44b0df4-0edf-4bda-89ed-b2a6536f59d6"
+          }
+        },
+        {
+          "dapAn": "spacecraft",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "96e87c20-484c-46c1-91e2-715c04a89917"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "77bfd10b-fd56-4bba-979d-d9f415351128"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "One of history's most <b>(1)</b> ____ doctors is the topic of today's Game Changers episode. Numerous human <b>(2)</b> ____ had been transplanted before 1967, but there had never been a <b>(3)</b> ____ heart transplant. Christiaan Barnard, a <b>(4)</b> ____ surgeon from South Africa, changed that  on December 3, 1967.",
+      "yNghia": "One of history's most <b>(1)</b> <span style=\"color:red\"><b>famous</b></span> <span style=\"color:red\"> </span> doctors is the topic of today's Game Changers episode. Numerous human <b>(2)</b> <span style=\"color:red\"><b>organs</b></span> <span style=\"color:red\"> </span> had been transplanted before 1967, but there had never been a <b>(3)</b> <span style=\"color:red\"><b>successful</b></span> <span style=\"color:red\"> </span> heart transplant. Christiaan Barnard, a <b>(4)</b>  <span style=\"color:red\"><b>cardiac</b></span> <b> </b>surgeon from South Africa, changed that  on December 3, 1967.<br />\r\n<i>Một trong những bác sĩ <span style=\"color:red\">nổi tiếng</span>  nhất trong lịch sử là chủ đề của Game Changers hôm nay. Nhiều <span style=\"color:red\">bộ phận</span>  của cơ thể người đã được cấy ghép trước năm 1967, nhưng chưa từng có một ca ghép tim <span style=\"color:red\">thành công</span>  nào. Christiaan Barnard, một bác sĩ phẫu thuật <span style=\"color:red\">tim </span> đến từ Nam Phi, đã thay đổi điều đó vào ngày 3 tháng 12 năm 1967.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "famous",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "f6e8df65-5292-4c46-844a-788798c4fc39"
+          }
+        },
+        {
+          "dapAn": "organs ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "5b599022-ecb2-43fc-9b6c-888ea00ecbcf"
+          }
+        },
+        {
+          "dapAn": "successful ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "84385865-9d1f-4ed4-9632-74d94c005596"
+          }
+        },
+        {
+          "dapAn": "cardiac",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "693e0342-cb7c-4abc-8aa7-5a1defed203f"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ba27d222-9de0-4f70-99fa-7d8ba5440396"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "UNESCO's  missions are to <b>(1)</b>  ____ international collaboration and enhance peace and global <b>(2)</b> ____. The <b>(3)</b> ____ of places with cultural or <b>(4)</b> ____ significance is one way that UNESCO does this.",
+      "yNghia": "UNESCO's  missions are to <b>(1)</b> <span style=\"color:red\"><b>encourage</b></span> <span style=\"color:red\"> </span> international collaboration and enhance peace and global <b>(2)</b> <span style=\"color:red\"><b>security</b></span> . The <b>(3)</b> <span style=\"color:red\"><b>preservation</b></span> <span style=\"color:red\"> </span> of places with cultural or <b>(4) </b><span style=\"color:red\"><b>national</b></span>  significance is one way that UNESCO does this. <br />\r\n<i>Nhiệm vụ của UNESCO là <span style=\"color:red\">khuyến khích</span>  hợp tác quốc tế và tăng cường hòa bình và <span style=\"color:red\">an ninh</span>  toàn cầu. <span style=\"color:red\">Việc bảo tồn</span>  các địa điểm có ý nghĩa quan trọng về mặt văn hóa hoặc <span style=\"color:red\">quốc gia</span>  là một cách mà UNESCO thực hiện điều này.</i>",
+      "danhSachDapAn": [
+        {
+          "dapAn": "encourage",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "b7da0b9c-9d9d-478b-ad15-a36e6729172e"
+          }
+        },
+        {
+          "dapAn": "security ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0cfa1de9-e937-4fca-aee7-9a20868efa16"
+          }
+        },
+        {
+          "dapAn": "preservation ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "3cd1aafe-35ab-49f6-a2d9-f82b784fd011"
+          }
+        },
+        {
+          "dapAn": "national ",
+          "isCorrect": true,
+          "_id": {
+            "$oid": "0cfab559-d7e6-40d3-9a08-bc7ed8011172"
+          }
+        }
+      ]
+    }
+  ]
+}

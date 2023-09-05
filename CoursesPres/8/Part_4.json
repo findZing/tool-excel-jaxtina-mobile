@@ -1,0 +1,328 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "Grammar",
+  "videoUrl": "4SKILLS_PRE_S_L8/grammar.mp4",
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:03:23",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P7",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "Where ________ <b><span style=\"color:blue\">(be)</span> </b>you from? - I'm from Japan.",
+            "_id": {
+              "$oid": "5105429d-1569-49d5-bf6d-505d312ce126"
+            },
+            "yNghia": "are"
+          },
+          {
+            "cauHoi": "Who ________ <b><span style=\"color:blue\">(be)</span> </b>he? - He's my teacher.",
+            "_id": {
+              "$oid": "6992b8f5-753d-4c73-a35c-b0b8f9d9b737"
+            },
+            "yNghia": "is"
+          },
+          {
+            "cauHoi": "Why ________ <b><span style=\"color:blue\">(be)</span> </b>you here? - I have an English class lately.",
+            "_id": {
+              "$oid": "8a49b869-fc62-4a3e-8665-8ea6c8f5b055"
+            },
+            "yNghia": "are"
+          },
+          {
+            "cauHoi": "Where ________ <b><span style=\"color:blue\">(be)</span> </b>the chair? - The chair is next to the table.",
+            "_id": {
+              "$oid": "6855b8f2-a4b2-41a4-8870-854cb2762114"
+            },
+            "yNghia": "is"
+          },
+          {
+            "cauHoi": "How ________ <b><span style=\"color:blue\">(be)</span> </b>you today? - I‘m fine.",
+            "_id": {
+              "$oid": "7023ba24-62f0-4c91-a841-9723acea34ca"
+            },
+            "yNghia": "are"
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:03:23",
+      "timeEnd": "0:06:37",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P5",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "_____ hats",
+            "_id": "fe80621c-da60-438c-8646-c7def87535c1",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "a",
+                "_id": "0667390c-75a0-462c-8991-c2df0f72f3e7"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "an",
+                "_id": {
+                  "$oid": "79482e9f-7b1e-4ef7-ab9a-2400d91547b5"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "two",
+                "_id": {
+                  "$oid": "f4a54c0b-e486-4fba-b70e-2ae12b536148"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "______ house",
+            "_id": "74e199d5-0493-419c-8b37-bce8118d556a",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "a",
+                "_id": "c27379f4-0bd3-4400-8c1c-a683ca65c053"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "an",
+                "_id": {
+                  "$oid": "262b7a28-cdd9-4df0-a1ff-72c879578ac3"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "two",
+                "_id": {
+                  "$oid": "bad174e7-e530-4f5d-85e0-bb423aca9ad8"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "______ elephant",
+            "_id": "da2424ab-53ee-457b-8541-edce534e936a",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "a",
+                "_id": "ed453acb-c808-4e35-b815-a3e7ac5d97fb"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "an",
+                "_id": {
+                  "$oid": "633feb5d-5826-4f7b-9258-5cf4816bc681"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "two",
+                "_id": {
+                  "$oid": "a57d4e1b-f614-4cda-b1fe-9ce8b8bdd6c8"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "______ tomatoes",
+            "_id": "c90e08a6-2eda-4677-8b85-306ceab28d8d",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "a",
+                "_id": "3319f65c-c737-4a35-9603-a1e56a5ecf4b"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "an",
+                "_id": {
+                  "$oid": "39b6b720-ee4d-4141-b954-e473934d3ec1"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "three",
+                "_id": {
+                  "$oid": "5de872c7-69c0-4cc0-b954-b82f592f3a4c"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "______ dogs",
+            "_id": "dc3c0b4d-6823-460e-a7af-8f2d47ef157d",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "a",
+                "_id": "4b269fd3-71b9-4071-a9e9-bf0f745d2e96"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "an",
+                "_id": {
+                  "$oid": "2c6c1c62-059a-4571-a218-3469d41c98cc"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "two",
+                "_id": {
+                  "$oid": "d997313a-daa4-45d7-ab44-070d04e3783b"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:06:37",
+      "timeEnd": "0:09:25",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "a21a5393-519b-4433-ae3a-d6a77c967a71",
+                "dapAn": "There is"
+              },
+              {
+                "_id": "f62cd814-499e-4831-b24d-34b49282e3b8",
+                "dapAn": "a bag"
+              },
+              {
+                "_id": "b8fe0ef1-cb30-4c38-894d-6cf5411334e8",
+                "dapAn": "on the"
+              },
+              {
+                "_id": "ea9a1177-e0e0-41ff-a831-648536289bb7",
+                "dapAn": "desk."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "84927854-3809-4a49-a486-1c2621af9d2b",
+                "dapAn": "There are"
+              },
+              {
+                "_id": "d451157a-b8c9-45dc-b024-f1765b40d63a",
+                "dapAn": "two books"
+              },
+              {
+                "_id": "ab03349a-2ff2-4dd7-9f49-03cc036f3609",
+                "dapAn": "and one"
+              },
+              {
+                "_id": "e77c78fe-ffbb-4d1c-bcb7-ffcac3dbc5cf",
+                "dapAn": "pen under"
+              },
+              {
+                "_id": "75a80b9d-8df8-466e-a3f7-560efa8a5617",
+                "dapAn": "the bed."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "9681b515-dc1f-4b8e-878e-73cae7ba3f66",
+                "dapAn": "There is"
+              },
+              {
+                "_id": "22db581b-6f2b-474b-860a-f4432c38a38e",
+                "dapAn": "a big closet"
+              },
+              {
+                "_id": "58bfa50b-cde1-4a64-803c-4f7103320a85",
+                "dapAn": "next to"
+              },
+              {
+                "_id": "c2997ab1-442e-4428-b176-80b447bccab3",
+                "dapAn": "the door."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "551101db-8466-4606-afcb-1a29d884a655",
+                "dapAn": "There are"
+              },
+              {
+                "_id": "40c407dd-bfec-40a0-9dd4-ea649fd7abe0",
+                "dapAn": "two chairs"
+              },
+              {
+                "_id": "41c1d396-15d4-4312-8367-e1ca3ee37c01",
+                "dapAn": "in front of"
+              },
+              {
+                "_id": "f5134e40-fe32-4aa4-8db4-3fb603520757",
+                "dapAn": "the window."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "157a03f2-d128-4991-9a51-870a5b7d199a",
+                "dapAn": "There is"
+              },
+              {
+                "_id": "1e808ab1-0584-4c7b-bb3c-275e447f28bb",
+                "dapAn": "a lamp"
+              },
+              {
+                "_id": "7770de52-56cb-49f1-890a-608445ae624c",
+                "dapAn": "and a cat"
+              },
+              {
+                "_id": "1ea97b56-ffc9-4109-a952-94bf237a6058",
+                "dapAn": "behind"
+              },
+              {
+                "_id": "24c58794-fbf3-4536-baf4-35be12b5f703",
+                "dapAn": "the door."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "noiDungVideo": [
+    {
+      "timeEnd": "0:03:23",
+      "noiDung": "<b><span style=\"color:red\">1. <i>Be</i> information questions <i>(Các câu hỏi thông tin với động từ To be)</i></span></b><br />\n<b>Function <i>(Cách dùng)</i></b><br />\nChúng ta sử dụng các từ để hỏi với động từ <b><i>to be</i></b> để hỏi các câu đơn giản. Sử dụng <b><i>How old</i></b> để hỏi về tuổi tác. Sử dụng <b><i>What</i></b> để hỏi thông tin về một thứ gì đó. Sử dụng <b><i>Where</i></b> để hỏi về địa điểm. Sử dụng <b><i>Who</i></b> để hỏi về một người hoặc nhiều người.<br />\n<br />\n<b>Form <i>(Cấu trúc)</i></b>\n<table align=\"center\">\n        <tbody>\n                <tr>\n                        <td><b>Question word</b><br />\n                        <b><i>(Từ để hỏi)</i></b></td>\n                        <td><b>To be</b> </td>\n                        <td><b>Subject</b><br />\n                        <b><i>(Chủ ngữ)</i></b></td>\n                </tr>\n                <tr>\n                        <td>How old</td>\n                        <td>are</td>\n                        <td>your parents?</td>\n                </tr>\n                <tr>\n                        <td>What</td>\n                        <td>is</td>\n                        <td>your email?</td>\n                </tr>\n                <tr>\n                        <td>Where</td>\n                        <td>are</td>\n                        <td>they from?</td>\n                </tr>\n                <tr>\n                        <td>Who</td>\n                        <td>is</td>\n                        <td>he / she?</td>\n                </tr>\n                <tr>\n                        <td>How</td>\n                        <td>are</td>\n                        <td>you?</td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<span style=\"color:red\"><b>2. <i>A/an,</i> singular and plural nouns <i>(A/an, danh từ số ít và danh từ số nhiều)</i></b></span><br />\nDanh từ số ít là danh từ được dùng để chỉ một sự vật, hiện tượng và danh từ số nhiều là danh từ chỉ số lượng từ 2 người, 2 sự vật, 2 sự việc, 2 hiện tượng trở lên.<br />\nChúng ta sử dụng <b><i>a/an + danh từ số ít</i></b> để chỉ một vật. Sử dụng <b><i>danh từ + -s</i></b> để nói hai hoặc nhiều vật.\n\n<table>\n        <tbody>\n                <tr>\n                        <td><b>For one item:</b><br />\n                        <b><i>(Đối với một đồ vật)</i></b></td>\n                        <td><b>Example</b><br />\n                        <b><i>(Ví dụ)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b>a</b> + singular noun <br />\n                        <i>(a + danh từ số ít)</i></td>\n                        <td>a laptop</td>\n                </tr>\n                <tr>\n                        <td><b>an</b> + singular noun beginning with a vowel sound (a, o, e, u, i)<br />\n                        <i>(an + danh từ số ít bắt đầu bằng nguyên âm a, o, e, u, i)</i></td>\n                        <td>an ID card</td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<table>\n        <tbody>\n                <tr>\n                        <td><b>For two or more items:</b><br />\n                        <b><i>(Đối với hai đồ vật trở lên)</i></b></td>\n                        <td><b>Example</b><br />\n                        <b><i>(Ví dụ)</i></b></td>\n                </tr>\n                <tr>\n                        <td>number + noun + <b><i>-s</i></b><br />\n                        <i>(số lượng + danh từ + -s)</i></td>\n                        <td>2 wallets</td>\n                </tr>\n                <tr>\n                        <td>number + noun ending with <b><i>-ch</i></b> and <b><i>-sh</i></b> + <b><i>-es</i></b><br />\n                        <i>(số lượng + danh từ kết thúc bằng -ch và -sh + -es)</i></td>\n                        <td>3 sandwiches </td>\n                </tr>\n        </tbody>\n</table>"
+    },
+    {
+      "timeEnd": "0:06:37",
+      "noiDung": "<span style=\"color:red\"><b>1. There is / There are <i>(Có ...)</i></b></span><br />\n<b>Function <i>(Cách dùng)</i></b><br />\nChúng ta sử dụng <i>There is / There are</i> để nói về sự tồn tại của một hoặc nhiều vật.<br />\n<br />\n<b>Form <i>(Cấu trúc)</i></b>\n<table>\n        <tbody>\n                <tr>\n                        <td colspan=\"4\"><b>For two or more things:</b><br />\n                        <b><i>(Đối với hai đồ vật trở lên)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b><i>There</i></b></td>\n                        <td><b><i>are</i></b></td>\n                        <td><b>Number</b></td>\n                        <td><b>Plural Noun</b></td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">There</td>\n                        <td rowspan=\"2\">are (‘re)</td>\n                        <td>two</td>\n                        <td>bags.</td>\n                </tr>\n                <tr>\n                        <td>four</td>\n                        <td>sandwiches.</td>\n                </tr>\n        </tbody>\n</table>\n \n\n<table>\n        <tbody>\n                <tr>\n                        <td colspan=\"4\"><b>For one thing:</b><br />\n                        <b><i>(Đối với một đồ vật)</i></b></td>\n                </tr>\n                <tr>\n                        <td><b><i>There</i></b></td>\n                        <td><b><i>is</i></b></td>\n                        <td><b>a/an</b></td>\n                        <td><b>Singular Noun</b></td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">There</td>\n                        <td rowspan=\"2\">is (‘s)</td>\n                        <td>a</td>\n                        <td>pen.</td>\n                </tr>\n                <tr>\n                        <td>an</td>\n                        <td>umbrella.</td>\n                </tr>\n        </tbody>\n</table>\n<br />\n<span style=\"color:red\"><b>2. Combining sentences with <i>and</i> <i>(Nối câu với and)</i></b></span><br />\n<b>Function <i>(Cách dùng)</i></b><br />\nKhi chúng ta muốn thêm thông tin cho một ý kiến, ta có thể dùng từ <b><i>and</i></b><i>.</i><br />\nVí dụ: I have a pen <b>and</b> a book. <i>(Tôi có một cái bút <b>và</b> một quyển sách.)</i>"
+    },
+    {
+      "timeEnd": "0:09:25",
+      "noiDung": null
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "dangCauHoi": "DangVideoPractise",
+  "elementType": "VIDEO1",
+  "loaiBai": "Grammar",
+  "videoUrl": "4SKILLS_PRE_S_L9/grammar.mp4",
+  "danhSachCauHoi": [
+    {
+      "timeStart": "0:00:00",
+      "timeEnd": "0:04:58",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P6",
+        "danhSachCauHoi": [
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "bc8d65b0-0f16-42e4-990d-b78b2ef4fd22",
+                "dapAn": "They"
+              },
+              {
+                "_id": "4b956f42-ed70-46f1-83cf-ee91011681f9",
+                "dapAn": "work in"
+              },
+              {
+                "_id": "0b659db9-a985-4bce-8124-2f421623bd6e",
+                "dapAn": "a hospital."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "135ae790-f486-4261-b3ae-219967bf8764",
+                "dapAn": "She"
+              },
+              {
+                "_id": "89c3ef17-a20c-48d1-bcba-74400ddef4c6",
+                "dapAn": "doesn't"
+              },
+              {
+                "_id": "5c6f4f3c-b05c-4eca-adf4-6dfc063b57d3",
+                "dapAn": "like"
+              },
+              {
+                "_id": "27feec8c-112d-4172-bd66-555b101647b3",
+                "dapAn": "her job."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "7dcec9be-9b3e-4d24-a63d-7032d64fca37",
+                "dapAn": "Sean and"
+              },
+              {
+                "_id": "34b8507b-7856-461a-9a42-3d609b0497f6",
+                "dapAn": "James"
+              },
+              {
+                "_id": "5c4d708a-7bd6-47b9-b517-3a6baca0fc94",
+                "dapAn": "teach"
+              },
+              {
+                "_id": "4583b5b2-d128-48e7-975b-a7395956dfb5",
+                "dapAn": "English"
+              },
+              {
+                "_id": "21c124df-60e3-4975-a363-ec50daf1a818",
+                "dapAn": "in a school."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "0be537e4-60e7-48e2-90a7-be743b2311d6",
+                "dapAn": "I don't"
+              },
+              {
+                "_id": "83510feb-35a5-4b47-8432-6059b5bc393e",
+                "dapAn": "work"
+              },
+              {
+                "_id": "416c4a5d-8d29-4d58-b712-fb54846352be",
+                "dapAn": "at"
+              },
+              {
+                "_id": "48128bf4-c925-48db-bd14-1dbbdbeadeed",
+                "dapAn": "weekends."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "984190aa-0bcc-4530-9f70-65a0e69d3d5d",
+                "dapAn": "It starts"
+              },
+              {
+                "_id": "b9246fa5-3c4a-4f53-bf0e-84a592bfeb2a",
+                "dapAn": "in the"
+              },
+              {
+                "_id": "38327acd-be6c-4290-a5b7-f70761f49593",
+                "dapAn": "morning."
+              }
+            ]
+          },
+          {
+            "cauHoiNho": [],
+            "danhSachDapAn": [
+              {
+                "_id": "6fe80107-151e-4a9a-87a5-ae9dd6e57a27",
+                "dapAn": "Pete and"
+              },
+              {
+                "_id": "f2a8d947-851d-42ae-bb57-9bc996ad37ce",
+                "dapAn": "Diane"
+              },
+              {
+                "_id": "4a67468b-a999-49ba-934d-6ffe83ff6eaa",
+                "dapAn": "live in"
+              },
+              {
+                "_id": "ba88cfce-c0e1-4150-92be-3c90cb75d0cd",
+                "dapAn": "France."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:04:58",
+      "timeEnd": "0:07:37",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P7",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "\"I'm a teacher. I teach music\", he said. // ➔ He's a teacher. He _____________ <b><span style=\"color:blue\">(teach)</span></b> music.",
+            "_id": {
+              "$oid": "31303e51-e64e-4f7a-bf1c-74cdc3ac4687"
+            },
+            "yNghia": "teaches"
+          },
+          {
+            "cauHoi": "\"I don't work in an office\", he said. // ➔ He ____________ <b><span style=\"color:blue\">(not work)</span></b> in an office.",
+            "_id": {
+              "$oid": "6682dc63-8e0a-480c-97e7-bcd836a53223"
+            },
+            "yNghia": "doesn't work // does not work"
+          },
+          {
+            "cauHoi": "\"I live in Lima\", he said. // ➔ Tom ____________ <b><span style=\"color:blue\">(live)</span></b> in Lima.",
+            "_id": {
+              "$oid": "48622dff-6ae0-4c4f-be06-c8db480fa4e3"
+            },
+            "yNghia": "lives"
+          },
+          {
+            "cauHoi": "\"I go to college by train\", he said. // ➔ He ____________ <b><span style=\"color:blue\">(go)</span></b> to college by train.",
+            "_id": {
+              "$oid": "2c946ba6-8047-4c7e-b4bd-aaae50fbb709"
+            },
+            "yNghia": "goes"
+          },
+          {
+            "cauHoi": "\"I speak two languages\", he said. // ➔ He ____________ <b><span style=\"color:blue\">(speak)</span></b> two languages.",
+            "_id": {
+              "$oid": "da1b99c0-5e08-427a-a1f5-36a767cea9f3"
+            },
+            "yNghia": "speaks"
+          }
+        ]
+      }
+    },
+    {
+      "timeStart": "0:07:37",
+      "timeEnd": "0:09:56",
+      "done": false,
+      "practice": {
+        "done": false,
+        "dangCauHoi": "P5",
+        "danhSachCauHoi": [
+          {
+            "cauHoi": "_________ you have a job?",
+            "_id": "0e2af635-18de-4ad0-b8d5-fd7561d4dc51",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "Do",
+                "_id": "04d1f778-e4b8-4303-bab8-e9245b26cdf8"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "Does",
+                "_id": {
+                  "$oid": "77fd25ee-2c92-45bc-8457-51c783696686"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "Are",
+                "_id": {
+                  "$oid": "19640d7c-0943-41cf-9832-505a529d64c8"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "_________ your brother work every day?",
+            "_id": "96e36c01-788a-4ef4-b711-12a4a677de06",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "Is",
+                "_id": "a681bb64-1df0-4a95-8e74-93fcc55d2daa"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "Do",
+                "_id": {
+                  "$oid": "c0c42570-105b-469f-8dbd-4623e8478504"
+                }
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "Does",
+                "_id": {
+                  "$oid": "4eab2011-b051-4ee5-829e-92f346b53a5b"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "Does _________ boil at 100 degree Celsius?",
+            "_id": "084767f5-cd75-472a-9925-30392b09366f",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "waters",
+                "_id": "db07efbe-04e0-4d7a-95e8-f5d5c6c7aea7"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "water",
+                "_id": {
+                  "$oid": "854b8453-03fb-43e5-acf0-3dc3fc69644c"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "we",
+                "_id": {
+                  "$oid": "f2fcb968-f3d6-46c6-bda8-e112fa626c8d"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "Does _________ work in a hotel?",
+            "_id": "0c89c3b5-6191-4936-b24c-9ff53985b6d4",
+            "danhSachDapAn": [
+              {
+                "isCorrect": true,
+                "dapAn": "he",
+                "_id": "4e36c7c2-531f-4c6d-bf61-2d6f7095f9c3"
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "you",
+                "_id": {
+                  "$oid": "60460417-9586-41b4-b4dc-5816b5235374"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "we",
+                "_id": {
+                  "$oid": "d9cbb228-cb85-4d9c-b3d8-a776237ff3b7"
+                }
+              }
+            ]
+          },
+          {
+            "cauHoi": "Do _________ have dinner at home every day?",
+            "_id": "335d588e-705e-4a84-aafd-1b4c8735e985",
+            "danhSachDapAn": [
+              {
+                "isCorrect": false,
+                "dapAn": "it",
+                "_id": "cd2c5b31-b94b-424d-89c3-8d0f4a6d35de"
+              },
+              {
+                "isCorrect": true,
+                "dapAn": "they",
+                "_id": {
+                  "$oid": "8b99bf55-718a-4563-9d74-ca31bd5e03ab"
+                }
+              },
+              {
+                "isCorrect": false,
+                "dapAn": "he",
+                "_id": {
+                  "$oid": "0ed2d093-433d-4a3f-949a-e5d787804e7c"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "noiDungVideo": [
+    {
+      "timeEnd": "0:04:58",
+      "noiDung": "<span style=\"color:red\"><b>Function <i>(Cách dùng)</i> & Affirmative form <i>(Dạng khẳng định)</i></b></span><br />\n<b>Function <i>(Cách dùng)</i></b> <br />\nThì hiện tại đơn mô tả: <br />\nMột thói quen hay hành động lặp đi lặp lại<br />\nChân lý, sự thật hiển nhiên<br />\n<br />\n<b>Form <i>(Cấu trúc):</i></b> <b>A</b><b>ffirmative</b> <b><i>(Khẳng định)</i></b>\n<table>\n        <tbody>\n                <tr>\n                        <td><b>Subjective Pronouns</b><br />\n                        <b><i>(Đại từ chủ ngữ)</i></b></td>\n                        <td><b>Verb</b><br />\n                        <b><i>(Động từ)</i></b></td>\n                        <td> </td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">I / we / you / they</td>\n                        <td>go</td>\n                        <td>to college.</td>\n                </tr>\n                <tr>\n                        <td>like</td>\n                        <td>my job.</td>\n                </tr>\n                <tr>\n                        <td rowspan=\"2\">He / she / it</td>\n                        <td>likes</td>\n                        <td>his / her job.</td>\n                </tr>\n                <tr>\n                        <td>goes</td>\n                        <td>to work by bus.</td>\n                </tr>\n                <tr>\n                        <td colspan=\"3\">Add <i>-s</i> to regular verbs. (thêm <i>-s</i> cho động từ thông thường)<br />\n                        Add <i>-es</i> to verbs ending with <i>-o, -sh, -ch</i> (thêm <i>-es</i> cho động từ có đuôi <i>-o, -sh, -ch</i>)</td>\n                </tr>\n        </tbody>\n</table>"
+    },
+    {
+      "timeEnd": "0:07:37",
+      "noiDung": "<span style=\"color:red\"><b>Negative form <i>(Dạng phủ định)</i></b></span>\n<table>\n        <tbody>\n                <tr>\n                        <td><b>Subject Pronouns</b><br />\n                        <b><i>(Đại từ chủ ngữ)</i></b></td>\n                        <td><b>Verb</b><br />\n                        <b><i>(Động từ)</i></b></td>\n                        <td> </td>\n                </tr>\n                <tr>\n                        <td>I / we / you / they</td>\n                        <td>don't work</td>\n                        <td>in a coffee shop.</td>\n                </tr>\n                <tr>\n                        <td>He / she / it</td>\n                        <td>doesn't speak</td>\n                        <td>Spanish.</td>\n                </tr>\n        </tbody>\n</table>"
+    },
+    {
+      "timeEnd": "0:09:56",
+      "noiDung": "<span style=\"color:red\"><b>Yes/No question <i>(Câu nghi vấn)</i></b></span><br />\n<b><i>-</i></b> <b>Yes/No question <i>(Câu nghi vấn)</i></b>\n<table>\n        <tbody>\n                <tr>\n                        <td>Do</td>\n                        <td>you / we / they</td>\n                        <td>work on Saturday?</td>\n                </tr>\n                <tr>\n                        <td>Does</td>\n                        <td>he / she / it</td>\n                        <td>speak Chinese?</td>\n                </tr>\n        </tbody>\n</table>\n <br />\n<b>-</b> <b>Short answer <i>(Câu trả lời ngắn)</i></b><br />\n+ <b>Affirmative</b> <i>(Khẳng định)</i>\n\n<table>\n        <tbody>\n                <tr>\n                        <td rowspan=\"2\">Yes,</td>\n                        <td>I / we / you / they</td>\n                        <td>do.</td>\n                </tr>\n                <tr>\n                        <td>He / she / it</td>\n                        <td>does.</td>\n                </tr>\n        </tbody>\n</table>\n<br />\n+ <b>Negative</b> <i>(Phủ định)</i>\n\n<table>\n        <tbody>\n                <tr>\n                        <td rowspan=\"2\">No,</td>\n                        <td>I / we / you / they</td>\n                        <td>don't.</td>\n                </tr>\n                <tr>\n                        <td>he / she / it</td>\n                        <td>doesn't.</td>\n                </tr>\n        </tbody>\n</table>"
+    }
+  ]
+}

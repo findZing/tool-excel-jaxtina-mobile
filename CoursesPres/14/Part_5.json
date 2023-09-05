@@ -1,0 +1,666 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "b58f5071-ab34-4420-82ad-2be73cf71260"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’m David, __________ a tourist.",
+      "yNghia": "I'm David, <span style=\"color:red\">I'm</span> a tourist.<br />\r\n<i>Tôi là David, <span style=\"color:red\">tôi là </span>một du khách</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1b0b3ba3-81e9-45e4-bd81-7db29518325a"
+          },
+          "dapAn": "I’am",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "127ecd67-97ad-4706-8292-b5ad75ddfeb3"
+          },
+          "dapAn": "I am",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "04d29ee7-2aab-48bc-a231-9c04a12b788b"
+          },
+          "dapAn": "I’m",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_1. I_m ... tourist.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_1. I_m ... tourist.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9887cdad-8e87-4c1b-81be-c197607e64c3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "This is my __________ time here.",
+      "yNghia": "This is my <span style=\"color:red\">first </span>time here.<br />\r\n<i>Đây là lần <span style=\"color:red\">đầu tiên </span>tôi đến đây</i><i>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4099d6c9-4343-45ce-992f-12ca9600c47c"
+          },
+          "dapAn": "first",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "556608e4-8fa1-4123-9420-cfe94f74db5a"
+          },
+          "dapAn": "second",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0bdc0e0e-2181-4000-8578-97067ca15f6a"
+          },
+          "dapAn": "third",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_2. This ... here.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_2. This ... here.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "4a55dc48-bf50-4bb7-accc-ecdb45f312eb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "__________ can I help you?",
+      "yNghia": "<span style=\"color:red\">How </span>can I help you?<br />\r\n<i>Tôi có thể giúp gì cho bạn?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9bd80203-9ec2-4e5f-923f-628e306ece16"
+          },
+          "dapAn": "When",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "eece3645-2394-41e9-9f71-54c8b38eed8b"
+          },
+          "dapAn": "How",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "63d27029-bb77-4bbf-92f7-63bd1c2f8001"
+          },
+          "dapAn": "Where",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_3. How ... you.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_3. How ... you.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a773e0d6-4f8d-440a-ad99-6657c996b89f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Is __________ a bus stop near here?",
+      "yNghia": "Is <span style=\"color:red\">there</span> a bus stop near here?<br />\r\n<i>Có trạm dừng xe buýt nào gần đây không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "73462fa4-95b4-4692-9b01-9f564eb4033b"
+          },
+          "dapAn": "there",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "56a9da7e-6982-473b-8f82-6bfc171a091b"
+          },
+          "dapAn": "those",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "612dbd36-50d7-42dc-87b9-4b2ca7de2046"
+          },
+          "dapAn": "these",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_4. Is ... here.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_4. Is ... here.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "51592f98-37fb-4bc5-ba89-306f63a55e70"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Go _____________ this street.",
+      "yNghia": "Go <span style=\"color:red\">straight up</span> this street.<br />\r\n<i>Hãy <span style=\"color:red\">đi thẳng lên </span>con phố này.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "401b1cf2-718a-4f7b-8d20-c9ad8b72d741"
+          },
+          "dapAn": "straight",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d5ff53c5-a5c4-4022-b8ff-1250a58478e1"
+          },
+          "dapAn": "straight up",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "455cbf4d-924c-47ff-8dbf-81c288abfca6"
+          },
+          "dapAn": "up",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_5. Go ... street.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_5. Go ... street.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "90c3ac56-b091-45b1-81ab-f75336656501"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Where are you __________?",
+      "yNghia": "Where are you <span style=\"color:red\">from</span>?<br />\r\n<i>Bạn đến <span style=\"color:red\">từ </span>đâu?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "326a29f0-e4f5-4005-b80b-9fa8d3ed8e79"
+          },
+          "dapAn": "fom",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2002a474-4f49-4484-99d9-92bac5792850"
+          },
+          "dapAn": "form",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5e5a398d-5614-4042-a1b3-4ca61008a69c"
+          },
+          "dapAn": "from",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_6. Where ... from.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_6. Where ... from.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5c57c801-d58e-46e7-8856-a4b28fe9c948"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "__________ you tell me where the grocery store is?",
+      "yNghia": "<span style=\"color:red\">Could </span>you tell me where the grocery store is?<br />\r\n<i>Bạn <span style=\"color:red\">có thể </span>cho tôi biết cửa hàng tạp hóa ở đâu không</i><i>?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fdcca721-2132-49c2-afec-84e76fc0e8b0"
+          },
+          "dapAn": "Should",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2ffd32a5-fa19-47a7-b32e-ad44708701e5"
+          },
+          "dapAn": "Would",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b9d203e7-eebb-48e9-9884-564a7144a8d0"
+          },
+          "dapAn": "Could",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_7. Could ... is.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_7. Could ... is.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c3af6331-c5d2-4533-b04f-71eb595647bf"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "You can take bus number __________.",
+      "yNghia": "You can take bus number <span style=\"color:red\">18</span>.<br />\r\n<i>Bạn có thể bắt xe buýt số <span style=\"color:red\">18</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a846a431-d41d-41d4-ba60-395c73b01fea"
+          },
+          "dapAn": 18,
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4dfdb9c0-d204-486c-b31c-20c9edd6c911"
+          },
+          "dapAn": 80,
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "97600839-9775-4ae7-ab5a-e0cbafd0c07c"
+          },
+          "dapAn": 8,
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_8. You ... 18.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_8. You ... 18.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "01b216bd-67ce-4a92-aa0e-530e6f42fb69"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Get __________ at the 3rd stop.",
+      "yNghia": "Get <span style=\"color:red\">off </span>at the 3rd stop. <br/>\r\n<i>Hãy <span style=\"color:red\">xuống xe </span>ở điểm dừng thứ ba.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "050827cc-e6c4-4dce-9d46-91a08110837d"
+          },
+          "dapAn": "on",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "10a02a82-d3d5-47e8-b9ed-13118ddaa17b"
+          },
+          "dapAn": "off",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "65c39b38-8761-4a39-8436-61f22bea6dbc"
+          },
+          "dapAn": "at",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_9. Get ... stop.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_9. Get ... stop.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a3542a28-4ea4-4988-a1d0-594325c573bd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Where __________ the bus stop?",
+      "yNghia": "Where <span style=\"color:red\">does </span>the bus stop?<br />\n<i>Xe buýt dừng ở đâu vậy?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1abafba2-7905-4c7d-bcaa-d51115abf67f"
+          },
+          "dapAn": "did",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d6697d28-4caa-483f-8565-9d2c5242fe10"
+          },
+          "dapAn": "does",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bb5d1e56-8df9-4f38-a919-81e7a6e5daf9"
+          },
+          "dapAn": "doesn't",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_10. Where ... stop.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_10. Where ... stop.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f3567c8f-4f2a-4d82-a30a-6ecb23ca3166"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The grocery store __________ opposite the bus stop.",
+      "yNghia": "The grocery store <span style=\"color:red\">is </span>opposite the bus stop. <br /><i>Cửa hàng tạp hóa <span style=\"color:red\">ở </span>đối diện với trạm dừng xe buýt.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "88258b4c-66f6-40d1-8151-a6a10778a276"
+          },
+          "dapAn": "isn't",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4549b958-977e-4baf-a067-66841aca18dc"
+          },
+          "dapAn": "are",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0c7284c4-7ad5-4e67-991f-f04efc55742c"
+          },
+          "dapAn": "is",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_11. The ... stop.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_11. The ... stop.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6dcb17c9-9501-47e7-aa5c-d2279612db88"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "__________ about the museum?",
+      "yNghia": "<span style=\"color:red\">What </span>about the museum?<br />\r\n<i>Vậy còn bảo tàng thì sao?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "75022a55-516f-4c29-aee5-9f53ca0b5fde"
+          },
+          "dapAn": "What",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ff3a066b-7971-4134-ac55-ba3b8e88abb2"
+          },
+          "dapAn": "How",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "65c51311-613f-43c5-a675-0fc51a422fb8"
+          },
+          "dapAn": "When",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_12. What ... museum.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_12. What ... museum.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "523329b9-dcb6-4865-afde-8296e650a248"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "__________ left. Take the second right.",
+      "yNghia": "<span style=\"color:red\">Turn </span>left. Take the second right.<br />\n<i><span style=\"color:red\">Rẽ </span></i><i>trái. Rẽ phải ở ngã rẽ thứ hai.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "93e50ee2-b9cd-43fa-bbc7-999845bdff8a"
+          },
+          "dapAn": "Tell",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d32846b8-24e9-4d7b-b7be-98b3ac2ec788"
+          },
+          "dapAn": "Take",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0e40d416-3b0e-463b-823d-34a09dc59a9a"
+          },
+          "dapAn": "Turn",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_13. Turn ... right.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_13. Turn ... right.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "162c3413-0ae0-4cb2-b6e9-7edb9486c1b4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The science museum is __________ the left.",
+      "yNghia": "The science museum is <span style=\"color:red\">on </span>the left.<br />\r\n<i>Bảo tàng khoa học nằm <span style=\"color:red\">ở </span>bên trái.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "351f100d-bbcd-43b9-b38f-264cdd4ec0af"
+          },
+          "dapAn": "on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3aa98d0d-9877-4c62-b0c6-6d2f6507dd50"
+          },
+          "dapAn": "in",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "60c486aa-5fe7-4c76-bae6-c0461814642e"
+          },
+          "dapAn": "with",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_14. The .... left.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_14. The .... left.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "aa3b9ea4-8ead-4b67-b9ce-178514ab5723"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "__________ between the park and the school.",
+      "yNghia": "<span style=\"color:red\">It's</span> between the park and the school.<br />\r\n<i><span style=\"color:red\">Nó ở</span></i><i> giữa công viên và trường học.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "da26debb-fc9b-49fd-a112-007edafa6c8b"
+          },
+          "dapAn": "It",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "4fa4789c-d665-4508-9f24-d54fe545a704"
+          },
+          "dapAn": "It's",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8b455d78-229a-40e8-a65f-c239c82b11d3"
+          },
+          "dapAn": "It is",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_15. It_s ... school.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_15. It_s ... school.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "4e575f5f-83ed-41db-8154-b047541cc6de"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The __________ museum is great, too.",
+      "yNghia": "The <span style=\"color:red\">history</span> museum is great, too.<br />\r\n<i>Bảo tàng <span style=\"color:red\">lịch sử </span>cũng tuyệt nữa.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "768041a9-aa26-4137-8c21-52e5c350cd88"
+          },
+          "dapAn": "science",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "91d0f415-95c3-419b-b985-bceb205710e6"
+          },
+          "dapAn": "history",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4edef5e8-f0d2-4abb-b30a-cac614dfacb4"
+          },
+          "dapAn": "art",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_16. The ... too.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_16. The ... too.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "795c9630-f223-49fb-bfd7-22e1645bb9ae"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It’s __________ from the park.",
+      "yNghia": "It's <span style=\"color:red\">across </span>from the park.<br />\r\n<i>Nó ở <span style=\"color:red\">đối diện</span> với công viên.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "991c2544-d8d3-4c66-9ad9-205e9dcdb717"
+          },
+          "dapAn": "a cross",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f9032c8d-e623-41a4-b2ff-07959cf03eca"
+          },
+          "dapAn": "cross",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5504a348-0de7-40a7-890e-8ac70cc6eff0"
+          },
+          "dapAn": "across",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_17. It_s ... park.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_17. It_s ... park.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b9119931-798d-43c6-85b7-cf0964085956"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I also want to __________ the Mermaid Aquarium.",
+      "yNghia": "I also want to <span style=\"color:red\">visit </span>the Mermaid Aquarium.<br />\r\n<i>Tôi cũng muốn đi <span style=\"color:red\">thăm </span>Thủy cung Nàng tiên cá. </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8f87fa1e-4772-48f0-bc8a-41c35194a5de"
+          },
+          "dapAn": "visit",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "79712a21-cc7e-44e8-b720-fb15fca39a90"
+          },
+          "dapAn": "vote",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1258f076-bf77-49af-a2bc-034afc160971"
+          },
+          "dapAn": "view",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_18. I ... Aquarium.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_18. I ... Aquarium.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "707d4228-f529-4a96-85d5-ce2584fd7356"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Is it __________ here?",
+      "yNghia": "Is it <span style=\"color:red\">near </span>here?<br />\r\n<i>Nó có ở <span style=\"color:red\">gần </span>đây không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6352d1be-b3ce-4fe8-8466-3d8258c6322c"
+          },
+          "dapAn": "close",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "51d5223b-de20-4970-9b54-0980dbb492c7"
+          },
+          "dapAn": "far",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2a4f1b28-16d3-4567-b24b-6e322c27f052"
+          },
+          "dapAn": "near",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_19. Is ... here.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_19. Is ... here.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "be360dab-9cea-4613-b593-b6c7b8a672b5"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "It’s right __________ the Central Park.",
+      "yNghia": "It's right <span style=\"color:red\">behind </span>the Central Park.<br />\r\n<i>Nó ở ngay <span style=\"color:red\">phía sau </span>Công viên Trung tâm.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4acbae93-2e29-43e5-95da-949ef9c64cf6"
+          },
+          "dapAn": "under",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2283ecb6-b87a-461f-9e84-4dffa2694abe"
+          },
+          "dapAn": "behind",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c0180b27-3d3f-462a-b976-bb3f003072ad"
+          },
+          "dapAn": "in front of",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L14/sounds/normal/PRES_14_LISTENING_20. It_s ... Park.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L14/sounds/slow/PRES_14_LISTENING_20. It_s ... Park.mp3"
+    }
+  ]
+}

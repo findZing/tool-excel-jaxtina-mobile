@@ -1,0 +1,1326 @@
+{
+  "dangCauHoi": "P1",
+  "elementType": "LISTENING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "e7aed6bc-a42c-4eb3-9021-b21a33bebb2d"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Hi, Anna. _____ are you going?",
+      "yNghia": "Hi, Anna. <span style=\"color:red\">Where</span> are you going?<br />\r\n<i>Chào, Ann. Bạn đang đi <span style=\"color:red\">đâu </span>vậy?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b33ac4ab-815b-4cef-a9d3-7380a8282cdc"
+          },
+          "dapAn": "How",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ac0b0f39-f02b-4d82-86ef-c76a34cf38b6"
+          },
+          "dapAn": "Where",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2be40fa5-f131-4e00-bbda-2bd9cab00c31"
+          },
+          "dapAn": "When",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_1. Hi ... going.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_1. Hi ... going.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "ab91ee37-609b-4690-9323-d208f3a936fb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I am going to the ___________.",
+      "yNghia": "I am going to the <span style=\"color:red\">bookstore</span>.<br />\r\n<i>Tôi đang đi đến <span style=\"color:red\">hiệu sách</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "01352ee5-bca4-417e-9e22-0d0b1eedba39"
+          },
+          "dapAn": "bookstore",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bbb170cf-cb0b-4075-997b-4ccef09d17e4"
+          },
+          "dapAn": "restaurant",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5c2ecf71-9e2b-45c6-b2e8-6ff11b1290d4"
+          },
+          "dapAn": "bus stop",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_2. I ... bookstore.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_2. I ... bookstore.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f22a30b1-33f2-47ba-b6e1-ba5df0a2e0d2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you want to buy some _____?",
+      "yNghia": "Do you want to buy some <span style=\"color:red\">books</span>?<br />\r\n<i>Có phải bạn muốn mua một vài <span style=\"color:red\">cuốn sách</span> không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d8a5f592-8526-4e27-9ec2-3411baf69874"
+          },
+          "dapAn": "clothes",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "032b75ed-4363-47e0-bd45-13eba6874fc7"
+          },
+          "dapAn": "coffee",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d5305ac9-780b-4d35-97ce-8235c8388d1b"
+          },
+          "dapAn": "books",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_3. Do ... books.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_3. Do ... books.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "baaba124-7c0a-42ce-8f0f-cb450628df4c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "No. I want to buy a little stationery. _____ about you?",
+      "yNghia": "No. I want to buy a little stationery. <span style=\"color:red\">How </span>about you?<br />\r\n<i>Không. Tôi muốn mua một ít văn phòng phẩm. Còn bạn thì sao?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2da6d929-d87b-41f4-a648-e536116d267b"
+          },
+          "dapAn": "What",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5ce4a231-1d0f-401c-8e71-47ad98f1299b"
+          },
+          "dapAn": "How",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3f5ca1d2-83e5-4ec3-881e-d976bc3021fc"
+          },
+          "dapAn": "Do",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_4. No ... you.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_4. No ... you.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "38f61b86-8f3c-4087-9f58-c6cf3912b0da"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I want to buy some clothes for my _____.",
+      "yNghia": "I want to buy some clothes for my <span style=\"color:red\">trip</span>.<br />\r\n<i>Tôi muốn mua một ít quần áo cho <span style=\"color:red\">chuyến đi chơi</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4f229469-518e-455b-a160-d1bd7f547efc"
+          },
+          "dapAn": "trip",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3fc1d749-a6e0-45a7-8c84-4d5ffd10a760"
+          },
+          "dapAn": "travel",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e3c77106-447e-44d1-aaf6-3f292d260332"
+          },
+          "dapAn": "picnic",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_5. I ... trip.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_5. I ... trip.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2a98070d-0067-409e-b3e9-14b0c0de45e0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I know a shop where the clothes are _____.",
+      "yNghia": "I know a shop where the clothes are <span style=\"color:red\">great</span>.<br />\r\n<i>Tôi biết một cửa hàng nơi mà quần áo <span style=\"color:red\">đẹp lắm</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "29526280-ac34-4bd1-84a0-dff24157d7ed"
+          },
+          "dapAn": "cheap",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b6cb5850-df36-4878-8604-cc46ad59f529"
+          },
+          "dapAn": "great",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a4141eed-7f02-4538-9c3a-beaaa7926656"
+          },
+          "dapAn": "nice",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_6. I ... great.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_6. I ... great.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "f6587264-c012-4d51-8437-33fa80f06562"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I don’t know if they sell what items I _____.",
+      "yNghia": "I don't know if they sell what items I <span style=\"color:red\">need</span>.<br />\r\n<i>Tôi không biết liệu họ có bán những món đồ tôi <span style=\"color:red\">cần </span>không nữa.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3cc8c56f-03f2-4707-8233-2a3dc4c4c0c3"
+          },
+          "dapAn": "like",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "7b233807-e001-400f-9f7e-fed874025a55"
+          },
+          "dapAn": "want",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0ae9e554-c983-4dff-a0cf-e07c0c89f8e4"
+          },
+          "dapAn": "need",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_7. I ... need.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_7. I ... need.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "efbb1bc5-b63d-46fb-a4ab-d7d7d8e49642"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I don’t know. Do you have any _________________?",
+      "yNghia": "I don't know. Do you have any <span style=\"color:red\">recommendations</span>?<br />\r\n<i>Tôi không biết. Bạn có <span style=\"color:red\">gợi ý </span>gì không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b491a3f7-0cc5-4291-aee5-045e7374b6f5"
+          },
+          "dapAn": "suggestions",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e53222b1-5a29-4003-8350-d846e37a3120"
+          },
+          "dapAn": "advices",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2f15b610-1d68-449a-b609-8b0cd47c139e"
+          },
+          "dapAn": "recommendations",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_8. I ... recommendations.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_8. I ... recommendations.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6e22599f-e136-4151-bcc5-c31660159088"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "_____ are you looking for?",
+      "yNghia": "<span style=\"color:red\">What </span>are you looking for?<br />\r\n<i>Bạn đang tìm mua <span style=\"color:red\">cái gì</span> thế?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e34d84ee-1c7f-480c-b569-7392c4a724d9"
+          },
+          "dapAn": "Where",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a781464c-9de7-4647-bebc-74588ce5b88d"
+          },
+          "dapAn": "When",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fecf1d3d-bf2b-43ca-8067-523f461dcbbf"
+          },
+          "dapAn": "What",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_9. What ... for.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_9. What ... for.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a4e574b8-64b9-427d-af20-7eca91463b34"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Don’t worry. They _____ a lot of different items there.",
+      "yNghia": "Don't worry. They <span style=\"color:red\">sell </span>a lot of different items there.<br />\r\n<i>Đừng lo lắng. Ở đó, họ <span style=\"color:red\">bán </span>nhiều món đồ khác nhau.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "49c4aef9-2b52-4036-babf-75c72ab65103"
+          },
+          "dapAn": "like",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e2fd4a77-a34a-4633-9dbd-93883a736e17"
+          },
+          "dapAn": "buy",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "77aa43d5-57e0-4e73-bc74-b1be9eb0780b"
+          },
+          "dapAn": "sell",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_10. Don_t ... there.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_10. Don_t ... there.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "85cd79dc-7ffe-4d99-8911-96e1cea046b7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I’m looking for a green T-shirt and a pair of ___________.",
+      "yNghia": "I'm looking for a green T-shirt and a pair of <span style=\"color:red\">trousers</span>.<br />\r\n<i>Tôi đang tìm mua một chiếc áo phông màu xanh lá cây và một chiếc <span style=\"color:red\">quần dài</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c9964313-df8c-4348-979d-d1472cbdc30d"
+          },
+          "dapAn": "shirts",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b48bff4a-0224-4f5a-a38e-3cc6ee59cd12"
+          },
+          "dapAn": "trousers",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e01deb1d-6535-493f-afe2-df969a5c0203"
+          },
+          "dapAn": "pants",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_11. I_m ... trousers.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_11. I_m ... trousers.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "45da3717-a596-4033-a7e7-88dfb18eb201"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Are the clothes there _________?",
+      "yNghia": "Are the clothes there <span style=\"color:red\">expensive</span>?<br />\r\n<i>Những bộ quần áo ở đó có <span style=\"color:red\">đắt đỏ </span>không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "132aa2dc-c01c-4417-9b89-61fe36b073b4"
+          },
+          "dapAn": "expensive",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bc06668e-6f13-4e9c-bcd2-907cef5361da"
+          },
+          "dapAn": "cheap",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f1c12268-4746-46a2-8634-853e58156eba"
+          },
+          "dapAn": "dressy",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_12. Are ... expensive.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_12. Are ... expensive.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "3d830451-a217-414b-b04d-eb7b354de6ab"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How can I _____ there?",
+      "yNghia": "How can I <span style=\"color:red\">get </span>there<br />\r\n<i>Làm sao tôi <span style=\"color:red\">đến</span> đó được?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "83e3a6ce-51fd-49a1-a823-78011f811a2e"
+          },
+          "dapAn": "go",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "66cff8ea-fef8-4ff7-96d2-9234da0c4b54"
+          },
+          "dapAn": "get",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0aaa5b2b-b99a-4502-bf0e-ddfada61372f"
+          },
+          "dapAn": "gets",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_13. How ... there.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_13. How ... there.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "1d8ce0cb-ee0f-4b69-9613-ee65fb426d2f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Most of them are under _____.",
+      "yNghia": "Most of them are under <span style=\"color:red\">$40</span>.<br />\r\n<i>Hầu hết chúng có giá dưới <span style=\"color:red\">40 đô</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "52be36d0-9fa3-4e3b-8c62-9bd1f94ccffd"
+          },
+          "dapAn": "$40",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2fb07a4e-0436-411b-827e-6081234f66ef"
+          },
+          "dapAn": "$14",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9fe420cb-d5c2-4837-accb-190e40fb9193"
+          },
+          "dapAn": "$4",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_14. Most ... $40.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_14. Most ... $40.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2d50ea48-872c-4b0f-83be-8dc6b7c80fd4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The shop will be on your _____.",
+      "yNghia": "The shop will be on your <span style=\"color:red\">right</span>.<br />\r\n<i>Cửa hàng đó sẽ ở bên tay <span style=\"color:red\">phải </span>của bạn.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0044bb32-066c-4dd9-a4b2-3b661dfef832"
+          },
+          "dapAn": "right hand",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "acd00450-7045-493f-a251-f0cfe4db1f0b"
+          },
+          "dapAn": "left",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "33263444-35ae-43d3-a7e9-7a29c68e6c55"
+          },
+          "dapAn": "right",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_15. The ... right.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_15. The ... right.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "2dc71c8c-ea8e-4800-9930-cb59da4e3cf4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Look at that man! Look at his _____!",
+      "yNghia": "Look at that man! Look at his <span style=\"color:red\">suit</span>!<br />\r\n<i>Hãy nhìn người đàn ông kia! Hãy nhìn <span style=\"color:red\">bộ com-lê</span> của anh ấy!</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8cdbe0db-0755-40e9-84e6-a66960630313"
+          },
+          "dapAn": "shirt",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "dc44fc1c-5c0c-467f-aa5d-16a2b8d0abec"
+          },
+          "dapAn": "t-shirt",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f597fbd5-9bbe-499b-b94c-ff024f383aa3"
+          },
+          "dapAn": "suit",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_16. Look ... suit.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_16. Look ... suit.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5102f558-a47f-4a20-b22a-cc71bd2b8acf"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Those pants are too _______. I don’t like them.",
+      "yNghia": "Those pants are too <span style=\"color:red\">dressy</span>. I don't like them.<br />\r\n<i>Những chiếc quần kia quá <span style=\"color:red\">sang trọng</span>. Tôi không thích chúng.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9bb6b04f-679d-4819-93bd-30d0d36b3a96"
+          },
+          "dapAn": "dressy",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1b5c71e3-b06c-4092-8089-c90326ff5d90"
+          },
+          "dapAn": "casual",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "432afc66-8cf8-411a-93af-3e4998650d19"
+          },
+          "dapAn": "expensive",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_17. Those ... them.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_17. Those ... them.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "59ffc0f4-2523-4b5d-8801-465960627050"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Where did you buy this _____?",
+      "yNghia": "Where did you buy this <span style=\"color:red\">dress</span>?<br />\r\n<i>Bạn đã mua <span style=\"color:red\">cái váy</span> này ở đâu?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ea27dfe9-204b-4a31-baa5-5eb94a443ff2"
+          },
+          "dapAn": "dress",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3b83b34d-6240-42c2-ae08-1b20aca2fcc4"
+          },
+          "dapAn": "skirt",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "ef7c30d6-2cd1-4e66-a8ca-c6ac557c170d"
+          },
+          "dapAn": "shirt",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_18. Where ... dress.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_18. Where ... dress.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5e157456-fd2b-4e22-836a-6e0a17b7ea82"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "These boots _____ her perfectly.",
+      "yNghia": "These boots <span style=\"color:red\">fit </span>her perfectly.<br />\r\n<i>Đôi bốt này rất <span style=\"color:red\">vừa vặn</span> với cô ấy.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a0f038da-31c3-4b4f-b3cf-87baeb419354"
+          },
+          "dapAn": "match",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "bba5a624-eea5-4ac7-afe8-50a5097b5ceb"
+          },
+          "dapAn": "fits",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0382e009-7a85-4e01-8284-fd5cdd50dab2"
+          },
+          "dapAn": "fit",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_19. These ... perfectly.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_19. These ... perfectly.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "073cccd9-c515-4307-b3f0-e6161a57b9a7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "These pants are too _______ for my sister to wear.",
+      "yNghia": "These pants are too <span style=\"color:red\">short </span>for my sister to wear.<br />\n<i>Chiếc quần này quá <span style=\"color:red\">ngắn </span>để em gái tôi mặc.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5de7d0b4-b37a-4331-8e29-7d3872a19141"
+          },
+          "dapAn": "long",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "d8d8f0ca-3c66-4f0a-a984-7717a4669343"
+          },
+          "dapAn": "loose",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "22f9f553-f61b-477b-adf9-152468228e79"
+          },
+          "dapAn": "short",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST3_LISTENING_20. These ... wear.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST3_LISTENING_20. These ... wear.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "fb230627-9d4a-452b-9aa5-8904efd19479"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What do you do in your ____ time?",
+      "yNghia": "What do you do in your <span style=\"color:red\">free</span> time?<br />\r\n<i>Bạn làm gì trong thời gian <span style=\"color:red\">rảnh rỗi</span>?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1a7cdc5e-40fe-4162-8886-1f5e5944dc97"
+          },
+          "dapAn": "spare",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "beed4452-89d7-473f-8783-79eb5a57908e"
+          },
+          "dapAn": "free",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "faac2c1b-7900-4470-94fd-3f074e0b90a0"
+          },
+          "dapAn": "leisure",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_1. What ... time.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_1. What ... time.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "13178351-5a6f-4daa-b989-b921375b0f1e"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "If it’s sunny, I usually ____my friends.",
+      "yNghia": "If it's sunny, I usually <span style=\"color:red\">visit </span>my friends.<br />\r\n<i>Nếu trời nắng, tôi thường <span style=\"color:red\">thăm </span>bạn bè của mình.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "fd60f119-25ce-4d43-8b39-645674d95247"
+          },
+          "dapAn": "visit",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "65606044-b794-4e87-8eeb-b02ae83dd73e"
+          },
+          "dapAn": "see",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5f8836a5-701f-4671-8656-85e9b72cb5aa"
+          },
+          "dapAn": "call",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_2. If ... friends.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_2. If ... friends.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "a5ba5b7c-22b2-46ea-9348-008bc35bf267"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I will stay at home and help my parents ____________________.",
+      "yNghia": "I will stay at home and help my parents <span style=\"color:red\">clean the house</span>.<br />\r\n<i>Tôi sẽ ở nhà và giúp bố mẹ <span style=\"color:red\">dọn dẹp nhà cửa</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ffac6052-9cb2-48b3-950f-e1d94ada5445"
+          },
+          "dapAn": "take out the trash",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c5a5c261-0ee9-4109-b7b8-f7d0c285a741"
+          },
+          "dapAn": "wash the dishes",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "29fca897-fd88-4691-8736-1cd3d62ae5d3"
+          },
+          "dapAn": "clean the house",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_3. I ... house.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_3. I ... house.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d6451c0b-3001-4034-91a7-6702be54ef9b"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you help your parents do _____________?",
+      "yNghia": "Do you help your parents do <span style=\"color:red\">the</span> <span style=\"color:red\">laundry</span>?<br />\r\n<i>Bạn có giúp bố mẹ giặt <span style=\"color:red\">quần áo </span>không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2a2e74b8-d802-444d-acdb-0cd21aea165d"
+          },
+          "dapAn": "dishes",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "64326eab-2854-4b12-852e-3d76bb8cac3d"
+          },
+          "dapAn": "the laundry",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f265d319-6bcc-436b-8d24-37852e8434e4"
+          },
+          "dapAn": "gardening",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_4. Do ... laundry.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_4. Do ... laundry.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "0f80c786-076a-47fd-9c79-49a2980edb40"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I usually ____ the dishes.",
+      "yNghia": "I usually <span style=\"color:red\">wash</span> the dishes.<br />\r\n<i>Tôi thường <span style=\"color:red\">rửa </span>bát.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7b8615ff-dda5-4dd7-a6bd-95ba259cb000"
+          },
+          "dapAn": "cook",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "2f8a80ff-2a25-4e5f-a207-f735e6e23ef1"
+          },
+          "dapAn": "make",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "3a9fb9c8-c538-4dbf-b00d-786ddb9ae7d5"
+          },
+          "dapAn": "wash",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_5. I ... dishes.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_5. I ... dishes.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d53a8a51-4d06-477e-a9c3-d2fcdc5a4825"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Who does the laundry in ____ family?",
+      "yNghia": "Who does the laundry in <span style=\"color:red\">your </span>family?<br />\r\n<i>Ai giặt quần áo trong gia đình <span style=\"color:red\">của bạn</span>?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "02bff3a1-cedc-4e43-8a83-800fb0ffe7c4"
+          },
+          "dapAn": "her",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "df2439d2-a6ce-4086-aca4-98c7dda48e21"
+          },
+          "dapAn": "his",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b498ae87-ffa4-4778-ab27-c25795927d9e"
+          },
+          "dapAn": "your",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_6. Who ... family.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_6. Who ... family.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "d6344d6a-0ba5-480a-b3f6-0be091ff0c2c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My mom ____ dinner.",
+      "yNghia": "My mom <span style=\"color:red\">makes</span> dinner.<br />\r\n<i>Mẹ tôi <span style=\"color:red\">làm </span>bữa tối.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d79eeb0b-fa83-4e2b-8f37-56760529d69d"
+          },
+          "dapAn": "makes",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "744fcc36-91de-4e80-ae6c-ed91c998eae8"
+          },
+          "dapAn": "is making",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f57f4d8f-d9cf-48dd-84db-d23941fe14cc"
+          },
+          "dapAn": "make",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_7. My ... dinner.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_7. My ... dinner.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "9ac59c09-2993-4780-a95e-376ed4f45549"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Well… how about cooking? Can ____ cook?",
+      "yNghia": "Well... how about cooking? Can <span style=\"color:red\">you</span> cook?<br />\r\n<i>Chà... còn nấu ăn thì sao? <span style=\"color:red\">Bạn</span> có thể nấu ăn không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "31159f2e-42fa-4d76-b8cb-3156a02e619c"
+          },
+          "dapAn": "we",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b004bfdb-dcc1-4e2b-afda-5a71dfbd9841"
+          },
+          "dapAn": "they",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "50be1d8b-b175-4ff4-933a-27801e490b19"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_8. Well ... cook.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_8. Well ... cook.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "5d4c4606-97cb-4318-9d1f-76e70863c7bd"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "_________ do you cook?",
+      "yNghia": "<span style=\"color:red\">How often </span>do you cook?<br />\r\n<i>Bạn có thường xuyên nấu ăn không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d0bafcbd-cc30-4971-8876-572f2748fd80"
+          },
+          "dapAn": "How often",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d80f8263-fff4-47b0-a254-2ee56c26643c"
+          },
+          "dapAn": "When",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "95b43f09-43bc-4f7e-8a12-71f957db6812"
+          },
+          "dapAn": "Why",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_9. How ... cook.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_9. How ... cook.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "db148767-fe26-44f3-a082-c0a866f64fcb"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "About ____ a week.",
+      "yNghia": "About <span style=\"color:red\">twice</span> a week.<br />\r\n<i>Khoảng <span style=\"color:red\">hai lần </span>một tuần.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "aa898b39-42c9-4f76-8ca2-c33b2c3f1b52"
+          },
+          "dapAn": "twice",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9d3d1f41-a2ba-45ea-9de8-3b08f81a2e32"
+          },
+          "dapAn": "once",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5acb160c-8acf-42a7-b212-505f7b473ff7"
+          },
+          "dapAn": "three",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_10. About ... week.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_10. About ... week.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "bbef2a2f-ea2a-4544-8fbe-8e0499362a81"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you ____ and dance?",
+      "yNghia": "Can you <span style=\"color:red\">sing</span> and dance?<br />\r\n<i>Bạn có thể <span style=\"color:red\">hát </span>và nhảy không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5d67f49a-af0a-40e0-9526-4921865dae04"
+          },
+          "dapAn": "play the guitar",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "81c3c5c1-51f2-44f7-96d0-cf2623b6d380"
+          },
+          "dapAn": "sing",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "86712381-946e-44b6-b21f-19f8eaa231b7"
+          },
+          "dapAn": "song",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_11. Can ... dance.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_11. Can ... dance.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "14938c53-b25a-4353-a3ad-d30229a02c09"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you like to go out for ____?",
+      "yNghia": "Do you like to go out for <span style=\"color:red\">dinner</span>?<br />\r\n<i>Bạn có thích ra ngoài ăn tối không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e8569ed5-2c8d-4124-bdac-52236219d994"
+          },
+          "dapAn": "lunch",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1b3ba0ac-4000-40be-b91a-b27a5319f6c6"
+          },
+          "dapAn": "dinner",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8400739d-c16a-4d3d-92fa-d1f4f32179b2"
+          },
+          "dapAn": "meal",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_12. Do ... dinner.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_12. Do ... dinner.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "6f20ec54-d8ec-4ffe-b4be-47cd672ee4c7"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "My brother is playing _________ in the park.",
+      "yNghia": "My brother is playing <span style=\"color:red\">football</span> in the park.<br />\n<i>Anh trai tôi đang chơi bóng đá trong công viên.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f20ea66c-a7e4-4d06-b231-2be837b358e5"
+          },
+          "dapAn": "badminton",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6624c2d8-fa2f-4302-aa1c-b1ed847d2e11"
+          },
+          "dapAn": "tennis",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c8806434-2d87-4119-96db-83d8e9cc2450"
+          },
+          "dapAn": "football",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_13. My ... park.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_13. My ... park.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "e9bf0b19-2468-416e-b882-66975fe3c6af"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Diana is having coffee because the weather is _________.",
+      "yNghia": "Diana is having coffee because the weather is <span style=\"color:red\">freezing</span>.<br />\r\n<i>Diana đang uống cà phê vì thời tiết <span style=\"color:red\">lạnh giá</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bce1eae2-5236-4877-9e5c-07eabb9aa5a8"
+          },
+          "dapAn": "very cold",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e0306b64-2f8d-4a78-910a-c7d88074a85b"
+          },
+          "dapAn": "cold",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "55266c5b-12dd-467b-b00d-dd9ac2e21255"
+          },
+          "dapAn": "freezing",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_14. Diana ... freezing.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_14. Diana ... freezing.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "c4790b0b-ba53-4387-9ec5-b83f00ffdcda"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Who takes out the _________ in your family?",
+      "yNghia": "Who takes out the <span style=\"color:red\">garbage</span> in your family?<br />\r\n<i>Ai là người đổ <span style=\"color:red\">rác</span> trong gia đình bạn?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "09735986-a3e4-44a3-8bf6-cc98f9072468"
+          },
+          "dapAn": "garbage",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "56dff31a-cbf9-48ae-8add-21c8b0fe89f7"
+          },
+          "dapAn": "trash",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "e2866ba8-2d6d-422d-848d-ae25cccc4ecd"
+          },
+          "dapAn": "waste",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_15. Who ... family.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_15. Who ... family.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b42bf7f7-8e33-4cd3-b461-51e5b1bcacd3"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "How often do you ____ the house?",
+      "yNghia": "How often do you <span style=\"color:red\">clean</span> the house?<br />\r\n<i>Bạn có thường xuyên <span style=\"color:red\">dọn dẹp </span>nhà cửa không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3da28007-552f-491c-8c60-681a2539f10f"
+          },
+          "dapAn": "sweep",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1aaa4699-612d-4a40-bc6f-6bdb5af08cf7"
+          },
+          "dapAn": "tidy",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "10874273-f47d-4389-aa5b-f407f95cd189"
+          },
+          "dapAn": "clean",
+          "isCorrect": true
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_16. How ... house.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_16. How ... house.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "dd9f7ea0-f05c-4c6f-b6b1-a8f15fffda00"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can you ____ a picture?",
+      "yNghia": "Can you <span style=\"color:red\">paint</span> a picture?<br />\r\n<i>Bạn có thể <span style=\"color:red\">vẽ</span> một bức tranh không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9f175790-1088-4025-b19d-410ff8f8423f"
+          },
+          "dapAn": "paint",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dba615a1-5d07-4ecb-8447-6bb1886d2c14"
+          },
+          "dapAn": "color",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b248e90d-6319-44e4-9f14-43c0aa3e3edb"
+          },
+          "dapAn": "dye",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_17. Can ... picture.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_17. Can ... picture.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "aabdbade-6b45-45d5-b9f9-578356851932"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She isn’t watching a ____.",
+      "yNghia": "She isn't watching a <span style=\"color:red\">movie</span>.<br />\r\n<i>Cô ấy không đang xem <span style=\"color:red\">phim</span>.</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "d2b377af-9d11-4f15-991e-3ce23179200d"
+          },
+          "dapAn": "picture",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "15c6ae16-fcb0-4305-b625-8cfce11e734f"
+          },
+          "dapAn": "movie",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c7a1b5ef-d8ee-4edf-8163-679d92cc0bf5"
+          },
+          "dapAn": "show",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_18. She ... movie.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_18. She ... movie.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "92605b53-556a-4002-874e-c3f80e3c5fe2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Do you like coffee or ____?",
+      "yNghia": "Do you like coffee or <span style=\"color:red\">tea</span>?<br />\r\n<i>Bạn thích </i><i>cà phê hay <span style=\"color:red\">trà</span>?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c70c9a10-8ab2-4e6e-9d69-36186600b187"
+          },
+          "dapAn": "milk",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "efdea382-a775-4911-96c2-26ff558fa548"
+          },
+          "dapAn": "tea",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6692713e-7807-44be-aadf-1ccc8a8ec4f8"
+          },
+          "dapAn": "juice",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_19. Do ... tea.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_19. Do ... tea.mp3"
+    },
+    {
+      "_id": {
+        "$oid": "b31c3dbb-440a-4587-ba11-73fe8e1887d2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Can your sister play the ____?",
+      "yNghia": "Can your sister play the <span style=\"color:red\">guitar</span>?<br />\n<i>Chị gái của bạn có thể chơi<span style=\"color:red\"> đàn ghi-ta</span> không?</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0cdd0c95-a44d-4def-8d6d-653b5155f473"
+          },
+          "dapAn": "guitar",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "072cea5e-fbeb-434f-9faa-a615159acf26"
+          },
+          "dapAn": "piano",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "53609565-f1c2-4e1c-9e6b-1b36fee74792"
+          },
+          "dapAn": "violin",
+          "isCorrect": false
+        }
+      ],
+      "soundCauhoi": "4SKILLS_PRE_S_L16/sounds/normal/PRES_MINITEST4_LISTENING_20. Can ... guitar.mp3",
+      "soundSlow": "4SKILLS_PRE_S_L16/sounds/slow/PRES_MINITEST4_LISTENING_20. Can ... guitar.mp3"
+    }
+  ]
+}

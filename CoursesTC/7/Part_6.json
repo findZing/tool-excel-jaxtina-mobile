@@ -1,0 +1,626 @@
+{
+  "dangCauHoi": "P5",
+  "elementType": "READING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "6a4fe754-c738-499b-8f3e-dcfd86f8fc39"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Diana is the most ___________ person I know. ",
+      "yNghia": "<b>Diana is the most <span style=\"color:red\">creative </span>person I know</b>.<br />\n<i>Diana là người <span style=\"color:red\">sáng tạo </span>nhất mà tôi biết.</i><br />\n<b>creative</b><b> </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the most</b> để tạo thành dạng tính từ so sánh nhất.<br />\n<b>creativest </b>và<b> more creative</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1e541670-0a34-4a14-892f-62b70272a582"
+          },
+          "dapAn": "A. creative",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1d051aff-3f92-417f-9b29-53db5a5a949f"
+          },
+          "dapAn": "B. creativest",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "62e8abcd-d4f5-47e2-b62e-d20c24be7bb1"
+          },
+          "dapAn": "C. more creative",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4db6b7c4-a904-408b-8e12-0e529a819351"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The day I won this award was the ___________ day of my life.",
+      "yNghia": "<b>The day I won this award was the <span style=\"color:red\">happiest</span><i> </i>day of my life.</b><br />\n<i>Ngày mà tôi thắng giải thưởng này là ngày <span style=\"color:red\">hạnh phúc nhất </span>trong cuộc đời tôi.</i><br />\n<b>happiest </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the </b>để tạo thành dạng tính từ so sánh nhất.<br />\n<b>happy </b>và<b> more happy </b>là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "bf8b9d5e-efc3-4d01-8d9d-86b9e73460ad"
+          },
+          "dapAn": "A. happy",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "c49ba40f-bb47-41b3-a252-42aa79be7ff9"
+          },
+          "dapAn": "B. happiest",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7feb3e4a-031f-43be-bca4-195e4033701b"
+          },
+          "dapAn": "C. more happy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "bfd0e73f-6f52-4313-bd26-5e06cd1480d2"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "What do we need to make our team the most _______?",
+      "yNghia": "<b>What do we need to make our team the most <span style=\"color:red\">successful</span>? </b><br />\n<i>Chúng ta cần làm gì cho nhóm của mình <span style=\"color:red\">thành công </span>nhất?</i><br />\n<b>successful </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the most</b> để tạo thành dạng tính từ so sánh nhất.<br />\n<b>succeed </b>và<b> success</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "c41c7bf4-e5b9-49a1-8686-7b2d786b4449"
+          },
+          "dapAn": "A. success",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "204c77f1-9200-465e-83f0-340d18ae6d4a"
+          },
+          "dapAn": "B. succeed",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "53d5afdf-c614-4c07-bf0c-bbac43e424c8"
+          },
+          "dapAn": "C. successful",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "66f157c1-fd3b-4aa9-922e-31fe9f1237ba"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Fernando is the _________ student in this class.",
+      "yNghia": "<b>Fernando is the <span style=\"color:red\">tallest</span> student in this class.</b><br />\n<i>Fernando là học sinh <span style=\"color:red\">cao nhất </span>trong lớp.</i><br />\n<b>tallest </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the </b>để tạo thành dạng tính từ so sánh nhất.<br />\n<b>tall </b>và<b> taller </b>là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "539703ab-ccd6-4ee8-8121-03c7bb8f5532"
+          },
+          "dapAn": "A. taller",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "1846319d-e631-44db-a164-b358a9697379"
+          },
+          "dapAn": "B. tall",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "948000c5-8028-4ce2-8841-b6496c03fc5a"
+          },
+          "dapAn": "C. tallest",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4766aa1f-7d4c-4967-8c0c-1b7c7e460111"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Esmeralda is the most ___________ student in this class.",
+      "yNghia": "<b>Esmeralda is the most <span style=\"color:red\">talkative</span> student in this class. </b><br />\n<i>Esmeralda là học sinh hoạt ngôn nhất trong lớp.</i><br />\n<b>talkative </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the most </b>để tạo thành dạng tính từ so sánh nhất.<br />\n<b>talkativest </b>và<b> more talkative </b>là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5965d8ce-c18a-4126-b9b6-6c448e9cda9d"
+          },
+          "dapAn": "A. talkativest",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "218267d8-78c9-43ef-abf5-f8c19ba3349c"
+          },
+          "dapAn": "B. talkative",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "53096223-b0ae-4666-bc98-38d9ac5b68f0"
+          },
+          "dapAn": "C. more talkative",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5d8c1641-90c7-42b7-af51-f78c9298655f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The Green Garden is the _______ restaurant in town.",
+      "yNghia": "<b>The Green Garden is the <span style=\"color:red\">best </span>restaurant in town.</b><br />\n<i>Green Garden là nhà hàng <span style=\"color:red\">tốt nhất </span>trong thị trấn.</i><br />\n<b>best </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the </b>để tạo thành dạng tính từ so sánh nhất.<br />\n<b>goodest </b>và<b> more good </b>là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "562694fd-900c-41ef-a1a4-82e96b54e2a6"
+          },
+          "dapAn": "A. best",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "75fa1e56-2e77-4115-9ae5-4758918ed550"
+          },
+          "dapAn": "B. goodest",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5b07e47e-5ac8-40f2-a0d7-5fd5f8e2579a"
+          },
+          "dapAn": "C. more good",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "da9b5b97-2d84-4384-8d44-cee9e81cdb39"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Ambitious people are the most __________ at their jobs.",
+      "yNghia": "<b>Ambitious people are the most <span style=\"color:red\">successful</span> at their jobs.</b><br />\n<i>Những người có tham vọng là những người <span style=\"color:red\">thành công </span>nhất trong công việc của họ.</i><br />\n<b>successful</b><b> </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the most </b>để tạo thành dạng tính từ so sánh nhất.<br />\n<b>successfulest </b>và<b> more </b><b>successful </b>là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "a4c441d1-c514-4560-bbf1-955903d3289d"
+          },
+          "dapAn": "A. successfulest",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "6ac0136a-2446-43f7-9ed5-aea213e9b743"
+          },
+          "dapAn": "B. more successful",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "fa693ab7-6dee-4f4a-8f72-f6672f0dcdde"
+          },
+          "dapAn": "C. successful",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f0799f73-9ad5-4116-b0a0-9513a239b9be"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Brianne, you’re such a creative thinker! That’s the ________ idea ever!",
+      "yNghia": "<b>Brianne, you're such a creative thinker! That's the <span style=\"color:red\">best</span> idea ever!</b><br />\n<i>Brianne, bạn thật là một người có óc sáng tạo! Đó là ý tưởng </i><i><span style=\"color:red\">tuyệt vời nhất </span></i><i>từ trước đến giờ!</i><br />\n<b>best</b><b> </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the </b>để tạo thành dạng tính từ so sánh nhất.<br />\n<b>worse </b>và<b> </b><b>most good</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9a428ad2-fc08-4492-bc6f-f31666b53193"
+          },
+          "dapAn": "A. worse",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "046b31eb-c679-4268-a868-1104b92c36cd"
+          },
+          "dapAn": "B. best",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e249e8c4-775b-4414-ba6a-6fd3b85bf832"
+          },
+          "dapAn": "C. most good",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "39d613e1-9d0c-4811-bf02-cb9cecf75225"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "I love Liam’s jokes! He’s the _________ colleague I have.",
+      "yNghia": "<b>I love Liam's jokes! He's the <span style=\"color:red\">funniest </span>colleague I have.</b><br />\n<i>Tôi rất thích các câu chuyện đùa của Liam! Anh ấy là đồng nghiệp <span style=\"color:red\">vui tính nhất</span>.</i><br />\n<b>funniest</b><b> </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the </b>để tạo thành dạng tính từ so sánh nhất.<br />\n<b>funnier </b>và <b>most </b><b>funniest</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0cbd3aee-dd39-4abe-acd3-4843fe683183"
+          },
+          "dapAn": "A. funnier",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b12e7f32-2b37-49e5-90f3-c36ae0076ece"
+          },
+          "dapAn": "B. funniest",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "36a00d8f-a0be-406e-89b8-c4498113f3a2"
+          },
+          "dapAn": "C. most funniest",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d5ac36e1-938d-4c75-8545-8163d4e194a1"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The Eiffel Tower is the _______ building in Paris.",
+      "yNghia": "<b>The Eiffel Tower is the <span style=\"color:red\">tallest</span> building in Paris.</b><br />\n<i>Tháp </i><i>Eiffel là tòa nhà <span style=\"color:red\">cao nhất </span>ở Pa-ri.</i><br />\n<b>tallest</b><b> </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the </b>để tạo thành dạng tính từ so sánh nhất.<br />\n<b>taller </b>và <b>most</b> <b>tallest</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "95792ae7-9eeb-4094-8673-7f8c22c61d9b"
+          },
+          "dapAn": "A. tallest",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e28c1348-9d6b-472e-be68-b5ad729e2241"
+          },
+          "dapAn": "B.taller",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "dd843a24-2b97-4bcd-8f8d-7032fc1c9016"
+          },
+          "dapAn": "C. most tallest",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f8fd95f0-88cd-4c6c-84e4-b22fb19d0238"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Buy that laptop. It’s the _________________ one you will find.",
+      "yNghia": "<b>Buy that laptop. It's the </b><b><span style=\"color:red\">cheapest </span></b><b>one you will find.</b><br />\n<i>Hãy mua máy tính xách tay đó. Đó là cái <span style=\"color:red\">rẻ nhất </span>bạn sẽ tìm thấy.</i><br />\n<b>cheapest </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the </b>để tạo thành dạng tính từ so sánh nhất.<br />\n<b>cheaper </b>và <b>most cheapest</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "813f69bc-9712-4d30-baf5-0f7c15bf7f76"
+          },
+          "dapAn": "A. cheapest",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "de7a59d3-941c-4ed6-a47a-99f0548e6085"
+          },
+          "dapAn": "B. cheaper",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "5e0c751b-bb76-4b7b-bc21-0d7924670d85"
+          },
+          "dapAn": "C. most cheapest",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "3ac94ae8-aeaf-4857-b5da-aa423c484d2f"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Well, that was the _________________ film I have ever seen!",
+      "yNghia": "<b>Well, that was the </b><b><span style=\"color:red\">worst </span></b><b>film I have ever seen!</b><br />\n<i>Chà, đó là bộ phim <span style=\"color:red\">tệ nhất </span>mà tôi từng xem!</i><br />\n<b>worst </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the </b>để tạo thành dạng tính từ so sánh nhất.<br />\n<b>worse </b>và <b>most worse</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "030ebfd4-b7c1-4814-895f-58d411000dff"
+          },
+          "dapAn": "A. worst",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f2aed6cf-b989-4c1c-af33-f1a77f8cdc13"
+          },
+          "dapAn": "B. worse",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "f870f26a-9d51-4ef9-bb7a-b3b02bb3189e"
+          },
+          "dapAn": "C. most worse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "17289795-2585-4a22-94c1-347627a348b4"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "But the most _________________ question is, how do we deal with all these different personalities?",
+      "yNghia": "<b>But the most </b><b><span style=\"color:red\">interesting </span></b><b>question is, how do we deal with all these different personalities?</b><br />\n<i>Nhưng câu hỏi <span style=\"color:red\">thú vị </span>nhất là, làm thế nào để chúng ta làm việc với tất cả những tính cách khác nhau này?</i><br />\n<b>interesting</b><b> </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the most</b> để tạo thành dạng tính từ so sánh nhất.<br />\n<b>more interesting </b>và<b> interestingest</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "3080c18a-38a8-4792-83fa-86818a551729"
+          },
+          "dapAn": "A. interestingest",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "b2e861ad-bfe1-4d06-9de2-64f3518c656b"
+          },
+          "dapAn": "B. more interesting",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "16700898-3264-4939-951e-cc6fbb2a7839"
+          },
+          "dapAn": "C. interesting",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "642ef6ee-9506-4127-9403-de43d8562651"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "If you work with Loners, the _________________ thing to do is put them in a team.",
+      "yNghia": "<b>If you work with loners, the </b><b><span style=\"color:red\">worst </span></b><b>thing to do is put them in a team.</b><br />\n<i>Nếu bạn làm việc với những người làm việc một mình, điều <span style=\"color:red\">tồi tệ nhất </span>cần làm là xếp họ vào một nhóm.</i><br />\n<b>worst </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the </b>để tạo thành dạng tính từ so sánh nhất.<br />\n<b>more worst </b>và <b>more bad</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "248255bf-0b12-418b-acc0-e58b0474e95d"
+          },
+          "dapAn": "A. worst",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "76bbffa8-260f-4379-8d1a-31ccd3680e73"
+          },
+          "dapAn": "B. more worst",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "cb6246ee-175e-466f-a94f-bf00922524b4"
+          },
+          "dapAn": "C. more bad",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "8b5e9feb-3d5c-46a7-a3aa-f38f0c7b066c"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "They are sometimes the _________________ people in our office.",
+      "yNghia": "<b>They are sometimes the </b><b><span style=\"color:red\">busiest </span></b><b>people in our office.</b><br />\n<i>Đôi khi họ là những người <span style=\"color:red\">bận rộn nhất </span>trong văn phòng của chúng tôi.</i><br />\n<b>busiest </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the </b>để tạo thành dạng tính từ so sánh nhất.<br />\n<b>most busiest </b>và <b>more busy</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9c405ebb-13c4-4cfd-a33f-f3ae16088f24"
+          },
+          "dapAn": "A. most busiest",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "09b31d0c-06ea-4cb6-9732-c071a603233b"
+          },
+          "dapAn": "B. more busy",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "8f6c0d09-2f24-4163-991c-35719985761f"
+          },
+          "dapAn": "C. busiest",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "325e6ae8-fa5e-4ecf-9773-85039c14c1c0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "Workaholics need the _________________ amount of help because they can agree to do a lot of work and then find they don’t have enough time.",
+      "yNghia": "<b>Workaholics need the </b><b><span style=\"color:red\">greatest </span></b><b>amount of help because they can agree to do a lot of work and then find they don't have enough time.</b><br />\n<i>Những người nghiện công việc cần <span style=\"color:red\">nhiều </span>sự giúp đỡ <span style=\"color:red\">nhất </span>vì họ có thể đồng ý làm rất nhiều việc và sau đó thấy mình không có đủ thời gian.</i><br />\n<b>greatest </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the </b>để tạo thành dạng tính từ so sánh nhất.<br />\n<b>more great </b>và <b>most great</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "81010b0b-7235-474a-99f6-b2ca3b15d531"
+          },
+          "dapAn": "A. greatest",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3d0efcf4-f04b-45fd-8cbd-1b532131f470"
+          },
+          "dapAn": "B. more great",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "199d9bc8-8508-4c68-9854-de6effb6b593"
+          },
+          "dapAn": "C. most great",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d1b8210b-cf07-40bb-8db1-730d484f83cf"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "This is the most _________________ way of working with them.",
+      "yNghia": "<b>This is the most </b><b><span style=\"color:red\">productive </span></b><b>way of working with them.</b><br />\n<i>Đây là cách <span style=\"color:red\">hiệu quả </span>nhất để làm việc với họ.</i><br />\n<b>productive</b><b> </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the most</b> để tạo thành dạng tính từ so sánh nhất.<br />\n<b>more productive </b>và<b> productivest</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0f9fc0f2-8882-407f-ac37-cdbad406b118"
+          },
+          "dapAn": "A. productivest",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "0b3aff0c-c4c2-439e-b266-68f22ca5ba68"
+          },
+          "dapAn": "B. productive",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b110034e-da4d-4003-99c8-7f67a649c6fb"
+          },
+          "dapAn": "C. more productive",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "d1d631fe-a3ff-4411-bc09-476e6ef44ac6"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "The _________________ thing to do is make sure you give them lots of ideas.",
+      "yNghia": "<b>The </b><b><span style=\"color:red\">best </span></b><b>thing to do is make sure you give them lots of ideas.</b><br />\n<i>Điều <span style=\"color:red\">tốt nhất </span>cần làm là đảm bảo rằng bạn cung cấp cho họ thật nhiều ý tưởng.</i><br />\n<b>best </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the </b>để tạo thành dạng tính từ so sánh nhất.<br />\n<b>more best </b>và <b>more good</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "0c28655f-d82a-4691-93c8-4d72d02f6c65"
+          },
+          "dapAn": "A. more best",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "742eb0c5-da58-4052-8af2-7ff5a4c4b47e"
+          },
+          "dapAn": "B. more good",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "acf9da3f-b5fe-4949-bab7-debf3dd8b579"
+          },
+          "dapAn": "C. best",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1a46c865-c1f9-44da-8f2e-4792650b5b54"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "He’s the most _________________ man I’ve ever met.",
+      "yNghia": "<b>He's the most </b><b><span style=\"color:red\">interesting </span></b><b>man I've ever met.</b><br />\n<i>Anh ấy là người đàn ông <span style=\"color:red\">thú vị </span>nhất mà tôi từng gặp.</i><br />\n<b>interesting</b><b> </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the most</b> để tạo thành dạng tính từ so sánh nhất.<br />\n<b>more interesting </b>và<b> interestingest</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "24915fb5-fa72-4f09-952a-9a1ccc91476f"
+          },
+          "dapAn": "A. interesting",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a29176ba-3b92-47f7-9025-9335ed5fb17f"
+          },
+          "dapAn": "B. more interesting",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "a50000b2-a31b-49c7-9608-c7cf122a98b1"
+          },
+          "dapAn": "C. interestingest",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "93138f41-93e9-4662-86c3-c72cc2764ff0"
+      },
+      "cauHoiNho": [],
+      "cauHoi": "She is the most _________________ teacher at our school.",
+      "yNghia": "<b>She is the most </b><b><span style=\"color:red\">patient </span></b><b>teacher at our school.</b><br />\n<i>Cô ấy là giáo viên <span style=\"color:red\">kiên nhẫn </span>nhất trường chúng tôi.</i><br />\n<b>patient</b><b> </b>là đáp án đúng vì chỗ trống cần một tính từ đứng sau<b> the most</b> để tạo thành dạng tính từ so sánh nhất.<br />\n<b>more patient </b>và<b> patientest</b> là đáp án sai vì ngữ pháp không chính xác.",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "06712d59-e416-4efb-b610-11d12fbeea6e"
+          },
+          "dapAn": "A. patient",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "93a300a1-2d57-4162-ac21-18a09cafb00b"
+          },
+          "dapAn": "B. more patient",
+          "isCorrect": false
+        },
+        {
+          "_id": {
+            "$oid": "9aece383-4ee9-4b35-9822-9072604dca62"
+          },
+          "dapAn": "C. patientest",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

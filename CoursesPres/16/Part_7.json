@@ -1,0 +1,1577 @@
+{
+  "dangCauHoi": "P6",
+  "elementType": "WRITING",
+  "danhSachCauHoi": [
+    {
+      "_id": {
+        "$oid": "35054405-564f-4395-9a3d-bdabbdf10462"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó đang đi đâu, chúng ta sẽ dùng cấu trúc: <b>Where + Động từ to be + chủ ngữ + going?</b><br />\nTa có: <b>You</b> <i>(Bạn)</i> là chủ ngữ, <b>are</b> là động từ <i>to be</i>. Câu hoàn chỉnh là <b><span style=\"color:red\">Where are you going? </span></b><i>(Bạn đi đâu vậy?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "4b12fa2e-f567-4ab1-afb1-82f569f2625c"
+          },
+          "dapAn": "Where",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "eb45470f-6009-4b58-9f3a-1cf46e6e2c40"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e915d1fa-675e-4f60-acf3-911a0e054f7f"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a6b7b594-e5ce-4785-b619-2d97aad74471"
+          },
+          "dapAn": "going?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "77f639d6-6b28-456e-9c43-8ce3714dd964"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói ai đó muốn làm gì, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + want / wants + to + Động từ (nguyên thể) + tân ngữ.</b><br />\nTa có: <b>I</b> <i>(Tôi)</i> là chủ ngữ, <b>buy </b><i>(mua) </i>là động từ nguyên thể, <b>some clothes</b> <i>(một ít quần áo)</i> là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">I want to buy some clothes. </span></b><i>(Tôi muốn mua một ít quần áo.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "186a6b0b-fb3d-4e8c-a436-8c9b3e940809"
+          },
+          "dapAn": "I",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8c551b7a-9b2d-45d6-a4eb-0e60791aaadb"
+          },
+          "dapAn": "want",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bca1e5a1-cb08-4a3e-99f3-4a265b5ec2c4"
+          },
+          "dapAn": "to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c5dfffa9-54fa-4546-8b25-4ebde1ec2bc3"
+          },
+          "dapAn": "buy",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4826a7c7-839d-4ad3-8d38-bda526c8a859"
+          },
+          "dapAn": "some",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8ca660f3-a6ef-4a76-b6b0-dbcd9a9763a4"
+          },
+          "dapAn": "clothes.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "24c41100-4406-4c8f-a13a-93a00b8544ec"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói ai đó đang muốn đi đến đâu, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ <i>to be</i> + going to + danh từ chỉ địa điểm.</b><br />\nTa có: <b>I</b> <i>(Tôi)</i> là chủ ngữ, <b>am</b> là động từ to be, <b>the bookstore</b> <i>(hiệu sách)</i> là danh từ chỉ địa điểm. Câu hoàn chỉnh là <b><span style=\"color:red\">I am going to the bookstore. </span></b><i>(Tôi đang đi đến hiệu sách.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "53ddd62b-5326-411c-9a97-14ee0e2128ab"
+          },
+          "dapAn": "I am",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "26806c1e-e285-42f6-b39f-e095159c5377"
+          },
+          "dapAn": "going",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5d23d571-1042-41a9-beab-9c8b4d56a387"
+          },
+          "dapAn": "to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2ed79fe1-543e-4873-980a-37b868896672"
+          },
+          "dapAn": "the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1342d9f0-5a7b-4607-967e-e53926b1cd16"
+          },
+          "dapAn": "bookstore.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "83d75528-9077-443b-adc2-4e4c2aae4856"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi lời khuyên / gợi ý từ ai đó, chúng ta sẽ dùng cấu trúc: <b>Do you + have + any + recommendations?</b><br />\nTa có: <b>you</b> <i>(bạn)</i> là chủ ngữ, <b>Do</b> là trợ động từ, <b>recommendations</b> <i>(gợi ý)</i> là danh từ. Câu hoàn chỉnh là <b><span style=\"color:red\">Do you have any recommendations? </span></b><i>(Bạn có gợi ý gì không?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "284b7f10-e680-4d3d-9f9d-67016fae8808"
+          },
+          "dapAn": "Do",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5994ef08-846d-4fd6-80b1-879d96413788"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "85b3d432-3222-4d2f-b2d0-d7d7a8f5d2a1"
+          },
+          "dapAn": "have",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "465c8f6e-5c27-495a-b0ed-090e23eae6d5"
+          },
+          "dapAn": "any",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "22508bf8-7308-4aa5-97a6-bebb9ab59e26"
+          },
+          "dapAn": "recommendations?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "89221e2d-40cd-4388-a356-93c8972e3e9a"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để miêu tả đồ vật / sự vật, chúng ta sẽ dùng cấu trúc: <b>Chủ ngữ + Động từ to be + tính từ miêu tả.</b><br />\nTa có: <b>The clothes</b> <i>(Những bộ quần áo đó)</i> là chủ ngữ, <b>are</b> là động từ <i>to be</i>, <b>great</b> <i>(đẹp lắm)</i> là tính từ miêu tả. Câu hoàn chỉnh là <b><span style=\"color:red\">The clothes are great. </span></b><i>(Những bộ quần áo đó đẹp lắm.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1a476e65-40ef-43ec-9b9f-0820f3f04a15"
+          },
+          "dapAn": "The",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d430edcf-eb55-4512-b49d-5627fd37b013"
+          },
+          "dapAn": "clothes",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "96152fff-d30c-4d6a-8b75-3c88b630d3de"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4f6bce97-6f4a-4fe5-9f43-364fb526b97a"
+          },
+          "dapAn": "great.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "9eaa5f05-70a9-4de5-a255-b2e5f1298b99"
+      },
+      "cauHoiNho": [],
+      "yNghia": "<b>They </b><i>(Họ)</i> là chủ ngữ ngôi thứ 3 số nhiều nên động từ <b>sell </b><i>(bán)</i> không chia, <b>all great items</b> <i>(tất cả những món đồ tuyệt vời) </i>là cụm danh từ<b>. </b>Câu hoàn chỉnh là <b><span style=\"color:red\">They sell all great items. </span></b><i>(Họ bán toàn tất cả các món đồ tuyệt vời.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "ad28609c-992d-46a9-9271-62b1e570b4e0"
+          },
+          "dapAn": "They",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c57fa19c-f316-45b3-87ee-22b23a7cee79"
+          },
+          "dapAn": "sell",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8c27c46a-1069-4499-a2bc-58b870fc79bc"
+          },
+          "dapAn": "all",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "43225b18-f9dd-4c5b-a5fe-6b5228956b7d"
+          },
+          "dapAn": "great",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "4936ceef-0404-4ddc-9210-9beca806683f"
+          },
+          "dapAn": "items.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "259d757f-4661-4c02-819c-964d96dcae61"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó đang tìm kiếm/ tìm mua vật gì, đồ gì, ta dùng cấu trúc:<b> What + Động từ to be + chủ ngữ + looking for? </b><br />\nTa có:<b> What </b><i>(Cái gì)</i><b> </b>là từ để hỏi,<b> are </b>là động từ <i>to be</i> đi với<b> you </b><i>(bạn)</i><b> </b>là chủ ngữ,<b> looking for </b><i>(đang tìm kiếm / tìm mua)</i> là cụm động từ.<b> </b>Câu hoàn chỉnh là <b><span style=\"color:red\">What are you looking for? </span></b><i>(Bạn đang tìm kiếm / tìm mua cái gì thế?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f36a4edb-95dc-4306-854d-457dc7f238b1"
+          },
+          "dapAn": "What",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "80d2c372-f975-42af-989f-25f8935f35cb"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "72be85d7-9cb6-4fc0-863f-50d494bcca6d"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "67ccd607-838b-4a08-878a-edc3b26f2a19"
+          },
+          "dapAn": "looking",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9a806ae1-f696-4ce0-8cbb-c3f97519635f"
+          },
+          "dapAn": "for?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "519d5b32-657e-4cef-912b-5a100573b791"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi về đường đi đến một địa điểm nào đó, ta dùng cấu trúc:<b> How + can + chủ ngữ + get + danh từ chỉ địa điểm? </b><br />\r\nTa có:<b> How </b><i>(Làm sao)</i><b> </b>là từ để hỏi,<b> can </b><i>(có thể)</i><b> </b>là trợ động từ, <b>I </b><i>(Tôi)</i><b> </b>là chủ ngữ,<b> get </b><i>(đến)</i> là động từ dạng nguyên thể, <b>there</b> <i>(</i><i>ở </i><i>đó)</i>.<b> </b>Câu hoàn chỉnh là <b><span style=\"color:red\">How can I get there? </span></b><i>(Làm sao tôi đến được đó?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1a29b1ef-c771-45b8-b036-dbae894fb7c4"
+          },
+          "dapAn": "How",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ed33009b-257c-4cd4-885b-ddaed9531140"
+          },
+          "dapAn": "can",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "41093db8-6aa2-4b35-b486-dc6e6f454c6a"
+          },
+          "dapAn": "I",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "adbb1c84-3dd2-4ca5-86c3-d9ab06ffe15f"
+          },
+          "dapAn": "get",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d71cdf15-92a7-4540-8394-c5752ccfc22a"
+          },
+          "dapAn": "there?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0210280f-b927-45fa-bb84-7251ce436c9d"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Đây là câu hỏi <b>Yes/No</b> nên<b> Are </b>là động từ <i>to be</i><b> </b>đứng đầu câu, theo sau là<b> The clothes</b> <i>(những bộ quần áo)</i> là danh từ số nhiều, <b>there </b><i>(ở đó)</i> là trạng từ và <b>expensive</b> <i>(đắt đỏ)</i> là tính từ miêu tả những bộ quần áo. Câu hoàn chỉnh là <b><span style=\"color:red\">Are the clothes there expensive? </span></b><i>(Những bộ quần áo ở đó có đắt đỏ không?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5073fbfd-4322-4bfe-b9ed-2d45dd1401d8"
+          },
+          "dapAn": "Are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "671199a2-16d6-4f57-a317-3c563ee38e30"
+          },
+          "dapAn": "the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "469ef3e0-85d9-4cdf-8664-bd4958094152"
+          },
+          "dapAn": "clothes",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8ad87bfd-86f7-4f60-8453-7eaeba9c1200"
+          },
+          "dapAn": "there",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cadbe172-2b54-4fd4-8c90-3962c66340f5"
+          },
+          "dapAn": "expensive?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f470437a-f212-49ef-8fec-f0f9e00caf98"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để chỉ đường cho ai đó ta dùng cấu trúc:<b> Chủ ngữ + Động từ (nguyên thể) + danh từ chỉ tên đường. </b>Câu hoàn chỉnh là <b><span style=\"color:red\">You go straight up this road. </span></b><i>(Bạn đi thẳng con đường này.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6e9f0119-2929-4cae-a208-08083007f14f"
+          },
+          "dapAn": "You",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7cb8991d-80aa-46e8-b30a-9016b6fd0ed1"
+          },
+          "dapAn": "go",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "428680b6-a573-4f85-97be-2a9881b74d73"
+          },
+          "dapAn": "straight",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b0de9c38-1218-4ed7-ad2f-88fd9ecc573e"
+          },
+          "dapAn": "up",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b312da67-33c3-4097-ad36-003592a1f3f7"
+          },
+          "dapAn": "this",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ab4af79f-1622-4956-8337-572b06c05f2f"
+          },
+          "dapAn": "road.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1e538747-b930-427a-b4db-c76ded9fe986"
+      },
+      "cauHoiNho": [],
+      "yNghia": "<b>Most of </b><i>(Hầu hết)</i><b> </b>là lượng từ chỉ số lượng đi với <b>them </b><i>(chúng)</i><b> </b>tạo thành chủ ngữ số nhiều, theo sau là<b> are </b>là động từ <i>to be</i>.<b> </b>Câu hoàn chỉnh là <b><span style=\"color:red\">Most of them are under $40. </span></b><i>(Hầu hết chúng có giá dưới 40 đô.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1a2b1efa-4a15-4249-9640-23f5616d960e"
+          },
+          "dapAn": "Most",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fab05145-f81f-430e-b397-f50a84819d94"
+          },
+          "dapAn": "of",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7321269f-4cd1-43de-aaf5-07532a53233c"
+          },
+          "dapAn": "them",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "aa4fd602-99cb-4911-ac50-ad48c6d6471e"
+          },
+          "dapAn": "are",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3bd15f39-4d42-4a85-953e-ddfeb08ab582"
+          },
+          "dapAn": "under",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1f496517-7cae-4d23-a21c-5dcbfaf0e9de"
+          },
+          "dapAn": "$40.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ce0af0d7-0107-490e-8bd8-bc110704a4b0"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để cảm ơn ai đó vì điều gì, ta dùng cấu trúc:<b> Thanks + for + danh từ. </b><br />\r\nTa có:<b> Thanks </b><i>(Cảm ơn)</i>,<b> for </b><i>(vì)</i>,<b> your help </b><i>(sự giúp đỡ của bạn)</i>.<b> </b>Câu hoàn chỉnh là <b><span style=\"color:red\">Thanks for your help. </span></b><i>(Cảm ơn v</i><i>ì</i><i> sự giúp đỡ của bạn.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e2976045-0469-4d39-ae35-d7fa423334d2"
+          },
+          "dapAn": "Thanks",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "903c28c6-9f34-48c6-8f5b-d9c671aacd34"
+          },
+          "dapAn": "for",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "3895d677-ff11-4db2-a0ba-b1343c0e10e7"
+          },
+          "dapAn": "your",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "367d719f-3ea1-4bc1-8669-202cac2599da"
+          },
+          "dapAn": "help.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "150d1e6a-7103-4a90-b49c-eb96042a9e9e"
+      },
+      "cauHoiNho": [],
+      "yNghia": "<b>I </b><i>(Tôi)</i><b> </b>là chủ ngữ ngôi thứ nhất số ít, theo sau là <b>don't</b> <i>(không)</i> là dạng phủ định của trợ động <b>do</b>, <b>know</b> <i>(biết)</i> là động từ dạng nguyên thể, <b>any</b> <i>(bất cứ)</i> là từ chỉ số lượng và <b>stores</b> <i>(những cửa hàng)</i> là danh từ số nhiều. Câu hoàn chỉnh là <b><span style=\"color:red\">I don't know any stores. </span></b><i>(Tôi không biết bất cứ cửa hàng nào.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "cbefc6f4-5a39-4a31-af43-84c0ca2a75ec"
+          },
+          "dapAn": "I don't",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "33916276-2588-42b8-b331-0bc35813b15b"
+          },
+          "dapAn": "know",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "316afafe-6d0b-454c-b7db-42f0075aa364"
+          },
+          "dapAn": "any",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "92a0733f-827b-4553-89f5-24963c191212"
+          },
+          "dapAn": "stores.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "1817533b-a97b-4a32-9dad-ad1eca603843"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về ai đó đang tìm kiếm / tìm mua đồ vật gì, ta sử dụng cấu trúc:<b> Chủ ngữ + Động từ to be + looking for + mạo từ + danh từ.</b><br />\nTa có: <b>I </b><i>(Tôi)</i><b> </b>là chủ ngữ, theo sau là<b> am </b>là động từ <i>to be</i>,<b> looking for </b><i>(đang tìm mua)</i><b>, a </b><i>(một chiếc)</i><b> </b>là tân ngữ và<b> T-shirt </b><i>(áo phông). </i>Câu hoàn chỉnh là <b><span style=\"color:red\">I'm looking for a T-shirt. </span></b><i>(Tôi đang tìm mua một chiếc áo phông.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8e12a388-6a31-4210-978d-b9eecbf07245"
+          },
+          "dapAn": "I'm",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6b3972bc-1068-453b-8485-a512a321da4d"
+          },
+          "dapAn": "looking",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b8eed5d2-b1bc-43df-a9e2-a048c8dce796"
+          },
+          "dapAn": "for",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9ace721f-52b6-4a94-af9c-bab5d6d491f3"
+          },
+          "dapAn": "a",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e0849a18-6f2d-4c90-bb49-42897f7c912e"
+          },
+          "dapAn": "T-shirt.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "19bcacd8-c83a-4d84-8c77-711f34d3ca4a"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về địa điểm nào ở vị trí bên tay nào, ta sử dụng cấu trúc:<b> Chủ ngữ + Động từ to be + giới từ + your + danh từ.</b><br />\r\nTa có: <b>It </b><i>(Nó)</i><b> </b>là chủ ngữ, theo sau là<b> ‘s </b>là động từ <i>to be</i> dạng rút gọn,<b> on </b><i>(ở)</i> là giới từ,<b> your </b><i>(của bạn)</i><b> </b>là tính từ sở hữu và<b> right </b><i>(bên phải)</i> là danh từ. Câu hoàn chỉnh là <b><span style=\"color:red\">It's on your right. </span></b><i>(Nó ở bên phải của bạn.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5e05487b-4586-4132-90a2-7da541e47098"
+          },
+          "dapAn": "It's",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a23699a4-8cad-4b66-ac3e-7c63af37c0f5"
+          },
+          "dapAn": "on",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c3192d0a-4a17-40e7-a796-675117b465d3"
+          },
+          "dapAn": "your",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "754bc101-cb2b-475d-94f6-2eea4c107fcf"
+          },
+          "dapAn": "right.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "24eb7367-f2ac-4af1-94cc-0afabca8b796"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để nói về một địa điểm nào đó ở giữa hai địa điểm khác, ta sử dụng cấu trúc:<b> Chủ ngữ + Động từ to be + between + danh từ chỉ địa điểm 1 + and + danh từ chỉ địa điểm 2.</b><br />\nTa có: <b>The shop </b><i>(Cửa hàng)</i><b> </b>là chủ ngữ, theo sau là<b> ‘s </b>là động từ <i>to be</i> dạng rút gọn,<b> between </b><i>(ở giữa)</i> là giới từ<b>, a café </b><i>(một quán cà phê)</i><b> </b>là danh từ chỉ địa điểm 1, <b>and</b> (<i>và</i>) là liên từ và <b>a diner </b><i>(một quán ăn) </i>là danh từ chỉ địa điểm 2<i>. </i>Câu hoàn chỉnh là <b><span style=\"color:red\">The shop's between a café and a diner. </span></b><i>(Cửa hàng ở giữa một quán cà phê và một quán ăn.)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1eb99b29-ea58-40de-bc62-f19415ec4dd8"
+          },
+          "dapAn": "The shop’s",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0f9f977a-c4ab-4509-b06e-2f838882efe8"
+          },
+          "dapAn": "between",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ac42e49e-4b18-45d5-8d17-c468b2a85614"
+          },
+          "dapAn": "a cafe",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "01d686d5-0688-474a-8e45-c1b44e5fc2bb"
+          },
+          "dapAn": "and ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "17f396b0-de8a-460c-87e7-4ac7da435819"
+          },
+          "dapAn": "a diner.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0ad61097-4dc2-4fb3-888b-ce3d519be74a"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Đây là câu hỏi <b>Yes/No</b> nên ta có <b>Do</b> là trợ động từ đặt ở đầu câu. Theo sau là <b>you</b> <i>(bạn)</i> làm chủ ngữ, <b>want</b> <i>(muốn)</i> là động từ chính ở dạng nguyên thể, <b>to buy</b> <i>(mua)</i> là động từ nguyên thể có \"to\" làm rõ nghĩa cho động từ chính <b>want</b>, <b>some</b> <i>(một vài)</i> là từ chỉ số lượng và <b>books</b> <i>(quyển sách)</i> là danh từ ở dạng số nhiều.<b> </b>Câu hoàn chỉnh là <b><span style=\"color:red\">Do you want to buy some books? </span></b><i>(Có phải bạn muốn mua một vài cuốn sách không?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "51881b5b-bcd3-4682-9219-7c01c1465897"
+          },
+          "dapAn": "Do you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "73f0acc4-6c30-442a-9b0d-082eb0eb9d43"
+          },
+          "dapAn": "want to",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d5920fcf-e80b-4140-a385-dfacf0a9ba60"
+          },
+          "dapAn": "buy",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "49670e30-1e50-49ee-869c-913bbaef1b7c"
+          },
+          "dapAn": "some",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fd338120-3e44-4f0c-a5dc-b134230a283c"
+          },
+          "dapAn": "books?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "777d1890-b369-46fa-b5f7-703e9d7b5a01"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi về ai đó định mua đồ ở đâu, ta dùng cấu trúc:<b> Where + Động từ to be + chủ ngữ + going to + Động từ (nguyên thể) + tân ngữ.</b><br />\nTa có:<b> Where </b><i>(Nơi nào)</i><b> </b>là từ để hỏi, theo sau là<b> are </b>là động từ <i>to be</i>,<b> you </b><i>(bạn) là chủ ngữ, </i><b>going to </b><i>(định)</i>, <b>buy</b> (mua) là động từ nguyên thể và <b>them </b><i>(chúng) </i>là tân ngữ<i>. </i>Câu hoàn chỉnh là <b><span style=\"color:red\">Where are you going to buy them? </span></b><i>(Bạn định mua chúng ở nơi nào?)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "89e7fad8-f4eb-4560-a22a-44faba6d023e"
+          },
+          "dapAn": "Where",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "c4012e10-bf4d-4182-bbcb-57a3e7ebc365"
+          },
+          "dapAn": "are you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "d0243448-76c7-4ce8-8625-934c4ccc419a"
+          },
+          "dapAn": "going",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2984722a-306d-4791-bcd0-25b6389c8ae6"
+          },
+          "dapAn": "to buy",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "83003f52-3f6b-4b2a-ae99-aaee0d0d2d40"
+          },
+          "dapAn": "them?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "727bec0a-c3ca-45d2-8f3c-c261c1493037"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để chào tạm biệt và hẹn gặp lại, ta dùng cấu trúc: <b>Bye. See you + trạng từ!</b><br />\nTa có: <b>Bye. </b><i>(Chào tạm biệt)</i><b> </b>là câu chào. <b>See you</b> <i>(gặp lại bạn)</i><b> </b>là cụm từ hẹn gặp lại,<b> soon </b><i>(sớm)</i> là trạng từ. Câu hoàn chỉnh là <b><span style=\"color:red\">Bye. See you soon! </span></b><i>(Chào tạm biệt. Hẹn sớm gặp lại bạn!)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7b59a7f8-6620-4cb4-9355-1c04e3257afc"
+          },
+          "dapAn": "Bye. ",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "b05c5bf6-8645-479f-b2c7-97f76d0fffb4"
+          },
+          "dapAn": "See you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5e0849da-0e60-40a2-b060-3be0a23cd6d6"
+          },
+          "dapAn": "soon!",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "ba7c22a6-81ae-4236-ab44-59dfd6c32f78"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hẹn gặp lại ta dùng cấu trúc: <b>See you + trạng từ!</b><br />\nTa có: <b>See you</b> (<i>gặp lại bạn)<b> </b></i>là cụm từ hẹn gặp lại,<b> tomorrow </b><i>(ngày mai)</i> là trạng từ. Câu hoàn chỉnh là <b><span style=\"color:red\">See you tomorrow! </span></b><i>(Hẹn gặp lại bạn vào ngày mai!)</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "64818e24-a799-49e2-a3c1-3ea21bea0c21"
+          },
+          "dapAn": "See",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0579e9e8-83cb-447b-9bd3-fff8cd8a5162"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5c9cffc9-ac4f-4039-a509-10d107823a0d"
+          },
+          "dapAn": "tomorrow!",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2fd35873-dcd7-4c92-8c47-8a17ced77ebd"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có câu hỏi <b>Yes/No</b> bắt đầu bằng trợ động từ <b>Do</b> đi với chủ ngữ ngôi thứ hai <b>you</b>, cụm động từ <b>do the laundry</b> mang nghĩa là ‘giặt quần áo'. Câu hoàn chỉnh là <b><span style=\"color:red\">Do you help your parents do the laundry? </span></b><i>(Bạn có giúp bố mẹ giặt quần áo không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "1ba892d5-82b8-438a-8987-2c8392f0f3e8"
+          },
+          "dapAn": "Do you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "980c1f10-2d35-402f-a8b4-fdb24a4cf9bb"
+          },
+          "dapAn": "help",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "1f97bd25-2f7c-4213-be44-364f087d6df7"
+          },
+          "dapAn": "your",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "fcb9a074-48fe-4f47-b8dd-2147026801dc"
+          },
+          "dapAn": "parents",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "251eb8b6-ab37-4036-bc0b-b0edf7534bb2"
+          },
+          "dapAn": "do the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "7fc66e3a-814d-46a6-97e6-ed0efa31cd9c"
+          },
+          "dapAn": "laundry?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f5ac7187-7fdd-4fc0-bcd8-66b2ba100a66"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có cụm <b>What do you do</b> mang nghĩa là ‘Bạn làm gì', <b>free time</b> là cụm từ mang nghĩa là ‘thời gian rảnh rỗi'. Ta có câu hoàn chỉnh là <b><span style=\"color:red\">What do you do in your free time?</span></b><i> (Bạn làm gì trong thời gian rảnh rỗi?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "02604378-62a0-4094-ad24-b0adce07be3f"
+          },
+          "dapAn": "What",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "50d5134e-f07e-4932-b23c-4ef43f7d22e7"
+          },
+          "dapAn": "do you do",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cfce0c98-4ef9-4b85-ad9f-12672b1c2d28"
+          },
+          "dapAn": "in your",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "223620f3-c3f6-483f-9142-53e74e9c6283"
+          },
+          "dapAn": "free time?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "11e8b542-749a-4799-97b1-ca8d25be5b3b"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có trợ động từ <b>Can</b> đặt trước chủ ngữ <b>you</b> tạo thành câu hỏi <b>Yes/No</b>, động từ <b>sing</b> <i>(hát)</i> và <b>dance</b> <i>(nhảy)</i> ở dạng nguyên thể. Ta có câu hoàn chỉnh là <b><span style=\"color:red\">Can you sing and dance?</span></b><i> (Bạn có thể hát và nhảy không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b74a01e4-ff96-407a-a5d4-45f3c547394c"
+          },
+          "dapAn": "Can",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0fe4496c-9780-4d9e-a764-1e74b47a28ee"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "81e1b2da-a148-4224-900a-c55956b86646"
+          },
+          "dapAn": "sing and",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9fde7e71-fef2-4822-ac4e-960a26969e6d"
+          },
+          "dapAn": "dance?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "344b3018-70c4-4d6d-bbad-884d3bcca411"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có cụm động từ <b>visit friends</b> là 'thăm bạn bè'. Câu hoàn chỉnh là <b><span style=\"color:red\">I usually visit my friends.</span></b><i> (Tôi thường thăm bạn bè của tôi.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9148d811-1617-4476-b97c-e666fec67cfa"
+          },
+          "dapAn": "I usually",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "590f5365-6701-47c9-b09e-7bcd46308b91"
+          },
+          "dapAn": "visit",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dcc8aad1-66fb-4520-8e5e-a41c23617229"
+          },
+          "dapAn": "my friends.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0a79c593-397c-4a3f-b085-26c5733b6370"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi sở thích của ai đó, ta dùng cấu trúc: <b>Do you like + Danh từ + or + Danh từ?</b> Câu hoàn chỉnh là <b><span style=\"color:red\">Do you like coffee or tea?</span></b><i> (Bạn thích cà phê hay trà?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2c8dc98d-be58-4679-ad97-e37a8b43c445"
+          },
+          "dapAn": "Do you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f8c82ec6-62d5-4c1e-9dfe-f9f99f4dac5f"
+          },
+          "dapAn": "like",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e563c098-da97-40a3-8976-5695664ee30f"
+          },
+          "dapAn": "coffee or tea?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0a2cb9a3-b7ad-4712-8fe7-9cba991b72d1"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Câu hỏi với từ để hỏi <b>Who</b> làm chủ ngữ là câu hỏi khi muốn biết chủ thể của một hành động nào đó. Sau<b> Who</b> ta chia động từ ở dạng số ít, nên từ động từ <b>do</b> được thêm ‘<b>es</b>' thành <b>does</b>. Cụm động từ <b>do the laundry</b> mang nghĩa là ‘giặt quần áo'. Ta có câu hoàn chỉnh là <b><span style=\"color:red\">Who does the laundry in your family?</span></b><i> (Ai giặt quần áo trong gia đình bạn?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "8cc05810-0bdf-492a-9a8e-648e65be6a81"
+          },
+          "dapAn": "Who does",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2d60a710-a19c-410a-b273-125d0f7f441a"
+          },
+          "dapAn": "the laundry",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "6e9907e2-33e5-43f8-9d7d-834a14a18168"
+          },
+          "dapAn": "in your",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a7773917-2347-4ab0-ad06-3aca054596cf"
+          },
+          "dapAn": "family?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "cfd882a8-2edd-4335-a16b-18055546c8cb"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó về tần suất làm một việc gì đó, ta dùng từ để hỏi <b>How often</b>. Ta có câu hoàn chỉnh là <b><span style=\"color:red\">How often do you cook? </span></b><i>(Bạn có thường nấu ăn không?). </i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "14a6ec92-230e-4039-a8f3-1158d41fbbf3"
+          },
+          "dapAn": "How often",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "84155257-fbf3-4ca1-bfd1-341babb054b5"
+          },
+          "dapAn": "do you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e246ef32-80a5-4eee-bbeb-0ed485518f9f"
+          },
+          "dapAn": "cook?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6628602d-9f49-4756-a2a3-84899ec455fd"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có cụm <b>stay at home</b> mang nghĩa là ‘ở nhà' và <b>do the housework</b> là ‘làm việc nhà'. Câu hoàn chỉnh là <b><span style=\"color:red\">I will stay at home and help my parents do the housework.</span></b><i> (Tôi sẽ ở nhà và giúp bố mẹ làm việc nhà.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "9c0bb00e-23e2-4be7-85d6-74703247e4f8"
+          },
+          "dapAn": "I will stay",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "71db8fc7-5524-4d98-a745-54cf73b6f67f"
+          },
+          "dapAn": "at home",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9dcfcdf0-363d-466c-b925-5815ecb7e4a8"
+          },
+          "dapAn": "and help",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "16a8726a-316e-4d8c-b047-6e323e816c96"
+          },
+          "dapAn": "my parents",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8e8acc05-ee97-457d-8446-a770427fdee3"
+          },
+          "dapAn": "do the",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "79a06c55-351f-4173-a29a-0c0a21991968"
+          },
+          "dapAn": "housework.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "05e1d274-7c9a-4155-a6ff-e41e69066b69"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có cụm <b>twice a week</b> mang nghĩa là ‘hai lần một tuần'. Ta có câu hoàn chỉnh là <b><span style=\"color:red\">About twice a week.</span></b><i> (Khoảng hai lần một tuần.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f6627f3c-c806-45ef-8305-b5523bb763ea"
+          },
+          "dapAn": "About",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2c4f8e67-bbeb-4f3e-ba53-be8224ba8890"
+          },
+          "dapAn": "twice",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "f088bbb7-57e7-46b5-8528-0b6ccb5d0c2e"
+          },
+          "dapAn": "a week.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "bb269937-fad0-4df2-8ae6-4d4fe4a96790"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có cụm động từ <b>wash the dishes</b> mang nghĩa là ‘rửa bát', <b>I </b><i>(Tôi)</i><b> </b>là chủ ngữ ngôi thứ nhất số ít nên động từ <b>wash</b> được chia ở dạng nguyên thể. Câu hoàn chỉnh là <b><span style=\"color:red\">I usually wash the dishes.</span></b><i> (Tôi thường rửa bát.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "f2d0160f-bb5e-464d-a398-2fac63cd01b6"
+          },
+          "dapAn": "I usually",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "19834f6a-ffaa-492e-b64a-74077837a1d5"
+          },
+          "dapAn": "wash",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "27ce1324-4852-4998-86d5-0aa5561c650f"
+          },
+          "dapAn": "the dishes.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "f6a3665f-dc29-4fb5-aae2-83c89944db1d"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có trợ động từ <b>Can</b> đặt trước chủ ngữ <b>your sister</b> <i>(chị của bạn)</i> tạo thành câu hỏi <b>Yes/No</b>, động từ <b>play</b> <i>(chơi)</i> được chia ở dạng nguyên thể. Câu hoàn chỉnh là <b><span style=\"color:red\">Can your sister play the guitar?</span></b><i> (Chị gái của bạn có thể chơi ghi-ta không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "b6c754bc-bc36-41e2-94b4-666b187c456f"
+          },
+          "dapAn": "Can",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "012d4ec8-148b-43d1-8fd2-370129e1bca0"
+          },
+          "dapAn": "your sister",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "943a5eab-6af3-4ce8-997d-2a5661dc6948"
+          },
+          "dapAn": "play",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "bd2ec892-7737-4a1f-ad21-6ff5b0fe348e"
+          },
+          "dapAn": "the guitar?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "802cc895-52dc-49ac-9df6-b20150a35940"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi sở thích của ai đó, ta dùng cấu trúc: <b>Do you like + to + Động từ nguyên thể? </b>Ta có: Cụm động từ <b>go out for dinner</b> mang nghĩa là ‘ra ngoài ăn tối'. Câu hoàn chỉnh là <b><span style=\"color:red\">Do you like to go out for dinner?</span></b><i> (Bạn có thích ra ngoài ăn tối không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "e048033f-f47a-47c9-af87-b3414efb07b5"
+          },
+          "dapAn": "Do you like",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dcd9f03d-dd34-4758-9bbb-07d20576223b"
+          },
+          "dapAn": "to go out",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "cd453ec5-a4c9-4b8e-8f32-794da0afbb2d"
+          },
+          "dapAn": "for dinner?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6b806615-4347-4167-9b66-1e8075bc2384"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả ai đó đang làm gì ở thời điểm hiện tại, ta sử dụng thì hiện tại tiếp diễn với cấu trúc: <b>Động từ <i>to be</i> + Động từ (-ing)</b>. Ta có: <b>My brother </b><i>(Anh trai tôi)</i><b> </b>là chủ ngữ số ít nên động từ <i>to be</i> theo sau sẽ là <b>is</b>,<b> </b>động từ<b> play </b><i>(chơi)</i><b> </b>được thêm <b>-ing </b>thành<b> playing</b>. Ta có câu hoàn chỉnh là <b><span style=\"color:red\">My brother is playing football in the park.</span></b><i> (Anh trai tôi đang chơi bóng đá trong công viên.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "92b0f851-cbaa-4efa-a733-19b1762174bf"
+          },
+          "dapAn": "My brother",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "64b5aa7a-7c07-456b-9df6-b959487bcb33"
+          },
+          "dapAn": "is playing",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "64ea467b-9a9a-46da-9ac2-0b268a8457ba"
+          },
+          "dapAn": "football",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "811af9e3-759b-43f5-8c13-46bf92330563"
+          },
+          "dapAn": "in the park.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "479e257f-77fa-4651-9ed4-f87c5d8ba434"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có cụm động từ <b>make dinner </b>là ‘làm bữa tối'. <b>My mom</b> <i>(Mẹ tôi)</i> là chủ ngữ số ít nên động từ <b>make</b> được thêm ‘<b>s</b>' thành <b>makes</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">My mom makes dinner.</span></b><i> (Mẹ tôi làm bữa tối.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "133b9348-f94e-4a10-aad5-b903773d5117"
+          },
+          "dapAn": "My mom",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "18d064af-2439-46b3-970b-69e697fc0eaf"
+          },
+          "dapAn": "makes",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "0cf416e1-452a-4ce5-a17e-d1fdc0fe6b8d"
+          },
+          "dapAn": "dinner.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0937746b-d95d-45b4-b8b3-2a1df6f1faa0"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả ai đó đang làm gì ở thời điểm hiện tại, ta sử dụng thì hiện tại tiếp diễn với cấu trúc: <b>Động từ <i>to be</i> + Động từ (-ing)</b>. Ta có: <b>She </b><i>(Cô ấy)</i><b> </b>là chủ ngữ ngôi thứ ba số ít nên động từ <i>to be</i> theo sau sẽ là <b>is</b>, với dạng phủ định<b> </b>là<b> isn't</b>, động từ<b> watch </b><i>(xem)</i><b> </b>được thêm <b>-ing </b>thành<b> watching</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">She isn't watching a movie.</span></b><i> (Cô ấy đang không xem phim.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "6b82fcf0-ae72-45ce-ae33-f8d5e82bf78e"
+          },
+          "dapAn": "She isn't",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "a8747bdd-5be9-4216-9480-9a364fc5c255"
+          },
+          "dapAn": "watching",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "15d8e29f-afc1-4718-b1ae-e921d224d03d"
+          },
+          "dapAn": "a movie.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "0ec60c63-3173-494f-b9b6-18de4eaa742c"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để diễn tả ai đó đang làm gì ở thời điểm hiện tại, ta sử dụng thì hiện tại tiếp diễn với cấu trúc: <b>Động từ <i>to be</i> + Động từ (-ing)</b>. Ta có: <b>Diana </b>là chủ ngữ số ít nên động từ <i>to be</i> theo sau sẽ là <b>is</b>,<b> </b>động từ<b> have </b>được thêm <b>-ing </b>thành<b> having.</b> Câu hoàn chỉnh là <b><span style=\"color:red\">Diana is having coffee because the weather is cold.</span></b><i> (Diana đang uống cà phê vì thời tiết lạnh giá.).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "2aac803b-2a9a-49b2-9b79-7df99b745722"
+          },
+          "dapAn": "Diana",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "702451d8-5cb9-46a9-931e-c3acd18fde92"
+          },
+          "dapAn": "is having",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9a928aff-b4f3-480b-a598-f62e6b6ef38c"
+          },
+          "dapAn": "coffee",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "ad4736d3-1961-4974-a9d8-734969247a64"
+          },
+          "dapAn": "because",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "159a7687-f8fd-44e1-bb86-65ba7dec9602"
+          },
+          "dapAn": "the weather",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dc4b51bd-6965-4509-8d53-3ab03e0e3c2f"
+          },
+          "dapAn": "is cold.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "fa93ab66-a092-478e-bb98-874f958c9bb5"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có trợ động từ <b>Can</b> đặt trước chủ ngữ <b>you</b> tạo thành câu hỏi <b>Yes/No</b>, động từ <b>cook</b> <i>(nấu ăn)</i> được chia ở dạng nguyên thể. Câu hoàn chỉnh là <b><span style=\"color:red\">Can you cook?</span></b><i> (Bạn có thể nấu ăn không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "44efe32e-f343-4b41-8b3d-139c30cf0fd0"
+          },
+          "dapAn": "How about",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "13accf7e-0a9f-4e21-85b8-f8d345419f3c"
+          },
+          "dapAn": "cooking?",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "43a64734-69a7-491f-85e3-b160cefd582d"
+          },
+          "dapAn": "Can",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "aac9413b-655b-4a6b-b4d4-1cb7bc31b584"
+          },
+          "dapAn": "you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "2df321c4-3ee6-4e81-8a75-f9fddb46337b"
+          },
+          "dapAn": "cook?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "712aed1c-25f9-49c6-89c6-bc9c898c5b7f"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Câu hỏi với từ để hỏi <b>Who</b> làm chủ ngữ là câu hỏi khi muốn biết chủ thể của một hành động nào đó. Sau<b> Who</b> ta chia động từ ở dạng số ít, nên từ động từ <b>take</b> được thêm ‘<b>s</b>' thành <b>takes</b>. Cụm động từ <b>take out the garbage</b> mang nghĩa là ‘đổ rác'. Câu hoàn chỉnh là <b><span style=\"color:red\">Who takes out the garbage in your family?</span></b><i> (Ai là người đổ rác trong gia đình bạn?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "7b2408f6-7e65-45b2-90e5-8c9715a96266"
+          },
+          "dapAn": "Who",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9ea30395-d6ce-4799-a07f-608c39c71037"
+          },
+          "dapAn": "takes out",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "e884d38f-1570-4512-bd93-24f565a0b714"
+          },
+          "dapAn": "the garbage",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "9b7746ff-62d0-4f96-a780-e3c1bdfd2804"
+          },
+          "dapAn": "in your",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5cf52730-4396-4cb8-98b5-833c4c47bda7"
+          },
+          "dapAn": "family?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "65d2f7fb-f906-425d-8f67-1ea8c89946f6"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Ta có trợ động từ <b>Can</b> đặt trước chủ ngữ <b>you</b> tạo thành câu hỏi <b>Yes/No</b>, động từ <b>paint</b> <i>(vẽ)</i> được chia ở dạng nguyên thể. Câu hoàn chỉnh là <b><span style=\"color:red\">Can you paint a picture?</span></b><i> (Bạn có thể vẽ một bức tranh không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "5278bcd0-5d8d-4c5b-9462-39b0aa872465"
+          },
+          "dapAn": "Can you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "8be03a30-7333-4e77-a86b-49f3d5f0941d"
+          },
+          "dapAn": "paint",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "dcea3ff2-9163-4f7e-9f6c-440e94501e23"
+          },
+          "dapAn": "a picture?",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "2e33a282-2f69-460f-abcc-58bc199edf1e"
+      },
+      "cauHoiNho": [],
+      "yNghia": "Để hỏi ai đó về tần suất làm một việc gì đó, ta dùng từ để hỏi <b>How often</b>. Cụm động từ <b>clean the house</b> mang nghĩa là ‘dọn dẹp nhà cửa'. Ta có câu hoàn chỉnh là <b><span style=\"color:red\">How often do you clean the house?</span></b><i> (Bạn có thường dọn dẹp nhà cửa không?).</i>",
+      "danhSachDapAn": [
+        {
+          "_id": {
+            "$oid": "622aa61e-9f44-49c2-a2d4-5b43dd4fbcf1"
+          },
+          "dapAn": "How often",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "47b7293e-55a3-47bd-bc46-ac21633d9b9d"
+          },
+          "dapAn": "do you",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "5b84b333-1050-4fa7-9278-b0b5d5e02d26"
+          },
+          "dapAn": "clean",
+          "isCorrect": true
+        },
+        {
+          "_id": {
+            "$oid": "97c4e11d-1818-4dd6-a1ca-78b329aaefce"
+          },
+          "dapAn": "the house?",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

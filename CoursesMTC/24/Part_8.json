@@ -6,14 +6,14 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "969e42bf-1e02-4ddb-8d17-628d83b3e8ba"
+        "$oid": "8c1b05cd-46cf-46dd-9cb2-4913e39ba246"
       },
       "cauHoiNho": [],
       "cauHoi": "Host",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "e76cb5db-505b-487f-924c-9a0ed0eeccc5"
+            "$oid": "c1e1faf3-2ea7-4c11-809a-b2d0a64876e7"
           },
           "dapAn": "Welcome to the show, Gerri Garcia, an advertising executive for one of the most successful advertising companies.",
           "phienAm": "/ˈwelkəm tuː ðiː ʃəʊ geri gɑːˈsɪə æn ˈædvətaɪzɪŋ ɪgˈzekjʊtɪv fɔːr wʌn ɒv ðiː məʊst səkˈsesfʊl ˈædvətaɪzɪŋ ˈkʌmpəniz/",
@@ -29,7 +29,7 @@
         },
         {
           "_id": {
-            "$oid": "556fbb2f-b315-4ac7-8b15-8f90e465fefc"
+            "$oid": "e7155ae4-7396-45c7-bb7b-afb17a985a4d"
           },
           "dapAn": "Thanks for joining us, Gerri. We also want to know what we can do to avoid its tricks.",
           "phienAm": "/θæŋks fɔːr ˈʤɔɪnɪŋ ʌs geri/. /wiː ˈɔːlsəʊ wɒnt tuː nəʊ wɒt wiː kæn duː tuː əˈvɔɪd ɪts trɪks/",
@@ -45,7 +45,7 @@
         },
         {
           "_id": {
-            "$oid": "51df0da9-018c-46fd-8ea9-aee267adf800"
+            "$oid": "d7856863-fb27-4640-9f4e-91e485c98859"
           },
           "dapAn": "Tell us what your biggest concern about false advertising is.",
           "phienAm": "/tel ʌs wɒt jɔːr ˈbɪgɪst kənˈsɜːn əˈbaʊt fɔːls ˈædvətaɪzɪŋ ɪz/",
@@ -61,7 +61,7 @@
         },
         {
           "_id": {
-            "$oid": "f714e283-4f8d-4dcf-8ed0-2e085058307c"
+            "$oid": "8b3d4630-5a08-4130-99c2-8efa0dbf5fba"
           },
           "dapAn": "Please, can you explain more?",
           "phienAm": "/pliːz kæn juː ɪksˈpleɪn mɔːr/",
@@ -77,7 +77,7 @@
         },
         {
           "_id": {
-            "$oid": "3c42461c-c766-4652-8714-20ac53af9a15"
+            "$oid": "62962304-2bb5-4ad8-99e9-ef7d1456ebbd"
           },
           "dapAn": "There’re many food products making claims that seem true, but you don’t really see any proof.",
           "phienAm": "/ˈðeərər ˈmeni fuːd ˈprɒdʌkts ˈmeɪkɪŋ kleɪmz ðæt siːm truː bʌt juː dəʊnt ˈrɪəli siː ˈeni pruːf/",
@@ -93,7 +93,7 @@
         },
         {
           "_id": {
-            "$oid": "6e1978b8-0111-43af-94bc-0fec49fa3770"
+            "$oid": "df1f888f-233f-49a8-82f5-439b2de8a6dc"
           },
           "dapAn": "I think many weight loss claims are believed, even though there isn’t any evidence.",
           "phienAm": "/aɪ θɪŋk ˈmeni weɪt lɒs kleɪmz ɑːr bɪˈliːvd ˈiːvən ðəʊ ðeər ˈɪznt ˈeni ˈevɪdəns/",
@@ -109,7 +109,7 @@
         },
         {
           "_id": {
-            "$oid": "5a755891-582a-4000-a5c7-333628124537"
+            "$oid": "df0f3db4-b851-41ad-85bb-3412c515a01a"
           },
           "dapAn": "Do you know any companies like that?",
           "phienAm": "/duː juː nəʊ ˈeni ˈkʌmpəniz laɪk ðæt/",
@@ -125,7 +125,7 @@
         },
         {
           "_id": {
-            "$oid": "70d110c8-fad9-4eb6-b332-1b5cb7a18125"
+            "$oid": "886f1499-7bb4-44ae-9c74-f3ed0f271b35"
           },
           "dapAn": "Goodness. These false claims must hurt companies, right?",
           "phienAm": "/ˈgʊdnɪs/. /ðiːz fɔːls kleɪmz mʌst hɜːt ˈkʌmpəniz raɪt/",
@@ -141,7 +141,7 @@
         },
         {
           "_id": {
-            "$oid": "087e31af-7312-4ec4-900e-8d4fa8aa70b7"
+            "$oid": "9e8e655d-5805-410e-bae2-18240d19773c"
           },
           "dapAn": "I’ve eaten that yogurt plenty of times!",
           "phienAm": "/aɪv ˈiːtn ðæt ˈjɒgət ˈplenti ɒv taɪmz/",
@@ -157,7 +157,7 @@
         },
         {
           "_id": {
-            "$oid": "c734fc37-d254-4930-b602-7ee07ee5c2a6"
+            "$oid": "66c16ab8-e605-41d2-bea2-b1429fb964c8"
           },
           "dapAn": "I will. Thanks very much for your time.",
           "phienAm": "/aɪ wɪl/. /θæŋks ˈveri mʌʧ fɔːr jɔːr taɪm/",
@@ -175,14 +175,14 @@
     },
     {
       "_id": {
-        "$oid": "d9ad9f2c-1eca-4ffc-a559-1f8b0a336348"
+        "$oid": "88e2b979-28ec-4c35-bceb-9fa865c7a4b7"
       },
       "cauHoiNho": [],
       "cauHoi": "Gerri",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "c8a451e8-ad2f-4dee-af10-f6243aa8c07f"
+            "$oid": "444e91d7-17d8-410b-81f5-f89cfa09e6f7"
           },
           "dapAn": "Hello everyone. I’m very glad to be here to talk about false advertising.",
           "phienAm": "/həˈləʊ ˈevrɪwʌn/. /aɪm ˈveri glæd tuː biː hɪər tuː tɔːk əˈbaʊt fɔːls ˈædvətaɪzɪŋ/",
@@ -198,7 +198,7 @@
         },
         {
           "_id": {
-            "$oid": "1f4385d3-23b1-401d-a2f8-12b37e840d43"
+            "$oid": "599d2b44-ad97-4b0b-8004-57cc2fbf5089"
           },
           "dapAn": "Thank you for having me today. I’m willing to share my experience.",
           "phienAm": "/θæŋk juː fɔːr ˈhævɪŋ miː təˈdeɪ/. /aɪm ˈwɪlɪŋ tuː ʃeər maɪ ɪksˈpɪərɪəns/",
@@ -214,7 +214,7 @@
         },
         {
           "_id": {
-            "$oid": "9e2fd313-6216-40b2-b750-56efbff021a0"
+            "$oid": "70389377-83ec-402a-a01d-aa51f4fc4fde"
           },
           "dapAn": "Without a doubt, they’re advertisements for health products and services.",
           "phienAm": "/wɪˈðaʊt eɪ daʊt ðeər ədˈvɜːtɪsmənts fɔːr helθ ˈprɒdʌkts ænd ˈsɜːvɪsɪz/",
@@ -230,7 +230,7 @@
         },
         {
           "_id": {
-            "$oid": "94964282-2036-416d-a41d-1be1c56ad78f"
+            "$oid": "26e93fa4-e215-4e27-8fd1-51a12ec6d358"
           },
           "dapAn": "False advertising in this field is terrible because it could be harmful to our health.",
           "phienAm": "/fɔːls ˈædvətaɪzɪŋ ɪn ðɪs fiːld ɪz ˈterəbl bɪˈkɒz ɪt kʊd biː ˈhɑːmfʊl tuː ˈaʊər helθ/",
@@ -246,7 +246,7 @@
         },
         {
           "_id": {
-            "$oid": "04650ffc-b505-4c14-abce-fc62040771fd"
+            "$oid": "b918925b-f822-44cd-9754-2bcd7bcbf14f"
           },
           "dapAn": "Yes, that’s probably because there isn’t any!",
           "phienAm": "/jes ðæts ˈprɒbəbli bɪˈkɒz ðeər ˈɪznt ˈeni/",
@@ -262,7 +262,7 @@
         },
         {
           "_id": {
-            "$oid": "e0678a3a-f5c4-4398-a0a2-464dd6a06558"
+            "$oid": "4c36e339-149c-4c3c-a4de-d10553803b23"
           },
           "dapAn": "There’re also companies that produce food for kids making false claims.",
           "phienAm": "/ˈðeərər ˈɔːlsəʊ ˈkʌmpəniz ðæt ˈprədjuːs fuːd fɔːr kɪdz ˈmeɪkɪŋ fɔːls kleɪmz/",
@@ -278,7 +278,7 @@
         },
         {
           "_id": {
-            "$oid": "467aa8fe-8698-4f32-8fae-8d12b35567a9"
+            "$oid": "21f3230e-4451-4920-aabf-de6a2ea3baf6"
           },
           "dapAn": "Kellogg’s put a claim that their cereal could fight colds and the flu more easily.",
           "phienAm": "/kilogs pʊt eɪ kleɪm ðæt ðeər ˈsɪərɪəl kʊd faɪt kəʊldz ænd ðə fluː mɔːr ˈiːzɪli/",
@@ -294,7 +294,7 @@
         },
         {
           "_id": {
-            "$oid": "c8b3dac3-9fb6-4254-acc8-40807de13eca"
+            "$oid": "95d8f21e-d363-4018-bf56-ecbd1a77caf6"
           },
           "dapAn": "Yes. Another example, Activia Yogurt lost a lawsuit over false claims.",
           "phienAm": "/jes/. /əˈnʌðər ɪgˈzɑːmpl ækˈtɪviaˈjɒgəːt lɒst eɪ ˈlɔːsjuːt ˈəʊvər fɔːls kleɪmz/",
@@ -310,7 +310,7 @@
         },
         {
           "_id": {
-            "$oid": "f6d08695-0bd8-4e5b-9f01-257d9b78b709"
+            "$oid": "18ef0be9-29ef-4d20-b1a7-321eb5132bd9"
           },
           "dapAn": "So, look at those labels carefully!",
           "phienAm": "/səʊ lʊk æt ðəʊz ˈleɪblz ˈkeəfli/",
@@ -326,7 +326,7 @@
         },
         {
           "_id": {
-            "$oid": "6d783a15-3d5b-42b6-bb81-e88d5ec2176e"
+            "$oid": "8ad93d9c-6c7c-4b8e-8ce9-ea7700904564"
           },
           "dapAn": "My pleasure.",
           "phienAm": "/maɪ ˈpleʒər/",

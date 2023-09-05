@@ -4,49 +4,49 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "d0879be7-c4db-4bb6-aafb-8f48c48df938"
+        "$oid": "7f375d84-8886-46ae-a842-981081c5012e"
       },
       "cauHoiNho": [],
       "yNghia": "Để diễn tả một hành động diễn ra và đã kết thúc trong quá khứ ta dùng cấu trúc thì quá khứ đơn, còn hành động đã xảy ra và chưa kết thúc ở hiện tại ta dùng cấu trúc thì hiện tại hoàn thành như sau: <b>Mệnh đề (quá khứ đơn) 1 + and + mệnh đề (hiện tại hoàn thành) 2</b>.<br />\nTa có: <b>It was started by Simon Cowell in 2004 </b><i>(Nó được bắt đầu bởi Simon Cowell vào năm 2004) </i>là mệnh đề (quá khứ đơn) 1,<b> has become a global success show </b><i>(đã trở thành một chương trình thành công trên khắp thế giới) </i>là mệnh đề (hiện tại hoàn thành) 2 bị khuyết chủ ngữ vì chủ ngữ trùng với mệnh đề 1.<br />\nCâu hoàn chỉnh là <b><span style=\"color:red\">It was started by Simon Cowell in 2004 and has become a global success show. </span></b><i> (</i><i>Nó được bắt đầu bởi Simon Cowell vào năm 2004 và đã trở thành một chương trình thành công trên khắp thế giới.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "49b89c59-3c01-4b9d-aa11-39424e88d3db"
+            "$oid": "a59883b1-7f91-4eca-8206-36139e592780"
           },
           "dapAn": "It was started",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "57cae7af-5611-4850-96a8-a808c06742b9"
+            "$oid": "b63f32e4-f67e-4c16-8c43-03a61a0e4712"
           },
           "dapAn": "by Simon Cowell",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "f685907a-0cdf-490f-baf4-040294041ebc"
+            "$oid": "ec0643e0-018f-4362-a7be-009dcb9023e7"
           },
           "dapAn": "in 2004 and",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "5ff84f19-b61f-4e9e-95fa-c4d5729ee052"
+            "$oid": "cdec640b-bb29-42de-8f30-460abd6c22ce"
           },
           "dapAn": "has become",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "2ac9504d-ff11-413d-bfee-35ff98354011"
+            "$oid": "2933c025-b360-4aaa-a544-d1f8e3e8e78f"
           },
           "dapAn": "a global",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "f88c7843-e7cf-40d6-a02a-7beb14db3491"
+            "$oid": "9dba662d-2102-493b-a993-c6a149006cd9"
           },
           "dapAn": "success show.",
           "isCorrect": true
@@ -55,49 +55,49 @@
     },
     {
       "_id": {
-        "$oid": "bf482650-342f-4512-a781-ab0e44faae79"
+        "$oid": "985449a7-886a-4663-ac30-e6369d4b37fe"
       },
       "cauHoiNho": [],
       "yNghia": "Để nói rằng ai đã đặt tên cho ai/cái gì bằng tên gọi gì, ta dùng cấu trúc: <b>Trạng ngữ + chủ ngữ + </b><b>named it + bổ ngữ</b>.<br />\r\nTa có: <b>In 2014 </b><i>(Năm 2014) </i>là trạng ngữ,<b> Guinness World Records </b><i>(Kỷ lục Guinness Thế giới) </i>là chủ ngữ, <b>the most successful reality TV show ever </b><i>(chương trình truyền hình thực tế thành công nhất từ trước đến nay) </i>là bổ ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">In 2014, Guinness World Records named it the most successful reality TV show ever.</span></b><i> (</i><i>Năm 2014, Kỷ lục Guinness Thế giới gọi đây là chương trình truyền hình thực tế thành công nhất từ trước đến nay.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "d98399de-f8bd-41be-8aee-430ea8d728b7"
+            "$oid": "871b2049-9369-418d-b348-d1935af3174e"
           },
           "dapAn": "In 2014,",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "bcf0d5a7-1424-4e70-83ec-6ec88effee5f"
+            "$oid": "20d50b5e-fd97-419a-97fc-aa43c9d309b4"
           },
           "dapAn": "Guinness World",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "fa6ccd4e-e5da-485d-9650-7973f6208e94"
+            "$oid": "d9947f7c-6bea-4bcc-bdb5-97b42a88acd5"
           },
           "dapAn": "Records named",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "6967cf6b-d424-4b6c-be2d-fd08a69fa153"
+            "$oid": "051b8035-b952-412e-b3e9-8d734e1885c2"
           },
           "dapAn": "it the most",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a0aafd2b-cc41-4468-a372-72c76252c3b7"
+            "$oid": "34756d86-eddc-4681-9f7b-07cff031daf7"
           },
           "dapAn": "successful reality",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a9bdab30-608d-46b3-b491-6428c0ce9740"
+            "$oid": "8fdcc675-d192-474f-b854-a1a0a1a3a996"
           },
           "dapAn": "TV show ever.",
           "isCorrect": true
@@ -106,49 +106,49 @@
     },
     {
       "_id": {
-        "$oid": "625d7280-3183-450b-903e-fd7e09d64477"
+        "$oid": "4eacda60-356b-4943-ae97-23304f91152c"
       },
       "cauHoiNho": [],
       "yNghia": "Để nói rằng ai đó thích điều gì, ta dùng cấu trúc: <b>Chủ ngữ + love + động từ (-ing) + tân ngữ + bổ ngữ </b>.<br />\r\nTa có: <b>People </b><i>(Mọi người) </i>là chủ ngữ, <b>watching </b><i>(xem) </i>là động từ (-ing),<b> the contestants </b><i>(các thí sinh)</i><b> </b>là tân ngữ, <b>go from nothing to huge success in a short time </b><i>(đi từ con số không đến thành công vang dội trong một thời gian ngắn) </i>là bổ ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">People love watching the contestants go from nothing to huge success in a short time.</span></b><i> (</i><i>Mọi người thích xem các thí sinh đi từ con số không đến thành công vang dội trong một thời gian ngắn.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "1812e74f-62b7-459e-b93d-f5494b8d7e2b"
+            "$oid": "4a9dda59-52c1-4e16-959c-a9bed8632e24"
           },
           "dapAn": "People love",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "d9d198b8-8e5d-43e5-b9bf-cb39ee0ec668"
+            "$oid": "7c0f65c2-c729-46be-89ad-0da369118d3a"
           },
           "dapAn": "watching the",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "47cc64c0-8871-429e-9db4-0e550be2c2ec"
+            "$oid": "46b3ac45-23f8-40cb-919d-3573705187dd"
           },
           "dapAn": "contestants go",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "ee40b980-7de8-4e15-9b10-531fdbc1dad2"
+            "$oid": "754638a7-5319-459d-98ee-eccfb352d837"
           },
           "dapAn": "from nothing",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "68a45ba3-3d6a-4279-9578-3ad9c7a301c0"
+            "$oid": "997eba21-a610-4673-8c78-b344eeb523c2"
           },
           "dapAn": "to huge success",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "07655c8b-bad8-4971-a214-d4c4b3d8e9f2"
+            "$oid": "a3fec732-ed4a-4f8d-a769-9bf9876bd13c"
           },
           "dapAn": "in a short time.",
           "isCorrect": true
@@ -157,49 +157,49 @@
     },
     {
       "_id": {
-        "$oid": "e07fdaf7-01a4-4252-9e50-84c27ee35b46"
+        "$oid": "20effe9a-51a6-4405-a5ed-91cf6aae4f14"
       },
       "cauHoiNho": [],
       "yNghia": "Để diễn tả hai vật có đặc điểm giống nhau, ta dùng cấu trúc: <b>Chủ ngữ 1 + was similar to + chủ ngữ 2 + bổ ngữ +</b><b> wasn't it</b>.<br />\r\nTa có: <b>That show </b><i>(Chương trình đó) </i>là chủ ngữ 1, <b>talent shows </b><i>(các chương trình tìm kiếm tài năng) </i>là chủ ngữ 2,<b> today </b><i>(ngày nay)</i><b> </b>là bổ ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">That show was similar to talent shows today, wasn't it?</span></b><i> (</i><i>Chương trình đó tương tự như các chương trình tìm kiếm tài năng ngày nay, phải không?</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "e66f3472-b1be-4826-88b3-dd5dbb969a3f"
+            "$oid": "ec225db7-57d5-4bfe-9f47-0c7ee2747313"
           },
           "dapAn": "That show",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "3ef47998-9f66-49ae-88ac-8356784b9163"
+            "$oid": "f1fa46bf-153a-4216-ae21-428eeeb746e5"
           },
           "dapAn": "was similar",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "d511f836-0a43-4b33-9fa7-c5627b6dd93e"
+            "$oid": "72b51606-1021-4aa0-b0ca-4ac66fa7b564"
           },
           "dapAn": "to talent",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "c3773599-55dd-49bb-8472-18a3965484c1"
+            "$oid": "eb1234ee-0ea8-447c-aa6d-386b8972545d"
           },
           "dapAn": "shows",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "d0120d04-7fb6-47cb-8f87-3ef0fccf30a8"
+            "$oid": "79ae0ccf-d5c0-4308-8da3-2d8d16ad4983"
           },
           "dapAn": "today,",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "f36b07e2-7391-4957-bc16-d17c72f2c3ae"
+            "$oid": "bea910cf-0503-4b86-93a9-65a9c61316ce"
           },
           "dapAn": "wasn't it?",
           "isCorrect": true
@@ -208,49 +208,49 @@
     },
     {
       "_id": {
-        "$oid": "f09ab4f4-32f3-451b-a04f-8a0762d6bb64"
+        "$oid": "24e09f96-889e-49c7-897a-02af204e9d12"
       },
       "cauHoiNho": [],
       "yNghia": "Để nói rằng ai đó có thể bình chọn bằng cái gì, ta dùng cấu trúc: <b>Chủ ngữ + would vote for + tân ngữ 1 + Cụm</b><b> giới từ. </b><br />\r\nTa có: <b>The audience </b><i>(</i><i>K</i><i>hán giả)</i><b> </b>là chủ ngữ, <b>their favourite act </b><i>(tiết mục yêu thích của họ)</i><i>, </i><b>by their phone or by email<i> </i></b><i>(qua điện thoại hoặc qua thư.)</i> là Cụm giới từ. <br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">The audience would vote for their favourite act by phone or by mail.</span></b><i> (K</i><i>hán giả sẽ bình chọn cho tiết mục yêu thích của họ qua điện thoại hoặc qua thư.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "b284845c-7170-421b-8756-ff5c7f9d7c21"
+            "$oid": "89c7601c-38ee-4dbf-9dbb-bf40148260dc"
           },
           "dapAn": "The audience",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "bd8660cc-de0b-41af-8790-1dfbb8859934"
+            "$oid": "03b4047b-be8e-48e3-b009-a2d221ca909f"
           },
           "dapAn": "would",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "df7a3955-3e5a-47d7-ac0e-7ca121b33818"
+            "$oid": "db4b55d3-3fe4-4d47-99a3-f071b3391d06"
           },
           "dapAn": "vote for",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "f9403fea-8486-449c-b38e-e048f07b98a7"
+            "$oid": "5a6693a3-0d66-499b-a4cc-3c05e10231c5"
           },
           "dapAn": "their favourite",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "4b32388a-ee8f-4e45-9585-f46222c94e28"
+            "$oid": "0c322e9e-5991-4fa9-8c58-882dc8e0c10e"
           },
           "dapAn": "act by phone",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "30302508-92bf-42ab-8b0b-27811f1c0828"
+            "$oid": "bb19e40c-b042-401e-b3d6-c063c60d8fd9"
           },
           "dapAn": "or by mail.",
           "isCorrect": true
@@ -259,49 +259,49 @@
     },
     {
       "_id": {
-        "$oid": "7671c5ca-4690-4035-9e29-901e6465018b"
+        "$oid": "3314be40-27d9-4710-9173-5067f5aa704a"
       },
       "cauHoiNho": [],
       "yNghia": "Để đưa ra ví dụ, ta dùng cụm <b>such as </b>theo cấu trúc: <b>Chủ ngữ + động từ + tân ngữ + such as + Danh</b><b> từ 1 </b><b>+ and + Danh</b><b> từ</b><b> </b><b>2</b>.<br />\r\nTa có: <b>It </b><i>(</i><i>Nó) </i>là chủ ngữ, <b>created </b><i>(đã tạo ra) </i>là động từ, <b>a number of stars </b><i>(một số ngôi sao) </i>là tân ngữ, <b>Frank Sinatra</b><b> </b>là danh từ 1<b> Elvis Presley </b>là danh từ 2.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">It created a number of stars such as Frank Sinatra and Elvis Presley.</span></b><i> (</i><i>Nó đã tạo ra một số ngôi sao như Frank Sinatra và Elvis Presley.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "39f905e0-eee0-4c88-8f92-032aa249a929"
+            "$oid": "843f3025-62d5-4a46-a5f6-98a86d961e4e"
           },
           "dapAn": "It created",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "ac95dabc-69cc-4141-b11e-5a64f263bd7f"
+            "$oid": "21b33b2f-ad65-4d25-85b6-ec18b348c1b5"
           },
           "dapAn": "a number",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "f4b5a1bd-946c-41ed-b80c-5b39f706e1b0"
+            "$oid": "8b2348a9-37fb-4fb6-b0a2-30a2292303fc"
           },
           "dapAn": "of stars",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "2ff71b51-f7f5-422d-ae66-403e7add6d0b"
+            "$oid": "88dae022-e8e1-45a9-bc38-76c665f73254"
           },
           "dapAn": "such as",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "927c9a0e-b590-4a3a-9b9b-13982f9606e8"
+            "$oid": "1b8a3511-23ab-4402-949d-a48eb220a874"
           },
           "dapAn": "Frank Sinatra and",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "9e4761ff-ce9c-4161-84ba-ca42b28e42c7"
+            "$oid": "ba7c4a9b-89fa-4ea7-afc5-e47ac385b770"
           },
           "dapAn": "Elvis Presley.",
           "isCorrect": true
@@ -310,49 +310,49 @@
     },
     {
       "_id": {
-        "$oid": "6f01d527-d000-4461-9e0d-1653a9990a17"
+        "$oid": "d35cb687-0016-44d1-a199-e44d81f2f29b"
       },
       "cauHoiNho": [],
       "yNghia": "Để giải thích lí do tại sao điều gì đó xảy ra, ta dùng cấu trúc: <b>That's why + mệnh đề</b>.<br />\r\nTa có: <b>many well-known stars went for an audition </b><i>(nhiều ngôi sao nổi tiếng đã đến thử giọng) </i>là mệnh đề sau cụm <b>That's why </b><i>(Đó là lý do tại sao)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">That's why many well-known stars went for an audition.</span></b><i> (</i><i>Đó là lý do tại sao nhiều ngôi sao nổi tiếng đã đến thử giọng.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "f4e4081d-3498-4a9a-aa57-e3e5ad407e6c"
+            "$oid": "1f4e1ec3-c8f0-4487-81cc-c0f1b5a9511b"
           },
           "dapAn": "That's why",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "7a869fd7-333b-4171-8bb4-430c68ae5508"
+            "$oid": "4fdf861e-80ac-4cee-8267-175b65d77b03"
           },
           "dapAn": "many",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "83ca29a2-c7a2-497a-99c4-c5aa09e8af7d"
+            "$oid": "7323106f-d6f1-46ab-84b9-94b125f732bc"
           },
           "dapAn": "well-known",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "941b77f5-5f59-4b04-83d4-56dfa205e5aa"
+            "$oid": "783c67c9-3054-447e-b933-81c2393ead4b"
           },
           "dapAn": "stars went",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "4791c998-54f3-4136-81df-c4da915316c6"
+            "$oid": "35ad5e2e-de23-42c6-a7db-4f9463c32ab4"
           },
           "dapAn": "for an",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "dec67bc2-a33e-4d59-9415-f0b5543ca5d8"
+            "$oid": "4822c548-8e37-4bee-825d-03febb2ee9e5"
           },
           "dapAn": "audition.",
           "isCorrect": true
@@ -361,49 +361,49 @@
     },
     {
       "_id": {
-        "$oid": "c162fa6c-74c1-4743-a00d-f0ec1bafff90"
+        "$oid": "db74ff7b-a92a-4e8c-81fd-5d3110c7082f"
       },
       "cauHoiNho": [],
       "yNghia": "Để tạo câu với liên từ <b>but</b>, ta dùng cấu trúc: <b>Mệnh đề 1, + but + mệnh đề 2</b>.<br />\r\nTa có: <b>Bridget's dance classes are not easy </b><i>(</i><i>Các lớp khiêu vũ của Bridget không hề dễ dàng</i><i>) </i>là mệnh đề 1,<b> she plans to keep on going </b><i>(</i><i>cô ấy dự định sẽ tiếp tục</i><i>) </i>là mệnh đề 1. Hai mệnh đề được nối với nhau bằng liên từ <b>but </b><i>(</i><i>nhưng</i><i>).</i><br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Bridget's dance classes are not easy, but she plans to keep on going.</span></b><i> (Các lớp khiêu vũ của Bridget không hề dễ dàng, nhưng cô ấy dự định sẽ tiếp tục.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "a6158c7f-0e5c-4043-9247-45e715cf5ddc"
+            "$oid": "7cd4b46d-c4ee-44e1-8751-d5ba3a553ca0"
           },
           "dapAn": "Bridget's dance",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a87ea4ed-3830-47d3-b369-af2d09b23c8a"
+            "$oid": "1b933628-5c0c-4e81-b752-b8f1fa8e3670"
           },
           "dapAn": "classes are",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "1e30cc97-7b5f-4ac5-93e0-baee2a5a4b57"
+            "$oid": "6c35461f-7d0c-4065-9433-ea26a92509fc"
           },
           "dapAn": "not easy, but",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "481ae5b5-2144-4f72-84a4-68a06eb2cca2"
+            "$oid": "56ab9092-b336-4e4d-b1b0-aa256fa1eedc"
           },
           "dapAn": "she plans to",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "6987e609-d12a-4e1b-9063-5d7f76b35854"
+            "$oid": "54eedf92-ce43-4719-a120-8942d56259b9"
           },
           "dapAn": "keep on",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "98618276-a987-444a-abaa-fbb8c29822c8"
+            "$oid": "4cab6e14-a683-4f71-86ca-b80450184628"
           },
           "dapAn": "going.",
           "isCorrect": true
@@ -412,49 +412,49 @@
     },
     {
       "_id": {
-        "$oid": "fa9bc060-c170-4386-b388-215e53aafa21"
+        "$oid": "67de02a7-6853-4920-a3bb-f757493ccd78"
       },
       "cauHoiNho": [],
       "yNghia": "Để tạo câu với mệnh đề quan hệ bổ sung ý nghĩa cho tân ngữ, ta dùng cấu trúc: <b>Chủ ngữ + động từ + tân ngữ + mệnh đề quan hệ</b>.<br />\r\nTa có: <b>Mathew </b>là chủ ngữ, <b>turned down </b><i>(</i><i>đã từ chối</i><i>) </i>là động từ,<b> a lot of people </b><i>(</i><i>rất nhiều người</i><i>) </i>là tân ngữ,<b> who auditioned for the play </b><i>(</i><i>người đã thử vai cho vở kịch</i><i>) </i>là mệnh đề quan hệ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Mathew turned down a lot of people who auditioned for the play.</span></b><i> (Mathew đã từ chối rất nhiều người đã thử vai cho vở kịch.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "5d05c9d6-daac-4c34-9ca3-96b1f7cb69af"
+            "$oid": "ace3b2f1-f21f-4151-a41a-fa310d7bd691"
           },
           "dapAn": "Mathew",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "2b88f735-2ae3-4afa-b946-7b820aad7799"
+            "$oid": "136593c4-45cc-4bc6-abac-87817fc5cf29"
           },
           "dapAn": "turned down",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "d159a0bb-0b72-44f8-817c-7f44fa8fee94"
+            "$oid": "23ad3af1-b901-46f0-b499-3832e7dcc279"
           },
           "dapAn": "a lot of",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "5abf3c56-d3ab-4d5a-87f3-57ab30a69191"
+            "$oid": "2693819e-f57c-4148-a565-ddf19a8ed678"
           },
           "dapAn": "people who",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "7083cfc5-94c9-4470-bef2-976e66d9fae1"
+            "$oid": "fe21657d-6995-4502-af64-f5a7f5792d54"
           },
           "dapAn": "auditioned",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "5f220662-160d-4338-89f6-f2eaa770a9e5"
+            "$oid": "310f9bdc-e483-4b82-a538-7bacca36a701"
           },
           "dapAn": "for the play.",
           "isCorrect": true
@@ -463,49 +463,49 @@
     },
     {
       "_id": {
-        "$oid": "b3ec8b30-4376-4fb7-970d-2ae31588f876"
+        "$oid": "55bc414a-fa1d-4ebd-8d7a-ec54c963025e"
       },
       "cauHoiNho": [],
       "yNghia": "Để tạo câu tường thuật với động từ tường thuật <b>asked</b>, ta dùng cấu trúc: <b>Chủ ngữ 1 + asked + tân ngữ + when + chủ ngữ 2 + would + động từ (nguyên thể) + trạng ngữ</b>.<br />\r\nTa có: <b>She </b><i>(</i><i>Cô ấy</i><i>) </i>là chủ ngữ 1, <b>me </b><i>(</i><i>tôi</i><i>) </i>là tân ngữ,<b> I </b><i>(</i><i>tôi</i><i>) </i>là chủ ngữ 2, <b>come back from </b><i>(</i><i>trở lại từ</i><i>) </i>là động từ (nguyên thể), <b>the audition </b><i>(</i><i>buổi thử giọng</i><i>) </i>là trạng ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">She asked me when I would come back from the audition.</span></b><i> (Cô ấy hỏi tôi khi nào tôi sẽ trở lại từ buổi thử giọng.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "9e71e7b6-0b30-4ead-8c15-c03fb231e5fa"
+            "$oid": "6fb4ac92-b34d-46c1-9580-e53e1a74516c"
           },
           "dapAn": "She asked",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "2b10b130-c3cb-4397-857f-7eb82836aae4"
+            "$oid": "804c67d9-d02d-4155-ab6c-9d8d98f01739"
           },
           "dapAn": "me when",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "5a64d8b9-530d-4b57-8ff9-80f721d25438"
+            "$oid": "a2b899da-80ea-4d0f-8f43-d10c785bc83b"
           },
           "dapAn": "I would come",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a1d20bbe-edd5-43d9-adbd-8b959e588ddb"
+            "$oid": "9f052523-6c03-4aea-ad66-a18f5eaf188d"
           },
           "dapAn": "back from",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "7de51ee6-8b16-4f58-b2ec-7bcc065da39a"
+            "$oid": "a2fee828-4509-4d56-b4b4-c0d324bd2988"
           },
           "dapAn": "the",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "5c5d79ec-fdb7-4b6c-8b27-f3bfcc12c210"
+            "$oid": "e64158a1-3a12-4748-8c93-b41e11ce8f38"
           },
           "dapAn": "audition.",
           "isCorrect": true
@@ -514,49 +514,49 @@
     },
     {
       "_id": {
-        "$oid": "cc34d1e4-cf9a-42b0-9aeb-2ec56abbfb41"
+        "$oid": "a6207b0a-f77e-4c05-b15c-938e33928e16"
       },
       "cauHoiNho": [],
       "yNghia": "Để tạo câu tường thuật với câu mệnh lệnh, ta dùng cấu trúc: <b>Chủ ngữ + </b><b>asks + tân ngữ  + to + động từ (nguyên thể) + tân ngữ 2 + Cụm</b><b> giới từ</b>.<br />\r\nTa có: <b>The man </b><i>(</i><i>Người đàn ông</i><i>) </i>là chủ ngữ, <b>me </b><i>(</i><i>tôi</i><i>) </i>là tân ngữ, <b>fill out </b><i>(</i><i>điền</i><i>) </i>là động từ (nguyên thể),<b> this form </b><i>(</i><i>biểu mẫu này</i><i>) </i>là tân ngữ, <b>with my name and contact information</b><b> </b><i>(</i><i>tên và thông tin liên lạc của tôi.</i><i>)</i><i> là Cụm giới từ. </i><br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">The man asks me to fill out this form with my name and contact information.</span></b><i> (Người đàn ông yêu cầu tôi điền tên và thông tin liên lạc của tôi vào biểu mẫu này.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "df5e7c79-81b1-4ea3-a723-7000e603f8f4"
+            "$oid": "f9e7b422-f334-4e10-939c-ba7b62055dd8"
           },
           "dapAn": "The man",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "75f4a673-59ea-49fd-92f2-763bc2939e54"
+            "$oid": "e4392ecb-be34-4a7c-ad8a-b04086d5d280"
           },
           "dapAn": "asks me to",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "523571c5-aca0-40f5-abc5-bf43c55b6a2e"
+            "$oid": "53b6e2d1-d71d-4b1f-aa9d-1ce245777aa1"
           },
           "dapAn": "fill out this",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "7e355766-e69b-442e-bbf6-7a9bdddd70cb"
+            "$oid": "b037d4b5-d5fe-4029-942f-d3ef7c08b9b4"
           },
           "dapAn": "form with my",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "47acc0ec-94b9-4782-88ff-14b5eeedcb79"
+            "$oid": "2af62665-7ebd-4bf7-ac0d-12b22da1dcd4"
           },
           "dapAn": "name and contact",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "16e13f22-2423-496d-8319-9327ac7233b0"
+            "$oid": "fe9a5377-947c-4788-8493-a98631f7fab6"
           },
           "dapAn": "information.",
           "isCorrect": true
@@ -565,49 +565,49 @@
     },
     {
       "_id": {
-        "$oid": "e4e25918-3d1e-4f3b-811f-cb65e6358994"
+        "$oid": "585e39d9-fe74-4c54-a32a-458cdda0b826"
       },
       "cauHoiNho": [],
       "yNghia": "Để đặt câu hỏi với cụm <b>want to</b>, ta dùng cấu trúc: <b>Why + did + chủ ngữ + want to + động từ (nguyên thể) + for + tân ngữ</b>.<br />\r\nTa có: <b>you </b><i>(</i><i>bạn</i><i>) </i>là chủ ngữ,<b> audition </b><i>(</i><i>thử giọng</i><i>) </i>là động từ (nguyên thể), <b>the show </b><i>(</i><i>chương trình</i><i>) </i>là tân ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Why did you want to audition for the show?</span></b><i> (Tại sao bạn muốn thử giọng cho chương trình vậy?).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "0014570e-db0d-48b8-8a3e-4d86c9d8076c"
+            "$oid": "310b6045-2dfa-415c-8788-5e23604bb413"
           },
           "dapAn": "Why",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "fd0f08dc-d1de-426c-8414-12fd652ff895"
+            "$oid": "ca82623b-0de8-4007-a696-28c88fc76f54"
           },
           "dapAn": "did you",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "39b1880c-d60d-473d-b9c3-747b2ca40cff"
+            "$oid": "21be0e72-c2b2-47a0-8bdb-8789f1c3ff5b"
           },
           "dapAn": "want to",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "51543493-f657-410f-b487-ced881d68f48"
+            "$oid": "a55e199f-d8f2-4664-8743-5a3778d36fd3"
           },
           "dapAn": "audition",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "084efa7e-2802-47ba-a5d2-316027695ead"
+            "$oid": "a2dc581a-c087-4303-9682-c7e3ed7da3db"
           },
           "dapAn": "for",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "d8aa96d8-d14e-4527-b568-7ff5f994d3cd"
+            "$oid": "21995fc6-ae4b-44e6-acb5-422e611d185e"
           },
           "dapAn": "the show?",
           "isCorrect": true
@@ -616,49 +616,49 @@
     },
     {
       "_id": {
-        "$oid": "3924956c-d980-4d17-9f06-9d5ec98b6507"
+        "$oid": "965e33ed-b715-48a1-aee8-3fccdbfc3716"
       },
       "cauHoiNho": [],
       "yNghia": "Để tạo câu tường thuật với động từ tường thuật <b>said</b>, ta dùng cấu trúc: <b>Chủ ngữ 1 + said + chủ ngữ 2 + động từ 1 + chủ ngữ 3 + động từ 2 + bổ</b><b> ngữ</b>.<br />\r\nTa có: <b>He </b><i>(</i><i>Anh ấy</i><i>) </i>là chủ ngữ 1, <b>he </b><i>(</i><i>anh ấy</i><i>) </i>là chủ ngữ 2,<b> thought </b><i>(</i><i>nghĩ</i><i>) </i>là động từ 1, <b>I </b><i>(</i><i>tôi</i><i>) </i>là chủ ngữ 3, <b>had </b><i>(</i><i>có</i><i>) </i>là động từ 2.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">He said he thought I had a great voice.</span></b><i> (Anh ấy nói anh ấy nghĩ tôi có một giọng hát tuyệt vời.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "34967aac-8120-46fc-9ea0-4688e6d1a6e8"
+            "$oid": "45530f9d-baec-4fb2-b90d-a23b907461f2"
           },
           "dapAn": "He",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "1dc2649b-fa99-4e2a-b758-dc21719dde72"
+            "$oid": "e9a13cd3-cc8d-414e-88fd-c0a316cbb4be"
           },
           "dapAn": "said he",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "ce1ddeea-2363-45d0-a6d6-7c865df21beb"
+            "$oid": "90d1ab54-a2ff-496e-ab35-634a95c21e4b"
           },
           "dapAn": "thought",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "108cfbfd-5d37-4dd1-9050-50c0050903f5"
+            "$oid": "d7d51fef-cb38-4286-913b-bd7779456065"
           },
           "dapAn": "I had a",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "8210164a-a2d1-44c2-a143-fa2ba09c6e14"
+            "$oid": "e1883007-7977-4176-a87c-8ad6254cacc7"
           },
           "dapAn": "great",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "171413fa-e505-4956-98d9-6ff4a461c54c"
+            "$oid": "82c764ac-ac14-4751-8330-1cf3deda299d"
           },
           "dapAn": "voice.",
           "isCorrect": true
@@ -667,49 +667,49 @@
     },
     {
       "_id": {
-        "$oid": "fb6f76df-64be-4c85-96df-00051afaa4d9"
+        "$oid": "fcc37839-aaa0-4409-b4e8-2bc95aff1da6"
       },
       "cauHoiNho": [],
       "yNghia": "Để tạo câu tường thuật với động từ tường thuật <b>told</b>, ta dùng cấu trúc: <b>Chủ ngữ 1 + told + tân ngữ + chủ ngữ 2 + should try to + động từ (nguyên thể) + Cụm</b><b> giới từ</b>.<br />\r\nTa có: <b>He </b><i>(</i><i>Anh ấy</i><i>) </i>là chủ ngữ 1, <b>I </b><i>(</i><i>tôi</i><i>) </i>là chủ ngữ 2, <b>sing </b><i>(</i><i>hát</i><i>) </i>là động từ (nguyên thể), <b>live in front of an audience </b><i>(</i><i>trực tiếp trước khán giả</i><i>) </i>là Cụm giời từ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">He told me I should try to sing live in front of an audience.</span></b><i> (Anh ấy nói với tôi rằng tôi nên cố gắng hát trực tiếp trước khán giả.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "0729dd7a-8acb-4728-9d12-62d1a288769a"
+            "$oid": "a2016023-ad81-4e26-9dd5-c8b7e858c91e"
           },
           "dapAn": "He told me",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "3d14241a-19ba-4ad4-8ac3-070e7c3c2abb"
+            "$oid": "7083a206-8d61-4143-81eb-310425f6e8e2"
           },
           "dapAn": "I should",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "b6a59e65-e853-4025-bbce-7c5412bf090f"
+            "$oid": "bbeceea6-5cba-4db6-ace1-d3b84e14289b"
           },
           "dapAn": "try to sing",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "4bb84bf9-4cb3-482b-96fe-43d65b540281"
+            "$oid": "c6274be2-f86d-4981-8182-e9c30f1c89f3"
           },
           "dapAn": "live in",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "48507638-d6ab-4976-a65c-05285bb79eac"
+            "$oid": "54db8333-cad9-4cab-a46b-eba3fff4107b"
           },
           "dapAn": "front of an",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "8566f8f6-7e2c-496a-970e-bc30f6b86c22"
+            "$oid": "77fa5811-8dd6-4060-81e7-e672362a9a44"
           },
           "dapAn": "audience.",
           "isCorrect": true
@@ -718,49 +718,49 @@
     },
     {
       "_id": {
-        "$oid": "3b09402c-6256-4f3f-ba49-03f7ae4b5c7f"
+        "$oid": "fabd496b-1c51-41af-84ae-3b58bd020fe0"
       },
       "cauHoiNho": [],
       "yNghia": "Để đặt câu hỏi <b>Yes/No</b> ở thì hiện tại hoàn thành, ta dùng cấu trúc: <b>Have</b> <b>+ chủ ngữ + động từ (phân từ 2) + tân ngữ</b>.<br />\r\nTa có: <b>you </b><i>(</i><i>Bạn</i><i>) </i>là chủ ngữ,<b> filled out </b><i>(</i><i>điền</i><i>) </i>là động từ (phân từ 2), <b>the application form </b><i>(</i><i>đơn đăng kí</i><i>) </i>là tân ngữ.<br />\r\n Câu hoàn chỉnh là <b><span style=\"color:red\">Have you filled out the application form?</span></b><i> (Bạn đã điền vào đơn đăng kí chưa?).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "8f567c14-9691-437f-ba1d-df0904ad4f82"
+            "$oid": "f4c472f9-4065-45a6-8b43-016eb245d8ba"
           },
           "dapAn": "Have",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "8a90e3f0-6386-43a9-abc7-b47a2447137c"
+            "$oid": "f4fd7443-1a5c-4231-8e41-10261f32b5bf"
           },
           "dapAn": "you",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "e76d09fc-bbfe-488a-9198-5bea456dfe3e"
+            "$oid": "b5c1ae3c-975d-4844-8630-fe980b48ee15"
           },
           "dapAn": "filled out",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "fb492372-a372-4684-a8ca-d81d013e51a6"
+            "$oid": "febdfcd9-c3b3-4c9a-98a0-4ff2b7ccdcaf"
           },
           "dapAn": "the",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "51b589e5-d27e-4992-b26f-e44ce574238d"
+            "$oid": "00a3c4bf-b192-4c7b-9ef1-7c5b5af44a53"
           },
           "dapAn": "application",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "e38af787-532d-4d8c-a4cb-93367dba0274"
+            "$oid": "ccd6caef-0dbf-4732-8dc7-76d51c5c8609"
           },
           "dapAn": "form?",
           "isCorrect": true
@@ -769,49 +769,49 @@
     },
     {
       "_id": {
-        "$oid": "5f97f2f5-6ccc-4360-b817-818f9e6cdf22"
+        "$oid": "6400f61d-a83b-422b-ab56-b508bce39b40"
       },
       "cauHoiNho": [],
       "yNghia": "Để hỏi về thời gian ai đó đã làm công việc mà hiện tại vẫn đang làm, ta dùng cấu trúc: <b>How long have + chủ ngữ + been doing + tân ngữ</b>.<br />\r\nTa có: <b>you </b><i>(</i><i>Bạn</i><i>) </i>là chủ ngữ, <b>your act </b><i>(</i><i>vai của bạn</i><i>) </i>là tân ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">How long have you been doing your act?</span></b><i> (Bạn đã đóng vai của bạn được bao lâu rồi?).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "ffc252d9-6936-470e-b196-89096008451c"
+            "$oid": "dd2a39c1-23c0-4db6-8607-cfe6ce677fd6"
           },
           "dapAn": "How",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "3f7346d7-34f5-4930-870c-c51296870f77"
+            "$oid": "7dca5477-d79a-4b2c-8fa5-74ecd69238ff"
           },
           "dapAn": "long",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "95924df4-914e-461a-8fdc-3ccd47fe3f93"
+            "$oid": "e300285e-2f5e-461b-b694-8381baee5a5b"
           },
           "dapAn": "have",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "cc70d1d3-424d-4666-9167-03b5021f474d"
+            "$oid": "ea8068ee-2bdd-46cb-86b2-d1a4b8695bde"
           },
           "dapAn": "you",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "65d78f74-b85e-4880-b18e-5b28f18c950f"
+            "$oid": "7817e96a-cd2a-44a0-9b5b-e9cf5abfe3bf"
           },
           "dapAn": "been doing",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "db488bbe-27f3-45c6-b02b-b3042e924bdf"
+            "$oid": "c09af422-a6e1-4014-958e-46003bcfe069"
           },
           "dapAn": "your act?",
           "isCorrect": true
@@ -820,49 +820,49 @@
     },
     {
       "_id": {
-        "$oid": "f1230333-9fad-4572-9b4f-61db6f165ee4"
+        "$oid": "1626d331-5078-41a7-8c5e-a4c73adfb201"
       },
       "cauHoiNho": [],
       "yNghia": "Để diễn tả hành động xảy ra trong quá khứ nhưng vẫn tiếp tục ở hiện tại và có khả năng tiếp diễn trong tương lai, ta dùng cấu trúc: <b>I've been + động từ (-ing) 1 + tân ngữ 1 + and + động từ (-ing) 2 + tân ngữ 2 + động từ (nguyên thể) 3 + since + mệnh đề (quá khứ đơn)</b>.<br />\r\nTa có: <b>telling </b><i>(</i><i>kể</i><i>) </i>là động từ (-ing) 1,<b> jokes </b><i>(</i><i>chuyện cười</i><i>) </i>là tân ngữ 1<b>, making </b><i>(</i><i>khiến</i><i>) </i>là động từ (-ing) 2, <b>people </b><i>(</i><i>mọi người</i><i>) </i>là tân ngữ 3, <b>laugh </b><i>(</i><i>cười</i><i>) </i>là động từ (nguyên thể) 3, <b>I was a kid </b><i>(</i><i>Từ khi còn bé</i><i>) </i>là mệnh đề (quá khứ đơn).<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">I've been telling jokes and making people laugh since I was a kid.</span></b><i> (Từ khi còn bé, tôi đã kể chuyện cười và khiến mọi người cười.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "02175f5c-2a93-43cf-b460-d7eb76cade28"
+            "$oid": "81cf8f35-4a8a-401a-af42-f5d52431dd8c"
           },
           "dapAn": "I've been",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "bc9d6554-d55a-4a98-99af-5d5c49a7c996"
+            "$oid": "3905ca74-8e89-46fd-ac8a-37a0283782d5"
           },
           "dapAn": "telling",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "11b7d965-2aea-4fc3-b6ee-85900191c8b2"
+            "$oid": "865c2b9b-7c27-4a93-8532-2a8e9ced5d38"
           },
           "dapAn": "jokes and",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "e9a787e2-1d78-4e89-9019-eaef0c540b37"
+            "$oid": "0660af36-c782-4ea2-bc55-f6f3888642d4"
           },
           "dapAn": "making people",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "182b765e-b740-4a58-9cec-69da70ccf6ad"
+            "$oid": "daf9b656-d25d-4800-829d-f15dfb273347"
           },
           "dapAn": "laugh since",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "41bbd70b-9ef8-437a-ad84-a5125994b70f"
+            "$oid": "fd16a93d-6f34-451a-9b3a-a414464a6118"
           },
           "dapAn": "I was a kid.",
           "isCorrect": true
@@ -871,49 +871,49 @@
     },
     {
       "_id": {
-        "$oid": "648d3497-955a-4ea2-95d6-7e303506a6c1"
+        "$oid": "25dbec0e-5554-4f28-aed9-a0bff21ca9e7"
       },
       "cauHoiNho": [],
       "yNghia": "Để nói về trải nghiệm lần đầu tiên ai đó làm gì, ta dùng cấu trúc: <b>This is the first time + I've + động từ (quá khứ phân từ) 1 + to + động từ (nguyên thể) 2 + trạng ngữ</b>.<br />\r\nTa có: <b>applied </b><i>(</i><i>đăng ký</i><i>) </i>là động từ (phân từ 2) 1,<b> be </b><i>(</i><i>tham gia</i><i>) </i>là động từ (nguyên thể) 2, <b>in a talent show </b><i>(</i><i>một chương trình tìm kiếm tài năng</i><i>) </i>là trạng ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">This is the first time I've applied to be in a talent show.</span></b><i> (Đây là lần đầu tiên tôi đăng ký tham gia một chương trình tìm kiếm tài năng.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "940d66ee-866b-4764-bed3-fa291227a387"
+            "$oid": "567484df-f3bc-4da4-9f58-bb0391cc606c"
           },
           "dapAn": "This",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "92efc678-c063-400b-8505-930841e3e774"
+            "$oid": "ce40153e-f51c-4792-a992-a195f375d3e6"
           },
           "dapAn": "is the",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "929f94b9-3732-4562-8e9f-03e670b747dd"
+            "$oid": "c2388dd5-b1fd-450e-bd20-dda6b730edb9"
           },
           "dapAn": "first time",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "53b0f9af-2634-4533-992b-8061ac957ff1"
+            "$oid": "2ac7cbb3-6859-4f61-a261-705446520b3c"
           },
           "dapAn": "I've applied",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a313f624-f84d-4d39-9538-95f79834a3a1"
+            "$oid": "090c1345-63e4-40c6-8c6a-3dc132439d0d"
           },
           "dapAn": "to be in a",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "7bb089ec-5cba-463e-81fa-8bd64f6b1c5e"
+            "$oid": "843fb0b9-5cae-476e-878a-b183e341668f"
           },
           "dapAn": "talent show.",
           "isCorrect": true
@@ -922,49 +922,49 @@
     },
     {
       "_id": {
-        "$oid": "54528b07-5589-4f3d-abde-0ac1ced03bc3"
+        "$oid": "4b4a2628-d0bf-4123-976e-de66e244e4b1"
       },
       "cauHoiNho": [],
       "yNghia": "Để tạo câu với liên từ <b>but</b>, ta dùng cấu trúc: <b>Mệnh đề 1, + but + mệnh đề 2</b>.<br />\r\nTa có: <b>I knew l'd sung my best </b><i>(</i><i>Tôi biết tôi đã hát hết mình</i><i>) </i>là mệnh đề 1,<b> it was still a shock </b><i>(</i><i>đó vẫn là một cú sốc</i><i>) </i>là mệnh đề 2.  Hai mệnh đề được nối với nhau bằng liên từ <b>but </b><i>(</i><i>nhưng</i><i>).</i><br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">I knew l'd sung my best, but it was still a shock.</span></b><i> (Tôi biết tôi đã hát hết mình, nhưng đó vẫn là một cú sốc.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "94865a51-431a-4175-b8c0-a91e6cd4d094"
+            "$oid": "70fc7ab1-b6e0-44be-917e-87f2b319b7d0"
           },
           "dapAn": "I knew",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "93397ea3-2eae-4590-af9d-06539389f5db"
+            "$oid": "07e6aa0b-033c-4833-9fc0-78b2b0c6edc5"
           },
           "dapAn": "l'd sung",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "d23ca40d-a286-4841-8225-0d677deb4c3f"
+            "$oid": "8ea62266-9d09-48ad-8a74-12620baceb8f"
           },
           "dapAn": "my best,",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "8a230f3c-72c0-4d20-9f6d-04c6b80c382c"
+            "$oid": "6ad419d7-f7d1-4a84-80de-ba9eaf65be4b"
           },
           "dapAn": "but it",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "28e70973-f362-404e-8597-4d0d429dd8e4"
+            "$oid": "2d4c9199-027f-4101-9d3d-3a88e83fc318"
           },
           "dapAn": "was still",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "b7e11efb-3534-4aa5-854e-bf8586fae3b7"
+            "$oid": "644dee6d-2c9b-44d7-84a5-a3458b141d14"
           },
           "dapAn": "a shock.",
           "isCorrect": true
@@ -973,49 +973,49 @@
     },
     {
       "_id": {
-        "$oid": "ad9395c6-68a4-41d3-a61b-50dcf3f1e109"
+        "$oid": "b7e2d292-d495-4429-86c5-5b7d71f81ae8"
       },
       "cauHoiNho": [],
       "yNghia": "Để tạo câu bắt đầu bằng <b>The big surprise is that </b>kết hợp với câu tường thuật với câu mệnh lệnh, ta dùng cấu trúc: <b>The big surprise is that + chủ ngữ + asked + me + to + động từ (nguyên thể) + for + tân ngữ + trạng ngữ</b>.<br />\r\nTa có: <b>they </b><i>(</i><i>họ</i><i>) </i>là chủ ngữ, <b>back </b><i>(</i><i>quay trở lại</i><i>) </i>là động từ (nguyên thể), <b>the first show </b><i>(</i><i>chương trình</i><i>) </i>là tân ngữ, <b>in three months </b><i>(</i><i>sau ba tháng</i><i>) </i>là trạng ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">The big surprise is that they asked me to be</span> <span style=\"color:red\">back for the first show in three months.</span></b><i> (Điều ngạc nhiên lớn là sau ba tháng, họ yêu cầu tôi quay trở lại chương trình đầu tiên.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "218b7563-1671-47f5-a0b4-96b2c6705e19"
+            "$oid": "24b948c9-2979-4423-9ac7-266d7d32e077"
           },
           "dapAn": "The big surprise",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "aeee679a-fd6b-4dab-93c9-43f9bd91f6b2"
+            "$oid": "f18f0385-81a2-4ec5-9248-bbe839883b49"
           },
           "dapAn": "is that they",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "507f38ff-7120-4c2e-b065-b0342f77b0b0"
+            "$oid": "b4417757-b776-4dc9-a924-005aca9c59d7"
           },
           "dapAn": "asked me to",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "17ab067a-5be2-46af-8fdf-d1fe3c720ee4"
+            "$oid": "518468cb-fc36-49bf-9de7-8d2a070f1961"
           },
           "dapAn": "be back for the",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "7dc28995-816d-4500-821e-37d7692ddc84"
+            "$oid": "73a9e1ad-2e48-44dd-9e6e-b8b48f4c807c"
           },
           "dapAn": "first show in",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "9caf2cdd-3337-4a5a-9a17-7128dce3e07f"
+            "$oid": "789fada9-8e5e-4cd2-b5d5-74120d8e9a05"
           },
           "dapAn": "three months.",
           "isCorrect": true

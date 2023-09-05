@@ -4,7 +4,7 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "f4dd382a-5c05-4905-9ddc-bcea6a58276a"
+        "$oid": "a5368c3d-8334-4bad-a1c9-e44f1a508823"
       },
       "cauHoiNho": [],
       "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Diana:</b></td>\n                        <td>Hey Vic, what is the <b>(1)</b> ____ for your next presentation?</td>\n                </tr>\n                <tr>\n                                                <td style=\"vertical-align: top;\"><b>Vic:</b></td>\n                        <td>I want to talk about a <b>(2)</b>  ____ cosmonaut. But I haven't decided who.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Diana:</b></td>\n                        <td>Have you ever heard about Valentina Tereshkova?</td>\n                </tr>\n                <tr>\n                                                <td style=\"vertical-align: top;\"><b>Vic:</b></td>\n                        <td>No, I only know Yuri Gagarin, the first human to journey into <b>(3)</b> ____ space.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Diana:</b></td>\n                        <td>I think Valentina, the first woman to travel into <b>(4)</b>  ____, is more suitable for you. </td>\n                </tr>\n        </tbody>\n</table>",
@@ -14,35 +14,35 @@
           "dapAn": "topic",
           "isCorrect": true,
           "_id": {
-            "$oid": "759be009-278a-40c9-82ed-ee7675bf259a"
+            "$oid": "7a6f9111-2290-4e51-a02c-f698279a53dd"
           }
         },
         {
           "dapAn": "famous",
           "isCorrect": true,
           "_id": {
-            "$oid": "0e688a74-8737-4377-b02d-805efd8773d8"
+            "$oid": "98830376-4d48-4f9a-9d75-32e1e828e525"
           }
         },
         {
           "dapAn": "outer",
           "isCorrect": true,
           "_id": {
-            "$oid": "9947fdd1-a3cd-4e70-8ec1-a0972af72b30"
+            "$oid": "e161647d-9897-4e4f-88d3-9a276193f7ea"
           }
         },
         {
           "dapAn": "space",
           "isCorrect": true,
           "_id": {
-            "$oid": "2a80bb8e-c2fe-496f-b061-fd26da450d6e"
+            "$oid": "df00258c-00f2-4a3b-af18-683646f6d3a3"
           }
         }
       ]
     },
     {
       "_id": {
-        "$oid": "3780118a-6345-4eb6-8968-b5dea75148a2"
+        "$oid": "4a69e6a0-2654-4e0e-b3aa-01afcc0b5df1"
       },
       "cauHoiNho": [],
       "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Diana:</b></td>\n                        <td colspan=\"3\">As far as I know, at that time, Valentina was a <b>(1) </b>____ in science and space travel.</td>\n                </tr>\n                <tr>\n                                                <td style=\"vertical-align: top;\"><b>Vic:</b></td>\n                        <td colspan=\"3\">Why did she become a <b>(2) </b>____?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Diana:</b></td>\n                        <td colspan=\"3\">In 1954, she learned to <b>(3)</b> ____, and was <b>(4) </b>____ to train as a cosmonaut in 1962.</td>\n                </tr>\n        </tbody>\n</table>",
@@ -52,35 +52,35 @@
           "dapAn": "breakthrough ",
           "isCorrect": true,
           "_id": {
-            "$oid": "351edf34-8b4c-4695-a20c-b0364db1cf7e"
+            "$oid": "2c1422ac-6201-4a80-ac03-21aa6d67e774"
           }
         },
         {
           "dapAn": "cosmonaut",
           "isCorrect": true,
           "_id": {
-            "$oid": "1fe10561-d891-4336-8b16-61df18b8acb1"
+            "$oid": "09e1c3ab-1c36-416b-9d6c-026bad450954"
           }
         },
         {
           "dapAn": "parachute",
           "isCorrect": true,
           "_id": {
-            "$oid": "347606f8-cef4-4104-a8f4-8815209b9508"
+            "$oid": "58ff22cb-c543-4498-be7e-6b4ec1682a1d"
           }
         },
         {
           "dapAn": "chosen",
           "isCorrect": true,
           "_id": {
-            "$oid": "cec20578-8027-44a2-8fc7-dbea05b063c0"
+            "$oid": "05fce29a-1589-4af5-8190-00928541e959"
           }
         }
       ]
     },
     {
       "_id": {
-        "$oid": "c869d9af-a553-4222-ad4c-da54402764bd"
+        "$oid": "61b9586d-c502-439f-a7c3-07b7ff1166b5"
       },
       "cauHoiNho": [],
       "cauHoi": "<table>\n        <tbody>\n                <tr>\n                                                <td style=\"vertical-align: top;\"><b>Vic:</b></td>\n                        <td colspan=\"2\">Was there anything <b>(1) </b>____ about her flight?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Diana:</b></td>\n                        <td colspan=\"2\">She orbited the Earth 48 times, which was so <b>(2)</b><span style=\"color:red\"><b> </b></span>____. </td>\n                </tr>\n                <tr>\n                                                <td style=\"vertical-align: top;\"><b>Vic:</b></td>\n                        <td colspan=\"2\">Yeah, I can't believe it. Anything else?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Diana:</b></td>\n                        <td colspan=\"2\">When she <b>(3)</b> ____ to Earth, she parachuted over 6,000 meters from her <b>(4)</b> ____ to Earth!</td>\n                </tr>\n        </tbody>\n</table>",
@@ -90,35 +90,35 @@
           "dapAn": "special ",
           "isCorrect": true,
           "_id": {
-            "$oid": "0a4d78fc-9742-44c3-a159-c570190fd6ff"
+            "$oid": "cfcf7ad8-d61b-4ced-9fa4-c66561e7153d"
           }
         },
         {
           "dapAn": "unbelivable",
           "isCorrect": true,
           "_id": {
-            "$oid": "5b6f3ccf-4a56-47a9-b423-96f16582dcbc"
+            "$oid": "080e2706-c95d-47e7-8f6e-b0bec55bfcb0"
           }
         },
         {
           "dapAn": "returned",
           "isCorrect": true,
           "_id": {
-            "$oid": "e44b0df4-0edf-4bda-89ed-b2a6536f59d6"
+            "$oid": "adb1086f-9936-4a73-b9a4-01812d195434"
           }
         },
         {
           "dapAn": "spacecraft",
           "isCorrect": true,
           "_id": {
-            "$oid": "96e87c20-484c-46c1-91e2-715c04a89917"
+            "$oid": "83dc7a80-25bf-4fc8-bde4-ec2f5e1b3648"
           }
         }
       ]
     },
     {
       "_id": {
-        "$oid": "77bfd10b-fd56-4bba-979d-d9f415351128"
+        "$oid": "ff60ba40-37d8-45c8-af6e-26647d0db2b4"
       },
       "cauHoiNho": [],
       "cauHoi": "One of history's most <b>(1)</b> ____ doctors is the topic of today's Game Changers episode. Numerous human <b>(2)</b> ____ had been transplanted before 1967, but there had never been a <b>(3)</b> ____ heart transplant. Christiaan Barnard, a <b>(4)</b> ____ surgeon from South Africa, changed that  on December 3, 1967.",
@@ -128,35 +128,35 @@
           "dapAn": "famous",
           "isCorrect": true,
           "_id": {
-            "$oid": "f6e8df65-5292-4c46-844a-788798c4fc39"
+            "$oid": "08fb5190-e886-4251-83cb-f0d5a0770b02"
           }
         },
         {
           "dapAn": "organs ",
           "isCorrect": true,
           "_id": {
-            "$oid": "5b599022-ecb2-43fc-9b6c-888ea00ecbcf"
+            "$oid": "5a0e66c1-9dfe-4c10-8fd4-ec18c1a7551a"
           }
         },
         {
           "dapAn": "successful ",
           "isCorrect": true,
           "_id": {
-            "$oid": "84385865-9d1f-4ed4-9632-74d94c005596"
+            "$oid": "68279e9f-5f58-428a-a3f6-feb57885f881"
           }
         },
         {
           "dapAn": "cardiac",
           "isCorrect": true,
           "_id": {
-            "$oid": "693e0342-cb7c-4abc-8aa7-5a1defed203f"
+            "$oid": "0ed68ead-e6a5-4ec7-a095-826332dedb6a"
           }
         }
       ]
     },
     {
       "_id": {
-        "$oid": "ba27d222-9de0-4f70-99fa-7d8ba5440396"
+        "$oid": "57f37471-b5cc-4120-bdd5-4da12d2d4cbe"
       },
       "cauHoiNho": [],
       "cauHoi": "UNESCO's  missions are to <b>(1)</b>  ____ international collaboration and enhance peace and global <b>(2)</b> ____. The <b>(3)</b> ____ of places with cultural or <b>(4)</b> ____ significance is one way that UNESCO does this.",
@@ -166,28 +166,28 @@
           "dapAn": "encourage",
           "isCorrect": true,
           "_id": {
-            "$oid": "b7da0b9c-9d9d-478b-ad15-a36e6729172e"
+            "$oid": "40c7002f-6452-4201-bd2e-011c2791a894"
           }
         },
         {
           "dapAn": "security ",
           "isCorrect": true,
           "_id": {
-            "$oid": "0cfa1de9-e937-4fca-aee7-9a20868efa16"
+            "$oid": "89f148c1-705a-44df-881c-e167efd091d5"
           }
         },
         {
           "dapAn": "preservation ",
           "isCorrect": true,
           "_id": {
-            "$oid": "3cd1aafe-35ab-49f6-a2d9-f82b784fd011"
+            "$oid": "364529a6-6d68-4454-a1df-0c0f65dd2f7a"
           }
         },
         {
           "dapAn": "national ",
           "isCorrect": true,
           "_id": {
-            "$oid": "0cfab559-d7e6-40d3-9a08-bc7ed8011172"
+            "$oid": "2d173fdb-23e4-4c25-ba7b-3d365fe3359c"
           }
         }
       ]

@@ -4,39 +4,39 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "30a137fd-9433-4e5a-8e8e-541fa638c956"
+        "$oid": "79f678b6-e330-44dc-a3e5-77003134e68e"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "25d7b16f-e318-468c-8747-6712123ed625"
+            "$oid": "2943d344-32d1-44a3-879a-bd08193b37fa"
           },
           "cauHoi": "When had the speaker used a computer?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "be98de2c-7581-4cf8-948b-568582219c9a"
+                "$oid": "cda5637e-3403-4efa-9dee-9523717b4881"
               },
               "dapAn": "A. in 1998",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "729b8b59-8daa-4d56-bb39-ac8579545f6c"
+                "$oid": "95b5e292-de5c-4504-828e-ede496766fc4"
               },
               "dapAn": "B. in 1999",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "6d50c6ae-8c2e-4bff-b68d-a102f8bc6a7e"
+                "$oid": "9c1a1fce-338b-4e71-af53-d3f423c65cce"
               },
               "dapAn": "C. in 1980",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "e011a9df-046a-4956-a984-030277a1d513"
+                "$oid": "04a38698-ca58-4693-b969-eac6e09828b7"
               },
               "dapAn": "D. in 1988",
               "isCorrect": false
@@ -45,34 +45,34 @@
         },
         {
           "_id": {
-            "$oid": "bce3177a-d9e2-4eba-a8d2-9283652ace26"
+            "$oid": "51e3288f-b350-4079-b419-4cebe5fec63f"
           },
           "cauHoi": "Why he hadn’t sent an email?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "3e086e15-42da-4b5f-8d3c-bc4bf5eab824"
+                "$oid": "380df080-4531-4157-b94d-8dad5dbc5a83"
               },
               "dapAn": "A. Because he didn’t have a mobile phone.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "b1661fe5-e4fd-46a4-aa67-e07d20c8036b"
+                "$oid": "86283b91-339c-463b-a110-7439aee9ea63"
               },
               "dapAn": "B. Because he didn’t have Internet.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "49784869-1045-479c-acb1-cc4e06122135"
+                "$oid": "f83dd65a-f833-41af-a577-8cf717fc3deb"
               },
               "dapAn": "C. Because he didn’t have a computer.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "ae41ee9c-0975-4ca1-b003-7e4d19acb26d"
+                "$oid": "7fe7b3dd-60dd-45c8-b329-38fef656d045"
               },
               "dapAn": "D. Because he didn’t have a mouse.",
               "isCorrect": false
@@ -81,34 +81,34 @@
         },
         {
           "_id": {
-            "$oid": "8ae177d9-5705-4881-8276-cea2e410c1b5"
+            "$oid": "2cd1d1ba-9112-4f95-91d6-e700b28b9142"
           },
           "cauHoi": "When he had learned to use email?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "f72f347f-b2c3-4dd5-b602-566fb2b06eb8"
+                "$oid": "f138a7e0-3dd9-4f16-91c6-28453297adad"
               },
               "dapAn": "A. by 2002",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "365b825e-f8f9-4a6a-a0dd-1300d3c07dd0"
+                "$oid": "25f84b1e-6591-4388-b3c9-0e616b82e86e"
               },
               "dapAn": "B. in 2000",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "d3154cd6-d72e-4a42-a548-8c28341fe13f"
+                "$oid": "74bab35d-a6a6-41c4-973d-1476761d0886"
               },
               "dapAn": "C. by 2012",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "2b42636b-73c9-438f-8b6c-daecc202f1b9"
+                "$oid": "bac44d0a-a111-4280-9493-696990a7ee9d"
               },
               "dapAn": "D. in 2009",
               "isCorrect": false
@@ -117,34 +117,34 @@
         },
         {
           "_id": {
-            "$oid": "42694b45-ee49-4280-9263-0acf9e2de833"
+            "$oid": "6b869e5f-cd5b-44c2-b539-88898d1b6b13"
           },
           "cauHoi": "Had he joined the Friendster social media network?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "05cfacd8-5859-446f-81d1-0b2eecd81594"
+                "$oid": "9c060a32-68e0-425c-a1e4-93910a1f4faa"
               },
               "dapAn": "A. Yes, he had.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "e65f48b8-d1ad-47e7-a388-6167d86010c2"
+                "$oid": "28910c61-7a11-4bb9-a6ab-cd57a0cdec2f"
               },
               "dapAn": "B. No, he hadn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "b875064e-b778-4f6a-95c0-aeb8c709d735"
+                "$oid": "c6f7fe13-dbc1-4668-b22f-d5b7c537aabf"
               },
               "dapAn": "C. Yes, he hadn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "b646a791-4807-4794-91f7-60ad8f6e9949"
+                "$oid": "cfc99e58-0f8d-4aa9-96f3-1879acaceba7"
               },
               "dapAn": "D. No, he had.",
               "isCorrect": false
@@ -158,39 +158,39 @@
     },
     {
       "_id": {
-        "$oid": "05048689-7978-4da8-a806-aa79a4e530b6"
+        "$oid": "0b74add5-c313-48e0-b21b-7a89ff474d46"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "aff1b6b6-a662-4aee-8797-58262b770781"
+            "$oid": "9fae1b20-c4de-4769-927b-c624e5e22fbe"
           },
           "cauHoi": "What is the purpose of the city when building new parks and other green spaces, and creating new pollution laws for vehicles?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "0f71bc02-57fc-4c07-be2a-074e3f0a83fc"
+                "$oid": "24cf17ca-7a69-49e5-9349-1e55390c645e"
               },
               "dapAn": "A. to raise taxes",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "6336fe82-3b33-46b0-890b-f62fe64648ca"
+                "$oid": "2794963f-4950-403c-831e-701badf1580f"
               },
               "dapAn": "B. to earn money",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "b3f90c82-30f1-4e81-8fe9-8e7f1a2641e6"
+                "$oid": "ee8d75bd-a34a-4660-a0fb-2232fd9b28a4"
               },
               "dapAn": "C. to reduce congestions",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "00e9d9de-3844-492b-8503-c4d1001fb419"
+                "$oid": "55e7bb0f-3056-4b25-9c8e-d9eb9ce0a5f4"
               },
               "dapAn": "D. to reduce air and water pollution",
               "isCorrect": true
@@ -199,34 +199,34 @@
         },
         {
           "_id": {
-            "$oid": "a5fb3db6-5f93-45aa-affb-633649c30496"
+            "$oid": "71528081-4a3d-426b-9f42-1353442f7929"
           },
           "cauHoi": "Are the results from the changes positive?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "e2dbf893-1a9c-4f40-bd34-443d60aceb74"
+                "$oid": "5e71a059-a0e6-47ef-8dfe-1fc9a4098c61"
               },
               "dapAn": "A. Yes, they aren’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "967656e7-e8d4-4ec0-95c2-58e80a275845"
+                "$oid": "4f5c28b0-b9e8-46d9-b69c-62187f9cc749"
               },
               "dapAn": "B. Yes, they are.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "cd6e8cbf-d60f-4f2a-9628-8e626c1088cd"
+                "$oid": "cb78421c-12b3-4166-b9c2-f900dcbaf56f"
               },
               "dapAn": "C. No, they aren’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "f3b40afd-687f-49c5-a060-75cdd8952b61"
+                "$oid": "4a6cfdcf-d3ac-468e-b6d4-ee97c8a08066"
               },
               "dapAn": "D. No, they are.",
               "isCorrect": false
@@ -235,34 +235,34 @@
         },
         {
           "_id": {
-            "$oid": "1e36c5fe-723a-4d69-818f-751e92b58763"
+            "$oid": "c9a4cfb7-544f-44db-8a62-9f7d5a001e79"
           },
           "cauHoi": "Why did he suggest that universities offer programs to train people in rural areas to do different jobs?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "a2db6f04-470f-48a2-a05c-764524a59162"
+                "$oid": "aba4858f-fd6d-4944-8cc2-d16e85e62434"
               },
               "dapAn": "A. Because they wouldn’t burn the trees.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "24e1033f-b61b-4e4c-86f5-0ee2fed4c392"
+                "$oid": "9bd2af43-293c-40c6-b845-b209bc293657"
               },
               "dapAn": "B. Because they would be happier.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "1988dd45-0f9d-4259-acb1-9e945b384845"
+                "$oid": "78d7f24f-7d94-4708-81bc-5dbcc458a286"
               },
               "dapAn": "C. Because they wouldn’t have to cut down trees to get money.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "7dd60b8b-30a9-4c1a-9a5f-928fa83b28cd"
+                "$oid": "57fa7d26-626f-4d39-9949-b1b5f6719c5c"
               },
               "dapAn": "D. Because they would be richer.",
               "isCorrect": false
@@ -271,34 +271,34 @@
         },
         {
           "_id": {
-            "$oid": "b11bd052-db45-49c1-8e59-e12d8bfdb60d"
+            "$oid": "02573a34-b0f5-43a8-8f78-db83f22075e3"
           },
           "cauHoi": "Should the city give people free trees to plant in their yards?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "7234a7f7-5c86-408b-b9a8-cd3adc50050f"
+                "$oid": "e8157c7e-1e6d-4348-ad3e-a76e0ebac17f"
               },
               "dapAn": "A. Yes, they should.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "28d64e7a-29e7-4e3b-a043-93d5c34082b5"
+                "$oid": "8070ff35-317b-4b57-a1bd-2c5d49aace11"
               },
               "dapAn": "B. No, they should.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "64a9903f-2255-4557-9ef1-6cf667ad7d70"
+                "$oid": "a7784bbe-3767-4977-8989-c2326c738740"
               },
               "dapAn": "C. Yes, they shouldn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "fc77e0fd-2642-4c50-8fdc-7548ec1fda08"
+                "$oid": "92e2d5fe-c964-4899-81e2-1ef64a85b410"
               },
               "dapAn": "D. No, they shouldn’t.",
               "isCorrect": false
@@ -312,39 +312,39 @@
     },
     {
       "_id": {
-        "$oid": "eb310800-23eb-48e3-8745-d151cea41295"
+        "$oid": "fb624de8-bfd9-454a-b405-6305436e63a9"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "ce5f43b4-539a-476c-9ada-e193fa522e28"
+            "$oid": "717813e3-dcb5-4277-8ea5-8050a37c68b1"
           },
           "cauHoi": "What helps with the problem of air pollution and global warming? ",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "29d6efeb-2423-4818-ac2a-a6d2c995ca63"
+                "$oid": "7956f550-d985-47e0-98d5-92415995224e"
               },
               "dapAn": "A. the rooftop",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "0edc3b89-135f-4c3a-9941-5828410eab29"
+                "$oid": "944e3a6f-b668-444e-a7cd-0710df1369d3"
               },
               "dapAn": "B. the walls",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "397ea632-67d0-4252-bca5-42cb1e54450d"
+                "$oid": "67a63799-5a50-4d5f-8d4a-51ff1f128d56"
               },
               "dapAn": "C. the sea",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "6625aa1e-fb35-4495-9ccd-754957f230c9"
+                "$oid": "dd32c4fc-47ba-4fb5-9b76-8f16ea540427"
               },
               "dapAn": "D. the roof garden",
               "isCorrect": true
@@ -353,34 +353,34 @@
         },
         {
           "_id": {
-            "$oid": "2ee90c2c-9b08-4caa-8ccd-192f8b9a14f5"
+            "$oid": "27163536-2ed6-4302-aec3-0ae2391b69ce"
           },
           "cauHoi": "Would the garden take out oxygen?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "9d0982c0-2269-46cb-bf72-4e01ef0eb1a6"
+                "$oid": "34f548bf-218d-4b93-95bc-6affdad52256"
               },
               "dapAn": "A. Yes, it wouldn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "a75942cc-3fef-409d-976e-b1a6829f793e"
+                "$oid": "e91a3c1f-3453-4887-9f9f-ea9641875bc4"
               },
               "dapAn": "B. Yes, it would.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "231307f4-8a9b-4c28-a0ff-6f1fc25d5510"
+                "$oid": "38c10fcb-3f29-41d7-8f18-643465c493ff"
               },
               "dapAn": "C. No, it would.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "6adf8837-35cb-48bd-9cda-af19a7fcfebf"
+                "$oid": "e9644265-85c4-42e1-b85f-d15ad01bd9c8"
               },
               "dapAn": "D. No, it wouldn’t.",
               "isCorrect": true
@@ -389,34 +389,34 @@
         },
         {
           "_id": {
-            "$oid": "8a950e31-b710-4fcb-aaec-333bd326120b"
+            "$oid": "470465ec-7d8b-4f78-8fa7-42eb3d593caa"
           },
           "cauHoi": "Is the country believed to do some good things for the environment?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "d7c2ddf8-3512-4cfb-bfa0-0a7714989651"
+                "$oid": "5f258d7a-d479-420b-b750-4e3de3c5e7a0"
               },
               "dapAn": "A. No, it is.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "c0cab209-fe9e-4c79-8ad6-79ff3c358983"
+                "$oid": "b678323b-1a09-4226-995d-b4a25ce09ef3"
               },
               "dapAn": "B. No, it isn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "30060b1e-507a-471e-8ff5-f961a979ef14"
+                "$oid": "0ddd3ecc-3a74-4bc1-9d2c-dae5acdb9540"
               },
               "dapAn": "C. Yes, it is.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "0d132cd2-44ee-46b5-835f-4d49057f6b34"
+                "$oid": "ca2e03c0-2d51-4cc9-8eca-7d63330fdb0b"
               },
               "dapAn": "D. Yes, it isn’t.",
               "isCorrect": false
@@ -425,34 +425,34 @@
         },
         {
           "_id": {
-            "$oid": "9ce2e584-17de-45b1-935d-5a3b36e2f564"
+            "$oid": "932a701c-1727-42fb-ba44-33514cdfa072"
           },
           "cauHoi": "Will the country build new roof gardens in the near future?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "9ec972c8-6190-468a-9c16-95e72be73d54"
+                "$oid": "80cb56a0-a2ef-4500-a464-cdf255af26b9"
               },
               "dapAn": "A. Not mentioned.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "0d975d70-356b-4483-916e-537a09e9f829"
+                "$oid": "df34cab1-8d3f-4762-933c-e8a9dfc85bd7"
               },
               "dapAn": "B. Yes, they won’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "4e2858fe-a7d7-4404-b7ed-9791be2e67b8"
+                "$oid": "33852df9-e84d-4498-8f45-e87776c17a67"
               },
               "dapAn": "C. No, they won’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "feb5900f-2fab-44aa-8bcf-7b8d2eb97144"
+                "$oid": "a835438d-122a-4ec6-bc47-b1db00190e8e"
               },
               "dapAn": "D. Yes, they will.",
               "isCorrect": false
@@ -466,39 +466,39 @@
     },
     {
       "_id": {
-        "$oid": "765c5ee8-acd2-4c5d-9b70-8b0aab331ead"
+        "$oid": "c4d2b67d-e5a6-407e-bac3-38990275a3d1"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "dceb861c-aacc-49fd-b970-fac363caa225"
+            "$oid": "37655889-984a-43e8-a35e-86b5435df7b5"
           },
           "cauHoi": "When has most of the global warming happened?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "9e7aa69f-6f0d-470e-b782-60b77ae8612f"
+                "$oid": "dca0fac4-7209-42ad-92f1-a26db8cbe2f8"
               },
               "dapAn": "A. since 1970",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "4f816d87-9e7e-43d5-a48f-89c7ab2a39a5"
+                "$oid": "2a823261-77ba-47fe-b925-990c2f6156ff"
               },
               "dapAn": "B. since the 1970s",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "4b5d394a-aa34-4206-adfe-e79d2cdb7710"
+                "$oid": "6ad59981-36c3-42bf-ae91-221f875229d2"
               },
               "dapAn": "C. since 1980",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "cc56b38a-e912-4473-9b9a-9c545ca52a56"
+                "$oid": "e6726f09-d766-499d-aa57-048b7a221629"
               },
               "dapAn": "D. since the 1980s",
               "isCorrect": false
@@ -507,34 +507,34 @@
         },
         {
           "_id": {
-            "$oid": "43dded0c-e834-46ef-9699-929e121881f9"
+            "$oid": "7a64ab36-6852-4e76-8fe2-88361bc8823f"
           },
           "cauHoi": "What do they produce when we burn fossil fuels?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "4f8ae89d-9d94-4ce8-acb0-94618f4aa382"
+                "$oid": "1d44123d-584a-4a2d-8f48-ea63c664b5d7"
               },
               "dapAn": "A. oxygen",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "f776c7cd-cda7-4650-866d-26044d28a2e6"
+                "$oid": "8151d488-d6cf-47f0-837e-661d7cee33e4"
               },
               "dapAn": "B. nitrogen",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "2a21c715-03a9-4a9e-97f2-60ff45daf240"
+                "$oid": "f91e869a-8849-4456-917b-0f153ddfa241"
               },
               "dapAn": "C. hydrogen",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "7b264b26-c82e-43c3-bce7-53e15061d6c4"
+                "$oid": "2e76a78c-8d51-429e-af22-37e67e841e59"
               },
               "dapAn": "D. carbon dioxide",
               "isCorrect": true
@@ -543,34 +543,34 @@
         },
         {
           "_id": {
-            "$oid": "0ebcc8b8-09a1-498a-9565-5b4c9f36ffc9"
+            "$oid": "c9cbc3d1-3120-4181-9962-0168a938c863"
           },
           "cauHoi": "Does carbon dioxide in the atmosphere trap heat and keep it close to Earth?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "d233f583-da31-434e-bb34-74a408cd7e68"
+                "$oid": "77bbff0b-c59a-4e98-bb77-c421f3432305"
               },
               "dapAn": "A. Yes, it does.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "d4bf89ea-1b08-44b8-856d-0d8ca511ea21"
+                "$oid": "66440ac7-9390-4b4e-a81d-6d7c948f7f36"
               },
               "dapAn": "B. Yes, it doesn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "209b1d56-2a70-4069-b361-b077617bbcbc"
+                "$oid": "8b6c45b0-5b11-42a7-99a3-475963ec7168"
               },
               "dapAn": "C. No, it does.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "1abfa0a8-b966-4568-a71c-1c1ccde02ad4"
+                "$oid": "0e1be92d-be42-4dfa-9ee1-61343327a620"
               },
               "dapAn": "D. No, it doesn’t.",
               "isCorrect": false
@@ -579,34 +579,34 @@
         },
         {
           "_id": {
-            "$oid": "4aba1d07-8178-495c-aff6-12024388fa9e"
+            "$oid": "f826d107-8a39-46ee-95d7-5cc912c1efee"
           },
           "cauHoi": "Does Methane trap heat near the Earth?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "e81ed367-c0d7-4668-8f11-d53c442ae569"
+                "$oid": "53db3c64-41d3-4f56-8729-ea48c7792284"
               },
               "dapAn": "A. Yes, it does.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "2d621911-af24-46a3-861d-7539063baaa9"
+                "$oid": "ef9f02f7-2929-4cf0-819d-3a223c5dec93"
               },
               "dapAn": "B. No, it doesn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "7e926346-fb8c-4b4f-bead-3f1f2c5f2e6f"
+                "$oid": "924d2881-f024-4678-a51a-07b7cefaf70e"
               },
               "dapAn": "C. Yes, it doesn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "7f891c75-4565-40dc-aa72-1a5c6a48bd93"
+                "$oid": "ce904b92-044c-4eb4-b5e6-11d8d8983b78"
               },
               "dapAn": "D. No, it didn’t.",
               "isCorrect": false
@@ -620,39 +620,39 @@
     },
     {
       "_id": {
-        "$oid": "2ee793d7-90c7-40af-87e0-c7c79ae432cc"
+        "$oid": "ae1553b7-f801-4e77-997b-a5cabb9c7c41"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "505e04c2-5fe7-4f4b-93a6-caa282045a21"
+            "$oid": "6a65de5f-5704-4a0d-b2c2-a3ca5319f271"
           },
           "cauHoi": "What is the way that is used to encourage people to use clean energy?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "6f699315-3523-41cc-8d0f-a263c1514d24"
+                "$oid": "2b04df14-8608-48f7-b1f5-c978246dd6e4"
               },
               "dapAn": "A. Have a higher salary for them.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "58739361-b07b-4623-8f56-c29bc8a8b29e"
+                "$oid": "3f347af5-df66-40a2-a1c3-2ff6f43f1297"
               },
               "dapAn": "B. Have higher investment for them.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "3623d7a1-beec-4c0d-864d-7b5ef7c9c0bf"
+                "$oid": "63fb681a-cf84-43ec-a150-bff8c4908438"
               },
               "dapAn": "C. Have better offers for them.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "e74a038d-118a-47f6-9710-76893e87721a"
+                "$oid": "114aa8b5-6063-4fbd-8746-b88d3b8a8edc"
               },
               "dapAn": "D. Have lower taxes for them.",
               "isCorrect": true
@@ -661,34 +661,34 @@
         },
         {
           "_id": {
-            "$oid": "8848440a-a22e-4c48-a20c-222c9bce9f7b"
+            "$oid": "9bd4f4ba-db8b-46c4-a0eb-91cc1f75a831"
           },
           "cauHoi": "What kind of product should be produced and used?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "38a8b101-2767-4ca6-9b79-14d7bcd892c2"
+                "$oid": "be18e28d-8e39-4aa1-b306-3049c33a6656"
               },
               "dapAn": "A. They are disposable products.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "04566fac-735a-44a2-b2b9-885e23b12245"
+                "$oid": "3914b01d-3410-40b1-b223-bf5696636031"
               },
               "dapAn": "B. They are colorful products.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "96d97857-06e3-46c6-af95-49c2c02f4c4f"
+                "$oid": "eaf30390-028c-42bb-ba0a-3021320d2a3b"
               },
               "dapAn": "C. They are products that require less packaging.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "ebee6f4b-69f0-4d16-9649-1ec990f92dc1"
+                "$oid": "213e7405-4cbe-4f82-8637-190567ff78bc"
               },
               "dapAn": "D. They are cheap products.",
               "isCorrect": false
@@ -697,34 +697,34 @@
         },
         {
           "_id": {
-            "$oid": "dac5bbe1-7311-4a7b-b780-9ba2cd455e46"
+            "$oid": "e212c355-a1cf-4390-a876-2a7e064badb2"
           },
           "cauHoi": "Should people limit fishing of certain types of fish?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "35380d65-135c-4aeb-b14c-d9722d118c2b"
+                "$oid": "e3303172-5552-48bc-bec6-6cb81221d699"
               },
               "dapAn": "A. Yes, they are.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "5a397239-ccf5-4bfb-9194-49a8393d02d4"
+                "$oid": "87c830bf-1294-4649-93c5-0d91e953b235"
               },
               "dapAn": "B. No, they shouldn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "6f9bed45-d035-43f1-9be1-8fd26cb24b4a"
+                "$oid": "8a986dc6-c3dc-483f-b95d-eb704d3db9fd"
               },
               "dapAn": "C. Yes, they shouldn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "43506531-c4aa-4de3-9624-5213f9035fc4"
+                "$oid": "7ae6d110-4989-4ed0-b52d-72f1b8d3ba8d"
               },
               "dapAn": "D. Yes, they should.",
               "isCorrect": true
@@ -733,34 +733,34 @@
         },
         {
           "_id": {
-            "$oid": "59a73e37-9383-4e25-b51c-e6a2a11a5c02"
+            "$oid": "a01d1615-3c5a-4404-96dd-bcb72721877b"
           },
           "cauHoi": "What should people do to protect disappearing species?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "105618ad-319f-44fa-b506-1f1ee194c60b"
+                "$oid": "2091c060-afdb-42d0-9417-489658eb5339"
               },
               "dapAn": "A. buy insurance",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "8ab224e2-7838-4408-94fc-1d0c389c90f0"
+                "$oid": "f5393b98-dd31-43e3-90fa-94f3b305bf11"
               },
               "dapAn": "B. create laws",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "ed50893d-a32c-4b4f-bf93-3f0e7a36c2d3"
+                "$oid": "fdd16cbf-70cf-4c2a-b78a-8b5cd5a68285"
               },
               "dapAn": "C. hunt and eat them",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "1d479bc5-8088-49df-b771-82adf318797f"
+                "$oid": "9d089eb2-9637-48af-9e52-d1452e63878b"
               },
               "dapAn": "D. report to local authority",
               "isCorrect": false

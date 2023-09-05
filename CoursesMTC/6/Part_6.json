@@ -4,39 +4,39 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "4f00a615-6206-4bab-8456-c704366fef1e"
+        "$oid": "58312071-7cd5-4555-a991-1dca10ddcfe9"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "0026fb6b-6d9b-47c0-a62d-ae9acfc3123c"
+            "$oid": "6024b483-e61e-4af7-b793-ff0d849ad82e"
           },
           "cauHoi": "What subject does the writer talk about?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "b5cfdecc-efbf-4514-a89c-6390eeb3fd26"
+                "$oid": "9b122c53-06f2-48a9-a440-653a52b621f8"
               },
               "dapAn": "A. climate change",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "15e30b81-905a-4623-9fe3-c8b164085c6b"
+                "$oid": "d41fd9e1-fd3a-4518-aa51-8e21fae33719"
               },
               "dapAn": "B. role model",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "976d753b-be64-4e3e-a8f2-1a5a1070cbd7"
+                "$oid": "44be63ce-c962-4ed9-ae47-557450302d6b"
               },
               "dapAn": "C. animal",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "44909f3c-1aeb-4f68-8aea-51ba8a51d678"
+                "$oid": "957f46f0-ffb3-4f8a-9d52-2975c373b059"
               },
               "dapAn": "D. communication skill",
               "isCorrect": true
@@ -45,34 +45,34 @@
         },
         {
           "_id": {
-            "$oid": "c186e897-36b6-415d-91a6-703065185c1e"
+            "$oid": "b598013c-76d0-4705-902b-ee5b36114379"
           },
           "cauHoi": "Do many people find it hard to communicate?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "d9ef99a0-2331-434c-92a6-afab06aac7da"
+                "$oid": "3681029a-5cab-4cae-a84e-f259b15820f4"
               },
               "dapAn": "A. Yes, they do.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "1996321d-c0ad-4af5-a04e-e93ccc5195ac"
+                "$oid": "95035b42-2837-4220-a28b-4cb17171706a"
               },
               "dapAn": "B. Yes, they don’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "bb809ee7-5bed-4add-a90c-c3cf8190250e"
+                "$oid": "6d9256e8-ffee-417e-a215-427ebda57219"
               },
               "dapAn": "C. No, they do.\nD. No, they don’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "d26ac08f-85ff-42ed-bce3-b84b28a1b97a"
+                "$oid": "375b9b29-1b57-4ce6-a703-41730343b68c"
               },
               "dapAn": "D. No, they don’t.",
               "isCorrect": false
@@ -81,34 +81,34 @@
         },
         {
           "_id": {
-            "$oid": "2789db49-f375-4175-a78c-7bfc1c24ba80"
+            "$oid": "259dc7ae-2227-486e-8707-bbd8cbfed18a"
           },
           "cauHoi": "What makes a good communicator?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "a260d9b1-598b-42f0-986c-a56548db72cf"
+                "$oid": "cdb728cd-397b-4115-8ae4-bbe68a7e21cf"
               },
               "dapAn": "A. speak well",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "ef629d80-37fb-4278-83d5-109c651f37df"
+                "$oid": "b97a8d41-03ae-4b05-97a2-f1b63175ee86"
               },
               "dapAn": "B. explain ideas clearly",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "45e06dde-9726-4af0-b85b-653efbf0eb66"
+                "$oid": "1ef3cd31-ae3a-483f-bd33-a9cca35d297c"
               },
               "dapAn": "C. dance well",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "eec283f1-e9cb-4620-b293-d7389601fa91"
+                "$oid": "242b5a43-319f-4a77-af89-850a2feca043"
               },
               "dapAn": "D. both A & B",
               "isCorrect": true
@@ -117,34 +117,34 @@
         },
         {
           "_id": {
-            "$oid": "577e3db4-885d-4d86-849d-a6ae30c014cc"
+            "$oid": "eb4eab03-92da-4e1c-958b-f5cf9cddbe44"
           },
           "cauHoi": "Can a good communicator persuade people to do what he or she wants?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "fbf28144-b086-4846-9812-2e2ea1f528f9"
+                "$oid": "d5017b10-c331-426e-9c25-9b6d839549af"
               },
               "dapAn": "A. No, he can.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "01f8f44c-53d1-4050-b137-583104954ba9"
+                "$oid": "71c5ea8c-d743-4be9-ab13-b3fcb392e882"
               },
               "dapAn": "B. No, he can’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "fd4a4140-3837-404c-93aa-d17d261c27a5"
+                "$oid": "d84a397c-791e-45b0-8161-45f4e97cfd47"
               },
               "dapAn": "C. Yes, he can.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "7f416538-14ec-44c3-a24b-d54a853dade4"
+                "$oid": "3469cb1c-4b58-4d30-b0c5-aa0258d2c513"
               },
               "dapAn": "D. Yes, he can’t.",
               "isCorrect": false
@@ -158,39 +158,39 @@
     },
     {
       "_id": {
-        "$oid": "a4d429b4-38f8-41e1-bb8b-aef2418221f9"
+        "$oid": "ebb863e5-5af6-4344-b062-a95a149881fe"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "1782b156-11c4-4d61-a987-971a0ecfded5"
+            "$oid": "9daf2043-3960-41ec-80e5-7c7d5a781003"
           },
           "cauHoi": "Is communication skill an important one?\n",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "e1554b31-ab5b-4ece-8f86-5b4af210ca74"
+                "$oid": "346b5529-4da7-410d-8b6b-59208be95997"
               },
               "dapAn": "A. No, it isn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "fb9c2080-c498-4bdf-bb2a-007fe2bd3bcd"
+                "$oid": "3dc68bbc-25e9-4534-a79c-5f0f1e1e63bb"
               },
               "dapAn": "B. No, it is.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "1caaf9be-e4cc-4445-9182-3ea60b1fa885"
+                "$oid": "87918bcd-d97f-4b07-a2e7-fe3695453abd"
               },
               "dapAn": "C. Yes, it is.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "6e40eee0-af39-4114-8696-84477ca1c34a"
+                "$oid": "1bf01320-c589-4183-b252-d9780ad34393"
               },
               "dapAn": "D. Yes, it isn’t.",
               "isCorrect": false
@@ -199,34 +199,34 @@
         },
         {
           "_id": {
-            "$oid": "d4094b8a-b778-4ae1-9fd4-eea02c531937"
+            "$oid": "c8d84e23-ed48-4dcd-a5d6-dbb113f193c8"
           },
           "cauHoi": "What aspects of lives does the communication skill have impacts on?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "8857375d-ce20-4993-b348-b77d4b759050"
+                "$oid": "667c1fcd-976a-4161-957c-5c0ac1eb2214"
               },
               "dapAn": "A. personal lives",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "cd97ac6f-035e-4a87-9582-9fd8a2dbd1f0"
+                "$oid": "999dd9ec-22e3-46d9-bb73-21d14bc18694"
               },
               "dapAn": "B. academic lives",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "c1211235-4913-40aa-9400-196be84be634"
+                "$oid": "0f2390ab-16aa-46b9-9047-643199e2fb6b"
               },
               "dapAn": "C. professional lives",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "82462d34-99db-46b5-b731-890585b1435f"
+                "$oid": "a526796c-5c12-4298-aad6-696abbe027fb"
               },
               "dapAn": "D. A, B & C",
               "isCorrect": true
@@ -235,34 +235,34 @@
         },
         {
           "_id": {
-            "$oid": "4160f587-78be-45fc-bfbc-98a53af3fbfb"
+            "$oid": "8e9cfd97-f629-4218-9bdc-95f9e3937de6"
           },
           "cauHoi": "Is it hard to learn a few simple communication techniques?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "c7b6664a-277a-49f3-bffc-e6319d820a95"
+                "$oid": "e56ccc39-719b-4ffe-b16c-4bb64aae59ee"
               },
               "dapAn": "A. No, it isn’t.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "6278ddee-47dd-4036-b884-4000f3f18396"
+                "$oid": "9dc8d0ed-2548-4f29-911e-be4c5864a789"
               },
               "dapAn": "B. No, it is.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "d2f5818d-741c-46b9-9f49-51ec163a6a20"
+                "$oid": "b04a066b-af10-4e7e-ab52-666b96061dbc"
               },
               "dapAn": "C. Yes, it is.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "616644a8-7f23-4fd5-9aa5-e0d1c55b022e"
+                "$oid": "beac2e62-43f5-405c-b279-c0fa191348e0"
               },
               "dapAn": "D. Yes, it isn’t.",
               "isCorrect": false
@@ -271,34 +271,34 @@
         },
         {
           "_id": {
-            "$oid": "c9dd5c5b-ef2a-4caf-ba7a-4caabc611242"
+            "$oid": "1841205d-7eee-4759-a724-58779c6cde7b"
           },
           "cauHoi": "What do good communicators talk honestly about?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "0eac45ac-d1cf-4728-a260-bce008a15996"
+                "$oid": "5c83190a-ad43-4906-b792-68ee7164124d"
               },
               "dapAn": "A. how they feel",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "51cabc58-96a8-4004-ad4b-1224c62c9599"
+                "$oid": "96ba23d2-9a16-4530-9257-d749b1650034"
               },
               "dapAn": "B. how they learn",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "d3b8b29f-e133-402a-a23b-291801f486a3"
+                "$oid": "4e45ed7f-7032-4251-98e8-f01843a1bd82"
               },
               "dapAn": "C. how they dance\nD. how they cook",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "84c8f408-c5d6-4de6-839b-706deee7a6f2"
+                "$oid": "7aea1896-2412-4fec-92d0-c4176f65a50f"
               },
               "dapAn": "D. how they cook",
               "isCorrect": false
@@ -312,39 +312,39 @@
     },
     {
       "_id": {
-        "$oid": "79ccda7e-0629-4a5f-8de7-3887f07a8146"
+        "$oid": "8b937d15-6908-4da8-ab92-5c52a49a6b44"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "58c42e8a-f9e0-49f0-95e2-1a1d57772c8b"
+            "$oid": "1c4d5b46-89dc-4a13-b06e-ccc7767cfe85"
           },
           "cauHoi": "Do good communicators listen carefully to what other people say?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "cb9fb3dc-7f7a-418a-b8e9-4a7508cfebbb"
+                "$oid": "1da6b4a6-582e-4fff-a49c-211d725f0ccc"
               },
               "dapAn": "A. No, they don’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "5b6b64bd-ec0d-4738-b878-d4748d1f1b96"
+                "$oid": "32bf33f9-4a6b-4848-bac1-038a13339964"
               },
               "dapAn": "B. No, they do.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "a90b1310-2679-40e3-b495-985bc17c05b1"
+                "$oid": "e43eb87c-c57e-47b5-b899-749cdbffafd0"
               },
               "dapAn": "C. Yes, they don’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "b53da358-4238-4cd0-9699-55f152def3a9"
+                "$oid": "d904026a-e571-495b-9896-6406b34c7a73"
               },
               "dapAn": "D. Yes, they do.",
               "isCorrect": true
@@ -353,34 +353,34 @@
         },
         {
           "_id": {
-            "$oid": "333827b9-b065-426a-839e-ee8d2acfdcf0"
+            "$oid": "fa084e3e-165a-4c8b-ac2f-1442035b53dd"
           },
           "cauHoi": "Why do they have to listen carefully?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "397b1824-3948-424f-92a5-38bab3e30c1b"
+                "$oid": "182646aa-0056-430a-9eaf-7b5377110ee5"
               },
               "dapAn": "A. answer some questions",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "87732db3-e03d-4cb6-8c5b-bcbf85008e76"
+                "$oid": "47ccd11d-9e5d-480b-8970-451ccf5d47ed"
               },
               "dapAn": "B. understand some lyrics",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "8e0cfe3c-980f-42f3-a4b3-a9617e28eaaa"
+                "$oid": "421aab67-9a62-4f9c-8806-b656b620e1c1"
               },
               "dapAn": "C. understand the other person’s thoughts",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "5052a390-d3aa-46a0-aa29-15e9f9d863de"
+                "$oid": "6d1a830f-7253-499d-9c8a-4b4bf9a60bd1"
               },
               "dapAn": "D. be nice",
               "isCorrect": false
@@ -389,34 +389,34 @@
         },
         {
           "_id": {
-            "$oid": "818b8064-95bb-4005-ab19-80be4435d4be"
+            "$oid": "4b51734a-ba75-4790-ba1c-a8d33e28b689"
           },
           "cauHoi": "What do they do to show they understand?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "8ec1dbd0-0329-4c54-ba3b-9b5e60ad506d"
+                "$oid": "88dd0ce2-c1ff-43c3-83ad-d881c2558d57"
               },
               "dapAn": "A. smile",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "f551efb8-c33e-47f7-ab3d-ab32ee306d92"
+                "$oid": "e1d271a9-22f8-4de3-b38b-e25163db635f"
               },
               "dapAn": "B. repeat ideas",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "7f218052-ae1c-46f4-ae4c-ff71c562e590"
+                "$oid": "874a07c7-1f6a-4e80-83b6-b26b32a1b6f4"
               },
               "dapAn": "C. discuss more",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "b7ced565-a0b4-45ab-9f39-d9dbec3689d6"
+                "$oid": "dbbe1210-9aaf-4f95-97a9-2ea9f3b76996"
               },
               "dapAn": "D. nod their heads",
               "isCorrect": false
@@ -425,34 +425,34 @@
         },
         {
           "_id": {
-            "$oid": "18519263-61b0-4474-9778-3c6ee0a92f4b"
+            "$oid": "6d82345b-7d92-485d-9269-e1e817336318"
           },
           "cauHoi": "How do they encourage people to say more?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "32e73fd9-ade1-47f0-b13d-c17a683d8850"
+                "$oid": "ed69d8af-731b-4439-8f85-cba3fb47d08a"
               },
               "dapAn": "A. asking relevant questions",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "59f52553-a878-4aa2-a516-9ca5204808bd"
+                "$oid": "40ebc7b6-3809-45f4-9463-183e0c83d429"
               },
               "dapAn": "B. laugh",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "ff206231-66e0-43b8-98a2-d2a991b8c94b"
+                "$oid": "40dd527d-cda3-4109-b8de-6cab691edccc"
               },
               "dapAn": "C. asking irrelevant questions",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "fcbcb4f0-e4bd-47f4-9afb-ae8872460ca9"
+                "$oid": "6279d82b-902e-4049-baf3-221c0bb5e9a3"
               },
               "dapAn": "D. smile",
               "isCorrect": false
@@ -466,39 +466,39 @@
     },
     {
       "_id": {
-        "$oid": "432b694f-995f-4faf-ace5-22f8f3343ca0"
+        "$oid": "4077f439-474e-426e-a89f-56c99399f00d"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "45c607d9-109a-47ff-8392-af714b75715c"
+            "$oid": "46b7555f-ede8-4c86-9926-469315d88f19"
           },
           "cauHoi": "Do good communicators make a personal connection with people?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "f67ab734-dd0c-4e96-8b1f-15b71051e167"
+                "$oid": "6a0cd447-6adf-4056-9458-7b6eb45c3ef4"
               },
               "dapAn": "A. Yes, they do.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "273e3bb6-fc68-46fb-8785-6da9f182824d"
+                "$oid": "d04957c7-e028-4bcf-9e99-6f418b8829d7"
               },
               "dapAn": "B. Yes, they don’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "15483603-5dd1-4cdb-8f7a-b312476caafd"
+                "$oid": "c5b280c1-0ba5-463c-84da-620ee0531bcd"
               },
               "dapAn": "C. No, they don’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "ef1057a5-a7c1-4f99-b3a3-ad0f50af8ae6"
+                "$oid": "3bde5810-0138-4d10-a678-dfa6212469d0"
               },
               "dapAn": "D. No, they do.",
               "isCorrect": false
@@ -507,34 +507,34 @@
         },
         {
           "_id": {
-            "$oid": "a5f59d28-5173-4e45-9cf4-6a0b61628d1f"
+            "$oid": "ec233e09-a9aa-49d2-90f3-49072cf52536"
           },
           "cauHoi": "What do they try to do?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "7b7442c6-cd4c-4ca7-87f5-6427ed25d260"
+                "$oid": "18ac47cf-b881-473e-bc59-034749f37b1c"
               },
               "dapAn": "A. asking irrelevant questions",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "56ee17cc-9ac2-428d-b4a0-7db237277b2c"
+                "$oid": "248765dd-1c50-4ef2-8c56-184443567e60"
               },
               "dapAn": "B. find something they have in common with the person they are speaking to",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "631ad755-2744-404c-92cd-42d4ee54a9d4"
+                "$oid": "ce5fc0b5-6cca-4061-81a8-b68ac05d6d23"
               },
               "dapAn": "C. repeat ideas",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "f11d0787-8f39-4a95-be36-b69c03dcd2e9"
+                "$oid": "bd534e66-e10a-4c1a-94ef-e95107ee614f"
               },
               "dapAn": "D. find something they do not have in common with the person they are speaking to",
               "isCorrect": false
@@ -543,34 +543,34 @@
         },
         {
           "_id": {
-            "$oid": "03e1fac3-621b-4e0f-9ef2-2dc2258ff5db"
+            "$oid": "1b2f39aa-2af5-4886-b1c2-1cb37840a727"
           },
           "cauHoi": "Are they good at making eye contact?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "e3a27166-1c6f-42a9-b879-3ddb4c784d33"
+                "$oid": "4bf41e91-ad9a-43a7-8fde-3e9e82298495"
               },
               "dapAn": "A. No, they are.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "bae4b9ba-4c03-45ab-a955-50f9c7781340"
+                "$oid": "0ebde147-9654-42db-8464-1c2a6ee4455d"
               },
               "dapAn": "B. No, they aren’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "a3f4702a-3b27-4a8a-bf0b-576ae6053b6e"
+                "$oid": "f696ba45-b781-48dc-879c-e759302bf29e"
               },
               "dapAn": "C. Yes, they are.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "deddccd1-6c2d-49e0-a8f6-8fc98e3c4a00"
+                "$oid": "1b0f924d-4339-4922-8157-533ddc20ab16"
               },
               "dapAn": "D. Yes, they aren’t",
               "isCorrect": false
@@ -579,34 +579,34 @@
         },
         {
           "_id": {
-            "$oid": "f9f46e6c-e30f-4c3d-b51c-bdd007cd90d4"
+            "$oid": "bd67c6fc-61cc-4321-8b68-e378664d9f05"
           },
           "cauHoi": "Why do they have to make eye contact?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "11f7aee0-4fd8-4624-a1e5-2f572b6cf15c"
+                "$oid": "062b0794-e17c-4bbe-846f-fc6545fc8a9d"
               },
               "dapAn": "A. be confident",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "79d51682-f7dd-4bde-b0a0-7303e33fba3b"
+                "$oid": "1c85edb2-5c28-4d7a-a59d-7f4f58aa49be"
               },
               "dapAn": "B. listen carefully",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "de221de3-75a9-4ed1-be95-aaa8bad2393d"
+                "$oid": "a94c3cce-31a7-4b20-9aa2-03df4c2ee3af"
               },
               "dapAn": "C. make an impression",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "c8da9404-5cd1-4a97-a10a-8a4fd6eb2254"
+                "$oid": "9f9fbe61-e392-49fa-8858-32b13b40d26e"
               },
               "dapAn": "D. understand what the other person wants from a situation",
               "isCorrect": true
@@ -620,39 +620,39 @@
     },
     {
       "_id": {
-        "$oid": "c515b851-baec-46f3-ac13-27a67ced65a0"
+        "$oid": "2e750d5e-eaa7-490b-95eb-3e5d2f179815"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "ef0ab9e9-a190-4018-9375-1b552fdbb1d8"
+            "$oid": "3bf33681-de2e-4f64-9ef1-e873d012c19a"
           },
           "cauHoi": "Do public speakers plan their presentation carefully?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "27a80ff3-bb28-43fa-990e-7dafb370f78e"
+                "$oid": "b85ca3ac-525c-401b-96d2-2a53c04bf99a"
               },
               "dapAn": "A. Yes, they don’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "34bf8248-16f6-4832-8f78-987db03c0754"
+                "$oid": "222dc854-a1eb-4fc4-8b69-7effbdce5814"
               },
               "dapAn": "B. Yes, they do.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "3a103d86-c024-4134-b55b-ad2a542da853"
+                "$oid": "fa47216c-5df3-4ad1-acab-c72f5c334f4e"
               },
               "dapAn": "C. No, they don’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "6a4360b6-60fb-4a74-8cd7-e83155c8c0e6"
+                "$oid": "30ddaeb1-a57b-4a4f-a172-4b69ff3762fb"
               },
               "dapAn": "D. No, they do.",
               "isCorrect": false
@@ -661,34 +661,34 @@
         },
         {
           "_id": {
-            "$oid": "7ad86685-7fe2-42ef-93a9-b2d0bc04f84f"
+            "$oid": "f06e9297-1534-481a-9741-88001dfddf29"
           },
           "cauHoi": "What do they learn?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "617d1847-3e5a-491d-a81e-912fd4ec5bc3"
+                "$oid": "faa69313-1342-4afd-aec4-fe35dcce316c"
               },
               "dapAn": "A. materials",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "7a60ae19-3e07-448f-a2ca-8088d6684bdc"
+                "$oid": "c8619dd8-2c38-438b-aebb-6a3d0d3d5bb2"
               },
               "dapAn": "B. communicate",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "42044a0f-131f-4abc-a711-3870522fc394"
+                "$oid": "08b4eabf-4c6c-4c21-a9a5-ba759f9b5169"
               },
               "dapAn": "C. how to use laptop",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "819dbd01-ebc1-474f-827c-16a078461943"
+                "$oid": "192ced05-0377-433e-aa38-9593c9ce4d56"
               },
               "dapAn": "D. how to speak",
               "isCorrect": false
@@ -697,34 +697,34 @@
         },
         {
           "_id": {
-            "$oid": "c2d5c312-72fa-4316-a93e-14218f21a2d0"
+            "$oid": "ce956c8c-1b2a-4f2b-8cd3-3aea677df0f0"
           },
           "cauHoi": "Do they practice in front of a mirror?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "06938b3f-c88a-46bc-972b-92239f8877ee"
+                "$oid": "5013a08d-a2a4-484d-8b60-34dc84128e0c"
               },
               "dapAn": "A. Yes, they don’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "2536a597-720a-4158-99ba-9e4d0c74bcef"
+                "$oid": "6d27457c-d964-42f0-b078-acd836ec9ba6"
               },
               "dapAn": "B. Yes, they do.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "77a89f7e-923a-47b5-9264-fbb226d29e5d"
+                "$oid": "3318c7b0-cd9b-492c-944b-adcc07a69016"
               },
               "dapAn": "C. No, they don’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "ff4c3925-f406-43a5-8843-7d187d13e15b"
+                "$oid": "b503d70d-c031-4c29-aa11-4f6e2e64ca8e"
               },
               "dapAn": "D. No, they do.",
               "isCorrect": false
@@ -733,34 +733,34 @@
         },
         {
           "_id": {
-            "$oid": "a84bacb5-86e1-4ff5-afe2-00be29447e76"
+            "$oid": "93e7d98c-61a0-4455-942c-a44fd83a0f86"
           },
           "cauHoi": "Why do they practice in front of a mirror?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "618c69e2-8998-4519-91b4-4c0fccaf3328"
+                "$oid": "3538f20e-05b8-4a2f-8d2f-9989ecd3fd65"
               },
               "dapAn": "A. be confident\n\n",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "3261e5d7-c05c-4296-a343-1222c1ca8875"
+                "$oid": "1d6628ba-e8bb-4f6d-878b-66d4af1d73ad"
               },
               "dapAn": "B. be nice",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "7d85cf89-881f-41de-a209-18194550f6fa"
+                "$oid": "d26e2e25-69c5-441e-8e39-d382638d5371"
               },
               "dapAn": "C. be bored",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "29b20a36-0730-4673-a96b-8c045e8d63ae"
+                "$oid": "d6890bc8-0738-49b3-8310-732d63f6c803"
               },
               "dapAn": "D. be lucky",
               "isCorrect": false

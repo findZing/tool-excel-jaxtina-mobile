@@ -4,39 +4,39 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "be3e7547-4127-49c7-a5cc-f3c370388167"
+        "$oid": "3dbdb4b2-a584-4374-a0e8-4276927b7881"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "8e782a9b-49a2-44f1-b01d-fa885447f9c2"
+            "$oid": "d9029d63-75d0-44e9-a6db-928d0e23b4c2"
           },
           "cauHoi": "What kind of campaigns are mentioned?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "22821958-5351-42e7-9cd8-413b96b7224b"
+                "$oid": "61dce0e8-1225-4b20-9d40-5f2a176320bb"
               },
               "dapAn": "A. product launch campaigns",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "c7c612db-9511-4ea5-a44e-b7bcb388306d"
+                "$oid": "7b4cf3c8-fcec-43fc-8372-d137e669a6f6"
               },
               "dapAn": "B. advertising campaigns",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "37ba4f80-3b69-4e3a-ad3a-1626ba9cd5c7"
+                "$oid": "11ccc934-c20d-4dd6-b029-4a50fbf947d6"
               },
               "dapAn": "C. brand awareness campaigns",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "22c83bb8-6575-45ee-a154-e1ccfaf17c59"
+                "$oid": "f23edf36-3310-4650-bed8-2ffe5a88f721"
               },
               "dapAn": "D. brand launch campaigns",
               "isCorrect": false
@@ -45,34 +45,34 @@
         },
         {
           "_id": {
-            "$oid": "79a75efe-be75-4507-abb8-b3b8de3b8335"
+            "$oid": "7cbcf874-7556-4064-b5e8-728961e33d08"
           },
           "cauHoi": "What do they need to do first in their advertising campaigns?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "50cf7874-e057-4d7d-87bf-87677c39a517"
+                "$oid": "3a9b06cb-3469-4cf5-a154-b2babdafe7e3"
               },
               "dapAn": "A. identify customers’ needs",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "af162412-2150-4630-840c-8e26b70de448"
+                "$oid": "2250bb54-fa0c-4a80-83da-c17b7c372be8"
               },
               "dapAn": "B. research their market",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "72a5907d-40ad-49d9-bdf6-34845d6334aa"
+                "$oid": "e523ecc5-9d95-440c-9077-127fe632d0d8"
               },
               "dapAn": "C. identify their target customers in the market",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "b7354858-8e1e-483f-b91d-aff2c7d4bc5f"
+                "$oid": "69974233-27be-4c5b-b44e-e73db09b4c38"
               },
               "dapAn": "D. raise brand’s awareness",
               "isCorrect": false
@@ -81,34 +81,34 @@
         },
         {
           "_id": {
-            "$oid": "83d84d23-4453-48f6-9b8a-fa6338976aa8"
+            "$oid": "c517d3d4-08d4-4ebf-9e14-1784c3650c25"
           },
           "cauHoi": "How can they identify their customers?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "f3b61d96-e9bb-485b-a66a-5d74cbd73b32"
+                "$oid": "cb4f4418-c5b2-4361-ba2b-621b1e9fc747"
               },
               "dapAn": "A. using 6 different categories",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "a5b2eefa-ada3-4552-b3c6-6e45fe77c3f9"
+                "$oid": "5a779f02-a024-4c32-8ebc-139460175c41"
               },
               "dapAn": "B. their sense",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "5b74741b-ab70-49d7-bb06-7bb64ef844c4"
+                "$oid": "2a578821-6654-4d15-bb63-3af2e512c4c2"
               },
               "dapAn": "C. their knowledge",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "3dc639c7-bf93-4203-8a6b-077f4ca79957"
+                "$oid": "4240eb61-8454-426e-859f-ca01ac1b98bb"
               },
               "dapAn": "D. their skill",
               "isCorrect": false
@@ -117,34 +117,34 @@
         },
         {
           "_id": {
-            "$oid": "bec831ee-62c2-48a4-ab99-8cbdcd788d67"
+            "$oid": "cafdcfcb-3670-4f2f-bdb5-884e6be9df52"
           },
           "cauHoi": "What factor below is not mentioned among 6 categories used to find their customers? ",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "04b99c35-5109-43e5-bd8c-18eac7242719"
+                "$oid": "d1b4e9af-ae19-4124-84d9-4bdaff33f4df"
               },
               "dapAn": "A. gender",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "d5c2ebcb-d787-4141-bfa2-27ca1887aaff"
+                "$oid": "1fed4c73-6500-44b9-b7de-0825c43c70c9"
               },
               "dapAn": "B. location",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "2d177680-2228-454e-a165-e30fd9e34c2e"
+                "$oid": "b269bf12-b1c7-4a74-ad71-c0e5235e4156"
               },
               "dapAn": "C. jobs",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "c94db538-6f7a-47c0-81cf-85d45d239f6a"
+                "$oid": "afa58583-02c8-4cf5-ac07-40ce67cf179b"
               },
               "dapAn": "D. personality",
               "isCorrect": true
@@ -158,39 +158,39 @@
     },
     {
       "_id": {
-        "$oid": "5531829e-6984-4402-8c5e-c7987fe6909d"
+        "$oid": "81609f88-9fdb-45a6-af12-e8296796c46b"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "6225ceba-8cb7-4065-8e62-5685daf7671e"
+            "$oid": "07dffa5f-e020-48ae-8473-1560efa5f3ed"
           },
           "cauHoi": "What are they thinking about?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "c768232b-beee-4be4-ac0b-0321e1b23057"
+                "$oid": "6e84dfeb-23d8-4cc7-9236-c3c8a6726c8b"
               },
               "dapAn": "A. ways to promote the product",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "67d124df-bd6b-49bc-bacd-3a5e5548e6ac"
+                "$oid": "baad1016-3535-47c4-98f0-e67ca52aaef5"
               },
               "dapAn": "B. ways to raise their band’s awareness",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "e66d3fa7-abe4-45fc-8ada-0b9c95f5559b"
+                "$oid": "65d4cdcc-b934-4887-9a5a-d283bab13dab"
               },
               "dapAn": "C. ways to up sales",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "8bf26474-3b54-4770-9f53-6df2256324fa"
+                "$oid": "f8724d52-eeaa-4521-87e6-1752663d7a11"
               },
               "dapAn": "D. way to launch the product",
               "isCorrect": false
@@ -199,34 +199,34 @@
         },
         {
           "_id": {
-            "$oid": "14668e68-d6f9-4744-af91-61f1c0f38df9"
+            "$oid": "b205fa11-eb93-4cfb-bcd3-7e5b9c5933c2"
           },
           "cauHoi": "What do they expect about their product when it is launched in the market?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "d9bbe2ee-ea66-43c3-b4f9-0b3af4a14388"
+                "$oid": "0bac92e0-09aa-451e-ba52-6e35122cfd9c"
               },
               "dapAn": "A. to be the most attractive to target customers.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "5f04ad49-0379-4214-86ea-1a43261c75fc"
+                "$oid": "3ac119dd-6952-40e6-9223-5f7734d49b65"
               },
               "dapAn": "B. to be one of the most expensive products.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "e1796184-8ffa-4294-b056-5df6b55f23df"
+                "$oid": "8e913f13-8f7c-418d-b81a-b2d420d99309"
               },
               "dapAn": "C. to be at the best quality",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "7cc60fd5-bcbe-4bbe-b0e5-7afbfc43952a"
+                "$oid": "5b2bc5ba-0b28-41bd-8b60-26870d3ae4d0"
               },
               "dapAn": "D. to be the best selling product",
               "isCorrect": false
@@ -235,34 +235,34 @@
         },
         {
           "_id": {
-            "$oid": "e1891b59-f749-413e-8a9d-331b1ff2bf4e"
+            "$oid": "ce5f6fb9-364c-4899-877c-b55dc7d94f7e"
           },
           "cauHoi": "Which factor are they considering to prepare for their marketing plan?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "7eabe6c3-a729-47c4-a91a-faffc047cc10"
+                "$oid": "0b3689cc-5555-4d85-9381-36c2be1574d7"
               },
               "dapAn": "A. age",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "ea17cfc5-f6ce-4738-8296-19367c7a3d83"
+                "$oid": "8a4b5369-a95c-44f8-8c22-5a49bd92ce85"
               },
               "dapAn": "B. gender",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "fae6763a-5d06-4db7-b644-2ab67bc82711"
+                "$oid": "e99ef0cf-2dba-4129-a682-8eb26f5588f9"
               },
               "dapAn": "C. personality",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "8a02026b-cda2-4aeb-84ab-609a6ab0b4a0"
+                "$oid": "6c748c8d-220d-4380-9937-cc3b4804f371"
               },
               "dapAn": "D. geographic location",
               "isCorrect": false
@@ -271,34 +271,34 @@
         },
         {
           "_id": {
-            "$oid": "a40a1209-b481-475a-a94c-278189087f2c"
+            "$oid": "94d51394-e768-40b4-9468-5d6ba246c6a7"
           },
           "cauHoi": "What differentiates marketing to young adults and marketing to elderly?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "b15527fa-11ca-4288-bccc-cb58c2ebe589"
+                "$oid": "09f8b048-9754-4ab4-b8ae-9e0276ea1092"
               },
               "dapAn": "A. quality",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "e27e5daf-643b-4ae2-9985-2f3af26ed25f"
+                "$oid": "0bae4a94-ca09-4cf9-92ce-0427a99f31e2"
               },
               "dapAn": "B. price",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "2815ae7e-23f8-41a3-8516-e88eafa5ec74"
+                "$oid": "bfab3cfa-f1b4-4d8b-85e0-f57c421870b6"
               },
               "dapAn": "C. music used in the campaign",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "3207f3bb-e170-444a-bd2e-cea1b0556410"
+                "$oid": "000dbc30-b767-42a6-97e9-7a50b44c4a9e"
               },
               "dapAn": "D. images used in the campaign",
               "isCorrect": false
@@ -312,39 +312,39 @@
     },
     {
       "_id": {
-        "$oid": "b3b0396c-f985-46b8-81f6-d885eb93624d"
+        "$oid": "b0017931-eb20-46e5-a6c3-e4e9708d64e2"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "cbfab66f-6cc3-4c78-8265-a8d909e3e639"
+            "$oid": "4a8cf456-c48c-4fc2-9a89-bc9699701f5d"
           },
           "cauHoi": "How do youngsters want their music to be?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "5ca10fdb-3d0a-4f39-acbd-b1cc42af14f6"
+                "$oid": "ed44573c-7738-465f-a70e-f26e87c3dd7c"
               },
               "dapAn": "A. calm",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "50dc00c1-16a3-44d6-b9d4-50f4c96466f9"
+                "$oid": "f37c0b45-09a1-4926-a4b7-a261004729c8"
               },
               "dapAn": "B. slow and calm",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "e3306009-63fb-454a-bbfb-a5690241d215"
+                "$oid": "16cd520a-df59-49a0-a27f-2026ae132c50"
               },
               "dapAn": "C. noisy",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "71c5751e-fc15-4a09-9e89-d630d054a24b"
+                "$oid": "fad6e4ef-c4b2-4fff-ae01-dfe9c0d04717"
               },
               "dapAn": "D. energetic",
               "isCorrect": true
@@ -353,34 +353,34 @@
         },
         {
           "_id": {
-            "$oid": "a2688e35-0915-4c2e-a82b-3df0738c237c"
+            "$oid": "1b67e7b7-e4d9-4f99-839c-b595b2ca294c"
           },
           "cauHoi": "How do the older customers want their music to be?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "6818945d-6716-422b-b9af-e2d34952fc08"
+                "$oid": "5101b153-d9bd-465c-b386-d7aa2e111559"
               },
               "dapAn": "A. fast",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "6848ee07-0426-4820-a1a3-d98804994375"
+                "$oid": "b51f7c07-4be4-4c3a-904c-982a376f8aaf"
               },
               "dapAn": "B. energetic",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "4c2fa0e3-9422-4c58-8467-132a6165df5c"
+                "$oid": "38dfe214-8829-4206-8a40-7c8f64be89b8"
               },
               "dapAn": "C. calm and less noisy",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "11c710f9-f2b2-48c4-983f-b3f688ae18b8"
+                "$oid": "f7baf686-394e-4353-a401-d4100f48df3e"
               },
               "dapAn": "D. loud and fast",
               "isCorrect": false
@@ -389,34 +389,34 @@
         },
         {
           "_id": {
-            "$oid": "81079dcf-ec3f-459d-ab6e-90f12d68118a"
+            "$oid": "aaa5d8e0-644e-4a2a-a928-cc9cfd8da038"
           },
           "cauHoi": "How do actors from advertisements targeting old people speak? ",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "c1923464-5b06-4e7f-b348-2b33a6a2e8eb"
+                "$oid": "003a2155-8e0c-44f4-94a6-23fb0ac80728"
               },
               "dapAn": "A. quicky",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "04b6f263-cd8b-4481-985d-73bb1fedb353"
+                "$oid": "5be94528-63e3-4e92-881c-612b102a69df"
               },
               "dapAn": "B. informally",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "72ed90fa-f94c-4da4-87df-d0c052522433"
+                "$oid": "94767b3d-0829-46cd-9951-fa8a3e7bb555"
               },
               "dapAn": "C. loudly",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "4564182b-c805-43b9-84dd-dc03a48ed039"
+                "$oid": "9078e646-dcd5-48e9-b121-351b3d3f6df9"
               },
               "dapAn": "D. seriously",
               "isCorrect": true
@@ -425,34 +425,34 @@
         },
         {
           "_id": {
-            "$oid": "f0ac8678-e1bf-4d10-a643-3a30cd05ad41"
+            "$oid": "fb75d010-71d9-4bdc-a16c-270529fd3b20"
           },
           "cauHoi": "Which one do they need for their slogan, a short or long sentence? ",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "94ea11d7-0903-4d04-9216-b3d1d580e18c"
+                "$oid": "bfbe6fec-3b6b-4aa9-9eea-220ad8b5466d"
               },
               "dapAn": "A. a long sentence",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "06613ac8-7721-4f59-94ce-1615ac1acaca"
+                "$oid": "fa9ee742-d04f-4fb5-9dff-4e86097bf6a2"
               },
               "dapAn": "B. a short sentence",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "d4c60ebb-e91d-4a51-b120-279bac68ceb6"
+                "$oid": "6b958f96-14a0-4cb2-b227-3666bb9c5376"
               },
               "dapAn": "C. neither a short or a long sentence",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "bfec1855-7a40-49d0-b99d-0d4c4bf5855a"
+                "$oid": "986ddb62-b054-4354-9a8c-90929843830f"
               },
               "dapAn": "D. both a short and a long sentence",
               "isCorrect": false
@@ -466,39 +466,39 @@
     },
     {
       "_id": {
-        "$oid": "0f2e22f6-0a54-4bd9-92f9-5d683b1f1f59"
+        "$oid": "10acadf7-d64f-4506-abb5-38338581a6f0"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "2778c963-842c-41cf-acbc-091fa4e20257"
+            "$oid": "dc9a0c9a-8f44-446a-9963-24bfc4783a46"
           },
           "cauHoi": "What do we tend to do as referred by confirmation bias?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "aced3960-395f-4204-a6f2-d67b91eb8477"
+                "$oid": "d5399509-e008-4bfe-bb3e-96fde0ad6c79"
               },
               "dapAn": "A. seek out information that confirms or supports one's opinions or ideals",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "00be8cd6-4022-49e0-b869-1580314592b6"
+                "$oid": "1ad4b4dd-e630-4ce6-8442-74e1c6bb3ffd"
               },
               "dapAn": "B. ignore information that confirms or supports one's opinions or ideals",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "3133ae84-09c2-4fe5-ad4f-6f64b8bb24ca"
+                "$oid": "4cdc57e8-54cd-43d7-806e-9e7a8a813fde"
               },
               "dapAn": "C. support biased opinions",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "0ddd2150-c26f-45b7-af6f-aa43acc7beb0"
+                "$oid": "d1dfc5d0-a23e-4276-a6ec-d52e1c02d92d"
               },
               "dapAn": "D. ignore others’ opinions",
               "isCorrect": false
@@ -507,34 +507,34 @@
         },
         {
           "_id": {
-            "$oid": "6242eb4b-4654-4961-9370-cc2feaf5cee4"
+            "$oid": "fe02b56b-e6b6-4414-9cff-0334c2682941"
           },
           "cauHoi": "What do people only listen to when they display their bias?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "7f69f055-868b-4b4f-8278-6c8635947847"
+                "$oid": "899a1a91-7cc2-4f44-9430-99fed4a27f4e"
               },
               "dapAn": "A. others’ opinions",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "329c5dac-6b26-4c63-8400-3bf775c885a5"
+                "$oid": "6c15f852-52d1-4fee-9d1e-1b675b903b10"
               },
               "dapAn": "B. others’ thoughts",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "b4eb8acf-9f25-4b19-bbe2-9f4b79be8c87"
+                "$oid": "544c9bfd-a145-4f3c-80b9-12b881922516"
               },
               "dapAn": "C. what they already believe",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "a40fcd8c-72d3-47a0-8e17-a8ea0bc6c9c2"
+                "$oid": "6cfd4c4e-1d86-49c8-9025-e559c72bbd60"
               },
               "dapAn": "D. what others believe",
               "isCorrect": false
@@ -543,34 +543,34 @@
         },
         {
           "_id": {
-            "$oid": "44b5b5cb-98a5-445b-8ef0-f7a81e1c1dea"
+            "$oid": "08b4d231-c125-4b24-a0a7-3349749e6860"
           },
           "cauHoi": "What would people try to ignore when they display their bias?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "547c95e5-b252-42b3-9ace-623f1b38927f"
+                "$oid": "60200f52-82e7-4034-b93c-082bf13b74bc"
               },
               "dapAn": "A. what goes against their beliefs.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "cb9fe006-82b1-4470-96a2-5bf861b205fa"
+                "$oid": "34a66e46-d44a-44e7-8752-f1bbf3fb5744"
               },
               "dapAn": "B. what supports their beliefs",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "772dc097-eb3d-4c97-91d2-bc743e508568"
+                "$oid": "dfa6c22c-6b79-4ab1-b181-97f79bf2d457"
               },
               "dapAn": "C. what they don’t know",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "f117826a-3947-4a37-ad80-82c18a7c52c3"
+                "$oid": "d8a06142-6098-4729-8e43-86571f903c9e"
               },
               "dapAn": "D. what others believe",
               "isCorrect": false
@@ -579,34 +579,34 @@
         },
         {
           "_id": {
-            "$oid": "03548d8b-b9df-4ba3-8d37-39943e0ebef0"
+            "$oid": "f2e000ae-1647-4f1a-bf0a-6f7febc79c03"
           },
           "cauHoi": "Can their bias be managed? ",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "6eb81553-ed7a-4081-b27f-583e361ff300"
+                "$oid": "e525d2d6-a896-4954-8908-3347af1974df"
               },
               "dapAn": "A. Yes, it can.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "3332c250-bb5f-40d7-b37c-4e80cd4ac381"
+                "$oid": "d92ec4d3-6fb8-42c2-ba44-32aae63a4ca3"
               },
               "dapAn": "B. No, it can’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "903f4f7c-a1c6-4a26-8091-c71ddba28471"
+                "$oid": "807435f9-5c74-4574-9b46-0bcf82486bff"
               },
               "dapAn": "C. It depends.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "9adfb183-7387-4260-8d3e-a08ef3b6f3ca"
+                "$oid": "51edf0db-f089-4e81-9ef1-2864c9cacab7"
               },
               "dapAn": "D. No, it definitely can’t.",
               "isCorrect": false
@@ -620,39 +620,39 @@
     },
     {
       "_id": {
-        "$oid": "a051a89f-f57c-4ef4-854d-27622ce80b4b"
+        "$oid": "87856d1a-9ae6-4b92-82b0-4b6c8130c2c7"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "e02d205f-3b69-4d10-a6fc-75cb54fe8a7e"
+            "$oid": "f06e845d-43a6-4417-827c-33792e860f7b"
           },
           "cauHoi": "What case do they take as an example?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "b394005a-0ab3-44f4-8a54-7504cba509e0"
+                "$oid": "a10347c1-11e2-4758-9684-67f37cdc7ee4"
               },
               "dapAn": "A. Media bias",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "5e068e4d-ab4d-4783-855e-9f7fb6f00555"
+                "$oid": "6379b036-289c-47ae-a136-00689718f8e6"
               },
               "dapAn": "B. Cognitive bias",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "6e577d8f-5610-459c-8c61-21f16299521a"
+                "$oid": "f74a6bcd-9318-4657-b9c5-a6c0b1c6cb37"
               },
               "dapAn": "C. Statistical bias",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "e6b2fc95-6542-4b53-b252-47b27a3c80ba"
+                "$oid": "88b212f7-040d-4d55-b752-de2149c4d375"
               },
               "dapAn": "D. Contextual bias",
               "isCorrect": false
@@ -661,34 +661,34 @@
         },
         {
           "_id": {
-            "$oid": "ec14e156-b621-4b3c-9528-721f143bc3ca"
+            "$oid": "baa319b1-dd5b-4eea-92e4-e719e2015cbb"
           },
           "cauHoi": "Whose bias is mentioned?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "fb941624-074e-4365-b3fb-873b5c9d2617"
+                "$oid": "d19bed9f-cd64-4336-a9c5-974a3681cf62"
               },
               "dapAn": "A. consumers",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "73e31231-c62f-4090-bbf7-9c2814b2245a"
+                "$oid": "a0f54394-b293-4b34-a35f-b08d9e9e6e03"
               },
               "dapAn": "B. readers",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "6c8440d4-fa4b-4092-a257-e193960be0b2"
+                "$oid": "8f850b9c-a36d-4b0c-9755-44af7350796f"
               },
               "dapAn": "C. journalists",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "6b0d3e87-b63a-49f9-b168-e53ef55a0a85"
+                "$oid": "a224dc96-f05e-448c-8f17-c9024e8051e5"
               },
               "dapAn": "D. marketers",
               "isCorrect": false
@@ -697,34 +697,34 @@
         },
         {
           "_id": {
-            "$oid": "bb577d7e-7413-4713-babe-7e3797f29d76"
+            "$oid": "668ca770-8ec6-4c86-bc03-5971c98bf850"
           },
           "cauHoi": "When do they display their bias? ",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "2ee4147e-65dd-450b-bf53-b35aef6b2e09"
+                "$oid": "f3e8b813-3155-43f9-b8a1-c2d05a6ccd2f"
               },
               "dapAn": "A. when choosing their interviewers",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "144b119b-7072-4bbd-b862-fab3c09b749a"
+                "$oid": "12865bf8-05c1-4390-ae49-99bf5ec5ae6b"
               },
               "dapAn": "B. when choosing images",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "7a45435b-b19e-4b20-a519-1d0ab325a242"
+                "$oid": "47d345a8-1278-448c-8da5-b07cb27397fe"
               },
               "dapAn": "C. when choosing what to report",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "17201ef6-e7c4-401f-94fe-ca51759fe7d3"
+                "$oid": "fa180df3-6871-4e37-ae79-3eb9459b0697"
               },
               "dapAn": "D. when choosing music",
               "isCorrect": false
@@ -733,34 +733,34 @@
         },
         {
           "_id": {
-            "$oid": "61a966f5-d2d9-4c9b-8f24-35e89ac6ca97"
+            "$oid": "5961ee9c-5aa3-4dd5-81e2-264646e0b8f5"
           },
           "cauHoi": "How can a company have their services reported in a positive light?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "17755830-a02d-4c95-bcf9-a6b827677b09"
+                "$oid": "6759980c-ef3a-4cf2-8682-b3dd467de8ee"
               },
               "dapAn": "A. paying the media",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "f4574db4-7c4d-4e59-9417-43292b13b4de"
+                "$oid": "06d21d5b-c0ed-42d9-9d0a-87bcbb419e70"
               },
               "dapAn": "B. they can’t do that",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "a6975ce4-0893-499e-b736-631cebf18529"
+                "$oid": "c58f8c43-6042-4710-afee-50f704d056cd"
               },
               "dapAn": "C. they don’t have to do anything",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "8c304531-ade6-464b-975a-a1539ad5cb36"
+                "$oid": "8c69ad73-1cca-48b5-ad4a-6720b56f6c85"
               },
               "dapAn": "D. upgrade their service",
               "isCorrect": false

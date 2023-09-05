@@ -4,7 +4,7 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "fbc632cf-12f1-4b47-bb2c-8c5feac4f8a6"
+        "$oid": "9dd31c1b-0c7e-4068-853b-f1b5f95d6560"
       },
       "cauHoiNho": [],
       "cauHoi": "Carmen, are you free? Could you do me a ________?",
@@ -12,21 +12,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "6bc4864f-b306-48ac-9403-f203872a5f34"
+            "$oid": "71b03e6a-8a9b-417a-a89c-caa31282f628"
           },
           "dapAn": "favor",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "e3f7fbec-9de9-4461-96fa-a0e697c59baa"
+            "$oid": "3fe0c0d8-5ade-499e-b800-ad3c9e50410a"
           },
           "dapAn": "task",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "b33762f7-ef15-4885-9576-699713225a97"
+            "$oid": "fa238791-237d-4b61-a22b-3b57340d318d"
           },
           "dapAn": "work",
           "isCorrect": false
@@ -37,7 +37,7 @@
     },
     {
       "_id": {
-        "$oid": "48d82bb2-6d4e-4794-9169-0ad1b0523608"
+        "$oid": "f454ff57-b719-48ba-bf27-4f6e7e5332a9"
       },
       "cauHoiNho": [],
       "cauHoi": "I have to write a ________ about expert systems.",
@@ -45,21 +45,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "74315517-e2a4-406e-a41a-0f9d97a70fe4"
+            "$oid": "2db19ed1-1c14-4536-8036-a85105b03de2"
           },
           "dapAn": "assignment",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "71c13cca-3283-40cb-88f6-434e0618b9cf"
+            "$oid": "63ab7c12-9bef-4c83-bbb6-3559f6e75826"
           },
           "dapAn": "summary",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "6a567ead-d3f2-4c6b-b0b2-74217a79acd6"
+            "$oid": "9b2b6c18-ef8d-481e-a8bc-2e08a8169229"
           },
           "dapAn": "awesome",
           "isCorrect": false
@@ -70,7 +70,7 @@
     },
     {
       "_id": {
-        "$oid": "bf246185-9a70-4ce1-8bdf-3019db08cc29"
+        "$oid": "f5bd845c-3a08-41a9-a5be-3514f232baac"
       },
       "cauHoiNho": [],
       "cauHoi": "Why don’t you use the ________ on the Internet?",
@@ -78,21 +78,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "934d82a0-d2e8-456b-b33a-f787cef2420c"
+            "$oid": "8d9fbd8e-99da-4378-891d-69d847600fce"
           },
           "dapAn": "data",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "6797780e-89b4-4098-8326-586ea9f472f0"
+            "$oid": "e1e45c45-f87c-4cf2-b49c-234bf1d41631"
           },
           "dapAn": "information",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "e064199d-4603-4461-a521-becd2b24d0b9"
+            "$oid": "d6b4cae5-9f08-431a-9a21-0f07267772dc"
           },
           "dapAn": "help",
           "isCorrect": false
@@ -103,7 +103,7 @@
     },
     {
       "_id": {
-        "$oid": "724173e5-a638-4e93-87e9-60886f7b3677"
+        "$oid": "4cbe4bf5-242b-4f0a-964a-7f76bedefc5f"
       },
       "cauHoiNho": [],
       "cauHoi": "An expert system is a computer ________ using AI to solve problems.",
@@ -111,21 +111,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "55f75bcc-6f38-45c8-8f15-fb46c0422d83"
+            "$oid": "3a324072-1e6d-4334-aec3-8ff58640ddf2"
           },
           "dapAn": "algorism",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "6deee153-953c-4af9-b667-2bfb2b0c536e"
+            "$oid": "430efda7-cd98-497f-9f0c-f9de1828502a"
           },
           "dapAn": "system",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "42c09f3b-e123-48da-a40e-786ca223b7c4"
+            "$oid": "cc96e319-c815-48f7-9328-a50e81081efb"
           },
           "dapAn": "program",
           "isCorrect": true
@@ -136,7 +136,7 @@
     },
     {
       "_id": {
-        "$oid": "ae202228-be95-496e-8e68-607f08dbeb2d"
+        "$oid": "34c3b88d-ea89-4af0-9203-ccb6a4264ac1"
       },
       "cauHoiNho": [],
       "cauHoi": "It uses a database of knowledge together with rules to export suggested ________. ",
@@ -144,21 +144,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "bd55ccb4-38bd-4ee7-a634-d45b9bf6a7b9"
+            "$oid": "8a051f64-a531-4d6c-bc8f-8a08c9b7a098"
           },
           "dapAn": "options",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "6de4d939-f310-4860-adb9-6b0ea83af696"
+            "$oid": "118a3efe-ddd3-4af0-915c-0e9a2410bc78"
           },
           "dapAn": "plans",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "7ebf6092-421b-4e4a-8bde-9f8228d4696d"
+            "$oid": "cc41ded9-d572-4531-b585-75341496ad58"
           },
           "dapAn": "solutions",
           "isCorrect": true
@@ -169,7 +169,7 @@
     },
     {
       "_id": {
-        "$oid": "6b58ef71-f965-4d73-a6b6-7131f08888cb"
+        "$oid": "167d9579-75a0-418e-9e99-bf8d3b0c26d6"
       },
       "cauHoiNho": [],
       "cauHoi": "Is this an automated ________? Do I need to do anything?",
@@ -177,21 +177,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "bbdb3937-e28d-4e2c-8404-d132647df967"
+            "$oid": "a016dad6-f905-476d-b4dd-e479a3dfdf97"
           },
           "dapAn": "operation",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "817d3b05-3468-4101-bcd5-7e9dc0cca7c4"
+            "$oid": "69185458-8419-4e48-be4d-ff2f2b28f40a"
           },
           "dapAn": "work",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "8254cc8b-4504-45f9-964d-c16c49aad971"
+            "$oid": "f96c1b69-5a2e-4255-a94f-3dd939a184e3"
           },
           "dapAn": "process",
           "isCorrect": true
@@ -202,7 +202,7 @@
     },
     {
       "_id": {
-        "$oid": "afe29b97-db9c-4e72-ac73-630cab611225"
+        "$oid": "d1d5f9b9-35d9-4974-89d4-7298203041f2"
       },
       "cauHoiNho": [],
       "cauHoi": "You only have to ________ some criteria’s data, then wait until the process finishes.",
@@ -210,21 +210,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "d49f632f-0065-4203-8a07-c4fc233ba1b1"
+            "$oid": "4a4e5023-0ea9-42be-8026-f6c72ea5dc94"
           },
           "dapAn": "import",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "b004687f-12bb-4079-bee1-8313a43bb1e7"
+            "$oid": "a2d37d9b-9f19-4cf4-a5e4-77f824dabb69"
           },
           "dapAn": "export",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "8a7e788e-8bb9-4edd-b885-23192367afd1"
+            "$oid": "92c2e743-f77a-44ef-add4-09b8e683668a"
           },
           "dapAn": "analyze",
           "isCorrect": false
@@ -235,7 +235,7 @@
     },
     {
       "_id": {
-        "$oid": "76efb8ae-a58e-408b-b055-033826ee467e"
+        "$oid": "56cf542a-3e10-40b4-817a-f63ce3b73ff3"
       },
       "cauHoiNho": [],
       "cauHoi": "That’s really amazing. Are you using that ________ system?",
@@ -243,21 +243,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "38b94ff4-ce13-4728-8dc8-f82ffcf1c3f2"
+            "$oid": "2f3c5ea7-9727-4622-b89b-a34491639d34"
           },
           "dapAn": "AI",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "ca42630d-1355-4333-9921-3389eb3cd0b0"
+            "$oid": "c27f3122-4996-436d-9ff6-984aaa2db7c0"
           },
           "dapAn": "automated",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "db8a422b-154d-4690-8e4c-db0776f2cb8d"
+            "$oid": "5b04e050-c9e2-47aa-a557-be8b064c896c"
           },
           "dapAn": "computer",
           "isCorrect": true
@@ -268,7 +268,7 @@
     },
     {
       "_id": {
-        "$oid": "fbe92ded-3643-4695-9c7b-10d3bc624371"
+        "$oid": "f2c98de5-4359-4c80-b235-4ebc9a98807b"
       },
       "cauHoiNho": [],
       "cauHoi": "Of course, it helps me a lot. And many ________ use it, too.",
@@ -276,21 +276,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "f560e091-a0e6-4c01-9027-905de6ac1fd3"
+            "$oid": "a4ee4cd7-4ce8-46bb-be28-77f19b993e5a"
           },
           "dapAn": "experts",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "adc1b23e-ff46-47cf-8a7d-51aaf406cb58"
+            "$oid": "e9010575-c62e-4e69-8de3-5d243d5f3a3b"
           },
           "dapAn": "scientists",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a8e6738c-fb71-4f2f-9e3b-5aab51152ab3"
+            "$oid": "0a529373-f60d-4ba8-be35-7357b4f5881b"
           },
           "dapAn": "engineers",
           "isCorrect": false
@@ -301,7 +301,7 @@
     },
     {
       "_id": {
-        "$oid": "ee55ef2e-4b2e-4827-99f5-05f5bad5e729"
+        "$oid": "c2bf2dc3-7091-406f-b4a0-10b3dcd2a3d7"
       },
       "cauHoiNho": [],
       "cauHoi": "This system contributes to the ________ profession a lot. ",
@@ -309,21 +309,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "8a8df328-0f35-4105-8c74-10930ef16391"
+            "$oid": "04b88dc7-7319-4590-8f45-7bab4feceb14"
           },
           "dapAn": "education",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "4ec6b2d4-ed2e-41ea-a5a1-bb30d3fbc069"
+            "$oid": "4452f69e-a495-4cc7-8239-5918819839af"
           },
           "dapAn": "computer",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "051f8eee-e869-496c-84ea-3cf31bbbc48d"
+            "$oid": "e2597aa7-28e2-4553-8009-0d00631f0459"
           },
           "dapAn": "health",
           "isCorrect": true
@@ -334,7 +334,7 @@
     },
     {
       "_id": {
-        "$oid": "cec38c5b-e7da-468e-a094-7af8ecc451af"
+        "$oid": "90983ac7-4db5-4f1b-90e4-3c9415e3720e"
       },
       "cauHoiNho": [],
       "cauHoi": "So, maybe human health information will be ________ after someone is born.",
@@ -342,21 +342,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "acd55aaa-0178-48c7-8cd2-2c84b6d1d5f6"
+            "$oid": "8c424a9e-74c4-46cc-95d7-86609b853e7a"
           },
           "dapAn": "designed",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "52ef1f77-535a-481e-bb91-e2ed66815135"
+            "$oid": "f8e7b606-8dd9-417c-800a-b86af5f2e8f3"
           },
           "dapAn": "stored",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "ce26c5cc-b5eb-4e97-b50e-9e0a61d69979"
+            "$oid": "5348916b-81ee-4b44-ba44-b1f949ce4e8f"
           },
           "dapAn": "analyzed",
           "isCorrect": false
@@ -367,7 +367,7 @@
     },
     {
       "_id": {
-        "$oid": "2259bf72-fbd3-489b-a689-565d5c53e378"
+        "$oid": "55b1cf67-b04b-4c6d-bfee-72e8805952fa"
       },
       "cauHoiNho": [],
       "cauHoi": "Yes! Expert systems help ________ decide what’s wrong with the patients, too.",
@@ -375,21 +375,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "257aacff-f3f7-4d59-8948-978f305f18d6"
+            "$oid": "7487cd90-e05b-42d9-b71b-54a62b6b02ab"
           },
           "dapAn": "doctors",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "5a886b15-8dae-4dd6-949b-ad5f71a1e96f"
+            "$oid": "bdecf06e-0201-479e-955f-fdc1c004acf2"
           },
           "dapAn": "nurses",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "55fc52f1-0a8c-4b42-a6d1-8e5a6ebda0c9"
+            "$oid": "729bbdd3-5c9e-4e80-98d1-13eb55526e48"
           },
           "dapAn": "scientists",
           "isCorrect": false
@@ -400,7 +400,7 @@
     },
     {
       "_id": {
-        "$oid": "128b554e-54aa-47f0-b18c-d1320b5621ec"
+        "$oid": "e8ccecf8-9963-493d-b182-31cd5abe9a45"
       },
       "cauHoiNho": [],
       "cauHoi": "AI is really a wonderful __________. Thank you very much, I know what to do now.",
@@ -408,21 +408,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "adb50e9a-41bc-4c68-93cf-91cd321999a8"
+            "$oid": "18520038-2c56-4dcc-8be3-0ce91cf5b881"
           },
           "dapAn": "breakthrough",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "48f7b6da-6a40-4508-b5f9-5339f05c287a"
+            "$oid": "93a3a87f-528d-484b-8769-0f59b9d0bd5c"
           },
           "dapAn": "creation",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "68151cae-fdf5-41d6-bc2f-876165e22e3e"
+            "$oid": "36acb4df-483d-4a46-8737-c3306a222f81"
           },
           "dapAn": "invention",
           "isCorrect": true
@@ -433,7 +433,7 @@
     },
     {
       "_id": {
-        "$oid": "af589da6-a716-4284-9a0b-b80591a53abe"
+        "$oid": "c4d08697-8de5-45dc-bfcd-a3602e6315ec"
       },
       "cauHoiNho": [],
       "cauHoi": "Hi there everyone, and welcome to another edition of The ________ in Society.",
@@ -441,21 +441,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "e07458a0-592d-49fc-b0b0-3fe14909c806"
+            "$oid": "9a54c19f-0993-41b9-afac-5736074626dd"
           },
           "dapAn": "Mind",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "e0a5952d-9c40-4375-ada1-624889ab6c74"
+            "$oid": "4716242e-a341-4520-9685-d401aa2b2050"
           },
           "dapAn": "People",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "9efa81e3-d25c-4ed9-a5d7-a560a0a9cfaa"
+            "$oid": "8cddc403-87fc-43ae-bfbf-7e4ef9d2bdda"
           },
           "dapAn": "Groups",
           "isCorrect": false
@@ -466,7 +466,7 @@
     },
     {
       "_id": {
-        "$oid": "92acbe64-8cf2-4175-9cae-69cc351bccb1"
+        "$oid": "797ded71-9415-42f6-972e-f9d6ea347aab"
       },
       "cauHoiNho": [],
       "cauHoi": "We’re going to be looking at a ________ emotion, the feeling of regret. ",
@@ -474,21 +474,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "9b40ab4d-1aed-4b0f-8fb7-a51b816d52be"
+            "$oid": "cd96cb6a-51e1-4ec2-b823-42857b3edc57"
           },
           "dapAn": "negative",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "9ca7eead-f50f-4a6d-b764-2802b355e693"
+            "$oid": "6c9a75b8-3ee1-425d-bcc8-9f32fea03543"
           },
           "dapAn": "positive",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "d31ef0bb-5652-46c8-877e-063406dd60d9"
+            "$oid": "a788a912-6b6a-4959-961a-39a4a79e6895"
           },
           "dapAn": "optimistic",
           "isCorrect": false
@@ -499,7 +499,7 @@
     },
     {
       "_id": {
-        "$oid": "99bab79e-c774-4895-9008-a0c98eab0a37"
+        "$oid": "aa050181-256f-492e-be17-42072b91d547"
       },
       "cauHoiNho": [],
       "cauHoi": "I think we all agree that regret is a ________ thing, but that we all tend to spend a lot of time regretting things.",
@@ -507,21 +507,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "610404c2-b07f-425c-ae3d-6efe372cb801"
+            "$oid": "8524d658-bf1e-4ccc-90a5-d39a01034c8f"
           },
           "dapAn": "terrible",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "2a812925-58f4-464d-a031-cbc8457455db"
+            "$oid": "68e6696e-825d-409f-8bb4-0559a2322faa"
           },
           "dapAn": "negative",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "396cefa7-4b8b-4158-b4d8-7ea92bac1c28"
+            "$oid": "4698840b-47c2-4521-a5b1-3ae87c037dad"
           },
           "dapAn": "sad",
           "isCorrect": false
@@ -532,7 +532,7 @@
     },
     {
       "_id": {
-        "$oid": "c9cde28f-6960-4535-a22f-03f1e84025fb"
+        "$oid": "7167678b-3864-4bfd-8393-bc49a146fbb2"
       },
       "cauHoiNho": [],
       "cauHoi": "Imagine you had just had some ________ news, for example, being told that you had failed an exam.",
@@ -540,21 +540,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "9f94b713-210f-4673-9089-1814cb00c327"
+            "$oid": "3c7034d4-4f5f-4d72-a36b-64982941507f"
           },
           "dapAn": "terrible",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "527538ef-ebe8-4626-aae8-efc7c67f1449"
+            "$oid": "073528fb-3d53-41f2-b6e5-703d566b68cb"
           },
           "dapAn": "negative",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "ab1bab07-9b69-44c8-80f5-b05bb77992c9"
+            "$oid": "18870b66-8325-4037-96b2-cb3e8d15de42"
           },
           "dapAn": "bad",
           "isCorrect": true
@@ -565,7 +565,7 @@
     },
     {
       "_id": {
-        "$oid": "6a122560-761c-4a27-a593-4a00a18f3d5c"
+        "$oid": "0dd75dd4-a059-44b1-a173-826ce67ea460"
       },
       "cauHoiNho": [],
       "cauHoi": "That situation might seem bad enough, but we then start ________ alternative realities where things happened differently.",
@@ -573,21 +573,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "923e97d3-4c4d-412f-a3a6-1f808e4e5f10"
+            "$oid": "2aefb005-e336-4955-bd9f-b34f34432e15"
           },
           "dapAn": "thinking about",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "a1f45210-d66e-4aef-b7be-e06678d0443a"
+            "$oid": "32fa895a-f401-4e2d-bf60-d7ab05638906"
           },
           "dapAn": "making up",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "d22655d9-691d-4ea9-bb71-548cfa8f9446"
+            "$oid": "7d00f66d-11e7-4fcf-ae44-f93a9fffdb43"
           },
           "dapAn": "imagining",
           "isCorrect": true
@@ -598,7 +598,7 @@
     },
     {
       "_id": {
-        "$oid": "1a5f72ba-807d-49ec-a52e-646ec523f5dd"
+        "$oid": "d9fce43e-99b9-46b1-8181-3facddf87635"
       },
       "cauHoiNho": [],
       "cauHoi": "You mean like “What would life be like if I had ________ the exam?”",
@@ -606,21 +606,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "fa67d069-f427-4c68-9a42-9e8c4a7b16cc"
+            "$oid": "a762a409-e65d-49fd-af09-d51f7f42c0c2"
           },
           "dapAn": "passed",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "9fee81e4-4736-4ad4-8041-e52f7d780187"
+            "$oid": "1180c8ed-7ff6-4b85-8dbf-23a8c0d857f2"
           },
           "dapAn": "failed",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "903ad482-0cdc-4687-bcd7-c5ac9954f67a"
+            "$oid": "78fa480f-d7e1-471e-a75f-da22ece334ec"
           },
           "dapAn": "nailed",
           "isCorrect": false
@@ -631,7 +631,7 @@
     },
     {
       "_id": {
-        "$oid": "5ca49ee7-56fc-4aa4-b1ac-48c91f230407"
+        "$oid": "3b734ef4-8f40-4059-ae61-b8d95675b2ea"
       },
       "cauHoiNho": [],
       "cauHoi": "The ________ with this is that you have already failed the exam.",
@@ -639,21 +639,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "b483868b-909b-4c46-b431-2d8cfd95119a"
+            "$oid": "0373c055-a3c2-4750-a51f-7f2c70333856"
           },
           "dapAn": "problem",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "ac2e4b96-2396-4d78-a539-61f22ddcada6"
+            "$oid": "a43a9fcb-4993-4da0-8d6d-518cdf977d60"
           },
           "dapAn": "fact",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "be4518ac-578a-4bb2-9521-d23bc390d065"
+            "$oid": "2a9c0ae0-7bee-4fd8-bdf2-96a3b5f6bc55"
           },
           "dapAn": "reality",
           "isCorrect": false

@@ -4,39 +4,39 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "bae3f773-3ff9-4137-96bc-09a57fa259e2"
+        "$oid": "5aa6fb97-1896-44dc-ad4d-801e73987411"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "a902b522-40e5-421a-ae91-e911b70f379a"
+            "$oid": "78ffe127-c024-4535-9230-4be8d4315d4d"
           },
           "cauHoi": "What is Alex’s responsibility?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "4edf8c2d-59c9-4a90-b1df-53003bcf7163"
+                "$oid": "945e5d66-ab5b-489a-91cd-8241d856575a"
               },
               "dapAn": "A. manage ad campaigns",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "94948801-b8c7-42c6-9bd7-cea5f2501795"
+                "$oid": "dc110767-ac13-456e-9063-60dd5a3cbaa3"
               },
               "dapAn": "B. collect data",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "89f534f8-d975-486d-93bd-26c60e21f26c"
+                "$oid": "b3ca1564-39cc-4d3f-9e9a-f77f8548ccde"
               },
               "dapAn": "C. design a logo",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "238fb6ad-f900-4b15-a196-48fb76d4e501"
+                "$oid": "12a5dcff-59be-451b-b765-3c16d8fa9683"
               },
               "dapAn": "D. compile reports",
               "isCorrect": false
@@ -45,34 +45,34 @@
         },
         {
           "_id": {
-            "$oid": "dc186249-eea4-4ff6-b4d8-f07b704591a7"
+            "$oid": "80a60ec3-3dd4-4c23-b3a1-8376d144f34e"
           },
           "cauHoi": "Where is Alex working?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "5c4ee819-0d27-4e5b-b9ea-fd638e8e1ac4"
+                "$oid": "fe3e7fe4-c04f-4df8-9efe-2bc86224f86b"
               },
               "dapAn": "A. hotel",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "554440cf-cfa0-4ce6-bc8e-18265cdb618f"
+                "$oid": "1a0ef32d-f877-41ab-a26b-40bd503a580f"
               },
               "dapAn": "B. grocery store",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "19266c0e-b46a-420d-ad24-733378a089f7"
+                "$oid": "e7c47997-f081-490d-8a3b-49a7631656b8"
               },
               "dapAn": "C. restaurant",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "1a008806-32f0-4686-8faf-359ea9d13589"
+                "$oid": "215a65ce-83ef-45ba-aa5e-d7b8bdcffac4"
               },
               "dapAn": "D. spa",
               "isCorrect": false
@@ -81,34 +81,34 @@
         },
         {
           "_id": {
-            "$oid": "f2e693ee-82b3-4232-b7b8-ac327269b3f0"
+            "$oid": "e808821e-50fd-4722-aa93-51817edb9cca"
           },
           "cauHoi": "What kind of ad campaign does Alex need to develop?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "8d99a45d-ca95-48a6-903d-2bbff35d55e3"
+                "$oid": "37f754d0-35c6-4250-9d00-7cfa6355cbf8"
               },
               "dapAn": "A. course",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "ada7000e-a61b-4df7-96c4-03e4849540e8"
+                "$oid": "7ab98020-0545-4b25-990b-59087e7cf46d"
               },
               "dapAn": "B. clothing",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "5fd3813b-042d-4cad-ab1a-ed89a28373dc"
+                "$oid": "81b30cd2-4ac8-4918-9dd7-cc47c5b42ea6"
               },
               "dapAn": "C. party food",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "5a48ee7b-7cf9-45bf-9e97-04d8e60a8b16"
+                "$oid": "87842f7c-a9e1-4a6d-bd36-532967f10b70"
               },
               "dapAn": "D. beverage",
               "isCorrect": false
@@ -117,34 +117,34 @@
         },
         {
           "_id": {
-            "$oid": "494303fc-ea9a-4ba3-9fb6-53c6ae274274"
+            "$oid": "cb4ad231-f960-4215-9ea5-74d91432a6a0"
           },
           "cauHoi": "Were food ads designed to appeal mostly to men in the past?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "f9e02878-8787-438e-8eb6-0e3c32bd724f"
+                "$oid": "996336f0-2ff0-4a52-9968-1c7f6419a266"
               },
               "dapAn": "A. Yes, they were.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "8f0fcb66-3ae3-411d-9fba-a8da342c8fcd"
+                "$oid": "29ba4505-05c8-4367-a236-1d81788a2dfd"
               },
               "dapAn": "B. Yes, they weren’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "32857dab-b1bd-48de-b5a0-ca4a5fa47369"
+                "$oid": "915e9593-2e9f-444a-b051-85b6b85de0a1"
               },
               "dapAn": "C. No, they were.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "5c9edc99-802a-4774-8337-4d9f7237caea"
+                "$oid": "541e287b-1d27-4ecc-969e-60539fa292a1"
               },
               "dapAn": "D. No, they weren’t.",
               "isCorrect": true
@@ -158,39 +158,39 @@
     },
     {
       "_id": {
-        "$oid": "e2f97ef1-5d38-41a6-a888-9c7a13072522"
+        "$oid": "a94f4044-df2e-4b3b-a3d9-68b766d18530"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "0eb4a519-d932-4dc2-832f-d3841e86dc29"
+            "$oid": "d7937908-1d2d-481f-8cda-84f7ac85bf23"
           },
           "cauHoi": "Have advertising companies been criticized for creating ads that target children?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "2e6a3cdf-fc2e-4310-a56d-bd4825abb866"
+                "$oid": "694892aa-70eb-4fcd-bb3b-5ecb44bcc565"
               },
               "dapAn": "A. No, they haven’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "ea8f7c8a-fbab-4931-aace-83f1410fa73a"
+                "$oid": "0d953f07-4b65-40ef-bef7-fab29159de7c"
               },
               "dapAn": "B. No, they have.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "937cb02f-fbf9-4b52-bdf2-a84a04021395"
+                "$oid": "4b74a046-11b6-4008-9476-79c4c3492d4f"
               },
               "dapAn": "C. Yes, they have.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "22874a82-b6b3-4ee1-8299-4da0d4fda263"
+                "$oid": "052eeb66-1a7f-4500-9c67-6ac1eac0281b"
               },
               "dapAn": "D. Yes, they haven’t.",
               "isCorrect": false
@@ -199,34 +199,34 @@
         },
         {
           "_id": {
-            "$oid": "ad702512-48a7-42ee-bc64-ed2b4eb50500"
+            "$oid": "7e400ee3-1ea1-4110-b1cb-ae6035d3a48a"
           },
           "cauHoi": "What do advertisers often create around Christmas time?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "037f86e4-de2c-4091-bc8b-5989a114a817"
+                "$oid": "0558e7e8-3bf0-418a-8f75-6810b8db9761"
               },
               "dapAn": "A. ads for games and toys",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "4b51a6b4-ead7-4afc-95f1-050c21493ff1"
+                "$oid": "bd9dfb48-7ba6-40e0-9060-4db957a281c1"
               },
               "dapAn": "B. ads for food",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "6ec0f56e-aebf-45b7-bb90-b7e10136ec54"
+                "$oid": "8bb06f6a-9ed1-46d0-a529-91a52fd3041a"
               },
               "dapAn": "C. ads for clothing",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "4f3ae085-5197-4cb7-81b8-316d013f9ff8"
+                "$oid": "06ed94c7-3986-442d-b3c4-4b83c869921f"
               },
               "dapAn": "D. ads for education",
               "isCorrect": false
@@ -235,34 +235,34 @@
         },
         {
           "_id": {
-            "$oid": "e51613ef-a32e-4e18-b213-22e3e7660f5a"
+            "$oid": "435f0a10-b943-4ef9-ab62-43ac3afe93be"
           },
           "cauHoi": "Why have advertisers been criticized when they created ads for games and toys around Christmas time?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "7c78339e-b351-477e-8476-e7836910b09f"
+                "$oid": "886442ba-037d-41f5-a416-7299ddbfd993"
               },
               "dapAn": "A. Children will ask their parents to buy these things for them.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "adfbf07f-4874-4a37-acec-86e9e70e88f5"
+                "$oid": "abccbde8-392f-4cd0-b872-d719a058bd22"
               },
               "dapAn": "B. Children will ask their parents to buy these things for their friends.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "85c44548-1f2a-4f4f-85e5-cffdaf3c3b73"
+                "$oid": "9496d614-1994-4cb3-8c4e-6335e797bd8c"
               },
               "dapAn": "C. Children will ask their parents to sell these things for them.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "36020d33-6705-4ff5-b95b-dce7d2a5bcd1"
+                "$oid": "5bc6126b-0b0d-4c45-b8bb-94d4a0556880"
               },
               "dapAn": "D. Children will ask their parents to sell these things for their friends.",
               "isCorrect": false
@@ -271,34 +271,34 @@
         },
         {
           "_id": {
-            "$oid": "b49bcae1-7a83-4ea7-a15b-0d7a38282cc7"
+            "$oid": "7c8371db-3441-429e-ab8b-54ad295e419a"
           },
           "cauHoi": "Are children affected by ads more easily than adults?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "3e5c8f6c-21f7-4029-94a4-8791c31c8d94"
+                "$oid": "241f4903-cb25-431a-809f-d08860c5ec9d"
               },
               "dapAn": "A. No, they aren’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "02222502-36a7-429e-ba68-b8c4ee9b959e"
+                "$oid": "ff261c9a-c922-4e83-a21f-bbf9574b2dae"
               },
               "dapAn": "B. No, they are.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "c13fda35-af8e-4237-bac7-4e87d631ad26"
+                "$oid": "d30fb291-1aeb-42c7-a1f4-69988167fb42"
               },
               "dapAn": "C. Yes, they are.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "cdd64f69-8a80-425e-9f78-ccf46cbd6ff3"
+                "$oid": "2af445d2-fdf7-4e4c-a5eb-0669a00fac1b"
               },
               "dapAn": "D. Yes, they aren’t.",
               "isCorrect": false
@@ -312,39 +312,39 @@
     },
     {
       "_id": {
-        "$oid": "7093811b-c367-4f91-989d-e44e17926638"
+        "$oid": "9056e03a-7ab3-4342-8c81-86c178b6975d"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "920af190-8e98-43c6-b2ff-89ef1bd2eb2d"
+            "$oid": "043809cf-bd10-4b9b-8129-a54022882448"
           },
           "cauHoi": "Have some people always had long-term-jobs?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "fea27280-a3dc-4d9a-94fe-f76249c1e98c"
+                "$oid": "7a363053-d6e7-4244-ab1a-3e01991014c8"
               },
               "dapAn": "A. Yes, they have.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "6a37439c-c054-4cac-98a9-363b4eee0cdc"
+                "$oid": "10a43c37-c7e4-4fb5-9d43-66ddb36bbece"
               },
               "dapAn": "B. Yes, they haven’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "65c7b185-06a7-4193-a324-87fe2f320739"
+                "$oid": "2add7f61-106a-4e70-afc9-0be92550f268"
               },
               "dapAn": "C. No, they haven’t.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "69e0a906-0522-4aa0-ae95-ea9f545974f9"
+                "$oid": "bc02e785-b983-43ba-b3cd-f4047aa67a23"
               },
               "dapAn": "D. No, they have.",
               "isCorrect": false
@@ -353,34 +353,34 @@
         },
         {
           "_id": {
-            "$oid": "7a99fea3-5257-454c-89d0-622444b75a9b"
+            "$oid": "fea00052-896f-4e26-a7c8-93efd747608d"
           },
           "cauHoi": "How did people make a living before the Industrial Revolution?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "bd82b677-a82d-4286-a0ab-0a13c47e012c"
+                "$oid": "60ae0c8f-422b-4f6b-9b68-49f9039a93b2"
               },
               "dapAn": "A. do a part-time job",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "3f4d3319-95a8-4305-95e3-02272aae32c7"
+                "$oid": "75a6b3e3-0f8a-43c7-a002-2d268753b6f9"
               },
               "dapAn": "B. do a full-time job",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "9ed5c781-d087-467b-9230-a93a5748c7e2"
+                "$oid": "b1399efe-05e8-4cb0-b8f9-713bc69903d5"
               },
               "dapAn": "C. do a lot of small jobs",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "95fd9a4d-ee04-4e36-b282-fc35b21d93b8"
+                "$oid": "2bedcba8-f8e3-47c6-ae45-28a751289419"
               },
               "dapAn": "D. do a small job",
               "isCorrect": false
@@ -389,34 +389,34 @@
         },
         {
           "_id": {
-            "$oid": "8aa933bb-4c0d-49d0-9d14-dc2eeb4be8e7"
+            "$oid": "ad3854c7-5e1a-4421-8027-6754d6312b50"
           },
           "cauHoi": "What did the modern gig economy come into being with?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "fb97574a-3315-461e-abde-3c7134418cdb"
+                "$oid": "48e4ed14-8195-42c4-bf42-cf40ad2e225c"
               },
               "dapAn": "A. the spread of the Internet",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "280e7ff9-a896-47bf-857f-f928127237dd"
+                "$oid": "f3ca736d-6d33-4741-b094-23365c6e2eec"
               },
               "dapAn": "B. the spread of the phone",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "c0ac6350-3341-44c2-8bc6-85879b6f034a"
+                "$oid": "987d2b31-351b-41a9-bd8f-ca0b09003907"
               },
               "dapAn": "C. the spread of the electric",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "818a3c8f-520f-4fe4-b4f3-88067c46c0aa"
+                "$oid": "4c930502-5b0c-49d1-bc69-756a1ac12c7c"
               },
               "dapAn": "D. the spread of the computer",
               "isCorrect": false
@@ -425,34 +425,34 @@
         },
         {
           "_id": {
-            "$oid": "185a273f-46d4-459f-871d-853fd6ecd479"
+            "$oid": "88e64b22-cf93-4c8a-b9b9-904ff7cfd22c"
           },
           "cauHoi": "Is it easier to connect with people in the modern gig economy?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "596393c2-08b1-4426-a372-5e5a77daa067"
+                "$oid": "822033e5-24a4-4d34-8c03-a54364b479d6"
               },
               "dapAn": "A. Yes, it is.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "923495ab-42f1-454a-81fc-35a8ef32f85f"
+                "$oid": "42dbc70c-4c9b-4ef5-9fd3-72d4c88ffa5f"
               },
               "dapAn": "B. Yes, it isn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "4d34b954-bc81-448a-95e5-8197718cbea4"
+                "$oid": "17596dc8-cccc-44a7-a2cf-9603730f2505"
               },
               "dapAn": "C. No, it isn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "342a133e-ddd1-48eb-944d-ce9093bf3841"
+                "$oid": "a0f1c4cc-add8-47db-bdaf-a7efa983b65c"
               },
               "dapAn": "D. No, it is.",
               "isCorrect": false
@@ -466,39 +466,39 @@
     },
     {
       "_id": {
-        "$oid": "a14feb83-1690-462b-be7f-3acb118058bc"
+        "$oid": "59a490e2-9eaa-41d6-be6d-9b7497ce8d31"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "ee74b11f-57ca-475b-a15a-127810cba2b0"
+            "$oid": "140b4e63-fde4-4558-8d62-c97775ca64d4"
           },
           "cauHoi": "How much does Maria’s bank say she spent?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "47b65e6e-7d46-4e3d-8ebe-bfb2d231111c"
+                "$oid": "6c0b1e54-3c34-4dab-a062-a5162e8cfcb7"
               },
               "dapAn": "A. $15",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "eece83ec-5e12-4a1c-96a0-dd0c80056712"
+                "$oid": "646ade47-0ee4-4558-a5fd-f31400808dcb"
               },
               "dapAn": "B. $500",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "fb9e0043-5f14-432a-834d-51400758bc76"
+                "$oid": "dfe44439-d0ee-438d-991e-6e315e085c9e"
               },
               "dapAn": "C. $1500",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "f89c895a-edc0-4b94-8988-80695b2767cc"
+                "$oid": "be5fdc83-e17d-45e7-9982-1bb8701e2007"
               },
               "dapAn": "D. $2000",
               "isCorrect": false
@@ -507,34 +507,34 @@
         },
         {
           "_id": {
-            "$oid": "06bf36e7-8235-4bb9-b631-13120a31e7e2"
+            "$oid": "75b84425-4ce2-46b4-b92c-4fc71beb205c"
           },
           "cauHoi": "Why does Maria feel weird?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "c94e9219-371e-4df4-8a8d-5a68c39537f9"
+                "$oid": "aeb18e15-ed97-4cce-90ab-e6cc9b46db57"
               },
               "dapAn": "A. She didn’t go to the supermarket on that day.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "29b7f8fd-9e5d-4043-a68d-4f8354f9a4a9"
+                "$oid": "2074eaea-6cfc-45ad-aa17-600cb2b16768"
               },
               "dapAn": "B. She didn’t go to the restaurant on that day.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "f0bad5d5-e197-4523-bef8-872f6d7f17a3"
+                "$oid": "c86352ef-7dc9-4c04-a534-4b2716b48a84"
               },
               "dapAn": "C. She went to the supermarket on that day.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "9b8a9a61-a0db-46c1-a3ef-71f2c8fb9b8d"
+                "$oid": "b746f80f-1041-4b8d-9df8-9a51716f7f35"
               },
               "dapAn": "D. She went to the restaurant on that day.",
               "isCorrect": false
@@ -543,34 +543,34 @@
         },
         {
           "_id": {
-            "$oid": "e722af81-0a6d-427a-aba4-8c3d7411f25d"
+            "$oid": "d0012604-178f-4b0f-9991-9870c5b6feec"
           },
           "cauHoi": "What happened to Alex last year?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "c34d76b4-7adc-4fcc-9e4f-fcb9716a4947"
+                "$oid": "ac737797-1b82-4ac5-aaa3-ae621fc88d1f"
               },
               "dapAn": "A. He was robbed.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "edec8063-632e-4a08-a674-599321dfbe5d"
+                "$oid": "71f87c12-ce21-4ca9-93a2-dc92329dc3ad"
               },
               "dapAn": "B. He didn’t remove his card from the cash machine.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "ba8327d8-0957-45ed-bb76-2cf097625da4"
+                "$oid": "6d37cb66-cd59-4e1b-b5ef-fa23b0e34691"
               },
               "dapAn": "C. He wasn’t robbed.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "4ee8bc79-5077-4cd7-8dfd-cd246c363be7"
+                "$oid": "fe082954-71c6-4bbc-a53a-89ae9e1f6ab7"
               },
               "dapAn": "D. His security number was stolen.",
               "isCorrect": false
@@ -579,34 +579,34 @@
         },
         {
           "_id": {
-            "$oid": "cd2e46a4-5558-445a-a41b-39ace9f10a0e"
+            "$oid": "f640e06f-67a8-4d94-af28-0b756520438c"
           },
           "cauHoi": "What suggestion does Alex make?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "20dc22bc-61e8-49d5-a055-461a1ab8ccdb"
+                "$oid": "15509124-7cd0-4beb-ab27-a7286081fb97"
               },
               "dapAn": "A. do not call the bank",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "e4abbde2-06a2-4fc3-a1a8-4b738505b974"
+                "$oid": "0f596d8a-4eeb-4a74-b7be-ffe8e2dce187"
               },
               "dapAn": "B. do not call the restaurant",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "5f59ba25-d6a4-42d0-bab7-2be821abcd9a"
+                "$oid": "a76317c1-4822-4b3e-ab99-59e9079bce9b"
               },
               "dapAn": "C. call the bank",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "2efab09a-7f99-4be3-b9b0-16ee6ab8ecfe"
+                "$oid": "f40cfde6-9a1a-4203-bae5-2c8ce26e38da"
               },
               "dapAn": "D. call the restaurant",
               "isCorrect": false
@@ -620,39 +620,39 @@
     },
     {
       "_id": {
-        "$oid": "4fc74b9a-a1be-4da3-9787-3b1bf519c22d"
+        "$oid": "a67b0f21-0994-4aad-9986-78cc6e4e1c70"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "ed6a8a19-2561-4e14-8c61-2fceac714b48"
+            "$oid": "ed59aae4-6216-4060-9f2d-cbb0cb0bcd99"
           },
           "cauHoi": "Will people feel good about making a donation to a charity?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "40a98945-643c-4e60-bafa-7493f6b92e14"
+                "$oid": "1bf6adf2-72b1-40c4-9478-d7b4566e6b25"
               },
               "dapAn": "A. Yes, they won’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "0e841d48-abf1-4c74-8037-8647bf8a0482"
+                "$oid": "8e9c85a8-3376-4ac2-9ebd-55dfeb2d1f91"
               },
               "dapAn": "B. Yes, they will.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "3f977f08-b59a-4828-b739-b74df2ce397f"
+                "$oid": "f1168f53-422c-41eb-83ac-9ef483dce178"
               },
               "dapAn": "C. No, they won’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "ccad093c-a0cd-40ab-b0ed-5e92895b46a6"
+                "$oid": "3065d181-da67-45e3-b084-34cabd436c8b"
               },
               "dapAn": "D. No, they will.",
               "isCorrect": false
@@ -661,34 +661,34 @@
         },
         {
           "_id": {
-            "$oid": "f7b7b086-932c-46cb-b3f9-5c49ac64c408"
+            "$oid": "bcf6b856-f41c-4151-ac03-d54aa978d377"
           },
           "cauHoi": "Why do people feel that way?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "35160cf4-5393-4e59-8317-49ccd029248f"
+                "$oid": "a55cfca2-136a-405e-9c68-5ce0a53e921e"
               },
               "dapAn": "A. Because they are making a difference.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "7db69418-2249-4075-8d65-67964b177b50"
+                "$oid": "cdf30191-0119-4dfc-8de1-e08821e0ca48"
               },
               "dapAn": "B. Because they want to help other people.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "0ef82104-0fcf-4af2-88d8-340e8c75e6b8"
+                "$oid": "9db6861d-ee3c-43af-8358-281dea421fc3"
               },
               "dapAn": "C. Because they are rich.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "e56c8f85-7ae6-4355-bafd-d1b13ca2a5da"
+                "$oid": "610151b4-bb6b-4004-9a7a-e06206c8e977"
               },
               "dapAn": "D. Because they want to do that.",
               "isCorrect": false
@@ -697,34 +697,34 @@
         },
         {
           "_id": {
-            "$oid": "79bb8490-fcdb-419d-81c6-7bfab66a41d7"
+            "$oid": "a0e405c6-5bb8-46bc-be1d-74a27aa21011"
           },
           "cauHoi": "According to economist Tim, what is charity?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "02f961a4-a67a-4f70-b253-778ba013ceb5"
+                "$oid": "c88bb059-82bb-4663-8f3f-2c8b8c5cb139"
               },
               "dapAn": "A. “charity is selfish”",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "093b9e66-6249-485a-ae62-c7453857a702"
+                "$oid": "5a1bed7c-a441-4c2f-9222-4846127d401b"
               },
               "dapAn": "B. “charity is good”",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "1ebda80a-7e5f-42e1-aacd-bef56791e3f8"
+                "$oid": "8e7f8f6c-5adf-4d33-af8c-9afa46654a27"
               },
               "dapAn": "C. “charity is great”",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "cf6761fa-6a3a-4759-9bd3-7ab058003479"
+                "$oid": "92b303b9-96ee-44c4-85ca-b79578c35853"
               },
               "dapAn": "D. “charity is kind”",
               "isCorrect": false
@@ -733,34 +733,34 @@
         },
         {
           "_id": {
-            "$oid": "49829fda-66b5-4835-8b49-7d901f8663c6"
+            "$oid": "251e7a44-1259-4b83-99ef-208dc31e14c0"
           },
           "cauHoi": "According to economist Tim, do people really make the world a better place?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "1c19d66a-e8a0-4891-becd-4f41b237ba61"
+                "$oid": "213c80c3-6f98-4c00-a765-899e6be43c9d"
               },
               "dapAn": "A. No, they don’t.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "7f3ed8cc-9a0c-4039-a6d0-5906897ce827"
+                "$oid": "52dd5adf-7798-4b18-a84a-99de1eea67f3"
               },
               "dapAn": "B. No, they do.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "d5e4f707-b84b-420c-807f-f97138814f28"
+                "$oid": "b94769dc-8ae9-4168-a0c7-963e4f064ccb"
               },
               "dapAn": "C. Yes, they do.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "7b1928c0-05b2-4e4b-9c26-7ac7ac919d6d"
+                "$oid": "c57d15ca-be79-4f3d-8b6b-cd4272c25302"
               },
               "dapAn": "D. Yes, they don’t.",
               "isCorrect": false

@@ -4,49 +4,49 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "ecdacb0b-d591-4e7a-969e-c30534bf12ca"
+        "$oid": "c4bb002f-51c9-41a8-81a4-b39970fd1181"
       },
       "cauHoiNho": [],
       "yNghia": "Để giới thiệu về công việc của bản thân, ta dùng cấu trúc: <b>My job is + to + Động từ (nguyên thể) + Tân ngữ</b>.<br />\r\nTa có: <b>think of </b><i>(nghĩ ra) </i>là cụm động từ có từ think (nghĩ) là động từ nguyên thể, <b>new ways to raise money </b><i>(những cách mới để huy động tiền quyên góp) </i>là tân ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">My job is to think of new ways to raise money.</span></b><i> (</i><i>Công việc của tôi là nghĩ ra những cách mới để huy động tiền quyên góp.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "a64cbf55-98dc-4f50-b3dd-dd584dcf58bb"
+            "$oid": "c247ecac-49fb-47e3-a63d-c668fa2144d7"
           },
           "dapAn": "My job is",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "8c3d47bc-4e83-4dfd-af64-39f2ce612604"
+            "$oid": "8425703f-8baa-41e5-9f96-990792ac7808"
           },
           "dapAn": "to think",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "47e93d97-4608-43da-95c4-d9dda8bbcfee"
+            "$oid": "3aa07754-36db-4a4f-a64f-b48bbfb173f4"
           },
           "dapAn": "of new",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "9c6c15a0-2126-4c2b-8731-7c6217ed74a7"
+            "$oid": "4afabb1c-8c8c-4aee-9634-d67f1ee4e3b8"
           },
           "dapAn": "ways to",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "ed43aab4-0aa3-4df5-b223-0d04f143a9eb"
+            "$oid": "28246947-064f-4db0-9b27-042f020088d5"
           },
           "dapAn": "raise",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a1e55e55-2e93-4a6f-b13e-5e9cf942b5d4"
+            "$oid": "5c0998a7-c7af-445a-a790-381b7fe7e480"
           },
           "dapAn": "money.",
           "isCorrect": true
@@ -55,49 +55,49 @@
     },
     {
       "_id": {
-        "$oid": "b0bbdbb3-97f7-494e-b06b-76643b745d54"
+        "$oid": "a5375e23-7a2b-43a8-b3ad-ca75901e3916"
       },
       "cauHoiNho": [],
       "yNghia": "Để đặt câu với liên từ <b>but</b>, ta dùng cấu trúc: <b>Mệnh đề 1, + but + mệnh đề 2</b>.<br />\r\nTa có: <b>I want to help your charity </b><i>(Tôi muốn giúp đỡ tổ chức từ thiện của bạn) </i>là mệnh đề 1,<b> I don't have any money </b><i>(tôi không có tiền) </i>là mệnh đề 2. Hai mệnh đề được nối với nhau bởi liên từ <b>but </b><i>(nhưng)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">I want to help your charity, but I don't have any money.</span></b><i> (</i><i>Tôi muốn giúp đỡ tổ chức từ thiện của bạn, nhưng tôi không có tiền.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "263ec706-fabe-4111-b7f8-f12d4c3aa2cd"
+            "$oid": "ad934ba8-ee21-4945-b88e-2f88e3ad9e24"
           },
           "dapAn": "I want",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "2c7e1768-3913-434c-8237-b74135f525de"
+            "$oid": "55efc9a3-773d-4781-9ded-bd6d9a272b46"
           },
           "dapAn": "to help your",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "020f5fc6-b030-4737-9afb-8a78da503749"
+            "$oid": "4f2e3373-aa4e-46b8-a72f-0a671b5f3036"
           },
           "dapAn": "charity,",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "7e6c44fe-e4f1-4cba-a063-3d2433ce2556"
+            "$oid": "35dbc252-7602-422e-a2ce-b44cfdceedd7"
           },
           "dapAn": "but I",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "24c89c4b-8c4b-4493-ba09-a28b84f30286"
+            "$oid": "8b18ef9b-9508-4409-a89a-ebd999263016"
           },
           "dapAn": "don't have",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "13e7b3a5-921c-42af-baad-046e4e234578"
+            "$oid": "b513d7ea-6a25-440b-bdbf-6b2c83f6f56c"
           },
           "dapAn": "any money.",
           "isCorrect": true
@@ -106,49 +106,49 @@
     },
     {
       "_id": {
-        "$oid": "3824ef66-4d77-4e35-9da5-1748be89a9f7"
+        "$oid": "22110f70-911f-4fd8-83ff-1564619226f5"
       },
       "cauHoiNho": [],
       "yNghia": "Để giả định một hành động có thể xảy ra ở hiện tại, ta dùng cấu trúc: <b>Mệnh đề if (Hiện tại đơn), + mệnh đề chính (chủ ngữ + can/may/will + động từ nguyên thể)</b>.<br />\r\nTa có: <b>If you can't help us with money </b><i>(Nếu bạn không thể giúp chúng tôi bằng tiền) </i>là mệnh đề <b>if</b> ở Hiện tại đơn,<b> you can help us with your time </b><i>(bạn có thể giúp chúng tôi bằng thời gian của bạn) </i>là mệnh đề chính ở Hiện tại đơn.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">If you can't help us with money, you can help us with your time. </span></b><i>(</i><i>Nếu bạn không thể giúp chúng tôi bằng tiền, bạn có thể giúp chúng tôi bằng thời gian của bạn.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "90d48c37-4393-48ad-ae1c-95d9ca5ebcaa"
+            "$oid": "e1823400-01f1-4045-a909-353d6b90a5bc"
           },
           "dapAn": "If you can't",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "cb5d51bc-c592-4678-816d-73481694fedf"
+            "$oid": "8ca78c6c-a3f4-4aa4-9ca0-27c26a0b6df2"
           },
           "dapAn": "help us",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "6d3222fa-71d9-42f3-81f6-ba182a2e9d58"
+            "$oid": "71a18a20-e19f-4fb2-8601-0ebd2ef408ba"
           },
           "dapAn": "with money,",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "6e3abe8c-9edc-471a-8ce8-85aac236915f"
+            "$oid": "f7235277-ceb0-422e-8f78-7986c27b6962"
           },
           "dapAn": "you can",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "3012dc9f-d2ee-4159-8d46-8d2a1a990825"
+            "$oid": "3509171a-495d-4074-965e-b826742af1ae"
           },
           "dapAn": "help us with",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "ff8cd3ba-4092-4f49-a106-e801a52489ca"
+            "$oid": "e22c95f7-79dd-44ad-953a-dcc8913c4b8a"
           },
           "dapAn": "your time.",
           "isCorrect": true
@@ -157,49 +157,49 @@
     },
     {
       "_id": {
-        "$oid": "718a22e8-7c94-4a9f-a767-b9295905791c"
+        "$oid": "46ecff10-f73d-44da-aa8d-29bb967915e4"
       },
       "cauHoiNho": [],
       "yNghia": "Để nói rằng ai đó có thể làm gì, ta đặt câu với động từ tình thái <b>can</b> theo cấu trúc: <b>Chủ ngữ + can + Động từ (nguyên thể) + Tân ngữ + Trạng ngữ</b>.<br />\r\nTa có: <b>You </b><i>(Bạn) </i>là chủ ngữ, <b>become </b><i>(trở thành) </i>là động từ nguyên thể, <b>a volunteer </b><i>(tình nguyện viên) </i>là tân ngữ, <b>in one of our thrift stores around the country </b><i>(tại một trong những cửa hàng từ thiện của chúng tôi trên toàn quốc) </i>là trạng ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">You can become a volunteer in one of our thrift stores around the country. </span></b><i>(</i><i>Bạn có thể trở thành tình nguyện viên tại một trong những cửa hàng từ thiện của chúng tôi trên toàn quốc.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "86c43de8-f275-4127-93ee-81aa192fa813"
+            "$oid": "19484920-0ec9-4f9f-9b83-e01405f26bb2"
           },
           "dapAn": "You can",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "fb89fec3-7039-44b5-9807-28db07e7441c"
+            "$oid": "28b8c82a-69c6-4528-a75b-c77d053f506f"
           },
           "dapAn": "become a",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "62b4cc51-8568-4832-bb04-764ff6206dcd"
+            "$oid": "c1a1a867-4150-4d40-b3f1-0032f23121b3"
           },
           "dapAn": "volunteer in one",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "46cb11f1-2935-4b39-b4e1-a008a18df844"
+            "$oid": "d150b5d8-06ff-432f-8683-63bc555f25c9"
           },
           "dapAn": "of our thrift",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a4ebcc34-706d-4aa3-a4d5-e570275e098f"
+            "$oid": "01d1c27e-a7c8-4872-8cfa-0d06dd40cf63"
           },
           "dapAn": "stores around",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "3bb0a553-8b32-43f0-b4e2-a62daa381cb7"
+            "$oid": "af2b26f7-0a08-425f-8934-f1707426a024"
           },
           "dapAn": "the country.",
           "isCorrect": true
@@ -208,49 +208,49 @@
     },
     {
       "_id": {
-        "$oid": "25c25283-8654-4943-9d60-4bd60c92c404"
+        "$oid": "98098426-9ef5-400d-a426-406f42833a0f"
       },
       "cauHoiNho": [],
       "yNghia": "Để nói rằng bạn cần thuê ai làm gì, ta dùng cấu trúc: <b>You'd need to get + Danh từ chỉ người + to + Động từ (nguyên thể) + Tân ngữ</b>.<br />\r\nTa có: <b>a housekeeper </b><i>(một quản gia) </i>là danh từ chỉ người, <b>clean </b><i>(dọn dẹp) </i>là động từ nguyên thể,<b> the house </b><i>(nhà cửa) </i>là tân ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">You'd need to get a housekeeper to clean the house. </span></b><i>(</i><i>Bạn cần thuê một quản gia để dọn dẹp nhà cửa.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "94c25536-7fa7-49b7-b765-c267fd0f43ed"
+            "$oid": "fd4ab0ef-1684-424f-917f-252147a6669b"
           },
           "dapAn": "You'd",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "f920cf79-add3-41a5-a615-72d708ac169d"
+            "$oid": "32f16f25-a142-4481-9c89-7817ecf8c897"
           },
           "dapAn": "need",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a0fec5cb-df91-4e8f-9d30-6c0c40b728ba"
+            "$oid": "700d9ad7-5786-4d52-a9d3-192052dd9f1b"
           },
           "dapAn": "to get a",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "85778422-74c4-4c31-aa13-f6a7fbfc1805"
+            "$oid": "79e5a7d1-64a9-4311-9686-dacd25d9359d"
           },
           "dapAn": "housekeeper",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "894cfde0-43a6-4850-b85a-bd01b1ac3945"
+            "$oid": "d39ba72e-c7c2-4d4a-bd7d-9c11db7d26c0"
           },
           "dapAn": "to clean",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "2141f3fd-e047-47d9-89b8-4675fa7090a1"
+            "$oid": "960b2447-8b9a-4c91-b268-1a7a398d4d00"
           },
           "dapAn": "the house.",
           "isCorrect": true
@@ -259,49 +259,49 @@
     },
     {
       "_id": {
-        "$oid": "bc6fa417-7026-4b30-b04f-e61430e22c02"
+        "$oid": "09de8d41-348a-4855-b188-4b2a5ed5a9ba"
       },
       "cauHoiNho": [],
       "yNghia": "Để đặt một câu hỏi với cụm <b>But what if</b>, ta dùng cấu trúc: <b>But what if + mệnh đề</b>.<br />\nTa có: <b>you work full-time and you can't do that </b><i>(bạn làm việc toàn thời gian và bạn không thể làm điều đó) </i>là mệnh đề.<br />\nCâu hoàn chỉnh là <b><span style=\"color:red\">But what if you work full-time and you can't do that? </span></b><i>(</i><i>Nhưng nếu bạn làm việc toàn thời gian và bạn không thể làm điều đó thì sao?</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "e0724932-1289-4a17-875d-e6fa2f5f21f8"
+            "$oid": "2d8eafb6-623b-4019-9af7-ed3519ed703a"
           },
           "dapAn": "But what",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "610ead0c-3645-4e31-bf55-96706fd3a4eb"
+            "$oid": "797bf02e-950f-4a86-8aa0-eb63cddda648"
           },
           "dapAn": "if you work",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "9b37acfb-76e8-48d5-acef-8244db68900c"
+            "$oid": "d7b89e9b-feea-4731-998a-0a3a3dc6d537"
           },
           "dapAn": "full-time",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "f29f9e9f-3874-4af4-adec-3cf0a0af1af3"
+            "$oid": "6642351b-5aee-43df-a5ef-4c6fc297826f"
           },
           "dapAn": "and",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "2927dc3e-4837-4c94-bea7-953d00f08be6"
+            "$oid": "ee5205e6-207a-4f28-b0d7-288eeea1ed5b"
           },
           "dapAn": "you can't",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "946ea8bb-a840-4ab3-9e86-3e2d115f52ab"
+            "$oid": "6920e992-a8a8-4eec-a216-a24068ec44b5"
           },
           "dapAn": "do that?",
           "isCorrect": true
@@ -310,49 +310,49 @@
     },
     {
       "_id": {
-        "$oid": "52d8430e-ff06-4f43-9126-8c69ab63f1f8"
+        "$oid": "b45196b5-970a-41f3-834e-2d39e90c2322"
       },
       "cauHoiNho": [],
       "yNghia": "Để nói và đưa ra ví dụ về vật gì / việc gì đó, ta dùng cụm <b>There are </b>và <b>such as</b> theo cấu trúc: <b>There are + Lượng từ + cụm Danh từ 1 +</b> <b>such as + cụm Danh từ 2, + cụm Danh từ 3</b>.<br />\r\nTa có: <b>many </b><i>(rất nhiều) </i>là lượng từ, <b>one-day fundraising events </b><i>(sự kiện gây quỹ diễn tra trong một ngày) </i>là cụm danh từ 1, <b>bake sales </b><i>(bán bánh nướng) </i>là cụm danh từ 2,<b> music events </b><i>(sự kiện âm nhạc) </i>là cụm danh từ 3.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">There are many one-day fundraising events such as bake sales, music events. </span></b><i>(</i><i>Có rất nhiều sự kiện gây quỹ diễn tra trong một ngày như bán bánh nướng, sự kiện âm nhạc.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "f559caf9-106f-4011-b65d-f3f14a3cc41b"
+            "$oid": "f88b669d-cac6-4566-938d-a90ea772b2a4"
           },
           "dapAn": "There are",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "c1b8b122-9b6f-4399-a404-e0dfef016eff"
+            "$oid": "be5914b5-c7d4-4383-b30f-310566ea3a9d"
           },
           "dapAn": "many one-day",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "fd6902b2-a1ee-41e6-bc35-af4c52e844ca"
+            "$oid": "89d41ecf-ecd0-4480-92bd-f798821a22a2"
           },
           "dapAn": "fundraising",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "1a8efd20-cedd-41a6-bdd7-f8adc7b772a6"
+            "$oid": "c09dc157-e6e9-45b7-a690-15075574b732"
           },
           "dapAn": "events such",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "011390d5-f723-45f2-a278-3f3048832695"
+            "$oid": "42247269-d5df-463c-938b-55cf4fefae8e"
           },
           "dapAn": "as bake sales,",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "cf6be0e4-0467-494d-9546-f278ef057ac1"
+            "$oid": "0ffa02ea-97a3-4e21-9b63-4d313f9bd52d"
           },
           "dapAn": "music events.",
           "isCorrect": true
@@ -361,49 +361,49 @@
     },
     {
       "_id": {
-        "$oid": "b33af85e-ac5f-4b67-8425-2980ec78899d"
+        "$oid": "5ffc054c-88ba-4613-a127-10bdf48afa9b"
       },
       "cauHoiNho": [],
       "yNghia": "Để nói về việc ai đó có thể làm gì, ta dùng cấu trúc: <b>Chủ ngữ + can also + Động từ + Danh từ chỉ người + to + Động từ (nguyên thể) + Trạng ngữ</b>.<br />\r\nTa có: <b>I</b> <i>(Tôi)</i> là chủ ngữ, <b>my family and friends </b><i>(gia đình và bạn bè của tôi) </i>là danh từ chỉ người,<b> come </b><i>(đến) </i>là động từ nguyên thể, <b>that day </b><i>(ngày hôm đó) </i>là trạng ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">I can also call my family and friends to come that day. </span></b><i>(</i><i>Tôi cũng có thể kêu gọi gia đình và bạn bè của tôi đến vào ngày hôm đó.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "71d5dbd2-df0d-45c8-b393-06e736c87a23"
+            "$oid": "46adfca2-d266-402a-8a43-b67f1a4be798"
           },
           "dapAn": "I can",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "59a3d5cb-b067-46b1-bfd2-0712331de39e"
+            "$oid": "1764c747-bf63-4587-b2bd-269fb6aab19a"
           },
           "dapAn": "also call",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a8601d77-10cb-4c0b-8696-20d490d4ca9c"
+            "$oid": "b357b7cf-4060-4c76-b882-54f8a82f6f2b"
           },
           "dapAn": "my family",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "9d99dfbd-ee5e-4b27-83e3-381536f564ad"
+            "$oid": "cf3ccef1-d841-4e50-929e-219cf32f7225"
           },
           "dapAn": "and friends",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "354d176f-75e2-4c41-a8d4-9aa078549765"
+            "$oid": "1be05ef5-b362-4e20-a8c8-fc0e7e28b4df"
           },
           "dapAn": "to come",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a0033800-fa7f-4a3e-9363-fbebc0e82d95"
+            "$oid": "9d3e5274-6f01-4b1b-b2dd-1ff8d422af04"
           },
           "dapAn": "that day.",
           "isCorrect": true
@@ -412,49 +412,49 @@
     },
     {
       "_id": {
-        "$oid": "40695da2-4b84-410d-b517-83c6b5dfa7dc"
+        "$oid": "1ef2e99f-46d6-44c4-85d3-89a82ad3733c"
       },
       "cauHoiNho": [],
       "yNghia": "Để đưa ra thêm một sự lựa chọn cho ai đó, ta dùng cấu trúc: <b>Or, + Chủ ngữ + can + Động từ (nguyên thể) + Tân ngữ + by + cụm Danh động từ.</b><br />\r\nTa có: <b>you </b><i>(bạn) </i>là chủ ngữ,<b> make</b><i> </i>là động từ nguyên thể,<b> a contribution </b><i>(đóng góp) </i>là tân ngữ,<b> getting people to pay you for completing a marathon </b><i>(kêu gọi mọi người trả tiền cho bạn khi hoàn thành cuộc chạy marathon) </i>là cụm danh động từ sau <b>by </b><i>(</i><i>bằng cách)</i>.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Or, you can make a contribution by getting people to pay you for completing a marathon. </span></b><i>(</i><i>Hoặc bạn có thể đóng góp bằng cách kêu gọi mọi người trả tiền cho bạn khi hoàn thành cuộc chạy marathon.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "e9f6d456-5360-4e92-9a35-4fe4d2c9bb37"
+            "$oid": "7bb65e42-c305-4ed4-a160-be5347303337"
           },
           "dapAn": "Or, you can make",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "6559ba63-dca8-4eb1-bd63-2c50d6d9a5ed"
+            "$oid": "ac817a0d-2100-4cfb-a4f3-4779f7de8491"
           },
           "dapAn": "a contribution by",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "40f99063-415c-4177-8388-2997734725d4"
+            "$oid": "6ff3a04f-226f-4885-8817-624e858aa3c9"
           },
           "dapAn": "getting people",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "1b15e1c7-d12b-421d-a763-32036e708ace"
+            "$oid": "ca1a1dd3-29d4-4aa6-978d-901138fefe93"
           },
           "dapAn": "to pay you",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "66084195-8db5-472a-a09a-26028a2c39c7"
+            "$oid": "c2e245e3-ac75-41e5-a0c5-4596bd95a85e"
           },
           "dapAn": "for completing",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "7fb57133-79e2-4ef8-a9e4-2009c1fe8cc8"
+            "$oid": "3742db28-1e5e-4ba6-98fa-ea4a51dd9686"
           },
           "dapAn": "a marathon.",
           "isCorrect": true
@@ -463,49 +463,49 @@
     },
     {
       "_id": {
-        "$oid": "3e1f372d-2d8a-4416-8a60-498c530d6a73"
+        "$oid": "fc674001-9d0c-4fa6-9d52-5e8a4fa9990e"
       },
       "cauHoiNho": [],
       "yNghia": "Để đặt câu với <b>There're</b>, ta dùng cấu trúc: <b>There're + Danh từ + Mệnh đề quan hệ rút gọn</b>.<br />\r\nTa có: <b>companies </b><i>(những công ty) </i>là danh từ, <b>paying a certain amount to a charity for every correct answer of online quizzes </b><i>(trả một số tiền nhất định cho tổ chức từ thiện cho mỗi câu trả lời đúng trong các câu đố trực tuyến) </i>là mệnh đề quan hệ rút gọn.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">There're companies paying a certain amount to a charity for every correct answer of online quizzes. </span></b><i>(</i><i>Có những công ty trả một số tiền nhất định cho tổ chức từ thiện cho mỗi câu trả lời đúng trong các câu đố trực tuyến</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "e87f69ad-162e-4d12-9392-eed73808e281"
+            "$oid": "5fe71b34-217c-49eb-a83b-86d83ea51e67"
           },
           "dapAn": "There're companies",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "0f3ecea1-0c42-4742-93ca-153214e2f448"
+            "$oid": "bc2ce155-fce0-487a-b56a-fa5a1e62ac0c"
           },
           "dapAn": "paying a certain",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "0ecd8d42-d47a-481c-8fb2-955e2692cf11"
+            "$oid": "91bf6290-5472-42bf-b20a-1acca80ab46e"
           },
           "dapAn": "amount to a",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "d9fbd5b0-4bfa-4423-aa58-386e690e0416"
+            "$oid": "75cf2de3-d406-4797-b999-70b594b67656"
           },
           "dapAn": "charity for every",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "c065ffc9-36c1-4c94-b1a1-6863e1ab20e2"
+            "$oid": "3b41382f-7e96-40fa-8987-e9f1c6593d25"
           },
           "dapAn": "correct answer",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "996d6300-09a3-45c9-ae1a-85f69b586c32"
+            "$oid": "faa6b82d-cb50-43e7-a42c-e2b5cc3d5811"
           },
           "dapAn": "of online quizzes.",
           "isCorrect": true
@@ -514,49 +514,49 @@
     },
     {
       "_id": {
-        "$oid": "14c22b86-2634-4d62-9e91-0d8fd3ca6a84"
+        "$oid": "f053cbc8-e2a5-489a-967c-8ff9a663f97e"
       },
       "cauHoiNho": [],
       "yNghia": "Để diễn tả việc ai đó thực hiện hai hành động, ta dùng cấu trúc: <b>Chủ ngữ + Động từ (Hiện tại đơn) 1+ trạng từ + Động từ (Hiện tại đơn) 2 + Tân ngữ</b>.<br />\r\nTa có: <b>you </b><i>(bạn) </i>là chủ ngữ, <b>go </b><i>(lên) </i>là động từ hiện tại đơn 1, <b>online </b><i>(mạng) </i>là trạng từ 2,<b> answer </b><i>(trả lời) </i>là động từ hiện tại đơn 2.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Basically, you go online and answer vocabulary questions. </span></b><i>(</i><i>Cơ bản là bạn lên mạng và trả lời các câu hỏi về từ vựng.</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "2a6f3920-12f2-4e12-99af-218a675bce73"
+            "$oid": "9621649f-4a01-4b4b-bfad-09d81337c645"
           },
           "dapAn": "Basically,",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "50b2df97-0017-422d-b6b9-5a7097fb4c5c"
+            "$oid": "b9071674-c27e-4e05-b55f-1de82fb64b39"
           },
           "dapAn": "you",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "725ca7b9-e570-4cca-879e-19debca67cbe"
+            "$oid": "db72bbd9-ae61-40b1-8ea9-59fd1afda9cb"
           },
           "dapAn": "go online",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "dcd2fdb1-da41-4635-a128-e931bad38944"
+            "$oid": "0c4d6b10-a197-4370-b5c8-155b0a0d483e"
           },
           "dapAn": "and answer",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "23fd05b7-c4e8-4fca-976e-2f8a5faad3c9"
+            "$oid": "091c5a31-66e8-41c6-a859-c9b87a390493"
           },
           "dapAn": "vocabulary",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "d17be433-fa81-4d39-bcd4-81b3b7f6ea4b"
+            "$oid": "d05a25c5-9853-49c0-99f6-7fe6b573949f"
           },
           "dapAn": "questions.",
           "isCorrect": true
@@ -565,49 +565,49 @@
     },
     {
       "_id": {
-        "$oid": "fdd84a4e-e9fb-42fd-a917-33561c8606b8"
+        "$oid": "1424e1df-bc87-4a96-b0a1-be214a6e03d4"
       },
       "cauHoiNho": [],
       "yNghia": "Để giả định một hành động có thật ở hiện tại kết hợp với câu mệnh lệnh, ta dùng cấu trúc: <b>Mệnh đề if, + Động từ (nguyên thể) + Tân ngữ + Mệnh đề quan hệ</b>.<br />\r\nTa có: <b>If you travel abroad often </b><i>(Nếu bạn thường xuyên đi du lịch nước ngoài) </i>là mệnh đề giả định,<b> donate </b><i>(tặng) </i>là động từ nguyên thể, <b>all the foreign currency </b><i>(tất cả số ngoại tệ) </i>là tân ngữ,<b> that you have left at the end of a trip </b><i>(mà bạn còn lại khi kết thúc chuyến đi) </i>là mệnh đề quan hệ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">If you travel abroad often, donate all the foreign currency that you have left at the end of a trip. </span></b><i>(</i><i>Nếu bạn thường xuyên đi du lịch nước ngoài, hãy tặng tất cả số ngoại tệ mà bạn còn lại khi kết thúc chuyến đi.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "86310a29-e010-4f9c-8df5-8ce0a15d7882"
+            "$oid": "6032f900-24c5-40a8-bf25-ab743746be64"
           },
           "dapAn": "If you travel abroad",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "7f51538e-0336-4fe9-9e9f-86c02e3609e8"
+            "$oid": "a9015d0c-e031-4ce8-9d64-f23b10a5659e"
           },
           "dapAn": "often, donate",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "b2527c22-8d80-4009-a3f9-e9489b789dfe"
+            "$oid": "b9e7f61a-ff5b-4961-9759-435856f51e44"
           },
           "dapAn": "all the foreign",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "7be94967-1e10-4a1a-af48-5ac99e1ccee6"
+            "$oid": "7b4101c2-11ba-4424-8d28-be31133c1b01"
           },
           "dapAn": "currency that you",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "6ce5f1ec-217c-464f-a947-1c6e75b0d318"
+            "$oid": "2d0cf926-0a4b-4cc6-81cf-88444eea2f66"
           },
           "dapAn": "have left at",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "f6157e0f-8f25-41b6-88f0-3aa1c067b9c2"
+            "$oid": "0f2d5c67-8c67-4c20-80ba-a6fd10380973"
           },
           "dapAn": "the end of a trip.",
           "isCorrect": true
@@ -616,49 +616,49 @@
     },
     {
       "_id": {
-        "$oid": "eaea55c3-e4bf-4bdb-ae76-509b8a0c7003"
+        "$oid": "77cee8eb-3966-4d70-bac6-f7262591337b"
       },
       "cauHoiNho": [],
       "yNghia": "Để đặt câu có 2 mệnh đề sử dụng liên từ when, ta dùng cấu trúc: <b>Mệnh đề 1 + when + Mệnh đề 2.</b><br />\r\nTa có: <b>I saw this happen </b><i>(Tôi đã chứng kiến điều này diễn ra) </i>là mệnh đề 1, <b>a crew offered to collect all my foreign currency and give it to a charity</b> (<i>một đoàn phim đề nghị thu tất cả số ngoại tệ của tôi và tặng cho một tổ chức từ thiện</i>) là mệnh đề 2.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">I saw this happen when a crew offered to collect all my foreign currency and give it to a charity. </span></b><i>(</i><i>Tôi đã chứng kiến điều này diễn ra khi một đoàn phim đề nghị thu tất cả số ngoại tệ của tôi và tặng cho một tổ chức từ thiện.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "4d88c637-8f64-44e1-af62-654182867eb8"
+            "$oid": "7e9217b2-95ed-4f26-a17e-f46a504093c4"
           },
           "dapAn": "I saw this happen",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "df8a03a7-260b-4431-ab56-a70307442206"
+            "$oid": "e636290d-02f3-44a1-bf3c-95754856f718"
           },
           "dapAn": "when a crew",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "863c6147-b1f6-405e-8e82-6e2887b00aff"
+            "$oid": "9b2b0022-8257-4916-8c65-608323df9ea7"
           },
           "dapAn": "offered to collect",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "ded8bc22-5209-4c61-9b89-20796fe7854b"
+            "$oid": "15f6d3c2-fcd6-41ab-8f0a-fe93464250d5"
           },
           "dapAn": "all my foreign",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "f9b405c7-8dd6-4094-8ab8-cae7e8f303ba"
+            "$oid": "5fa00ae2-a2b4-417a-86cb-e27624ad0cc4"
           },
           "dapAn": "currency and give",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "43a424ec-7be3-4fc9-8f75-0227d785796c"
+            "$oid": "f6ffee90-2e84-4c58-b664-5851bff0d6be"
           },
           "dapAn": "it to a charity.",
           "isCorrect": true
@@ -667,49 +667,49 @@
     },
     {
       "_id": {
-        "$oid": "f637ec9c-7726-4be2-b2de-c7278531ad8a"
+        "$oid": "c7f12a51-140a-4736-925e-2ed4e592f476"
       },
       "cauHoiNho": [],
       "yNghia": "Để kể về một hành động đã xảy ra và kết thúc trong quá khứ, ta dùng cấu trúc: <b>Trạng ngữ , + Chủ ngữ + Động từ (quá khứ đơn) + Tân ngữ + trạng từ</b>.<br />\r\nTa có: <b>we </b><i>(chúng tôi) </i>là chủ ngữ, <b>received </b><i>(đã nhận) </i>là động từ quá khứ đơn, <b>this way </b><i>(theo cách này) </i>là trạng từ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Last year, we received $21,000 this way. </span></b><i>(</i><i>Năm ngoái, chúng tôi đã nhận được 21.000 đô la theo cách này.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "83b5d486-f32f-4181-94df-e5dee26c0d71"
+            "$oid": "e6ede272-eddf-4786-b626-d77eb1ebfd4e"
           },
           "dapAn": "Last year,",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "fb77e4b7-2f75-4aa7-8ae8-f2712d486d40"
+            "$oid": "575d8f1f-65d0-4df8-ad3f-3e2e5adca546"
           },
           "dapAn": "we",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "730aa311-289e-4a42-b308-e53f82515c0e"
+            "$oid": "5de23276-a445-455f-ad05-4c9c63417e2a"
           },
           "dapAn": "received",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "17cca425-3d88-4ffc-91a8-9965ad1d4e39"
+            "$oid": "04ad523f-3c95-4075-b4c5-3ad0f2b2b732"
           },
           "dapAn": 21000,
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "8201ed56-3aa7-4be3-9f3b-274feb6f7cd1"
+            "$oid": "c87e571a-8083-4f6c-8250-68397111daa1"
           },
           "dapAn": "this",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "48cc3275-fc79-4a40-87c4-52c8a79304b9"
+            "$oid": "7b1a283c-cfd4-479b-a6b1-3ca83ed5846a"
           },
           "dapAn": "way.",
           "isCorrect": true
@@ -718,49 +718,49 @@
     },
     {
       "_id": {
-        "$oid": "c851a26f-0123-4925-8270-e4d323416da8"
+        "$oid": "de38236a-7b52-44eb-b620-767d2cb68906"
       },
       "cauHoiNho": [],
       "yNghia": "Để nói rằng cái gì tạo ra sự khác biệt to lớn, ta dùng cấu trúc: <b>Chủ ngữ + make an enormous different in + cụm Danh từ.</b><br />\r\nTa có: <b>Their donations </b><i>(Những đóng góp của họ) </i>là chủ ngữ, <b>lives </b><b>and</b> <b>communities around the world </b><i>(cuộc sống và cộng đồng trên khắp thế giới) </i>là cụm danh từ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">Their donations make an enormous difference in lives and communities around the world. </span></b><i>(</i><i>Những đóng góp của họ tạo ra sự khác biệt to lớn trong cuộc sống và cộng đồng trên khắp thế giới</i><i>.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "167cbdb4-3e09-4c48-b852-9f086671e35f"
+            "$oid": "92303786-79b8-4f7c-9b80-615730c20d03"
           },
           "dapAn": "Their donations",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "d897dadf-3114-42ab-8076-c57ef13151e5"
+            "$oid": "9c71f812-e474-4cff-a722-fe2b77670f26"
           },
           "dapAn": "make an enormous",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "8f78457a-a34f-4c33-b9eb-d06ce76de21f"
+            "$oid": "a0e6dd56-644a-463f-88b3-fba8916ac011"
           },
           "dapAn": "difference",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a332ce5d-a0bf-40e7-87d9-3bca85fda3b8"
+            "$oid": "e589f8ad-13eb-4efe-8030-0f6fb662d9af"
           },
           "dapAn": "in lives and",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "e0055a94-535d-49aa-8f4e-d8fbdc44b304"
+            "$oid": "e1881647-4a4f-4891-be0a-00964ac572ef"
           },
           "dapAn": "communities",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "64484287-eb1e-4a42-96a4-ee918ac24d38"
+            "$oid": "ededb358-74fb-491c-a8a8-350a831d05db"
           },
           "dapAn": "around the world.",
           "isCorrect": true
@@ -769,49 +769,49 @@
     },
     {
       "_id": {
-        "$oid": "575e96c6-5983-46aa-b84e-f17e69d3e79f"
+        "$oid": "8cfbbfe4-f81f-4218-b91f-b357187299bf"
       },
       "cauHoiNho": [],
       "yNghia": "Để diễn tả việc thuê ai đó làm gì, ta dùng cấu trúc: <b>Chủ ngữ + get + Tân ngữ 1 + to + Động từ (nguyên thể) + tân ngữ 2</b>.<br />\r\nTa có: <b>We </b><i>(Chúng tôi) </i>là chủ ngữ, <b>people </b><i>(người) </i>là tân ngữ 1, <b>decorate </b><i>(trang trí)</i><b> </b>là động từ nguyên thể, <b>our departments</b> <i>(căn hộ của chúng tôi)</i> là tân ngữ 2.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">We get people to decorate our apartments. </span></b><i>(</i><i>Chúng tôi thuê người trang trí căn hộ của chúng tôi.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "114ba56e-0922-4697-9cb1-1187d43173fe"
+            "$oid": "6156e177-9dc1-4b6a-868b-af21d193fdf9"
           },
           "dapAn": "We",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "89ccd8d5-dc00-4d43-8b44-9f736d83b731"
+            "$oid": "85ccebe2-0322-4a4b-9933-a0f768056ee3"
           },
           "dapAn": "get",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "abd61ee4-5cd5-4e7e-a720-c6dc3bb7fada"
+            "$oid": "2484a619-b23c-4134-a541-936ad4c42b26"
           },
           "dapAn": "people",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "86744472-f9cc-417c-8ee7-7fb7956750b9"
+            "$oid": "3cec1ad3-4ca2-4a9d-bddd-c3a564970aa0"
           },
           "dapAn": "to decorate",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "5bf1968e-934d-47cf-a9dc-8ec7c57e90c5"
+            "$oid": "1a91e2f7-4a7a-4b64-b7d0-dc14c92c2d2b"
           },
           "dapAn": "our",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "6393fab0-ab45-4fb6-a7d9-60f3fdfbf2d5"
+            "$oid": "b8a27101-7f8a-4256-a791-b766582add05"
           },
           "dapAn": "apartments.",
           "isCorrect": true
@@ -820,49 +820,49 @@
     },
     {
       "_id": {
-        "$oid": "c403c495-2fce-4e38-a3bc-ec95378e2a31"
+        "$oid": "cd018645-18a4-47c8-b4c1-3831cef5d160"
       },
       "cauHoiNho": [],
       "yNghia": "Để diễn tả việc thuê ai đó làm gì với động từ <b>have </b>và <b>get</b>, ta dùng cấu trúc: <b>Chủ ngữ 1 + have + Tân ngữ 1 + Động từ (quá khứ phân từ) 1+ and + Chủ ngữ 2 + get + Tân ngữ 2 + Động từ (quá khứ phân từ) 2</b>.<br />\r\nTa có: <b>We </b><i>(Chúng tôi) </i>là chủ ngữ 1, <b>our groceries </b><i>(hàng tạp hóa) </i>là tân ngữ 1, <b>delivered </b><i>(giao) </i>là động từ quá khứ phân từ 1, <b>we </b><i>(chúng tôi) </i>là chủ ngữ 2, <b>our houses </b><i>(nhà cửa) </i>là tân ngữ 2, <b>cleaned </b><i>(dọn dẹp) </i>là động từ quá khứ quá khứ phân từ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">We have our groceries delivered and we get our houses cleaned. </span></b><i>(</i><i>Chúng tôi đã thuê người giao hàng tạp hóa và chúng tôi cũng thuê người dọn dẹp nhà cửa.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "b0a5f0b2-3010-45de-abc5-892f2d99b234"
+            "$oid": "d6188c12-2a90-4bbb-935d-1ff5e33459f7"
           },
           "dapAn": "We have our",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "cb453fcd-a6aa-4d4f-866f-665c2b8d3ef4"
+            "$oid": "08a6e1ea-6c67-4b22-b3d5-9eb16a2c4cb7"
           },
           "dapAn": "groceries",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "f05c25f4-de8f-4781-9737-aa051200a7e0"
+            "$oid": "c7f3a979-419d-41f1-86c7-e0c8f6cd4a85"
           },
           "dapAn": "delivered",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "e6107063-601e-4bc9-aa92-5639ef8a3ab4"
+            "$oid": "6576fb45-de11-440f-9a32-79b3eb2502cd"
           },
           "dapAn": "and we get",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "51b36e67-cf8d-4c1d-bed1-e753e484b3b2"
+            "$oid": "63f05a95-17c7-4141-aa7e-1a1c6391d49b"
           },
           "dapAn": "our houses",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "354cd984-11be-4518-a49b-aa6cd3a71e3e"
+            "$oid": "2d2edf1c-e0e7-4c30-bf95-9a323abe31cc"
           },
           "dapAn": "cleaned.",
           "isCorrect": true
@@ -871,49 +871,49 @@
     },
     {
       "_id": {
-        "$oid": "62590207-768a-4d3e-82c4-5c24d6d94fc7"
+        "$oid": "3601a0ec-73d6-4af2-bb61-e201098788b7"
       },
       "cauHoiNho": [],
       "yNghia": "Để đặt một câu hỏi diễn tả ý trái ngược với ý trước đó, ta dùng cấu trúc: <b>But + what can + Chủ ngữ + Động từ (nguyên thể) 1 + to + Động từ (nguyên thể) 2 + Tân ngữ</b>.<br />\r\nTa có: <b>ordinary people </b><i>(những người bình thường) </i>là chủ ngữ, <b>do </b><i>(làm) </i>là động từ nguyên thể 1, <b>help</b> <i>(giúp đỡ) </i>là động từ nguyên thể 2, <b>charities</b> <i>(các tổ chức từ thiện)</i> là tân ngữ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">But what can ordinary people do to help charities? </span></b><i>(</i><i>Nhưng những người bình thường có thể làm gì để giúp đỡ các tổ chức từ thiện?</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "7aceb0f9-43d2-4d7e-b34c-abaec7bb0e31"
+            "$oid": "b4a8bb28-962a-4470-a892-b0741a9837be"
           },
           "dapAn": "But",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a334dc01-de41-49ac-866c-16f21f3fc7e7"
+            "$oid": "fae72bfa-779f-4b0a-9a2d-9378f3ad3ab1"
           },
           "dapAn": "what can",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "8ffae3c7-4040-4e79-8c0a-7b0d2ce74285"
+            "$oid": "69ef6180-48e9-4d16-947e-66504c7735b3"
           },
           "dapAn": "ordinary",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "c96fd9d2-462c-460f-b8c2-b4a11480a8e9"
+            "$oid": "5b1605f0-27ae-4878-b8b9-2965be7e50aa"
           },
           "dapAn": "people",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "c8a86055-19f5-4042-9aad-adfbf6d27809"
+            "$oid": "4801e2c4-c881-476b-a34e-9edc9bb70fea"
           },
           "dapAn": "do to help",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "74d001f0-e8d0-4e37-a268-42bb2ace59f1"
+            "$oid": "a0238ab4-1b8b-43cd-9628-3ff87b64b3ef"
           },
           "dapAn": "charities?",
           "isCorrect": true
@@ -922,49 +922,49 @@
     },
     {
       "_id": {
-        "$oid": "4638f3f8-7257-407d-916d-f3fad200619b"
+        "$oid": "c8926069-2003-4b00-8bba-a3f4ba9b2f26"
       },
       "cauHoiNho": [],
       "yNghia": "Để đặt câu với cụm <b>I know</b>, ta dùng cấu trúc: <b>I know + mệnh đề</b>.<br />\r\nTa có: <b>a hotel owner left $12 million to her dog when she died </b><i>(một chủ khách sạn đã để lại 12 triệu đô la cho con chó của cô ấy khi cô ấy qua đời) </i>là mệnh đề.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">I know a hotel owner left $12 million to her dog when she died. </span></b><i>(</i><i>Tôi biết một chủ khách sạn đã để lại 12 triệu đô la cho con chó của cô ấy khi cô ấy qua đời</i><i>.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "a886d06f-ac4f-474f-901b-b98dd3207b8e"
+            "$oid": "e1f30dbf-4244-4356-8ea0-615bd11da408"
           },
           "dapAn": "I know",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "e47e63c6-c713-4f24-82de-ea2f852ed601"
+            "$oid": "4752aa98-656c-4303-b7a2-c44c9ed164ca"
           },
           "dapAn": "a hotel",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a2c57d0d-2094-497e-abd0-06c7b196d026"
+            "$oid": "a5dfd277-2e20-4ae8-aa2f-ef0ed69bdf7d"
           },
           "dapAn": "owner left",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "18c1c82d-2f47-4453-b988-a9b667b82235"
+            "$oid": "e17966dc-e0a1-45a5-b3f4-6feaec875ed3"
           },
           "dapAn": "$12 million to",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "25cafe05-1cfb-4cb8-a635-b1b5c521b70a"
+            "$oid": "f606e864-dd74-40d1-8048-d40e0f3c0a45"
           },
           "dapAn": "her dog when",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "caaf8ff1-5907-4923-bb9b-bbf6f9a32bde"
+            "$oid": "1bf26bbb-5dbd-449f-a4e2-d9083658f44d"
           },
           "dapAn": "she died.",
           "isCorrect": true
@@ -973,49 +973,49 @@
     },
     {
       "_id": {
-        "$oid": "607ca674-2b6f-4de8-9259-55c1db78208b"
+        "$oid": "8ffdbf54-6316-4c3f-a9e1-2a8f61b88159"
       },
       "cauHoiNho": [],
       "yNghia": "Để đặt câu với cụm từ <b>instead of</b>, ta dùng cấu trúc: <b>Mệnh đề + instead + cụm Danh động từ.</b><br />\r\nTa có: <b>We</b> <b>book our own flights online </b><i>(Chúng tôi tự đặt chuyến bay trực tuyến) </i>là mệnh đề getting <b>a travel agent do </b><b>it for us </b><i>(nhờ đại lý du lịch làm việc đó cho mình) </i>là cụm Danh động từ.<br />\r\nCâu hoàn chỉnh là <b><span style=\"color:red\">We</span></b><span style=\"color:red\"> <b>book our own flights online instead of getting a travel agent to do it for us. </b></span><i>(Chúng tôi tự đặt chuyến bay trực tuyến thay vì nhờ đại lý du lịch làm việc đó cho mình.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "4f54ca31-9d72-4612-a5d9-ecc35545bb87"
+            "$oid": "e6a8418d-b7a3-457a-8509-dcd1dce8e15d"
           },
           "dapAn": "We book our",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "0ec7699b-4f88-444b-a3a3-c9bd43aeceac"
+            "$oid": "76e5ed3b-c756-482a-9661-44bc019ce5a6"
           },
           "dapAn": "own flights",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "1a48a52b-2a9e-4a28-bb4e-ae072e2e3779"
+            "$oid": "e39b1afa-9180-48ae-b062-b39e77b47b13"
           },
           "dapAn": "online instead",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "2a45ed1f-b0c6-4587-a54d-688449442bdf"
+            "$oid": "76c2c17a-6b1b-4699-937a-482c1871e467"
           },
           "dapAn": "of getting a",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "153c5c1b-c046-4cd5-bb3a-146087562b5e"
+            "$oid": "7947ab33-9e55-4f51-8a61-f9c3df24410e"
           },
           "dapAn": "travel agent to",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a330fa59-4181-4169-b47c-efef863d54c1"
+            "$oid": "c725a0dc-3fed-4809-a311-208062f6bf75"
           },
           "dapAn": "do it for us.",
           "isCorrect": true

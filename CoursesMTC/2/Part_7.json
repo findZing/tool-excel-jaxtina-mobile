@@ -4,49 +4,49 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "9e9662f3-9e9c-455f-bdea-3946a4278b70"
+        "$oid": "75119e8c-075c-4332-8ff3-c2b02ac7ec28"
       },
       "cauHoiNho": [],
       "yNghia": "Để nói rằng ai thực sự hào hứng về điều gì đó ta dùng cấu trúc: <b>Chủ ngữ + to be +</b> <b>really + excited + about + (cụm) danh từ / danh động từ</b>. Ta có: sau chủ ngữ <b>I</b> là động từ to be <b>am</b> được viết tắt là <b>I'm</b>. Sau giới từ <b>about</b> là cụm danh từ <b>this topic</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">I'm really excited about this topic. </span></b><i>(Tôi thực sự hào hứng với chủ đề này.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "49091ad4-5d7d-452e-a8b8-ef7740935be0"
+            "$oid": "dd4e0dcb-fe35-411a-9ed6-a955aff336a8"
           },
           "dapAn": "I'm",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "f6ff20c2-4a28-4f2c-8e64-c85bebf6302c"
+            "$oid": "fcad0bec-40b0-4f19-8e84-bf0870c9262a"
           },
           "dapAn": "really",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "565167b6-fff5-49f3-9b26-6a181b18cdf6"
+            "$oid": "5f03cdb7-f4d9-4ff3-8f9b-5fac11d335ee"
           },
           "dapAn": "excited",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "fd772357-56c0-48d6-8cb4-e7f8cabd2037"
+            "$oid": "113a82f3-f804-4185-9c73-a2c9f5d42d02"
           },
           "dapAn": "about",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "8a635274-b0c8-4f58-9401-035c6e12cf49"
+            "$oid": "82882890-df4e-47b5-83c0-c1ce59a9f1cd"
           },
           "dapAn": "this",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "e4074f4a-b05c-4cba-b432-8469a43c3023"
+            "$oid": "77b6c0ed-0b64-4953-89fa-32457e2d308d"
           },
           "dapAn": "topic.",
           "isCorrect": true
@@ -55,49 +55,49 @@
     },
     {
       "_id": {
-        "$oid": "3f88dd9b-8b4d-4e65-a3cd-3d01895668c1"
+        "$oid": "3d21d9c6-ffc9-4179-bc39-d6d8a36727f2"
       },
       "cauHoiNho": [],
       "yNghia": "Để nói về hành động vừa xảy ra, ta dùng cấu trúc thì hiện tại hoàn thành: <b>Have + chủ ngữ + just + động từ (phân từ 2) + tân ngữ 1 + giới từ + tân ngữ 2 + mệnh đề quan hệ</b>. Ta có: <b>you </b>là chủ ngữ, <b>written </b>là động từ (phân từ 2), <b>a book </b>là tân ngữ 1, <b>people </b>là tân ngữ 2, <b>who have survived tough situations</b> là mệnh đề quan hệ bổ sung ý nghĩa cho tân ngữ 2 <b>people</b>. Câu hoàn chỉnh là <b><span style=\"color:red\">H</span></b><b><span style=\"color:red\">ave you just written a book on people who have survived tough situations? </span></b><i>(B</i><i>ạn vừa viết một cuốn sách về những người đã sống sót qua những tình huống khó khăn phải không?</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "6520cf60-1943-430f-9d6c-fea98a116438"
+            "$oid": "efc95db0-3b58-4c08-b2de-f2e5a0cb80e3"
           },
           "dapAn": "Have you just",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "db594a96-1ced-4b11-b34b-212ee199596f"
+            "$oid": "3217bf38-746e-4fab-bdfb-86e716e36780"
           },
           "dapAn": "written a book",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "939f3f9f-9362-40c5-9a9b-f4f1c643e737"
+            "$oid": "2c4d17b6-1b95-4b12-a4a8-4876f875ed96"
           },
           "dapAn": "on people who",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "7e5ec980-7ebf-417e-b44a-f4ab3c1bb502"
+            "$oid": "b1bb77c9-94b8-40d8-b69d-c7e00362c99e"
           },
           "dapAn": "have survived",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "7f7d81f8-27bd-44ec-b2c4-53ef1ed89181"
+            "$oid": "293633f1-56c1-471b-bf64-0e905dfaaac7"
           },
           "dapAn": "tough",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "2747fd55-bc10-4aa0-b954-ec8083e83977"
+            "$oid": "132a8b19-f808-4188-95dd-2b928c7e8feb"
           },
           "dapAn": "situations?",
           "isCorrect": true
@@ -106,49 +106,49 @@
     },
     {
       "_id": {
-        "$oid": "fbbb4baf-cf9f-47d9-af05-37064780a439"
+        "$oid": "412d62ac-b484-4d07-a0ee-4aa646943785"
       },
       "cauHoiNho": [],
       "yNghia": "Để<b> </b>diễn tả hai hành động đã xảy ra lần lượt trong quá khứ, ta dùng cấu trúc của thì quá khứ đơn: <b>Chủ ngữ 1 + động từ (quá khứ đơn) 1 + trạng ngữ + and + chủ ngữ 2 + động từ (quá khứ đơn) 2 + tân ngữ</b>. Ta có: <b>travelled to </b>là động từ (quá khứ đơn) 1, <b>many countries </b>là trạng ngữ, <b>heard </b>là động từ (quá khứ đơn) 2, <b>a lot of amazing survival stories </b>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">I travelled to many countries and I heard a lot of amazing survival stories. </span></b><i>(</i><i>Tôi đã đi du lịch đến nhiều quốc gia và tôi đã nghe rất nhiều câu chuyện sinh tồn tuyệt vời.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "4394dde4-b770-4044-88ad-04a2ffbade0a"
+            "$oid": "717a1d00-0111-4c43-a6de-0a3989bcb205"
           },
           "dapAn": "I travelled to",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "44a9f894-68ee-46f5-9db9-31fa75fcf0a7"
+            "$oid": "d420848d-8cec-428d-9a61-24bd3f8bbf40"
           },
           "dapAn": "many countries",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "675f3558-5cb3-40f9-888a-b091efa4195e"
+            "$oid": "788c79af-340f-47cb-a2e5-6e79ed6b58cd"
           },
           "dapAn": "and I heard",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a572bc18-d003-44f7-9ba2-934b7f475c99"
+            "$oid": "faa84fc5-ac1a-4440-9424-df718877397e"
           },
           "dapAn": "a lot of amazing",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "0a3c46a5-c9f2-4be1-8b28-ef8744a6fb08"
+            "$oid": "4014857e-022b-4bb0-9ca2-2d3154001134"
           },
           "dapAn": "survival",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "5e758479-438c-4a7f-964c-de9047839480"
+            "$oid": "897c0432-7498-4d16-9d85-3673ecb7711e"
           },
           "dapAn": "stories.",
           "isCorrect": true
@@ -157,49 +157,49 @@
     },
     {
       "_id": {
-        "$oid": "b48e0cab-b42f-4ee0-a828-ba3f879a0eea"
+        "$oid": "70cfd6ef-fb59-45ee-8aba-6f56f8785504"
       },
       "cauHoiNho": [],
       "yNghia": "Để nói rằng tôi nảy ra ý tưởng làm gì, ta dùng cấu trúc: <b>I came up with the idea + to + động từ (nguyên thể) + tân ngữ</b>. Ta có: <b>write </b>là động từ (nguyên thể), <b>a book </b>là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">I came up with the idea to write a book. </span></b><i>(T</i><i>ôi nảy ra ý tưởng viết một cuốn sách.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "35d47724-b046-4a03-a868-75dd9d723587"
+            "$oid": "0360fa31-5853-4774-bcda-3c3717012186"
           },
           "dapAn": "I",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "2025a374-8fc4-4481-bcb3-c407bee98dde"
+            "$oid": "db38c8aa-dd15-47cf-a807-41a5bf8f7bed"
           },
           "dapAn": "came up",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "f855a3eb-df03-4d49-9adf-301938fa6f9d"
+            "$oid": "2c498e12-3b61-4c2f-9094-8ea67a3f374d"
           },
           "dapAn": "with the",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "4a018152-5ba2-45cf-aa12-3df57d5727a3"
+            "$oid": "1f2a122a-eb7a-4816-af1c-2acc8735d860"
           },
           "dapAn": "idea to",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "ff1effc7-47c6-42d5-8348-1a5d82bff110"
+            "$oid": "b1d6b6e0-30f2-41ba-a471-ba416d47cdbd"
           },
           "dapAn": "write",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "64334bc6-2e43-4e58-b43f-43e9f1467e7d"
+            "$oid": "2365aad7-01fc-4d69-b302-3f37a9360ccf"
           },
           "dapAn": "a book.",
           "isCorrect": true
@@ -208,49 +208,49 @@
     },
     {
       "_id": {
-        "$oid": "36088466-dc81-46f5-9623-af37bc503752"
+        "$oid": "9eed9499-660d-4b1b-bc9b-72347011ae43"
       },
       "cauHoiNho": [],
       "yNghia": "Để diễn tả 1 hành động đang diễn ra trong quá khứ thì có hành động khác chen vào, ta dùng cấu trúc: <b>Trạng ngữ 1 + chủ ngữ 1 + was + động từ (-ing) 1 + trạng ngữ 2 + when + chủ ngữ 2 + động từ (quá khứ đơn) 2 + tân ngữ</b>. Ta có: <b>In 1971 </b>là trạng ngữ 1, <b>she </b>là chủ ngữ 1, <b>flying over </b>là động từ (-ing) 1, <b>the Amazonian rain forest </b>là trạng ngữ 2,<b> lightning </b>là chủ ngữ 2, <b>hit </b>là động từ (quá khứ đơn), <b>the plane </b>là tân ngữ.<b> </b>Câu hoàn chỉnh là <b><span style=\"color:red\">In 1971, she was flying over the Amazonian rain forest when lightning hit the plane. </span></b><i>(</i><i>Năm 1971, cô ấy đang bay qua rừng mưa nhiệt đới Amazon thì bị sét đánh trúng máy bay.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "f09b65b6-2791-4ad6-8ad9-2324f5d2d739"
+            "$oid": "fea7c989-235d-4c25-98a9-44b2fe6c0cf0"
           },
           "dapAn": "In 1971, she",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a596c637-7e62-4d80-8977-0ecf635b8b21"
+            "$oid": "e559a14f-0963-477b-aacc-c490f20645cc"
           },
           "dapAn": "was flying over",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "70c0cb1f-b0ec-42b8-8035-bd3f35d7f369"
+            "$oid": "368eec65-3dcd-4dd0-a673-f47d74157007"
           },
           "dapAn": "the Amazonian",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "d781021b-8556-46aa-82e1-31ce9a750ac2"
+            "$oid": "3fb671a0-41bf-4777-b843-6123ee549618"
           },
           "dapAn": "rain forest",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "f5470750-0cfb-47b1-9844-13c3b1e12e26"
+            "$oid": "6d80c100-a154-4ccc-8705-591340453db6"
           },
           "dapAn": "when lightning",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "e42e0f08-7398-4659-8a4a-e190e54abf93"
+            "$oid": "f7756fe9-f4ed-4be4-b7fd-522afb1e1f08"
           },
           "dapAn": "hit the plane.",
           "isCorrect": true
@@ -259,49 +259,49 @@
     },
     {
       "_id": {
-        "$oid": "2137fdcd-9982-466b-a0e4-03510e228379"
+        "$oid": "2c83e82e-797d-4461-af3a-33540928ff1d"
       },
       "cauHoiNho": [],
       "yNghia": "Để diễn tả hai hành động đã xảy ra lần lượt trong quá khứ, ta dùng cấu trúc của thì quá khứ đơn: <b>Chủ ngữ 1 + động từ (quá khứ đơn) 1 + trạng ngữ 1+ and + chủ ngữ 2 + động từ (quá khứ đơn) 2 + trạng ngữ 2</b>. Ta có: <b>broke up </b>là động từ (quá khứ đơn) 1, <b>at a height of 3200 meters</b> là trạng ngữ 1, <b>fell </b>là động từ (quá khứ đơn) 2, trạng ngữ <b>all that way </b>và<b> in her seat </b>là trạng ngữ 2. Câu hoàn chỉnh là <b><span style=\"color:red\">The plane broke up at a height of 3200 meters, and Juliane fell all that way in her seat! </span></b><i>(</i><i>Máy bay bị vỡ ở độ cao 3200 mét, và Juliane cứ thế rơi xuống đất!</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "3d780759-3f99-4458-aed1-d811f1202754"
+            "$oid": "0baea6d8-34a5-4602-8118-8a8579b29e8b"
           },
           "dapAn": "The plane broke",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "13a8fa46-8ef1-4545-b87c-d2f784a4ee41"
+            "$oid": "d5b59897-d26c-4abd-9843-71cd74987337"
           },
           "dapAn": "up at a height",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "5163280a-002f-4cb7-8a61-cad7c3f42605"
+            "$oid": "b673bd34-b4af-4df6-b833-3325bf60bab5"
           },
           "dapAn": "of 3200 meters,",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "1960ffbe-83f1-424b-ab1d-3cf8d3387dcd"
+            "$oid": "97bcc6fc-bea0-4c15-b8ba-7261bb5f08e8"
           },
           "dapAn": "and Juliane fell",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "7bdda871-5b43-419c-bd52-d5e884dff211"
+            "$oid": "c7e43982-63a3-443b-b6d7-45ba46f0ecff"
           },
           "dapAn": "all that way",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "98a13639-3e88-4843-a293-f7bee606853c"
+            "$oid": "f7b1f4df-9c99-4b1e-b926-9b2789e90e41"
           },
           "dapAn": "in her seat!",
           "isCorrect": true
@@ -310,49 +310,49 @@
     },
     {
       "_id": {
-        "$oid": "2eeb1d86-8c2e-4c51-97ce-c3aaf5b4ea74"
+        "$oid": "4ee79e3a-5e76-444c-a633-eef4fd4dddd1"
       },
       "cauHoiNho": [],
       "yNghia": "Để tạo câu hỏi đuôi với thì quá khứ đơn, ta dùng cấu trúc: <b>Chủ ngữ + động từ (quá khứ đơn) + trạng ngữ + didn't + đại từ nhân xưng</b>. Ta có: <b>She </b>là chủ ngữ,<b> survived </b>là động từ (quá khứ đơn), <b>after falling </b>là trạng ngữ,<b> she </b>là đại từ nhân xưng của chủ ngữ.<b> </b>Câu hoàn chỉnh là <b><span style=\"color:red\">She survived after falling, didn't she? </span></b><i>(C</i><i>ô ấy đã sống sót sau khi rơi xuống, phải không?</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "302ddbf1-f62e-42fd-a2de-3602ba5e5fcd"
+            "$oid": "3dd034bd-8688-434d-8327-beaf8c1de210"
           },
           "dapAn": "She",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "3497b784-ef81-4e44-99ed-3430d2404743"
+            "$oid": "43e11a14-09c8-49ad-a656-1a8495d42416"
           },
           "dapAn": "survived",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "08f2a2c4-f777-410c-8180-d2fe04f8ca2d"
+            "$oid": "9cd03a68-fe6b-4f75-b7c4-545b3b9eb8d8"
           },
           "dapAn": "after",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "bc3f768a-e821-45cd-8e23-7fb4333d396a"
+            "$oid": "84f1f76b-ddbd-455a-919f-d6fcbb84104a"
           },
           "dapAn": "falling,",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "cd790838-3524-47ea-b376-13e14ac25fc1"
+            "$oid": "9e5d459f-2d9f-4d68-9836-f25e2a7e706a"
           },
           "dapAn": "didn't",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "7e8ff2f5-9d7d-4c8e-99b0-cd63ce61a894"
+            "$oid": "3a03c76f-8d05-47a4-bc2d-32500230ace7"
           },
           "dapAn": "she?",
           "isCorrect": true
@@ -361,49 +361,49 @@
     },
     {
       "_id": {
-        "$oid": "6d40905a-c8ef-4464-b3e0-a64b8ac40971"
+        "$oid": "a73f70f6-9e63-464d-aed4-d99d2c1c094d"
       },
       "cauHoiNho": [],
       "yNghia": "Để nói khi ai đó làm hành động gì đó tiếp sau một hành động trong quá khứ, ta dùng cấu trúc: <b>Trạng ngữ + once + chủ ngữ 1 + động từ (quá khứ đơn) 1 + chủ ngữ 2 + động từ (quá khứ đơn) 2 + tân ngữ 1 + and + động từ (quá khứ đơn) 3 + tân ngữ 2</b>. Ta có: <b>Luckily</b> là trạng ngữ,<b> </b><b>crash-landed </b>là động từ (quá khứ đơn) 1, <b>found</b> là động từ (quá khứ đơn) 2, <b>a stream </b>là tân ngữ 1, <b>followed</b> là động từ (quá khứ đơn) 3, <b>it </b>là tân ngữ 2. Câu hoàn chỉnh là <b><span style=\"color:red\">Luckily, once she crash-landed, she found a stream and followed it. </span></b><i>(</i><i>May mắn thay, khi rơi xuống đất, cô ấy đã tìm thấy một con suối và đi theo nó.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "abe086e0-f60b-4871-b2c0-83d833b3c46b"
+            "$oid": "d818fc93-e61b-4967-a30b-d7e37866551e"
           },
           "dapAn": "Luckily,",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "8c7d82da-b112-4683-a213-c1885e1134d5"
+            "$oid": "c1b60d62-998e-43dd-8725-01de9ee96632"
           },
           "dapAn": "once she",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "7a57fae3-994a-472d-bca5-1942633322f3"
+            "$oid": "4c3ccfe3-39c5-40bd-bfa0-8b848240412b"
           },
           "dapAn": "crash-landed,",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "f4002af1-eb6f-4633-9346-7390ae2a5430"
+            "$oid": "795c6c82-a645-473f-8637-709de23a1298"
           },
           "dapAn": "she found",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "24a36268-ff9e-4ba6-86ab-42a313cc4b51"
+            "$oid": "7153bccb-171f-4fec-84e2-1dd3af7f99e8"
           },
           "dapAn": "a stream and",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "91f6560f-9cbf-455a-8a89-6d2c588f4417"
+            "$oid": "a2240728-850f-4887-a7cc-40d88cbd5326"
           },
           "dapAn": "followed it.",
           "isCorrect": true
@@ -412,49 +412,49 @@
     },
     {
       "_id": {
-        "$oid": "3a3f4e84-2ed9-4c54-b5f5-8ed7492a9d7d"
+        "$oid": "16ac4cab-0632-4a05-ae8f-04885a3a411e"
       },
       "cauHoiNho": [],
       "yNghia": "Để nói ai đó được tìm thấy, ta dùng cấu trúc: <b>Trạng ngữ + chủ ngữ + was + </b><b>discovered</b>. Ta có: <b>After nine days </b>là trạng ngữ, <b>she </b>là chủ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">After nine days, she was discovered. </span></b><i>(</i><i>Sau chín ngày, cô được phát hiện.</i><i>).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "a2ceab4e-b776-450b-8ab2-9730a62e8bcb"
+            "$oid": "b0c367aa-9678-46f0-8dde-a3f3ec5bb68f"
           },
           "dapAn": "After",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "45e7c0dd-c7d8-4cb3-8fe3-8e3aa8aec619"
+            "$oid": "80a34744-ce59-49aa-8a54-b820836dc559"
           },
           "dapAn": "nine",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "42b62e01-47ab-4f4f-9c60-8a87d9f8b55e"
+            "$oid": "06651dd0-0c6b-4942-a65d-c67eb1cca836"
           },
           "dapAn": "days,",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "26d907f7-2bd8-4759-9318-b1deea90cd3a"
+            "$oid": "f85276a7-1e3f-4384-a10f-df133c7a3024"
           },
           "dapAn": "she",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "2e46449f-63cb-4a5d-b000-4700612b1e69"
+            "$oid": "7d7dd829-a591-4b9f-afb5-85f528bb8d5e"
           },
           "dapAn": "was",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "1f8991a3-1a9d-4b27-a9e8-ee5c808a3657"
+            "$oid": "544518f4-1502-477c-8524-de5978c201cb"
           },
           "dapAn": "discovered.",
           "isCorrect": true
@@ -463,42 +463,42 @@
     },
     {
       "_id": {
-        "$oid": "34b45c9b-72cf-4b7b-8b40-08431e2a117b"
+        "$oid": "bdfd15e9-e9ba-460c-919e-a5ac73741537"
       },
       "cauHoiNho": [],
       "yNghia": "Để<b> </b>tạo câu hỏi đuôi ở thì hiện tại đơn với động từ to be ta dùng cấu trúc: <b>Chủ ngữ + are + tính từ, aren't + đại từ nhân xưng</b>. Ta có: <b>Chimpanzees </b>là chủ ngữ,<b> intelligent </b>là tính từ,<b> they </b>là đại từ nhân xưng tương ứng của chủ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">Chimpanzees are intelligent, aren't they? </span></b><i>(Tinh tinh thông minh, phải không?).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "dcda3e43-65c6-45d4-9912-44bbfaa0f310"
+            "$oid": "d3cd3672-ce3d-47b2-880f-a0418f730fc6"
           },
           "dapAn": "Chimpanzees",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a33b5259-5200-4214-8853-98ee8325c473"
+            "$oid": "64130972-03ae-4527-b6f1-dc92390d5eb9"
           },
           "dapAn": "are",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "eab294ac-36e6-4f12-9a00-7fc282b5dfe6"
+            "$oid": "0f57964b-a0d6-454e-9347-122014605fdf"
           },
           "dapAn": "intelligent,",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "fdd07676-5560-4201-b113-71cf3a162082"
+            "$oid": "6f18ad37-6bfa-4c6b-9d0e-2c4b436fecd5"
           },
           "dapAn": "aren't",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "b7ce82e4-1dcf-47ba-b43a-7623ea537f35"
+            "$oid": "8db9f2eb-2f29-4010-b905-d815b9702e46"
           },
           "dapAn": "they?",
           "isCorrect": true
@@ -507,42 +507,42 @@
     },
     {
       "_id": {
-        "$oid": "a42dbd07-a4dc-47cc-aeee-0ac55685dd0f"
+        "$oid": "e129e5e9-4e2f-44b2-a626-eab1ac7566f3"
       },
       "cauHoiNho": [],
       "yNghia": "Để<b> </b>tạo câu hỏi đuôi với thì hiện tại đơn ta dùng cấu trúc: <b>Chủ ngữ + are + tính từ, aren't + đại từ nhân xưng</b>. Ta có: <b>Your pets </b>là chủ ngữ,<b> interesting</b> là tính từ,<b> they </b>là đại từ nhân xưng tương ứng của chủ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">Your pets are interesting, aren't they? </span></b><i>(Thú cưng của bạn thật thú vị, phải không?).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "d0ddbd0f-f840-476f-93d3-aac3b8471ae6"
+            "$oid": "5731f879-83bc-48b3-a9c8-89a6625c425f"
           },
           "dapAn": "Your",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "8d005fb9-1ff5-4e92-b9a9-31ab98607799"
+            "$oid": "ab06a030-4973-458b-a305-1de2b251315c"
           },
           "dapAn": "pets",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "6758afc5-8072-4fe5-a6dd-204ac1a3ce36"
+            "$oid": "2ca27949-01eb-44b4-a7ef-a2e90748eb36"
           },
           "dapAn": "are",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "e453126e-4ae5-410b-87c2-aef69a8446be"
+            "$oid": "e5914e0f-4a96-4dcc-be07-bde204c8b9e7"
           },
           "dapAn": "interesting,",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "5a87bb63-08db-45a1-9fd0-1f0956043140"
+            "$oid": "f595a4cc-5677-4028-93f2-b4575f8ab1b8"
           },
           "dapAn": "aren't they?",
           "isCorrect": true
@@ -551,49 +551,49 @@
     },
     {
       "_id": {
-        "$oid": "72e4e561-87a6-46f6-ba5c-d861c69e9478"
+        "$oid": "aa5991db-7bd0-4d41-9b88-d412aa090eb2"
       },
       "cauHoiNho": [],
       "yNghia": "Để tạo câu có phần bổ ngữ cho chủ ngữ là mệnh đề quan hệ của thì hiện tại hoàn thành ta dùng cấu trúc: <b>Trạng ngữ + chủ ngữ + that + have + động từ (phân từ 2) + tân ngữ + are + danh từ</b>. Ta có: <b>So far </b>là trạng ngữ,<b> the species </b>là chủ ngữ, <b>passed </b>là động từ (phân từ 2), <b>the test </b>là tân ngữ, <b>great apes </b>và<b> elephants</b> là các danh từ. Câu hoàn chỉnh là <b><span style=\"color:red\">So far, the species that have passed the test are great apes, elephants. </span></b><i>(Cho đến nay, các loài đã vượt qua bài kiểm tra là loài vượn lớn, voi.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "9166156a-28e7-4c29-87fb-a5b2ffefbd2a"
+            "$oid": "ba88defd-4a39-4753-ba1f-2c4fed0ba7bb"
           },
           "dapAn": "So far, the",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "94b1e5f4-bef5-45d6-af17-5361ef0aa830"
+            "$oid": "6f19ac98-89a1-4de6-8216-0910f07f59ae"
           },
           "dapAn": "species that",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "44f629a9-c1b8-4e12-890f-36d0c05a5ee4"
+            "$oid": "8f0e8424-372a-4659-b55d-1af80683cf8f"
           },
           "dapAn": "have passed",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "b282fdee-d20e-4825-b9d7-92da05b0b428"
+            "$oid": "3353a9ad-d864-451d-abbe-f81e8c448ec2"
           },
           "dapAn": "the test are",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "8a1bf3b2-55bb-46f0-a2db-3c9740d4f02b"
+            "$oid": "46939cec-5b8a-4b7f-8654-204a4aedd5c4"
           },
           "dapAn": "great apes,",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "5db2633c-2965-4e29-a355-19c8458dac2a"
+            "$oid": "d61da441-b63a-4a37-b788-29ba9a3b60d3"
           },
           "dapAn": "elephants.",
           "isCorrect": true
@@ -602,49 +602,49 @@
     },
     {
       "_id": {
-        "$oid": "b02a2775-0888-4eb1-b4a7-e5c947c8d8ca"
+        "$oid": "a06b082d-9f8a-4107-ab46-d7d752681831"
       },
       "cauHoiNho": [],
       "yNghia": "Để nói rằng cái gì là hữu ích để làm gì ta dùng cấu trúc: <b>Chủ ngữ + </b><b>is useful for + danh động từ + trạng ngữ</b>. Ta có: <b>The flashlight </b>là chủ ngữ, <b>signaling </b>là danh động từ, <b>at night</b> là trạng ngữ.<b> </b>Câu hoàn chỉnh là <b><span style=\"color:red\">The flashlight is useful for signaling at night. </span></b><i>(Đèn pin rất hữu ích để phát tín hiệu vào ban đêm.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "850b1bfb-7941-441c-aa07-0ff78fbcfa62"
+            "$oid": "4cd1604e-2a7a-481b-aee5-4d36763dbf09"
           },
           "dapAn": "The",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "f7f688e3-9f4d-41b8-acb2-0c6dd233a21a"
+            "$oid": "4857ca63-c9c5-457b-acd8-5d02240caffd"
           },
           "dapAn": "flashlight",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "ed487a15-0862-4b45-b013-60f95dc80f52"
+            "$oid": "a4cd4b0d-6d33-494d-b89c-4689a8eb9e09"
           },
           "dapAn": "is useful",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "c0c235dc-7523-4f7d-b828-7df9f97beb83"
+            "$oid": "8961726b-dfa8-4552-994c-ca872dd1c8ec"
           },
           "dapAn": "for",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "4986b57b-26ba-439a-a795-bfd0a5b7db76"
+            "$oid": "e6d0abda-2176-422c-a7b8-6af2db22ca8e"
           },
           "dapAn": "signaling",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "12133446-70c8-4c42-999c-657fb0a7b063"
+            "$oid": "550fe2f3-0fd5-4045-857f-b3b6a92b01ca"
           },
           "dapAn": "at night.",
           "isCorrect": true
@@ -653,49 +653,49 @@
     },
     {
       "_id": {
-        "$oid": "ecd14eea-c26a-43ef-880c-41f824ac04b2"
+        "$oid": "f1df08d6-783f-4d8c-bb11-4641f2d7ae69"
       },
       "cauHoiNho": [],
       "yNghia": "Để tạo câu có 2 mệnh đề liên kết với nhau bằng <b>so</b>, ta dùng cấu trúc: <b>Mệnh đề 1 + so + mệnh đề 2</b>. Ta có: <b>We give the animal medicine</b> là mệnh đề 1, <b>it goes to sleep</b> là mệnh đề 2. Câu hoàn chỉnh là <b><span style=\"color:red\">We give the animal medicine so it goes to sleep. </span></b><i>(Chúng tôi cho con vật uống thuốc để nó đi ngủ.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "df8776fb-7678-4421-ae2c-fd5d0897049b"
+            "$oid": "6cf038a1-26ff-463e-af8d-be1f732488b2"
           },
           "dapAn": "We give",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "8c6aae6f-0762-45bf-8525-fdfbef5166db"
+            "$oid": "e8ab24ec-ee81-47af-91f7-4c5305beb73b"
           },
           "dapAn": "the animal",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "074beb9a-f758-47e0-9b19-107eb9ec83f6"
+            "$oid": "482ca306-28f3-495a-965d-02cfe99e28b0"
           },
           "dapAn": "medicine",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "4facc221-f5b1-4fe9-959c-e5c631d5a595"
+            "$oid": "97361844-5916-4694-a644-f00d9f0ffe64"
           },
           "dapAn": "so",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a749d042-1cb8-4758-8682-b6b37e18f716"
+            "$oid": "87e9cbe1-5a5d-4eb0-b005-4fb324b5099e"
           },
           "dapAn": "it goes",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "cfd5c085-7e64-4a81-a34d-46f23106c30b"
+            "$oid": "c3caf497-f933-40b5-a468-e1df96903920"
           },
           "dapAn": "to sleep.",
           "isCorrect": true
@@ -704,49 +704,49 @@
     },
     {
       "_id": {
-        "$oid": "32a1017a-7f40-45bd-9fed-b802668a62a5"
+        "$oid": "cc2cb03f-334a-46a3-a007-b8daacf6b206"
       },
       "cauHoiNho": [],
       "yNghia": "Để nói rằng không có ai nghĩ rằng điều gì đó xảy ra, ta dùng cấu trúc: <b>No one thought that + chủ ngữ + động từ (quá khứ đơn) + tân ngữ</b>. Ta có: <b>there </b>là chủ ngữ, <b>were </b>là<b> </b>động từ (quá khứ đơn),<b> any survivors</b> là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">No one thought that there were any survivors. </span></b><i>(Không ai nghĩ rằng có người sống sót.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "1deef4da-0001-484e-9d11-58453865fe09"
+            "$oid": "01df85c2-1fa3-46a3-9429-74045d760fbc"
           },
           "dapAn": "No one",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "83a8829e-95e2-466a-acd5-83e89d7a1833"
+            "$oid": "0fe5d60b-c24f-4f5b-aee6-773d7dee0cee"
           },
           "dapAn": "thought that",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "e5821054-51b3-4e9d-aa0a-62f5f60e540b"
+            "$oid": "681b8db4-b486-442f-9bf5-974a6ce70ced"
           },
           "dapAn": "there",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "93a4d0d8-5ae5-4b54-9780-ae66b97ec8ac"
+            "$oid": "da1063fc-6e76-4619-bbf7-7a2a9e52119c"
           },
           "dapAn": "were",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "485e9dd3-e029-4de8-86ec-77040b19e6e5"
+            "$oid": "b8503503-4f28-428a-bfb5-177ff5c7b8b6"
           },
           "dapAn": "any",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "298311b4-3d3e-413b-b282-032487db92a7"
+            "$oid": "07311570-5e06-40f9-a5ed-a0496142f439"
           },
           "dapAn": "survivors.",
           "isCorrect": true
@@ -755,49 +755,49 @@
     },
     {
       "_id": {
-        "$oid": "4377a0a2-801c-4e01-a919-45a5431a52f2"
+        "$oid": "3d5e1f57-43ca-4a90-b108-c0bf3478f909"
       },
       "cauHoiNho": [],
       "yNghia": "Để diễn tả hai hành động đã xảy ra lần lượt trong quá khứ, ta dùng cấu trúc của thì quá khứ đơn: <b>Trạng ngữ +</b> <b>chủ ngữ 1 + động từ (quá khứ đơn) 1 + trạng ngữ 1 + tính từ + and + chủ ngữ 2 + couldn't + động từ (nguyên thể) 2 + tân ngữ</b>. Ta có: <b>At a depth of 30 meters </b>là trạng ngữ,<b> it </b>là chủ ngữ 1, <b>was </b>là động từ (quá khứ đơn), <b>he </b>là chủ ngữ 2, <b>see </b>là động từ (nguyên thể), <b>anything </b>là tân ngữ.<b> </b>Câu hoàn chỉnh là <b><span style=\"color:red\">At a depth of 30 meters, it was completely dark and he couldn't see anything. </span></b><i>(Ở độ sâu 30 mét, trời tối mịt và anh không thể nhìn thấy gì.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "216a9d1b-2fb1-431d-b945-98159ca23da4"
+            "$oid": "e680563a-ed9a-4fac-853b-c9e74467667e"
           },
           "dapAn": "At a depth of",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "6e6951fe-90b3-4840-810b-110cb419fdc4"
+            "$oid": "ddb94569-e1f2-476f-be78-41a79ded4c9e"
           },
           "dapAn": "30 meters, it",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "222cae56-f4ef-41d8-a36a-b3e056f3617b"
+            "$oid": "4cc2b080-6050-4637-9f3a-7407d5021e06"
           },
           "dapAn": "was completely",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "426564ef-6008-4b6f-b63c-92fef9d5d5b1"
+            "$oid": "bf927752-a2be-4b89-8ee8-a35b98ec903d"
           },
           "dapAn": "dark and he",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "7bf4347d-a1fc-46cc-8f2e-0dca995ffe3a"
+            "$oid": "6828a393-20b0-45b2-86e1-41d1f58da0a0"
           },
           "dapAn": "couldn't see",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "e9738396-23e4-489b-9666-0e08ff6d471f"
+            "$oid": "d6685199-5fc4-46b5-bdbe-913669616607"
           },
           "dapAn": "anything.",
           "isCorrect": true
@@ -806,49 +806,49 @@
     },
     {
       "_id": {
-        "$oid": "01046fcb-1ad5-428e-af41-86a70dd313c4"
+        "$oid": "bee919d4-946b-4c15-8356-357076f5d90b"
       },
       "cauHoiNho": [],
       "yNghia": "Để nói rằng ai đó biết rằng mình cần làm gì, ta dùng cấu trúc: <b>Chủ ngữ + knew that + chủ ngữ + needed to + động từ (nguyên thể) + tân ngữ</b>. Ta có: <b>He </b>là chủ ngữ, <b>find </b>là động từ (nguyên thể), <b>a safe space</b> là tân ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">He knew that he needed to find a safe space. </span></b><i>(Anh biết rằng mình cần phải tìm một chỗ an toàn.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "628cb937-ccc0-4733-8cd5-78aa68662d86"
+            "$oid": "592191d4-a24f-492f-bf6a-7b4f64f4bf21"
           },
           "dapAn": "He knew that",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "074a6324-35f4-4aaa-be51-32755271e226"
+            "$oid": "672bd1f9-4a59-4485-af87-f434225010df"
           },
           "dapAn": "he",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "1cd0a417-2f2b-43eb-ad55-85045337b196"
+            "$oid": "ab877b35-1cf8-4c07-83be-f0e17c56cf9d"
           },
           "dapAn": "needed",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "1ec7be41-ef95-4ad9-a185-49cf90742132"
+            "$oid": "e7261954-b833-45ed-a3cf-e42febf5af90"
           },
           "dapAn": "to find",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "24fca493-b993-4184-b1d2-d61f0fd0b4bf"
+            "$oid": "09096c6e-1a7a-4572-8f9b-0bac3c86e2c3"
           },
           "dapAn": "a safe",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "ccdfd584-7d1c-43aa-987c-6076f5f023d4"
+            "$oid": "38c86f46-c340-4652-b55c-3722564da0d3"
           },
           "dapAn": "space.",
           "isCorrect": true
@@ -857,49 +857,49 @@
     },
     {
       "_id": {
-        "$oid": "5125d3d5-0fe9-4249-81f7-4834fe1eac46"
+        "$oid": "d52fe5fd-8251-4d9c-a5ac-b097c1c7a965"
       },
       "cauHoiNho": [],
       "yNghia": "Để tạo câu hỏi đuôi với động từ khiếm khuyết <b>can</b>, ta dùng cấu trúc: <b>Chủ ngữ + can + be + động từ (phân từ 2) + tân ngữ + can't + đại từ nhân xưng</b>. Ta có: <b>Dolphins </b>là chủ ngữ,<b> </b><b>taught </b>là động từ (phân từ 2), <b>tricks</b> là tân ngữ,<b> </b><b>they</b> là đại từ nhân xưng của chủ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">Dolphins can be taught tricks, can't they? </span></b><i>(Cá heo có thể được dạy các mẹo, phải không?).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "56c39529-11a3-4a27-add2-9f5d7c07e88b"
+            "$oid": "67c395b3-7c01-4e0e-83a9-861388eecb04"
           },
           "dapAn": "Dolphins",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "2243106b-9458-45a7-8965-6127d2359538"
+            "$oid": "5a0e3ce0-e3a2-4149-a9cf-1a84e4dbcb72"
           },
           "dapAn": "can be",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "0f489f42-9445-4851-a7c5-74097cd06c4c"
+            "$oid": "85bb703f-9506-422c-b25b-c916a982454c"
           },
           "dapAn": "taught",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "1902d13f-ad25-4aef-9947-7108d2c8d1f1"
+            "$oid": "3c02b90a-1cdd-431c-b9b6-2ee43d5a1c9c"
           },
           "dapAn": "tricks,",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "84f9e9d0-c44c-432c-a297-52919ae90d91"
+            "$oid": "0c09fc2f-d9ac-4299-a9c7-edb66475c906"
           },
           "dapAn": "can't",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "520a8d06-baf7-46a4-b4fe-fafd7661a2f2"
+            "$oid": "5074d741-e889-4ead-a659-2e0b02e16b6b"
           },
           "dapAn": "they?",
           "isCorrect": true
@@ -908,49 +908,49 @@
     },
     {
       "_id": {
-        "$oid": "1fe5e882-b321-4e92-8dcb-0065939bafd3"
+        "$oid": "0181a651-0728-4824-863c-fc6d4689acbe"
       },
       "cauHoiNho": [],
       "yNghia": "Để đặt câu với mệnh đề danh từ ta dùng cấu trúc:<b> Chủ ngữ + is + mệnh đề danh từ 1 + and + mệnh đề danh từ 2</b>. Ta có: <b>Animal behavior </b>là chủ ngữ, <b>the way it acts </b>là mệnh đề danh từ 1,<b> the things it does</b> là mệnh đề danh từ 2. Câu hoàn chỉnh là <b><span style=\"color:red\">Animal behavior is the way it acts and the things it does. </span></b><i>(Hành vi của động vật là cách nó hành động và những việc nó làm.).</i>",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "d0d20c87-f64f-4871-9585-0a08232ef19a"
+            "$oid": "cd0731fd-1493-41a2-a313-8eb5e0b73b25"
           },
           "dapAn": "An animal's",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "f3e77c4b-f0ce-46e4-991c-90a35657f0c8"
+            "$oid": "70234387-95e7-4ec6-b765-53ca7643e103"
           },
           "dapAn": "behavior is",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "07f6122c-1f6e-413e-ba73-016a780ce9ba"
+            "$oid": "d9a37b34-6a12-499d-8ebe-9974a54e89e7"
           },
           "dapAn": "the way it",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "f1693edc-768b-4e58-9e9d-d3db562f656d"
+            "$oid": "76e082c5-71b2-42d3-aa1d-965d53a7a29e"
           },
           "dapAn": "acts and",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "643a9ce9-654e-4b6e-84f5-ffa737048b0a"
+            "$oid": "521fae7e-130e-47bf-9503-a593ffb3c249"
           },
           "dapAn": "the things",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "08b5b588-06ba-435c-b533-361de0e9cf06"
+            "$oid": "5f6a290d-a569-4c57-846b-c207df331de2"
           },
           "dapAn": "it does.",
           "isCorrect": true
@@ -959,42 +959,42 @@
     },
     {
       "_id": {
-        "$oid": "c21beda9-774a-4aec-bb52-1f337642ff80"
+        "$oid": "80a023d2-6afe-4ecb-b3a5-2a0809a9d196"
       },
       "cauHoiNho": [],
       "yNghia": "Để tạo câu hỏi đuôi với động từ khiếm khuyết <b>can</b>, ta dùng cấu trúc: <b>Chủ ngữ + can + động từ (nguyên thể) + can't + đại từ nhân xưng</b>. Ta có: <b>Your parrots </b>là chủ ngữ,<b> </b><b>talk</b> là động từ (nguyên thể), <b>they</b> là đại từ nhân xưng của chủ ngữ. Câu hoàn chỉnh là <b><span style=\"color:red\">Your parrots can talk, can't they? </span></b><i>(Con vẹt của bạn có thể nói chuyện, phải không?).</i><br />",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "46b6ca5e-2cc8-4956-87a3-78079e3f2139"
+            "$oid": "b4293776-41f4-4219-86a0-5bf93a03b67e"
           },
           "dapAn": "Your",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "3307d057-4991-4f73-b0fe-57feacdad039"
+            "$oid": "d5f71be5-e789-41ee-913b-a6b8bf63b0c7"
           },
           "dapAn": "parrots",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "0cbfb111-1b66-4862-a34f-81b01b3279dd"
+            "$oid": "3a4becee-20f5-42fa-b6cd-36536e5e3fac"
           },
           "dapAn": "can talk,",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "d1564a9d-90b3-46ca-9d9d-db997a6c069e"
+            "$oid": "4176f2cb-236b-4c68-b449-9a8e17b39c2f"
           },
           "dapAn": "can't",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "fa66c965-bb9b-427b-afb0-d5de1d052e32"
+            "$oid": "e03c9558-891b-4b40-ac06-2d982f2e48bc"
           },
           "dapAn": "they?",
           "isCorrect": true

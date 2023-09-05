@@ -4,7 +4,7 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "98492a14-d78e-4a42-aa80-051a572081ce"
+        "$oid": "b2f99523-ae64-40e9-80c3-851509cca3fc"
       },
       "cauHoiNho": [],
       "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Carmen:</b></td> \n                        <td>Do you know what AI means?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Henry:</b></td> \n                        <td>AI is <b>(1) </b>_________ Intelligence<i>.</span></i></td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Carmen:</b></td> \n                        <td>Correct. An expert system is a <b>(2)</b> _________ program using AI to solve <b>(3)</b> _________. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Henry:</b></td> \n                        <td>Got it. How does it work?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Carmen:</b></td> \n                        <td>It uses a database of knowledge together with rules to export <b>(4)</b> _________ solutions. </td>\n                </tr>\n        </tbody>\n</table>",
@@ -14,35 +14,35 @@
           "dapAn": "Artificial",
           "isCorrect": true,
           "_id": {
-            "$oid": "252964ac-8d67-4d7e-97d3-d994e522a5a0"
+            "$oid": "6c4222db-dd28-415b-b429-4499f4bc7528"
           }
         },
         {
           "dapAn": "computer",
           "isCorrect": true,
           "_id": {
-            "$oid": "cbc4910a-5d8e-442b-9882-4ed2c766f9df"
+            "$oid": "c6c845f9-63f6-44de-b95c-081dbd31ff1e"
           }
         },
         {
           "dapAn": "problems",
           "isCorrect": true,
           "_id": {
-            "$oid": "419f17b7-0ff2-48a8-be9a-9a96a2c5ec68"
+            "$oid": "46f9daf3-2d47-4330-bb8e-a7892cc1e56c"
           }
         },
         {
           "dapAn": "suggested",
           "isCorrect": true,
           "_id": {
-            "$oid": "b45a09c7-2006-4461-a8cf-f1ac39b5c21a"
+            "$oid": "57424038-06ab-46ec-8a5d-87326fd7cd76"
           }
         }
       ]
     },
     {
       "_id": {
-        "$oid": "9f419492-e426-45dd-b133-194f36fae1cd"
+        "$oid": "133b7781-5c93-4ee4-baa6-220dbba69f26"
       },
       "cauHoiNho": [],
       "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Henry:</b></td> \n                        <td>Is this an <b>(1) </b> _________ process? Do I need to do anything?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Carmen:</b></td> \n                        <td>You only have to import some criteria's data, then wait until the <b>(2) </b>_________  finishes.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Henry:</b></td> \n                        <td>That's really amazing. Are you using that computer <b>(3) </b>_________?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Carmen:</b></td> \n                        <td>Of course, it <b>(4) </b>_________ me a lot. And many scientists use it, too.</td>\n                </tr>\n        </tbody>\n</table>",
@@ -52,35 +52,35 @@
           "dapAn": "automated",
           "isCorrect": true,
           "_id": {
-            "$oid": "e113ae12-3146-4209-a778-29502b19b27d"
+            "$oid": "a331849e-f685-48c7-bcb3-b329dc739328"
           }
         },
         {
           "dapAn": "process",
           "isCorrect": true,
           "_id": {
-            "$oid": "7401eb9d-92c4-4cdb-a6c9-340b2a0515e5"
+            "$oid": "53e92097-2be4-4683-85b4-f13dca28ba60"
           }
         },
         {
           "dapAn": "system",
           "isCorrect": true,
           "_id": {
-            "$oid": "b6eb5dc6-0dc4-4ba4-82e6-f36fcb8a0591"
+            "$oid": "4f26bf6f-6c13-4d2c-a3d7-8845e7a67a5d"
           }
         },
         {
           "dapAn": "helps",
           "isCorrect": true,
           "_id": {
-            "$oid": "97b013a6-2981-4cbb-b5a7-73b9066d7f21"
+            "$oid": "0af0976c-d7bf-4c5c-90e1-286d20b5e1c0"
           }
         }
       ]
     },
     {
       "_id": {
-        "$oid": "1b247434-3f6a-44f9-ae79-5793ef26c7ea"
+        "$oid": "7eb831e0-bb6a-4c4f-912c-656174067f55"
       },
       "cauHoiNho": [],
       "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Carmen:</b></td> \n                        <td>This system <b>(1) </b>_________ to the health profession a lot. </td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Henry:</b></td> \n                        <td>So, maybe human health information will be stored after someone is <b>(2) </b>________. Is that right?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Carmen:</b></td> \n                        <td>Yes! Expert systems help doctors decide what's <b>(3) </b>_______ with the patients, too.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Henry:</b></td> \n                        <td>AI is really a wonderful <b>(4) </b>________. Thank you very much, I know what to do now.</td>\n                </tr>\n        </tbody>\n</table>",
@@ -90,35 +90,35 @@
           "dapAn": "contributes",
           "isCorrect": true,
           "_id": {
-            "$oid": "0419de57-e60c-4eb3-8a2b-0813cfe54d4a"
+            "$oid": "1afdd0e1-9eea-4897-aaed-7c0ce395d6e7"
           }
         },
         {
           "dapAn": "born",
           "isCorrect": true,
           "_id": {
-            "$oid": "0a5d691f-7267-43ee-964a-d224b3ab3b2f"
+            "$oid": "92eac172-4e57-44f3-9e08-5c71294a3ddc"
           }
         },
         {
           "dapAn": "wrong",
           "isCorrect": true,
           "_id": {
-            "$oid": "374fa744-4901-4249-88db-269afd81c742"
+            "$oid": "0bc1f20f-6506-44e4-b8ec-4c04f5fec107"
           }
         },
         {
           "dapAn": "invention",
           "isCorrect": true,
           "_id": {
-            "$oid": "00219e3a-c65c-484c-b9b2-96aac07fc79f"
+            "$oid": "15533f1f-90ba-4951-b99b-292cdef7cbf4"
           }
         }
       ]
     },
     {
       "_id": {
-        "$oid": "85c8effc-6be0-42d7-88db-2aba4c379f16"
+        "$oid": "36b5d40e-a26f-4c61-8e4e-93beac6b0f4e"
       },
       "cauHoiNho": [],
       "cauHoi": "<b>(1) </b>\"___________________\"  is one of the most fascinating features of human thought. You'll quickly realize how <b>(2) </b>_________ that phrase is to our <b>(3)</b> _________ lives, despite the fact that it sounds like a difficult <b>(4) </b>___________ term.",
@@ -128,35 +128,35 @@
           "dapAn": "Cognitive dissonance",
           "isCorrect": true,
           "_id": {
-            "$oid": "0952a2cf-fbcf-462a-8f1f-9d6b9924abc3"
+            "$oid": "d7c8e62c-7ad6-4659-aa59-e7ef371a0e2b"
           }
         },
         {
           "dapAn": "relevant",
           "isCorrect": true,
           "_id": {
-            "$oid": "de04fa25-c143-4ed9-9e3d-68713892467c"
+            "$oid": "dfdb199b-ddcc-4035-8dfb-84859b9b1fdb"
           }
         },
         {
           "dapAn": "everyday",
           "isCorrect": true,
           "_id": {
-            "$oid": "be019642-e32d-4b47-b48e-6f0a10198b9c"
+            "$oid": "15afae84-044e-40f0-98d4-f336c0019da1"
           }
         },
         {
           "dapAn": "psychological",
           "isCorrect": true,
           "_id": {
-            "$oid": "4c37ff74-464c-4031-aacb-2a541a123a43"
+            "$oid": "b9475a78-9f6a-4c93-ada0-246a3e4d7932"
           }
         }
       ]
     },
     {
       "_id": {
-        "$oid": "0836eda7-57c9-40ff-a63d-2aff86cd336d"
+        "$oid": "429bbda6-e71b-413c-8710-0339cc816296"
       },
       "cauHoiNho": [],
       "cauHoi": "Have you ever put in a lot of <b>(1)</b> _______ in doing something just to be informed that it wasn't necessary. In <b>(2)</b> _______, you would likely just  <b>(3)</b> _______ the good aspects of it in a circumstance like this when you <b>(4)</b> _______  and it's not neccessary.",
@@ -166,28 +166,28 @@
           "dapAn": "effort",
           "isCorrect": true,
           "_id": {
-            "$oid": "64d98a51-3dff-4d18-a2aa-367f0d37dcaa"
+            "$oid": "f830e0d1-d47f-4f8a-9c27-22c5b7c80e6d"
           }
         },
         {
           "dapAn": "reality",
           "isCorrect": true,
           "_id": {
-            "$oid": "4aa81b39-94ac-4c50-8cbe-7e3cda0c7f21"
+            "$oid": "27eef409-f71a-4fc4-8a1f-ad5088ba87de"
           }
         },
         {
           "dapAn": "pay attention to",
           "isCorrect": true,
           "_id": {
-            "$oid": "73a9d475-10d2-46a1-af4a-59bf84a9a0fd"
+            "$oid": "a77b1c38-e7c6-4b5b-8673-91db81f8b3f0"
           }
         },
         {
           "dapAn": "make an effort",
           "isCorrect": true,
           "_id": {
-            "$oid": "2fc3047e-4571-4a72-a1b2-b9b15656d33f"
+            "$oid": "e311002a-7d7f-4997-a2a9-fde6ba3eff2e"
           }
         }
       ]

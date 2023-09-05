@@ -4,7 +4,7 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "b83fafed-d456-47e2-950b-f31ceb4d5d17"
+        "$oid": "585d90b6-491e-406f-8f11-b74fd50945ce"
       },
       "cauHoiNho": [],
       "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\n                        <td>Maxi, I've tried to <b>(1)</b> ____ for our flights to Vietnam, but it says I've got no money in my account.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Maxi:</b></td>\n                        <td>Really? If you used that app I told you about, that kind of thing wouldn't <b>(2) </b>____.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Maria:</b></td>\n                        <td>I remember what I bought. I don't believe it!</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Maxi:</b></td>\n                        <td>The app helps you <b>(3) </b>____ your money and see how much you're <b>(4) </b>____.</td>\n                </tr>\n        </tbody>\n</table>",
@@ -14,35 +14,35 @@
           "dapAn": "pay",
           "isCorrect": true,
           "_id": {
-            "$oid": "b38e22a3-8ce0-49d7-990d-b97d75ddb18c"
+            "$oid": "d962a05c-3cf0-4243-9573-188329683e14"
           }
         },
         {
           "dapAn": "happen",
           "isCorrect": true,
           "_id": {
-            "$oid": "2857eb65-f83b-4599-83d4-d32ee4f6eda6"
+            "$oid": "f6f40109-b3a1-488b-9b36-6fd00e1bbb28"
           }
         },
         {
           "dapAn": "manage",
           "isCorrect": true,
           "_id": {
-            "$oid": "46890015-f11c-49d7-82a7-5edc94602b0a"
+            "$oid": "d5989e89-56b0-41f1-8615-62d8d50f1f28"
           }
         },
         {
           "dapAn": "spending",
           "isCorrect": true,
           "_id": {
-            "$oid": "80915a4b-8090-407b-96af-a26482b9c58d"
+            "$oid": "70004942-b6ed-47ad-b42b-ec438448786f"
           }
         }
       ]
     },
     {
       "_id": {
-        "$oid": "f40bed2c-f2fd-40f7-988d-004704da077c"
+        "$oid": "b6ea5f9e-e5b3-411b-bc35-02cc9812a369"
       },
       "cauHoiNho": [],
       "cauHoi": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Maria:</b></td>\r\n\t\t\t<td colspan=\"3\">Look at the screen! It says I've made all these <b>(1) </b>____ with my debit card.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Maxi:</b></td>\r\n\t\t\t<td colspan=\"3\">Well, you bought a lot of stuff by <b>(2)</b> ____ payment. </td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Maria:</b></td>\r\n\t\t\t<td colspan=\"3\">But according to my bank, there were three <b>(3) </b>____ purchases of $500 at the supermarket on Monday.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Maxi:</b></td>\r\n\t\t\t<td colspan=\"3\">That's really weird, because you didn't go to the <b>(4) </b>____ on that day.</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
@@ -52,35 +52,35 @@
           "dapAn": "purchases",
           "isCorrect": true,
           "_id": {
-            "$oid": "24ac54c9-ee2b-4d86-90e4-cf2992ea9612"
+            "$oid": "097aaa0d-840c-4382-961f-0c7feea6fd09"
           }
         },
         {
           "dapAn": "contactless",
           "isCorrect": true,
           "_id": {
-            "$oid": "2b228c90-f910-4e5f-a66d-4faec0b3c191"
+            "$oid": "f02dfe3e-3721-4f20-bf94-2c5475ae0735"
           }
         },
         {
           "dapAn": "identical",
           "isCorrect": true,
           "_id": {
-            "$oid": "861b0502-8fe6-4102-ad23-cb8a2fcf4d17"
+            "$oid": "d09ebb62-aeaa-464c-ae9e-319b69ca529f"
           }
         },
         {
           "dapAn": "supermarket",
           "isCorrect": true,
           "_id": {
-            "$oid": "d9f5a68b-924a-4100-bc1d-31c1e6655e2e"
+            "$oid": "443ef6da-eff5-44fc-af02-b9827439ccdc"
           }
         }
       ]
     },
     {
       "_id": {
-        "$oid": "516fb0d8-02b9-4f32-86eb-f6aeec7e28a2"
+        "$oid": "d0ec4213-f1ab-4837-8c92-9085b705f676"
       },
       "cauHoiNho": [],
       "cauHoi": "<table>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Maria:</b></td>\r\n\t\t\t<td colspan=\"2\">That's right. I think someone's got my account <b>(1)</b> ____.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Maxi:</b></td>\r\n\t\t\t<td colspan=\"2\">Maybe they have. Do you remember when that happened to me last year?</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Maria:</b></td>\r\n\t\t\t<td colspan=\"2\">Yes, that's because you left your <b>(2)</b> ____ in the ATM.</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align: top;\"><b>Maxi:</b></td>\r\n\t\t\t<td colspan=\"2\">Nobody even needed to steal my personal <b>(3)</b> ____ number, but my money was <b>(4)</b> ____.</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
@@ -90,35 +90,35 @@
           "dapAn": "details",
           "isCorrect": true,
           "_id": {
-            "$oid": "0a62cc01-f3f4-4af0-898f-d76ad4fca455"
+            "$oid": "2e48323e-6891-445d-950a-dd53dbcc4085"
           }
         },
         {
           "dapAn": "card",
           "isCorrect": true,
           "_id": {
-            "$oid": "cf7706c2-33d4-4fa1-9909-3b59727ac343"
+            "$oid": "a123b222-d413-431b-8409-546fdd2b911f"
           }
         },
         {
           "dapAn": "identification",
           "isCorrect": true,
           "_id": {
-            "$oid": "ec7d436c-2f2a-406a-9071-188d35cd73c6"
+            "$oid": "0baf7fe1-746d-454f-bdfd-e89f0b1b7744"
           }
         },
         {
           "dapAn": "stolen",
           "isCorrect": true,
           "_id": {
-            "$oid": "ab00bacf-3a34-41a7-9867-5ddbaac79f9b"
+            "$oid": "5dddc4ad-df54-43b5-b7c2-ecd73e38c44c"
           }
         }
       ]
     },
     {
       "_id": {
-        "$oid": "061d2090-4690-44aa-bcc6-f8602525c489"
+        "$oid": "659d01ff-38a5-44a1-b252-d5c8c7c6fe2e"
       },
       "cauHoiNho": [],
       "cauHoi": "I suppose I belong to the generation that <b>(1)</b>  ____ everything via a <b>(</b><b>2</b><b>)</b> ____. My phone helps me to transfer money between bank <b>(</b><b>3</b><b>)</b> ____ and pay people through <b>(</b><b>4</b><b>)</b> ____ banking, which is convenient.",
@@ -128,35 +128,35 @@
           "dapAn": "controls",
           "isCorrect": true,
           "_id": {
-            "$oid": "4f346493-ff14-4389-a3f5-5ac7745cc6a7"
+            "$oid": "f9b3c934-b207-4732-bf03-d462743205ce"
           }
         },
         {
           "dapAn": "smartphone",
           "isCorrect": true,
           "_id": {
-            "$oid": "086bebbe-a152-4b6e-b30d-997a8ba0fee9"
+            "$oid": "194c056f-1cf3-4f86-86d5-0792e86b40e9"
           }
         },
         {
           "dapAn": "accounts",
           "isCorrect": true,
           "_id": {
-            "$oid": "804089bd-08e3-4a49-8d5e-188ea57784e2"
+            "$oid": "95ce9efb-b5fd-4587-9b38-e957d85ef32e"
           }
         },
         {
           "dapAn": "online",
           "isCorrect": true,
           "_id": {
-            "$oid": "ef7d75a9-82da-4da0-b08a-23cd30b073b4"
+            "$oid": "df93b9ad-ede8-466a-97d4-4b8356fbfe67"
           }
         }
       ]
     },
     {
       "_id": {
-        "$oid": "d549fc48-1024-4c28-b4ed-652b67c0be66"
+        "$oid": "20b5f281-caa8-4aad-b9df-22bae35bc237"
       },
       "cauHoiNho": [],
       "cauHoi": "Nowadays, so many <b>(1)</b> ____ are <b>(2)</b> ____, which perfectly fits me because remembering my PIN has never been easy for me . I don't have a <b>(3)</b> ____ card since I don't enjoy taking out bank <b>(4)</b> ____.",
@@ -166,28 +166,28 @@
           "dapAn": "transactions",
           "isCorrect": true,
           "_id": {
-            "$oid": "5d2c9d1c-d3a7-4eb2-bf5b-d78c292ccaf2"
+            "$oid": "69c1e88b-1f3c-453c-b64c-a23c0090566c"
           }
         },
         {
           "dapAn": "contactless",
           "isCorrect": true,
           "_id": {
-            "$oid": "fa0d74ba-5ccd-4d26-b5d3-7ca7dd1d11f0"
+            "$oid": "2e1dcce5-0f1e-4e55-aab9-569119623f21"
           }
         },
         {
           "dapAn": "credit",
           "isCorrect": true,
           "_id": {
-            "$oid": "cd8157b6-d807-4135-8bc5-cde5d1d20ef6"
+            "$oid": "369cd7fe-c316-4889-b543-783e81ff178a"
           }
         },
         {
           "dapAn": "loans",
           "isCorrect": true,
           "_id": {
-            "$oid": "066af8a8-10c3-45ee-a8d9-c6de809c8cdc"
+            "$oid": "75fa5e77-cacd-49b7-8757-b59d26e885aa"
           }
         }
       ]

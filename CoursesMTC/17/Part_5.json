@@ -4,7 +4,7 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "ad04745f-11de-420b-8578-e9f12e324f1a"
+        "$oid": "2739bf49-acc9-466e-a42b-261e81cfc39a"
       },
       "cauHoiNho": [],
       "cauHoi": "Hey Molly, did you read the __________ about MTC company?",
@@ -12,21 +12,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "064b6404-9b31-4ab6-9b1c-5e66fa238349"
+            "$oid": "3dbfd393-6ca3-4fc5-bf8b-7fbb6c63a617"
           },
           "dapAn": "news",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "7b9daf76-146a-4a42-99fa-da28e9a51582"
+            "$oid": "50604093-f8c6-4e17-923d-f9648b6f70a4"
           },
           "dapAn": "article",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "06e31480-33f7-482c-ba1e-a80bb7c6f936"
+            "$oid": "9be6fcbd-2dd1-4ebc-a4fb-d8f7fb2f3213"
           },
           "dapAn": "paper",
           "isCorrect": false
@@ -37,7 +37,7 @@
     },
     {
       "_id": {
-        "$oid": "b6fc68cc-883e-44be-b089-7218bcc250fd"
+        "$oid": "3fe5cc2e-63a6-4070-b1b7-55175329c173"
       },
       "cauHoiNho": [],
       "cauHoi": "Yes, I read it yesterday. I was __________ but I know it’s just a rumor.",
@@ -45,21 +45,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "34b7ff91-9271-431c-9e62-77b14b179119"
+            "$oid": "eeb3c582-3dc7-4821-bc87-49e5987a6213"
           },
           "dapAn": "sad",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "f2d26af8-01e8-4b8b-b6a0-533f4d90e698"
+            "$oid": "67348864-94c7-4ff4-a1b6-fdfa75b0390b"
           },
           "dapAn": "shocked",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "bc67be87-76f0-4633-a10f-6a031e09a629"
+            "$oid": "f2997d3f-202d-4e9b-a8ee-a6868f297a18"
           },
           "dapAn": "surprised",
           "isCorrect": false
@@ -70,7 +70,7 @@
     },
     {
       "_id": {
-        "$oid": "6b251886-d538-4908-ae5b-839ba7d56c08"
+        "$oid": "abc27504-9c84-48a7-a679-74e7d10cdda5"
       },
       "cauHoiNho": [],
       "cauHoi": "I have some steps to find the real __________ among the fake news.",
@@ -78,21 +78,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "c916cd7f-af6c-474b-9ee9-4111e2bdcf71"
+            "$oid": "037fed90-beea-4053-9ebd-9f977288bc78"
           },
           "dapAn": "stories",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "22aea6f9-931f-45ba-80b9-06a0e63bc8a0"
+            "$oid": "91b26e02-8d3d-49e9-b1ba-e04774db63c5"
           },
           "dapAn": "news",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "775d8e73-6cfe-4581-8878-1c9fa9459b05"
+            "$oid": "0128d82c-3f46-40dd-b525-08a64fb481b0"
           },
           "dapAn": "information",
           "isCorrect": false
@@ -103,7 +103,7 @@
     },
     {
       "_id": {
-        "$oid": "c129e736-6a3f-403d-af71-34c7ce85d3ee"
+        "$oid": "35ad06d0-016f-4155-9fe4-68ee1ff696fb"
       },
       "cauHoiNho": [],
       "cauHoi": "Please, tell me about it. It’s a waste of __________ reading disinformation.",
@@ -111,21 +111,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "15a3ec19-0bf2-40e1-8f94-ce7c03e9c0f6"
+            "$oid": "573c31c6-600f-4b6e-877f-c2872402f255"
           },
           "dapAn": "energy",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "57231415-715b-45ab-8fdf-5bb3ccd06d6d"
+            "$oid": "d11c9eb0-749c-4b58-9da2-b92538a22ed4"
           },
           "dapAn": "time",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "d5ff4c2a-81ff-48e4-9a5e-193af18f01ab"
+            "$oid": "ad7398a5-b6b5-4068-89cb-60b2fbe5b682"
           },
           "dapAn": "money",
           "isCorrect": false
@@ -136,7 +136,7 @@
     },
     {
       "_id": {
-        "$oid": "7faeffe7-eac3-4408-89c9-8d6c5bbd2ed4"
+        "$oid": "3b799c1c-4106-4ab1-93f0-4586bedd3db2"
       },
       "cauHoiNho": [],
       "cauHoi": "Alright. First, find out about the source. Look at the __________ that the story comes from.",
@@ -144,21 +144,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "e37abd59-2a02-4255-87cf-650c1cd5ba4d"
+            "$oid": "688a2f60-f5e5-4502-8141-0d04ac51dd6c"
           },
           "dapAn": "address",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "0380e85c-8eec-42c5-9509-b1b553ed6d18"
+            "$oid": "52e71781-83c4-461b-9eb1-11c4aa998f77"
           },
           "dapAn": "author",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "bc8cd719-0675-4398-8118-54b4742eb874"
+            "$oid": "1eb6e563-1876-4861-808d-0231012178f3"
           },
           "dapAn": "website",
           "isCorrect": true
@@ -169,7 +169,7 @@
     },
     {
       "_id": {
-        "$oid": "c9f177dc-5f7a-4408-a6a7-437686e93b18"
+        "$oid": "3a930829-1333-4bab-93ff-11724ff7cdd2"
       },
       "cauHoiNho": [],
       "cauHoi": "I have to check whether it’s __________ or not?",
@@ -177,21 +177,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "cf1e22ff-24a3-4c1f-a049-4fbbae546505"
+            "$oid": "048dbbdd-2bc6-4083-8685-8c10318074fe"
           },
           "dapAn": "reliable",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "fd152d3b-c93f-4235-af03-6749508fdee8"
+            "$oid": "56e7ce18-9428-48d2-98f5-f764984ac833"
           },
           "dapAn": "valid",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "2d6c824e-bc2f-4353-92a0-d4b46afb0507"
+            "$oid": "59a10092-1cfd-4f92-b79b-a2c5fce8aab9"
           },
           "dapAn": "real",
           "isCorrect": false
@@ -202,7 +202,7 @@
     },
     {
       "_id": {
-        "$oid": "0a97e6a3-74bc-4041-9d00-5d4bb155cc3f"
+        "$oid": "00736e03-852d-4cfa-b8a5-24e6be423b90"
       },
       "cauHoiNho": [],
       "cauHoi": "Exactly. Then you check the __________ on the website. It may not be very well written.",
@@ -210,21 +210,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "c56de314-4dfa-48b5-96ba-59e97f49d14c"
+            "$oid": "bdde74e2-8509-4020-9a11-713dbf42297c"
           },
           "dapAn": "aricle",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "490ef8a6-a3dd-4996-9319-5ed4c2709cbc"
+            "$oid": "af40cad7-b259-404e-b5fd-a6272d6372ab"
           },
           "dapAn": "news",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "9415006e-71bb-4e7d-9fab-8a00a89adc65"
+            "$oid": "3e2ecd19-b81e-499a-b681-663a0120e32a"
           },
           "dapAn": "text",
           "isCorrect": true
@@ -235,7 +235,7 @@
     },
     {
       "_id": {
-        "$oid": "4cd8476b-3196-4af3-988d-34ef19b58bfa"
+        "$oid": "2d2f0946-da92-487a-89ee-126cf7e4ed47"
       },
       "cauHoiNho": [],
       "cauHoi": "I got it. I need to check the __________, the text. What else?",
@@ -243,21 +243,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "94d246c7-21dc-4431-b986-f19d0b0d2db8"
+            "$oid": "963caf58-fe61-4e38-8a63-56bd1cd7bc36"
           },
           "dapAn": "website",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "0aadfa31-b8cf-444c-97f2-7867d8579d26"
+            "$oid": "71f7e157-f3f8-4e07-bb0f-9942e9e12e8a"
           },
           "dapAn": "text",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "09a80044-4ae8-45ce-a2b8-23e3a19412ca"
+            "$oid": "c95c9544-6b4b-4fb5-ba1d-f4a5ae3645bc"
           },
           "dapAn": "source",
           "isCorrect": false
@@ -268,7 +268,7 @@
     },
     {
       "_id": {
-        "$oid": "df7da0fb-0c8d-4851-ae24-3d1ec661138c"
+        "$oid": "4b8fc79f-79bd-4f2e-b38d-5d8a8086195d"
       },
       "cauHoiNho": [],
       "cauHoi": "See if the pictures are clear. If you aren’t sure, __________ the organization and its history.",
@@ -276,21 +276,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "a629adbd-0a7a-47f5-ab27-83f0f67fcebf"
+            "$oid": "65f45217-eb23-4dba-b0ff-f9973925aab5"
           },
           "dapAn": "look at",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "9f411cc3-2824-4473-aebd-59287820b415"
+            "$oid": "83937511-9bda-42b1-899d-ad0cfa9d4c6f"
           },
           "dapAn": "check",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "3004a15b-7245-4d0f-973a-d490ba0427d3"
+            "$oid": "9f8754b4-70f0-44ef-84cd-37e18855013e"
           },
           "dapAn": "research",
           "isCorrect": true
@@ -301,7 +301,7 @@
     },
     {
       "_id": {
-        "$oid": "c375c8fc-3d3a-4229-a7e1-440c9bcfff24"
+        "$oid": "9be4747d-11d8-44a4-877a-be9f10df9542"
       },
       "cauHoiNho": [],
       "cauHoi": "OK. I will remember to check the source __________.",
@@ -309,21 +309,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "8eaa978e-6283-45cf-8432-ba01145849c5"
+            "$oid": "fa9c1824-4202-4e05-8cfd-2e150c20e999"
           },
           "dapAn": "after that",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "8052a507-0814-4450-af98-3884d3b9ed86"
+            "$oid": "3cf2caa3-c269-41fc-8895-66ad7a572961"
           },
           "dapAn": "last",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "4585f33b-387c-4661-b170-e105020ccfe7"
+            "$oid": "be8e9324-c2e1-4a0b-ac7f-888333ea53f9"
           },
           "dapAn": "first",
           "isCorrect": true
@@ -334,7 +334,7 @@
     },
     {
       "_id": {
-        "$oid": "2418d0c8-acc6-4fb9-ace1-d026741755d6"
+        "$oid": "9544677a-8e8d-459d-a33d-b7c24a7740c0"
       },
       "cauHoiNho": [],
       "cauHoi": "Next, look at the authors. Look for __________ with their other articles.",
@@ -342,21 +342,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "4e5a8c06-24f6-4f3b-99c3-1b9e5e85f28c"
+            "$oid": "8b0d5b14-4bdc-42aa-9ae5-0a5e6d80f77a"
           },
           "dapAn": "proof",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "e0888072-f36e-4542-8b17-4225d5b03edc"
+            "$oid": "0cbbf421-a887-4e4e-8a91-663bf8c2029a"
           },
           "dapAn": "information",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "1d90ab20-992b-42ea-9c05-d37089982c4e"
+            "$oid": "d73f14f2-2799-43f5-bce5-06187500c395"
           },
           "dapAn": "source",
           "isCorrect": false
@@ -367,7 +367,7 @@
     },
     {
       "_id": {
-        "$oid": "23e0c662-25be-4af8-a1ee-7ee65d161b1c"
+        "$oid": "ddca8879-6e01-4242-bde6-2eeabe32f687"
       },
       "cauHoiNho": [],
       "cauHoi": "If they haven’t written anything else for a source I trust, the article could spread __________ news, right?",
@@ -375,21 +375,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "d5480d41-fc14-419d-8511-156f6ffeb7a9"
+            "$oid": "4d64b7d8-3f8d-4f0d-8155-ecd5c3932cc5"
           },
           "dapAn": "fake",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a11d30b6-25ff-4ef8-b472-67ada1fc0794"
+            "$oid": "f0ed20c4-7fde-4e52-a2e3-c4180c902222"
           },
           "dapAn": "invalid",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "5413a0f0-00c3-4e19-9fdd-cc54672b1cba"
+            "$oid": "eaba9e5f-1711-4d62-8a61-99134c3c6371"
           },
           "dapAn": "unreliable",
           "isCorrect": false
@@ -400,7 +400,7 @@
     },
     {
       "_id": {
-        "$oid": "b7f5cbc2-072c-4c66-9106-83c92f03c02d"
+        "$oid": "f9ec4f4a-5777-4ecf-8914-aab28e14fe0f"
       },
       "cauHoiNho": [],
       "cauHoi": "Excellent! The article contains __________ to other articles and authors. Click on the links and check if the sources are real.",
@@ -408,21 +408,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "da3a40a0-dc5b-44d5-86f5-099a6b112cd7"
+            "$oid": "afe50453-48ca-4b8d-b123-345f409a8bff"
           },
           "dapAn": "sources",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "054c9c39-1b4b-41b1-acca-53a4ef51c9f8"
+            "$oid": "708e9c2b-f0c2-45a7-9abe-4c45617fbed0"
           },
           "dapAn": "links",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "9058a0b9-1737-4fe7-aba7-ac7f953b7b31"
+            "$oid": "68b1c202-b6ae-4ccc-b409-c02f1d19a25e"
           },
           "dapAn": "websites",
           "isCorrect": false
@@ -433,7 +433,7 @@
     },
     {
       "_id": {
-        "$oid": "13142437-b9d7-4bb7-8613-1493ae9de591"
+        "$oid": "14c378ee-db2d-4c8f-b846-a50de9fdca5d"
       },
       "cauHoiNho": [],
       "cauHoi": "I haven’t thought about it before. You are so __________!",
@@ -441,21 +441,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "03c696e5-ae85-46ad-a863-8f426fc17897"
+            "$oid": "23631217-b60f-4735-8c8f-e1f82caa982f"
           },
           "dapAn": "careful",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "958bf42f-f479-4aa9-95bb-7f197ee60534"
+            "$oid": "9dfee12f-2413-4dfc-b9ec-c2dae847c3f9"
           },
           "dapAn": "smart",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "511dac62-11cc-4a16-86e3-7743cb860358"
+            "$oid": "03bc4b27-d2b6-4df7-8cf0-88e3d3fc35d7"
           },
           "dapAn": "helpful",
           "isCorrect": false
@@ -466,7 +466,7 @@
     },
     {
       "_id": {
-        "$oid": "9e1cbb16-57a6-407a-b862-e4bb3e332e87"
+        "$oid": "22230af3-01cd-4bc1-a69f-e3c799c0ea03"
       },
       "cauHoiNho": [],
       "cauHoi": "Finally, always ___________ what you read on the Internet.",
@@ -474,21 +474,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "b0969143-e4bb-4a78-a9f9-8b21cbdedbc7"
+            "$oid": "577dafb1-3ed7-49d9-a463-92619676925d"
           },
           "dapAn": "look at",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "5b3b7b29-4a80-45ea-959a-cffc4517cd7f"
+            "$oid": "13896478-3dc8-4861-bbcb-1815a98b7d1d"
           },
           "dapAn": "question",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "84100b68-d949-4d1a-a6fa-cf8e05c214d5"
+            "$oid": "5750ad3f-ebb6-4f49-b89b-6985373bca20"
           },
           "dapAn": "check",
           "isCorrect": false
@@ -499,7 +499,7 @@
     },
     {
       "_id": {
-        "$oid": "9daa5236-90e4-43d5-b340-6906848e8e49"
+        "$oid": "3f0d455b-ffa8-4625-a2e3-11e61f034c77"
       },
       "cauHoiNho": [],
       "cauHoi": "Some of a story might be __________, but it may not show the complete picture.",
@@ -507,21 +507,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "e7ee2cc0-f133-4b65-bac2-8bcd3198c4f9"
+            "$oid": "34f85752-f7df-4ca0-9c02-7f02832612e0"
           },
           "dapAn": "interesting",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "81fad8f1-6b48-4231-8e98-4fa29eb0d112"
+            "$oid": "e5ad4659-d038-45fc-8fa8-b55eb3abedb0"
           },
           "dapAn": "fake",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "b6f31309-fa7f-499f-aa28-c2fa77490668"
+            "$oid": "72f0ea21-1b9e-4692-9ac4-1db49c4d1142"
           },
           "dapAn": "accurate",
           "isCorrect": true
@@ -532,7 +532,7 @@
     },
     {
       "_id": {
-        "$oid": "ce4a33d2-2c95-4637-be38-18d4e8916469"
+        "$oid": "32280b48-a207-4698-b27c-067b1ac8cd18"
       },
       "cauHoiNho": [],
       "cauHoi": "I never buy __________ these days. What’s the point? News is reported so quickly because it changes all the time.",
@@ -540,21 +540,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "e172e3b5-0659-4fa4-9ee9-1bf91ecd54f5"
+            "$oid": "d802fa04-42cd-47d6-bfc7-09e6e8ae793b"
           },
           "dapAn": "magazines",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "68deb818-7bcd-43d9-95ab-4d670db7d2ab"
+            "$oid": "eea6cef6-9474-47ad-9232-502d1bdb1795"
           },
           "dapAn": "newspapers",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "8f2ca6c1-a8d4-442e-9759-44739d526f09"
+            "$oid": "4588b8f6-a261-427a-b54a-9adafa708ddb"
           },
           "dapAn": "books",
           "isCorrect": false
@@ -565,7 +565,7 @@
     },
     {
       "_id": {
-        "$oid": "3e83dd7b-631d-47c0-9740-e69bacbb7da7"
+        "$oid": "ca96b72e-2262-4198-a4b0-673ca7faaf29"
       },
       "cauHoiNho": [],
       "cauHoi": "I’m not that interested in current __________, but I read news stories online and sometimes I watch news on TV.",
@@ -573,21 +573,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "cc383c53-ac41-4798-8566-9f3458ae937f"
+            "$oid": "7b903294-de7f-4603-a214-83067d58bef1"
           },
           "dapAn": "affairs",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "3bb4fbbb-9282-4363-ab80-cb7863e7981b"
+            "$oid": "997992a9-5ea2-434a-ad13-2e0070f5e6a1"
           },
           "dapAn": "news",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "249a0f3e-839b-40a2-b523-ca91cd10dc4b"
+            "$oid": "727001e2-d862-4d7a-bf73-ac9fd5833081"
           },
           "dapAn": "events",
           "isCorrect": false
@@ -598,7 +598,7 @@
     },
     {
       "_id": {
-        "$oid": "77338020-b5ba-44d1-bd8b-75cc4ccb5d32"
+        "$oid": "a74e1eca-0299-4dce-b6e1-c4c2ea2d5fab"
       },
       "cauHoiNho": [],
       "cauHoi": "I see some news items on ____________, but the majority are human-interested stories.",
@@ -606,21 +606,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "fc7a051d-75eb-4d1f-9374-ece8f4da537e"
+            "$oid": "2a066ce3-01da-45e5-8fa2-1f989b493923"
           },
           "dapAn": "the Internet",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "2e98105e-b15b-4ca2-9117-0a81135b19a5"
+            "$oid": "704926c5-7cbd-4eb7-be8c-d2419d2a5de7"
           },
           "dapAn": "TV",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "51546f63-b0de-4f83-b9c7-2057db7b6312"
+            "$oid": "a313aaff-c840-4d05-aaf4-bc558a874b5f"
           },
           "dapAn": "social media",
           "isCorrect": true
@@ -631,7 +631,7 @@
     },
     {
       "_id": {
-        "$oid": "7c193855-d151-4958-b419-f75fe9dda602"
+        "$oid": "3bfb8556-bfd0-4fad-ba36-63996d338df3"
       },
       "cauHoiNho": [],
       "cauHoi": "I’d like to know if anyone here does repost from those __________ in their newsfeed.",
@@ -639,21 +639,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "5ac5648d-f482-49a9-8223-ef28dc676b71"
+            "$oid": "450a2488-d1cb-460b-821d-8406399f363a"
           },
           "dapAn": "news",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "4cb84043-0e22-4366-b4b6-e44ea4276b3e"
+            "$oid": "94be3f37-3641-4cf7-b3e3-561463aff00b"
           },
           "dapAn": "stories",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "33247a47-63a2-4162-862a-5ce9ccc3d8b8"
+            "$oid": "c006b047-cd58-4a48-bfda-10a3acec65ac"
           },
           "dapAn": "events",
           "isCorrect": false

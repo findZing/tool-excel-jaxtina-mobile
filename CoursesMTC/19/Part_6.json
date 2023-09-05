@@ -4,7 +4,7 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "dc8f69b5-bbd9-4db6-8d16-e7ef5e0fc3b4"
+        "$oid": "00fc4a0d-b06e-46c0-8f4d-d48d806501da"
       },
       "cauHoiNho": [],
       "cauHoi": "My sister asked if you liked ___ TV talent shows.",
@@ -12,21 +12,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "f137578f-a2c6-42da-a434-b012b45553e4"
+            "$oid": "dc67e0a3-eb24-4424-89b6-fab18215fea1"
           },
           "dapAn": "A. watch",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "0f7f6eb4-f242-488a-8292-6332f468601c"
+            "$oid": "587e5e4a-241c-4264-a1d7-edcdb30d7650"
           },
           "dapAn": "B. watching",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "4688677d-de3b-462b-b80f-83f3ce14b41f"
+            "$oid": "63857a25-460a-43d9-ace8-0f58762e3adb"
           },
           "dapAn": "C. watched",
           "isCorrect": false
@@ -37,7 +37,7 @@
     },
     {
       "_id": {
-        "$oid": "982def00-2297-411b-a452-8060535ce12f"
+        "$oid": "63011cfd-ec52-4811-8383-fb666ae3b49a"
       },
       "cauHoiNho": [],
       "cauHoi": "She asked if you watched “Got Talent” ____.",
@@ -45,21 +45,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "f4d3155e-9284-4229-92e9-e6c79c4b1042"
+            "$oid": "571c53d9-3909-49f3-9be1-ad773464152f"
           },
           "dapAn": "A. the previous day",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "693183f0-1f4e-495b-9a48-167eaa321970"
+            "$oid": "a9eb2eec-5cc2-4c0b-83a1-048e7e0aed9d"
           },
           "dapAn": "B. yesterday",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "fa8232a1-73dd-427d-97e2-55d45c66efa1"
+            "$oid": "deae4308-4589-4ab7-8c55-3ec23da3ad9f"
           },
           "dapAn": "C. today",
           "isCorrect": false
@@ -70,7 +70,7 @@
     },
     {
       "_id": {
-        "$oid": "9d3c1dbd-23ee-45e3-9ea2-1075b7ccaece"
+        "$oid": "fd6f6025-d1bf-43be-ae12-00d007e38c22"
       },
       "cauHoiNho": [],
       "cauHoi": "My sister said viewers ____ the shows in 58 countries.",
@@ -78,21 +78,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "f86a886d-a329-4fd3-b76d-fad799c25111"
+            "$oid": "d6331ab0-2d25-475b-9f05-4a47b115bc3a"
           },
           "dapAn": "A. is watched",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "7ca9af3a-314c-4279-84c2-e4471df16cb2"
+            "$oid": "995b7485-2cd7-4840-9140-9dbdcadf260a"
           },
           "dapAn": "B. watching",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "cb8da5d6-fe7a-4afc-bc19-5182a27bbfb5"
+            "$oid": "b3f88ef8-c9a7-43a9-a3c0-f89a46a051ef"
           },
           "dapAn": "C. watched",
           "isCorrect": true
@@ -103,7 +103,7 @@
     },
     {
       "_id": {
-        "$oid": "e4cd4a25-c1fa-4c1c-9072-9a5347677a8f"
+        "$oid": "1d10f4a5-4b59-4bc2-83b4-77d689248a99"
       },
       "cauHoiNho": [],
       "cauHoi": "She ___ I had watched TV talent shows.",
@@ -111,21 +111,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "a16d163f-8a99-4734-892f-c69f89701653"
+            "$oid": "cae9b4cc-24f4-4b3e-bb88-18def6e0c44a"
           },
           "dapAn": "A. asked who",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "ec2d6b4d-b0b9-4e51-bfbd-4c2d1d254913"
+            "$oid": "2fb0b5c3-6edd-4376-97c6-81c8bffcebd7"
           },
           "dapAn": "B. asked whose",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "227a697c-6a7e-4cd6-8ff4-6571b9674fb5"
+            "$oid": "0a77496f-5ce0-4669-9798-a478dfe04cdc"
           },
           "dapAn": "C. asked if",
           "isCorrect": true
@@ -136,7 +136,7 @@
     },
     {
       "_id": {
-        "$oid": "9dec366d-bcae-44b5-b697-bb094ab89e59"
+        "$oid": "42fcea62-efd6-49cc-ac6b-ab15ed19f074"
       },
       "cauHoiNho": [],
       "cauHoi": "He asked what I had been ___ to the audition.",
@@ -144,21 +144,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "301b6536-4fe2-4703-8064-7433ecb31a4e"
+            "$oid": "cc895bfe-a23c-48d2-b31e-c932a80fc49e"
           },
           "dapAn": "A. wearing",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "129b937d-41fd-49fe-a284-f08fc19c007c"
+            "$oid": "c04b034f-8eb2-442a-9e92-7084dbd283c5"
           },
           "dapAn": "B. wear",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "77288da6-db44-4381-ab03-0ba1054c308c"
+            "$oid": "b051fc98-7a0e-4f87-b343-711593b257d5"
           },
           "dapAn": "C. to wear",
           "isCorrect": false
@@ -169,7 +169,7 @@
     },
     {
       "_id": {
-        "$oid": "fe62c95d-fcc5-430c-aa62-c0485a516ab6"
+        "$oid": "1f4311c8-7f54-4258-bc6d-1cf876a85e07"
       },
       "cauHoiNho": [],
       "cauHoi": "He asked ____ I had been waiting.",
@@ -177,21 +177,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "41225a5f-814c-4121-94b4-737907b1af2a"
+            "$oid": "ae314e4a-32de-431a-b9d4-d7ec0fc39259"
           },
           "dapAn": "A. how much",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "78c1138d-6af3-47ee-9b7e-b6ff128eecd4"
+            "$oid": "98708136-35ce-422e-87f2-a9199388d869"
           },
           "dapAn": "B. how long",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "816976ab-d5c1-4661-bc06-7b30eca25b00"
+            "$oid": "5c3fea39-39eb-458f-9c07-7158b4337dfe"
           },
           "dapAn": "C. which",
           "isCorrect": false
@@ -202,7 +202,7 @@
     },
     {
       "_id": {
-        "$oid": "f4890aa7-a3a9-43ef-b1aa-447f8db5c80d"
+        "$oid": "1f59e12b-22ec-44c7-94f8-fa60159b4a62"
       },
       "cauHoiNho": [],
       "cauHoi": "Her brother asked who the best candidate ___.",
@@ -210,21 +210,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "df1856a2-eeab-43ac-836c-583157635ab3"
+            "$oid": "cf163425-6417-427f-bb39-a30c58a4617d"
           },
           "dapAn": "A. was",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "6b4618a1-fb82-4e38-a426-6eea8fbd1372"
+            "$oid": "691a1aed-09f6-4e39-8e40-56652cc95e96"
           },
           "dapAn": "B. were",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "77713dde-faf1-435c-9135-b866bdc6735c"
+            "$oid": "54bb61e8-8a85-4d7f-9a6f-d08cf03b0190"
           },
           "dapAn": "C. are",
           "isCorrect": false
@@ -235,7 +235,7 @@
     },
     {
       "_id": {
-        "$oid": "533ce04c-cd71-4bec-9cf3-b3ee8f6bd27a"
+        "$oid": "d6b2f4ed-01cf-45a2-b1d0-9d9646ae6138"
       },
       "cauHoiNho": [],
       "cauHoi": "The director said that over 100 people ____ at the movie studio for the audition.",
@@ -243,21 +243,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "b9e95210-1c23-48e8-8942-9ebeac13ea66"
+            "$oid": "1fb0d8ca-578d-4d47-a932-c55d369d07c6"
           },
           "dapAn": "A. showed up",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "40b5be87-4864-4b2b-804d-2a3bd3a7fef8"
+            "$oid": "bc889af3-3636-4689-9a20-5170b687ae17"
           },
           "dapAn": "B. shows up",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "30aee728-de7f-4acd-a1c8-fe279fa18e38"
+            "$oid": "174cdd64-7c56-4332-a052-778fd7eca6e2"
           },
           "dapAn": "C. showing up",
           "isCorrect": false
@@ -268,7 +268,7 @@
     },
     {
       "_id": {
-        "$oid": "2d046d09-f4a3-4904-981f-52e1a368d758"
+        "$oid": "adff05bc-4ef1-4923-8fad-966baeccf019"
       },
       "cauHoiNho": [],
       "cauHoi": "My friend asked me who ____ a lot of people who auditioned for the play.",
@@ -276,21 +276,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "a79def2b-48f9-4faa-a210-dcf8e150fa33"
+            "$oid": "100cba7c-2fa2-492f-b1cf-7396d8c29180"
           },
           "dapAn": "A. turning",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "a95fbb15-173b-4bfb-9886-d42dd8185b46"
+            "$oid": "6fd5c8ab-9b1e-4066-a337-0f1d6e8d8d30"
           },
           "dapAn": "B. to turn",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "a53f2951-e59c-4a55-b3ad-ea4301f42945"
+            "$oid": "4da328dc-9806-4d2a-a86e-49e247090201"
           },
           "dapAn": "C. had turned down",
           "isCorrect": true
@@ -301,7 +301,7 @@
     },
     {
       "_id": {
-        "$oid": "3a8a3b2e-c7e3-4f17-9ab6-7581c3468e21"
+        "$oid": "b73e348c-ed88-406f-88cf-fcc78ba73771"
       },
       "cauHoiNho": [],
       "cauHoi": "Mary said that Bridget’s dance classes were not easy, but she ____ to keep on going.",
@@ -309,21 +309,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "071a6290-04c1-4e15-acf8-ae39c642162a"
+            "$oid": "88d96d34-81e9-405d-8c75-2e71850e7448"
           },
           "dapAn": "A. planned",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "24248776-9a38-48ad-8505-d6aeccb3eb6d"
+            "$oid": "9444d846-48d2-48fe-a289-b064825efe57"
           },
           "dapAn": "B. to plan",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "0c31805e-db63-4571-b2e6-69a94812376b"
+            "$oid": "7456a17f-c434-4ae6-8ec0-5233d7bb889f"
           },
           "dapAn": "C. plan",
           "isCorrect": false
@@ -334,7 +334,7 @@
     },
     {
       "_id": {
-        "$oid": "7f0a6f08-a512-4bf2-9815-9c29896bd166"
+        "$oid": "06d2d0b1-063a-4f08-abbf-7c2b69532d9d"
       },
       "cauHoiNho": [],
       "cauHoi": "My mom said that Ellen’s show was similar to talent shows ____.",
@@ -342,21 +342,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "9d773b61-5727-430f-a7e4-69b23bd5845a"
+            "$oid": "5c76de6c-c79c-477d-9bbc-15498b6b8c77"
           },
           "dapAn": "A. today",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "6f961e66-2610-4d01-868b-1b9e0efd3e2c"
+            "$oid": "c5131ad7-cdcb-47d8-9e2e-f96bc3f6f133"
           },
           "dapAn": "B. yesterday",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "a1c2226c-beb6-4a6a-9433-48283b8c9174"
+            "$oid": "d179531e-485b-4616-8b18-0ba0c21957ca"
           },
           "dapAn": "C. that day",
           "isCorrect": true
@@ -367,7 +367,7 @@
     },
     {
       "_id": {
-        "$oid": "d031876c-0f4c-4b81-b920-8e98fe5e7633"
+        "$oid": "fd5903d4-c09c-4643-92b5-cde5304b1599"
       },
       "cauHoiNho": [],
       "cauHoi": "My younger brother wondered ____ TV professionals had to travel the country looking for entertainers.",
@@ -375,21 +375,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "fb8056fe-10a8-4cb1-8e17-50e70d555ead"
+            "$oid": "2e4afc14-e457-426f-b68b-7ff5dc9a0376"
           },
           "dapAn": "A. why",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a6c00deb-54d3-4168-9869-9cc2a0cfc773"
+            "$oid": "1d148fc2-ce36-4cde-8853-422473757fdd"
           },
           "dapAn": "B. what",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "ae531141-ff98-440e-a14f-853d119c8fd8"
+            "$oid": "2775a889-d94f-4ea6-b298-b4758a87f28a"
           },
           "dapAn": "C. whose",
           "isCorrect": false
@@ -400,7 +400,7 @@
     },
     {
       "_id": {
-        "$oid": "16cfb318-6274-4362-8bf4-c1e4da3debf5"
+        "$oid": "a1ba8c49-6d76-4aa8-a3da-03bcf3832b6d"
       },
       "cauHoiNho": [],
       "cauHoi": "She asks if the audience ____ for their favorite act by phone.",
@@ -408,21 +408,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "ab73cc20-e85a-4d2d-a550-285b5693b4b8"
+            "$oid": "8ece0fa1-4284-4f36-8cd4-8e26e821885b"
           },
           "dapAn": "A. vote",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "08b399e4-9696-4eb0-b797-7626d96cebaa"
+            "$oid": "350ac5ea-6e1e-4cf9-a6f5-d4c69c2b92da"
           },
           "dapAn": "B. votes",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "6fa23296-0218-4c77-8cc7-326b3257d5e6"
+            "$oid": "73c6279b-9c72-4608-8f73-ec09cf975863"
           },
           "dapAn": "C. voting",
           "isCorrect": false
@@ -433,7 +433,7 @@
     },
     {
       "_id": {
-        "$oid": "34711fbe-6f2a-4ef3-98ff-fe2216c23fa9"
+        "$oid": "8f8c8f56-8950-4c8e-8077-39d38ad35a41"
       },
       "cauHoiNho": [],
       "cauHoi": "He told me the final competition ____ at Madison Square Garden.",
@@ -441,21 +441,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "0604920f-ee95-422d-9bd7-ad465ebce422"
+            "$oid": "3105e0df-a8f6-4f58-9b05-9b380b977a3a"
           },
           "dapAn": "A. had been",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "25c89fd1-fdd0-4e97-8dc8-c1a0a2e14049"
+            "$oid": "67a908ee-7602-4bd9-8af2-75ad8822d7c5"
           },
           "dapAn": "B. have been",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "e5c36a09-7e06-4f8f-9e2f-93f99dad2128"
+            "$oid": "ffe167e5-7d5e-4c82-92ee-00ce531d7194"
           },
           "dapAn": "C. be",
           "isCorrect": false
@@ -466,7 +466,7 @@
     },
     {
       "_id": {
-        "$oid": "67dc4059-e2df-47b0-967f-63ed4bcd879b"
+        "$oid": "818117d5-8574-4d0c-85f1-b86f825a5c92"
       },
       "cauHoiNho": [],
       "cauHoi": "She asked them whether she performed ____.",
@@ -474,21 +474,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "a4a0749a-91e5-47e3-8024-17c400214a06"
+            "$oid": "fcaafb23-e032-488b-b9be-6ddba3855738"
           },
           "dapAn": "A. today",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "0b382ef4-6fc3-477e-8bea-b0093c5bbff6"
+            "$oid": "aa5ce355-b5e7-4f85-95d3-f8b4dddaad1b"
           },
           "dapAn": "B. tomorrow",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "9c33d3c5-b69e-4570-af6b-13c591ee85e5"
+            "$oid": "b937db1a-fc96-4095-a134-89874816a04a"
           },
           "dapAn": "C. that day",
           "isCorrect": true
@@ -499,7 +499,7 @@
     },
     {
       "_id": {
-        "$oid": "2d61995e-01a6-46f0-88e9-cc23349abf78"
+        "$oid": "9bcd20cc-e75b-4ccc-985f-82a0614c6584"
       },
       "cauHoiNho": [],
       "cauHoi": "My friend tells me the talent competition hsd been held ____.",
@@ -507,21 +507,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "9a547530-64ef-446e-89bc-fe6303268cea"
+            "$oid": "4a7b57dc-b468-4728-8eac-54577fc2b37a"
           },
           "dapAn": "A. the week before",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "6e595cae-18ab-4852-94f5-aeaaa7ea69ca"
+            "$oid": "b9b42c36-79b5-4144-8230-dde93404895e"
           },
           "dapAn": "B. last week",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "193cec07-3198-4e62-b24b-2814592f1461"
+            "$oid": "cde4a243-247b-4282-8305-c29f6b22a3af"
           },
           "dapAn": "C. this week",
           "isCorrect": false
@@ -532,7 +532,7 @@
     },
     {
       "_id": {
-        "$oid": "a38b0613-b5d7-466d-a962-2df1148c1977"
+        "$oid": "589b11f8-6e97-4fbd-bdc7-eabf4fa4ec08"
       },
       "cauHoiNho": [],
       "cauHoi": "My mother asked me ____ I attended the competition.",
@@ -540,21 +540,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "ea9c7114-199f-43ce-a370-52338bb3a088"
+            "$oid": "acaaebbb-bd38-41fc-8065-acadbe21d337"
           },
           "dapAn": "A. which",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "d1f070ef-b5c5-43f2-9f4c-1d583f2af3c3"
+            "$oid": "4edb2a80-3df2-40d5-9707-e513d4c3e094"
           },
           "dapAn": "B. when",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "2e37254f-d0e5-4397-a5b6-0a5cc433969f"
+            "$oid": "2498695e-7c43-4e2c-96bb-62afab7b47bc"
           },
           "dapAn": "C. who",
           "isCorrect": false
@@ -565,7 +565,7 @@
     },
     {
       "_id": {
-        "$oid": "a6916077-7918-4d77-ad14-97d27cef5561"
+        "$oid": "8a0d18d9-0077-49dc-ac78-d385072fff43"
       },
       "cauHoiNho": [],
       "cauHoi": "He ordered the kids ____ the shows.",
@@ -573,21 +573,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "b9907e51-a336-47de-980d-67ab2b325a82"
+            "$oid": "ff6a2bd4-8d1e-45d5-ab40-10fdfad87112"
           },
           "dapAn": "A. to watching",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "1829eb5c-633e-42f4-88ee-ca2ed4734db7"
+            "$oid": "71208bf6-d4c0-4e86-997e-5a2eda09749d"
           },
           "dapAn": "B. not watched",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "2b1abc2e-5a97-465b-9a45-fa03631f1cd6"
+            "$oid": "eeb0cd41-f0d8-4aac-9f78-cbc20be9cc07"
           },
           "dapAn": "C. not to watch",
           "isCorrect": true
@@ -598,7 +598,7 @@
     },
     {
       "_id": {
-        "$oid": "1c74ddfe-2e4b-4114-9543-5b420ba6d960"
+        "$oid": "78ddb4f7-f608-46d2-be9e-f9e6da43da2a"
       },
       "cauHoiNho": [],
       "cauHoi": "She advises me ____ the competition because the prize is $100,000.",
@@ -606,21 +606,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "2372307a-6b9c-45e6-b401-5b87cbc09a5b"
+            "$oid": "7babd360-3039-4d73-b4c0-9889368e75ea"
           },
           "dapAn": "A. to join",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "cc482230-73b5-489d-b57c-6eac17933db3"
+            "$oid": "5edb5e73-07e8-4816-8dcd-89f73da132aa"
           },
           "dapAn": "B. joined",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "7f2c8e9d-dd30-4550-a0f1-508e5dc0aa9c"
+            "$oid": "9feec129-9a93-4bcb-80ed-a28ba070ce5b"
           },
           "dapAn": "C. to joining",
           "isCorrect": false
@@ -631,7 +631,7 @@
     },
     {
       "_id": {
-        "$oid": "9e0870a8-5a5c-465b-9be6-769a824eaf80"
+        "$oid": "3c59fec6-5144-4537-a3c4-d0b71afc38cf"
       },
       "cauHoiNho": [],
       "cauHoi": "He asked me ____ well-known pop stars auditioned.",
@@ -639,21 +639,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "39f9e7d3-f79a-41c9-8e8e-dfb5a1191607"
+            "$oid": "95ce7f43-d570-40b8-b179-2b208f60d159"
           },
           "dapAn": "A. how many",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "e614e4df-5f6c-417e-b277-f461d4917be7"
+            "$oid": "865709ff-c014-4793-89cd-503a85b68db1"
           },
           "dapAn": "B. how much",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "2ea1f5d7-9a83-4407-a538-b459f4e941ea"
+            "$oid": "9f6a7479-291e-4d07-81ed-1f3a467c95ea"
           },
           "dapAn": "C. who",
           "isCorrect": false

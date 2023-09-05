@@ -6,14 +6,14 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "4168b66b-ea08-48b6-92ac-12101b615a68"
+        "$oid": "1c876073-e282-4bc7-9d45-698ffa7bbdf5"
       },
       "cauHoiNho": [],
       "cauHoi": "Sophie",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "31165e0a-4552-4cee-ab1e-2fb34a2c321c"
+            "$oid": "2fb524d3-4666-4d1e-b606-3b81a909a5ed"
           },
           "dapAn": "Good morning, Ms. Martin. Nice to meet you.",
           "phienAm": "/gʊd ˈmɔːnɪŋ mis ˈmɑːtɪn/. /naɪs tuː miːt juː/",
@@ -29,7 +29,7 @@
         },
         {
           "_id": {
-            "$oid": "55622b32-42f1-4b49-ae9c-2c0cf14fdd06"
+            "$oid": "268e6f10-c13c-428c-a124-ebd48091e3a4"
           },
           "dapAn": "So, tell me about yourself, Ms. Martin.",
           "phienAm": "/səʊ tel miː əˈbaʊt jɔːˈself mɪs ˈmɑːtɪn/",
@@ -45,7 +45,7 @@
         },
         {
           "_id": {
-            "$oid": "75b0d7c2-c626-41d3-96f3-cbd2d7e657c6"
+            "$oid": "f79e5752-c87b-4ff1-a91e-596fd57ef99c"
           },
           "dapAn": "OK. What did you do in your last job?",
           "phienAm": "/əʊˈkeɪ/. /wɒt dɪd juː duː ɪn jɔːr lɑːst ʤɒb/",
@@ -61,7 +61,7 @@
         },
         {
           "_id": {
-            "$oid": "1093cdc9-3313-40ff-98c7-40ad0eb23957"
+            "$oid": "061dbfbf-19fa-4b55-a41a-7c85bde1fc0c"
           },
           "dapAn": "What are your tasks in that job?",
           "phienAm": "/wɒt ɑːr jɔːr tɑːsks ɪn ðæt ʤɒb/",
@@ -77,7 +77,7 @@
         },
         {
           "_id": {
-            "$oid": "b3147d61-a25f-4c35-b5bb-61eb0dd3cb22"
+            "$oid": "8fa47763-2315-42a7-ab80-2ea72b04b917"
           },
           "dapAn": "What are your strengths?",
           "phienAm": "/wɒt ɑːr jɔːr streŋθs/",
@@ -93,7 +93,7 @@
         },
         {
           "_id": {
-            "$oid": "cb7f8df8-3384-4f32-a07c-1caa245846eb"
+            "$oid": "e1ba128d-ada3-41ba-8a64-026b4d485b33"
           },
           "dapAn": "What about your weaknesses?",
           "phienAm": "/wɒt əˈbaʊt jɔːr ˈwiːknɪsɪz/",
@@ -109,7 +109,7 @@
         },
         {
           "_id": {
-            "$oid": "ec8d06cb-a7c2-4943-bfd8-7d1f0e142919"
+            "$oid": "865fc29b-bfe1-458c-adbd-c13f3eff7e82"
           },
           "dapAn": "OK. Can you tell me why you want to work for us?",
           "phienAm": "/əʊˈkeɪ/. /kæn juː tel miː waɪ juː wɒnt tuː wɜːk fɔːr ʌs/",
@@ -125,7 +125,7 @@
         },
         {
           "_id": {
-            "$oid": "17bce060-b9cb-43c1-b8ee-aaeb03beb3cd"
+            "$oid": "ac87698c-e1e1-4873-b3e4-5539e62bbad6"
           },
           "dapAn": "Alright. If we offer you the job, when can you start?",
           "phienAm": "/ɔːlˈraɪt/. /ɪf wiː ˈɒfə juː ðiː ʤɒb wen kæn juː stɑːt/",
@@ -141,7 +141,7 @@
         },
         {
           "_id": {
-            "$oid": "7a5c13c3-289d-4fb1-a385-2fbf3108e22b"
+            "$oid": "31b9ef62-90a7-4969-bfdd-37577a9164b3"
           },
           "dapAn": "Finally, Ms. Martin, have you got any questions?",
           "phienAm": "/ˈfaɪnəli mɪs ˈmɑːtɪn hæv juː gɒt ˈeni ˈkwesʧənz/",
@@ -157,7 +157,7 @@
         },
         {
           "_id": {
-            "$oid": "4d48148c-0e0a-4c8f-b712-b7f5d41df468"
+            "$oid": "284e2ad5-48c0-48dc-a3f1-c57c2ab47e26"
           },
           "dapAn": "Thank you very much for coming. We’ll be in touch.",
           "phienAm": "/θæŋk juː ˈveri mʌʧ fɔːr ˈkʌmɪŋ/. /wiːl biː ɪn tʌʧ/ ",
@@ -175,14 +175,14 @@
     },
     {
       "_id": {
-        "$oid": "31c8ba6c-f0ee-4d7d-9f2c-41fa64ec47d9"
+        "$oid": "5c13b112-cb47-4599-b968-9e2c7b44719c"
       },
       "cauHoiNho": [],
       "cauHoi": "Ms. Martin",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "4055660d-01ce-4cf5-81b9-adef972c0ac4"
+            "$oid": "034b2886-4d54-4864-b7f1-386ec2066c20"
           },
           "dapAn": "Nice to meet you, too.",
           "phienAm": "/naɪs tuː miːt juː tuː/",
@@ -198,7 +198,7 @@
         },
         {
           "_id": {
-            "$oid": "7462587a-fe04-4701-bedc-832b8679267c"
+            "$oid": "0bdcad32-9b8d-4fd6-8d1e-e550c1d37108"
           },
           "dapAn": "I’m from Glasgow, Scotland. I’m 27 years old and I have a degree from Sheffield University.",
           "phienAm": "/aɪm frɒm ˈglɑːzgəʊ ˈskɒtlənd/. /aɪm ˌtwentiˈsevn jɪəz əʊld ænd aɪ hæv eɪ dɪˈgriː frɒm ˈʃefiːld ˌjuːnɪˈvɜːsɪti/",
@@ -214,7 +214,7 @@
         },
         {
           "_id": {
-            "$oid": "4962444a-5d9b-4852-ad2c-00f8aa224558"
+            "$oid": "52ead4f9-e4c2-4c41-a3e7-c78c19f02c4e"
           },
           "dapAn": "I’ve been working as a translator for a news channel for the last 4 years.",
           "phienAm": "/aɪv biːn ˈwɜːkɪŋ æz eɪ trænsˈleɪtər fɔːr eɪ njuːz ˈʧænl fɔː ðiː lɑːst fɔːr jɪəz/",
@@ -230,7 +230,7 @@
         },
         {
           "_id": {
-            "$oid": "6e179095-9253-4635-b46c-6a51cb08d4f8"
+            "$oid": "0d338455-e3b5-420c-98af-9cb949930bf7"
           },
           "dapAn": "My main tasks are translating news articles into English. Sometimes, I edit the news.",
           "phienAm": "/maɪ meɪn tɑːsks ɑːr trænsˈleɪtɪŋ njuːz ˈɑːtɪklz ˈɪntuː ˈɪŋglɪ/. /ˈsʌmtaɪmz aɪ ˈedɪt ðiː njuːz/",
@@ -246,7 +246,7 @@
         },
         {
           "_id": {
-            "$oid": "e72e0291-c2e9-48c1-8680-64be41e344df"
+            "$oid": "d1858e81-5602-46ac-bf86-583661abc3e8"
           },
           "dapAn": "I’m quite good at organising and communicating. Besides, I enjoy working in a team.",
           "phienAm": "/aɪm kwaɪt gʊd æt ˈɔːgənaɪzɪŋ ænd kəˈmjuːnɪkeɪtɪŋ/. /bɪˈsaɪdz aɪ ɪnˈʤɔɪ ˈwɜːkɪŋ ɪn ei tiːm/",
@@ -262,7 +262,7 @@
         },
         {
           "_id": {
-            "$oid": "da2e06db-1daa-473e-906b-da3c499a0fa3"
+            "$oid": "700b017e-c4af-43c5-9f0a-14a5ef177feb"
           },
           "dapAn": "My friends say I was impatient sometimes, but I’m trying to improve that.",
           "phienAm": "/maɪ frendz seɪ aɪ wɒz ɪmˈpeɪʃənt ˈsʌmtaɪmz bʌt aɪm ˈtraɪɪŋ tuː ɪmˈpruːv ðæt/",
@@ -278,7 +278,7 @@
         },
         {
           "_id": {
-            "$oid": "8ddefd86-0318-4771-ac5f-ed412ad8eade"
+            "$oid": "037c1951-d58c-422b-9f83-42beb724fca4"
           },
           "dapAn": "Becoming a newspaper editor is my biggest dream. I love to correct what people have written.",
           "phienAm": "/bɪˈkʌmɪŋ eɪ ˈnjuːzˌpeɪpər ˈedɪtər ɪz maɪ ˈbɪgɪst driːm/. /aɪ lʌv tuː kəˈrekt wɒt ˈpiːpl hæv ˈrɪtn/",
@@ -294,7 +294,7 @@
         },
         {
           "_id": {
-            "$oid": "d4456622-d9bf-40ba-9b32-775e1e49da73"
+            "$oid": "75bfc195-daf6-4688-98c3-6ba4933822a6"
           },
           "dapAn": "I’d need to give two weeks’ notice, but I could start immediately after that.",
           "phienAm": "/aɪd niːd tuː gɪv tuː wiːks ˈnəʊtɪs bʌt aɪ kʊd stɑːt ɪˈmiːdiətli ˈɑːftər ðæt/",
@@ -310,7 +310,7 @@
         },
         {
           "_id": {
-            "$oid": "f9db26cf-afae-435e-bf13-223a14a0b9c3"
+            "$oid": "f7276378-dde7-465c-975b-70daeceeb52e"
           },
           "dapAn": "No, thanks. I hope I have a chance to be a part of the company.",
           "phienAm": "/nəʊ θæŋks/. /aɪ həʊp aɪ hæv ei ʧɑːns tuː biː ei pɑːt ɒv ðə ˈkʌmpəni/",
@@ -326,7 +326,7 @@
         },
         {
           "_id": {
-            "$oid": "aea66e91-f1bf-4919-8115-ab75c2ef0437"
+            "$oid": "df2a1dcc-83c9-4ab9-bba2-9a2811d9aef7"
           },
           "dapAn": "Thank you. Have a nice day.",
           "phienAm": "/θæŋk juː/. /hæv eɪ naɪs deɪ/",

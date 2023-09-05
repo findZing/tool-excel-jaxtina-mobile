@@ -4,7 +4,7 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "c98894d6-93d8-49c9-a51d-2e259d99c047"
+        "$oid": "24a8abb4-4cd1-4e4c-9838-73a3f2cf7d5f"
       },
       "cauHoiNho": [],
       "cauHoi": "If you have a physical disability, or if currently, you <b><span style=\"color:blue\">(recover)</span></b><b> </b>___________ <b> </b>from an injury or disease, you may need to use a wheelchair.",
@@ -12,7 +12,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "d5d696cf-0f93-495c-bb82-44d743f17179"
+            "$oid": "cc563553-4343-401e-9382-c29c59dc777d"
           },
           "dapAn": "are recovering",
           "isCorrect": true
@@ -21,7 +21,7 @@
     },
     {
       "_id": {
-        "$oid": "96553d26-0eac-459f-91b7-c4d39a755ebe"
+        "$oid": "ab14f9b7-33c5-4dd6-80d9-f57805b279bf"
       },
       "cauHoiNho": [],
       "cauHoi": "If you <b><span style=\"color:blue\">(think) </span></b>___________<b> </b>about ways to use a wheelchair properly, this site will help you find information to help you with first-time wheelchair use.",
@@ -29,7 +29,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "c98ddd11-109e-4d9c-ae2c-3f73e7146cd4"
+            "$oid": "9e243c39-de42-4772-99ea-4f40e1f55c6d"
           },
           "dapAn": "are thinking",
           "isCorrect": true
@@ -38,7 +38,7 @@
     },
     {
       "_id": {
-        "$oid": "184e38ef-a23c-43cc-8e48-64b30ab1df14"
+        "$oid": "c2017e88-168d-4103-9890-4bd0a4b864eb"
       },
       "cauHoiNho": [],
       "cauHoi": "Make sure you <b><span style=\"color:blue\">(be) </span></b>___________<b> </b> comfortable.",
@@ -46,7 +46,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "d9f4ddfa-8a5a-4527-863f-b50138fe707b"
+            "$oid": "07e509a8-dc74-4770-9519-e76d354af0dc"
           },
           "dapAn": "are",
           "isCorrect": true
@@ -55,7 +55,7 @@
     },
     {
       "_id": {
-        "$oid": "273a4ab4-bc2e-4db9-bb14-cc2a34b067f3"
+        "$oid": "3651bd8d-f266-4841-9180-b76eb6cc4f8f"
       },
       "cauHoiNho": [],
       "cauHoi": "Speaking of comfort, experienced wheelchair users <b><span style=\"color:blue\">(know) </span></b>___________<b><i> </i></b>that a cushion is one of the best things you can buy if you are going to use it for a long time!",
@@ -63,7 +63,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "fd87d7c0-e0d6-4334-a551-c62a561c5c9d"
+            "$oid": "2841d260-1ff0-48ce-92a9-1a44d7f79dfa"
           },
           "dapAn": "know",
           "isCorrect": true
@@ -72,7 +72,7 @@
     },
     {
       "_id": {
-        "$oid": "8a661c5f-1e63-44ee-86f7-df6f6b38d717"
+        "$oid": "ac284507-2ce3-4fa9-99d7-33a2a2b6a623"
       },
       "cauHoiNho": [],
       "cauHoi": "Never travel too fast. Again, this sounds obvious, but even if you <b><span style=\"color:blue\">(need)</span></b> <i>___________</i><b><i> </i></b>to get somewhere quickly.",
@@ -80,7 +80,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "957ed6af-6350-4485-be0b-c5c7b205799d"
+            "$oid": "73a09f6f-2823-43e1-9c5b-59bece7deae8"
           },
           "dapAn": "need",
           "isCorrect": true
@@ -89,7 +89,7 @@
     },
     {
       "_id": {
-        "$oid": "7afb0a75-db6d-49e0-8f74-038368db1ed2"
+        "$oid": "a8c98b94-53d6-46cc-b2dd-ca2ef9617871"
       },
       "cauHoiNho": [],
       "cauHoi": "___________ <b><span style=\"color:blue\">(</span></b><b><span style=\"color:blue\">you / </span></b><b><span style=\"color:blue\">have)</span></b> problems moving your wheelchairs properly?",
@@ -97,7 +97,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "a50dbf63-5df5-4c97-a8f9-5299458061aa"
+            "$oid": "abada79f-c368-4f5c-a542-339c9502a177"
           },
           "dapAn": "Do you have / Are you having",
           "isCorrect": true
@@ -106,7 +106,7 @@
     },
     {
       "_id": {
-        "$oid": "125f4707-3ed0-4b34-8158-54817527ec30"
+        "$oid": "c0f8b417-717d-4041-a542-35f9c171d108"
       },
       "cauHoiNho": [],
       "cauHoi": "Do you ___________<b><span style=\"color:blue\">(know)</span> </b>how disabled people use technology?",
@@ -114,7 +114,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "ec5ceb5b-f294-4b89-a852-fc0e8f08ef24"
+            "$oid": "c1cf08c1-786d-4583-bf37-d7064bbdb8b2"
           },
           "dapAn": "know",
           "isCorrect": true
@@ -123,7 +123,7 @@
     },
     {
       "_id": {
-        "$oid": "b9e83147-6611-4208-8fcc-3659cf2a90cb"
+        "$oid": "29c816fa-ac1d-440b-8d94-fd9bf8c94ab6"
       },
       "cauHoiNho": [],
       "cauHoi": "I <b><span style=\"color:blue\">(not understand) </span></b>___________ how the technology will help people.",
@@ -131,7 +131,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "82aa7e55-ae4b-4291-a7ec-c93a0b96789a"
+            "$oid": "94c203a8-90da-4f7b-8a30-d60533ba436e"
           },
           "dapAn": "don't understand",
           "isCorrect": true
@@ -140,7 +140,7 @@
     },
     {
       "_id": {
-        "$oid": "5e9ee719-466c-4bb8-aca4-bbf651204a46"
+        "$oid": "1757c9bd-7ccb-44d6-ba4d-b77699111d72"
       },
       "cauHoiNho": [],
       "cauHoi": "I'm recovering from my injuries. But I<b> <span style=\"color:blue\">(not know) </span></b>___________ how to use a wheelchair properly?",
@@ -148,7 +148,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "cb1b80d9-ebd1-4dbb-a112-199c6194dffc"
+            "$oid": "18351441-ae9d-4c99-b981-8e683eb33ad6"
           },
           "dapAn": "don't know",
           "isCorrect": true
@@ -157,7 +157,7 @@
     },
     {
       "_id": {
-        "$oid": "cb3a9d46-fe98-407c-a720-9aa75d75087d"
+        "$oid": "2cca2425-2fab-4bf2-add7-8f17bb395202"
       },
       "cauHoiNho": [],
       "cauHoi": "Some people <b><span style=\"color:blue\">(be)</span></b> ___________ able to speak more than one language.",
@@ -165,7 +165,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "c8284288-5ee6-496e-a0b6-63a1343c4ab3"
+            "$oid": "29a0ab69-3980-4f07-8028-443ecae5ab8b"
           },
           "dapAn": "are",
           "isCorrect": true
@@ -174,7 +174,7 @@
     },
     {
       "_id": {
-        "$oid": "73e950b6-333c-4879-92ed-76fa9de64036"
+        "$oid": "0e536e0f-a9a9-4f5b-8a4f-b6ce9c68b9b7"
       },
       "cauHoiNho": [],
       "cauHoi": "How many language can you <b><span style=\"color:blue\">(speak)</span></b> ___________?",
@@ -182,7 +182,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "4dd2d415-58a4-408e-b763-e9b95213e81e"
+            "$oid": "97ef24c7-a061-4a1c-94ef-1895a94e7033"
           },
           "dapAn": "speak",
           "isCorrect": true
@@ -191,7 +191,7 @@
     },
     {
       "_id": {
-        "$oid": "5d128779-00d8-4401-93f8-173513ec4417"
+        "$oid": "a7991f59-8cb1-479c-8205-3073ba7214e7"
       },
       "cauHoiNho": [],
       "cauHoi": "He finally managed <b><span style=\"color:blue\">(learn)</span></b> ___________ how to play the piano.",
@@ -199,7 +199,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "81f89129-1ba9-4e0c-ba7d-4eae7171cdc1"
+            "$oid": "e8aeb4e5-cc71-4bb6-bfd8-5ce4be3a40e0"
           },
           "dapAn": "to learn",
           "isCorrect": true
@@ -208,7 +208,7 @@
     },
     {
       "_id": {
-        "$oid": "cd990041-f63a-4c22-8bf0-eed8a42a7923"
+        "$oid": "dcbb81b2-4cfb-4a15-bad5-4d8479b899c2"
       },
       "cauHoiNho": [],
       "cauHoi": "Even though my brother has perfect pitch, he didn't succeed in <b><span style=\"color:blue\">(become)</span></b> ___________ a musician.",
@@ -216,7 +216,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "b0ac28b0-f41a-4a51-98c8-a1b59e9553b7"
+            "$oid": "9381fd9d-4f2c-457f-adea-1602d04913b0"
           },
           "dapAn": "becoming",
           "isCorrect": true
@@ -225,7 +225,7 @@
     },
     {
       "_id": {
-        "$oid": "cdf3ed8d-b014-4bc2-b22c-ffd9b356a702"
+        "$oid": "1f648512-e3ef-4df0-9c26-97613e887513"
       },
       "cauHoiNho": [],
       "cauHoi": "Mozart<b> </b>managed<b> </b><b><span style=\"color:blue\">(write)</span></b> ___________ his first Symphony at the age of eight.",
@@ -233,7 +233,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "d2492d76-973b-4d4d-be04-0234f2515b67"
+            "$oid": "edc02352-49e3-45a5-afc9-2457d73e6214"
           },
           "dapAn": "to write",
           "isCorrect": true
@@ -242,7 +242,7 @@
     },
     {
       "_id": {
-        "$oid": "827ec82e-4673-458e-b9d1-304b8c7d887a"
+        "$oid": "65d515f1-5097-4c7a-a57d-ce15b3fcb679"
       },
       "cauHoiNho": [],
       "cauHoi": "Moving on to language learning, everybody is able<b> </b>___________ <b><span style=\"color:blue\">(learn)</span></b> a language.",
@@ -250,7 +250,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "86db3f54-1fd5-4110-9205-4d759b26400a"
+            "$oid": "04a9b91a-5891-40b3-a3b6-99bc9f033268"
           },
           "dapAn": "to learn",
           "isCorrect": true
@@ -259,7 +259,7 @@
     },
     {
       "_id": {
-        "$oid": "cba0b1b4-40a2-4718-bbcc-790075bfcfe3"
+        "$oid": "909daa5c-18b1-4330-ab4f-bda414f21412"
       },
       "cauHoiNho": [],
       "cauHoi": "I <b><span style=\"color:blue\">(can not) </span></b>___________ learn people's name easily when I was a kid.",
@@ -267,7 +267,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "4ee7302c-989b-46b0-9c87-a458c8c92db3"
+            "$oid": "91057f35-9645-46a9-a6f9-9226c6741945"
           },
           "dapAn": "couldn't / could not",
           "isCorrect": true
@@ -276,7 +276,7 @@
     },
     {
       "_id": {
-        "$oid": "4a1d042d-b922-4865-8e15-2537d472160f"
+        "$oid": "16e86f2d-7741-43bb-a800-03d9974f5b24"
       },
       "cauHoiNho": [],
       "cauHoi": "Some people can <b><span style=\"color:blue\">(learn)</span></b> ___________  language with incredible speed.",
@@ -284,7 +284,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "03ca9a31-7cad-4710-b37a-69d4d478d469"
+            "$oid": "16a34f4d-3440-452c-98c5-beadfc792b7b"
           },
           "dapAn": "learn",
           "isCorrect": true
@@ -293,7 +293,7 @@
     },
     {
       "_id": {
-        "$oid": "1cda9872-4dba-4709-92e1-9a529fc94d46"
+        "$oid": "ac11075e-5db0-4cf1-920f-9c4cd42030da"
       },
       "cauHoiNho": [],
       "cauHoi": "Picasso was a child genius who <b><span style=\"color:blue\">(can)</span></b><b> </b><b>___________</b> paint when he was only five.",
@@ -301,7 +301,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "695dff95-5289-4c4f-9585-66dbcf775012"
+            "$oid": "3a505273-d342-451d-b71c-a7e21f8af74e"
           },
           "dapAn": "could",
           "isCorrect": true
@@ -310,7 +310,7 @@
     },
     {
       "_id": {
-        "$oid": "8fec9f9f-fab1-412f-88e0-a8fa82f69120"
+        "$oid": "c0d188c4-01e3-4f02-b1ba-6c4d9a299836"
       },
       "cauHoiNho": [],
       "cauHoi": "Last week, I succeeded in <b><span style=\"color:blue\">(finish) </span>___________ </b>my project.",
@@ -318,7 +318,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "f6dbfdd7-599e-4924-8dd0-d696c42d6300"
+            "$oid": "17328586-0381-4e0f-b165-253e639afc30"
           },
           "dapAn": "finishing",
           "isCorrect": true
@@ -327,7 +327,7 @@
     },
     {
       "_id": {
-        "$oid": "64832b78-b423-4d0a-a6d6-aaff6ef3a8b8"
+        "$oid": "bdea0e0a-2d60-47b1-bb69-30a28dc0b256"
       },
       "cauHoiNho": [],
       "cauHoi": "Yesterday, I finally managed <b><span style=\"color:blue\">(save) </span>___________</b> enough money to take a vacation?",
@@ -335,7 +335,7 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "370c318d-aeed-4271-8def-9171e8b469da"
+            "$oid": "aa88e318-d064-4a40-a081-5fe07f339989"
           },
           "dapAn": "to save",
           "isCorrect": true

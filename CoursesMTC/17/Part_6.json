@@ -4,7 +4,7 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "22ea9caf-39b9-4eb2-8634-82f3d64d73ef"
+        "$oid": "59935e45-4458-4917-a089-4eed9a39267f"
       },
       "cauHoiNho": [],
       "cauHoi": "<table>\n        <tbody>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jane:</b></td>\n                        <td>Hey Molly, did you read the news about MTC company?</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Molly:</b></td>\n                        <td>Yes, I read it yesterday. I was shocked but I know it's just a <b>(1) ____</b>.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jane:</b></td>\n                        <td>How do you know that? Many people talk about it.</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Molly:</b></td>                        <td>I have some <b>(2) ____ </b>to find the <b>(3) ____ </b>stories among the fake news.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jane:</b></td>\n                        <td>Please, tell me about it. It's a waste of time reading <b>(4) ____</b>.</td>\n                </tr>\n        </tbody>\n</table>\n",
@@ -14,35 +14,35 @@
           "dapAn": "rumor",
           "isCorrect": true,
           "_id": {
-            "$oid": "9f842b8d-6889-435e-9207-e985b35559a9"
+            "$oid": "d8d94d1a-ec30-4fea-9a2a-c7442248b5bc"
           }
         },
         {
           "dapAn": "steps",
           "isCorrect": true,
           "_id": {
-            "$oid": "ec3fb9a1-67b0-41f2-af2b-fbd71e6d8d79"
+            "$oid": "bd3e87d3-594e-4666-bed2-b9d523fb76d1"
           }
         },
         {
           "dapAn": "real",
           "isCorrect": true,
           "_id": {
-            "$oid": "c98baa0d-c24e-43c9-a5fe-cf1370044dca"
+            "$oid": "079cc08e-4f26-4486-a43f-cdc8be7508f6"
           }
         },
         {
           "dapAn": "disinformation",
           "isCorrect": true,
           "_id": {
-            "$oid": "c9544101-24d3-4b99-934c-d2814c6c3026"
+            "$oid": "5850af16-efa4-4275-a452-3035e23012ef"
           }
         }
       ]
     },
     {
       "_id": {
-        "$oid": "755f3558-38fd-49c6-9d44-c95c036bfab8"
+        "$oid": "3ef91674-b3c0-4be1-a586-d5d353d74595"
       },
       "cauHoiNho": [],
       "cauHoi": "<table>\n        <tbody>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Molly:</b></td>                        <td colspan=\"2\">Alright. First, <b>(1)</b> <b>____</b> about the source. Look at the website that the story <b>(2)</b> <b>____</b>.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jane:</b></td>\n                        <td colspan=\"2\">I have to check whether it's <b>(3)</b> <b>____</b> or not?</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Molly:</b></td>                        <td colspan=\"2\">Exactly. Then you check the text on the website. It may not be very <b>(4)</b> <b>____</b>.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jane:</b></td>\n                        <td colspan=\"2\">I got it. I need to check the website, the text. <br />\n                </tr>\n        </tbody>\n</table>\n",
@@ -52,35 +52,35 @@
           "dapAn": "find out ",
           "isCorrect": true,
           "_id": {
-            "$oid": "419fdd2a-749a-43e5-bcfb-8fd1e0faf84a"
+            "$oid": "c357aaa6-51ed-49c1-9c35-474f308bc96b"
           }
         },
         {
           "dapAn": "comes from ",
           "isCorrect": true,
           "_id": {
-            "$oid": "4f0357fd-38d6-4d5b-bd92-fc44dbb44864"
+            "$oid": "6fb36188-1ef0-40b1-b984-323284e6ffa8"
           }
         },
         {
           "dapAn": "reliable",
           "isCorrect": true,
           "_id": {
-            "$oid": "09a9923e-98f7-467a-807b-63fdf05cfb7f"
+            "$oid": "f590d8a0-d5e5-44be-8d47-dc4225350a0e"
           }
         },
         {
           "dapAn": "well-written",
           "isCorrect": true,
           "_id": {
-            "$oid": "eee271bf-dd82-461c-a7ea-fd7dbc293989"
+            "$oid": "743dc5e7-8c9e-4246-a1b7-85244436fa73"
           }
         }
       ]
     },
     {
       "_id": {
-        "$oid": "ee8b378b-d5f9-4a7e-a5f2-d2d39b725b80"
+        "$oid": "5b2ca915-4ec0-4914-8a23-21f5e1e12aec"
       },
       "cauHoiNho": [],
       "cauHoi": "<table>\n        <tbody>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Molly:</b></td>                        <td colspan=\"2\">Next, look at the <b>(1)</b>  <b>____</b>. Look for proof with their other articles.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jane:</b></td>\n                        <td colspan=\"2\">If they haven't written anything else for a source I <b>(2)</b> <b>____</b>, the article could spread fake news, right?</td>\n                </tr>\n                <tr>\n<td style=\"vertical-align: top;\"><b>Molly:</b></td>                        <td colspan=\"2\">Excellent! The article <b>(3)</b> <b>____</b> links to other articles and authors. Click on the links and check if the sources are <b>(4)</b> <b>____</b>.</td>\n                </tr>\n                <tr>\n                        <td style=\"vertical-align: top;\"><b>Jane:</b></td>\n                        <td colspan=\"2\">I haven't thought about it before. You are so careful!<br />\n                </tr>\n        </tbody>\n</table>\n",
@@ -90,35 +90,35 @@
           "dapAn": "authors ",
           "isCorrect": true,
           "_id": {
-            "$oid": "c525ae83-dbab-4b23-8d18-5f497aeb4576"
+            "$oid": "3ec4d3aa-2ca3-4225-90a0-6f4585528b1b"
           }
         },
         {
           "dapAn": "trust ",
           "isCorrect": true,
           "_id": {
-            "$oid": "d0d819f4-1830-4ae7-a86e-0f8166877c9a"
+            "$oid": "3c67c357-d313-4f30-9a72-f3394ccf25df"
           }
         },
         {
           "dapAn": "contains",
           "isCorrect": true,
           "_id": {
-            "$oid": "46c17c3e-68d9-47af-a7a9-da0613b0c929"
+            "$oid": "f352343f-7a32-4fbb-8ce0-597d72e9b8f9"
           }
         },
         {
           "dapAn": "real ",
           "isCorrect": true,
           "_id": {
-            "$oid": "1efd7d48-41fe-4b21-997b-2bbb77f3c78f"
+            "$oid": "6bf3ebf4-8a7e-482b-a056-0ece16481e53"
           }
         }
       ]
     },
     {
       "_id": {
-        "$oid": "8f8d49c0-c755-4c76-bb9a-1f77fb248de9"
+        "$oid": "067ec7f8-9d4c-44ba-a72a-55f82998ec33"
       },
       "cauHoiNho": [],
       "cauHoi": "Due to the impact of 24/7 online new sites, it is not surprising that newspaper sales have decreased and TV news audiences become <b>(1) ____</b> in recent years. It's too <b>(2) ____</b> to say how this will influence how we deliver the news, but given the importance of the <b>(3)</b> <b>____</b>, it is likely to adapt to <b>(4)</b> <b>____</b> development.",
@@ -128,35 +128,35 @@
           "dapAn": "smaller",
           "isCorrect": true,
           "_id": {
-            "$oid": "ff98490a-20ef-4b8e-9fdc-2e96ce39e9ad"
+            "$oid": "703b44e6-d0fb-4995-83b8-c59821ee6cd4"
           }
         },
         {
           "dapAn": "early ",
           "isCorrect": true,
           "_id": {
-            "$oid": "2982a626-dd4d-44b8-b5f8-1ab6d31cd0d4"
+            "$oid": "74ed110b-30fe-4ea5-84f1-4eef56da4262"
           }
         },
         {
           "dapAn": "industry",
           "isCorrect": true,
           "_id": {
-            "$oid": "852fd4b1-99d3-4137-b657-4ecb6dc05fd5"
+            "$oid": "7f20e499-6068-4b0e-bc5e-b7fae5f2b13b"
           }
         },
         {
           "dapAn": "technological ",
           "isCorrect": true,
           "_id": {
-            "$oid": "0ca9c8d8-9846-47c0-b371-5a4fe3b2d930"
+            "$oid": "9ac26241-5885-4797-9692-637fa902cbe8"
           }
         }
       ]
     },
     {
       "_id": {
-        "$oid": "234ee541-e27a-4037-8b67-a1c81afa83ac"
+        "$oid": "0a067a02-b13e-4c8b-b6bf-27c8b8107252"
       },
       "cauHoiNho": [],
       "cauHoi": "I see no point in buying <b>(1)</b> <b>____</b> these days when news is <b>(2)</b> <b>____</b> so quicky because of the frequent change. I do read <b>(3)</b> <b>____</b> articles online and occasionally watch the news on television if there's any \"big\" international event although I'm not really into <b>(4)</b> <b>____</b> affairs.",
@@ -166,28 +166,28 @@
           "dapAn": "newspapers",
           "isCorrect": true,
           "_id": {
-            "$oid": "a2084c43-1eb8-4c5c-ac06-0631553350d5"
+            "$oid": "11976827-4020-43cc-93fa-0ffdc936e9c5"
           }
         },
         {
           "dapAn": "reported",
           "isCorrect": true,
           "_id": {
-            "$oid": "bdc8817a-05ae-4ee7-b9a4-997f09d6bbd4"
+            "$oid": "9314bd6e-35fb-4d01-b30b-2c04c3c354ff"
           }
         },
         {
           "dapAn": "news",
           "isCorrect": true,
           "_id": {
-            "$oid": "866e67d3-e7cd-468f-9372-87b5b21bb0bf"
+            "$oid": "923a07c3-06f7-481a-a1b3-7d4e71619a6c"
           }
         },
         {
           "dapAn": "current",
           "isCorrect": true,
           "_id": {
-            "$oid": "347afc8d-d43a-4224-bbf7-3cd8b0d08da2"
+            "$oid": "081714f3-d1e0-4998-906c-b28822033252"
           }
         }
       ]

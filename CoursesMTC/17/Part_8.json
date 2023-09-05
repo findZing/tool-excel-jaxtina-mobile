@@ -6,14 +6,14 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "f1475b52-25e2-4299-8daf-eeab150cf28a"
+        "$oid": "f1f07803-2e44-423e-9559-2a933cfbdd97"
       },
       "cauHoiNho": [],
       "cauHoi": "Jake ",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "bbe61610-d0be-4b2f-acc6-7a316e9b7853"
+            "$oid": "2cc47b09-4aaf-4da5-8bb2-c9e9d1e8b48c"
           },
           "dapAn": "Hey Molly, did you read the news about MTC company?",
           "phienAm": "/heɪ ˈmɒli dɪd juː riːd ðə njuːz əˈbaʊt emtiːsiː ˈkʌmpəni/",
@@ -29,7 +29,7 @@
         },
         {
           "_id": {
-            "$oid": "b78e3513-d1cf-4273-9f78-b69452cbd747"
+            "$oid": "69741b1b-9d23-42fa-bca9-9a0ae353ed01"
           },
           "dapAn": "How do you know that? Many people talk about it.",
           "phienAm": "/haʊ duː juː nəʊ ðæt/. /ˈmeni ˈpiːpl tɔːk əˈbaʊt ɪt/",
@@ -45,7 +45,7 @@
         },
         {
           "_id": {
-            "$oid": "2a36ddde-ba4b-4871-9445-eb4383be2620"
+            "$oid": "5e5918e1-7a6a-4ca7-bf54-2437413c620b"
           },
           "dapAn": "Please, tell me about it. It’s a waste of time reading disinformation.",
           "phienAm": "/pliːz tel miː əˈbaʊt ɪt/. /ɪts ei weɪst ɒv taɪm ˈriːdɪŋ ˌdɪsˌɪnfəˈmeɪʃn/",
@@ -61,7 +61,7 @@
         },
         {
           "_id": {
-            "$oid": "7c48a069-e4f2-4eb2-856b-ecee679d337b"
+            "$oid": "8640cacb-91d1-4fb8-8acc-13ed7fcf9c47"
           },
           "dapAn": "I have to check whether it’s reliable or not?",
           "phienAm": "/aɪ hæv tuː ʧek ˈweðər ɪts rɪˈlaɪəbl ɔːr nɒt/",
@@ -77,7 +77,7 @@
         },
         {
           "_id": {
-            "$oid": "6be3a8c7-3fdd-4091-9589-c041d7b81172"
+            "$oid": "9e6e6d00-3ae2-4731-ad5b-202ffd4e2d58"
           },
           "dapAn": "I got it. I need to check the website, the text. What else?",
           "phienAm": "/aɪ gɒt ɪt/. /aɪ niːd tuː ʧek ðiː ˈwebˌsaɪt ðiː tekst/. /wɒt els/",
@@ -93,7 +93,7 @@
         },
         {
           "_id": {
-            "$oid": "15de529d-6ac2-4f71-b279-9759cc3e7722"
+            "$oid": "b1b8fd9f-adda-4bce-9faf-46bdea1c3732"
           },
           "dapAn": "OK. I will remember to check the source first.",
           "phienAm": "/əʊˈkeɪ/. /aɪ wɪl rɪˈmembər tuː ʧek ðiː sɔːs fɜːst/",
@@ -109,7 +109,7 @@
         },
         {
           "_id": {
-            "$oid": "bb5085cf-0395-4bde-8824-5d9e958d4c37"
+            "$oid": "ea7bf3d5-e30e-4785-a557-e16eadfffd17"
           },
           "dapAn": "If they haven’t written anything else for a source I trust, the article could spread fake news, right?",
           "phienAm": "/ɪf ðeɪ hævnt ˈrɪtn ˈenɪθɪŋ els fɔːr ei sɔːs aɪ trʌst ðiː ˈɑːtɪkl kʊd spred feɪk njuːz raɪt/",
@@ -125,7 +125,7 @@
         },
         {
           "_id": {
-            "$oid": "4b3c4ade-fd4f-4df9-a979-5e87176c8abd"
+            "$oid": "2c9bdd74-738f-4dc4-968f-e43bb3738c5a"
           },
           "dapAn": "I haven’t thought about it before. You are so careful!",
           "phienAm": "/aɪ hævnt θɔːt əˈbaʊt ɪt bɪˈfɔːr/. /juː ɑːr səʊ ˈkeəfʊl/",
@@ -141,7 +141,7 @@
         },
         {
           "_id": {
-            "$oid": "773091b2-3b3c-44a0-ae81-5a7085bf4a63"
+            "$oid": "c9652176-13bf-4ac7-9bb5-91b56276c861"
           },
           "dapAn": "Can you be a bit clearer, please?",
           "phienAm": "/kæn juː biː eɪ bɪt ˈklɪərər pliːz/",
@@ -157,7 +157,7 @@
         },
         {
           "_id": {
-            "$oid": "b3546bd8-17d2-4d93-a499-4ba054ba707e"
+            "$oid": "1b6e7c3a-1594-485e-a9ef-1bdef3a43085"
           },
           "dapAn": "Understood. Thanks for the helpful advice!",
           "phienAm": "/ˌʌndəˈstʊd/. /θæŋks fɔːr ðə ˈhelpfʊl ədˈvaɪs/",
@@ -175,14 +175,14 @@
     },
     {
       "_id": {
-        "$oid": "3b7bc7a6-8d08-4b2e-8174-34d5b7846eae"
+        "$oid": "aa29d920-b7a1-4211-86b8-bcd6abf815a6"
       },
       "cauHoiNho": [],
       "cauHoi": "Molly",
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "7d0657cc-5a68-4815-9ac7-de8fd1bdeda5"
+            "$oid": "c63a54c7-f4ea-472a-8a8b-d1d38927e25e"
           },
           "dapAn": "Yes, I read it yesterday. I was shocked but I know it’s just a rumor.",
           "phienAm": "/jes aɪ riːd ɪt ˈjestədeɪ/. /aɪ wɒz ʃɒkt bʌt aɪ nəʊ ɪts ʤʌst eɪ ˈruːmər/",
@@ -198,7 +198,7 @@
         },
         {
           "_id": {
-            "$oid": "88348806-86b0-491b-b4a5-eb1f4c303719"
+            "$oid": "2f164a35-9d5d-4630-8499-a2a9c0a441f5"
           },
           "dapAn": "I have some steps to find the real stories among the fake news.",
           "phienAm": "/aɪ hæv sʌm steps tuː faɪnd ðiː rɪəl ˈstɔːriz əˈmʌŋ ðiː feɪk njuːz/",
@@ -214,7 +214,7 @@
         },
         {
           "_id": {
-            "$oid": "bd1250fd-ae7d-486c-9cef-956b429a1aa5"
+            "$oid": "c657933f-5e0b-4844-b48f-5782985f423c"
           },
           "dapAn": "Alright. First, find out about the source. Look at the website that the story comes from.",
           "phienAm": "/ɔːlˈraɪt/. /fɜːst faɪnd aʊt əˈbaʊt ðiː sɔːs/. /lʊk æt ðiː ˈwebˌsaɪt ðæt ðə ˈstɔːri kʌmz frɒm/",
@@ -230,7 +230,7 @@
         },
         {
           "_id": {
-            "$oid": "65a86deb-41cb-457d-9e9e-b11e1e7d6e3f"
+            "$oid": "354cbe0f-051a-42d7-a0e3-e932bd534b06"
           },
           "dapAn": "Exactly. Then you check the text on the website. It may not be very well written.",
           "phienAm": "/ɪgˈzæktli/. /ðen juː ʧek ðiː tekst ɒn ðiː ˈwebˌsaɪt/. /ɪt meɪ nɒt biː ˈveri wel ˈrɪtn/",
@@ -246,7 +246,7 @@
         },
         {
           "_id": {
-            "$oid": "884a57e0-44dc-46d7-825e-0d53812b038b"
+            "$oid": "533a367c-c594-4b5a-99ba-24f9313d000f"
           },
           "dapAn": "See if the pictures are clear. If you aren’t sure, research the organization and its history.",
           "phienAm": "/siː ɪf ðiː ˈpɪkʧəz ɑːr klɪər/. /ɪf juː ɑːnt ʃʊər rɪˈsɜːʧ ðiːˌɔːgənaɪˈzeɪʃən ænd ɪts ˈhɪstəri/",
@@ -262,7 +262,7 @@
         },
         {
           "_id": {
-            "$oid": "b4c00d52-e309-46d1-82f1-287dec3cdce6"
+            "$oid": "a17f1d8a-8030-4b4f-93c1-d62d2d90504f"
           },
           "dapAn": "Next, look at the authors. Look for proof with their other articles.",
           "phienAm": "/nekst lʊk æt ðiː ˈɔːθəz/. /lʊk fɔːr pruːf wɪð ðeər ˈʌðər ˈɑːtɪklz/",
@@ -278,7 +278,7 @@
         },
         {
           "_id": {
-            "$oid": "2b0769c7-1bbe-4784-8f68-d1b180b499be"
+            "$oid": "02e45f50-ebfa-4e29-8366-8e8394dbe42b"
           },
           "dapAn": "Excellent! The article contains links to other articles and authors. Click on the links and check if the sources are real.",
           "phienAm": "/ˈeksələnt/. /ðiː ˈɑːtɪkl kənˈteɪnz lɪŋks tuː ˈʌðər ˈɑːtɪklz ænd ˈɔːθəz/. /klɪk ɒn ðiː lɪŋks ænd ʧek ɪf ðiː ˈsɔːsɪz ɑːr rɪəl/",
@@ -294,7 +294,7 @@
         },
         {
           "_id": {
-            "$oid": "faa5f6fb-4bfa-47cf-8d83-30662cf3e74e"
+            "$oid": "2ae2bf68-f15d-4a76-9f14-f2f0524e6907"
           },
           "dapAn": "Finally, always question what you read on the Internet.",
           "phienAm": "/ˈfaɪnəli ˈɔːlweɪz ˈkwesʧən wɒt juː riːd ɒn ðiː ˈɪntəˌnet/",
@@ -310,7 +310,7 @@
         },
         {
           "_id": {
-            "$oid": "1080a2a7-35a4-473f-ace7-7b66dd126903"
+            "$oid": "ffcc6eaf-41ab-4677-80e6-038beb99a489"
           },
           "dapAn": "Some of a story might be accurate, but it may not show the complete picture.",
           "phienAm": "/sʌm ɒv eɪ ˈstɔːri maɪt biː ˈækjʊrɪt bʌt ɪt meɪ nɒt ʃəʊ ðə kəmˈpliːt ˈpɪkʧər/",
@@ -326,7 +326,7 @@
         },
         {
           "_id": {
-            "$oid": "4d1e06e6-bb38-43bc-ac71-8624f9c23ca2"
+            "$oid": "e27230b6-abff-4c57-82b0-dec6e9dc8d4b"
           },
           "dapAn": "Don’t mention it.",
           "phienAm": "/dəʊnt ˈmenʃən ɪt/",

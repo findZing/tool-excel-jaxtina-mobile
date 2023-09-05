@@ -4,7 +4,7 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "94669ff0-aaf1-40d6-a46a-9645122f146b"
+        "$oid": "a6bb617f-5892-44c5-856e-5bc333d8e05a"
       },
       "cauHoiNho": [],
       "cauHoi": "Can I ask you some questions about __________?",
@@ -12,21 +12,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "456297cb-5d8c-4a42-9f00-4aced98421d1"
+            "$oid": "095fc370-6735-4939-974c-c57afa422a1c"
           },
           "dapAn": "technology",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "04ca1941-8865-414d-af85-4528ee2f606b"
+            "$oid": "93a0370b-709d-4249-9cb7-5b7d530778ed"
           },
           "dapAn": "science",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "f7e367eb-28e3-44ce-b68a-86643e74a856"
+            "$oid": "7bf89507-1487-4e56-aaf5-6adceabcf410"
           },
           "dapAn": "work",
           "isCorrect": false
@@ -37,7 +37,7 @@
     },
     {
       "_id": {
-        "$oid": "18598f47-7e62-4799-a142-cf91a10fc9af"
+        "$oid": "d48329c8-7250-4e75-b7e6-7d6471559365"
       },
       "cauHoiNho": [],
       "cauHoi": "The first question: What is __________ about technology?",
@@ -45,21 +45,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "bfb289af-f123-44f9-aefa-25693789703e"
+            "$oid": "adb711c6-7811-4930-97e0-a6c32103c1de"
           },
           "dapAn": "interesting",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "3a3b193b-b344-449b-a11c-b95e0c73fe14"
+            "$oid": "00ba010d-24ab-4377-b96b-1f132f6716a0"
           },
           "dapAn": "special",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "02fdb7ad-5c47-4905-bd8f-291d43f95ee6"
+            "$oid": "065ed85c-8ab0-454e-8a7b-912b4764cc2f"
           },
           "dapAn": "awesome",
           "isCorrect": false
@@ -70,7 +70,7 @@
     },
     {
       "_id": {
-        "$oid": "ba35efae-9027-49fd-b495-2ffe686674af"
+        "$oid": "6be47024-f162-4601-a9a0-38d577287673"
       },
       "cauHoiNho": [],
       "cauHoi": "I think technology _________ our quality of life.",
@@ -78,21 +78,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "3bff8b17-c8e9-4096-8754-44de4fbac9a2"
+            "$oid": "b9981cdc-fa96-4fe0-abf2-121fd1b2d6cf"
           },
           "dapAn": "upgrades",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "78009f5c-1570-4943-ad67-420e5a9250b5"
+            "$oid": "ff42c94d-9793-4f77-9a82-1772fbce1895"
           },
           "dapAn": "improves",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "5fe5eb06-d54d-40f4-8c57-3f782aeb2486"
+            "$oid": "6010996a-ceba-4ab7-9a7e-bf50416f9693"
           },
           "dapAn": "changes",
           "isCorrect": false
@@ -103,7 +103,7 @@
     },
     {
       "_id": {
-        "$oid": "6a106450-68a3-44d7-8000-b7584499d9b5"
+        "$oid": "f9bdd0e1-65ea-40cd-a7d8-cb0bc8db40d1"
       },
       "cauHoiNho": [],
       "cauHoi": "It eliminates routine __________, for example, washing machines and dishwashers.",
@@ -111,21 +111,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "d08d8ace-9b49-4937-98f0-704493e2e7c0"
+            "$oid": "21dc0e28-5acc-4da6-bbd6-f5262926ca5d"
           },
           "dapAn": "works",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "5e21224f-f7d3-4f55-8a32-9085ca03d991"
+            "$oid": "c0e0aceb-c9e4-417d-955c-90af10934d12"
           },
           "dapAn": "tasks",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "34bb8c52-b3fb-4870-b49f-9299f2c25edb"
+            "$oid": "f2f32acb-689d-49f8-bf22-bb3ace864363"
           },
           "dapAn": "chores",
           "isCorrect": true
@@ -136,7 +136,7 @@
     },
     {
       "_id": {
-        "$oid": "d00b4940-6893-4e78-9314-e18e7341826e"
+        "$oid": "4655927d-3e16-4252-9687-082c033bc015"
       },
       "cauHoiNho": [],
       "cauHoi": "I totally agree with you. We don’t have to spend much ________ doing that.",
@@ -144,21 +144,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "96e20175-8b18-4e30-924f-8aa2be77b50d"
+            "$oid": "b043aca3-940d-40e0-8ae1-219c166f70e7"
           },
           "dapAn": "money",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "61afec80-e57c-4b1c-9858-1deb6ac9391b"
+            "$oid": "f76ee4bb-f930-44f9-b4c8-50a0c52958e6"
           },
           "dapAn": "effort",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "347ef1d5-d2b1-4e9e-bf95-026b24b91b43"
+            "$oid": "71df7a76-aea5-405a-ae80-0d778af9d505"
           },
           "dapAn": "time",
           "isCorrect": true
@@ -169,7 +169,7 @@
     },
     {
       "_id": {
-        "$oid": "aa0ba967-d53b-40a7-b5f9-fe2145680c2b"
+        "$oid": "8f9dae52-a839-4a46-b03f-0e6444c3f076"
       },
       "cauHoiNho": [],
       "cauHoi": "Moreover, thanks to technology, we’re able to ___________ easily with friends and family from a far distance.",
@@ -177,21 +177,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "d4cf9b94-d4ee-487d-86aa-4d923e90033d"
+            "$oid": "8386777f-e204-42a8-a6bd-249656dd0f38"
           },
           "dapAn": "talk",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "e338fd4c-3399-47ae-b971-927c66c06e03"
+            "$oid": "381fbe55-858b-4b56-899a-e27a3bfb6f9a"
           },
           "dapAn": "communicate",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "7e0977be-0959-4535-b666-78d1bf15b52b"
+            "$oid": "a37e7195-178f-4758-9a8d-ac2b23bfd36a"
           },
           "dapAn": "connect",
           "isCorrect": false
@@ -202,7 +202,7 @@
     },
     {
       "_id": {
-        "$oid": "15bc08f9-0696-43de-8221-e82b2e906a92"
+        "$oid": "3bf453a7-beb9-4ad0-92ae-ee697642c9b5"
       },
       "cauHoiNho": [],
       "cauHoi": "It has been the greatest _____________ achievement of the decade.",
@@ -210,21 +210,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "5985eef9-6cfd-4178-b029-0ecc2daa4494"
+            "$oid": "3e15164c-fc0a-4172-829e-ba3c7046121c"
           },
           "dapAn": "technological",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "a055dae1-f030-4dc3-acda-dd81712362fb"
+            "$oid": "3f342c2d-4f4f-41c3-b28f-268290675624"
           },
           "dapAn": "scientific",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "bbdca82e-15db-4807-afc5-3d8424dac3ec"
+            "$oid": "5fc64c9a-1b6f-49b6-ba3b-79fa72965b23"
           },
           "dapAn": "technical",
           "isCorrect": false
@@ -235,7 +235,7 @@
     },
     {
       "_id": {
-        "$oid": "7408136c-fe53-44c1-85e3-7a36e939f7d2"
+        "$oid": "23be5971-08a6-4fe6-842d-327a8ac11921"
       },
       "cauHoiNho": [],
       "cauHoi": "Do you know how ___________ people use technology?",
@@ -243,21 +243,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "d64a0edc-5b74-4651-83a1-c022ce586fd8"
+            "$oid": "abf6681d-e56e-4046-8223-906b7fd4241e"
           },
           "dapAn": "disabled",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "0721a0f1-6575-4c97-aa80-f26eaa0818d4"
+            "$oid": "c2d9d850-565a-4eb4-9599-526e4bafc6fd"
           },
           "dapAn": "skill",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "34f2e1b1-5e06-4fc3-98ae-9a4911a889dc"
+            "$oid": "3306e5a9-c9ce-4663-9d64-0b06e70e7b59"
           },
           "dapAn": "degree",
           "isCorrect": false
@@ -268,7 +268,7 @@
     },
     {
       "_id": {
-        "$oid": "9126c0c7-39f9-4bd7-a271-383db3267593"
+        "$oid": "23987c54-29d1-4da1-8b25-bc4d320f20e0"
       },
       "cauHoiNho": [],
       "cauHoi": "It depends on their __________ needs and preferences.",
@@ -276,21 +276,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "d44c47a4-f7dd-4eca-ad7b-88e5fcc1f8a9"
+            "$oid": "0a7b90a3-80c8-46c1-8187-b6e4baee0276"
           },
           "dapAn": "personal",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "a38773f8-2cf7-40bd-91c1-3ab2044882a4"
+            "$oid": "19b7cd91-8354-4598-8d8e-32339ea8d600"
           },
           "dapAn": "own",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "7492178d-4021-4175-b0bb-78feb882139d"
+            "$oid": "d71c3476-d825-430a-833c-e24daf36c914"
           },
           "dapAn": "individual",
           "isCorrect": true
@@ -301,7 +301,7 @@
     },
     {
       "_id": {
-        "$oid": "e70553eb-5192-415a-ba05-024364b48767"
+        "$oid": "88bad802-9c58-49be-a60a-74731bf29188"
       },
       "cauHoiNho": [],
       "cauHoi": "Do you know Hugh Herr, _____________ of the MIT Center for Extreme Bionics?",
@@ -309,21 +309,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "3fc10a18-d8a1-43ca-928e-cf08a6b43df4"
+            "$oid": "18119505-b9d1-4ae8-aff9-5c9534204264"
           },
           "dapAn": "director",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "d3cc8cbe-0146-4441-bdfb-2b4c57d28cfd"
+            "$oid": "e60fa6aa-06e2-4c1a-a0a4-81783af21386"
           },
           "dapAn": "co-director",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a2b9ff8e-6987-47c1-a59c-ca79c7338488"
+            "$oid": "96314b64-5fa2-4eeb-b676-598c2a0b2e33"
           },
           "dapAn": "co-founder",
           "isCorrect": false
@@ -334,7 +334,7 @@
     },
     {
       "_id": {
-        "$oid": "f0eff6fe-5ea0-4350-bb92-8236ae64e0a2"
+        "$oid": "4fd2f77a-66da-45f6-8007-988056be6570"
       },
       "cauHoiNho": [],
       "cauHoi": "He ___________ and developed new bionic legs after losing both of his legs. ",
@@ -342,21 +342,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "ca7b60d0-e984-4f46-8718-0b69c953c620"
+            "$oid": "2a861ce8-2a94-47ba-b06e-40e3a1a3b2fc"
           },
           "dapAn": "designed",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "c91ff8ca-ed63-4552-bb45-9215edd55bde"
+            "$oid": "e3c5f431-2ed2-42ed-bfd9-e871b185f539"
           },
           "dapAn": "created",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "48bf44a5-5bd5-4047-adca-f87e5629969b"
+            "$oid": "85cdc3df-a7b7-44d7-b264-1564e6d3901c"
           },
           "dapAn": "invented",
           "isCorrect": false
@@ -367,7 +367,7 @@
     },
     {
       "_id": {
-        "$oid": "2d6e01b4-10e3-4e4b-b749-646be57ed2c2"
+        "$oid": "b95621c6-21c8-4d49-9faf-6a2c0e75c49b"
       },
       "cauHoiNho": [],
       "cauHoi": "He is amazing! Through the use of technology, we are changing the world that is ____________ to us.",
@@ -375,21 +375,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "ef15b56d-d4eb-40da-bb2f-305fb590127d"
+            "$oid": "2963fdb3-e58e-4e6f-9885-58563786bc2b"
           },
           "dapAn": "accessible",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "577f461d-249c-4ecc-a41e-804a126ec675"
+            "$oid": "45f49922-a932-42b2-83fe-9703e9bac94f"
           },
           "dapAn": "efficient",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "abf59fb6-fbc9-49fe-aa4e-f7d94ebab749"
+            "$oid": "e716871c-09cb-45ac-b8d2-6295bda818a8"
           },
           "dapAn": "impossible",
           "isCorrect": false
@@ -400,7 +400,7 @@
     },
     {
       "_id": {
-        "$oid": "e02f9957-3aed-4181-a6ec-ab3762bd419e"
+        "$oid": "a4d305fa-a4d9-412d-bd1d-0c7a714edc96"
       },
       "cauHoiNho": [],
       "cauHoi": "Come on! If we miss our flight, this vacation is going to _________ a disaster.",
@@ -408,21 +408,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "6f10f023-03d6-40ce-a028-1d333629c03f"
+            "$oid": "9ec0bc36-0fbe-4721-b805-4f6158372b6f"
           },
           "dapAn": "become",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "2261eaf8-93d9-4006-8416-6ef572fb46f8"
+            "$oid": "bc1b3fb6-854e-4aeb-b449-817f69f31600"
           },
           "dapAn": "be",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "64dd1bd6-b2db-485f-ab81-f7578d9d57d8"
+            "$oid": "0e0aa449-f9bb-45cf-83ad-d96f5422d36f"
           },
           "dapAn": "turn into",
           "isCorrect": true
@@ -433,7 +433,7 @@
     },
     {
       "_id": {
-        "$oid": "4a0b8bf9-2af1-472a-90d8-1bd6c03b0757"
+        "$oid": "615fdb54-3034-4b83-ac8d-fac914edefae"
       },
       "cauHoiNho": [],
       "cauHoi": "Natalia Partyka, the Polish table tennis player, has no right hand but still competed against ___________ players in the 2008 Olympics. ",
@@ -441,21 +441,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "8f9e7b97-c6d0-4188-86ef-89658f839a9a"
+            "$oid": "2ce4cb4a-42c0-44c9-a6b4-0f73a63645ac"
           },
           "dapAn": "strong",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "92d48bab-30f1-4af2-b473-647621d7b885"
+            "$oid": "028c93f2-5ed1-4bf4-af5e-0bfa3642c10a"
           },
           "dapAn": "able-bodied",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "241cb564-3dcd-40d2-abc7-21927d9cb0b3"
+            "$oid": "1802709f-a907-4511-8853-830d7bf7f55b"
           },
           "dapAn": "stronger",
           "isCorrect": false
@@ -466,7 +466,7 @@
     },
     {
       "_id": {
-        "$oid": "1833feaf-9feb-4a59-89c3-9013799abdfe"
+        "$oid": "f9d06fa2-22de-4485-8aaa-ac67b8d723dc"
       },
       "cauHoiNho": [],
       "cauHoi": "Most museum in New York City have special access for disabled people, like people who use _________________.",
@@ -474,21 +474,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "5b22307c-8a6d-40dd-8100-fcb9b41d8db2"
+            "$oid": "0510bfef-a1a3-446b-b384-3dbc5b1e554d"
           },
           "dapAn": "walking aids",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "87cb7f26-59cd-47f9-b2be-3e3817918b78"
+            "$oid": "40803987-307f-405b-9355-69c21687df7e"
           },
           "dapAn": "wheelchairs",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "b220ca40-643d-4b0c-867d-b2f10736ec12"
+            "$oid": "077bcec5-fe49-4227-80d7-572ca0ed4f98"
           },
           "dapAn": "assistant dogs",
           "isCorrect": false
@@ -499,7 +499,7 @@
     },
     {
       "_id": {
-        "$oid": "5ddce21b-2543-4316-953d-90d1336e1bb5"
+        "$oid": "d45706c0-cdd9-44e1-b299-e064f747e736"
       },
       "cauHoiNho": [],
       "cauHoi": "This year I want to __________ my goal of walking the Appalachian Trail.",
@@ -507,21 +507,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "f70efeb2-e60d-4ecf-84a3-49c1d30d3f25"
+            "$oid": "6b1fa729-1213-4476-9ca7-55c96f25d1fd"
           },
           "dapAn": "achieve",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "09465f7b-62ce-4e99-b488-08d3fe8f3518"
+            "$oid": "d034a540-9e95-438e-9d02-b672a9c18653"
           },
           "dapAn": "finish",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "52f037f6-c4ca-4397-b782-8843f2f881b1"
+            "$oid": "583a0e8f-e908-462f-937e-f4ab96589ca1"
           },
           "dapAn": "fulfill",
           "isCorrect": false
@@ -532,7 +532,7 @@
     },
     {
       "_id": {
-        "$oid": "a8d19fd2-2b2a-4cbe-ae18-1f3cca95e012"
+        "$oid": "0e71a8e9-e631-41fb-aa88-9d7ae8de920f"
       },
       "cauHoiNho": [],
       "cauHoi": "This is obviously a great ____________ for anyone, but at the same time of the match, Judit was only 10 years old.",
@@ -540,21 +540,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "7c3f2d4c-84b0-4c87-a61a-a660d1381630"
+            "$oid": "82f2f7d7-19a3-4fcf-b051-bacdab98a96c"
           },
           "dapAn": "achievement",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a254a156-194d-4767-8844-ef5078baaee6"
+            "$oid": "282eadda-584b-48bc-a40b-a8935fe19c7a"
           },
           "dapAn": "goal",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "ad1751a1-2933-42c7-96d5-13d7a7529073"
+            "$oid": "cbcaf5a2-125d-4886-9ad1-4221bbf1a86b"
           },
           "dapAn": "ability",
           "isCorrect": false
@@ -565,7 +565,7 @@
     },
     {
       "_id": {
-        "$oid": "c5d9a33f-c822-46ed-a7bf-ebd07723969f"
+        "$oid": "e8abaaa2-f38e-4baf-8f20-e5093b7d5327"
       },
       "cauHoiNho": [],
       "cauHoi": "Her development was very impressive, and all her opponents said she had a “killer” _________. ",
@@ -573,21 +573,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "3b96f519-c6fc-45ff-8e52-887bfeb8f138"
+            "$oid": "fcf94c65-70b1-4938-864c-c277795a8aeb"
           },
           "dapAn": "skill",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "87f74532-4527-48bd-9819-462fb150c56b"
+            "$oid": "56397870-7d99-48da-92ab-9670e698004f"
           },
           "dapAn": "ability",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "bae3e474-ebe2-48b8-b421-7f1a10c77cfc"
+            "$oid": "3b44a79f-70fe-4d01-95a1-ebbafa7c62d0"
           },
           "dapAn": "instinct",
           "isCorrect": true
@@ -598,7 +598,7 @@
     },
     {
       "_id": {
-        "$oid": "9434a0db-f804-4ec2-9539-3c8acec295ee"
+        "$oid": "b19f1364-6989-4a04-b32c-c80e7eeade73"
       },
       "cauHoiNho": [],
       "cauHoi": "There’s a ___________ that Kasparov’s attitude distracted her from winning.",
@@ -606,21 +606,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "2859f78f-e327-40fe-b95e-e077c6033c45"
+            "$oid": "7281f25a-fe04-45fb-9a6b-584b51774eff"
           },
           "dapAn": "possibility",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "09c173ba-c855-4b87-80d0-4f074d983b48"
+            "$oid": "ddb2eda8-07aa-4566-a47a-7a1e2d38ee8f"
           },
           "dapAn": "chance",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "c7fd8ba9-2e20-49ca-9ead-6d2754482436"
+            "$oid": "d608f27d-603b-41dd-b9a7-378b77da568f"
           },
           "dapAn": "opportunity",
           "isCorrect": false
@@ -631,7 +631,7 @@
     },
     {
       "_id": {
-        "$oid": "0f0bddd0-7aff-43b5-a049-39cfc73fe15d"
+        "$oid": "c66aeb27-8eee-4e92-9b86-a816c725b45f"
       },
       "cauHoiNho": [],
       "cauHoi": "She played badly for the rest of the ____________.",
@@ -639,21 +639,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "f8af8766-1853-4349-aae4-3ffda7f79ca1"
+            "$oid": "bae470a9-211b-4719-b88f-191f275f11b0"
           },
           "dapAn": "​​​​​​​tournament",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "082a35ff-94f2-4fb2-8e11-ae463a0a92a4"
+            "$oid": "fda9dc11-f50c-48b5-b349-7aef5b2aa0b9"
           },
           "dapAn": "game",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "b15b24ea-b1aa-446a-bd7d-fa6a2eda94eb"
+            "$oid": "e2ed1962-d8a0-464f-b806-9bd136f6424c"
           },
           "dapAn": "match",
           "isCorrect": false

@@ -4,39 +4,39 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "e0ab15c0-1fa7-4f73-8e0c-5311541adc83"
+        "$oid": "4d0b0e3e-927c-4e5d-8c6d-5b68125c2fa1"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "0fe97b21-8775-40dd-a048-8cd9feff999d"
+            "$oid": "eb6330c7-7036-4566-b79e-97620ed4cfc4"
           },
           "cauHoi": "When does the show start?\n",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "e7e0d13a-440b-4f9b-96f7-3c875d9ff944"
+                "$oid": "7f261982-ae46-4065-baa1-588ab3aab568"
               },
               "dapAn": "A. in the morning",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "473ca6d3-fccf-491b-959c-71a995a98595"
+                "$oid": "d96d42a7-bd15-4228-9bb9-4c116fc85d08"
               },
               "dapAn": "B. in the afternoon",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "c352174a-67c3-4ed6-9677-a4bfdb73116e"
+                "$oid": "7e185177-06c4-43ac-85f3-4aa3b22848f8"
               },
               "dapAn": "C. at noon",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "3fc8eff7-ce3c-4394-8d3f-1c4b4374ef89"
+                "$oid": "b3cc14c9-2a67-40ae-add8-5999099ef6e3"
               },
               "dapAn": "D. at night",
               "isCorrect": false
@@ -45,34 +45,34 @@
         },
         {
           "_id": {
-            "$oid": "c3874627-fe82-431e-a717-3d9dbcd8bfd2"
+            "$oid": "eca8760f-e24a-4d38-90d4-a9f898dc249d"
           },
           "cauHoi": "What is the main topic of the today’s show?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "0b2f2ad8-a123-4c37-acc1-8b946d612965"
+                "$oid": "f6a4ab33-261d-402c-8eb5-ab60b70a7f0b"
               },
               "dapAn": "A. technology",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "c2a0d206-46a2-4e72-8014-b00b3e7b7694"
+                "$oid": "0c5739f3-8b5d-451e-8822-b60a87116161"
               },
               "dapAn": "B. fears",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "c735e323-dc80-443f-ad02-3a421fcea0c2"
+                "$oid": "ec3303f5-e1ca-44d7-b2bb-2a4b0a2a2a8f"
               },
               "dapAn": "C. tech fears",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "4bc56c8b-e881-4fae-a71e-98c4daa3b404"
+                "$oid": "2ba28a1a-47ec-4bf7-a463-a445311d33a2"
               },
               "dapAn": "D. theft",
               "isCorrect": false
@@ -81,34 +81,34 @@
         },
         {
           "_id": {
-            "$oid": "da9ed163-7d42-4e68-8676-9ea2e88670e3"
+            "$oid": "d765bb60-72cc-426c-a713-955d9452c992"
           },
           "cauHoi": "Where is the guest calling from?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "d687b2db-6ec7-4ceb-a2ea-087a7c55a0f8"
+                "$oid": "d8426b4c-908f-4821-9acc-66fa67f5a15f"
               },
               "dapAn": "A. New York",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "bee31669-5de4-4964-bd55-087fd0044e50"
+                "$oid": "757c3be1-934c-4f7f-ab66-75f0381cd0a6"
               },
               "dapAn": "B. Rolling Hills",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "4ad9daf7-0379-460c-9cbe-39e359ff4688"
+                "$oid": "9318218f-237f-4c2d-9655-4f668479f285"
               },
               "dapAn": "C. London",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "353efdb1-1702-4890-8a13-34ac6b7036a1"
+                "$oid": "9ac7f6fb-7f73-4c2e-8c5d-473a07b613da"
               },
               "dapAn": "D. Tokyo",
               "isCorrect": false
@@ -117,34 +117,34 @@
         },
         {
           "_id": {
-            "$oid": "3a269c14-bdb5-402e-a1a0-f9a180b9bc54"
+            "$oid": "5307e42f-b377-4c65-8705-a0ba028a3e81"
           },
           "cauHoi": "Does Sofia have any fears about technology?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "36dd2674-c306-4670-acc3-261d3d9ebdde"
+                "$oid": "46e4ecf2-d66b-453f-bfb2-33a373636a4e"
               },
               "dapAn": "A. Yes, she does.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "87c47689-1f54-4a7c-a6b9-23959a0ac263"
+                "$oid": "588c0504-234c-429a-b82b-670c34b9c791"
               },
               "dapAn": "B. No, she doesn’t.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "a1f2ad16-4d5a-4b91-bfb6-402707a21dcf"
+                "$oid": "6d14ac1e-41a0-4969-8b7d-15ba8db7ae58"
               },
               "dapAn": "C. She doesn’t know yet.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "307014e9-268e-46dd-bb10-0fd5054c0ccc"
+                "$oid": "5468a456-c0f2-4170-8776-de4c8c5c5fab"
               },
               "dapAn": "D. She’s confused.",
               "isCorrect": false
@@ -158,39 +158,39 @@
     },
     {
       "_id": {
-        "$oid": "eecd40bf-5287-4bba-92ca-747890cc0560"
+        "$oid": "108a781b-ecf3-4813-a9ec-60f7747d64a3"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "bc8227fc-72ef-4830-b4ee-197280a341be"
+            "$oid": "42410696-8403-46dd-9bed-41c8522d2c1b"
           },
           "cauHoi": "What is Sofia worried about?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "a2147989-ed3c-4284-b0a1-f678d433a8dd"
+                "$oid": "4605920d-9d45-48ee-8948-823821b019e9"
               },
               "dapAn": "A. money robbery",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "0c76d625-60ee-4c5d-9b73-8a8dcc75dea3"
+                "$oid": "745592d8-4755-42e6-918e-272d55f0aaac"
               },
               "dapAn": "B. information theft",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "60bd57f6-64ff-4dfc-8b5a-3665b1ff7712"
+                "$oid": "030f89d8-1c0f-4dcc-8b67-bd21fc6507c3"
               },
               "dapAn": "C. bank robbery",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "c8ff4154-2caa-4f92-9843-e1086164a7fd"
+                "$oid": "dc46fde4-5518-4e7f-8363-4168b8a93893"
               },
               "dapAn": "D. armed theft",
               "isCorrect": false
@@ -199,34 +199,34 @@
         },
         {
           "_id": {
-            "$oid": "02c2887f-7247-4f3a-bd8e-4600741b154a"
+            "$oid": "c023b4ce-a49b-4e00-988b-50c1e0729426"
           },
           "cauHoi": "Does the host agree with Sofia’s worry? ",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "eab6c64d-f824-405b-ad9a-ed3ff33e17e8"
+                "$oid": "04c68267-64da-470a-b497-02cbd2d1ce84"
               },
               "dapAn": "A. No, he doesn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "27263853-88a6-44e7-8a60-e030b2120bdc"
+                "$oid": "d278790c-aa19-408b-8641-78154689c997"
               },
               "dapAn": "B. Yes, he does.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "88ee3101-6ff0-4c6a-84d5-c03e7101d11e"
+                "$oid": "3bf46af9-3367-4f65-9613-ba1eb35a207b"
               },
               "dapAn": "C. He doesn’t care.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "293aae6e-1a23-4e90-9568-dd6d0686f99f"
+                "$oid": "77ecda84-82ac-4fe9-9182-37ccbfba7ac6"
               },
               "dapAn": "D. He doesn’t understand.",
               "isCorrect": false
@@ -235,34 +235,34 @@
         },
         {
           "_id": {
-            "$oid": "fba9697d-9863-4cc4-be69-36b3156cdc95"
+            "$oid": "21be2755-69f7-4a48-9cd1-3aa7c1e1b81a"
           },
           "cauHoi": "What could be stolen if someone gets access to her computer?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "326b24fc-1061-4f4d-92df-f82bcd83ebcb"
+                "$oid": "8df4518b-c185-4f34-bf6f-1aabc13e02b2"
               },
               "dapAn": "A. her photos",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "aa7d6494-df79-492b-97e4-6dbd2ff1f8da"
+                "$oid": "016f621f-62b1-4095-ad65-47a02933cdd7"
               },
               "dapAn": "B. her money",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "3f8fd2f7-b8e7-4537-94c6-673642eb86cb"
+                "$oid": "6233ae1a-0db6-49c4-adb0-0446549839f3"
               },
               "dapAn": "C. her information",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "ba72a044-1e63-4ae4-a770-5fc295517643"
+                "$oid": "89810b27-6df7-4a1b-af62-1861767c9823"
               },
               "dapAn": "D. her data",
               "isCorrect": true
@@ -271,34 +271,34 @@
         },
         {
           "_id": {
-            "$oid": "17a4a77a-59d6-4241-b1c9-ad6fff4631aa"
+            "$oid": "ce1b304c-8229-425d-a758-064a848dc6e1"
           },
           "cauHoi": "Who uses wireless devices in Sofia’s house?\n",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "2e5631d8-29db-4f53-ae76-eda824838d51"
+                "$oid": "af085b31-7f00-42d1-ab4c-f1d735f2d0ba"
               },
               "dapAn": "A. only her",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "fb118cba-b058-4e6e-9658-73a6dcf26f5a"
+                "$oid": "72b719c6-41d7-4d62-9ef7-701a788fd7ee"
               },
               "dapAn": "B. her mom",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "3138adb5-0574-4255-86e1-294cd7fb0ca1"
+                "$oid": "6a9fc598-c7b9-4dcc-bf87-5b4fe9b39002"
               },
               "dapAn": "C. her dad",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "85c45506-fba1-42e6-9191-97f5e9a7bf4e"
+                "$oid": "2ed61936-632d-458c-8480-7b24537d4f87"
               },
               "dapAn": "D. everybody",
               "isCorrect": true
@@ -312,39 +312,39 @@
     },
     {
       "_id": {
-        "$oid": "d88dcae9-e44b-4c59-9293-af696762f628"
+        "$oid": "c14018a1-1b2c-4d7c-9338-5a6f33cf0eab"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "cac4e8d0-b698-4aa4-9e4e-6318b92263a3"
+            "$oid": "9aeb1e40-beba-4dc2-9c2a-25d287e726f5"
           },
           "cauHoi": "What does the speaker worried about driverless car?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "2de1b165-51a8-4732-b496-adce7fbb7a63"
+                "$oid": "9c3602fa-2af7-4604-bb5e-fe2aff21b10b"
               },
               "dapAn": "A. its safety",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "10db364b-77a0-47ea-961e-27214cc79499"
+                "$oid": "b9986e04-909e-4dae-94e8-db47a82dbd1d"
               },
               "dapAn": "B. its convinience",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "6e06ee9e-0cf5-4318-8d7a-b7f1ae9f0b5e"
+                "$oid": "d4d422b6-eb1c-45fa-8869-21ebd5f0643f"
               },
               "dapAn": "C. its price",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "68e72fc0-2ebd-49ad-9d1c-74264c4cc69f"
+                "$oid": "86b69d7b-0042-43d9-9e3e-57356dbb0627"
               },
               "dapAn": "D. its benefits",
               "isCorrect": false
@@ -353,34 +353,34 @@
         },
         {
           "_id": {
-            "$oid": "82582c74-a053-460f-b570-2af7193b51fb"
+            "$oid": "f27e8076-f74d-46d2-84b5-293f59a85885"
           },
           "cauHoi": "Where’s there a lot of traffic?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "b463367c-d90c-4d78-8954-e96cbb9dceeb"
+                "$oid": "55a515b2-5ccb-4848-b405-6e5960f612bb"
               },
               "dapAn": "A. countrysides",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "11d6d94f-5ed4-4cd3-890b-a59a1b8df927"
+                "$oid": "89174b9e-4497-4221-8caf-52b9ca07a1b3"
               },
               "dapAn": "B. rural areas",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "b2b31fc1-a38b-4d58-9392-776e4a1ab2df"
+                "$oid": "3c399ba6-83b2-4d9f-abcb-18fc32bf085c"
               },
               "dapAn": "C. capital cities",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "02934daa-9810-479c-9cd9-cd413a3918b7"
+                "$oid": "fffd7592-3324-43d8-a5f5-55fd4c102b00"
               },
               "dapAn": "D. big cities",
               "isCorrect": true
@@ -389,34 +389,34 @@
         },
         {
           "_id": {
-            "$oid": "2ab3c5fe-0af3-4a86-b9ca-ab8e4f1e31dd"
+            "$oid": "ef22167e-c6cb-4638-82e6-f491b210ef62"
           },
           "cauHoi": "Does the speaker want to let her car drive?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "4845d056-7694-4e28-b873-e6ff1cf676b4"
+                "$oid": "4eacedba-c063-41cf-b915-e3b072d12288"
               },
               "dapAn": "A. Yes, she does.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "cef79e12-499f-4490-939b-20d90125ecaa"
+                "$oid": "0b270f9d-343f-4b4b-b2b3-e0b6eda05bad"
               },
               "dapAn": "B. No, she doesn’t.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "acc06a94-83b3-4956-93fb-1270f1ee8985"
+                "$oid": "0919784d-8970-4f35-90d3-4cf43f18a13d"
               },
               "dapAn": "C. Sometimes she does.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "7a7976c4-17db-461d-9a22-ef548d4f5bb0"
+                "$oid": "7d627008-e065-4351-8994-a872ed9f2d8b"
               },
               "dapAn": "D. It depends.",
               "isCorrect": false
@@ -425,34 +425,34 @@
         },
         {
           "_id": {
-            "$oid": "3edc077e-6d1c-4ab0-a554-b9d8ffd22228"
+            "$oid": "81bdf4c5-68cb-4786-98f4-42c020a9e1c6"
           },
           "cauHoi": "What does the speaking think driverless car will have a big impact on?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "a5c03313-3d48-4341-9f73-db83a883b800"
+                "$oid": "70264a4d-8b98-4546-8b13-a3e18856540c"
               },
               "dapAn": "A. technology",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "0b5c1a03-be61-42cd-844b-9ac2fbebde38"
+                "$oid": "701aedbb-40bc-4588-bff5-c624fafbe81c"
               },
               "dapAn": "B. science",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "16469606-b9df-44db-b6e1-f233d6d4e0f0"
+                "$oid": "47a34129-15b5-4abd-9a8d-577d49ce290c"
               },
               "dapAn": "C. transportation",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "db0689da-6320-4613-8b74-3dfc3c392b32"
+                "$oid": "1fcf6269-d8e6-467f-9474-cd938dabfe95"
               },
               "dapAn": "D. engineering",
               "isCorrect": false
@@ -466,39 +466,39 @@
     },
     {
       "_id": {
-        "$oid": "7f4118cb-6436-4b0f-bf50-df5ea9807b12"
+        "$oid": "3de4ac42-dd37-4655-957b-b0e309ba54c6"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "2e1c2cb9-0678-40e3-a131-29eefcedf277"
+            "$oid": "fc175b0b-dbc6-406a-9173-adf405860abd"
           },
           "cauHoi": "What does the speaker do?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "2436558b-713a-4a77-a3da-5a142c9f78c7"
+                "$oid": "7b1b9cad-46f1-4ea9-8af9-6adcaba041dc"
               },
               "dapAn": "A. model",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "8b8abef8-d3b1-4683-a260-ca23d75ea3e2"
+                "$oid": "a680467f-3afd-47f9-83ba-f09017be9877"
               },
               "dapAn": "B. photographer",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "3cc112bb-a818-458c-a801-94ab9d8955b6"
+                "$oid": "dd28f96a-f229-4f25-b407-f7276f8a956c"
               },
               "dapAn": "C. marketer",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "64a30918-7da5-4455-aa67-b3ce4b6a8f68"
+                "$oid": "c0c0250a-ef83-4a98-b577-e0a2d9bf7f88"
               },
               "dapAn": "D. content creator",
               "isCorrect": false
@@ -507,34 +507,34 @@
         },
         {
           "_id": {
-            "$oid": "2179515a-b636-43b1-b8b0-20ed65ca7186"
+            "$oid": "1f624b4c-b420-48f6-8661-d502f1bd7082"
           },
           "cauHoi": "What does she think the most interesting invention is?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "3a71f1f4-6d45-437f-9071-50e63a6e35af"
+                "$oid": "ba4def0b-f915-4063-9da2-a5ae7b54f031"
               },
               "dapAn": "A. camera",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "f75f17d3-02a3-4101-9c43-5e884f2ef157"
+                "$oid": "f9abdb3d-2288-4161-82c5-ceeea80b6072"
               },
               "dapAn": "B. computer",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "3e0818ab-4962-461d-ae4e-5e7ed0efa273"
+                "$oid": "0683c746-ed73-4bf3-9ea7-f80b3fc649a0"
               },
               "dapAn": "C. internet",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "9fccd3da-edf7-455c-a544-f976ed95f77f"
+                "$oid": "2313ea68-22a1-4960-bc9f-ddb86ce88284"
               },
               "dapAn": "D. car",
               "isCorrect": false
@@ -543,34 +543,34 @@
         },
         {
           "_id": {
-            "$oid": "8a7beb27-22d4-48a0-89c8-89a43c3a8cfd"
+            "$oid": "ae51ab3b-8106-451d-944b-fbe01cc5444b"
           },
           "cauHoi": "What kind of pictures the camera can take?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "b12c1542-44d5-4729-92aa-f5c8a79c613e"
+                "$oid": "2bba5830-8189-4747-88f0-4517aa1850a0"
               },
               "dapAn": "A. 360-degree",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "e0951bad-70c0-4ffb-9cba-1e70134d9991"
+                "$oid": "ab772829-7a5e-4f98-ade2-b52c9f02cd56"
               },
               "dapAn": "B. 5-D",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "c5999fd8-8ea1-419b-863f-27fda49b4905"
+                "$oid": "16ce0fe5-18ea-40ab-bd8b-54160dcd9c78"
               },
               "dapAn": "C. 3-D",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "a8f63a18-cc59-4089-a505-57f6b3aa6920"
+                "$oid": "aefa0337-30ad-4c8a-93c6-493156767b00"
               },
               "dapAn": "D. 2-D",
               "isCorrect": false
@@ -579,34 +579,34 @@
         },
         {
           "_id": {
-            "$oid": "87c2c001-2883-4365-9392-6ef85e819076"
+            "$oid": "9cd92c4a-f78b-4edb-89fe-a2a058f60da3"
           },
           "cauHoi": "Does it have any impact on her career?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "3817439a-b330-4479-95db-de09209455c5"
+                "$oid": "eec8814a-4c0e-4173-9dd5-060097ef1c65"
               },
               "dapAn": "A. No, it doesn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "7b82dcd2-2168-414f-868e-2c1211b1be4f"
+                "$oid": "42527922-0257-48ed-a137-1db6269bc073"
               },
               "dapAn": "B. Yes, it does",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "b3d7051c-0fb1-492a-93ac-6be26cf5f2a1"
+                "$oid": "f1620ddb-00c8-4619-bb1b-79c23b692a06"
               },
               "dapAn": "C. It depends.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "5bd0074c-9b37-4399-88e4-b41cc2291bb7"
+                "$oid": "a4b6eee5-cd09-4615-bd2c-2cf65ad38f2c"
               },
               "dapAn": "D. It does to some extend.",
               "isCorrect": false
@@ -620,39 +620,39 @@
     },
     {
       "_id": {
-        "$oid": "211fe7af-57b1-4171-a95c-1eeb2e146773"
+        "$oid": "af12d6b2-504b-4679-9708-013a643a92c3"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "e0bbae58-f266-48ee-bb82-c68156dc9abd"
+            "$oid": "455cc09c-9bee-45d4-93d1-3cf17aae1835"
           },
           "cauHoi": "When does the show start?\n",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "c020d48b-faef-4dfa-be81-77a3c7cca52c"
+                "$oid": "7ccb2f63-f625-4b82-8b99-6a60b610634d"
               },
               "dapAn": "A. in the morning",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "2f662d96-f8d5-439d-8368-00cac45ce782"
+                "$oid": "9e4d19aa-98f6-492a-8870-3556b6b5ae92"
               },
               "dapAn": "B. in the evening",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "49439c79-195d-4420-b0c1-78a0ed6f8815"
+                "$oid": "39bdf3e9-881e-4f22-98cc-7efa1a4d5539"
               },
               "dapAn": "C. at noon",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "2db9d611-b693-43ba-a11a-a13a898a4c7b"
+                "$oid": "0e056c9f-e44e-48a4-bb1d-1091292741d6"
               },
               "dapAn": "D. at night",
               "isCorrect": false
@@ -661,34 +661,34 @@
         },
         {
           "_id": {
-            "$oid": "640938b0-0570-4629-8227-7edb23ff6153"
+            "$oid": "89ba04bd-6a4f-4d78-9646-9fa72d4f7b42"
           },
           "cauHoi": "Where is the host right now?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "eab55741-182f-46a7-b999-668455b45087"
+                "$oid": "ad537f81-a148-4e8b-991b-6fe3dd295a35"
               },
               "dapAn": "A. on a street",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "7432b364-9d61-4d00-abcc-883ca90211b9"
+                "$oid": "c66afde5-8429-4a4a-bab5-664574b8a6fe"
               },
               "dapAn": "B. in a pub",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "461f4089-43ed-49f6-a8da-839b0ec1b5be"
+                "$oid": "e8f936bb-507a-470f-855e-598f3175f1d2"
               },
               "dapAn": "C. in a supermarket",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "86186b63-10d1-4213-869e-c7d697968858"
+                "$oid": "3e53d41f-542e-4abf-a274-4eb19225ab44"
               },
               "dapAn": "D. in a mall",
               "isCorrect": false
@@ -697,34 +697,34 @@
         },
         {
           "_id": {
-            "$oid": "1a935e79-65fd-4415-9c93-a11ad92d4680"
+            "$oid": "2c9d18b4-3cf1-4746-b350-aba05e734dde"
           },
           "cauHoi": "What does the host ask people about?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "f4df4d78-f79e-48c4-bf95-584f08de6c52"
+                "$oid": "c9e5e345-d91a-46ea-91f5-00e79486a065"
               },
               "dapAn": "A. their opinion",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "5bf5bf0d-a0ce-49b4-a4c3-3992a4eb6f50"
+                "$oid": "87816133-98f0-427a-9fcb-7244a458bfbf"
               },
               "dapAn": "B. their hobbies",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "b0e5ed9d-3924-4bb1-80a3-f1c4681c95f1"
+                "$oid": "767a93d8-efa4-48b5-b838-72a8caba6b7c"
               },
               "dapAn": "C. their jobs",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "d963cfd6-d1da-41d3-b072-428b25da3525"
+                "$oid": "12552990-eb33-4e23-8e63-1ef4392eeed3"
               },
               "dapAn": "D. their feelings",
               "isCorrect": false
@@ -733,34 +733,34 @@
         },
         {
           "_id": {
-            "$oid": "fe5e1dce-b3dc-4fc0-b9e4-78b4eeac5fd1"
+            "$oid": "8d54c957-c7a1-495e-8840-d4fe5060fbfb"
           },
           "cauHoi": "What are the opinions about?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "b62986f6-4c86-4315-8887-86badf76db65"
+                "$oid": "b3890eb7-c878-41f9-8252-46d9f90c8f2e"
               },
               "dapAn": "A. 21st century inventions",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "8f34aabb-25b0-4c8e-baa0-4408ce01708d"
+                "$oid": "2b93483b-fb35-4a7d-b0c0-7206fd87d0f5"
               },
               "dapAn": "B. 21st century technology",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "4ba61bb8-cb4b-497a-828a-46fba408b6de"
+                "$oid": "ef386450-6a8f-4a3a-ab21-fa4252dd9068"
               },
               "dapAn": "C. 20th century technology",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "6f52bf2a-f1c7-42ca-8215-a762723e55a5"
+                "$oid": "2ee6b396-ee0a-4cc3-bae7-d3f814aa10cf"
               },
               "dapAn": "D. 20th century inventions",
               "isCorrect": false

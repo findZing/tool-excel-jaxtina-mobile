@@ -4,39 +4,39 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "14608469-55fc-411c-a5dd-4b5975eaebb6"
+        "$oid": "a1984abc-a77f-4fc9-9ccd-c75faae992a4"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "ad9b6215-c417-421a-ad74-bb70cd31539f"
+            "$oid": "7ec706bc-1865-449c-b356-41e90bb6ae5f"
           },
           "cauHoi": "Where is Ms. Martin’s hometown?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "606aa60c-cdf6-417c-bdfb-9da535ccf58a"
+                "$oid": "9c84618d-c3c0-475e-9b13-b2a0fbc38841"
               },
               "dapAn": "A. London",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "52fca54c-dcb7-48d9-ac9b-366b49bf7d07"
+                "$oid": "513d75e9-1331-4a16-86cb-4c79f2b5736f"
               },
               "dapAn": "B. Scotland",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "1fa2ca6c-f96c-4e0d-943a-a972f369ab3a"
+                "$oid": "84b9b0a8-0f19-4507-b27b-75d36ec5094b"
               },
               "dapAn": "C. New York",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "ae515a3a-5f0f-4243-81e7-28e18fe409cf"
+                "$oid": "546e9259-25ce-4810-a4a8-00ebdfabeb21"
               },
               "dapAn": "D. Sheffield",
               "isCorrect": false
@@ -45,34 +45,34 @@
         },
         {
           "_id": {
-            "$oid": "4aae2840-5602-4917-a85d-4e1b9f1d1896"
+            "$oid": "ab2519fb-8cdf-4174-8a65-78e9fcebd38f"
           },
           "cauHoi": "Which university did Ms. Martin graduate from?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "a7a6b1c4-a712-4e5e-8686-72e67271d102"
+                "$oid": "698fc4ce-fe8f-4e9a-a54f-40b58f1a19e2"
               },
               "dapAn": "A. Sheffield University",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "887c1f3e-15b0-41a8-8430-6d6670241a7f"
+                "$oid": "fba11e26-558a-4431-a3a2-d26922d92b01"
               },
               "dapAn": "B. Bristol University",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "c16a53a4-af9f-4ccf-adbd-43b44800feb3"
+                "$oid": "32ecf657-930a-449f-b60a-8b904ec52459"
               },
               "dapAn": "C. Glasgow University",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "f48fc68b-a27b-4b5b-b202-74eab06b8776"
+                "$oid": "9f2299ab-063c-458a-a253-3d38d8185699"
               },
               "dapAn": "D. Southampton University",
               "isCorrect": false
@@ -81,34 +81,34 @@
         },
         {
           "_id": {
-            "$oid": "05be08c1-e85d-4416-b4ac-3837cf1d8be1"
+            "$oid": "ef57b749-b084-42db-9cd4-5ef2ace31581"
           },
           "cauHoi": "What was her latest job?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "65819faa-8c83-4086-aff7-8b049daf382d"
+                "$oid": "bf0f9b76-0d94-4092-a4f8-1eac28f0c5b1"
               },
               "dapAn": "A. teacher",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "fbbaf1ef-5b2f-42ac-94ef-093dbd04d9da"
+                "$oid": "b6be016c-903c-4888-a847-72bb55d4c059"
               },
               "dapAn": "B. translator",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "b31d37d5-4202-4ca3-9536-9e21961cbfa3"
+                "$oid": "52099a31-85ba-464d-9a71-a2d759f7586d"
               },
               "dapAn": "C. writer",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "1a076d43-2376-4779-a238-d0bf983b251f"
+                "$oid": "4b66aa30-a037-40ac-bb27-eccb76436c80"
               },
               "dapAn": "D. singer",
               "isCorrect": false
@@ -117,34 +117,34 @@
         },
         {
           "_id": {
-            "$oid": "36bb4536-dbe4-4a58-9581-8c3963115161"
+            "$oid": "b5f871c3-095c-4630-a1b0-a4c8de3abd15"
           },
           "cauHoi": "How long has she been a translator?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "fe06423c-13e4-40ff-a4d2-eea741c80441"
+                "$oid": "16ff7c02-94b9-4ada-91e0-83fe1d70d2cc"
               },
               "dapAn": "A. 1 year\n",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "2f9464f2-ca98-4eda-80ee-f6357e122178"
+                "$oid": "eef1e9bf-d6bd-40b9-8e8a-c3830cc56e4e"
               },
               "dapAn": "B. 4 years",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "4732900b-2d92-4465-9629-943803c59fb1"
+                "$oid": "4a4f620b-3382-45bd-85ba-9708ce1b53e2"
               },
               "dapAn": "C. 6 months",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "2bd903b3-1f48-4bbd-bab7-2e65c9fbdb7d"
+                "$oid": "7fab9e82-b92e-4465-8693-e8d0aebc5ef9"
               },
               "dapAn": "D. 2 years",
               "isCorrect": false
@@ -158,39 +158,39 @@
     },
     {
       "_id": {
-        "$oid": "780f2fbf-3a80-4757-a8f6-2c0ccbcf576f"
+        "$oid": "948c531f-618c-4ff6-ae5a-21e27d59a847"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "d8694512-02b5-4808-9ab9-e33c75082de5"
+            "$oid": "942a0295-dc35-434b-990a-2c392bda43a1"
           },
           "cauHoi": "What does Martin think about her communication skill?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "28a292a0-baa0-4aa1-b5ef-80d32e26c68f"
+                "$oid": "34a71972-804b-47d1-ab3f-33a905c5f57a"
               },
               "dapAn": "A. Pretty good",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "9fe197c8-b92f-4e44-82f4-9f14cb764993"
+                "$oid": "243aa760-3605-4fb9-ae1f-35f481c981fc"
               },
               "dapAn": "B. Bad",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "e124e31b-5609-48ee-983d-22373ef479b7"
+                "$oid": "46e490e8-3106-45da-931c-6c20d4aaf9e2"
               },
               "dapAn": "C. So so",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "da514d4f-ca30-421a-b6f5-33017b0a89a8"
+                "$oid": "af6cafc6-8f9b-45e2-af81-fbb213fe8b8c"
               },
               "dapAn": "D. Acceptable",
               "isCorrect": false
@@ -199,34 +199,34 @@
         },
         {
           "_id": {
-            "$oid": "fa377a8b-7e40-4a39-8a73-614fe004d66e"
+            "$oid": "28fe6026-392d-4362-b3d3-74b5cae0b9e9"
           },
           "cauHoi": "Does Martin prefer to work individually or with others?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "905205dd-4943-4e15-a7b5-b76e32a729af"
+                "$oid": "51d6d3bb-614e-4669-a950-f0e205641ad0"
               },
               "dapAn": "A. With others",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "fd6d8c33-2f95-48ed-848a-2ce3f9bbb666"
+                "$oid": "9a782b29-28ab-44e6-a1ab-8f7c8e7b164a"
               },
               "dapAn": "B. Individually",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "a0ae4971-d1e8-4acd-b7e5-69a01301d8ad"
+                "$oid": "74449937-8233-44b3-9637-cb836fca864b"
               },
               "dapAn": "C. Both in a team and herself",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "7d668681-2e75-4471-9d17-aab80f173627"
+                "$oid": "65439133-7d43-4818-b11e-bceda0cd9f4e"
               },
               "dapAn": "D. None",
               "isCorrect": false
@@ -235,34 +235,34 @@
         },
         {
           "_id": {
-            "$oid": "7af8622e-0d20-4b24-a8ee-2a5c49466a1d"
+            "$oid": "95b0629a-1a6e-4393-a186-ccf1bc49e667"
           },
           "cauHoi": "What do her friends think about her?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "8d22f2b0-12b0-49f4-943f-7480c5219384"
+                "$oid": "f383c547-5edb-4b8c-a7e0-ca3a99a4deba"
               },
               "dapAn": "A. She’s really patient.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "e5584ec0-fe4d-41ca-b585-9614822832dd"
+                "$oid": "09e36df1-5521-4347-a5dd-5569dcd8bb08"
               },
               "dapAn": "B. She’s impatient sometimes.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "cef92285-0ef6-435b-8dd6-870cbd9b318d"
+                "$oid": "a2b40785-1b86-401c-9ca7-f85b005f2f50"
               },
               "dapAn": "C. She’s bad at communicating.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "478ba6f0-db33-4fc9-b202-9e49f12fde54"
+                "$oid": "d3e74540-7847-420b-842e-195263fafb6c"
               },
               "dapAn": "D. She’s quite disorganized.",
               "isCorrect": false
@@ -271,34 +271,34 @@
         },
         {
           "_id": {
-            "$oid": "783fc41b-97dd-472a-a2d1-cd21d66cab89"
+            "$oid": "9e0769ac-7b79-4a72-9306-0f6b8668a667"
           },
           "cauHoi": "What’s she trying to enhance?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "fbe0af39-a9cd-4ca8-9a4e-1a3489f6364b"
+                "$oid": "beb65aa4-c39a-474a-983b-06d04abac3d6"
               },
               "dapAn": "A. her skill",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "aabbb824-64d2-4e24-84cd-0f03696f6572"
+                "$oid": "bcc13190-bda9-42b0-a222-be09799b0a72"
               },
               "dapAn": "B. her personality",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "9c4064fc-0445-42b7-9f1a-35361b63b579"
+                "$oid": "8d62d55f-841c-4b81-8b9f-d1b50fa8f3bf"
               },
               "dapAn": "C. her living standards",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "0a22aa7d-4e69-48db-8f21-cfb9e063acbd"
+                "$oid": "95892e15-c20a-4212-84bc-2483caef9dbf"
               },
               "dapAn": "D. her patience",
               "isCorrect": true
@@ -312,39 +312,39 @@
     },
     {
       "_id": {
-        "$oid": "5e1f49b5-52d3-412f-9fe8-302f88f89876"
+        "$oid": "059a0549-cb2e-4331-89ce-8050e31a94f5"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "e841832d-6c5a-4bb1-b9f0-1013a9b9a9c7"
+            "$oid": "5f281b38-f697-4190-af7f-029aadfe7b01"
           },
           "cauHoi": "What is the reason why Martin wants to work as a newspaper editor?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "6b0677f9-6be3-4fe4-9730-f733c9070f33"
+                "$oid": "2305ac4a-9e80-4f0c-b39d-03e47b2101f6"
               },
               "dapAn": "A. It’s her biggest dream.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "7c654c01-cf1e-4199-b21f-38265b1acfae"
+                "$oid": "0bcf20c7-c767-40b5-8fd9-edf72eef8ea9"
               },
               "dapAn": "B. She wants to earn lots of money.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "a4f68df2-99a7-4d60-b1f2-18a1a0c66829"
+                "$oid": "b99abcb9-fa91-4cec-8c6b-13013bd9e5ed"
               },
               "dapAn": "C. It’s fun.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "f1142379-2870-44ff-b2ec-c4489bb0a839"
+                "$oid": "6d0ece7f-7023-4957-ad00-8fc4f88797c1"
               },
               "dapAn": "D. It’s easy to make money.",
               "isCorrect": false
@@ -353,34 +353,34 @@
         },
         {
           "_id": {
-            "$oid": "81081f1d-7de5-4846-a55f-c5bc6ff11652"
+            "$oid": "d82fcc6d-fcc5-4569-8dec-382c518b067b"
           },
           "cauHoi": "What does Martin love about the job?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "cdf66419-e9e5-4957-a47e-103597ba43ed"
+                "$oid": "3b5dd016-7d1e-4df7-aede-cf955cbc347a"
               },
               "dapAn": "A. She gets high salaries.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "b6fab4a4-d3b8-4104-98bc-f4a1baaf785f"
+                "$oid": "9226f348-22c1-470c-b53e-5038f80c2f04"
               },
               "dapAn": "B. She can meet lots of celebrities.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "85ab66a1-6d9e-4aa5-85d5-090ddd320d82"
+                "$oid": "12aa469e-eb65-4df8-a0d2-927a53c5ebe9"
               },
               "dapAn": "C. She enjoys editing others’ writings.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "ab908720-62be-4681-b8ac-eace5fc8a077"
+                "$oid": "b027d495-1399-4868-a395-3c72990c40ce"
               },
               "dapAn": "D. Southampton University.",
               "isCorrect": false
@@ -389,34 +389,34 @@
         },
         {
           "_id": {
-            "$oid": "3bcee8c0-fceb-4a2b-a7d2-4e1647eda589"
+            "$oid": "75584ae1-2996-4165-9139-86ecb2e6d04f"
           },
           "cauHoi": "How much notice does Martin need before starting her work here?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "8f43e38e-65a7-4a40-9e32-b8e9a5a5b95a"
+                "$oid": "a3bcde43-92dc-4779-931a-b622ac1e804a"
               },
               "dapAn": "A. 1 week",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "4965223c-1cd8-410d-96d6-8c0f1b509b7a"
+                "$oid": "415fa1ec-3651-4999-a484-63e68f377024"
               },
               "dapAn": "B. 1 day",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "21113911-be44-4d02-9ce3-8c96b8e78714"
+                "$oid": "412cbe2b-b514-43a6-afa2-56b0d180184d"
               },
               "dapAn": "C. 2 days",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "60e5ed28-3cae-4373-8910-40562b9a767e"
+                "$oid": "62a627e6-e59c-4e72-849d-57be0ba1c7b0"
               },
               "dapAn": "D. 2 weeks",
               "isCorrect": true
@@ -425,34 +425,34 @@
         },
         {
           "_id": {
-            "$oid": "9b9739f3-7c19-4584-a34a-b13f1f70f7da"
+            "$oid": "d12b173b-bd7f-41dc-a872-1859b886b5a1"
           },
           "cauHoi": "When can she start after getting noticed?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "a436f111-f87a-4395-94a6-14ab479aa642"
+                "$oid": "fe31ccba-3de7-4a5c-9a3d-01d8b5d14737"
               },
               "dapAn": "A. 1 day later",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "1aabb29f-42e6-4b6c-87fb-7e3e0d78399e"
+                "$oid": "0804e125-789d-4d4e-b824-38a0d3e5a58a"
               },
               "dapAn": "B. 2 days later",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "227415bb-2733-4b42-b75d-b8579a07209a"
+                "$oid": "2812274c-4bb4-46fa-a762-5db79e62fc6e"
               },
               "dapAn": "C. right after that",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "9aadc8a1-1bbd-413e-bf1a-4a2175604bae"
+                "$oid": "fc8d76e0-85bd-4a3a-bff8-f70297542ae4"
               },
               "dapAn": "D. 2 years",
               "isCorrect": false
@@ -466,39 +466,39 @@
     },
     {
       "_id": {
-        "$oid": "27c168e4-b36e-4474-8562-e25253f4e58b"
+        "$oid": "1382b1ee-4562-4af1-9f18-9eb732fd036b"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "18c4e12b-1b1e-4e7c-9b97-418a9d66abbf"
+            "$oid": "7afdd951-0d1a-4321-bb8c-2416e6609b09"
           },
           "cauHoi": "What is Sarah’s job?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "f2b5fef1-1a85-42d0-9faa-cb28bb48c721"
+                "$oid": "4042679e-4292-407c-bfdb-06a9f39f29b7"
               },
               "dapAn": "A. Political journalist",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "a0a593d9-f2bd-4f79-80de-e012e955ad36"
+                "$oid": "3a0a7e26-7c9d-4a77-901a-ed18b810c35d"
               },
               "dapAn": "B. Investigative journalist",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "2afbb6b8-9532-402b-bb5a-1aba9f4fb4ec"
+                "$oid": "9297aa29-0d48-44eb-9c14-81610afcb85d"
               },
               "dapAn": "C. Political journalist",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "0916ea23-c33a-425a-9bbd-bf03730ca7f5"
+                "$oid": "406dc84f-b971-4d56-bd8b-98a4a1fdb2e2"
               },
               "dapAn": "D. Crime journalist",
               "isCorrect": false
@@ -507,34 +507,34 @@
         },
         {
           "_id": {
-            "$oid": "6da2010f-eb21-4fa5-bbcc-4e7ef0f6a9b7"
+            "$oid": "0a8e1ace-e138-4848-89ee-71b92ae3e7c2"
           },
           "cauHoi": "What job did she use to do?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "8c060dfd-cf08-4ddf-b418-6f957aaddacb"
+                "$oid": "1a46b6cb-b7f8-47a5-9e53-5c4451eb27db"
               },
               "dapAn": "A. Crime Journalism",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "4dcd1832-64fe-4508-bc3f-cdc923b7f978"
+                "$oid": "05170a66-7db5-40e6-9d33-ebfee513678d"
               },
               "dapAn": "B. Investigator",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "b2b64567-1181-4e2f-92c0-292231ec7685"
+                "$oid": "deb38588-6fc4-4549-853c-b35cbe5b6b83"
               },
               "dapAn": "C. Foreign correspondent",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "7ee5dfa5-3eb5-41d7-8a02-7edff3162cbf"
+                "$oid": "69131c46-a950-45ae-b2a6-37b08df35b06"
               },
               "dapAn": "D. Capital correspondent",
               "isCorrect": false
@@ -543,34 +543,34 @@
         },
         {
           "_id": {
-            "$oid": "b0cf8276-f45f-406c-83a8-affdcf4aadd1"
+            "$oid": "d8dc535e-f7ac-4675-8efd-8e5a24f2118e"
           },
           "cauHoi": "How many times has Smith win Canon Media Awards?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "38044822-c778-4340-9dd1-6f7ab30d9c93"
+                "$oid": "28eb8a5b-45ac-40dd-94a8-53ac23ebe0a6"
               },
               "dapAn": "A. 1",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "2774db5c-9843-49f2-a5b9-223802a4c540"
+                "$oid": "81976417-d6af-4521-8ca4-f98346302aa6"
               },
               "dapAn": "B. 2",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "867519c3-c863-4fe1-b8a5-acd1c6d6f710"
+                "$oid": "0cd2ad68-045e-44eb-8b1b-967ca331434b"
               },
               "dapAn": "C. 3",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "46ae161b-1e97-4171-8a8e-d1a2f1730c2d"
+                "$oid": "eaba9141-d838-40e4-80d3-842728edeaab"
               },
               "dapAn": "D. 4",
               "isCorrect": false
@@ -579,34 +579,34 @@
         },
         {
           "_id": {
-            "$oid": "d6268c89-fc42-4123-a94d-f68f7bfac578"
+            "$oid": "3e63a107-e445-4ec6-a150-4c81bc10986b"
           },
           "cauHoi": "Which case did she solve that made her famous?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "e45952a0-8252-4930-bd93-71c9b154cd04"
+                "$oid": "ad1ae9ee-c922-48c0-aa39-f77f1f3618b2"
               },
               "dapAn": "A. Watson case",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "64cc8d14-8722-4163-9e3e-87e26cbe11ed"
+                "$oid": "a0f6305b-7c6a-4421-977e-61dcbb95251a"
               },
               "dapAn": "B. Canon case",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "f7a8d20a-e714-4ee9-a9a9-091d6eb90903"
+                "$oid": "295a04e0-766c-4bb7-95e4-6c3d2920957c"
               },
               "dapAn": "C. Potter case",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "a76093ae-f1ca-49ab-8966-20d94d105279"
+                "$oid": "01e70527-edb5-4eca-a644-fd7dd4f49efe"
               },
               "dapAn": "D. Mark case",
               "isCorrect": false
@@ -620,39 +620,39 @@
     },
     {
       "_id": {
-        "$oid": "867fe82a-5a2a-4126-94cd-85abec903022"
+        "$oid": "f963c739-4f70-4d48-9bcf-bf3c0fe25d83"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "d853c745-7eae-4c2b-8892-5fbd83afcc61"
+            "$oid": "97ba1137-991f-4a43-a008-5d6bdd437349"
           },
           "cauHoi": "When did Watson intend to meet Smith?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "91648ab3-cd1f-4295-bd21-c043f25118f2"
+                "$oid": "c60c537a-4c1a-4476-abcc-9197e766800d"
               },
               "dapAn": "A. In 2019",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "bfe4423c-b3af-4465-b9df-f53984ce915c"
+                "$oid": "9e1ee701-0cc4-41eb-b0f1-dfcb1ef22758"
               },
               "dapAn": "B. In 2015",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "69948736-abad-4d4b-9498-7dda01d608d8"
+                "$oid": "491f2f8e-4f4f-4dcf-843c-75803b462b01"
               },
               "dapAn": "C. In 2016",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "eb1c0b84-8266-4b3f-8b66-5b1956137302"
+                "$oid": "a34fb5d2-34c1-4fc8-a8c0-8e3d45d6a180"
               },
               "dapAn": "D. In 2014",
               "isCorrect": true
@@ -661,34 +661,34 @@
         },
         {
           "_id": {
-            "$oid": "0a52cff2-d372-46c3-b4e5-3b53321a353a"
+            "$oid": "2ad885d2-e548-4976-8ea4-c5880d73f224"
           },
           "cauHoi": "How was the meeting?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "7ac00d65-c7af-4b32-a0b5-f7bf0198f3de"
+                "$oid": "6d0a5434-35a4-4263-9ce0-76b1ebcaf731"
               },
               "dapAn": "A. It went well.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "f0d75f21-a8c2-4753-9c37-7db12d38e584"
+                "$oid": "f0751b8c-e40a-4067-a9bb-ccc89ff7285b"
               },
               "dapAn": "B. It got so intense.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "c69d8bf1-2c5e-4c5c-96c5-5f3889a6cdb5"
+                "$oid": "a3805f2a-3bac-4069-bbaf-4d2f13d4decd"
               },
               "dapAn": "C. It didn’t happen.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "613f1d88-9bbb-4862-868f-8368127d6352"
+                "$oid": "21739d53-55c2-4efc-b7b0-d6405f56059e"
               },
               "dapAn": "D. It didn’t end well.",
               "isCorrect": false
@@ -697,34 +697,34 @@
         },
         {
           "_id": {
-            "$oid": "45658c82-d4e3-4b5b-a820-c6acf6339bdf"
+            "$oid": "5442de03-0b0f-4393-82b6-6c110adcbde0"
           },
           "cauHoi": "What was Watson accused of? ",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "126b1cea-e813-4ac2-893f-0e2995b62a10"
+                "$oid": "173d4dde-81c0-4eda-bd09-ac5e3497fa80"
               },
               "dapAn": "A. murder",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "cd089fb5-7798-477e-8b9e-4f1ba5d2f392"
+                "$oid": "b17f0d73-e400-4ee4-80b2-a8b1c7747bce"
               },
               "dapAn": "B. robbery",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "2b1bbb41-1fe7-4bb7-8fb8-8c16f00abd33"
+                "$oid": "e93b8b78-f0a5-4db9-b254-da7137dfe5b8"
               },
               "dapAn": "C. sexual assault",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "7137a8c7-c371-4314-8376-0062b4b72d1d"
+                "$oid": "5d3f2b49-a59b-47f2-8879-b6d6136394d8"
               },
               "dapAn": "D. pocket-picking",
               "isCorrect": false
@@ -733,34 +733,34 @@
         },
         {
           "_id": {
-            "$oid": "550d5047-0da2-4ba8-a185-57ed6b06051d"
+            "$oid": "89cb458b-a644-464f-8fb0-7173ae5b0c4b"
           },
           "cauHoi": "How long did it take to bring the truth the light?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "7e76d9bb-9777-4935-ad33-449efe8a7add"
+                "$oid": "b3df3b3e-741d-464d-a683-662e696c7b42"
               },
               "dapAn": "A. 6 months",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "407fb4f8-6136-4fe6-98f2-03aacbbe382e"
+                "$oid": "4ca7cd48-fefa-4fad-a98f-3bb6c7fd95a3"
               },
               "dapAn": "B. 3 months",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "ee6fc109-18ec-44b6-9c27-5824ab857be3"
+                "$oid": "4a7d8738-ad63-4422-b43a-f6b1b78342fc"
               },
               "dapAn": "C. 5 years",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "23c78c8b-40ce-4fba-8e24-0c60da223c66"
+                "$oid": "0c6cd754-4460-437e-b2aa-edabddf4266b"
               },
               "dapAn": "D. 1 year",
               "isCorrect": true

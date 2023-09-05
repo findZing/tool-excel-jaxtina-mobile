@@ -4,39 +4,39 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "99ac523c-9cf9-4cdf-a522-5f562b58d1d2"
+        "$oid": "98596e16-cc60-4996-a12e-58eaae44c207"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "cc22d444-4026-4a76-aee3-85c16bc5b2e6"
+            "$oid": "cb9b32f8-8ee5-4926-9e9f-88a494c4d263"
           },
           "cauHoi": "Is the lighter useful for survival?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "ee942058-ef44-4ab3-901c-1d52019287f5"
+                "$oid": "329f50c4-11c0-495b-a0e1-7a45b8f72d09"
               },
               "dapAn": "A. Yes, it is.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "cece8de1-a78c-4853-ae04-84886540bfb0"
+                "$oid": "3b8219fc-edd9-4fce-9ffc-695ab42495af"
               },
               "dapAn": "B. No, it is.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "dc85d609-b23f-4998-91ff-b0cf87119944"
+                "$oid": "98bd5e1a-0edf-43f2-912f-910fa35dc201"
               },
               "dapAn": "C. Yes, it isn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "0260194d-a1c8-4411-af7c-d7e896c41dee"
+                "$oid": "a4a43a3a-1521-416f-9f4f-7414676b5b69"
               },
               "dapAn": "D. No, it isn’t.",
               "isCorrect": false
@@ -45,34 +45,34 @@
         },
         {
           "_id": {
-            "$oid": "f544c12f-27dd-4215-97b7-476a995d0a38"
+            "$oid": "555cbaf8-7232-4f47-97b8-2e03d546883c"
           },
           "cauHoi": "What will provide you with some energy and are easy to digest?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "af646d68-9b84-4ad2-b3ac-b724b72e5333"
+                "$oid": "8d961f2d-ec74-43f5-b90d-c4a947115589"
               },
               "dapAn": "A. noodles",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "ea3271a3-99bc-458b-9fad-78a3d0317beb"
+                "$oid": "0de246be-3cfc-4c5b-927c-7165bff96b20"
               },
               "dapAn": "B. chocolate bars",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "a1574f4f-8bd6-479d-94d4-5459a02e5666"
+                "$oid": "5f996929-8624-4e04-b1b7-131fbceae829"
               },
               "dapAn": "C. bread",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "866f69f7-199c-4430-b9d0-b87eea17556e"
+                "$oid": "3db63168-568c-4b40-a43b-f4dd4e06b048"
               },
               "dapAn": "D. rice",
               "isCorrect": false
@@ -81,34 +81,34 @@
         },
         {
           "_id": {
-            "$oid": "b7f5bee8-5948-43d1-82b9-f6e387e40e13"
+            "$oid": "940ac067-68a2-42d6-984c-ac833e6664f4"
           },
           "cauHoi": "What is useful for signaling at night",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "d1707cf0-5ad7-49eb-8c8c-ecb0582f6593"
+                "$oid": "c3aede30-af05-471d-b381-fd839d3964d2"
               },
               "dapAn": "A. flashlight",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "a3a79aff-0520-455f-a051-d9ee168ed6f3"
+                "$oid": "7945a593-d969-46bd-8f0a-174367f90a3d"
               },
               "dapAn": "B. fire",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "07880ae3-e8df-442b-a2a6-c21e3b4d3a4b"
+                "$oid": "148d8502-0538-42f5-a473-b7ecc7b3d990"
               },
               "dapAn": "C. laser",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "255840c6-5f15-417b-8bbc-9fb3d7bdbf24"
+                "$oid": "840ce574-ddfa-4ecb-91b2-dc6e1d73edcf"
               },
               "dapAn": "D. white flag",
               "isCorrect": false
@@ -117,34 +117,34 @@
         },
         {
           "_id": {
-            "$oid": "e95da92b-395d-46af-8bc1-f5d5f0791a7c"
+            "$oid": "d93f9bc3-17ac-4ef0-b6ea-4056bbbc6da4"
           },
           "cauHoi": "What can be used to reflect the sun to signal to any rescuers?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "d88a8e13-7fba-44e9-bab8-2141a2385463"
+                "$oid": "cb2afc4d-64ec-4c3f-849c-35129e0d6cbc"
               },
               "dapAn": "A. mirror",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "d9901ee6-a629-4544-9e69-cfb9bd7d6f03"
+                "$oid": "75009645-a525-4b21-a1d5-c7df63e17390"
               },
               "dapAn": "B. large screen",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "968daad4-268f-492e-b1fe-7929492a01a8"
+                "$oid": "88bfc7ac-6357-46cd-acaf-fab278e37f17"
               },
               "dapAn": "C. white flag",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "467a2cee-c382-4398-8326-2fec34b11b2d"
+                "$oid": "b9d6e537-4f43-499c-b4b4-eb88a2c27c5a"
               },
               "dapAn": "D. smartphone",
               "isCorrect": false
@@ -158,39 +158,39 @@
     },
     {
       "_id": {
-        "$oid": "c1e88bc3-afb7-4bed-b80c-513061b0f4ef"
+        "$oid": "4a12eb5f-ca12-468d-b38b-b77a7583ff40"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "cf21cca2-6300-414b-95f4-7a4cff82c13a"
+            "$oid": "13d7565f-74d1-46ce-b750-aef700fdb0ec"
           },
           "cauHoi": "Can the animals be fast and strong?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "552d17a1-ca73-47ea-a9b5-f2209c02c66d"
+                "$oid": "0635045f-3661-4099-8938-fdc40f33ea33"
               },
               "dapAn": "A. No, they can.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "e47bf0fe-9756-4d54-ac5c-9a1168f5d17a"
+                "$oid": "772bd1ca-beb5-47b8-bb48-527955fb1f42"
               },
               "dapAn": "B. No, they can’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "3865909c-a9a1-4110-8d8b-d1491bc21588"
+                "$oid": "d98396fb-bf39-4733-b8d3-a20c154d9ccf"
               },
               "dapAn": "C. Yes, they can’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "2ddbc98a-4baf-4f47-9289-497be60df236"
+                "$oid": "2ec06e98-c37c-4c07-bee8-4e87d7c64f0c"
               },
               "dapAn": "D. Yes, they can.",
               "isCorrect": true
@@ -199,34 +199,34 @@
         },
         {
           "_id": {
-            "$oid": "459ca4f9-4da7-4a86-9f25-a9e78d2c5264"
+            "$oid": "8076c29b-24d2-4d15-bcf0-b13038125c6d"
           },
           "cauHoi": "What we need to test animal behavior?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "d8fed291-e330-42b2-92ee-b891d4fa40fa"
+                "$oid": "2f92f4bf-64c2-4909-a29f-af73b5b719ac"
               },
               "dapAn": "A. a standard",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "b06b903c-ed4a-44d7-a71a-4a6890e5806a"
+                "$oid": "73c61ea2-8832-4ba1-bdac-42d20a3c1b7c"
               },
               "dapAn": "B. a standard way",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "1796b05c-52c1-4360-a3b6-2ac198b06ec1"
+                "$oid": "f4a89c7b-7a6a-4054-b58d-a9319b178a7e"
               },
               "dapAn": "C. a rule",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "d66b0ba9-e59e-4a2b-830a-4917c82a7c69"
+                "$oid": "a1c19416-6d75-432f-b05e-6408e6c01883"
               },
               "dapAn": "D. a method",
               "isCorrect": false
@@ -235,34 +235,34 @@
         },
         {
           "_id": {
-            "$oid": "3d80cfe3-3222-461e-b101-aa71d7e93c05"
+            "$oid": "48cddda9-bfaa-4c71-bc37-6be8eb9a00d6"
           },
           "cauHoi": "When was the mirror test developed?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "f5278c2f-b9eb-4aec-91cf-5de0a8ecb868"
+                "$oid": "6d58f7f3-801b-47d6-a92b-00ca75c6744d"
               },
               "dapAn": "A. 1968",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "73134286-6fca-4d09-8c47-a6f8f96984a9"
+                "$oid": "78fd119b-f1c7-4b75-a608-2e3d4ebb95de"
               },
               "dapAn": "B. 1969",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "f597eccd-ce37-4ca3-bcdd-2e550c4a5379"
+                "$oid": "b83cd145-3ad6-4479-a368-5768fa8e0379"
               },
               "dapAn": "C. 1970",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "7f1d887c-3914-461e-ae48-54663855862a"
+                "$oid": "7e52f123-3885-43bf-a7c6-70599aa5ccbd"
               },
               "dapAn": "D. 1980",
               "isCorrect": false
@@ -271,34 +271,34 @@
         },
         {
           "_id": {
-            "$oid": "ca2eaea0-1f2e-4604-91d3-22330ebc55a4"
+            "$oid": "c8519996-1640-4cf7-82d0-c13cb1137fb8"
           },
           "cauHoi": "Are animals intelligent?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "aed40338-a088-4f38-b43a-f05a1c16c324"
+                "$oid": "7d0b61b1-732c-4ce1-8017-7d447d108a74"
               },
               "dapAn": "A. There is no answer yet.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "7dbb4ff9-cc31-48f2-b03e-2d4d5d01b9dc"
+                "$oid": "c383c81b-77bb-4bbe-b46e-94419d97842f"
               },
               "dapAn": "B. Yes, it is.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "c1d20ffa-db3b-4272-a427-94412c2324ce"
+                "$oid": "22ec4577-9a19-44fe-9690-1fb896806150"
               },
               "dapAn": "C. Yes, they are.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "fd64c44d-d0c6-49d2-aa0a-c85336549b70"
+                "$oid": "9c5cd34d-5906-48d4-a42a-5fad91bbb5f2"
               },
               "dapAn": "D. No, they aren’t.",
               "isCorrect": false
@@ -312,39 +312,39 @@
     },
     {
       "_id": {
-        "$oid": "a34cd4ff-1a70-4085-a3cc-48f75374a658"
+        "$oid": "9c2d2501-6584-4853-a53f-bae4f0b9e438"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "c0ccf820-95df-4378-8144-fbaa77477af8"
+            "$oid": "32a4a259-3f63-4ec5-b41e-729402c9056b"
           },
           "cauHoi": "Is there a good chance an animal is intelligent if it passes the mirror test?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "0c2e82df-e490-4cf7-9cda-d19e8474c116"
+                "$oid": "51915a4e-7f62-4717-8cf1-adeee36e55c4"
               },
               "dapAn": "A. No, there isn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "23fb946b-917e-408d-a68d-02e6c7cb513c"
+                "$oid": "21049dbe-8696-4299-aabd-56968442d7aa"
               },
               "dapAn": "B. No, there is.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "407e6562-4be6-4ade-8664-3ce1283086a8"
+                "$oid": "da7be913-fb83-43f5-b0e2-2cbb4014f48f"
               },
               "dapAn": "C. Yes, there isn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "a2fbb954-ddbf-4ab5-8b31-0547d955828c"
+                "$oid": "7d5d1592-d601-46eb-bf10-f20fc2dc6623"
               },
               "dapAn": "D. Yes, there is",
               "isCorrect": true
@@ -353,34 +353,34 @@
         },
         {
           "_id": {
-            "$oid": "baa7fff1-69cb-4e29-b6af-87186a5da55c"
+            "$oid": "a626cd03-c8b9-449a-b6c2-2b97b09a49a6"
           },
           "cauHoi": "What do give the animal so it goes to sleep?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "a4ebaa36-3e69-4686-a30b-20497997b558"
+                "$oid": "ec4f151d-59cf-4b5b-88ec-a7212f64a079"
               },
               "dapAn": "A. candies",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "35905268-9a52-479c-95b8-bc1c6806cf8a"
+                "$oid": "c1f07533-bea6-401d-a24e-a2e48aae37c7"
               },
               "dapAn": "B. vaccine",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "c4ee437d-9b49-4880-99d3-d0b9b464dcf3"
+                "$oid": "4462a91d-a24a-4dbe-b601-1dccf1ea39f5"
               },
               "dapAn": "C. clothes",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "5b0a9744-4332-44d6-9c61-14919e7af174"
+                "$oid": "ab4599e2-2a0f-45f7-9b11-47f5cb406b67"
               },
               "dapAn": "D. medicine",
               "isCorrect": true
@@ -389,34 +389,34 @@
         },
         {
           "_id": {
-            "$oid": "1c0eb47b-870f-4018-bb4e-7caa44b7dd59"
+            "$oid": "cf2cd2dc-56db-4fae-a12b-109468aafc28"
           },
           "cauHoi": "Where can they put a colored mark on the animal’s body?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "dcd06fc8-3717-4973-8f62-4dccda8c6725"
+                "$oid": "abe9ce48-35e6-49b0-ac01-cbf45865a746"
               },
               "dapAn": "A. hands",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "de2caee9-e87f-44b3-8a98-1eeba1315775"
+                "$oid": "74a8ab6b-76c4-46e5-b4f5-fd951ca8e6f3"
               },
               "dapAn": "B. forehead",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "1598600f-2742-465d-9e87-4e63dcdbca62"
+                "$oid": "bdf04245-ccfa-48c4-ab87-d3686b0aff6c"
               },
               "dapAn": "C. ears",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "60a94cdd-1072-47c8-b934-82b056c90bc5"
+                "$oid": "6a2efc08-198f-424d-9945-eeae58de4bfd"
               },
               "dapAn": "D. B&C",
               "isCorrect": true
@@ -425,34 +425,34 @@
         },
         {
           "_id": {
-            "$oid": "66c9d919-3cb8-47da-b16f-fc1fb6406cb0"
+            "$oid": "f2eb3724-da6f-4917-9d21-0a26b86ea95b"
           },
           "cauHoi": "What do they do when the animal wakes up and sees itself in a mirror?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "a027a64a-470c-405d-80d0-1723c18c41cc"
+                "$oid": "c2c560f5-2d60-418d-8e59-5e45de456fd0"
               },
               "dapAn": "A. watch how it behaves",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "970127ca-d9df-4f7f-b4bc-b8750287c35c"
+                "$oid": "3690ec12-5278-40f4-ae09-2d53462a893a"
               },
               "dapAn": "B. give it some water",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "67b3b08b-82f6-4dcf-9a34-b1b592ae8f1f"
+                "$oid": "92876720-ee9b-4c61-83ae-003262efc9b6"
               },
               "dapAn": "C. give it some food",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "f19c5891-1b71-4837-980b-158e33ad37ee"
+                "$oid": "ccd928cf-fc46-4ea1-a26b-d5322cc94d6d"
               },
               "dapAn": "D. hit it",
               "isCorrect": false
@@ -466,39 +466,39 @@
     },
     {
       "_id": {
-        "$oid": "07a27b1d-292d-43f2-95ad-2bb3f46158ae"
+        "$oid": "d4dae494-e965-4f37-b03f-fb82d5a8450a"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "b1259dc1-58cd-431c-bc6a-5704be47f74f"
+            "$oid": "225b12ce-4bb5-4b36-b72d-4712323c43ba"
           },
           "cauHoi": "Does the animal that sees the mark and touches it or tries to remove it pass the mirror test?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "148b68b9-5162-4dbc-ad80-402e9cdfff82"
+                "$oid": "0388a691-2bcb-4bb1-b0ac-46670baa2c38"
               },
               "dapAn": "A. No, it does.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "c17203b0-82e3-483d-a298-ec1db9eee074"
+                "$oid": "b79cd709-ef0b-40b4-8604-708b590197c9"
               },
               "dapAn": "B. Yes, it does.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "a926f933-b391-47c1-81e8-2b5987a20180"
+                "$oid": "0d9b395b-f5e6-4a52-be02-c6ccb974259a"
               },
               "dapAn": "C. No, it doesn’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "20d42190-7cef-4c6c-a9d6-0c38860f7c7b"
+                "$oid": "4309b9c7-5b1b-4b53-be4e-b916d21db562"
               },
               "dapAn": "D. Yes, it doesn’t.",
               "isCorrect": false
@@ -507,34 +507,34 @@
         },
         {
           "_id": {
-            "$oid": "7e44bd94-50c6-4318-a00d-9d65920c04b0"
+            "$oid": "fee194f1-08d5-470d-a187-e3b80daa4582"
           },
           "cauHoi": "What are the species that passed the test so far?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "160deb74-27f6-46eb-8507-a0333ba46a13"
+                "$oid": "45ef3656-4efc-4a50-81a5-17e9839039f6"
               },
               "dapAn": "A. great apes",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "a4c6687c-1d8b-4c82-9f52-9163f7de9fde"
+                "$oid": "e7bb0865-e712-427e-8497-7d22b3d4048d"
               },
               "dapAn": "B. elephants and dolphins",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "dcb0afbf-8c7f-4e16-b509-f90b188d2209"
+                "$oid": "5d737370-15f7-4066-bd11-c2185eb871b8"
               },
               "dapAn": "C. orcas and Eurasian magpies",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "8aa2b157-53e6-42a9-acea-6eccfa1be9f5"
+                "$oid": "bdadf0c8-99c9-411a-8e15-4be1fc5547b6"
               },
               "dapAn": "D. all of them",
               "isCorrect": true
@@ -543,34 +543,34 @@
         },
         {
           "_id": {
-            "$oid": "471a2d09-f5fc-4468-ab4f-49aca4067cac"
+            "$oid": "cd960486-c8bc-49d8-858f-d00305b11ed3"
           },
           "cauHoi": "Do some people say that the test only works with animals that mainly use sight to explore the world?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "45d93936-fd72-455e-a3bc-327905bcc357"
+                "$oid": "a6990015-1cb8-40ca-843d-b8a1d4bf2269"
               },
               "dapAn": "A. Yes, they do.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "47660a42-3d77-4f92-addd-90f80944dbb0"
+                "$oid": "753baf78-ec70-45c5-bddf-d03ec5b10375"
               },
               "dapAn": "B. No, they don’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "8e0e4d35-ba74-410d-80eb-8725d9016198"
+                "$oid": "125cceb1-409e-49a1-97da-838fb270cea0"
               },
               "dapAn": "C. Yes, they don’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "f83e1c57-7a5b-439c-87b0-ac5173b25a33"
+                "$oid": "a8562d52-b11d-48b0-9949-43e71f484271"
               },
               "dapAn": "D. Yes, they did.",
               "isCorrect": false
@@ -579,34 +579,34 @@
         },
         {
           "_id": {
-            "$oid": "d89e6070-ae26-4e47-8390-51436c15a877"
+            "$oid": "f6db0d38-dec1-40e9-a477-5339ccc308b2"
           },
           "cauHoi": "Why may it not be a fair test of other animals, such as dogs?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "1b2de048-a403-47ee-a51d-3fe80e51da9f"
+                "$oid": "15647629-6c32-4f4e-aa13-5a6fe4f08c46"
               },
               "dapAn": "A. Because they use smell or sound more than sight.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "558250b3-0d8b-48de-95f1-5028dc2a9094"
+                "$oid": "70109b3a-7792-4183-a3ae-7a8fb0dd32ee"
               },
               "dapAn": "B. Because they are young.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "49338316-e829-4b69-b3ab-d28c54a761ea"
+                "$oid": "f617d8f1-1d7e-4892-8fab-d25cf63aeea2"
               },
               "dapAn": "C. Because they are unintelligent.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "34c363e8-c366-412c-b32c-0d4c6dd0170a"
+                "$oid": "15601bda-6e8a-4466-9ec0-6906086588fe"
               },
               "dapAn": "D. Because they are small.",
               "isCorrect": false
@@ -620,39 +620,39 @@
     },
     {
       "_id": {
-        "$oid": "314cbec0-50f4-4f7a-bf69-06a95daffd56"
+        "$oid": "f0f5938b-002e-4891-8e0d-720ac97303d5"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "bc1a3b96-1409-4b30-a30a-211b29ee78ed"
+            "$oid": "4810eaed-d3c6-489c-a586-d844a25f0185"
           },
           "cauHoi": "What is the Jascon-4?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "89940f60-1bf8-4de3-ab16-40ed33612d2e"
+                "$oid": "c8aadc17-febc-4ad6-a198-14385e00b757"
               },
               "dapAn": "A. a small house",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "d59bfa8a-9dcd-4d5e-ae42-bef50e9df6c8"
+                "$oid": "5da5a86f-e108-4b0b-a30e-6019f703df0f"
               },
               "dapAn": "B. a small rocket",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "7a706dfc-2a97-4ae4-93b8-288d155564af"
+                "$oid": "bd6d916c-6482-49a3-97d1-eced26b9aaf3"
               },
               "dapAn": "C. a small machine",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "fc19ec44-9c90-4b76-b122-bfe7b0ee5ea0"
+                "$oid": "b523d81a-8e82-47a4-8f37-bcee404da2e2"
               },
               "dapAn": "D. a small boat",
               "isCorrect": true
@@ -661,34 +661,34 @@
         },
         {
           "_id": {
-            "$oid": "2d9ccef5-7ea8-4992-931b-fb1b654d3395"
+            "$oid": "8b3284e2-14c9-440c-b699-86e5d076022e"
           },
           "cauHoi": "Who managed to survive?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "8c3c4380-355e-4a7c-802a-01c7136f0422"
+                "$oid": "8a05b118-0c5c-4026-bf8d-c71ab859d175"
               },
               "dapAn": "A. the guard",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "460d9a75-c683-494c-853e-9541b7d044f3"
+                "$oid": "5a86c212-d6b8-43df-8c8b-68dd3edb969e"
               },
               "dapAn": "B. the housewife",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "dfbfcab3-b868-48b5-b033-66ef3bb7c54f"
+                "$oid": "3ce42645-b957-4244-817e-b45294957c35"
               },
               "dapAn": "C. the ship's cook",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "197ba0e0-0a7e-4bed-bfb0-0162893647fe"
+                "$oid": "28311680-52bc-4b4a-9f65-b0c232330551"
               },
               "dapAn": "D. the director",
               "isCorrect": false
@@ -697,34 +697,34 @@
         },
         {
           "_id": {
-            "$oid": "ffb327fa-9564-4670-b3b3-f7b93788d266"
+            "$oid": "da3e61fe-383b-496f-ab3c-4370864236c0"
           },
           "cauHoi": "Where did he succeed in finding a pocket of air?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "947f5428-100e-4ac6-8277-6122e23efee6"
+                "$oid": "7adb9356-4a84-4c07-8735-5ec778e4b3d5"
               },
               "dapAn": "A. in the workshop",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "c2bc79ab-1c8c-4021-894e-eeadf9fcc7f2"
+                "$oid": "11143d10-b9dd-4650-81b8-93f669f5c922"
               },
               "dapAn": "B. in the store",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "1fd7c58d-c8a6-4f27-b2f5-4f4803709fae"
+                "$oid": "e2f771a2-539f-44e2-865d-100150744cfb"
               },
               "dapAn": "C. in the kitchen",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "5a008fb7-a1ff-467a-9227-95b04a572031"
+                "$oid": "ca66fbc2-e9e0-42e3-94d5-3b03633cadad"
               },
               "dapAn": "D. in the engineer's office",
               "isCorrect": true
@@ -733,34 +733,34 @@
         },
         {
           "_id": {
-            "$oid": "718432d7-641c-423f-9ba4-404fce925e0a"
+            "$oid": "bc4042be-7334-470f-b851-bd3ae8484add"
           },
           "cauHoi": "Finally, who saved him?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "a10141e4-55ff-477d-b2c5-973cf2eca952"
+                "$oid": "06735a2a-e3c8-4aaf-8274-dd72b98e80b4"
               },
               "dapAn": "A. the drivers",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "a7f450d1-a0ad-467e-8416-b9f0cbf91a38"
+                "$oid": "1a06081a-30d7-4ef8-aafc-eac3a8e67fae"
               },
               "dapAn": "B. the divers",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "43d6c136-3ee6-4a7b-bb0c-e641f320b9ee"
+                "$oid": "b6b68d1a-6399-41b1-940d-290d5a7d48cf"
               },
               "dapAn": "C. the polices",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "e53bfa69-b393-4d39-bc63-7d8052d092cf"
+                "$oid": "3b8d2e34-009f-44fc-b661-001436b1b8b5"
               },
               "dapAn": "D. the guards",
               "isCorrect": false

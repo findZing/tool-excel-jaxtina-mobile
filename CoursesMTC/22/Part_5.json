@@ -4,7 +4,7 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "c61288f0-b438-4413-9506-861b19147def"
+        "$oid": "27adaa9b-dc32-43d3-93d5-66d7b9ce5579"
       },
       "cauHoiNho": [],
       "cauHoi": "Maxi, I’ve tried to pay for our flights to Vietnam, but it says I’ve got no money in my _________.",
@@ -12,21 +12,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "d70c4a95-4a9a-421e-a70f-05f99debcbff"
+            "$oid": "6e296093-2898-4b2f-88bf-249aefa6b8e7"
           },
           "dapAn": "bank",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "71de7277-4fb7-4b88-ba74-827ead100caa"
+            "$oid": "e51723b7-13e5-4f42-bde9-612fb4adc72e"
           },
           "dapAn": "account",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "b4084c18-50c0-4b33-80b8-3a8812291a80"
+            "$oid": "fac628fd-2a8c-4e72-ac5a-e6cc42d8f54b"
           },
           "dapAn": "card",
           "isCorrect": false
@@ -37,7 +37,7 @@
     },
     {
       "_id": {
-        "$oid": "9e60ef1d-dfbc-4430-a591-416f259d968f"
+        "$oid": "b57179b7-da8b-46b4-afe9-7839dd964ac9"
       },
       "cauHoiNho": [],
       "cauHoi": "Really? If you used that _________ I told you about, that kind of thing wouldn’t happen.",
@@ -45,21 +45,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "f8ddb036-e857-49b8-9972-b8cec1c0d935"
+            "$oid": "d9ac610f-7b7a-4239-988e-cb532d4f706a"
           },
           "dapAn": "app",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "0d884452-50ae-4b32-be71-e0b0cee980e9"
+            "$oid": "0569c662-f076-4d34-b89a-8332d65e0844"
           },
           "dapAn": "method",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "06c7c82e-d21d-4db8-ada9-50c4f70fdb9e"
+            "$oid": "2120cdb5-a826-4f36-bde9-2173faaae7f2"
           },
           "dapAn": "way",
           "isCorrect": false
@@ -70,7 +70,7 @@
     },
     {
       "_id": {
-        "$oid": "29ada028-ccb9-4d4f-9926-3a31e06daf87"
+        "$oid": "33618d4b-7883-4d9f-bec1-0b20870ad43a"
       },
       "cauHoiNho": [],
       "cauHoi": "The app helps you __________ your money and see how much you’re spending.",
@@ -78,21 +78,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "0ead4e98-8e3c-42b0-9f7e-3c04e1ac4919"
+            "$oid": "cf05c961-21d6-49bf-b889-a077049d8ecb"
           },
           "dapAn": "manage",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "92c1ba7d-152a-480f-848f-72ee303fba76"
+            "$oid": "c6b3d31c-040a-4524-8a64-5eb4a9780acb"
           },
           "dapAn": "control",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "6f407fc2-79d5-4d90-89e7-3f4dcc47aa19"
+            "$oid": "c4a3bd20-7d01-45c9-9542-80b5806b3e23"
           },
           "dapAn": "track",
           "isCorrect": false
@@ -103,7 +103,7 @@
     },
     {
       "_id": {
-        "$oid": "473915b6-dde8-4f40-a964-157cce294149"
+        "$oid": "9e1ea2e8-3b7b-4072-ad3e-17760eec4b53"
       },
       "cauHoiNho": [],
       "cauHoi": "Look at the screen! It says I’ve made all these __________ with my debit card.",
@@ -111,21 +111,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "2876b701-b3ad-46f5-ac31-251b3e602ca3"
+            "$oid": "983a380e-3893-424b-a5d8-db613be96135"
           },
           "dapAn": "buyings",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "bce4429d-32e0-4244-8de1-5c4eb26d9baf"
+            "$oid": "0d5e321b-fa11-4b32-836a-9950d5fd26cf"
           },
           "dapAn": "purchases",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "1def1b30-8e19-449f-97ad-12ed20e4d76f"
+            "$oid": "3e38ad7b-74f6-4278-9897-690dd002bfaf"
           },
           "dapAn": "spendings",
           "isCorrect": false
@@ -136,7 +136,7 @@
     },
     {
       "_id": {
-        "$oid": "a91b5d38-c097-4c04-a6fa-2f9b7991934a"
+        "$oid": "c8adb46d-4265-488a-a7aa-7e7c6dc77796"
       },
       "cauHoiNho": [],
       "cauHoi": "But according to my bank, there were three identical purchases of $500 at the __________ on Monday.",
@@ -144,21 +144,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "ae034807-e952-4083-9a2e-3e3275fc60aa"
+            "$oid": "7660b869-9164-4715-92df-063ef1508896"
           },
           "dapAn": "supermarket",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "b6a25874-c1dc-4f60-8a71-a4c217985e0a"
+            "$oid": "0ca07a31-f433-45ec-baf0-b3144dd1dc34"
           },
           "dapAn": "market",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "ab487d03-6dab-49a4-9feb-c63018b31eae"
+            "$oid": "2cb2e108-14ff-4346-bed1-dc3719e2f863"
           },
           "dapAn": "store",
           "isCorrect": false
@@ -169,7 +169,7 @@
     },
     {
       "_id": {
-        "$oid": "24a6f2a9-4650-4af0-a71f-f6f0338aa447"
+        "$oid": "81f5e8f8-8ee3-46e4-81f4-5b3e23c5ed87"
       },
       "cauHoiNho": [],
       "cauHoi": "That’s really __________, because you didn’t go to the supermarket on that day.",
@@ -177,21 +177,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "fdeb647a-d99b-472e-b646-dd9c1fd7ef15"
+            "$oid": "5bbfbdef-6561-449f-b270-e6c1169577a0"
           },
           "dapAn": "strange",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "fbd2ca73-df7b-4f33-8816-208a221d8b54"
+            "$oid": "048b223c-7441-41cc-b670-f8bb3a7589ec"
           },
           "dapAn": "weird",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "0904bc42-ae1e-4ffb-86c6-ccb0c19f050e"
+            "$oid": "841edd51-18d4-42b7-99fe-0625e945eb64"
           },
           "dapAn": "impossible",
           "isCorrect": false
@@ -202,7 +202,7 @@
     },
     {
       "_id": {
-        "$oid": "e84530b4-b824-48a4-a93f-183da6f9816a"
+        "$oid": "40f88007-8324-4b2a-bd6e-033aac267b4d"
       },
       "cauHoiNho": [],
       "cauHoi": "That’s right. I think someone’s got my __________ details.",
@@ -210,21 +210,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "57e9c6cf-3324-4bde-8613-17858ccd0940"
+            "$oid": "6f330671-551c-4d34-84bd-6205b34cb2e1"
           },
           "dapAn": "personal",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "e5f511a1-6ce2-436a-923b-04300bd72672"
+            "$oid": "4801fb8a-4cbe-4475-960f-b653607707ea"
           },
           "dapAn": "identification",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "a1861427-b18f-4107-973e-114deafaf6c6"
+            "$oid": "9bdd9682-e2b0-453d-a6e7-5049012eb59f"
           },
           "dapAn": "account",
           "isCorrect": true
@@ -235,7 +235,7 @@
     },
     {
       "_id": {
-        "$oid": "7c9eabdf-fe8d-470b-820f-0ab5cc44887a"
+        "$oid": "03d18a35-498d-4dd3-a9dd-663c4f07f4da"
       },
       "cauHoiNho": [],
       "cauHoi": "Yes, that’s because you left your __________ in the ATM!",
@@ -243,21 +243,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "4c852ef6-1ec6-453c-86bd-afab20b796f5"
+            "$oid": "d9ad831d-2c4e-4a58-9d01-adf6bca52af3"
           },
           "dapAn": "money",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "fb41d35d-0fb8-4523-a4ad-e1703aeb33a1"
+            "$oid": "b49938f7-3919-43a2-bead-93592b5cf350"
           },
           "dapAn": "card",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "5f2da479-0665-4671-a923-473ba19c2bdc"
+            "$oid": "9c2a7cdd-1141-41ec-9d90-b54bc583e1c9"
           },
           "dapAn": "information",
           "isCorrect": false
@@ -268,7 +268,7 @@
     },
     {
       "_id": {
-        "$oid": "ca8b476e-6dc3-4df9-b138-2d78cf4d0cc1"
+        "$oid": "0dee9afd-ee8a-408a-96a8-50523c879bd9"
       },
       "cauHoiNho": [],
       "cauHoi": "Nobody even needed to __________ my personal identification number, but my money was stolen.",
@@ -276,21 +276,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "1a65c7b7-1aad-400a-a646-1e8d3fec79df"
+            "$oid": "6f83ea49-6dce-47d7-a8ea-43af7d06a1e0"
           },
           "dapAn": "take",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "b74adaa7-7a11-44a2-8fdf-21d02e8a9a9c"
+            "$oid": "a100c8b5-38f0-40d9-8e80-db8360b7aae0"
           },
           "dapAn": "steal",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "c1f9c3b7-63bd-41c0-bdc3-79d1bce6ca52"
+            "$oid": "c614905e-f4aa-4e5a-ba63-6b02ee3636f1"
           },
           "dapAn": "know",
           "isCorrect": false
@@ -301,7 +301,7 @@
     },
     {
       "_id": {
-        "$oid": "7961f985-a464-424b-a5a2-d29f610b01d0"
+        "$oid": "05720a53-a82d-472a-ade8-c97f15589f74"
       },
       "cauHoiNho": [],
       "cauHoi": "I think you need to call the bank now and report those __________.",
@@ -309,21 +309,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "e7b825e4-7e37-431c-a5b9-f5e54e4a9732"
+            "$oid": "55ba509c-679b-4d98-a2ce-33485503d54c"
           },
           "dapAn": "payments",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "10ffb2de-8e34-41e7-9368-9567d74c32b9"
+            "$oid": "92efa8e1-d727-4638-8d41-8de31b61c79c"
           },
           "dapAn": "transactions",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "d94ee84e-67a0-4937-9ee8-da5011335452"
+            "$oid": "bfd9a9c8-595e-448f-ae60-269ec890e076"
           },
           "dapAn": "issues",
           "isCorrect": false
@@ -334,7 +334,7 @@
     },
     {
       "_id": {
-        "$oid": "c3cc526e-4c91-45b7-ac16-e8f559b63a8b"
+        "$oid": "52778fc6-ee5b-4fa6-8e1d-7f9ffad40327"
       },
       "cauHoiNho": [],
       "cauHoi": "Good idea. I’m sure they’ll see that it’s __________.",
@@ -342,21 +342,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "b71cf238-3033-409d-8195-b3b85195bfc0"
+            "$oid": "43ed2b76-2a19-4030-a972-82d016fb55e0"
           },
           "dapAn": "impossible",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "0cd71400-8973-4b95-b168-151ca48c16fa"
+            "$oid": "098a11a8-699b-426c-9a51-5b3bc1d472e1"
           },
           "dapAn": "possible",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "2731a555-bef6-412e-bed7-949d9b124507"
+            "$oid": "eac03fcf-021f-4fbc-906f-f9af62b95812"
           },
           "dapAn": "difficult",
           "isCorrect": false
@@ -367,7 +367,7 @@
     },
     {
       "_id": {
-        "$oid": "619ff659-12b1-4c5f-a822-0d59a90b6806"
+        "$oid": "62f6905e-0c7f-48d3-a33a-c382e77daf00"
       },
       "cauHoiNho": [],
       "cauHoi": "They’re normally very helpful with this kind of thing. Now we could pay by __________.",
@@ -375,21 +375,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "14a29002-d830-498e-aafa-e47bc285aa76"
+            "$oid": "856ee3a7-f84c-4301-aa18-0d2dcc956085"
           },
           "dapAn": "smartphones",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "6c776d5d-366f-4a73-bc08-80f52f388d89"
+            "$oid": "063d62ea-3470-483d-9143-3d3844c69362"
           },
           "dapAn": "card",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "53e01d4a-2345-458c-80f0-7a036c484361"
+            "$oid": "f529058c-f79f-4648-aed3-3a405ea54035"
           },
           "dapAn": "cash",
           "isCorrect": true
@@ -400,7 +400,7 @@
     },
     {
       "_id": {
-        "$oid": "65c1b36c-fb86-4e07-a390-b8cbc163b83f"
+        "$oid": "57a4c56a-3152-43e7-9090-1f1d455833ed"
       },
       "cauHoiNho": [],
       "cauHoi": "But it’s a lot of money. I think we could pay by __________ card.",
@@ -408,21 +408,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "03d147bc-9e75-46ab-a13f-bf8bb810eb2a"
+            "$oid": "e575f3ac-2515-420c-aa94-e58534b21b9d"
           },
           "dapAn": "debit",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "25e364d7-cfab-4f4b-9521-7a3c0b862177"
+            "$oid": "09b7cf62-f108-4f96-8530-27f2d1786d1a"
           },
           "dapAn": "virtual",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "6a73dcf2-35e7-4c8d-a229-2e7dddfbff18"
+            "$oid": "22b07ab4-a35b-43c8-8bcb-4483f9a5c19e"
           },
           "dapAn": "credit",
           "isCorrect": true
@@ -433,7 +433,7 @@
     },
     {
       "_id": {
-        "$oid": "c067afa1-5b75-4bb6-ab31-be04333497f4"
+        "$oid": "0f96b2ba-98cf-4b2c-82cc-5737af66d78c"
       },
       "cauHoiNho": [],
       "cauHoi": "At least then we don’t have to pay for it all at the same time like using a __________ card.",
@@ -441,21 +441,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "3b325659-08e3-4629-a60f-946a8a91261b"
+            "$oid": "20d9a921-1d2d-4927-b1dd-81b095e711a7"
           },
           "dapAn": "virtual",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "fe2d14ae-4567-4cc2-b02b-54a17b59b53f"
+            "$oid": "a1dbe89f-69be-43cf-afcd-fbeaf520d172"
           },
           "dapAn": "credit",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "2ea47053-0df7-4450-8456-6cd3390f09c4"
+            "$oid": "2c77f477-2b80-41d3-845f-631815688f8c"
           },
           "dapAn": "debit",
           "isCorrect": true
@@ -466,7 +466,7 @@
     },
     {
       "_id": {
-        "$oid": "3e636106-3e4e-44b0-b37b-8a1456472866"
+        "$oid": "71a51a87-1ae3-497c-bf7e-861698128ade"
       },
       "cauHoiNho": [],
       "cauHoi": "OK. Maybe we might get a discount on the __________ with the credit card anyway.",
@@ -474,21 +474,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "4c0c553e-11e5-40e2-8511-6a9e46b6a99e"
+            "$oid": "0d66d72e-ec61-437d-8915-ee81513b02a8"
           },
           "dapAn": "holiday",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "804d589b-5c56-479f-a79a-47ed52b50bf6"
+            "$oid": "9d23b7b4-13b7-489c-8ca0-9a8575446cde"
           },
           "dapAn": "vacation",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "c8550727-51b5-46cb-8c9e-dbcbb09baeb7"
+            "$oid": "ecb129a3-be3e-453d-bed2-c589840647cf"
           },
           "dapAn": "trip",
           "isCorrect": false
@@ -499,7 +499,7 @@
     },
     {
       "_id": {
-        "$oid": "27204e12-3296-44ae-b735-1a0244b096da"
+        "$oid": "bb59a7b5-84be-401d-9113-e16c5be3244e"
       },
       "cauHoiNho": [],
       "cauHoi": "So, as follow-up to last week’s program about how to make your money go further, we thought we’d ask different people on the street how they __________ their money.",
@@ -507,21 +507,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "d224ca47-29be-429d-88ab-bd045e8c0feb"
+            "$oid": "70c97e01-3ef1-4bdc-831d-39e5eb379129"
           },
           "dapAn": "manage",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "211c0e2b-6ffd-4981-9327-a82b7ba50419"
+            "$oid": "d5f97c71-1f35-4e32-8af8-2c93c5aa1db7"
           },
           "dapAn": "earn",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "1bc63134-c224-4127-9722-68e65b7ccdc3"
+            "$oid": "1f5841b5-3c94-4ba2-919f-b1125d06e124"
           },
           "dapAn": "spend",
           "isCorrect": false
@@ -532,7 +532,7 @@
     },
     {
       "_id": {
-        "$oid": "513b7cca-b95d-4779-827c-aa62f6dd8762"
+        "$oid": "d9f44558-c615-4862-9b96-0ab05d196543"
       },
       "cauHoiNho": [],
       "cauHoi": "I guess I’m part of the genergation that __________ everything through their smartphones.",
@@ -540,21 +540,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "ea98205f-e6cb-4092-9610-76d2dfce6d80"
+            "$oid": "5471444b-602b-4696-8927-421758256200"
           },
           "dapAn": "does",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "b1b7854c-13c2-43d1-b5f1-5f049979c059"
+            "$oid": "52e75c43-3a51-4fe4-b195-2a9fbce02c30"
           },
           "dapAn": "controls",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "f76f9763-3d01-4980-8dab-a439b92876a7"
+            "$oid": "5c61c379-15bc-47c0-bc56-e4c8e9ed7844"
           },
           "dapAn": "works",
           "isCorrect": false
@@ -565,7 +565,7 @@
     },
     {
       "_id": {
-        "$oid": "5199ec2f-f90d-4905-8958-8497d26d9a98"
+        "$oid": "c39fc825-bbb9-4c64-bd2d-68a6fbf5cf64"
       },
       "cauHoiNho": [],
       "cauHoi": "I don’t like to borrow money from __________, so I don’t have a credit card.",
@@ -573,21 +573,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "ea548c87-57b6-4843-9e57-d8c3a588feb4"
+            "$oid": "7a4ce161-2ab8-4327-99db-f2545f8bab42"
           },
           "dapAn": "the bank",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "40a28360-801a-459a-a3f3-70b2d49ae89e"
+            "$oid": "a96bee06-96f3-4b40-8135-3a153c486bf2"
           },
           "dapAn": "friends",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "e6ec209b-a935-49da-b92d-54f040442db3"
+            "$oid": "6afc9a82-b41b-4fe6-b646-4de8a236fa69"
           },
           "dapAn": "family",
           "isCorrect": false
@@ -598,7 +598,7 @@
     },
     {
       "_id": {
-        "$oid": "c0d49374-3e71-43d0-9d5e-cc7a30ffcc11"
+        "$oid": "a2246d53-a69a-4e67-8c71-f78f274ab53c"
       },
       "cauHoiNho": [],
       "cauHoi": "I use my __________ to move money between bank accounts and to make payments to people.",
@@ -606,21 +606,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "60095f4f-916a-4349-8ba7-54b1c086aba2"
+            "$oid": "b936bf7a-8e67-47d6-a1ee-09b04726c5d0"
           },
           "dapAn": "phone",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "a9089b3e-48e1-405b-95a6-481fd0587167"
+            "$oid": "3b460d66-88db-441f-8ad5-b5febdb1848a"
           },
           "dapAn": "credit card",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "2c0ffe47-3853-4bda-b89f-086e7a56e0ad"
+            "$oid": "0bb013e1-e07f-4ef1-8312-67fe20ce51bc"
           },
           "dapAn": "debit card",
           "isCorrect": false
@@ -631,7 +631,7 @@
     },
     {
       "_id": {
-        "$oid": "65edc763-bdcc-4c3c-b3d6-97e1a01bf33a"
+        "$oid": "55bf8c02-7c4e-47ef-96e7-7ab51de94cba"
       },
       "cauHoiNho": [],
       "cauHoi": "I have an app that’s really useful for my __________ account – it tells me what I’m spending.",
@@ -639,21 +639,21 @@
       "danhSachDapAn": [
         {
           "_id": {
-            "$oid": "a72fade5-1a78-4dbb-9b3b-a4ae5cb0419d"
+            "$oid": "71ccf0d0-306c-4d92-921e-84603fec199f"
           },
           "dapAn": "business",
           "isCorrect": true
         },
         {
           "_id": {
-            "$oid": "e17256db-f027-4702-b3fe-851d937ac78a"
+            "$oid": "a0860711-0e20-49f5-9a2a-8afc08d25fbf"
           },
           "dapAn": "bank",
           "isCorrect": false
         },
         {
           "_id": {
-            "$oid": "424321d4-918f-4afa-b1a2-9910dc71f382"
+            "$oid": "8a23eef0-7833-48b2-b64f-976aac424610"
           },
           "dapAn": "work",
           "isCorrect": false

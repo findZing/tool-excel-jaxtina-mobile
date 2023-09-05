@@ -4,39 +4,39 @@
   "danhSachCauHoi": [
     {
       "_id": {
-        "$oid": "8b81858a-badc-475b-8e26-77b001dcd2bd"
+        "$oid": "7ccc8fbd-4e68-4d34-8a62-062244d8bb40"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "139f03cf-43e1-4093-94f8-e1b3630a838a"
+            "$oid": "3e075936-ee68-414a-a371-7dffe7042ea2"
           },
           "cauHoi": "What does Seth Hawk do?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "0da72d20-48cf-4a48-8491-a39a0e768bf0"
+                "$oid": "21353106-9c48-4b20-87e2-d43d689a2be6"
               },
               "dapAn": "A. an engineer",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "6a203d39-9c8f-470b-aa33-d8e9cd4c963d"
+                "$oid": "6cb43430-f3e3-4898-b392-75c0dd07e8d8"
               },
               "dapAn": "B. a scientist",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "4b29afd4-0e54-4364-934a-ca39e8de54d6"
+                "$oid": "469d7d75-a7f5-4af1-85ad-1da1b7c3bced"
               },
               "dapAn": "C. a dentist",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "f2d4d9ba-4f1b-4784-8d89-f9d0a2e4cfb5"
+                "$oid": "8ca290f0-158f-4460-b00b-02c24544e260"
               },
               "dapAn": "D. a professor",
               "isCorrect": false
@@ -45,34 +45,34 @@
         },
         {
           "_id": {
-            "$oid": "578d52e0-871d-4422-8d53-ec601b00ce88"
+            "$oid": "8acce968-759b-452e-b308-a7dcd9b4ab7e"
           },
           "cauHoi": "When does the show start?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "a3aa9eeb-b5e6-467b-81b4-dc6bb3c7fb42"
+                "$oid": "da5289bc-96b8-4c39-9042-58d8a95f3358"
               },
               "dapAn": "A. in the evening",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "0aaef534-11e8-4b11-8525-117e3ffc8c84"
+                "$oid": "16051bdb-06f4-42fb-9218-960919a153bf"
               },
               "dapAn": "B. in the morning",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "7fa5c358-9a39-420b-ac70-2bbf78852c40"
+                "$oid": "068a8546-fb9e-4eb6-90e9-be763e419b81"
               },
               "dapAn": "C. at night",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "ba8c1d6d-376d-4187-8ce2-c87d4f34acc7"
+                "$oid": "f4a30b7b-c084-468d-893d-1cb533ddaf81"
               },
               "dapAn": "D. in the afternoon",
               "isCorrect": false
@@ -81,34 +81,34 @@
         },
         {
           "_id": {
-            "$oid": "dc997eab-72b9-455a-a455-d4832c9a6289"
+            "$oid": "8e5910c3-d23f-4d60-b4f5-7b7f9e1fac50"
           },
           "cauHoi": "What hit the Earth and changed our planet forever?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "81c00ca7-7956-4dbd-b48d-85c9d45a7bd6"
+                "$oid": "25283714-15a0-4432-a464-54a71c4a0d9c"
               },
               "dapAn": "A. another planet",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "02320250-e6ce-40ee-8a1c-3a998d0ac579"
+                "$oid": "6fe72a39-5339-46ef-a290-6febaaa06fec"
               },
               "dapAn": "B. a giant rock",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "9a05b13d-a1a5-4ecc-984d-0d7703d9b26e"
+                "$oid": "fba659da-a4a2-4478-b2d2-fbd3312daa3d"
               },
               "dapAn": "C. asteroid",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "7fd5bb0c-c6aa-470c-a022-617eb607dcc3"
+                "$oid": "27bf0c71-6ccf-471a-aeff-ae11ea4d9a03"
               },
               "dapAn": "D. meteorite",
               "isCorrect": true
@@ -117,34 +117,34 @@
         },
         {
           "_id": {
-            "$oid": "dd3a16e9-a626-46ac-8d04-2bb240a4a7ae"
+            "$oid": "1a178791-d625-4447-8fe9-79311f2968af"
           },
           "cauHoi": "What did the meteorite create after hitting the Earth?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "186f04da-d391-4a99-9d18-1b185394393a"
+                "$oid": "ed0e5187-ad65-44ae-9884-9ebcdda64114"
               },
               "dapAn": "A. a crater\n",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "aef9e563-0752-432a-b290-6edf58d05a82"
+                "$oid": "de0f34fd-0045-4bf0-899d-ed6186d8df63"
               },
               "dapAn": "B. a giant hole",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "99e0f094-7476-4b72-a3b4-60701cdf3027"
+                "$oid": "1ae53555-75ee-4f20-90ee-5e69313f610b"
               },
               "dapAn": "C. fire",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "e3276da3-1d72-441d-8251-7b530ef178e4"
+                "$oid": "3387d043-93b6-44f3-a7a8-17a3d8959cb2"
               },
               "dapAn": "D. deaths",
               "isCorrect": false
@@ -158,39 +158,39 @@
     },
     {
       "_id": {
-        "$oid": "f3992795-1b75-479a-b6e2-89e580dd432e"
+        "$oid": "c8d9c95f-b083-4e65-ae3f-144262343200"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "5e899fc4-5277-43e4-a982-51c9380d8e1a"
+            "$oid": "2abefe7a-242a-45a2-90f5-e0f312bd0b40"
           },
           "cauHoi": "What caused extinctions according to scientists?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "0f4ffc28-dcff-41f4-a1f3-3b615cbfd237"
+                "$oid": "add39fa7-3979-4e0c-a441-6edcf7386284"
               },
               "dapAn": "A. human\n",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "28c3bc86-82cb-4c76-9e13-00154b10e9aa"
+                "$oid": "c215ed10-57ac-4a66-9643-00260d8c7a1d"
               },
               "dapAn": "B. the meteorite",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "94c8598c-e021-4ecc-b5b3-fadab506be92"
+                "$oid": "f6768d19-461e-4868-84c6-d0a34a951ecc"
               },
               "dapAn": "C. dinosaurs",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "9c60dfde-cb9a-4a2f-b9d8-6ba00555930a"
+                "$oid": "7f559a7c-585b-4b95-aed7-6c42890b4845"
               },
               "dapAn": "D. asteroid",
               "isCorrect": false
@@ -199,34 +199,34 @@
         },
         {
           "_id": {
-            "$oid": "3325462e-4023-4cf9-aff4-7dcced1f8178"
+            "$oid": "1c4e2d80-9ba4-4842-bd1b-90494c48b05e"
           },
           "cauHoi": "How long does it take for earthquakes and tidal waves to happen after that?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "19e7adc0-6dcb-4e91-9253-c0a7614d43c8"
+                "$oid": "a5beb287-2510-4c08-b8c4-3d31f62fd88d"
               },
               "dapAn": "A. a while\n",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "c7b5fad3-c10b-4ac2-b482-743e8ba39b89"
+                "$oid": "c47b1933-fa3e-4f32-a382-26140e83d83c"
               },
               "dapAn": "B. a long time",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "4edd531c-0fd2-48c0-b7aa-daf3cbd04cd7"
+                "$oid": "e73c9aec-38cd-4ff4-bd07-fb1bb086a991"
               },
               "dapAn": "C. a very short time\n",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "e5fbf5ab-9a54-41cb-9f3c-61629ec942bf"
+                "$oid": "f2187a77-8f8e-4afd-a4f7-acebcef5f401"
               },
               "dapAn": "D. a day",
               "isCorrect": false
@@ -235,34 +235,34 @@
         },
         {
           "_id": {
-            "$oid": "df58aa62-3b2a-41c5-bc86-d301aa4348a8"
+            "$oid": "e6ed5a38-e8b0-4f89-b708-0dc82b8582b6"
           },
           "cauHoi": "How high were the tidal waves?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "7cdcc6de-0c6c-4516-a2a3-ca64b1d76037"
+                "$oid": "d6720095-ad55-4bd8-9a62-e74f909d7582"
               },
               "dapAn": "A. 100 meters",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "09a5e2ec-5773-4e5c-8914-3f2572e7a11c"
+                "$oid": "5b8c7de3-5fe3-4880-851e-b996453f5a92"
               },
               "dapAn": "B. 300 meters",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "a01e15a7-7d21-49e7-8d36-01bbbc1f90bb"
+                "$oid": "d5bb64a7-950a-4aa9-ba86-add8ffa18881"
               },
               "dapAn": "C. 200 meters",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "1ad1e55b-5944-4bcc-bbad-5ebaf501001d"
+                "$oid": "ead1521b-dab3-4d26-8114-681144c2ceae"
               },
               "dapAn": "D. 400 meters",
               "isCorrect": false
@@ -271,34 +271,34 @@
         },
         {
           "_id": {
-            "$oid": "3d080173-e747-45ad-9e99-f83d4b1110f4"
+            "$oid": "e8ac993c-b0e7-4f9f-ad62-bfd54d15f6d4"
           },
           "cauHoi": "Where were there earthquakes and tidal waves?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "7d4fce4d-d129-469c-a313-c4452908d2a8"
+                "$oid": "1abfc5c7-e946-4215-b2d2-8b5a7e7fe604"
               },
               "dapAn": "A. highlands",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "b980009d-fba5-4552-ad81-8dd231abc617"
+                "$oid": "4d235d36-f113-4ea7-b3f2-7bb18aa483cd"
               },
               "dapAn": "B. lowlands",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "10339a3b-98a6-4472-bf16-ecffc36b91a7"
+                "$oid": "bee4046e-4d6d-4aa4-8764-73f2709fd43b"
               },
               "dapAn": "C. islands",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "4978e726-67d2-47bc-8dae-f53837bda306"
+                "$oid": "ecfceca3-b7e4-48c4-bbe0-96abeb654ab1"
               },
               "dapAn": "D. everywhere",
               "isCorrect": true
@@ -312,39 +312,39 @@
     },
     {
       "_id": {
-        "$oid": "1007f487-1f25-4a15-885f-ddca8ac045ae"
+        "$oid": "c0f49fa2-b948-4bf9-803f-7f5ced437c83"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "9fd59509-86a0-476e-9314-5da41df747dd"
+            "$oid": "fb51322f-1f0a-420c-a501-7fcbe2f51ceb"
           },
           "cauHoi": "How long did it take for debris to fall out of the sky after the explosion?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "8f422fb7-c3c5-4bd8-9079-778ab76c7a87"
+                "$oid": "083c7310-a9f8-43a0-ad4e-7dc44c1b4461"
               },
               "dapAn": "A. right after that",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "1af24e83-5422-4abb-b4e8-372852fc93e1"
+                "$oid": "87f94db2-f898-4268-a089-f5f5c6e48cd7"
               },
               "dapAn": "B. about 1 minute later",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "ee3c0292-3b05-4bad-8bf5-fb36da0adf70"
+                "$oid": "79d36611-db0e-4a73-924f-d20ffc5250a6"
               },
               "dapAn": "C. about 5 minutes later",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "8d1cfd2d-efa2-4eeb-86d9-10a61dc2c099"
+                "$oid": "f0b26fd7-1d76-4d21-8582-ed759aeee980"
               },
               "dapAn": "D. about 8 minutes later",
               "isCorrect": true
@@ -353,34 +353,34 @@
         },
         {
           "_id": {
-            "$oid": "6d99acee-0041-454a-b9a6-ef1820e943f6"
+            "$oid": "8668f562-6f5c-4858-a37a-847f1b198288"
           },
           "cauHoi": "Where was there fire after the explosion?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "0042e199-98c2-4913-a316-f02602982f48"
+                "$oid": "8c0bd56d-1993-4da4-8f92-5182e2c5b245"
               },
               "dapAn": "A. everywhere",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "308aa103-b923-4eae-a50e-a262efe5183b"
+                "$oid": "6f1fc968-a2f4-4af7-aaf0-2f318cee296e"
               },
               "dapAn": "B. islands",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "a68b658c-c6dc-49e7-9410-d86dcf5b8aea"
+                "$oid": "303c6998-8ced-4f43-a1ed-e5ba0ad33f50"
               },
               "dapAn": "C. forests",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "2e8c3058-1555-4d05-8e4a-ac3db7da9426"
+                "$oid": "7b04013c-92d7-4936-8394-87663fbb3e09"
               },
               "dapAn": "D. highlands",
               "isCorrect": false
@@ -389,34 +389,34 @@
         },
         {
           "_id": {
-            "$oid": "1144ed8c-b9cd-4ab2-a801-364e98180761"
+            "$oid": "a8a92453-0fb9-49ad-bac5-0d3a7a04e1f5"
           },
           "cauHoi": "Why was there no food for the herbivores?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "d6977244-7eb9-4138-8f6b-7e030197a3bf"
+                "$oid": "d68b010b-eabe-4fab-9ac0-d3501785bc2f"
               },
               "dapAn": "A. There were no plants left.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "8f5956ff-b7ea-4cd7-9058-31aee6c205cd"
+                "$oid": "2fae83a1-652a-4211-a73d-b3b961c6ba41"
               },
               "dapAn": "B. Their parents died.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "5a0e1ff0-ba11-45f5-883b-83a9840d369f"
+                "$oid": "41609cff-904b-40e5-bf03-403eac476abc"
               },
               "dapAn": "C. They couldn’t hunt.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "2237af66-7f19-424c-82c4-27d51277c0ca"
+                "$oid": "ca0f26fb-0fc4-4070-884a-1840b88225bc"
               },
               "dapAn": "D. Dinosaurs ate all plants.",
               "isCorrect": false
@@ -425,34 +425,34 @@
         },
         {
           "_id": {
-            "$oid": "260d9459-c5f6-4b9b-90a7-e1486cfd6036"
+            "$oid": "6fee84f1-4244-46cb-821a-c3b3bcb0bdc1"
           },
           "cauHoi": "What happened when the herbivores died?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "640a0fc3-c37a-40ad-bad7-576d71994809"
+                "$oid": "b1f31c53-3aef-4d70-8551-1c1fc555c298"
               },
               "dapAn": "A. Human died.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "15c0ddc8-1a9b-403e-9d71-8fee9828ad03"
+                "$oid": "3ba2c5d5-caaf-45b5-a0bc-65afd1c58401"
               },
               "dapAn": "B. Dinosaurs died.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "85bd77b8-1591-46f7-8c2c-8e857feb384f"
+                "$oid": "98083727-3162-42ff-b0b5-9cede5a76073"
               },
               "dapAn": "C. The carnivores died.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "890ccfba-63a3-4392-9d75-9ed54aa75589"
+                "$oid": "e3ece021-c1c0-4fb1-a990-068752a9a575"
               },
               "dapAn": "D. All plants died.",
               "isCorrect": false
@@ -466,39 +466,39 @@
     },
     {
       "_id": {
-        "$oid": "a73477de-7688-4869-80c4-1e708f8059fd"
+        "$oid": "a56ffcbb-57c9-4eeb-825a-7472abd6ced5"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "c420c14f-9406-4a40-807d-178091f2e5e3"
+            "$oid": "59c1ec5e-cfdb-45de-8bde-2f32e9298b82"
           },
           "cauHoi": "What is the speaker going to talk about?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "3704e894-5a59-4296-bbf8-5eeb91a82bce"
+                "$oid": "a17ef32e-a74f-4b9f-8b65-40ee282aaf77"
               },
               "dapAn": "A. people’s regrets",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "949ed839-1343-4393-a468-c7eb85fc562c"
+                "$oid": "61fdcac1-d97d-4626-8d0e-276e92b76155"
               },
               "dapAn": "B. people’s wishes",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "67d6bcb2-eed5-4320-af28-ac6e39419b92"
+                "$oid": "c756fb57-5507-4c49-95d3-5ceee39707e6"
               },
               "dapAn": "C. people’s ambitions",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "515c7011-024f-41ed-8f3a-c1f83505d660"
+                "$oid": "6eaa25e9-bab8-46ee-9f7c-36c8a0891f87"
               },
               "dapAn": "D. people’s wants",
               "isCorrect": false
@@ -507,34 +507,34 @@
         },
         {
           "_id": {
-            "$oid": "51a92a90-79eb-4d5b-a604-e3bf48d28d67"
+            "$oid": "3608c8e8-a770-43af-b7af-eb01320b5b34"
           },
           "cauHoi": "Will there be any regrets that might be surprising?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "90607ff1-0418-41da-a2ba-569f6ac0a7fa"
+                "$oid": "8a684a4f-bdbf-4fe5-a28e-5f15eca9589f"
               },
               "dapAn": "A. No, there won’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "75981ba7-300d-4e64-9fec-90de8cbd944d"
+                "$oid": "8d90853d-c192-4777-a8dd-c7f31366c2b4"
               },
               "dapAn": "B. Yes, there will.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "d5ee3511-a0a3-42ce-99af-a0e10d23da8a"
+                "$oid": "0194add2-9424-4bb6-8aea-932e01696cd1"
               },
               "dapAn": "C. Yes, there won’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "f40e0c3c-c0c4-4ca2-b004-d4cb37148bdb"
+                "$oid": "c37d2971-200e-4e30-b4cb-f6e8f6f78991"
               },
               "dapAn": "D. No, there will.",
               "isCorrect": false
@@ -543,34 +543,34 @@
         },
         {
           "_id": {
-            "$oid": "57fa04d7-2be8-402a-8b16-b9431764e862"
+            "$oid": "251035e0-590a-4c37-b710-9be42dfd9b8e"
           },
           "cauHoi": "What is the first regret about?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "054343c8-ae5a-4593-bdba-0d05b7ee703f"
+                "$oid": "00c37383-c4e4-42bf-8bbe-d83226e9d25d"
               },
               "dapAn": "A. people’s professional lives",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "c690aeed-676f-498d-afcb-ee47b880f5d6"
+                "$oid": "b4c555b9-2591-43a6-b591-a7e685ada890"
               },
               "dapAn": "B. getting promoted",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "8428ff9a-e81e-4b24-94a7-3012ca664f36"
+                "$oid": "6409e055-5741-4131-8f4d-93ea01d2a5d7"
               },
               "dapAn": "C. getting rich",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "3f6e8369-0a7e-4a78-8ce1-cf89f8b04315"
+                "$oid": "806950e9-497c-4e39-96c5-6d056453869c"
               },
               "dapAn": "D. landing a job",
               "isCorrect": false
@@ -579,34 +579,34 @@
         },
         {
           "_id": {
-            "$oid": "736eefa0-5ce5-4ba9-a611-feb6190ce730"
+            "$oid": "8317a129-8d17-4e46-8f0b-6e24d7995788"
           },
           "cauHoi": " What aspect of professional lives that the speaker is talking about?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "c0eb2007-04d9-4282-bca5-c93ce9606170"
+                "$oid": "b3372d34-aee5-47a3-8f95-d93155ce4833"
               },
               "dapAn": "A. salary",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "b88090ac-2c98-4326-b527-3237e0a6b1a4"
+                "$oid": "8ca56b23-5116-4e37-b6f1-af8265500b34"
               },
               "dapAn": "B. promotion",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "ec947370-ecb4-4261-b09b-a5ec1780d2d0"
+                "$oid": "3a866619-62c3-4ae2-a960-a4fd3f2db5dc"
               },
               "dapAn": "C. achievements",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "b0993b0a-e992-47c9-8c06-521a6d6bab7f"
+                "$oid": "05267384-592c-4684-a26b-195692efd311"
               },
               "dapAn": "D. time",
               "isCorrect": true
@@ -620,39 +620,39 @@
     },
     {
       "_id": {
-        "$oid": "04174584-d2c1-4548-8003-2981a7325985"
+        "$oid": "1c606491-6de6-4b71-b192-58b52c3b96eb"
       },
       "cauHoiNho": [
         {
           "_id": {
-            "$oid": "64f19bf7-489b-4e86-941b-f8cdb2211b90"
+            "$oid": "662efc96-2924-4110-a13b-3765d36aa432"
           },
           "cauHoi": "Which kind of relationship do people might regret about?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "9a584702-bd31-4a91-b2b6-dd0d86af7239"
+                "$oid": "d4c24d1d-0271-4f5a-8d32-a4449381f53f"
               },
               "dapAn": "A. relationship with ex-lovers",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "59968c7c-695b-43c2-82f6-2a3a1642fa61"
+                "$oid": "6616080f-bd54-40ea-8001-af50a831b861"
               },
               "dapAn": "B. relationship with family",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "61043356-d320-4df2-a1ea-ed9829cbd6dd"
+                "$oid": "f9450ac8-a8fd-4b3a-a956-a8e0208c8c45"
               },
               "dapAn": "C. relationship with relatives",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "e8c2ed76-8751-4065-8124-a5bb3472dffc"
+                "$oid": "05c54e00-a275-4597-be4e-9fb5987b8161"
               },
               "dapAn": "D. relationship with friends",
               "isCorrect": true
@@ -661,34 +661,34 @@
         },
         {
           "_id": {
-            "$oid": "705d68a8-1c5e-4402-b477-14296b72e2b8"
+            "$oid": "64b979e1-52e8-4dd5-a675-1935c5b48d30"
           },
           "cauHoi": "What are we afraid of doing sometimes?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "5a9db695-ff54-46ae-b65a-4701f6cc257d"
+                "$oid": "eba3efbc-097f-4506-9516-f3c0647a68a2"
               },
               "dapAn": "A. contacting your friends after a long time",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "0429c037-41d1-42b9-883c-f0ff148287a0"
+                "$oid": "7e6133ec-223f-443b-8f4e-168516e95838"
               },
               "dapAn": "B. being busy",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "1318336b-46dc-4862-8082-b0c16f73243a"
+                "$oid": "fa0ef93f-69ce-48a9-a752-950a0bb80bfa"
               },
               "dapAn": "C. moving forward",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "d67e5af3-f521-4caf-9449-55a8952b1a1b"
+                "$oid": "d85ea2b4-9ed1-49ec-8e21-5689645cb21d"
               },
               "dapAn": "D. getting over past relationships",
               "isCorrect": false
@@ -697,34 +697,34 @@
         },
         {
           "_id": {
-            "$oid": "bb39e3d0-1e9a-42bc-add8-f7a5ba33de66"
+            "$oid": "9214f2a3-e40c-47ee-b710-f6271b5387a0"
           },
           "cauHoi": "Why do we sometimes don’t contact our old friends? \n",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "96efba0b-64a0-465a-97c0-31f2a71d8ffe"
+                "$oid": "8802403a-10de-47e5-9524-405031c2405b"
               },
               "dapAn": "A. We’re afraid they might become angry.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "7ffc7bd4-b456-4d15-91a1-89e98e17591b"
+                "$oid": "2b102c07-1213-4b0e-9dd3-87fbe14d781d"
               },
               "dapAn": "B. We’re too lazy.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "f6d6accb-c6da-4013-90c9-ef769d5a8c1b"
+                "$oid": "00599c6b-f354-4635-b8d0-d54a55ba3ca3"
               },
               "dapAn": "C. We don’t care about them anymore.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "e22e2c7a-4efd-42c2-b19f-d7d13f0cd9e8"
+                "$oid": "8cb8aa1e-b854-4ecf-9167-e01ccc025b28"
               },
               "dapAn": "D. We hate them now.",
               "isCorrect": false
@@ -733,34 +733,34 @@
         },
         {
           "_id": {
-            "$oid": "e810e9ba-5a56-4b16-b5cc-ed0e705e076a"
+            "$oid": "3ed20535-34b4-483c-8c81-e0efcd6a3917"
           },
           "cauHoi": "Do your friends think the same about you?",
           "danhSachDapAn": [
             {
               "_id": {
-                "$oid": "6b47f868-0e53-410f-9d0d-bc42e6723091"
+                "$oid": "1f753291-f822-43fb-a1e7-bf14541cfa8d"
               },
               "dapAn": "A. Yes, they definitely do.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "fe017a16-0ba7-4592-8ca2-7dfd7b086fe2"
+                "$oid": "946b6ade-4252-4db9-bf08-8c8f29d2333e"
               },
               "dapAn": "B. No, they don’t.",
               "isCorrect": false
             },
             {
               "_id": {
-                "$oid": "62f4fd92-f587-4771-908b-dbe39c3b09e0"
+                "$oid": "686cd3cf-5813-4dde-b2d1-4c59c317d6c7"
               },
               "dapAn": "C. Yes, they probably do.",
               "isCorrect": true
             },
             {
               "_id": {
-                "$oid": "5d398f32-b29e-4eee-9351-b3eeba5d9221"
+                "$oid": "2a4f59d2-53f4-4ea2-a5ad-348b25f81b24"
               },
               "dapAn": "D. No, they absolutely don’t.",
               "isCorrect": false

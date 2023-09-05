@@ -2,17 +2,17 @@ const xlsx = require("xlsx");
 const fs = require("fs");
 const { v4: uuidv4, v4 } = require("uuid");
 
-const pathLesson = "/Users/manhnguyenhuu/Desktop/Jaxtina/jax2/app/screens/Courses/assets/data/4SKILLS_PRE_S/lessons/"
+// const pathLesson = "/Users/manhnguyenhuu/Desktop/Jaxtina/jax2/app/screens/Courses/assets/data/4SKILLS_PRE_S/lessons/"
 //Đường dẫn nơi lưu trữ file
-// const pathLesson = "./Course/";
+const pathLesson = "./CourseMTC/";
 //Lesson Cần Update | Để trống thì update toàn bộ lesson
 const lessonNeedUpdate = [];
 //Dạng Cần Update | Để trống thì update toàn bộ dạng
 const dangNeedUpdate = [];
 //Tên khóa học
-const khoaHocName = "4SKILLS_PRE_S"; // hoặc 4SKILLS_PRE_S hoặc hoặc 4SKILLS_S
+const khoaHocName = "4SKILLS_MTC"; // hoặc 4SKILLS_PRE_S hoặc hoặc 4SKILLS_S
 //Tên sheetName trong excel
-const _4SkillsSheetName = "4skills.PreS"; //4skills.PreS hoặc 4Skills.S
+const _4SkillsSheetName = "4skills.MTC"; //4skills.PreS hoặc 4Skills.S hoặc 4skills.TC hoặc 4skills.MTC
 
 const {
   COMMON,
@@ -22,14 +22,14 @@ const {
 } = require("./constants");
 const { changeSubEnglish } = require("./utils");
 
-var fileData = xlsx.readFileSync(COMMON.DATA_FILE.PRES);
+var fileData = xlsx.readFileSync(COMMON.DATA_FILE.MTC);
 var sheets = fileData.SheetNames;
 var danhSachCauHoi = [];
 var folderNames = [];
 
 var tuMoiData = xlsx.readFileSync(COMMON.DATA_FILE.TUMOI);
 var tuMoiSheetName = tuMoiData.SheetNames;
-console.log(tuMoiSheetName);
+// console.log(tuMoiSheetName);
 var tuMoiJson = xlsx.utils.sheet_to_json(tuMoiData.Sheets["Từ vựng"]);
 var tuMoiList = [];
 for (tu of tuMoiJson) {
@@ -123,7 +123,6 @@ function writeFileJson(data, folderName, index) {
 }
 
 function getDangBaiHoc(cacDangBaiHoc, dang, ten) {
-  // console.log(cacDangBaiHoc[0], dang)
   if (dang.toLowerCase() == "test") {
     // console.log(ten)
     if (ten.toLowerCase().includes("mini test")) {
@@ -212,7 +211,6 @@ for (lesson of _4Skills) {
         fs.mkdirSync(folderName);
       }
       folderNames.push(folderName);
-
       Object.values(cacDangCuaLesson).map((item, index) => {
         //   // P4
         indexError = index;
@@ -404,7 +402,7 @@ for (lesson of _4Skills) {
         if (
           item &&
           item.includes("P9.1") &&
-          (dangNeedUpdate.length === 0 || dangNeedUpdate.includes("P9.1"))
+          (dangNeedUpdate.length === 0 || dangNeedUpdate.includes("P9Cham1"))
         ) {
           // console.log(item, folderName)
           let data = {
@@ -439,7 +437,7 @@ for (lesson of _4Skills) {
                 isCorrect: dapAn["Đáp án đúng ?"] == "Đúng" ? true : false,
               });
             }
-            console.log(isNormalQuestionOrNot(doc), DanhSachDapAn);
+            // console.log(isNormalQuestionOrNot(doc), DanhSachDapAn);
             if (isNormalQuestionOrNot(doc)) {
               // console.log(doc.STT, lesson.Lesson)
               if (doc["Audio Link"]) {
@@ -451,7 +449,7 @@ for (lesson of _4Skills) {
                   cauHoi: doc["Nội dung"],
                   yNghia: doc["Giải thích"],
                   danhSachDapAn: [],
-                  cauHoi: khoaHocName + "_L" + lesson.Lesson + "/sounds/normal/" + doc["Audio Link"],
+                  audioUrl: khoaHocName + "_L" + lesson.Lesson + "/sounds/normal/" + doc["Audio Link"],
 
                 });
                 normalQuestionIndex = DanhSachCauHoi.length - 1;
@@ -475,7 +473,6 @@ for (lesson of _4Skills) {
           data.danhSachCauHoi = DanhSachCauHoi;
           writeFileJson(data, folderName, index + 1);
         }
-
         if (
           item &&
           item.includes("P2") &&
@@ -514,7 +511,7 @@ for (lesson of _4Skills) {
                   khoaHocName +
                   "_L" +
                   lesson.Lesson +
-                  "/sounds/normal/S_" +
+                  "/sounds/normal/" + khoaHocName.replaceAll("4SKILLS_", "") + "_" +
                   lesson.Lesson +
                   "_LISTENING_Listening " +
                   (i + 1) +
@@ -671,7 +668,6 @@ for (lesson of _4Skills) {
           data.danhSachCauHoi = DanhSachCauHoi;
           writeFileJson(data, folderName, index + 1);
         }
-
         if (
           item &&
           item.includes("P0.1") &&
@@ -787,10 +783,11 @@ for (lesson of _4Skills) {
             const doc = docs[i];
             DanhSachDapAn = [];
             const dapAns = filterByCauHoi(noiDapAnData, doc);
+            // console.log(dapAns)
             for (dapAn of dapAns) {
               const phienAm = dapAn["Ý nghĩa"].split("<br />")[0];
               const yNghia = dapAn["Ý nghĩa"].split("<br />")[1];
-              console.log(dapAn.Normal.split(":"));
+              // console.log(dapAn.Normal.split(":"));
               DanhSachDapAn.push({
                 _id: {
                   $oid: v4(),
@@ -853,7 +850,6 @@ for (lesson of _4Skills) {
           data.danhSachCauHoi = DanhSachCauHoi;
           writeFileJson(data, folderName, index + 1);
         }
-
         if (
           item &&
           item.includes("P0.2") &&
@@ -912,7 +908,6 @@ for (lesson of _4Skills) {
           data.danhSachCauHoi = DanhSachCauHoi;
           writeFileJson(data, folderName, index + 1);
         }
-
         if (
           item &&
           item.includes("P0") &&
@@ -1011,23 +1006,13 @@ for (lesson of _4Skills) {
             }
           }
 
-          // let newOrderedWordList = [...newWordList]
-          // for (let i = 0; i < newOrderedWordList.length; i++) {
-          //   for (let j = i; j < newOrderedWordList.length; j++) {
-          //     if (newOrderedWordList[i].length < newOrderedWordList[j].length) {
-          //       const item = newOrderedWordList[i]
-          //       newOrderedWordList[i] = newOrderedWordList[j]
-          //       newOrderedWordList[j] = item
-          //     }
-          //   }
-          // }
 
           let scriptVideos = filterByLesson(vocalbularyScript, lesson.Lesson);
           let scriptVideo = [];
           for (script of scriptVideos) {
             // console.log(script)
             const underlineScript = changeSubEnglish(
-              script["Tiếng Anh"].trim(),
+              script["Tiếng Anh"]?.trim(),
               tuMoiList
             );
             scriptVideo.push({
@@ -1050,7 +1035,8 @@ for (lesson of _4Skills) {
           let cauHoiIndexNumber = -1;
           let name = "";
           const regex = /[\W\d+\.wav]/g;
-
+          
+          console.log(videoPractice)
           practiceVideoTime.map((videoTime, index) => {
             // console.log("Video Practice: ", practiceVideoTime[index]);
             if (
@@ -1087,7 +1073,7 @@ for (lesson of _4Skills) {
                     +item["Câu hỏi"].trim().split(" ")[1].replaceAll(":", "") - 1;
                   // console.log(item["Câu hỏi"].trim().split(" ")[1].replaceAll(":", ""))
                   // cons
-                  console.log("Video Practice: ", practiceVideoTime[index]['Tổng số bài'], practiceIndex + 1);
+                  // console.log("Video Practice: ", practiceVideoTime[index]['Tổng số bài'], practiceIndex + 1);
   
                   DanhSachCauHoi.push({
                     timeStart: practiceIndex + 1 === 1 ? "0:00:00" : practiceVideoTime[index][`Practice ${practiceIndex}`], //time.split("-")[0].trim(),
@@ -1136,7 +1122,7 @@ for (lesson of _4Skills) {
                     cauHoiIndexNumber += 1;
                     if (item["Sai/Đúng"]) {
                       if (name == "P1") {
-                        console.log(item["audio"]?.search(regex), lesson.Lesson);
+                        // console.log(item["audio"]?.search(regex), lesson.Lesson);
                         DanhSachCauHoi[
                           practiceIndex
                         ].practice.danhSachCauHoi.push({
@@ -1421,10 +1407,10 @@ for (lesson of _4Skills) {
                   const grammar = grammarVideo.filter((e) => {
                     return e["Lesson "] == lesson.Lesson;
                   });
-                  // console.log(grammarVideo)
+                  console.log("Grammar: ", grammarVideo)
                   noiDungVideo.push({
                     timeEnd: item[key],
-                    noiDung: grammar[0]["Phần " + practiceIndex] ? grammar[0]["Phần " + practiceIndex]
+                    noiDung: (grammar[0] && grammar[0]["Phần " + practiceIndex]) ? grammar[0]["Phần " + practiceIndex]
                       .replaceAll("<i> ", " <i>")
                       .replaceAll("<b> ", " <b>")
                       .replaceAll("<span> ", " <span>")
